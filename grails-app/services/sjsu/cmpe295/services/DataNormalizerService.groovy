@@ -8,13 +8,19 @@ import grails.rest.*
 
 import groovy.json.JsonBuilder
 import org.codehaus.groovy.grails.web.json.JSONObject
+import org.codehaus.groovy.runtime.DateGroovyMethods
+import org.codehaus.groovy.runtime.DefaultGroovyMethodsSupport
 import sjsu.cmpe295.models.NormalizedSoldProperty
 import sjsu.cmpe295.models.NormalizedUnSoldProperty
 import sjsu.cmpe295.models.Property;
 import sjsu.cmpe295.models.SoldProperty
+import groovy.time.TimeCategory
+import java.text.SimpleDateFormat
+import java.util.Date
+import static java.util.Calendar.*
 
 
-class DataNormalizerService {
+class DataNormalizerService extends DateGroovyMethods {
 
 	static transactional = true
 	
@@ -28,21 +34,6 @@ class DataNormalizerService {
 	final def D1 = -1
 	final def D = -1.5
 	final def F = -2
-	
-	def printRecords() {
-		println("In class DataNormalizerService/getSearchResults()")
-		
-		// We need to assign scales to each attribute
-		
-		Property property = new Property()
-		def listprop = property.findAll()
-		listprop.each{println(it.getCity()) }
-		
-		// iterate through all records and do the scaling
-		//	scaleCity(it.get) }
-		
-		
-	}
 	
 	
 	def populateProperty(result)
@@ -90,33 +81,69 @@ class DataNormalizerService {
 		
 	}
 	
-	def public normalizeData(Double bathroom, Double bedroom,String city, Double fArea,Double lArea,Double lastSoldPrice, Double tax, String useCode, Double zestAmt,Double zestHigh, Double zestLow, Double zestVal, Double zpid )
-	{	
+	
+	def public normalizeData(Double bathroom, Double bedroom,String city, Double fArea, String lastSoldDate, Double lastSoldPrice, Double lArea, Double tax, String useCode,Double yearBuilt, Double zestAmt,Double zestHigh, Double zestLow, Double zestVal, Double zpid )
+	{	def property
 		String result= "failure"
 		try 
-		{
-			NormalizedSoldProperty property = new NormalizedSoldProperty();
-			
+		{	
+			// if ZPID exists then we are just updating the record
+			// else we are adding a new record
+
+			if(NormalizedSoldProperty.findByZpID(zpid).id != 0)
+				property = NormalizedSoldProperty.findByZpID(zpid) //update
+			else
+				property = new NormalizedSoldProperty() // insert
+				 
 			// Set external factors
 			// These factors are manually entered from areavibes.com
 			property = populateExternalFactors(property,city.replace(" ", ""))
+			
+			// set house age and lastSoldDate
+			// These are required for correct prediction
+			
+			if(yearBuilt != 0 )
+			{
+				def age = (new GregorianCalendar()).get(Calendar.YEAR) - yearBuilt
+				println("Age: "+ age)
+				property.setAge(age);
+			}
+			else
+			{
+				property.setAge(0);
+			}
+			
+			if(lastSoldDate != 0 || lastSoldDate != "0")
+			{
+				def today = new Date()
+				def sdf = new SimpleDateFormat("MM/dd/yyyy")
+				Date lastDate = sdf.parse(lastSoldDate)
+				def days = (Double)DateGroovyMethods.minus(today,lastDate)
+				property.setDaysPending(days)
+			}
+			else
+			{	
+				property.setDaysPending(0)
+			}
 			
 			//populateInternal factors
 			property = populateInternalFactors(property, bathroom, bedroom, fArea, lArea,lastSoldPrice,  tax,  useCode,  zestAmt, zestHigh,  zestLow,  zestVal,  zpid)
 			
 			property.setCity(city.replace(" ", "").toLowerCase())
 			
+			
+			// Algorithm to calculate price Appreciation factor
 			if(lastSoldPrice > zestAmt )
 				property.setPriceAppreciated(true)
 			else
 				property.setPriceAppreciated(false)
 			
 				
-			println(property.getAmenities());
-			println(property.getCity())
 			//println(property.getPriceAppreciated())
-			property.save(flush:true)
-			println(property.getErrors())
+			property.save(flush:true) // save to Database
+			
+			println(property.getErrors()) //check errors
+			
 			if(property.getErrors().toString().contains(" 0 "))
 				result = "success"
 			else
@@ -141,16 +168,8 @@ class DataNormalizerService {
 		
 		switch(city.toLowerCase())
 		{	
-			// with reference to areavibes.com
-			// <100 = 1
-			// =100 = 2
-			// <120 = 3
-			// <140 = 4
-			// >140 = 5
-			// >160 = 6
 			
 			case "alameda":
-				//property.setCostofliving(-3)
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(B)
@@ -160,7 +179,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "brisbane":
-				//scaledCity = -3
 				property.setAmenities(A)
 				property.setCostofliving(F)
 				property.setCrimerate(B1)
@@ -170,7 +188,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "belmont":
-				//scaledCity = -6
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -180,7 +197,6 @@ class DataNormalizerService {
 				property.setWeather(B1)
 				break;
 			case "campbell":
-				//scaledCity = -5
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(C1)
@@ -190,7 +206,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "dalycity":
-				//scaledCity = -5
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -200,7 +215,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "eastpaloalto":
-				//scaledCity = -4
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(D)
@@ -210,7 +224,6 @@ class DataNormalizerService {
 				property.setWeather(B1)
 				break;
 			case "elgranada" :
-				//scaledCity = -6
 				property.setAmenities(D)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -220,7 +233,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "felton" :
-				//scaledCity = -4
 				property.setAmenities(D)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -230,7 +242,6 @@ class DataNormalizerService {
 				property.setWeather(C1)
 				break;
 			case "fostercity":
-				//scaledCity = -6
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -240,7 +251,6 @@ class DataNormalizerService {
 				property.setWeather(B1)
 				break;
 			case "fremont" :
-				//scaledCity = -6
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(A1)
@@ -378,7 +388,6 @@ class DataNormalizerService {
 				property.setWeather(B)
 				break;
 			case "sanfrancisco":
-				//scaledCity = -6
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(F)
@@ -397,7 +406,6 @@ class DataNormalizerService {
 				property.setWeather(B1)
 				break;
 			case "sanjose":
-				//scaledCity = -5
 				property.setAmenities(A1)
 				property.setCostofliving(F)
 				property.setCrimerate(B)
@@ -496,8 +504,6 @@ class DataNormalizerService {
 	
 	def populateInternalFactors(NormalizedSoldProperty property,Double  bathroom,Double  bedroom,Double fArea,Double lArea,Double lastSoldPrice, Double tax,String useCode,Double zestAmt,Double zestHigh,Double zestLow,Double zestVal, Double zpid)
 	{	
-		property.setZpID(zpid)
-		
 		//scale bedrooms and bathroom
 		property = scaleBathRooms(property, bathroom)
 		property = scaleRooms(property, bedroom)

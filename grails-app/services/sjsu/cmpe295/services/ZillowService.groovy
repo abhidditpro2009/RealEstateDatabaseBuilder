@@ -18,11 +18,13 @@ class ZillowService {
 	
 	def getSearchResults(IpZip,IpAddress) {
 		println("In class ZillowService/getSearchResults()")
-		//query = URLEncoder.encode(query, "UTF-8")
-		//println(query)
 		
 		IpAddress = IpAddress.toString().replace(' ', '+')
-		println("IPAddress: "+ IpAddress )
+		println("IPAddress: "+ IpAddress ) // jus for server log
+		
+		// Below are 10 sets of keys of zws ids ... We have a limit of 1000 zillow calls per day
+		// Thus use these one by one as we exhaust the calls. Rest are commented
+		
 		def data =new URL("http://www.zillow.com/webservice/GetSearchResults.htm?zws-id=X1-ZWz1bcy5v58por_avwne&address="+IpAddress+"&citystatezip="+IpZip).getText()
 		//def data = new URL("http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1b9amgyx0y3_4n5nu&address="+IpAddress+"&citystatezip="+IpZip).getText()
 		//def data = new URL("http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1drkw2tiyob_3wguv&address="+IpAddress+"&citystatezip="+IpZip).getText()
@@ -88,31 +90,45 @@ class ZillowService {
 			// ZpId Attibute
 			result.zpid = xml.response.results.result.zpid
 			
-			populateProperty(result)
+			// Ask user if he wants to populate sold or unsold property
+			printf("Enter 1 to populate sold property \n")
+			printf("Enter 2 to populate unsold property \n")
+			BufferedReader br = new BufferedReader(new InputStreamReader(System.in))
+			def input = br.readLine()
+			
+			if(input == "1" || input == "1")
+				Object property = new SoldProperty()
+			else if(input == "2" || input == "2")
+				Object property = new Property()
+			else
+				{	// exit function
+					printf("Invalid input")
+					println("Record not inserted" )
+					return
+			}
+				
+			
+			populateProperty(result,property)
 		}
 		else
+		{
 			result.erroCode = "failed"
 			println("Record not inserted")
-			// Local Real Estate Attributes
-			/*
-			def localRealEstate = [:].withDefault {0 }
-			localRealEstate.zindexValue = xml.response.results.result.localRealEstate.region.zindexValue != '' ? xml.response.results.result.localRealEstate.region.zindexValue : 0
-			localRealEstate.zindexOneYearChange = xml.response.results.result.localRealEstate.region.zindexOneYearChange != '' ? xml.response.results.result.localRealEstate.region.zindexOneYearChange : 0
-			result.localRealEstate = localRealEstate
-			*/
-			// Links data can be added Later ***IMP***
-			
+		}	
 		return result
 	}
 	
 	
-	def populateProperty(result)
-	{
+	def populateProperty(result,Object property)
+	{	
+		// WE need to populat the data returned by Zillow into the datastore
+		// We are using GORM to acheive this via property domain class
+		
+		//successful input
 		try
 		{
 			println(result.toString())
-			SoldProperty property = new SoldProperty()
-			//Property property = new Property()
+		
 			property.setZpID(result.zpid.toDouble())
 			property.setAddress(result.address.street.toString())
 			property.setCity(result.address.city.toString())
@@ -145,7 +161,7 @@ class ZillowService {
 		}
 		catch(Exception e)
 		{
-			//println("Record not inserted" )
+			println("Record not inserted" )
 			result.erroCode = "failed"
 		}
 		

@@ -36,8 +36,8 @@ class DataCollectorService {
 			csvIterator = CsvParser.parseCsv( it )
 			csvIterator.each {
 				String res = dataNormalizerService.normalizeData(it[3].toString().toDouble(),
-																it[4].toString().toDouble(),it[5].toString(),it[6].toString().toDouble(),it[8].toString().toDouble(),
-																it[11].toString().toDouble(),it[13].toString().toDouble(),it[16].toString(),
+																it[4].toString().toDouble(),it[5].toString(),it[6].toString().toDouble(),it[7].toString(),it[8].toString().toDouble(),
+																it[11].toString().toDouble(),it[13].toString().toDouble(),it[16].toString(),it[17].toString().toDouble(),
 																it[18].toString().toDouble(),it[19].toString().toDouble(),it[20].toString().toDouble(),it[21].toString().toDouble(),
 																it[23].toString().toDouble());
 				noOfRecordsScanned++;
@@ -50,6 +50,6 @@ class DataCollectorService {
 		  }
 		
 		println("Total number of records scanned: "+ noOfRecordsScanned)
-		println("Total number of records inserted: "+ noOfRowsInserted)
+		println("Total number of records inserted/updated: "+ noOfRowsInserted)
 	}
 }
