@@ -1,0 +1,58 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,2330 University Ave #290,2.0,3.0,East Palo Alto,"1,223 sqft","Dec 31, 1969",$0,37.46899,-122.14065,CA,Condo,460000,,94303,,54,,For Sale,SAN MATEO
+2,1265 Runnymede St,3.0,5.0,East Palo Alto,"2,660 sqft","Dec 31, 1969",$0,37.469337,-122.127815,CA,Single-Family Home,818000,,94303,,38,,For Sale,SAN MATEO
+3,1190 Garden St,3.0,3.0,East Palo Alto,"2,510 sqft","Dec 31, 1969",$0,37.46671,-122.12871,CA,Single-Family Home,565000,,94303,,46,,For Sale,SAN MATEO
+4,2330 University Ave #100,2.0,2.0,East Palo Alto,"1,072 sqft","Dec 31, 1969",$0,37.46899,-122.14065,CA,Condo,405000,,94303,,58,,For Sale,SAN MATEO
+5,315 Garden St,2.0,3.0,East Palo Alto,"1,130 sqft","Dec 31, 1969",$0,37.467438,-122.145935,CA,Single-Family Home,470000,,94303,,49,,For Sale,SAN MATEO
+6,2175 Cooley Ave,4.0,6.0,East Palo Alto,"2,451 sqft","Dec 31, 1969",$0,37.464836,-122.13963,CA,Single-Family Home,1098888,,94303,,63,,For Sale,SAN MATEO
+7,1428 Camellia Dr,1.0,2.0,East Palo Alto,840 sqft,"Dec 31, 1969",$0,37.46055,-122.12584,CA,Single-Family Home,354888,,94303,,32,,For Sale,SAN MATEO
+8,1033 Ruth Ct,1.0,3.0,East Palo Alto,980 sqft,"Dec 31, 1969",$0,37.46921,-122.131966,CA,Single-Family Home,525000,,94303,,48,,For Sale,SAN MATEO
+9,1109 Jervis Ave,2.0,4.0,East Palo Alto,"1,400 sqft","Dec 31, 1969",$0,37.470196,-122.15305,CA,Single-Family Home,550000,,94303,,55,,For Sale,SAN MATEO
+10,1982 W Bayshore Rd #121,2.0,2.0,East Palo Alto,"1,197 sqft","Dec 31, 1969",$0,37.452297,-122.12854,CA,Condo,600000,,94303,,34,,For Sale,SAN MATEO
+11,Runnymede St,,,East Palo Alto,,"Dec 31, 1969",$0,37.468867,-122.144413,CA,Lot/Land,1255000,,94303,,,,For Sale,SAN MATEO
+12,2216 Euclid Ave,1.0,2.0,East Palo Alto,900 sqft,"Dec 31, 1969",$0,37.466064,-122.14309,CA,Single-Family Home,475000,,94303,,66,,For Sale,SAN MATEO
+13,710 Runnymede St,2.0,5.0,East Palo Alto,"1,900 sqft","Dec 31, 1969",$0,37.468216,-122.13902,CA,Single-Family Home,999999,,94303,,55,,For Sale,SAN MATEO
+14,468 Wisteria Dr,1.0,3.0,East Palo Alto,"1,110 sqft","Dec 31, 1969",$0,37.463413,-122.128136,CA,Single-Family Home,625000,,94303,,46,,For Sale,SAN MATEO
+15,2412 Fordham St,1.0,3.0,East Palo Alto,"1,030 sqft","Dec 31, 1969",$0,37.472065,-122.13678,CA,Single-Family Home,489000,,94303,,58,,For Sale,SAN MATEO
+16,1885 E Bayshore Rd #31,2.0,2.0,East Palo Alto,992 sqft,"Dec 31, 1969",$0,37.45632,-122.13136,CA,Mobile/Manufactured,129000,,94303,,38,,For Sale,SAN MATEO
+17,2219 Oakwood Dr,1.0,3.0,East Palo Alto,"1,103 sqft","Dec 31, 1969",$0,37.46736,-122.14753,CA,Single-Family Home,399999,,94303,,46,,For Sale,SAN MATEO
+18,990 Garden St,,,East Palo Alto,,"Dec 31, 1969",$0,37.466255,-122.13296,CA,Lot/Land,1254000,,94303,,43,,For Sale,SAN MATEO
+19,Laurel Ave,1.0,3.0,East Palo Alto,"1,290 sqft","Dec 31, 1969",$0,37.47124,-122.15126,CA,Single-Family Home,282000,,94303,,48,,For Sale,SAN MATEO
+20,Verbena Dr,1.0,3.0,East Palo Alto,"1,570 sqft","Dec 31, 1969",$0,37.457874,-122.12858,CA,Single-Family Home,475353,,94303,,45,,For Sale,SAN MATEO
+21,Oakwood Dr,1.0,3.0,East Palo Alto,"1,080 sqft","Dec 31, 1969",$0,37.470024,-122.146706,CA,Single-Family Home,375000,,94303,,51,,For Sale,SAN MATEO
+22,Myrtle St,1.0,5.0,East Palo Alto,"1,670 sqft","Dec 31, 1969",$0,37.463257,-122.13373,CA,Single-Family Home,409586,,94303,,54,,For Sale,SAN MATEO
+23,Xavier St,1.0,3.0,East Palo Alto,"1,070 sqft","Dec 31, 1969",$0,37.480293,-122.138916,CA,Single-Family Home,424284,,94303,,32,,For Sale,SAN MATEO
+24,Hazelwood Way,2.0,3.0,East Palo Alto,"1,100 sqft","Dec 31, 1969",$0,37.473667,-122.142876,CA,Single-Family Home,303884,,94303,,54,,For Sale,SAN MATEO
+25,Hunter St,1.0,3.0,East Palo Alto,"1,070 sqft","Dec 31, 1969",$0,37.480206,-122.13804,CA,Single-Family Home,299602,,94303,,31,,For Sale,SAN MATEO
+26,Bay Rd,1.0,2.0,East Palo Alto,900 sqft,"Dec 31, 1969",$0,37.47145,-122.14144,CA,Single-Family Home,486253,,94303,,54,,For Sale,SAN MATEO
+27,Green St,2.0,3.0,East Palo Alto,"1,670 sqft","Dec 31, 1969",$0,37.46422,-122.1377,CA,Single-Family Home,433437,,94303,,57,,For Sale,SAN MATEO
+28,Green St,1.0,3.0,East Palo Alto,"1,130 sqft","Dec 31, 1969",$0,37.464596,-122.14874,CA,Single-Family Home,798040,,94303,,51,,For Sale,SAN MATEO
+29,Buchanan Ct,,,East Palo Alto,,"Dec 31, 1969",$0,37.469387,-122.133644,CA,Unspecified,762446,,94303,,49,,For Sale,SAN MATEO
+30,Daphne Way,1.0,2.0,East Palo Alto,820 sqft,"Dec 31, 1969",$0,37.45424,-122.12562,CA,Single-Family Home,463692,,94303,,37,,For Sale,SAN MATEO
+31,Addison Ave,1.0,2.0,East Palo Alto,"1,170 sqft","Dec 31, 1969",$0,37.468166,-122.14787,CA,Single-Family Home,471860,,94303,,51,,For Sale,SANTA CLARA
+32,W Bayshore Rd,2.0,3.0,East Palo Alto,"1,371 sqft","Dec 31, 1969",$0,37.464104,-122.14768,CA,Multi-Family Home,516000,,94303,,51,,For Sale,SANTA CLARA
+33,Dumbarton Ave,9.0,9.0,East Palo Alto,"7,078 sqft","Dec 31, 1969",$0,37.46466,-122.14695,CA,Multi-Family Home,413269,,94303,,71,,For Sale,SAN MATEO
+34,Euclid Ave,,,East Palo Alto,"4,730 sqft","Dec 31, 1969",$0,37.460842,-122.14452,CA,Multi-Family Home,298068,,94303,,65,,For Sale,SAN MATEO
+35,Newell Rd,,,East Palo Alto,"12,822 sqft","Dec 31, 1969",$0,37.455982,-122.136734,CA,Multi-Family Home,493615,,94303,,57,,For Sale,SAN MATEO
+36,E Okeefe St,,,East Palo Alto,"18,900 sqft","Dec 31, 1969",$0,37.46212,-122.1483,CA,Multi-Family Home,980958,,94303,,69,,For Sale,SAN MATEO
+37,Donohoe St,5.0,6.0,East Palo Alto,"3,730 sqft","Dec 31, 1969",$0,37.46304,-122.14611,CA,Multi-Family Home,402394,,94303,,65,,For Sale,SAN MATEO
+38,E Okeefe #306,1.0,1.0,East Palo Alto,619 sqft,"Dec 31, 1969",$0,37.462334,-122.149756,CA,Condo,209458,,94303,,,,For Sale,SAN MATEO
+39,Illinois St,1.0,3.0,East Palo Alto,970 sqft,"Dec 31, 1969",$0,37.475933,-122.13545,CA,Single-Family Home,408181,,94303,,48,,For Sale,SAN MATEO
+40,Donohoe St,3.0,5.0,East Palo Alto,"1,900 sqft","Dec 31, 1969",$0,37.462475,-122.13533,CA,Single-Family Home,409315,,94303,,62,,For Sale,SAN MATEO
+41,Fordham St,1.0,3.0,East Palo Alto,"1,010 sqft","Dec 31, 1969",$0,37.48237,-122.13395,CA,Single-Family Home,220000,,94303,,25,,For Sale,SAN MATEO
+42,Oakwood Dr,1.0,3.0,East Palo Alto,980 sqft,"Dec 31, 1969",$0,37.47057,-122.14658,CA,Single-Family Home,407814,,94303,,49,,For Sale,SAN MATEO
+43,Fordham St,1.0,3.0,East Palo Alto,"1,010 sqft","Dec 31, 1969",$0,37.47347,-122.137085,CA,Single-Family Home,357843,,94303,,62,,For Sale,SAN MATEO
+44,Glen Way,1.0,2.0,East Palo Alto,"1,190 sqft","Dec 31, 1969",$0,37.469215,-122.143616,CA,Single-Family Home,477000,,94303,,49,,For Sale,SAN MATEO
+45,Camellia Dr,1.0,3.0,East Palo Alto,"1,110 sqft","Dec 31, 1969",$0,37.456715,-122.12715,CA,Single-Family Home,478000,,94303,,40,,For Sale,SAN MATEO
+46,Donohoe St,2.0,2.0,East Palo Alto,"1,430 sqft","Dec 31, 1969",$0,37.463192,-122.14734,CA,Unspecified,487421,,94303,,69,,For Sale,SAN MATEO
+47,Wisteria Dr,1.0,3.0,East Palo Alto,980 sqft,"Dec 31, 1969",$0,37.456356,-122.12481,CA,Single-Family Home,488000,,94303,,40,,For Sale,SAN MATEO
+48,Dumbarton Ave,2.0,4.0,East Palo Alto,"1,440 sqft","Dec 31, 1969",$0,37.463413,-122.14727,CA,Multi-Family Home,562561,,94303,,63,,For Sale,SAN MATEO
+49,Jervis Ave,1.0,3.0,East Palo Alto,960 sqft,"Dec 31, 1969",$0,37.472427,-122.1517,CA,Single-Family Home,228000,,94303,,51,,For Sale,SAN MATEO
+50,Azalia Dr,1.0,3.0,East Palo Alto,"1,110 sqft","Dec 31, 1969",$0,37.46149,-122.129196,CA,Single-Family Home,392000,,94303,,48,,For Sale,SAN MATEO
+51,Oconnor St,,,East Palo Alto,,"Dec 31, 1969",$0,37.460938,-122.14848,CA,Unspecified,628000,,94025,The Willows,57,,For Sale,SAN MATEO
+52,Bell St,,,East Palo Alto,,"Dec 31, 1969",$0,37.465645,-122.14273,CA,Unspecified,462698,,94303,,65,,For Sale,SAN MATEO
+53,Bay Rd,2.0,2.0,East Palo Alto,,"Dec 31, 1969",$0,37.472855,-122.13191,CA,Single-Family Home,369152,,94303,,60,,For Sale,SAN MATEO
+54,Clarke Ave,2.0,3.0,East Palo Alto,"1,280 sqft","Dec 31, 1969",$0,37.454803,-122.13444,CA,Single-Family Home,547533,,94303,,54,,For Sale,SAN MATEO
+55,Tulane Ave,1.0,3.0,East Palo Alto,"1,450 sqft","Dec 31, 1969",$0,37.481056,-122.13885,CA,Single-Family Home,551000,,94303,,37,,For Sale,SAN MATEO
+56,Fordham St,1.0,3.0,East Palo Alto,"1,060 sqft","Dec 31, 1969",$0,37.478493,-122.13673,CA,Single-Family Home,560000,,94303,,48,,For Sale,SAN MATEO
+57,Circle Dr,1.0,3.0,East Palo Alto,"1,430 sqft","Dec 31, 1969",$0,37.457047,-122.13937,CA,Single-Family Home,570811,,94303,,54,,For Sale,SAN MATEO

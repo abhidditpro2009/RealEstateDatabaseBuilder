@@ -1,0 +1,31 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,737 San Bruno Ave #6,2.0,2.0,Brisbane,936 sqft,"Dec 31, 1969",$0,37.68021,-122.39768,CA,Condo,398000,,94005,,51,,For Sale,SAN MATEO
+2,358 Mendocino St,2.0,3.0,Brisbane,650 sqft,"Dec 31, 1969",$0,37.68246,-122.402916,CA,Single-Family Home,415000,,94005,,69,,For Sale,SAN MATEO
+3,200 Valley Dr #6,,,Brisbane,"1,617 sqft","Dec 31, 1969",$0,37.6885,-122.40328,CA,Income/Investment,399888,,94005,,51,,For Sale,SAN MATEO
+4,56 Sierra Point Rd,2.5,4.0,Brisbane,"1,730 sqft","Dec 31, 1969",$0,37.68416,-122.40596,CA,Single-Family Home,858000,,94005,,63,,For Sale,SAN MATEO
+5,213 Visitacion Ave,,1.0,Brisbane,710 sqft,"Dec 31, 1969",$0,37.68282,-122.40309,CA,Single-Family Home,425000,,94005,,60,,For Sale,SAN MATEO
+6,35 San Benito Rd,3.0,5.0,Brisbane,"2,525 sqft","Dec 31, 1969",$0,37.6809,-122.40503,CA,Single-Family Home,1098000,,94005,,66,,For Sale,SAN MATEO
+7,373 Klamath St,,,Brisbane,"5,365 sqft","Dec 31, 1969",$0,37.681446,-122.40339,CA,Multi-Family Home,2100000,,94005,,71,,For Sale,SAN MATEO
+8,200 Valley Dr #15,0.5,,Brisbane,"1,680 sqft","Dec 31, 1969",$0,37.6885,-122.40328,CA,Income/Investment,435000,,94005,,54,,For Sale,SAN MATEO
+9,311 Mendocino St,1.0,2.0,Brisbane,720 sqft,"Dec 31, 1969",$0,37.681995,-122.40225,CA,Single-Family Home,538000,,94005,,62,,For Sale,SAN MATEO
+10,548 Alvarado St,2.0,3.0,Brisbane,"1,090 sqft","Dec 31, 1969",$0,37.681267,-122.40395,CA,Single-Family Home,548000,,94005,,60,,For Sale,SAN MATEO
+11,161 Humboldt Rd,3.0,3.0,Brisbane,"1,500 sqft","Dec 31, 1969",$0,37.684185,-122.406975,CA,Single-Family Home,828000,,94005,,60,,For Sale,SAN MATEO
+12,Stafford Plan,2.5,4.0,Brisbane,"3,445 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1354995,,94005,,46,,For Sale,SAN MATEO
+13,Everton Plan,2.5,3.0,Brisbane,"2,125 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1184995,,94005,,46,,For Sale,SAN MATEO
+14,Highgate Plan,3.5,4.0,Brisbane,"2,865 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1284995,,94005,,46,,For Sale,SAN MATEO
+15,Ashgrove Plan,2.5,4.0,Brisbane,"2,900 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1316995,,94005,,46,,For Sale,SAN MATEO
+16,Carindale Plan,2.5,4.0,Brisbane,"3,290 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1349995,,94005,,46,,For Sale,SAN MATEO
+17,Birkdale Plan,2.5,4.0,Brisbane,"2,985 sqft","Dec 31, 1969",$0,37.69692,-122.42056,CA,Single-Family Home,1334995,,94005,,46,,For Sale,SAN MATEO
+18,107 Visitacion Ave,,,Brisbane,,"Dec 31, 1969",$0,37.68339,-122.40276,CA,Multi-Family Home,1050000,,94005,,60,,For Sale,SAN MATEO
+19,Elfin Ct,2.0,3.0,Brisbane,"1,663 sqft","Dec 31, 1969",$0,37.693977,-122.41973,CA,Condo,548000,,94005,,28,,For Sale,SAN MATEO
+20,Monterey St,1.0,2.0,Brisbane,780 sqft,"Dec 31, 1969",$0,37.6836,-122.4003,CA,Single-Family Home,510255,,94005,,62,,For Sale,SAN MATEO
+21,Humboldt Rd,2.0,3.0,Brisbane,"2,190 sqft","Dec 31, 1969",$0,37.677765,-122.39849,CA,Single-Family Home,417000,,94005,,54,,For Sale,SAN MATEO
+22,Swallowtail Ct,2.0,2.0,Brisbane,"1,070 sqft","Dec 31, 1969",$0,37.693756,-122.41963,CA,Condo,339100,,94005,,29,,For Sale,SAN MATEO
+23,San Bruno Ave,1.0,2.0,Brisbane,800 sqft,"Dec 31, 1969",$0,37.67845,-122.39592,CA,Single-Family Home,460000,,94005,,35,,For Sale,SAN MATEO
+24,Address Not Disclosed,,,Brisbane,,"Dec 31, 1969",$0,37.679657,-122.39979,CA,Unspecified,70000,,94005,,55,,For Sale,SAN MATEO
+25,San Bruno Ave,,,Brisbane,,"Dec 31, 1969",$0,37.679855,-122.397766,CA,Unspecified,259396,,94005,,42,,For Sale,SAN MATEO
+26,Trinity Rd,2.0,4.0,Brisbane,"1,310 sqft","Dec 31, 1969",$0,37.683018,-122.407585,CA,Single-Family Home,590000,,94005,,54,,For Sale,SAN MATEO
+27,Ross St #16,,,Brisbane,,"Dec 31, 1969",$0,37.678993,-122.399666,CA,Unspecified,544000,,94005,,52,,For Sale,SAN MATEO
+28,San Benito Rd,1.0,3.0,Brisbane,770 sqft,"Dec 31, 1969",$0,37.68071,-122.4052,CA,Single-Family Home,665695,,94005,,65,,For Sale,SAN MATEO
+29,Monterey St,2.0,3.0,Brisbane,"1,140 sqft","Dec 31, 1969",$0,37.6835,-122.40444,CA,Single-Family Home,696790,,94005,,68,,For Sale,SAN MATEO
+30,Klamath St,,,Brisbane,,"Dec 31, 1969",$0,37.681555,-122.401921,CA,Unspecified,640000,,94005,,,,For Sale,SAN MATEO

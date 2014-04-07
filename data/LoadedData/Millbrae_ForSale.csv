@@ -1,0 +1,23 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94030,1140 Fernwood Dr,2,3,Millbrae,"1,380 sqft",31-Dec-69,$0 ,37.60455,-122.41859,CA,Single-Family Home,929000,,,,35,,For Sale,SAN MATEO
+94030,135 Magnolia Ave,,,Millbrae,"3,370 sqft",31-Dec-69,$0 ,37.59843,-122.39062,CA,Multi-Family Home,1688000,,,,72,,For Sale,SAN MATEO
+94030,87 Colorados Dr,3,4,Millbrae,"2,400 sqft",31-Dec-69,$0 ,37.5934,-122.40857,CA,Single-Family Home,1340000,,,,22,,For Sale,SAN MATEO
+94030,528 Santa Florita Ave,1.5,3,Millbrae,"1,260 sqft",31-Dec-69,$0 ,37.610214,-122.41157,CA,Single-Family Home,928000,,,,46,,For Sale,SAN MATEO
+94030,643 Lomita Ave,1,2,Millbrae,950 sqft,31-Dec-69,$0 ,37.609352,-122.41528,CA,Single-Family Home,899000,,,,42,,For Sale,SAN MATEO
+94030,79 Conejo Dr,3,5,Millbrae,"2,770 sqft",31-Dec-69,$0 ,37.586327,-122.40202,CA,Single-Family Home,1948000,,,,18,,For Sale,SAN MATEO
+94030,1396 El Camino Real #208,2,2,Millbrae,"1,084 sqft",31-Dec-69,$0 ,37.610725,-122.40114,CA,Condo,499000,,,,68,,For Sale,SAN MATEO
+94030,1180 Tuolumne Ct,3,3,Millbrae,500 sqft,31-Dec-69,$0 ,37.59674,-122.41235,CA,Single-Family Home,1198000,,,,17,,For Sale,SAN MATEO
+94030,1220 Murchison Dr,5,4,Millbrae,"4,230 sqft",31-Dec-69,$0 ,37.59111,-122.400185,CA,Single-Family Home,2938000,,,,35,,For Sale,SAN MATEO
+94030,1240 Murchison Dr,2,3,Millbrae,"2,056 sqft",31-Dec-69,$0 ,37.59094,-122.40064,CA,Single-Family Home,1638000,,,,29,,For Sale,SAN MATEO
+94030,1176 Millbrae Ave,3.5,4,Millbrae,"3,060 sqft",31-Dec-69,$0 ,37.59183,-122.40257,CA,Single-Family Home,1798000,,,,37,,For Sale,SAN MATEO
+94030,El Capitan Dr,,,Millbrae,,31-Dec-69,$0 ,37.596067,-122.41085,CA,Lot/Land,1500000,,,,,,For Sale,SAN MATEO
+94030,321 Magnolia Ave,3,4,Millbrae,"2,600 sqft",31-Dec-69,$0 ,37.600395,-122.39297,CA,Single-Family Home,1399000,,,,71,,For Sale,SAN MATEO
+94030,842 Clearfield Dr,,,Millbrae,,31-Dec-69,$0 ,37.59674,-122.409645,CA,Lot/Land,800000,,,,38,,For Sale,SAN MATEO
+94030,Ridgewood Dr,2,3,Millbrae,"1,460 sqft",31-Dec-69,$0 ,37.60292,-122.41524,CA,Single-Family Home,635500,,,,37,,For Sale,SAN MATEO
+94030,Paramount Dr,2,4,Millbrae,"1,650 sqft",31-Dec-69,$0 ,37.60678,-122.4071,CA,Single-Family Home,876411,,,,60,,For Sale,SAN MATEO
+94030,Address Not Disclosed,2,3,Millbrae,"1,750 sqft",31-Dec-69,$0 ,37.601704,-122.4152,CA,Single-Family Home,100000,,,,29,,For Sale,SAN MATEO
+94030,Millbrae Ave,2,3,Millbrae,"3,470 sqft",31-Dec-69,$0 ,37.59284,-122.400345,CA,Single-Family Home,500000,,,,46,,For Sale,SAN MATEO
+94030,Roblar Ave,1,3,Millbrae,"1,170 sqft",31-Dec-69,$0 ,37.60348,-122.3848,CA,Single-Family Home,614000,,,,66,,For Sale,SAN MATEO
+94030,Robert Pl,1,3,Millbrae,"1,290 sqft",31-Dec-69,$0 ,37.60398,-122.39992,CA,Single-Family Home,780000,,,,75,,For Sale,SAN MATEO
+94030,Cedar St,,,Millbrae,,31-Dec-69,$0 ,37.609512,-122.39494,CA,Unspecified,600750,,,,77,,For Sale,SAN MATEO
+94030,Cedar St,,,Millbrae,,31-Dec-69,$0 ,37.609695,-122.39472,CA,Unspecified,600750,,,,74,,For Sale,SAN MATEO

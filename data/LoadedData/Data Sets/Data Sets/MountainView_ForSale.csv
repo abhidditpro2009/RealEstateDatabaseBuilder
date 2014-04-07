@@ -1,0 +1,67 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,191 E El Camino Real #137,2.0,3.0,Mountain View,"1,120 sqft","Dec 31, 1969",$0,37.376835,-122.07045,CA,Condo,159000,,94040,Martens-Carmelita,57,38,For Sale,SANTA CLARA
+2,264 N Whisman Rd #17,1.0,2.0,Mountain View,"1,087 sqft","Dec 31, 1969",$0,37.39622,-122.06021,CA,Condo,549000,,94043,Whisman Station,49,42,For Sale,SANTA CLARA
+3,1112 Blackfield Way,3.0,4.0,Mountain View,"1,808 sqft","Dec 31, 1969",$0,37.390266,-122.0993,CA,Single-Family Home,1250000,,94040,,52,41,For Sale,SANTA CLARA
+4,369 Pacific Dr,3.0,2.0,Mountain View,"1,173 sqft","Dec 31, 1969",$0,37.392673,-122.05925,CA,Condo,768000,,94043,Whisman Station,52,42,For Sale,SANTA CLARA
+5,119 Pacchetti Way,3.0,3.0,Mountain View,"1,292 sqft","Dec 31, 1969",$0,37.4062,-122.1071,CA,Condo,849888,,94040,The Crossings,65,49,For Sale,SANTA CLARA
+6,183 Del Medio Ave #212,1.0,1.0,Mountain View,756 sqft,"Dec 31, 1969",$0,37.408154,-122.11204,CA,Condo,424950,,94040,,68,48,For Sale,SANTA CLARA
+7,257 Farley St,2.0,3.0,Mountain View,"1,060 sqft","Dec 31, 1969",$0,37.402073,-122.08979,CA,Single-Family Home,999000,,94043,Rex Manor,49,41,For Sale,SANTA CLARA
+8,905 Camille Ln,3.5,3.0,Mountain View,"2,022 sqft","Dec 31, 1969",$0,37.38314,-122.08032,CA,Townhome,1198000,,94040,Cuesta Park,65,44,For Sale,SANTA CLARA
+9,587 Chiquita Ave,2.0,2.0,Mountain View,"1,260 sqft","Dec 31, 1969",$0,37.39305,-122.09221,CA,Single-Family Home,1059000,,94041,Shoreline West,75,43,For Sale,SANTA CLARA
+10,205 Marianne Ct,3.0,5.0,Mountain View,"3,322 sqft","Dec 31, 1969",$0,37.3767,-122.07392,CA,Single-Family Home,1938000,,94040,Martens-Carmelita,55,40,For Sale,SANTA CLARA
+11,100 E Middlefield Rd #5A,2.0,2.0,Mountain View,"1,052 sqft","Dec 31, 1969",$0,37.399414,-122.063774,CA,Condo,650000,,94043,North Whisman,48,41,For Sale,SANTA CLARA
+12,115 W Dana St,2.5,3.0,Mountain View,"1,787 sqft","Dec 31, 1969",$0,37.387806,-122.0711,CA,Single-Family Home,899900,,94041,Old Mountain View,65,51,For Sale,SANTA CLARA
+13,1905 Old Middlefield Way,,,Mountain View,"5,800 sqft","Dec 31, 1969",$0,37.413647,-122.08726,CA,Income/Investment,2298000,,94043,,88,30,For Sale,SANTA CLARA
+14,725 Emily Dr,1.0,3.0,Mountain View,816 sqft,"Dec 31, 1969",$0,37.403786,-122.06667,CA,Single-Family Home,685000,,94043,North Whisman,46,32,For Sale,SANTA CLARA
+15,1943 Mount Vernon Ct #207,2.0,2.0,Mountain View,"1,208 sqft","Dec 31, 1969",$0,37.396603,-122.09702,CA,Condo,575000,,94040,,57,43,For Sale,SANTA CLARA
+16,1110 Blue Lake Sq,3.0,4.0,Mountain View,"2,285 sqft","Dec 31, 1969",$0,37.35798,-122.07005,CA,Single-Family Home,1588888,,94040,,23,26,For Sale,SANTA CLARA
+17,441 Yosemite Ave,1.0,3.0,Mountain View,"1,192 sqft","Dec 31, 1969",$0,37.3849,-122.07927,CA,Single-Family Home,965000,,94041,Old Mountain View,66,51,For Sale,SANTA CLARA
+18,260 Carmelita Dr,7.0,3.0,Mountain View,"1,829 sqft","Dec 31, 1969",$0,37.376423,-122.07317,CA,Single-Family Home,1648000,,94040,Martens-Carmelita,58,40,For Sale,SANTA CLARA
+19,532 Tyrella Ave #32,2.0,3.0,Mountain View,"1,128 sqft","Dec 31, 1969",$0,37.40449,-122.06422,CA,Apt/Condo/Twnhm,649888,,94043,North Whisman,45,35,For Sale,SANTA CLARA
+20,Residence 3 - Attached Plan,3.5,4.0,Mountain View,"2,047 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,990900,,94040,,77,44,For Sale,SANTA CLARA
+21,Residence 1 - Attached Plan,3.5,3.0,Mountain View,"1,876 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,990900,,94040,,77,44,For Sale,SANTA CLARA
+22,Residence 2 - Detached Plan,3.5,3.0,Mountain View,"1,903 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,1136900,,94040,,77,44,For Sale,SANTA CLARA
+23,Residence 1 - Detached Plan,3.5,3.0,Mountain View,"1,916 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,1136900,,94040,,77,44,For Sale,SANTA CLARA
+24,Residence 3 - Detached Plan,3.5,4.0,Mountain View,"2,017 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,1136900,,94040,,77,44,For Sale,SANTA CLARA
+25,Residence 2 - Attached Plan,3.5,4.0,Mountain View,"1,894 sqft","Dec 31, 1969",$0,37.38801,-122.0925,CA,Single-Family Home,990900,,94040,,77,44,For Sale,SANTA CLARA
+26,The Edison Plan,2.5,3.0,Mountain View,"1,780 sqft","Dec 31, 1969",$0,37.39196,-122.07168,CA,Single-Family Home,1399900,,94041,Old Mountain View,72,50,For Sale,SANTA CLARA
+27,501 Moorpark Way #80,2.0,2.0,Mountain View,912 sqft,"Dec 31, 1969",$0,37.38151,-122.06577,CA,Mobile/Manufactured,155000,,94041,,58,42,For Sale,SANTA CLARA
+28,1017 Farley St,1.0,3.0,Mountain View,"1,263 sqft","Dec 31, 1969",$0,37.407543,-122.08752,CA,Single-Family Home,849000,,94043,Rex Manor,58,32,For Sale,SANTA CLARA
+29,1244 Farley St,4.0,5.0,Mountain View,"3,202 sqft","Dec 31, 1969",$0,37.409283,-122.08742,CA,Single-Family Home,1299000,,94043,Rex Manor,69,31,For Sale,SANTA CLARA
+30,2071 Plymouth St #G,3.0,2.0,Mountain View,"1,078 sqft","Dec 31, 1969",$0,37.41678,-122.09225,CA,Townhome,649000,,94043,,78,33,For Sale,SANTA CLARA
+31,2143 Junction Ave,,3.0,Mountain View,"1,683 sqft","Dec 31, 1969",$0,37.410248,-122.09407,CA,Single-Family Home,1098000,,94043,Monta Loma,,,For Sale,SANTA CLARA
+32,211 Fairchild Dr,,,Mountain View,"1,118 sqft","Dec 31, 1969",$0,37.405254,-122.05864,CA,Income/Investment,879000,,94043,North Whisman,42,39,For Sale,SANTA CLARA
+33,296 Higdon Ave,,,Mountain View,"3,227 sqft","Dec 31, 1969",$0,37.397396,-122.091576,CA,Single-Family Home,1895000,,94041,Shoreline West,58,46,For Sale,SANTA CLARA
+34,111-123 Fairchild Dr,,,Mountain View,,"Dec 31, 1969",$0,37.40584,-122.0619,CA,Single-Family Home,3700000,,94043,North Whisman,48,36,For Sale,SANTA CLARA
+35,325 Sylvan Ave #37,2.0,3.0,Mountain View,"1,040 sqft","Dec 31, 1969",$0,37.384876,-122.058685,CA,Mobile/Manufactured,94000,,94041,,57,42,For Sale,SANTA CLARA
+36,The Alton Plan,2.0,2.0,Mountain View,"1,074 sqft","Dec 31, 1969",$0,37.39196,-122.07168,CA,Single-Family Home,995900,,94041,Old Mountain View,66,49,For Sale,SANTA CLARA
+37,The Berkshire Plan,3.5,3.0,Mountain View,"1,764 sqft","Dec 31, 1969",$0,37.39196,-122.07168,CA,Single-Family Home,1358900,,94041,Old Mountain View,66,49,For Sale,SANTA CLARA
+38,The Dakota Plan,3.5,3.0,Mountain View,"1,686 sqft","Dec 31, 1969",$0,37.39196,-122.07168,CA,Single-Family Home,1338900,,94041,Old Mountain View,66,49,For Sale,SANTA CLARA
+39,The Chesapeake Plan,4.0,4.0,Mountain View,"1,744 sqft","Dec 31, 1969",$0,37.39196,-122.07168,CA,Single-Family Home,1363900,,94041,Old Mountain View,66,49,For Sale,SANTA CLARA
+40,1075 Space Park Way #21,2.0,3.0,Mountain View,"1,392 sqft","Dec 31, 1969",$0,37.41584,-122.07122,CA,Mobile/Manufactured,179000,,94043,,45,30,For Sale,SANTA CLARA
+41,Villa St,2.0,3.0,Mountain View,"1,767 sqft","Dec 31, 1969",$0,37.39826,-122.09018,CA,Single-Family Home,160000,,94041,Shoreline West,55,47,For Sale,SANTA CLARA
+42,Cypress Point Dr #299,1.0,1.0,Mountain View,662 sqft,"Dec 31, 1969",$0,37.398163,-122.07244,CA,Condo,4088,,94043,,62,50,For Sale,SANTA CLARA
+43,Devonshire Ave #2,1.0,2.0,Mountain View,"1,164 sqft","Dec 31, 1969",$0,37.40325,-122.05838,CA,Condo,6454,,94043,North Whisman,43,39,For Sale,SANTA CLARA
+44,Lilac Ln,2.0,3.0,Mountain View,"1,449 sqft","Dec 31, 1969",$0,37.402805,-122.08571,CA,Condo,4441,,94043,Rex Manor,65,43,For Sale,SANTA CLARA
+45,Mount Vernon Ct #4,1.0,2.0,Mountain View,"1,082 sqft","Dec 31, 1969",$0,37.395912,-122.09513,CA,Condo,10517,,94040,,57,43,For Sale,SANTA CLARA
+46,Miramonte Ave,2.0,4.0,Mountain View,"1,562 sqft","Dec 31, 1969",$0,37.375523,-122.08698,CA,Single-Family Home,686000,,94040,Blossom Valley,49,36,For Sale,SANTA CLARA
+47,W Middlefield #143,,,Mountain View,,"Dec 31, 1969",$0,37.400078,-122.072464,CA,Unspecified,249652,,94043,,60,49,For Sale,SANTA CLARA
+48,Cypress Point Dr #158,1.0,1.0,Mountain View,662 sqft,"Dec 31, 1969",$0,37.398163,-122.07244,CA,Condo,5012,,94043,,62,50,For Sale,SANTA CLARA
+49,N Rengstorff Ave #12,1.0,1.0,Mountain View,862 sqft,"Dec 31, 1969",$0,37.412518,-122.09241,CA,Condo,567583,,94043,,77,34,For Sale,SANTA CLARA
+50,S Rengstorff Ave #168,1.0,1.0,Mountain View,551 sqft,"Dec 31, 1969",$0,37.399887,-122.09944,CA,Condo,280000,,94040,Castro City,54,47,For Sale,SANTA CLARA
+51,Del Medio Ave #215,1.0,1.0,Mountain View,756 sqft,"Dec 31, 1969",$0,37.40825,-122.11223,CA,Condo,30000,,94040,,68,48,For Sale,SANTA CLARA
+52,Wake Forest Dr,2.0,4.0,Mountain View,"1,474 sqft","Dec 31, 1969",$0,37.40356,-122.06507,CA,Single-Family Home,798035,,94043,North Whisman,48,33,For Sale,SANTA CLARA
+53,Phyllis Ave,2.0,3.0,Mountain View,"1,196 sqft","Dec 31, 1969",$0,37.37881,-122.07775,CA,Single-Family Home,926000,,94040,Cuesta Park,62,41,For Sale,SANTA CLARA
+54,Sierra Vista Ave 15,2.0,2.0,Mountain View,"1,113 sqft","Dec 31, 1969",$0,37.408253,-122.08949,CA,Condo,17480,,94043,,63,31,For Sale,SANTA CLARA
+55,Hans Ave,,,Mountain View,"1,690 sqft","Dec 31, 1969",$0,37.379173,-122.08263,CA,Multi-Family Home,688000,,94040,Cuesta Park,68,41,For Sale,SANTA CLARA
+56,Easy St,1.0,2.0,Mountain View,894 sqft,"Dec 31, 1969",$0,37.397385,-122.06685,CA,Condo,480110,,94043,,54,45,For Sale,SANTA CLARA
+57,W Middlefield Rd,1.0,3.0,Mountain View,"1,356 sqft","Dec 31, 1969",$0,37.410534,-122.089584,CA,Single-Family Home,560000,,94043,,68,31,For Sale,SANTA CLARA
+58,N Rengstroff Ave #8,2.0,2.0,Mountain View,,"Dec 31, 1969",$0,37.40846,-122.0943,CA,Condo,470000,,94043,,74,32,For Sale,SANTA CLARA
+59,Mt Vernon Ct #4,,,Mountain View,,"Dec 31, 1969",$0,37.396107,-122.09564,CA,Unspecified,120000,,94040,,57,43,For Sale,SANTA CLARA
+60,Annie Laurie Ave #1,,,Mountain View,,"Dec 31, 1969",$0,37.40378,-122.060844,CA,Unspecified,479086,,94043,North Whisman,46,37,For Sale,SANTA CLARA
+61,Ortega Ave #313,,,Mountain View,,"Dec 31, 1969",$0,37.39989,-122.104965,CA,Unspecified,395420,,94040,,74,49,For Sale,SANTA CLARA
+62,Mt Vernon Ct #16,,,Mountain View,,"Dec 31, 1969",$0,37.395847,-122.09497,CA,Unspecified,248200,,94040,,68,43,For Sale,SANTA CLARA
+63,Cypress Pt Dr #238,,,Mountain View,,"Dec 31, 1969",$0,37.398163,-122.07244,CA,Unspecified,333000,,94043,,72,49,For Sale,SANTA CLARA
+64,N Rengstorff Ave,,,Mountain View,,"Dec 31, 1969",$0,37.41268,-122.09244,CA,Single-Family Home,218652,,94043,,80,34,For Sale,SANTA CLARA
+65,San Carrizo Way,2.0,3.0,Mountain View,"1,302 sqft","Dec 31, 1969",$0,37.405552,-122.070854,CA,Single-Family Home,812307,,94043,,71,32,For Sale,SANTA CLARA
+66,N Whisman Rd #100,,,Mountain View,,"Dec 31, 1969",$0,37.401695,-122.05794,CA,Unspecified,692945,,94043,,48,39,For Sale,SANTA CLARA

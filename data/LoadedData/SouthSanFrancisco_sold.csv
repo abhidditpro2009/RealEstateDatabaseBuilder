@@ -1,0 +1,331 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94080,135 Lucca Dr,3,4,South San Francisco,"2,240 sqft",20-Feb-14,"$880,000 ",37.666767,-122.43037,CA,Single-Family Home,880000,"$1,070,000 ",,,,,Sold,SAN MATEO
+94080,469 Baden Ave,4,7,South San Francisco,"3,788 sqft",19-Feb-14,"$770,000 ",37.655113,-122.41593,CA,Unknown,770000,,,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #1303,2,2,South San Francisco,"1,060 sqft",19-Feb-14,"$525,000 ",37.644985,-122.46818,CA,Condo,525000,"$525,000 ",,,,,Sold,SAN MATEO
+94080,126 Duval Dr,1,3,South San Francisco,"1,050 sqft",19-Feb-14,"$620,000 ",37.66629,-122.45824,CA,Single-Family Home,620000,"$721,000 ",,,,,Sold,SAN MATEO
+94080,241 A St,1,2,South San Francisco,"1,210 sqft",19-Feb-14,"$588,000 ",37.650986,-122.42961,CA,Single-Family Home,588000,"$680,000 ",,,,,Sold,SAN MATEO
+94080,432 Lux Ave,1,2,South San Francisco,"1,190 sqft",19-Feb-14,"$515,000 ",37.658005,-122.41311,CA,Single-Family Home,515000,"$672,000 ",,,,,Sold,SAN MATEO
+94080,872 Stonegate Dr,2.5,3,South San Francisco,"1,454 sqft",19-Feb-14,"$536,000 ",37.66625,-122.42651,CA,Condo,536000,"$625,000 ",,,,,Sold,SAN MATEO
+94080,4 Felton Ave,1,3,South San Francisco,990 sqft,18-Feb-14,"$620,000 ",37.668556,-122.45272,CA,Single-Family Home,620000,"$665,000 ",,,,,Sold,SAN MATEO
+94080,2260 Gellert Blvd #1212,2,3,South San Francisco,"1,290 sqft",18-Feb-14,"$580,000 ",37.6451,-122.45401,CA,Condo,580000,"$713,000 ",,,,,Sold,SAN MATEO
+94080,232 Clifden Dr,1,2,South San Francisco,870 sqft,14-Feb-14,"$560,000 ",37.65893,-122.45908,CA,Single-Family Home,560000,"$620,000 ",,,,,Sold,SAN MATEO
+94080,610 Mayfair Ave,1,3,South San Francisco,"1,000 sqft",14-Feb-14,"$615,000 ",37.652126,-122.42238,CA,Single-Family Home,615000,"$670,000 ",,,,,Sold,SAN MATEO
+94080,140 S Magnolia Ave,1,3,South San Francisco,"1,150 sqft",14-Feb-14,"$600,000 ",37.648922,-122.422714,CA,Single-Family Home,600000,"$689,000 ",,,,,Sold,SAN MATEO
+94080,843 Hemlock Ave,1,3,South San Francisco,940 sqft,13-Feb-14,"$689,000 ",37.668396,-122.420555,CA,Single-Family Home,689000,"$633,000 ",,,,,Sold,SAN MATEO
+94080,2400 Donegal Ave,2,3,South San Francisco,"1,200 sqft",11-Feb-14,"$564,000 ",37.639935,-122.45256,CA,Single-Family Home,564000,"$693,000 ",,,,,Sold,SAN MATEO
+94080,235 Pinehurst Way,1,2,South San Francisco,990 sqft,11-Feb-14,"$615,000 ",37.641346,-122.42752,CA,Single-Family Home,615000,"$681,000 ",,,,,Sold,SAN MATEO
+94080,319 A St,2,3,South San Francisco,"1,270 sqft",11-Feb-14,"$660,000 ",37.650303,-122.42918,CA,Single-Family Home,660000,"$764,000 ",,,,,Sold,SAN MATEO
+94080,103 Duval Dr,1,3,South San Francisco,"1,050 sqft",7-Feb-14,"$740,000 ",37.66592,-122.45649,CA,Single-Family Home,740000,"$731,000 ",,,,,Sold,SAN MATEO
+94080,718 Larch Ave,2,3,South San Francisco,970 sqft,7-Feb-14,"$499,000 ",37.667953,-122.41792,CA,Single-Family Home,499000,"$635,000 ",,,,,Sold,SAN MATEO
+94080,19 Tahoe Ct,2,4,South San Francisco,"1,510 sqft",6-Feb-14,"$760,000 ",37.642784,-122.44152,CA,Single-Family Home,760000,"$830,000 ",,,,,Sold,SAN MATEO
+94080,519 Pine Ter,1,2,South San Francisco,"1,070 sqft",5-Feb-14,"$580,000 ",37.658836,-122.414276,CA,Single-Family Home,580000,"$634,000 ",,,,,Sold,SAN MATEO
+94080,112 Adrian Ave,2,3,South San Francisco,"1,830 sqft",31-Jan-14,"$741,000 ",37.66241,-122.459366,CA,Single-Family Home,741000,"$855,000 ",,,,,Sold,SAN MATEO
+94080,758 Commercial Ave,1,2,South San Francisco,"1,220 sqft",31-Jan-14,"$640,000 ",37.656933,-122.42621,CA,Single-Family Home,640000,"$727,000 ",,,,,Sold,SAN MATEO
+94080,3865 Carter Dr #107,2,2,South San Francisco,"1,105 sqft",31-Jan-14,"$436,000 ",37.649315,-122.46936,CA,Condo,436000,"$530,000 ",,,,,Sold,SAN MATEO
+94080,3854 Shamrock Ct,2,3,South San Francisco,"1,360 sqft",31-Jan-14,"$660,000 ",37.64825,-122.468704,CA,Single-Family Home,660000,"$737,000 ",,,,,Sold,SAN MATEO
+94080,1107 Mission Rd #201,1,2,South San Francisco,947 sqft,30-Jan-14,"$415,000 ",37.659813,-122.43771,CA,Condo,415000,"$462,000 ",,,,,Sold,SAN MATEO
+94080,720 Cottonwood Ave,2,3,South San Francisco,"1,180 sqft",30-Jan-14,"$632,000 ",37.660847,-122.422646,CA,Single-Family Home,632000,"$698,000 ",,,,,Sold,SAN MATEO
+94080,43 Fairway Dr,1,2,South San Francisco,930 sqft,28-Jan-14,"$500,000 ",37.64863,-122.43154,CA,Single-Family Home,500000,"$606,000 ",,,,,Sold,SAN MATEO
+94080,3776 Fairfax Way,1.5,3,South San Francisco,"1,115 sqft",28-Jan-14,"$480,000 ",37.64733,-122.45865,CA,Condo,480000,"$539,000 ",,,,,Sold,SAN MATEO
+94080,2250 Gellert Blvd #2407,1,1,South San Francisco,828 sqft,27-Jan-14,"$430,000 ",37.645065,-122.45413,CA,Condo,430000,"$462,000 ",,,,,Sold,SAN MATEO
+94080,104 Rosa Flora Cir,2.5,3,South San Francisco,"1,200 sqft",23-Jan-14,"$555,000 ",37.64517,-122.43138,CA,Single-Family Home,555000,"$679,000 ",,,,,Sold,SAN MATEO
+94080,202 Chapman Ave,2.5,4,South San Francisco,"2,570 sqft",23-Jan-14,"$766,000 ",37.663868,-122.402985,CA,Single-Family Home,766000,"$860,000 ",,,,,Sold,SAN MATEO
+94080,310 Hazelwood Dr,1,5,South San Francisco,"1,630 sqft",22-Jan-14,"$701,000 ",37.639378,-122.43263,CA,Single-Family Home,701000,"$765,000 ",,,,,Sold,SAN MATEO
+94080,202 Crown Cir,2.5,2,South San Francisco,"1,490 sqft",22-Jan-14,"$665,000 ",37.66312,-122.45387,CA,Single-Family Home,665000,"$759,000 ",,,,,Sold,SAN MATEO
+94080,418 Dellbrook Ave,1,3,South San Francisco,"1,000 sqft",21-Jan-14,"$560,000 ",37.669544,-122.43718,CA,Single-Family Home,560000,"$669,000 ",,,,,Sold,SAN MATEO
+94080,247 Village Way,2,3,South San Francisco,"1,000 sqft",17-Jan-14,"$552,000 ",37.652702,-122.40915,CA,Single-Family Home,552000,"$639,000 ",,,,,Sold,SAN MATEO
+94080,248 Armour Ave,,,South San Francisco,"5,636 sqft",17-Jan-14,"$1,175,000 ",37.661575,-122.40719,CA,Multi-Family,1175000,,,,,,Sold,SAN MATEO
+94080,438 Briarwood Dr,1,3,South San Francisco,"1,100 sqft",17-Jan-14,"$640,000 ",37.63657,-122.43461,CA,Single-Family Home,640000,"$723,000 ",,,,,Sold,SAN MATEO
+94080,2236 Kenry Way,2.5,4,South San Francisco,"1,750 sqft",15-Jan-14,"$645,000 ",37.63989,-122.45041,CA,Single-Family Home,645000,"$864,000 ",,,,,Sold,SAN MATEO
+94080,421 Acacia Ave,3,3,South San Francisco,"2,150 sqft",13-Jan-14,"$890,000 ",37.660107,-122.42453,CA,Single-Family Home,890000,"$968,000 ",,,,,Sold,SAN MATEO
+94080,2210 Gellert Blvd #5111,2,3,South San Francisco,"1,200 sqft",10-Jan-14,"$540,000 ",37.647587,-122.453735,CA,Condo,540000,"$582,000 ",,,,,Sold,SAN MATEO
+94080,2243 Derry Way,3,5,South San Francisco,"2,490 sqft",7-Jan-14,"$832,000 ",37.640553,-122.44765,CA,Single-Family Home,832000,"$941,000 ",,,,,Sold,SAN MATEO
+94080,417 Mariposa Dr,3.5,3,South San Francisco,"1,350 sqft",7-Jan-14,"$760,000 ",37.642296,-122.43975,CA,Single-Family Home,760000,"$934,000 ",,,,,Sold,SAN MATEO
+94080,957 Ridgeview Ct #C,1,2,South San Francisco,930 sqft,31-Dec-13,"$355,500 ",37.666203,-122.42369,CA,Condo,355500,"$467,000 ",,,,,Sold,SAN MATEO
+94080,56 Calvert Ave,2,3,South San Francisco,"1,230 sqft",31-Dec-13,"$705,000 ",37.667385,-122.45567,CA,Single-Family Home,705000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,205 Brentwood Dr,3,4,South San Francisco,"2,130 sqft",31-Dec-13,"$885,000 ",37.6401,-122.42697,CA,Single-Family Home,885000,"$1,012,000 ",,,,,Sold,SAN MATEO
+94080,150 Ramona Ave,1,3,South San Francisco,"1,230 sqft",31-Dec-13,"$500,000 ",37.64469,-122.42574,CA,Single-Family Home,500000,"$649,000 ",,,,,Sold,SAN MATEO
+94080,963 Ridgeview Ct #C,1,2,South San Francisco,930 sqft,31-Dec-13,"$450,000 ",37.666203,-122.42369,CA,Condo,450000,"$467,000 ",,,,,Sold,SAN MATEO
+94080,2954 Dublin Dr,3,5,South San Francisco,"2,000 sqft",30-Dec-13,"$888,000 ",37.642044,-122.45285,CA,Single-Family Home,888000,"$990,000 ",,,,,Sold,SAN MATEO
+94080,70 Cymbidium Cir,2.5,3,South San Francisco,"1,610 sqft",30-Dec-13,"$766,500 ",37.659657,-122.44683,CA,Single-Family Home,766500,"$967,000 ",,,,,Sold,SAN MATEO
+94080,804 Park Way,2,3,South San Francisco,"1,280 sqft",27-Dec-13,"$750,000 ",37.663223,-122.42547,CA,Single-Family Home,750000,"$772,000 ",,,,,Sold,SAN MATEO
+94080,1400 El Camino Real #108,2,2,South San Francisco,"1,257 sqft",27-Dec-13,"$550,000 ",37.661793,-122.44202,CA,Condo,550000,"$577,000 ",,,,,Sold,SAN MATEO
+94080,226 Verano Dr,1,3,South San Francisco,"1,020 sqft",27-Dec-13,"$660,000 ",37.65475,-122.44562,CA,Single-Family Home,660000,"$776,000 ",,,,,Sold,SAN MATEO
+94080,455 El Camino Real #206,1,1,South San Francisco,730 sqft,27-Dec-13,"$280,000 ",37.646408,-122.42884,CA,Condo,280000,"$365,000 ",,,,,Sold,SAN MATEO
+94080,3737 Radburn Dr,1,2,South San Francisco,858 sqft,27-Dec-13,"$425,000 ",37.647808,-122.456505,CA,Condo,425000,"$461,000 ",,,,,Sold,SAN MATEO
+94080,2650 Tipperary Ave,2,3,South San Francisco,"1,330 sqft",27-Dec-13,"$700,000 ",37.63652,-122.449425,CA,Single-Family Home,700000,"$718,000 ",,,,,Sold,SAN MATEO
+94080,19 Tunitas Ln,2,3,South San Francisco,"1,470 sqft",23-Dec-13,"$645,000 ",37.653927,-122.44338,CA,Single-Family Home,645000,"$807,000 ",,,,,Sold,SAN MATEO
+94080,3955 Chatham Ct,2,3,South San Francisco,"1,680 sqft",23-Dec-13,"$610,000 ",37.64975,-122.465294,CA,Single-Family Home,610000,"$729,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #1308,2,2,South San Francisco,"1,040 sqft",20-Dec-13,"$525,000 ",37.644985,-122.46818,CA,Condo,525000,"$522,000 ",,,,,Sold,SAN MATEO
+94080,332 Alta Mesa Dr,2,3,South San Francisco,"1,300 sqft",20-Dec-13,"$700,000 ",37.65053,-122.4505,CA,Single-Family Home,700000,"$827,000 ",,,,,Sold,SAN MATEO
+94080,353 Evergreen Dr,2,3,South San Francisco,"1,320 sqft",20-Dec-13,"$705,000 ",37.668037,-122.43856,CA,Single-Family Home,705000,"$750,000 ",,,,,Sold,SAN MATEO
+94080,851 Ridge Ct,2.5,3,South San Francisco,"1,454 sqft",20-Dec-13,"$536,000 ",37.66531,-122.42777,CA,Condo,536000,"$626,000 ",,,,,Sold,SAN MATEO
+94080,1488 El Camino Real #P2,1,1,South San Francisco,670 sqft,19-Dec-13,"$451,000 ",37.663548,-122.44538,CA,Condo,451000,"$405,000 ",,,,,Sold,SAN MATEO
+94080,205 Alta Loma Dr,3.5,4,South San Francisco,"2,860 sqft",19-Dec-13,"$930,000 ",37.657574,-122.43967,CA,Single-Family Home,930000,"$1,001,000 ",,,,,Sold,SAN MATEO
+94080,656 Telford Ave,2,3,South San Francisco,"1,140 sqft",18-Dec-13,"$700,000 ",37.660774,-122.41237,CA,Single-Family Home,700000,"$681,000 ",,,,,Sold,SAN MATEO
+94080,540 Mayfair Ave,1,3,South San Francisco,"1,110 sqft",17-Dec-13,"$622,000 ",37.651592,-122.41996,CA,Single-Family Home,622000,"$663,000 ",,,,,Sold,SAN MATEO
+94080,405 King Dr,2,3,South San Francisco,"1,330 sqft",16-Dec-13,"$312,500 ",37.654427,-122.4525,CA,Single-Family Home,312500,"$709,000 ",,,,,Sold,SAN MATEO
+94080,12 Arlington Dr,2,3,South San Francisco,"1,600 sqft",16-Dec-13,"$650,000 ",37.67005,-122.45425,CA,Single-Family Home,650000,"$754,000 ",,,,,Sold,SAN MATEO
+94080,280 Ferndale Ave,2,4,South San Francisco,"1,620 sqft",13-Dec-13,"$629,000 ",37.665707,-122.43946,CA,Single-Family Home,629000,"$750,000 ",,,,,Sold,SAN MATEO
+94080,536 Baden Ave,5,10,South San Francisco,"4,874 sqft",13-Dec-13,"$1,087,500 ",37.656128,-122.41793,CA,Multi-Family,1087500,,,,,,Sold,SAN MATEO
+94080,912 Linden Ave,1,2,South San Francisco,"1,050 sqft",13-Dec-13,"$565,000 ",37.661964,-122.40714,CA,Single-Family Home,565000,"$587,000 ",,,,,Sold,SAN MATEO
+94080,2200 Gellert Blvd #6105,2,3,South San Francisco,"1,200 sqft",13-Dec-13,"$420,000 ",37.64846,-122.453865,CA,Condo,420000,"$689,000 ",,,,,Sold,SAN MATEO
+94080,402 Hazelwood Dr,1,3,South San Francisco,"1,270 sqft",13-Dec-13,"$650,000 ",37.638885,-122.43367,CA,Single-Family Home,650000,"$739,000 ",,,,,Sold,SAN MATEO
+94080,3715 Carter Dr,1.5,3,South San Francisco,"1,200 sqft",13-Dec-13,"$445,000 ",37.64417,-122.46681,CA,Condo,445000,"$501,000 ",,,,,Sold,SAN MATEO
+94080,627 Miller Ave,1,3,South San Francisco,960 sqft,12-Dec-13,"$178,500 ",37.65823,-122.42049,CA,Single-Family Home,178500,"$642,000 ",,,,,Sold,SAN MATEO
+94080,3830 Shamrock Ct,2.5,4,South San Francisco,"1,640 sqft",12-Dec-13,"$644,000 ",37.64805,-122.46842,CA,Single-Family Home,644000,"$774,000 ",,,,,Sold,SAN MATEO
+94080,22 Miltonia Dr,2.5,4,South San Francisco,"1,860 sqft",12-Dec-13,"$846,500 ",37.661392,-122.44519,CA,Single-Family Home,846500,"$965,000 ",,,,,Sold,SAN MATEO
+94080,3631 Bettman Way,1.5,2,South San Francisco,"1,400 sqft",11-Dec-13,"$702,000 ",37.64562,-122.46055,CA,Single-Family Home,702000,"$736,000 ",,,,,Sold,SAN MATEO
+94080,33 Altura Way,2,4,South San Francisco,"1,607 sqft",10-Dec-13,"$685,000 ",37.65889,-122.44519,CA,Single-Family Home,685000,"$824,000 ",,,,,Sold,SAN MATEO
+94080,443 Zamora Dr,1,3,South San Francisco,"1,070 sqft",10-Dec-13,"$628,000 ",37.6402,-122.438965,CA,Single-Family Home,628000,"$694,000 ",,,,,Sold,SAN MATEO
+94080,144 April Ave,2,3,South San Francisco,"1,120 sqft",6-Dec-13,"$730,000 ",37.655914,-122.447044,CA,Single-Family Home,730000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,500 Pine Ter,1,3,South San Francisco,"1,230 sqft",6-Dec-13,"$624,000 ",37.658222,-122.41422,CA,Single-Family Home,624000,"$703,000 ",,,,,Sold,SAN MATEO
+94080,223 Arroyo Dr,1,3,South San Francisco,"1,440 sqft",5-Dec-13,"$720,000 ",37.652325,-122.442154,CA,Single-Family Home,720000,"$833,000 ",,,,,Sold,SAN MATEO
+94080,619 Myrtle Ave,1,3,South San Francisco,"1,180 sqft",5-Dec-13,"$558,000 ",37.6492,-122.42409,CA,Single-Family Home,558000,"$691,000 ",,,,,Sold,SAN MATEO
+94080,157 Ramona Ave,2,4,South San Francisco,"1,410 sqft",5-Dec-13,"$637,000 ",37.64479,-122.42525,CA,Single-Family Home,637000,"$691,000 ",,,,,Sold,SAN MATEO
+94080,12 Lewis Ave,2,3,South San Francisco,"1,440 sqft",4-Dec-13,"$505,000 ",37.66317,-122.40342,CA,Single-Family Home,505000,"$666,000 ",,,,,Sold,SAN MATEO
+94080,6 Wilms Ave,1,3,South San Francisco,"1,110 sqft",4-Dec-13,"$553,000 ",37.647007,-122.42418,CA,Single-Family Home,553000,"$651,000 ",,,,,Sold,SAN MATEO
+94080,234 Hazelwood Dr,2,5,South San Francisco,"1,970 sqft",3-Dec-13,"$711,000 ",37.640007,-122.43129,CA,Single-Family Home,711000,"$870,000 ",,,,,Sold,SAN MATEO
+94080,807 Ridge Ct,2.5,3,South San Francisco,"1,454 sqft",3-Dec-13,"$510,000 ",37.66531,-122.42777,CA,Condo,510000,"$576,000 ",,,,,Sold,SAN MATEO
+94080,74 Leo Cir,2,2,South San Francisco,"1,960 sqft",3-Dec-13,"$685,000 ",37.663376,-122.40647,CA,Single-Family Home,685000,"$783,000 ",,,,,Sold,SAN MATEO
+94080,2352 Shannon Dr,3,5,South San Francisco,"2,260 sqft",27-Nov-13,"$750,000 ",37.63938,-122.45628,CA,Single-Family Home,750000,"$928,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #717-2,1,1,South San Francisco,677 sqft,27-Nov-13,"$245,000 ",37.64327,-122.450615,CA,Condo,245000,"$339,000 ",,,,,Sold,SAN MATEO
+94080,2490 Tipperary Ave,2,4,South San Francisco,"1,500 sqft",27-Nov-13,"$670,000 ",37.63838,-122.45221,CA,Single-Family Home,670000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,2567 Adams Ct,2,3,South San Francisco,"1,610 sqft",27-Nov-13,"$500,000 ",37.647373,-122.46508,CA,Single-Family Home,500000,"$773,000 ",,,,,Sold,SAN MATEO
+94080,1149 Hillside Blvd,2,4,South San Francisco,"1,610 sqft",27-Nov-13,"$636,500 ",37.669006,-122.41799,CA,Single-Family Home,636500,"$665,000 ",,,,,Sold,SAN MATEO
+94080,949 Ridgeview Ct #A,1,2,South San Francisco,950 sqft,27-Nov-13,"$420,000 ",37.666912,-122.42401,CA,Condo,420000,"$467,000 ",,,,,Sold,SAN MATEO
+94080,21 Lilac Ln,2,3,South San Francisco,"1,480 sqft",27-Nov-13,"$580,000 ",37.660397,-122.420845,CA,Single-Family Home,580000,"$730,000 ",,,,,Sold,SAN MATEO
+94080,840 Maple Ave,2,2,South San Francisco,"1,280 sqft",26-Nov-13,"$610,000 ",37.66186,-122.41,CA,Single-Family Home,610000,"$678,000 ",,,,,Sold,SAN MATEO
+94080,352 Evergreen Dr,2,3,South San Francisco,"1,050 sqft",26-Nov-13,"$645,000 ",37.667774,-122.43813,CA,Single-Family Home,645000,"$675,000 ",,,,,Sold,SAN MATEO
+94080,3845 Radburn Dr,1.5,3,South San Francisco,"1,115 sqft",25-Nov-13,"$400,000 ",37.649086,-122.45688,CA,Condo,400000,"$530,000 ",,,,,Sold,SAN MATEO
+94080,162 Longford Dr,2,3,South San Francisco,"1,420 sqft",25-Nov-13,"$487,725 ",37.662346,-122.458374,CA,Single-Family Home,487725,"$739,000 ",,,,,Sold,SAN MATEO
+94080,2260 Gellert Blvd #1107,1,1,South San Francisco,828 sqft,22-Nov-13,"$270,500 ",37.6451,-122.45401,CA,Condo,270500,"$453,000 ",,,,,Sold,SAN MATEO
+94080,314 Northwood Dr,1,3,South San Francisco,"1,270 sqft",22-Nov-13,"$701,500 ",37.639782,-122.433334,CA,Single-Family Home,701500,"$739,000 ",,,,,Sold,SAN MATEO
+94080,28 Sonora Ave,1,3,South San Francisco,"1,110 sqft",22-Nov-13,"$525,000 ",37.645226,-122.42511,CA,Single-Family Home,525000,"$663,000 ",,,,,Sold,SAN MATEO
+94080,362 Catherine Dr,2,3,South San Francisco,"1,120 sqft",22-Nov-13,"$662,500 ",37.655785,-122.44963,CA,Single-Family Home,662500,"$678,000 ",,,,,Sold,SAN MATEO
+94080,458 Railroad Ave,,,South San Francisco,720 sqft,22-Nov-13,"$650,000 ",37.65366,-122.41581,CA,Unknown,650000,,,,,,Sold,SAN MATEO
+94080,613 Myrtle Ave,1,3,South San Francisco,980 sqft,22-Nov-13,"$580,000 ",37.64886,-122.42379,CA,Single-Family Home,580000,"$628,000 ",,,,,Sold,SAN MATEO
+94080,626 Mayfair Ave,1,3,South San Francisco,"1,150 sqft",22-Nov-13,"$525,000 ",37.65242,-122.42371,CA,Single-Family Home,525000,"$683,000 ",,,,,Sold,SAN MATEO
+94080,207 Longford Dr,2,6,South San Francisco,"1,520 sqft",21-Nov-13,"$750,000 ",37.661537,-122.4574,CA,Single-Family Home,750000,"$770,000 ",,,,,Sold,SAN MATEO
+94080,69 Franklin Ave,1,3,South San Francisco,"1,230 sqft",21-Nov-13,"$725,000 ",37.665436,-122.41442,CA,Single-Family Home,725000,"$697,000 ",,,,,Sold,SAN MATEO
+94080,659 Railroad Ave,2.5,3,South San Francisco,"2,030 sqft",21-Nov-13,"$785,000 ",37.654854,-122.42322,CA,Single-Family Home,785000,"$954,000 ",,,,,Sold,SAN MATEO
+94080,436 Granada Dr,1,3,South San Francisco,"1,050 sqft",20-Nov-13,"$655,000 ",37.64003,-122.43864,CA,Single-Family Home,655000,"$690,000 ",,,,,Sold,SAN MATEO
+94080,246 Willow Ave #522,1,2,South San Francisco,888 sqft,20-Nov-13,"$430,000 ",37.660904,-122.432434,CA,Condo,430000,"$472,000 ",,,,,Sold,SAN MATEO
+94080,341 Ferndale Ave,2,3,South San Francisco,"1,740 sqft",20-Nov-13,"$668,000 ",37.667404,-122.43814,CA,Single-Family Home,668000,"$827,000 ",,,,,Sold,SAN MATEO
+94080,3550 Carter Dr #29,2,3,South San Francisco,"1,520 sqft",20-Nov-13,"$474,000 ",37.64211,-122.464806,CA,Condo,474000,"$554,000 ",,,,,Sold,SAN MATEO
+94080,517 Eucalyptus Ave,2,3,South San Francisco,"1,230 sqft",19-Nov-13,"$650,000 ",37.661453,-122.425766,CA,Single-Family Home,650000,"$752,000 ",,,,,Sold,SAN MATEO
+94080,115 Valleyview Way,2.5,4,South San Francisco,"2,100 sqft",19-Nov-13,"$875,000 ",37.640472,-122.44524,CA,Single-Family Home,875000,"$914,000 ",,,,,Sold,SAN MATEO
+94080,546 Railroad Ave,1,2,South San Francisco,710 sqft,18-Nov-13,"$352,000 ",37.654358,-122.41896,CA,Single-Family Home,352000,"$550,000 ",,,,,Sold,SAN MATEO
+94080,3855 Carter Dr #104,2,2,South San Francisco,"1,105 sqft",18-Nov-13,"$439,000 ",37.649315,-122.46936,CA,Condo,439000,"$536,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #2202,2,2,South San Francisco,"1,140 sqft",18-Nov-13,"$538,000 ",37.644985,-122.46818,CA,Condo,538000,"$571,000 ",,,,,Sold,SAN MATEO
+94080,1488 El Camino Real #117,2,2,South San Francisco,990 sqft,15-Nov-13,"$510,000 ",37.663548,-122.44538,CA,Condo,510000,"$517,000 ",,,,,Sold,SAN MATEO
+94080,657 Pine Ter,2,3,South San Francisco,"1,460 sqft",15-Nov-13,"$656,500 ",37.65973,-122.41188,CA,Single-Family Home,656500,"$815,000 ",,,,,Sold,SAN MATEO
+94080,3712 Fairfax Way,1.5,3,South San Francisco,"1,115 sqft",15-Nov-13,"$430,000 ",37.64733,-122.45865,CA,Condo,430000,"$532,000 ",,,,,Sold,SAN MATEO
+94080,267 Village Way,2,3,South San Francisco,"1,000 sqft",15-Nov-13,"$525,000 ",37.65227,-122.409744,CA,Single-Family Home,525000,"$641,000 ",,,,,Sold,SAN MATEO
+94080,92 Lincoln St,1,3,South San Francisco,"1,040 sqft",15-Nov-13,"$550,000 ",37.667923,-122.42362,CA,Single-Family Home,550000,"$639,000 ",,,,,Sold,SAN MATEO
+94080,240 Willow Ave #627,1,2,South San Francisco,890 sqft,14-Nov-13,"$300,000 ",37.66088,-122.43212,CA,Condo,300000,"$413,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #1304,2,2,South San Francisco,"1,060 sqft",14-Nov-13,"$510,000 ",37.644985,-122.46818,CA,Condo,510000,"$525,000 ",,,,,Sold,SAN MATEO
+94080,100 Pinehurst Way,1,3,South San Francisco,"1,380 sqft",14-Nov-13,"$618,000 ",37.63971,-122.42581,CA,Single-Family Home,618000,"$773,000 ",,,,,Sold,SAN MATEO
+94080,22 Nursery Way,3,5,South San Francisco,"2,350 sqft",8-Nov-13,"$875,000 ",37.662838,-122.429855,CA,Single-Family Home,875000,"$1,122,000 ",,,,,Sold,SAN MATEO
+94080,1400 El Camino Real #105,2,3,South San Francisco,"1,190 sqft",8-Nov-13,"$517,000 ",37.661793,-122.44202,CA,Condo,517000,"$602,000 ",,,,,Sold,SAN MATEO
+94080,3748 Brunswick Ct,2,3,South San Francisco,"1,500 sqft",8-Nov-13,"$660,000 ",37.647087,-122.46129,CA,Single-Family Home,660000,"$684,000 ",,,,,Sold,SAN MATEO
+94080,352 Arbor Dr,2,3,South San Francisco,"1,330 sqft",8-Nov-13,"$700,000 ",37.65355,-122.45142,CA,Single-Family Home,700000,"$872,000 ",,,,,Sold,SAN MATEO
+94080,656 Theresa Dr,2,3,South San Francisco,"1,120 sqft",6-Nov-13,"$635,000 ",37.659492,-122.45128,CA,Single-Family Home,635000,"$732,000 ",,,,,Sold,SAN MATEO
+94080,2501 Shannon Dr,2,4,South San Francisco,"1,500 sqft",5-Nov-13,"$761,000 ",37.63788,-122.45211,CA,Single-Family Home,761000,"$801,000 ",,,,,Sold,SAN MATEO
+94080,55 Windcrest Ln,2.5,3,South San Francisco,"1,660 sqft",5-Nov-13,"$661,000 ",37.66979,-122.42123,CA,Single-Family Home,661000,"$788,000 ",,,,,Sold,SAN MATEO
+94080,633 Baden Ave #F,1,2,South San Francisco,867 sqft,5-Nov-13,"$348,000 ",37.656326,-122.4214,CA,Condo,348000,"$420,000 ",,,,,Sold,SAN MATEO
+94080,819 Miller Ave,1,2,South San Francisco,960 sqft,4-Nov-13,"$627,000 ",37.659733,-122.42728,CA,Single-Family Home,627000,"$644,000 ",,,,,Sold,SAN MATEO
+94080,115 Belmont Ave,1,2,South San Francisco,760 sqft,4-Nov-13,"$485,000 ",37.66546,-122.40941,CA,Single-Family Home,485000,"$610,000 ",,,,,Sold,SAN MATEO
+94080,3700 Bettman Way,2.5,3,South San Francisco,"1,730 sqft",1-Nov-13,"$695,000 ",37.646618,-122.460175,CA,Single-Family Home,695000,"$729,000 ",,,,,Sold,SAN MATEO
+94080,208 El Rancho Dr,3,5,South San Francisco,"2,310 sqft",1-Nov-13,"$925,000 ",37.661167,-122.45261,CA,Single-Family Home,925000,"$1,149,000 ",,,,,Sold,SAN MATEO
+94080,561 Rocca Ave,2,4,South San Francisco,"1,910 sqft",1-Nov-13,"$900,000 ",37.661697,-122.417435,CA,Single-Family Home,900000,"$914,000 ",,,,,Sold,SAN MATEO
+94080,129 Northcrest Dr,2.5,3,South San Francisco,"1,950 sqft",31-Oct-13,"$735,000 ",37.67021,-122.42206,CA,Single-Family Home,735000,"$872,000 ",,,,,Sold,SAN MATEO
+94080,707 Serra Dr,2,3,South San Francisco,"1,330 sqft",31-Oct-13,"$780,000 ",37.65832,-122.45337,CA,Single-Family Home,780000,"$798,000 ",,,,,Sold,SAN MATEO
+94080,685 Spruce Ave,1,3,South San Francisco,"1,160 sqft",31-Oct-13,"$625,000 ",37.66093,-122.41185,CA,Single-Family Home,625000,"$639,000 ",,,,,Sold,SAN MATEO
+94080,800 Maple Ave,,,South San Francisco,"2,120 sqft",31-Oct-13,"$627,500 ",37.66055,-122.41043,CA,Unknown,627500,,,,,,Sold,SAN MATEO
+94080,930 Mission Rd #43,2,2,South San Francisco,"1,060 sqft",30-Oct-13,"$405,000 ",37.6575,-122.43282,CA,Condo,405000,"$495,000 ",,,,,Sold,SAN MATEO
+94080,640 Myrtle Ave,1,3,South San Francisco,"1,140 sqft",30-Oct-13,"$540,000 ",37.650696,-122.42475,CA,Single-Family Home,540000,"$696,000 ",,,,,Sold,SAN MATEO
+94080,222 Alta Mesa Dr,1,3,South San Francisco,"1,020 sqft",29-Oct-13,"$588,000 ",37.6549,-122.447,CA,Single-Family Home,588000,"$721,000 ",,,,,Sold,SAN MATEO
+94080,260 Dundee Dr,2,3,South San Francisco,"1,410 sqft",29-Oct-13,"$591,000 ",37.65844,-122.45911,CA,Single-Family Home,591000,"$784,000 ",,Serramonte,,,Sold,SAN MATEO
+94080,3550 Carter Dr #31,2,2,South San Francisco,877 sqft,28-Oct-13,"$415,500 ",37.64211,-122.464806,CA,Condo,415500,"$464,000 ",,,,,Sold,SAN MATEO
+94080,2230 Gellert Blvd #3P06,2,3,South San Francisco,"1,290 sqft",28-Oct-13,"$600,000 ",37.645878,-122.45395,CA,Condo,600000,"$713,000 ",,,,,Sold,SAN MATEO
+94080,803 Commercial Ave,1,2,South San Francisco,890 sqft,25-Oct-13,"$553,000 ",37.656727,-122.42767,CA,Single-Family Home,553000,"$631,000 ",,,,,Sold,SAN MATEO
+94080,260 Rainier Ave,2,2,South San Francisco,"1,450 sqft",25-Oct-13,"$650,000 ",37.647068,-122.43389,CA,Single-Family Home,650000,"$729,000 ",,,,,Sold,SAN MATEO
+94080,220 Rockwood Dr,2,3,South San Francisco,"1,310 sqft",25-Oct-13,"$683,000 ",37.638626,-122.42749,CA,Single-Family Home,683000,"$725,000 ",,,,,Sold,SAN MATEO
+94080,609 Hillside Blvd,1,2,South San Francisco,920 sqft,24-Oct-13,"$502,000 ",37.665306,-122.411575,CA,Single-Family Home,502000,"$573,000 ",,,,,Sold,SAN MATEO
+94080,425 Alta Vista Dr,1,3,South San Francisco,"1,760 sqft",24-Oct-13,"$735,000 ",37.638973,-122.436844,CA,Single-Family Home,735000,"$852,000 ",,,,,Sold,SAN MATEO
+94080,122 Manzanita Ave,1,3,South San Francisco,"1,150 sqft",22-Oct-13,"$590,000 ",37.649967,-122.42149,CA,Single-Family Home,590000,"$682,000 ",,,,,Sold,SAN MATEO
+94080,286 Village Way,1,3,South San Francisco,"1,000 sqft",21-Oct-13,"$530,000 ",37.652847,-122.41049,CA,Single-Family Home,530000,"$636,000 ",,,,,Sold,SAN MATEO
+94080,419 Ferndale Ave,1,2,South San Francisco,870 sqft,18-Oct-13,"$511,000 ",37.66893,-122.43634,CA,Single-Family Home,511000,"$628,000 ",,,,,Sold,SAN MATEO
+94080,3550 Carter Dr #66,2.5,3,South San Francisco,"1,644 sqft",18-Oct-13,"$473,000 ",37.64211,-122.464806,CA,Condo,473000,"$587,000 ",,,,,Sold,SAN MATEO
+94080,379 Altamont Dr,2,3,South San Francisco,"1,330 sqft",18-Oct-13,"$655,000 ",37.654896,-122.45158,CA,Single-Family Home,655000,"$742,000 ",,,,,Sold,SAN MATEO
+94080,3913 Reston Ct,2,3,South San Francisco,"1,680 sqft",18-Oct-13,"$708,000 ",37.648914,-122.45915,CA,Single-Family Home,708000,"$729,000 ",,,,,Sold,SAN MATEO
+94080,11 Verano Dr,1,2,South San Francisco,"1,110 sqft",18-Oct-13,"$695,000 ",37.65026,-122.44423,CA,Single-Family Home,695000,"$778,000 ",,,,,Sold,SAN MATEO
+94080,3550 Carter Dr #51,2,2,South San Francisco,877 sqft,18-Oct-13,"$433,000 ",37.64211,-122.464806,CA,Condo,433000,"$448,000 ",,,,,Sold,SAN MATEO
+94080,204 Dundee Dr,1,3,South San Francisco,"1,480 sqft",17-Oct-13,"$610,000 ",37.6613,-122.46325,CA,Single-Family Home,610000,"$747,000 ",,Serramonte,,,Sold,SAN MATEO
+94080,411 Lux Ave,1,3,South San Francisco,930 sqft,16-Oct-13,"$595,000 ",37.657513,-122.4127,CA,Single-Family Home,595000,"$631,000 ",,,,,Sold,SAN MATEO
+94080,388 Evergreen Dr,2,3,South San Francisco,"1,240 sqft",16-Oct-13,"$648,000 ",37.668373,-122.43742,CA,Single-Family Home,648000,"$742,000 ",,,,,Sold,SAN MATEO
+94080,2453 Liberty Ct,2,4,South San Francisco,"1,770 sqft",16-Oct-13,"$610,000 ",37.64325,-122.45657,CA,Single-Family Home,610000,"$736,000 ",,,,,Sold,SAN MATEO
+94080,125 Rosewood Way,1,2,South San Francisco,850 sqft,15-Oct-13,"$600,000 ",37.637157,-122.43257,CA,Single-Family Home,600000,"$640,000 ",,,,,Sold,SAN MATEO
+94080,147 Clay Ave,1,3,South San Francisco,"1,050 sqft",15-Oct-13,"$650,000 ",37.661205,-122.46213,CA,Single-Family Home,650000,"$689,000 ",,,,,Sold,SAN MATEO
+94080,3875 Carter Dr #201,2,2,South San Francisco,"1,105 sqft",15-Oct-13,"$395,000 ",37.649315,-122.46936,CA,Condo,395000,"$551,000 ",,,,,Sold,SAN MATEO
+94080,119 Fir Ave,1,3,South San Francisco,"1,140 sqft",11-Oct-13,"$592,000 ",37.649967,-122.42016,CA,Single-Family Home,592000,"$677,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #1305,2,2,South San Francisco,"1,060 sqft",11-Oct-13,"$505,000 ",37.644985,-122.46818,CA,Condo,505000,"$524,000 ",,,,,Sold,SAN MATEO
+94080,1 Mandalay Pl #1002,1,1,South San Francisco,935 sqft,11-Oct-13,"$393,000 ",37.666145,-122.40382,CA,Condo,393000,"$444,000 ",,,,,Sold,SAN MATEO
+94080,121 Bayview Dr,3.5,4,South San Francisco,"2,490 sqft",11-Oct-13,"$985,000 ",37.669075,-122.41429,CA,Single-Family Home,985000,"$1,016,000 ",,,,,Sold,SAN MATEO
+94080,62 Pointe View Pl,2.5,4,South San Francisco,"2,500 sqft",10-Oct-13,"$800,000 ",37.6656,-122.40083,CA,Single-Family Home,800000,"$1,099,000 ",,,,,Sold,SAN MATEO
+94080,654 Myrtle Ave,1,3,South San Francisco,"1,170 sqft",10-Oct-13,"$600,000 ",37.651474,-122.42544,CA,Single-Family Home,600000,"$726,000 ",,,,,Sold,SAN MATEO
+94080,872 Commercial Ave,1,3,South San Francisco,"1,080 sqft",10-Oct-13,"$589,000 ",37.657776,-122.43028,CA,Single-Family Home,589000,"$671,000 ",,,,,Sold,SAN MATEO
+94080,519 Avalon Dr,2.5,4,South San Francisco,"2,200 sqft",9-Oct-13,"$860,000 ",37.63821,-122.44266,CA,Single-Family Home,860000,"$1,016,000 ",,,,,Sold,SAN MATEO
+94080,831 Camaritas Cir,1,3,South San Francisco,"1,020 sqft",9-Oct-13,"$510,000 ",37.664833,-122.45211,CA,Single-Family Home,510000,"$673,000 ",,,,,Sold,SAN MATEO
+94080,648 Myrtle Ave,1,3,South San Francisco,980 sqft,9-Oct-13,"$625,000 ",37.651142,-122.42515,CA,Single-Family Home,625000,"$657,000 ",,,,,Sold,SAN MATEO
+94080,234 Juniper Ave,,,South San Francisco,920 sqft,9-Oct-13,"$588,000 ",37.66054,-122.407455,CA,Unknown,588000,,,,,,Sold,SAN MATEO
+94080,212 El Rancho Dr,3,6,South San Francisco,"2,640 sqft",9-Oct-13,"$477,500 ",37.661392,-122.45236,CA,Single-Family Home,477500,"$1,135,000 ",,,,,Sold,SAN MATEO
+94080,519 Walnut Ave,1.5,3,South San Francisco,"2,030 sqft",7-Oct-13,"$760,000 ",37.658432,-122.41329,CA,Single-Family Home,760000,"$800,000 ",,,,,Sold,SAN MATEO
+94080,3201 Dublin Dr,2,4,South San Francisco,"2,240 sqft",4-Oct-13,"$689,500 ",37.641327,-122.456665,CA,Single-Family Home,689500,"$859,000 ",,,,,Sold,SAN MATEO
+94080,153 Longford Dr,1,3,South San Francisco,"1,050 sqft",4-Oct-13,"$639,000 ",37.663116,-122.45831,CA,Single-Family Home,639000,"$665,000 ",,,,,Sold,SAN MATEO
+94080,7206 Shannon Park Ct,3.5,4,South San Francisco,"1,920 sqft",3-Oct-13,"$860,000 ",37.6406,-122.46299,CA,Single-Family Home,860000,"$1,044,000 ",,,,,Sold,SAN MATEO
+94080,2525 Tipperary Ave,2,4,South San Francisco,"1,500 sqft",3-Oct-13,"$651,000 ",37.638206,-122.451324,CA,Single-Family Home,651000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,25 Cymbidium Cir,2.5,4,South San Francisco,"1,880 sqft",3-Oct-13,"$800,000 ",37.660843,-122.445885,CA,Single-Family Home,800000,"$939,000 ",,,,,Sold,SAN MATEO
+94080,104 Ravenwood Way,1,3,South San Francisco,"1,100 sqft",2-Oct-13,"$610,000 ",37.637512,-122.430534,CA,Single-Family Home,610000,"$721,000 ",,,,,Sold,SAN MATEO
+94080,128 Randolph Ave,1,3,South San Francisco,880 sqft,2-Oct-13,"$500,000 ",37.665375,-122.40472,CA,Single-Family Home,500000,"$585,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #703-4,1,1,South San Francisco,720 sqft,1-Oct-13,"$250,000 ",37.64327,-122.450615,CA,Condo,250000,"$317,000 ",,,,,Sold,SAN MATEO
+94080,3826 Annapolis Ct,1,2,South San Francisco,858 sqft,1-Oct-13,"$410,000 ",37.649765,-122.455055,CA,Condo,410000,"$436,000 ",,,,,Sold,SAN MATEO
+94080,524 Diamond Ave,2,3,South San Francisco,"1,360 sqft",30-Sep-13,"$650,000 ",37.661636,-122.4136,CA,Single-Family Home,650000,"$758,000 ",,,,,Sold,SAN MATEO
+94080,137 Longford Dr,2,3,South San Francisco,"1,450 sqft",27-Sep-13,"$702,000 ",37.664116,-122.45889,CA,Single-Family Home,702000,"$749,000 ",,,,,Sold,SAN MATEO
+94080,3757 Radburn Dr,1,2,South San Francisco,858 sqft,27-Sep-13,"$420,000 ",37.647808,-122.456505,CA,Condo,420000,"$479,000 ",,,,,Sold,SAN MATEO
+94080,3703 Fairfax Way,1,2,South San Francisco,858 sqft,27-Sep-13,"$401,000 ",37.64733,-122.45865,CA,Condo,401000,"$467,000 ",,,,,Sold,SAN MATEO
+94080,3665 Erris Ct,1,2,South San Francisco,840 sqft,27-Sep-13,"$395,000 ",37.644375,-122.46449,CA,Condo,395000,"$489,000 ",,,,,Sold,SAN MATEO
+94080,65 Capay Cir,2,3,South San Francisco,"1,160 sqft",27-Sep-13,"$740,000 ",37.650276,-122.44536,CA,Single-Family Home,740000,"$808,000 ",,,,,Sold,SAN MATEO
+94080,105 Northcrest Dr,2.5,3,South San Francisco,"2,050 sqft",27-Sep-13,"$748,000 ",37.67052,-122.42113,CA,Single-Family Home,748000,"$856,000 ",,,,,Sold,SAN MATEO
+94080,639 Park Way,1.5,2,South San Francisco,"1,390 sqft",27-Sep-13,"$645,000 ",37.661148,-122.419266,CA,Single-Family Home,645000,"$699,000 ",,,,,Sold,SAN MATEO
+94080,810 Miller Ave,2,5,South San Francisco,"2,570 sqft",27-Sep-13,"$650,000 ",37.66017,-122.426704,CA,Single-Family Home,650000,"$1,110,000 ",,,,,Sold,SAN MATEO
+94080,3 Elkwood Dr,1,3,South San Francisco,990 sqft,24-Sep-13,"$570,000 ",37.66875,-122.45291,CA,Single-Family Home,570000,"$704,000 ",,,,,Sold,SAN MATEO
+94080,104 Belmont Ave,1,3,South San Francisco,"1,150 sqft",24-Sep-13,"$600,000 ",37.6648,-122.40916,CA,Single-Family Home,600000,"$603,000 ",,,,,Sold,SAN MATEO
+94080,1447 Crestwood Dr,2.5,5,South San Francisco,"2,310 sqft",24-Sep-13,"$920,000 ",37.67081,-122.43712,CA,Single-Family Home,920000,"$981,000 ",,,,,Sold,SAN MATEO
+94080,632 Brosnan Ct,1,2,South San Francisco,890 sqft,24-Sep-13,"$380,000 ",37.66088,-122.43212,CA,Condo,380000,"$445,000 ",,,,,Sold,SAN MATEO
+94080,15 Graystone Dr,1,3,South San Francisco,990 sqft,23-Sep-13,"$600,000 ",37.667877,-122.454926,CA,Single-Family Home,600000,"$707,000 ",,,,,Sold,SAN MATEO
+94080,556 Baden Ave,1,2,South San Francisco,870 sqft,20-Sep-13,"$580,000 ",37.656185,-122.41863,CA,Single-Family Home,580000,"$615,000 ",,,,,Sold,SAN MATEO
+94080,2425 Westchester Ct,2,3,South San Francisco,"1,750 sqft",20-Sep-13,"$708,000 ",37.64826,-122.454994,CA,Single-Family Home,708000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,818 Grand Ave,2,3,South San Francisco,"1,390 sqft",19-Sep-13,"$560,000 ",37.659313,-122.427444,CA,Single-Family Home,560000,"$775,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #2103,2,2,South San Francisco,"1,060 sqft",19-Sep-13,"$460,000 ",37.644985,-122.46818,CA,Condo,460000,"$558,000 ",,,,,Sold,SAN MATEO
+94080,353 Arroyo Dr,2.5,2,South San Francisco,"1,120 sqft",19-Sep-13,"$735,000 ",37.64871,-122.44741,CA,Single-Family Home,735000,"$755,000 ",,,,,Sold,SAN MATEO
+94080,743 Commercial Ave,1,2,South San Francisco,890 sqft,19-Sep-13,"$485,000 ",37.656315,-122.42579,CA,Single-Family Home,485000,"$643,000 ",,,,,Sold,SAN MATEO
+94080,3824 Kent Way,2,3,South San Francisco,"1,540 sqft",17-Sep-13,"$645,000 ",37.64798,-122.46068,CA,Single-Family Home,645000,"$705,000 ",,,,,Sold,SAN MATEO
+94080,2325 Bourbon Ct,3,4,South San Francisco,"2,240 sqft",17-Sep-13,"$850,000 ",37.64142,-122.45571,CA,Single-Family Home,850000,"$989,000 ",,,,,Sold,SAN MATEO
+94080,2470 Bantry Ln,3,3,South San Francisco,"2,560 sqft",16-Sep-13,"$21,500 ",37.64316,-122.45948,CA,Single-Family Home,21500,"$966,000 ",,,,,Sold,SAN MATEO
+94080,46 Bradford Dr,1,3,South San Francisco,990 sqft,13-Sep-13,"$600,000 ",37.6677,-122.45672,CA,Single-Family Home,600000,"$704,000 ",,,,,Sold,SAN MATEO
+94080,3812 Howard Ct,2,4,South San Francisco,"1,770 sqft",13-Sep-13,"$637,000 ",37.64837,-122.465065,CA,Single-Family Home,637000,"$722,000 ",,,,,Sold,SAN MATEO
+94080,3840 Radburn Dr,1.5,3,South San Francisco,"1,115 sqft",13-Sep-13,"$480,000 ",37.64949,-122.45642,CA,Condo,480000,"$518,000 ",,,,,Sold,SAN MATEO
+94080,126 Alta Loma Dr,1,2,South San Francisco,"1,380 sqft",13-Sep-13,"$650,000 ",37.65656,-122.437744,CA,Single-Family Home,650000,"$740,000 ",,,,,Sold,SAN MATEO
+94080,125 Highcrest Ln,2.5,3,South San Francisco,"1,660 sqft",12-Sep-13,"$690,000 ",37.671368,-122.42364,CA,Single-Family Home,690000,"$856,000 ",,,,,Sold,SAN MATEO
+94080,2250 Gellert Blvd #2207,1,1,South San Francisco,828 sqft,12-Sep-13,"$446,000 ",37.645065,-122.45413,CA,Condo,446000,"$462,000 ",,,,,Sold,SAN MATEO
+94080,3721 Carter Dr #2205,2,2,South San Francisco,"1,060 sqft",11-Sep-13,"$480,000 ",37.644985,-122.46818,CA,Condo,480000,"$570,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #706-4,2,3,South San Francisco,"1,357 sqft",11-Sep-13,"$405,000 ",37.64327,-122.450615,CA,Condo,405000,"$464,000 ",,,,,Sold,SAN MATEO
+94080,59 Duval Dr,1,3,South San Francisco,"1,050 sqft",10-Sep-13,"$630,000 ",37.66676,-122.4531,CA,Single-Family Home,630000,"$746,000 ",,,,,Sold,SAN MATEO
+94080,3873 Crofton Way,2,3,South San Francisco,"1,460 sqft",10-Sep-13,"$617,000 ",37.648376,-122.46239,CA,Single-Family Home,617000,"$736,000 ",,,,,Sold,SAN MATEO
+94080,132 B St,1,1,South San Francisco,390 sqft,10-Sep-13,"$367,000 ",37.653015,-122.4305,CA,Single-Family Home,367000,"$471,000 ",,,,,Sold,SAN MATEO
+94080,703 W Orange Ave,1,2,South San Francisco,"1,120 sqft",6-Sep-13,"$628,000 ",37.649666,-122.43229,CA,Single-Family Home,628000,"$659,000 ",,,,,Sold,SAN MATEO
+94080,292 Avalon Dr,2,3,South San Francisco,"1,160 sqft",6-Sep-13,"$701,000 ",37.644253,-122.43512,CA,Single-Family Home,701000,"$731,000 ",,,,,Sold,SAN MATEO
+94080,202 Alta Loma Dr,2,3,South San Francisco,"2,480 sqft",6-Sep-13,"$810,000 ",37.6577,-122.43897,CA,Single-Family Home,810000,"$977,000 ",,,,,Sold,SAN MATEO
+94080,103 Sherwood Way,1,3,South San Francisco,"1,100 sqft",6-Sep-13,"$630,000 ",37.636833,-122.43172,CA,Single-Family Home,630000,"$722,000 ",,,,,Sold,SAN MATEO
+94080,3705 Palos Verdes Way,2,3,South San Francisco,"1,635 sqft",5-Sep-13,"$585,000 ",37.646282,-122.46259,CA,Single-Family Home,585000,"$717,000 ",,,,,Sold,SAN MATEO
+94080,401 Zamora Dr,1,3,South San Francisco,"1,050 sqft",5-Sep-13,"$680,000 ",37.640785,-122.4379,CA,Single-Family Home,680000,"$692,000 ",,,,,Sold,SAN MATEO
+94080,2617 Duhallow Way,1.5,3,South San Francisco,"1,200 sqft",4-Sep-13,"$414,000 ",37.644375,-122.46449,CA,Condo,414000,"$503,000 ",,,,,Sold,SAN MATEO
+94080,335 Altamont Dr,2,3,South San Francisco,"1,120 sqft",3-Sep-13,"$763,000 ",37.65388,-122.4501,CA,Single-Family Home,763000,"$801,000 ",,,,,Sold,SAN MATEO
+94080,232 Sequoia Ave,2,3,South San Francisco,"1,300 sqft",30-Aug-13,"$665,500 ",37.663,-122.438866,CA,Single-Family Home,665500,"$752,000 ",,,,,Sold,SAN MATEO
+94080,104 Indio Dr,1,2,South San Francisco,"1,080 sqft",30-Aug-13,"$620,000 ",37.654766,-122.44039,CA,Single-Family Home,620000,"$688,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #714-12,1,1,South San Francisco,777 sqft,30-Aug-13,"$265,000 ",37.64327,-122.450615,CA,Condo,265000,"$344,000 ",,,,,Sold,SAN MATEO
+94080,853 Stonegate Dr,1.5,2,South San Francisco,"1,169 sqft",30-Aug-13,"$410,000 ",37.66627,-122.42733,CA,Condo,410000,"$530,000 ",,,,,Sold,SAN MATEO
+94080,608 Stonegate Dr,2.5,3,South San Francisco,"1,628 sqft",29-Aug-13,"$560,000 ",37.66481,-122.42465,CA,Condo,560000,"$637,000 ",,,,,Sold,SAN MATEO
+94080,536 Avalon Dr,,,South San Francisco,,28-Aug-13,"$1,130,000 ",37.63749,-122.44277,CA,Single-Family Home,1130000,,,,,,Sold,SAN MATEO
+94080,3978 Stein Ct,2.5,3,South San Francisco,"1,580 sqft",28-Aug-13,"$608,000 ",37.650036,-122.46271,CA,Single-Family Home,608000,"$744,000 ",,,,,Sold,SAN MATEO
+94080,3736 Palos Verdes Way,2,4,South San Francisco,"1,810 sqft",27-Aug-13,"$661,000 ",37.646942,-122.46239,CA,Single-Family Home,661000,"$737,000 ",,,,,Sold,SAN MATEO
+94080,3967 Kent Way,2,3,South San Francisco,"1,490 sqft",23-Aug-13,"$575,000 ",37.649647,-122.46107,CA,Single-Family Home,575000,"$762,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #704-8,1.5,2,South San Francisco,"1,030 sqft",23-Aug-13,"$380,000 ",37.64327,-122.450615,CA,Condo,380000,"$411,000 ",,,,,Sold,SAN MATEO
+94080,188 El Rancho Dr,3,6,South San Francisco,"2,640 sqft",23-Aug-13,"$1,200,000 ",37.660263,-122.45358,CA,Single-Family Home,1200000,"$1,217,000 ",,,,,Sold,SAN MATEO
+94080,1400 El Camino Real #110,2,2,South San Francisco,"1,190 sqft",23-Aug-13,"$500,000 ",37.661793,-122.44202,CA,Condo,500000,"$574,000 ",,,,,Sold,SAN MATEO
+94080,616 Lassen St,2.5,3,South San Francisco,"1,700 sqft",22-Aug-13,"$833,000 ",37.648132,-122.435455,CA,Single-Family Home,833000,"$851,000 ",,,,,Sold,SAN MATEO
+94080,112 Sutton Ave,1,3,South San Francisco,"1,050 sqft",22-Aug-13,"$640,000 ",37.665752,-122.46135,CA,Single-Family Home,640000,"$653,000 ",,Serramonte,,,Sold,SAN MATEO
+94080,1400 El Camino Real #216,2,2,South San Francisco,"1,176 sqft",22-Aug-13,"$550,000 ",37.661793,-122.44202,CA,Condo,550000,"$566,000 ",,,,,Sold,SAN MATEO
+94080,112 Carnelian Rd,2.5,3,South San Francisco,"1,560 sqft",22-Aug-13,"$630,000 ",37.665516,-122.423416,CA,Single-Family Home,630000,"$758,000 ",,,,,Sold,SAN MATEO
+94080,11 Jacinto Ln,2,3,South San Francisco,"1,590 sqft",20-Aug-13,"$725,000 ",37.650734,-122.443565,CA,Single-Family Home,725000,"$831,000 ",,,,,Sold,SAN MATEO
+94080,3550 Carter Dr #37,2,2,South San Francisco,877 sqft,20-Aug-13,"$378,000 ",37.64211,-122.464806,CA,Condo,378000,"$457,000 ",,,,,Sold,SAN MATEO
+94080,3849 Radburn Dr,1.5,3,South San Francisco,"1,115 sqft",19-Aug-13,"$400,000 ",37.649086,-122.45688,CA,Condo,400000,"$515,000 ",,,,,Sold,SAN MATEO
+94080,256 Sequoia Ave,2,3,South San Francisco,"1,050 sqft",19-Aug-13,"$610,000 ",37.663616,-122.438194,CA,Single-Family Home,610000,"$684,000 ",,,,,Sold,SAN MATEO
+94080,101 Mountain Rd,2,3,South San Francisco,"1,740 sqft",16-Aug-13,"$730,000 ",37.665077,-122.422806,CA,Single-Family Home,730000,"$803,000 ",,,,,Sold,SAN MATEO
+94080,3865 Carter Dr #203,2,2,South San Francisco,"1,105 sqft",16-Aug-13,"$475,000 ",37.649315,-122.46936,CA,Condo,475000,"$518,000 ",,,,,Sold,SAN MATEO
+94080,137 Alta Loma Dr,1,3,South San Francisco,"1,380 sqft",16-Aug-13,"$640,000 ",37.656853,-122.43894,CA,Single-Family Home,640000,"$807,000 ",,,,,Sold,SAN MATEO
+94080,311 Castile Way,3,6,South San Francisco,"2,750 sqft",16-Aug-13,"$1,182,000 ",37.64266,-122.434875,CA,Single-Family Home,1182000,"$1,375,000 ",,,,,Sold,SAN MATEO
+94080,33 Northcrest Dr,2.5,3,South San Francisco,"2,050 sqft",14-Aug-13,"$730,000 ",37.67007,-122.418976,CA,Single-Family Home,730000,"$911,000 ",,,,,Sold,SAN MATEO
+94080,47 Appian Way #B,2,2,South San Francisco,"1,252 sqft",13-Aug-13,"$435,000 ",37.642654,-122.44682,CA,Condo,435000,"$582,000 ",,,,,Sold,SAN MATEO
+94080,956 Commercial Ave,3.5,3,South San Francisco,"1,850 sqft",13-Aug-13,"$723,500 ",37.658764,-122.43226,CA,Single-Family Home,723500,"$968,000 ",,,,,Sold,SAN MATEO
+94080,2200 Archdale Ct,2.5,4,South San Francisco,"1,710 sqft",13-Aug-13,"$700,000 ",37.64302,-122.45296,CA,Single-Family Home,700000,"$752,000 ",,,,,Sold,SAN MATEO
+94080,930 Mission Rd #30,2,2,South San Francisco,"1,046 sqft",12-Aug-13,"$325,000 ",37.6575,-122.43282,CA,Condo,325000,"$469,000 ",,,,,Sold,SAN MATEO
+94080,3665 Carter Dr,1,2,South San Francisco,840 sqft,12-Aug-13,"$405,000 ",37.643368,-122.46599,CA,Condo,405000,"$447,000 ",,,,,Sold,SAN MATEO
+94080,2210 Gellert Blvd #5303,2,2,South San Francisco,"1,026 sqft",9-Aug-13,"$465,000 ",37.647587,-122.453735,CA,Condo,465000,"$512,000 ",,,,,Sold,SAN MATEO
+94080,2260 Gellert Blvd #1406,2,3,South San Francisco,"1,290 sqft",9-Aug-13,"$625,000 ",37.6451,-122.45401,CA,Condo,625000,"$701,000 ",,,,,Sold,SAN MATEO
+94080,705 Almond Ave,2,3,South San Francisco,"1,340 sqft",8-Aug-13,"$720,000 ",37.660954,-122.42184,CA,Single-Family Home,720000,"$759,000 ",,,,,Sold,SAN MATEO
+94080,562 Poplar Ave,2,3,South San Francisco,"3,221 sqft",8-Aug-13,"$665,000 ",37.66115,-122.41942,CA,Multi-Family,665000,"$828,000 ",,,,,Sold,SAN MATEO
+94080,2555 Adams Ct,2,4,South San Francisco,"1,810 sqft",8-Aug-13,"$470,000 ",37.64756,-122.46473,CA,Single-Family Home,470000,"$759,000 ",,,,,Sold,SAN MATEO
+94080,421 Valverde Dr,1,3,South San Francisco,"1,160 sqft",8-Aug-13,"$640,000 ",37.63985,-122.44082,CA,Single-Family Home,640000,"$688,000 ",,,,,Sold,SAN MATEO
+94080,73 Crown Cir,2,2,South San Francisco,"1,190 sqft",7-Aug-13,"$580,000 ",37.663734,-122.45571,CA,Single-Family Home,580000,"$676,000 ",,,,,Sold,SAN MATEO
+94080,2520 Bantry Ln,2,3,South San Francisco,"2,240 sqft",7-Aug-13,"$732,000 ",37.642887,-122.46066,CA,Single-Family Home,732000,"$832,000 ",,,,,Sold,SAN MATEO
+94080,18 Nursery Way,3,5,South San Francisco,"2,350 sqft",6-Aug-13,"$843,000 ",37.663074,-122.42974,CA,Single-Family Home,843000,"$1,088,000 ",,,,,Sold,SAN MATEO
+94080,2760 Meath Dr,1,2,South San Francisco,840 sqft,2-Aug-13,"$400,000 ",37.643368,-122.46599,CA,Condo,400000,"$447,000 ",,,,,Sold,SAN MATEO
+94080,2288 Greendale Dr,1.5,3,South San Francisco,"1,115 sqft",31-Jul-13,"$371,000 ",37.646706,-122.45752,CA,Condo,371000,"$499,000 ",,,,,Sold,SAN MATEO
+94080,2210 Gellert Blvd #5407,1,1,South San Francisco,828 sqft,31-Jul-13,"$400,000 ",37.647587,-122.453735,CA,Condo,400000,"$500,000 ",,,,,Sold,SAN MATEO
+94080,748 Almond Ave,2,3,South San Francisco,"1,330 sqft",31-Jul-13,"$653,000 ",37.661793,-122.4237,CA,Single-Family Home,653000,"$750,000 ",,,,,Sold,SAN MATEO
+94080,2220 Gellert Blvd #4203,2,2,South San Francisco,"1,026 sqft",31-Jul-13,"$420,000 ",37.64665,-122.45378,CA,Condo,420000,"$489,000 ",,,,,Sold,SAN MATEO
+94080,1 Appian Way #714-10,1,1,South San Francisco,"1,008 sqft",30-Jul-13,"$217,000 ",37.64327,-122.450615,CA,Condo,217000,"$377,000 ",,,,,Sold,SAN MATEO
+94080,2242 Derry Way,2,3,South San Francisco,"1,420 sqft",30-Jul-13,"$690,000 ",37.640305,-122.44806,CA,Single-Family Home,690000,"$726,000 ",,,,,Sold,SAN MATEO
+94080,2220 Gellert Blvd #4403,2,2,South San Francisco,"1,026 sqft",29-Jul-13,"$412,500 ",37.64665,-122.45378,CA,Condo,412500,"$591,000 ",,,,,Sold,SAN MATEO
+94080,159 Valleyview Way,3,4,South San Francisco,"1,960 sqft",26-Jul-13,"$850,000 ",37.63779,-122.443794,CA,Single-Family Home,850000,"$972,000 ",,,,,Sold,SAN MATEO
+94080,109 Claremont Ave,1,2,South San Francisco,920 sqft,25-Jul-13,"$557,000 ",37.66538,-122.41036,CA,Single-Family Home,557000,"$558,000 ",,,,,Sold,SAN MATEO
+94080,119 Mulberry Ave,1,3,South San Francisco,980 sqft,24-Jul-13,"$651,000 ",37.651375,-122.42497,CA,Single-Family Home,651000,"$648,000 ",,,,,Sold,SAN MATEO
+94080,204 A St,1,2,South San Francisco,"1,040 sqft",24-Jul-13,"$572,000 ",37.651924,-122.43079,CA,Single-Family Home,572000,"$609,000 ",,,,,Sold,SAN MATEO
+94080,534 Avalon Dr,,,South San Francisco,,24-Jul-13,"$1,122,000 ",37.637554,-122.44283,CA,Single-Family Home,1122000,"$350,000 ",,,,,Sold,SAN MATEO
+94080,7227 Shannon Park Ct,3.5,4,South San Francisco,"1,450 sqft",23-Jul-13,"$891,000 ",37.640266,-122.46255,CA,Single-Family Home,891000,"$966,000 ",,,,,Sold,SAN MATEO
+94080,371 Arroyo Dr,2,3,South San Francisco,"1,110 sqft",23-Jul-13,"$621,000 ",37.64859,-122.44914,CA,Single-Family Home,621000,"$744,000 ",,,,,Sold,SAN MATEO
+94080,3672 Bettman Way,2,3,South San Francisco,"1,540 sqft",23-Jul-13,"$585,000 ",37.646137,-122.46013,CA,Single-Family Home,585000,"$704,000 ",,,,,Sold,SAN MATEO
+94080,1488 El Camino Real #204,2,2,South San Francisco,990 sqft,23-Jul-13,"$483,000 ",37.663548,-122.44538,CA,Condo,483000,"$517,000 ",,,,,Sold,SAN MATEO
+94080,60 Pointe View Pl,2.5,3,South San Francisco,"2,500 sqft",23-Jul-13,"$860,000 ",37.66562,-122.40095,CA,Single-Family Home,860000,"$1,027,000 ",,,,,Sold,SAN MATEO
+94080,664 Ash Ave,1,3,South San Francisco,940 sqft,23-Jul-13,"$450,000 ",37.66389,-122.41301,CA,Single-Family Home,450000,"$594,000 ",,,,,Sold,SAN MATEO
+94080,55 Mahogany Dr,2.5,4,South San Francisco,"2,280 sqft",19-Jul-13,"$850,000 ",37.65366,-122.4228,CA,Single-Family Home,850000,"$947,000 ",,,,,Sold,SAN MATEO
+94080,552 Railroad Ave,2,5,South San Francisco,"1,500 sqft",19-Jul-13,"$615,000 ",37.65441,-122.41921,CA,Single-Family Home,615000,"$788,000 ",,,,,Sold,SAN MATEO
+94080,32 Parkgrove Dr,3.5,4,South San Francisco,"2,780 sqft",19-Jul-13,"$965,000 ",37.671204,-122.41563,CA,Single-Family Home,965000,"$1,167,000 ",,,,,Sold,SAN MATEO
+94080,2540 Wexford Ave,3,5,South San Francisco,"2,000 sqft",19-Jul-13,"$853,000 ",37.638393,-122.449745,CA,Single-Family Home,853000,"$882,000 ",,,,,Sold,SAN MATEO
+94080,4 Viewmont Ter,2.5,3,South San Francisco,"1,900 sqft",18-Jul-13,"$650,000 ",37.66383,-122.42519,CA,Single-Family Home,650000,"$801,000 ",,,,,Sold,SAN MATEO
+94080,407 Commercial Ave,,,South San Francisco,"1,240 sqft",16-Jul-13,"$725,000 ",37.653576,-122.4136,CA,Unknown,725000,,,,,,Sold,SAN MATEO
+94080,1019 Miller Ave,1,3,South San Francisco,"1,050 sqft",16-Jul-13,"$625,000 ",37.66149,-122.43364,CA,Single-Family Home,625000,"$688,000 ",,,,,Sold,SAN MATEO
+94080,351 Arbor Dr,2,3,South San Francisco,"1,330 sqft",16-Jul-13,"$710,000 ",37.65318,-122.45181,CA,Single-Family Home,710000,"$862,000 ",,,,,Sold,SAN MATEO
+94080,471 Comerwood Ct,2,3,South San Francisco,"1,330 sqft",12-Jul-13,"$750,000 ",37.64485,-122.43558,CA,Single-Family Home,750000,"$777,000 ",,,,,Sold,SAN MATEO
+94080,520 Park Way,1.5,2,South San Francisco,"1,050 sqft",12-Jul-13,"$650,000 ",37.660446,-122.41583,CA,Single-Family Home,650000,"$708,000 ",,,,,Sold,SAN MATEO
+94080,119 Claremont Ave,1,3,South San Francisco,990 sqft,12-Jul-13,"$530,000 ",37.665897,-122.410126,CA,Single-Family Home,530000,"$597,000 ",,,,,Sold,SAN MATEO
+94080,1276 Miller Ave,1,3,South San Francisco,"1,080 sqft",12-Jul-13,"$585,000 ",37.666424,-122.43861,CA,Single-Family Home,585000,"$701,000 ",,,,,Sold,SAN MATEO
+94080,413 Gardenside Ave,2,3,South San Francisco,"1,450 sqft",11-Jul-13,"$670,000 ",37.66833,-122.43581,CA,Single-Family Home,670000,"$734,000 ",,,,,Sold,SAN MATEO
+94080,2695 Shannon Dr,2,4,South San Francisco,"1,500 sqft",10-Jul-13,"$662,000 ",37.636295,-122.44962,CA,Single-Family Home,662000,"$766,000 ",,,,,Sold,SAN MATEO
+94080,1 Mandalay Pl #1708,1,1,South San Francisco,941 sqft,9-Jul-13,"$415,000 ",37.666145,-122.40382,CA,Condo,415000,"$445,000 ",,,,,Sold,SAN MATEO
+94080,16 San Felipe Ave,2.5,4,South San Francisco,"1,490 sqft",9-Jul-13,"$558,000 ",37.660763,-122.44497,CA,Single-Family Home,558000,"$695,000 ",,,,,Sold,SAN MATEO
+94080,521 Elm Ct,1,3,South San Francisco,"1,260 sqft",8-Jul-13,"$330,000 ",37.65989,-122.417435,CA,Single-Family Home,330000,"$676,000 ",,,,,Sold,SAN MATEO
+94080,647 Palm Ave,2,3,South San Francisco,"1,370 sqft",8-Jul-13,"$330,000 ",37.659267,-122.420685,CA,Single-Family Home,330000,"$708,000 ",,,,,Sold,SAN MATEO
+94080,81 Calvert Ave,1,2,South San Francisco,820 sqft,5-Jul-13,"$461,000 ",37.666477,-122.457695,CA,Single-Family Home,461000,"$646,000 ",,,,,Sold,SAN MATEO
+94080,529 Baden Ave,4,8,South San Francisco,"5,970 sqft",5-Jul-13,"$818,000 ",37.655525,-122.41778,CA,Multi-Family,818000,,,,,,Sold,SAN MATEO
+94080,351 Arroyo Dr,2.5,2,South San Francisco,"1,120 sqft",3-Jul-13,"$650,000 ",37.64879,-122.447266,CA,Single-Family Home,650000,"$755,000 ",,,,,Sold,SAN MATEO
+94080,3738 Carter Dr,2,3,South San Francisco,"1,500 sqft",3-Jul-13,"$630,000 ",37.645546,-122.468285,CA,Single-Family Home,630000,"$699,000 ",,,,,Sold,SAN MATEO
+94080,52 Franklin Ave,,,South San Francisco,,2-Jul-13,"$360,000 ",37.66505,-122.41594,CA,Unknown,360000,,,,,,Sold,SAN MATEO
+94080,505 Baden Ave,5,7,South San Francisco,"5,520 sqft",1-Jul-13,"$1,038,000 ",37.655308,-122.4168,CA,Multi-Family,1038000,,,,,,Sold,SAN MATEO
+94080,2188 Greendale Dr,2,3,South San Francisco,"1,540 sqft",28-Jun-13,"$645,000 ",37.64623,-122.46063,CA,Single-Family Home,645000,"$715,000 ",,,,,Sold,SAN MATEO
+94080,924 Commercial Ave,1,2,South San Francisco,820 sqft,28-Jun-13,"$550,000 ",37.658245,-122.43177,CA,Single-Family Home,550000,"$570,000 ",,,,,Sold,SAN MATEO
+94080,978 Brusco Way,6,8,South San Francisco,"4,767 sqft",28-Jun-13,"$1,280,000 ",37.663555,-122.4315,CA,Multi-Family,1280000,,,,,,Sold,SAN MATEO
+94080,524 Valverde Dr,2,2,South San Francisco,"1,440 sqft",28-Jun-13,"$730,000 ",37.642624,-122.442345,CA,Single-Family Home,730000,"$904,000 ",,,,,Sold,SAN MATEO
+94080,107 Rosa Flora Cir,2.5,3,South San Francisco,"1,200 sqft",28-Jun-13,"$590,000 ",37.645,-122.43101,CA,Single-Family Home,590000,"$662,000 ",,,,,Sold,SAN MATEO
+94080,2424 Wren Ct,3,4,South San Francisco,"1,740 sqft",28-Jun-13,"$690,000 ",37.64594,-122.45536,CA,Single-Family Home,690000,"$811,000 ",,,,,Sold,SAN MATEO
+94080,831 Commercial Ave,1,2,South San Francisco,890 sqft,28-Jun-13,"$578,000 ",37.65695,-122.42875,CA,Single-Family Home,578000,"$607,000 ",,,,,Sold,SAN MATEO
+94080,149 Lacrosse Ave,2,3,South San Francisco,"1,600 sqft",27-Jun-13,"$650,000 ",37.657673,-122.44895,CA,Single-Family Home,650000,"$810,000 ",,,,,Sold,SAN MATEO
+94080,227 Hazelwood Dr,1,2,South San Francisco,980 sqft,26-Jun-13,"$615,000 ",37.639957,-122.43044,CA,Single-Family Home,615000,"$666,000 ",,,,,Sold,SAN MATEO
+94080,143 S Magnolia Ave,1,3,South San Francisco,"1,100 sqft",26-Jun-13,"$540,000 ",37.64868,-122.422264,CA,Single-Family Home,540000,"$644,000 ",,,,,Sold,SAN MATEO
+94080,3780 Carter Dr,2,4,South San Francisco,"1,810 sqft",26-Jun-13,"$650,000 ",37.64663,-122.46919,CA,Single-Family Home,650000,"$737,000 ",,,,,Sold,SAN MATEO
+94080,64 Oak Ave,1,2,South San Francisco,903 sqft,26-Jun-13,"$432,000 ",37.657845,-122.43366,CA,Condo,432000,"$506,000 ",,,,,Sold,SAN MATEO
+94080,40 Bradford Dr,2,3,South San Francisco,"1,400 sqft",25-Jun-13,"$551,000 ",37.667953,-122.456276,CA,Single-Family Home,551000,"$741,000 ",,,,,Sold,SAN MATEO
+94080,3937 Haussman Ct,1.5,3,South San Francisco,"1,115 sqft",25-Jun-13,"$147,000 ",37.649593,-122.46639,CA,Condo,147000,"$467,000 ",,,,,Sold,SAN MATEO

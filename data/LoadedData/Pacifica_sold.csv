@@ -1,0 +1,248 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94044,1323 Poplar Ave,3,5,Pacifica,"1,650 sqft",20-Feb-14,"$660,000 ",37.58998,-122.47764,CA,Single-Family Home,660000,"$783,000 ",,,,,Sold,SAN MATEO
+94044,631 Sharp Park Rd,2.5,3,Pacifica,"1,380 sqft",20-Feb-14,"$603,500 ",37.63464,-122.47383,CA,Single-Family Home,603500,"$713,000 ",,,,,Sold,SAN MATEO
+94044,295 Pinehaven Way,2,3,Pacifica,"1,080 sqft",18-Feb-14,"$675,000 ",37.62038,-122.48642,CA,Single-Family Home,675000,"$779,000 ",,,,,Sold,SAN MATEO
+94044,232 Moana Pl,1,2,Pacifica,830 sqft,14-Feb-14,"$560,000 ",37.63112,-122.48863,CA,Single-Family Home,560000,"$571,000 ",,,,,Sold,SAN MATEO
+94044,32 Driftwood Cir,2,3,Pacifica,"1,720 sqft",13-Feb-14,"$739,500 ",37.59987,-122.48638,CA,Single-Family Home,739500,"$1,036,000 ",,,,,Sold,SAN MATEO
+94044,1179 Grand Teton Dr,2,3,Pacifica,"1,490 sqft",12-Feb-14,"$550,000 ",37.592194,-122.468956,CA,Single-Family Home,550000,"$778,000 ",,,,,Sold,SAN MATEO
+94044,883 Linda Mar Blvd,1,3,Pacifica,"1,040 sqft",11-Feb-14,"$570,000 ",37.59038,-122.49464,CA,Single-Family Home,570000,"$681,000 ",,,,,Sold,SAN MATEO
+94044,208 Beaumont Blvd,,,Pacifica,,7-Feb-14,"$1,250,000 ",37.6559,-122.49,CA,Single-Family Home,1250000,"$384,000 ",,,,,Sold,SAN MATEO
+94044,401 Moana Way,1,2,Pacifica,750 sqft,7-Feb-14,"$570,000 ",37.631546,-122.48579,CA,Single-Family Home,570000,"$567,000 ",,,,,Sold,SAN MATEO
+94044,386 Coral Ridge Dr,2.5,4,Pacifica,"1,990 sqft",31-Jan-14,"$720,000 ",37.656937,-122.487465,CA,Single-Family Home,720000,"$911,000 ",,,,,Sold,SAN MATEO
+94044,236 Edgewood Dr,2,4,Pacifica,"1,560 sqft",31-Jan-14,"$740,000 ",37.662525,-122.48252,CA,Single-Family Home,740000,"$886,000 ",,,,,Sold,SAN MATEO
+94044,224 Catalina Ave,2,3,Pacifica,"1,060 sqft",31-Jan-14,"$535,000 ",37.656116,-122.48194,CA,Single-Family Home,535000,"$747,000 ",,,,,Sold,SAN MATEO
+94044,1287 Alicante Dr,2,4,Pacifica,"1,080 sqft",31-Jan-14,"$585,000 ",37.58369,-122.484566,CA,Single-Family Home,585000,"$687,000 ",,,,,Sold,SAN MATEO
+94044,1356 Solano Dr,1,3,Pacifica,"1,040 sqft",31-Jan-14,"$580,000 ",37.58461,-122.48958,CA,Single-Family Home,580000,"$674,000 ",,,,,Sold,SAN MATEO
+94044,1172 Terra Nova Blvd,2,2,Pacifica,"1,400 sqft",31-Jan-14,"$419,000 ",37.586254,-122.476555,CA,Single-Family Home,419000,"$574,000 ",,,,,Sold,SAN MATEO
+94044,185 Verona Ave,2,3,Pacifica,"1,160 sqft",30-Jan-14,"$200,000 ",37.613674,-122.48097,CA,Single-Family Home,200000,"$684,000 ",,,,,Sold,SAN MATEO
+94044,732 Edgemar Ave,1,3,Pacifica,"1,010 sqft",27-Jan-14,"$500,000 ",37.643764,-122.488075,CA,Single-Family Home,500000,"$636,000 ",,,,,Sold,SAN MATEO
+94044,236 Modoc Pl,1,3,Pacifica,980 sqft,24-Jan-14,"$629,000 ",37.609444,-122.47345,CA,Single-Family Home,629000,"$800,000 ",,,,,Sold,SAN MATEO
+94044,1121 Manzanita Dr,2,3,Pacifica,"1,540 sqft",24-Jan-14,"$691,000 ",37.587044,-122.48153,CA,Single-Family Home,691000,"$816,000 ",,,,,Sold,SAN MATEO
+94044,5015 Palmetto Ave #1,2,2,Pacifica,"1,200 sqft",24-Jan-14,"$454,000 ",37.65977,-122.490524,CA,Condo,454000,"$541,000 ",,,,,Sold,SAN MATEO
+94044,71 Gateway Dr,2,3,Pacifica,"1,320 sqft",22-Jan-14,"$631,000 ",37.66511,-122.483475,CA,Single-Family Home,631000,"$795,000 ",,,,,Sold,SAN MATEO
+94044,2 Gypsy Hill Rd,,,Pacifica,,21-Jan-14,"$945,000 ",37.62863,-122.48558,CA,Single-Family Home,945000,,,,,,Sold,SAN MATEO
+94044,238 Crestmoor Cir,2,4,Pacifica,"1,560 sqft",17-Jan-14,"$750,000 ",37.65543,-122.48231,CA,Single-Family Home,750000,"$887,000 ",,,,,Sold,SAN MATEO
+94044,410 Imperial Dr,2.5,4,Pacifica,"1,590 sqft",17-Jan-14,"$725,000 ",37.655636,-122.47724,CA,Single-Family Home,725000,"$749,000 ",,,,,Sold,SAN MATEO
+94044,1124 De Solo Dr,1,3,Pacifica,"1,040 sqft",15-Jan-14,"$545,000 ",37.596226,-122.49914,CA,Single-Family Home,545000,"$650,000 ",,,,,Sold,SAN MATEO
+94044,242 Gateway Dr,1,3,Pacifica,"1,060 sqft",15-Jan-14,"$627,000 ",37.66365,-122.4802,CA,Single-Family Home,627000,"$745,000 ",,,,,Sold,SAN MATEO
+94044,1103 Oddstad Blvd,1.5,2,Pacifica,940 sqft,10-Jan-14,"$360,000 ",37.592216,-122.46478,CA,Single-Family Home,360000,"$556,000 ",,,,,Sold,SAN MATEO
+94044,26 Spruce Ct,2,3,Pacifica,"1,500 sqft",10-Jan-14,"$700,000 ",37.591923,-122.48208,CA,Single-Family Home,700000,"$804,000 ",,,,,Sold,SAN MATEO
+94044,248 Catalina Ave,1,3,Pacifica,"1,060 sqft",10-Jan-14,"$695,000 ",37.655624,-122.4814,CA,Single-Family Home,695000,"$720,000 ",,,,,Sold,SAN MATEO
+94044,684 Montezuma Dr,1,3,Pacifica,"1,040 sqft",9-Jan-14,"$596,000 ",37.59233,-122.500916,CA,Single-Family Home,596000,"$698,000 ",,,,,Sold,SAN MATEO
+94044,516 Miller Ave,1,3,Pacifica,"1,110 sqft",8-Jan-14,"$640,000 ",37.648834,-122.484634,CA,Single-Family Home,640000,"$690,000 ",,,,,Sold,SAN MATEO
+94044,451 Heathcliff Dr,2,3,Pacifica,"1,220 sqft",6-Jan-14,"$604,000 ",37.64898,-122.47649,CA,Single-Family Home,604000,"$688,000 ",,,,,Sold,SAN MATEO
+94044,720 Claridge Dr,2,3,Pacifica,"1,220 sqft",3-Jan-14,"$545,000 ",37.643967,-122.46996,CA,Single-Family Home,545000,"$624,000 ",,,,,Sold,SAN MATEO
+94044,1344 Terra Nova Blvd,1.5,2,Pacifica,900 sqft,3-Jan-14,"$425,000 ",37.58932,-122.47641,CA,Single-Family Home,425000,"$403,000 ",,,,,Sold,SAN MATEO
+94044,1329 Terra Nova Blvd,2,2,Pacifica,"1,400 sqft",31-Dec-13,"$453,000 ",37.58962,-122.47689,CA,Single-Family Home,453000,"$583,000 ",,,,,Sold,SAN MATEO
+94044,203 Greenway Dr,2,3,Pacifica,"1,050 sqft",30-Dec-13,"$650,000 ",37.621464,-122.48912,CA,Single-Family Home,650000,"$775,000 ",,,,,Sold,SAN MATEO
+94044,508 Arguello Blvd,1,3,Pacifica,"1,040 sqft",27-Dec-13,"$615,000 ",37.596085,-122.502914,CA,Single-Family Home,615000,"$695,000 ",,,,,Sold,SAN MATEO
+94044,2355 Beach Blvd #103,2,2,Pacifica,958 sqft,27-Dec-13,"$455,000 ",37.630444,-122.49323,CA,Condo,455000,"$475,000 ",,,,,Sold,SAN MATEO
+94044,366 Horizon Way,3.5,4,Pacifica,"2,170 sqft",27-Dec-13,"$625,000 ",37.65276,-122.47791,CA,Single-Family Home,625000,"$804,000 ",,,,,Sold,SAN MATEO
+94044,1012 Granada Dr,2,4,Pacifica,"1,080 sqft",24-Dec-13,"$650,000 ",37.59394,-122.4884,CA,Single-Family Home,650000,"$700,000 ",,,,,Sold,SAN MATEO
+94044,129 Paloma Ave,1,2,Pacifica,"1,230 sqft",24-Dec-13,"$665,000 ",37.636707,-122.49151,CA,Single-Family Home,665000,"$777,000 ",,,,,Sold,SAN MATEO
+94044,1315 Crespi Dr,3,4,Pacifica,"2,660 sqft",23-Dec-13,"$1,000,000 ",37.5922,-122.483505,CA,Single-Family Home,1000000,"$1,049,000 ",,,,,Sold,SAN MATEO
+94044,1064 Valencia Way,2,3,Pacifica,"1,110 sqft",18-Dec-13,"$480,000 ",37.594463,-122.48779,CA,Single-Family Home,480000,"$732,000 ",,,,,Sold,SAN MATEO
+94044,1050 Park Pacifica Ave,3,4,Pacifica,"2,150 sqft",18-Dec-13,"$732,500 ",37.585476,-122.47239,CA,Single-Family Home,732500,"$891,000 ",,,,,Sold,SAN MATEO
+94044,628 Canyon Dr,1,2,Pacifica,920 sqft,18-Dec-13,"$502,500 ",37.63511,-122.48115,CA,Single-Family Home,502500,"$653,000 ",,,,,Sold,SAN MATEO
+94044,1218 Aspen Dr,2,3,Pacifica,"1,090 sqft",13-Dec-13,"$690,000 ",37.585518,-122.47511,CA,Single-Family Home,690000,"$825,000 ",,,,,Sold,SAN MATEO
+94044,1112 Oddstad Blvd,2,3,Pacifica,"1,820 sqft",12-Dec-13,"$812,500 ",37.59152,-122.464325,CA,Single-Family Home,812500,"$853,000 ",,,,,Sold,SAN MATEO
+94044,240 Stanley Ave,,,Pacifica,,12-Dec-13,"$1,295,000 ",37.594543,-122.51055,CA,Single-Family Home,1295000,"$576,000 ",,,,,Sold,SAN MATEO
+94044,719 Lundy Way,2,3,Pacifica,"1,130 sqft",10-Dec-13,"$602,000 ",37.621025,-122.48403,CA,Single-Family Home,602000,"$761,000 ",,,,,Sold,SAN MATEO
+94044,2107 Palmetto Ave,,,Pacifica,,10-Dec-13,"$350,000 ",37.632942,-122.49195,CA,Unknown,350000,,,,,,Sold,SAN MATEO
+94044,516 Inverness Dr,2,3,Pacifica,"1,220 sqft",9-Dec-13,"$560,000 ",37.647728,-122.47508,CA,Single-Family Home,560000,"$699,000 ",,,,,Sold,SAN MATEO
+94044,30 Eastridge Cir,2,3,Pacifica,"1,250 sqft",9-Dec-13,"$575,000 ",37.665497,-122.48264,CA,Single-Family Home,575000,"$863,000 ",,,,,Sold,SAN MATEO
+94044,236 Gateway Dr,1,3,Pacifica,"1,060 sqft",5-Dec-13,"$60,000 ",37.66383,-122.48037,CA,Single-Family Home,60000,"$685,000 ",,,,,Sold,SAN MATEO
+94044,155 Bonita Ave,1,2,Pacifica,740 sqft,5-Dec-13,"$580,000 ",37.613697,-122.47829,CA,Single-Family Home,580000,"$634,000 ",,,,,Sold,SAN MATEO
+94044,1231 Terra Nova Blvd,1.5,2,Pacifica,960 sqft,5-Dec-13,"$328,000 ",37.58674,-122.47756,CA,Single-Family Home,328000,"$488,000 ",,,,,Sold,SAN MATEO
+94044,1412 Crespi Dr,2,3,Pacifica,"1,100 sqft",3-Dec-13,"$700,000 ",37.595123,-122.4807,CA,Single-Family Home,700000,"$725,000 ",,,,,Sold,SAN MATEO
+94044,320 Carmel Ave,3,3,Pacifica,"1,580 sqft",27-Nov-13,"$675,000 ",37.63592,-122.4874,CA,Single-Family Home,675000,"$929,000 ",,,,,Sold,SAN MATEO
+94044,276 Gateway Dr,1,3,Pacifica,"1,070 sqft",27-Nov-13,"$575,000 ",37.66215,-122.47967,CA,Single-Family Home,575000,"$674,000 ",,,,,Sold,SAN MATEO
+94044,342 Reichling Ave,,,Pacifica,,27-Nov-13,"$1,075,000 ",37.60977,-122.48427,CA,Single-Family Home,1075000,,,,,,Sold,SAN MATEO
+94044,1189 Manzanita Dr,2,3,Pacifica,"1,120 sqft",27-Nov-13,"$690,000 ",37.584206,-122.47869,CA,Single-Family Home,690000,"$821,000 ",,,,,Sold,SAN MATEO
+94044,100 Franz Ct,2.5,4,Pacifica,"1,720 sqft",27-Nov-13,"$718,000 ",37.612656,-122.48702,CA,Single-Family Home,718000,"$837,000 ",,,,,Sold,SAN MATEO
+94044,611 Farallon Ave,1,2,Pacifica,"1,260 sqft",27-Nov-13,"$550,000 ",37.651794,-122.48234,CA,Single-Family Home,550000,"$723,000 ",,,,,Sold,SAN MATEO
+94044,305 Loma Vista Ter,1,2,Pacifica,"1,040 sqft",27-Nov-13,"$604,000 ",37.635654,-122.487785,CA,Single-Family Home,604000,"$762,000 ",,,,,Sold,SAN MATEO
+94044,828 Burns Ct,2,3,Pacifica,"1,130 sqft",26-Nov-13,"$670,000 ",37.619038,-122.48341,CA,Single-Family Home,670000,"$712,000 ",,,,,Sold,SAN MATEO
+94044,655 Heather Ct,2,3,Pacifica,"1,220 sqft",26-Nov-13,"$525,000 ",37.6445,-122.470825,CA,Single-Family Home,525000,"$669,000 ",,,,,Sold,SAN MATEO
+94044,1111 Oddstad Blvd,1.5,2,Pacifica,940 sqft,26-Nov-13,"$410,000 ",37.592365,-122.464676,CA,Single-Family Home,410000,"$466,000 ",,,,,Sold,SAN MATEO
+94044,1209 Seville Dr,2,3,Pacifica,"1,080 sqft",22-Nov-13,"$665,000 ",37.590576,-122.49257,CA,Single-Family Home,665000,"$683,000 ",,,,,Sold,SAN MATEO
+94044,1511 Madeira Dr,1,3,Pacifica,"1,040 sqft",22-Nov-13,"$595,000 ",37.58177,-122.48078,CA,Single-Family Home,595000,"$667,000 ",,,,,Sold,SAN MATEO
+94044,1065 Barcelona Dr,2,3,Pacifica,"1,490 sqft",19-Nov-13,"$680,000 ",37.592617,-122.48706,CA,Single-Family Home,680000,"$860,000 ",,,,,Sold,SAN MATEO
+94044,451 Farallon Ave,3.5,4,Pacifica,"2,850 sqft",19-Nov-13,"$895,000 ",37.65418,-122.48386,CA,Single-Family Home,895000,"$1,272,000 ",,,,,Sold,SAN MATEO
+94044,1303 Poplar Ave,2,3,Pacifica,"1,110 sqft",19-Nov-13,"$670,000 ",37.589314,-122.47801,CA,Single-Family Home,670000,"$709,000 ",,,,,Sold,SAN MATEO
+94044,5003 Palmetto Ave #83,2,2,Pacifica,"1,200 sqft",18-Nov-13,"$504,000 ",37.65977,-122.490524,CA,Condo,504000,"$533,000 ",,,,,Sold,SAN MATEO
+94044,504 Monterey Rd #1,1.5,2,Pacifica,"1,050 sqft",15-Nov-13,"$499,000 ",37.649868,-122.48049,CA,Condo,499000,"$545,000 ",,,,,Sold,SAN MATEO
+94044,308 Magellan Dr,1,3,Pacifica,"1,110 sqft",15-Nov-13,"$590,000 ",37.6609,-122.48712,CA,Single-Family Home,590000,"$725,000 ",,,,,Sold,SAN MATEO
+94044,1431 Terra Nova Blvd,1.5,2,Pacifica,960 sqft,14-Nov-13,"$126,818 ",37.590878,-122.47607,CA,Single-Family Home,126818,"$534,000 ",,,,,Sold,SAN MATEO
+94044,1098 Everglades Dr,2,3,Pacifica,"1,100 sqft",14-Nov-13,"$660,000 ",37.593304,-122.46872,CA,Single-Family Home,660000,"$804,000 ",,,,,Sold,SAN MATEO
+94044,455 Roberts Rd,2.5,2,Pacifica,"1,480 sqft",13-Nov-13,"$600,000 ",37.602222,-122.4974,CA,Condo,600000,"$704,000 ",,,,,Sold,SAN MATEO
+94044,178 Brighton Rd,1,1,Pacifica,820 sqft,8-Nov-13,"$355,000 ",37.630398,-122.49054,CA,Single-Family Home,355000,"$453,000 ",,,,,Sold,SAN MATEO
+94044,1395 Solano Dr,1,3,Pacifica,"1,040 sqft",8-Nov-13,"$600,000 ",37.584503,-122.49114,CA,Single-Family Home,600000,"$701,000 ",,,,,Sold,SAN MATEO
+94044,222 Monterey Rd,1,3,Pacifica,"1,410 sqft",8-Nov-13,"$550,000 ",37.651436,-122.48826,CA,Single-Family Home,550000,"$669,000 ",,,,,Sold,SAN MATEO
+94044,308 Olympian Way,2,1,Pacifica,"1,040 sqft",7-Nov-13,"$1,224,500 ",37.592793,-122.51103,CA,Single-Family Home,1224500,"$1,198,000 ",,,,,Sold,SAN MATEO
+94044,600 Heather Ct,2,3,Pacifica,"1,700 sqft",7-Nov-13,"$556,000 ",37.644936,-122.471825,CA,Single-Family Home,556000,"$684,000 ",,,,,Sold,SAN MATEO
+94044,515 Monterey Rd,3,3,Pacifica,"1,760 sqft",6-Nov-13,"$725,000 ",37.649384,-122.47935,CA,Single-Family Home,725000,"$918,000 ",,,,,Sold,SAN MATEO
+94044,3 Muir Way,2.5,4,Pacifica,"1,760 sqft",6-Nov-13,"$805,000 ",37.58568,-122.47033,CA,Single-Family Home,805000,"$869,000 ",,,,,Sold,SAN MATEO
+94044,545 Farallon Ave,2,2,Pacifica,930 sqft,5-Nov-13,"$625,000 ",37.652615,-122.48332,CA,Single-Family Home,625000,"$827,000 ",,,,,Sold,SAN MATEO
+94044,340 Farallon Ave,2.5,4,Pacifica,"3,220 sqft",5-Nov-13,"$1,025,000 ",37.65509,-122.48549,CA,Single-Family Home,1025000,"$1,110,000 ",,,,,Sold,SAN MATEO
+94044,150 Gateway Dr,2,3,Pacifica,"1,180 sqft",1-Nov-13,"$650,000 ",37.66442,-122.48195,CA,Single-Family Home,650000,"$838,000 ",,,,,Sold,SAN MATEO
+94044,1542 Crespi Dr,3,3,Pacifica,"1,380 sqft",1-Nov-13,"$630,000 ",37.59859,-122.48232,CA,Single-Family Home,630000,"$763,000 ",,,,,Sold,SAN MATEO
+94044,689 Lockhaven Dr,2,3,Pacifica,"1,220 sqft",1-Nov-13,"$613,000 ",37.644047,-122.4715,CA,Single-Family Home,613000,"$611,000 ",,,,,Sold,SAN MATEO
+94044,1667 Toledo Ct,1,3,Pacifica,"1,040 sqft",31-Oct-13,"$595,000 ",37.58191,-122.476395,CA,Single-Family Home,595000,"$724,000 ",,,,,Sold,SAN MATEO
+94044,215 Beaumont Blvd,1,3,Pacifica,"1,830 sqft",31-Oct-13,"$875,000 ",37.656082,-122.48935,CA,Single-Family Home,875000,"$855,000 ",,,,,Sold,SAN MATEO
+94044,200 Palmetto Ave,2,1,Pacifica,"1,176 sqft",31-Oct-13,"$388,000 ",37.65644,-122.49267,CA,Condo,388000,"$551,000 ",,,,,Sold,SAN MATEO
+94044,5 Tranquility Ct,4,5,Pacifica,"3,385 sqft",30-Oct-13,"$1,600,000 ",37.643238,-122.489555,CA,Single-Family Home,1600000,"$1,771,000 ",,,,,Sold,SAN MATEO
+94044,1147 Palou Dr,2,4,Pacifica,"1,540 sqft",30-Oct-13,"$720,000 ",37.58263,-122.4916,CA,Single-Family Home,720000,"$814,000 ",,,,,Sold,SAN MATEO
+94044,1243 Terra Nova Blvd,2,2,Pacifica,"1,400 sqft",30-Oct-13,"$415,000 ",37.587086,-122.47764,CA,Single-Family Home,415000,"$589,000 ",,,,,Sold,SAN MATEO
+94044,751 Lundy Way,2,3,Pacifica,"1,130 sqft",29-Oct-13,"$545,000 ",37.620476,-122.484055,CA,Single-Family Home,545000,"$710,000 ",,,,,Sold,SAN MATEO
+94044,12 Melrose Ct,3,4,Pacifica,"1,180 sqft",28-Oct-13,"$738,500 ",37.65532,-122.47974,CA,Single-Family Home,738500,"$818,000 ",,,,,Sold,SAN MATEO
+94044,1112 Valencia Way,2,3,Pacifica,"1,080 sqft",25-Oct-13,"$670,000 ",37.594643,-122.48618,CA,Single-Family Home,670000,"$800,000 ",,,,,Sold,SAN MATEO
+94044,305 Sycamore St,1,2,Pacifica,"1,210 sqft",25-Oct-13,"$314,500 ",37.647118,-122.47332,CA,Single-Family Home,314500,"$520,000 ",,,,,Sold,SAN MATEO
+94044,661 Canyon Dr,1,2,Pacifica,720 sqft,25-Oct-13,"$580,000 ",37.635406,-122.48041,CA,Single-Family Home,580000,"$586,000 ",,,,,Sold,SAN MATEO
+94044,889 Linda Mar Blvd,1,3,Pacifica,"1,040 sqft",23-Oct-13,"$620,000 ",37.590286,-122.4945,CA,Single-Family Home,620000,"$723,000 ",,,,,Sold,SAN MATEO
+94044,27 Brookhaven Ct,2,3,Pacifica,"1,180 sqft",22-Oct-13,"$650,000 ",37.65816,-122.48398,CA,Single-Family Home,650000,"$748,000 ",,,,,Sold,SAN MATEO
+94044,490 Lewis Ln,,,Pacifica,,21-Oct-13,"$1,010,000 ",37.647438,-122.480225,CA,Multi-Family,1010000,"$580,000 ",,,,,Sold,SAN MATEO
+94044,343 Reichling Ave,2,4,Pacifica,"1,660 sqft",21-Oct-13,"$675,000 ",37.610367,-122.48358,CA,Single-Family Home,675000,"$809,000 ",,,,,Sold,SAN MATEO
+94044,294 Clifton Rd,1,2,Pacifica,950 sqft,18-Oct-13,"$535,000 ",37.65273,-122.48694,CA,Single-Family Home,535000,"$668,000 ",,,,,Sold,SAN MATEO
+94044,5020 Palmetto Ave,2,3,Pacifica,"1,250 sqft",16-Oct-13,"$595,000 ",37.660885,-122.490036,CA,Single-Family Home,595000,"$806,000 ",,,,,Sold,SAN MATEO
+94044,774 Prairie Creek Dr,2,3,Pacifica,"1,080 sqft",16-Oct-13,"$609,000 ",37.589417,-122.461586,CA,Single-Family Home,609000,"$782,000 ",,,,,Sold,SAN MATEO
+94044,1243 Linda Mar Blvd,1,3,Pacifica,"1,290 sqft",16-Oct-13,"$610,000 ",37.5845,-122.48628,CA,Single-Family Home,610000,"$784,000 ",,,,,Sold,SAN MATEO
+94044,359 Inverness Dr,1.5,3,Pacifica,"1,260 sqft",16-Oct-13,"$625,000 ",37.6528,-122.478355,CA,Single-Family Home,625000,"$652,000 ",,,,,Sold,SAN MATEO
+94044,5030 Palmetto Ave,2,3,Pacifica,"1,250 sqft",15-Oct-13,"$600,000 ",37.660786,-122.489365,CA,Single-Family Home,600000,"$805,000 ",,,,,Sold,SAN MATEO
+94044,621 Sharp Park Rd,2.5,3,Pacifica,"1,380 sqft",15-Oct-13,"$600,000 ",37.63474,-122.473305,CA,Single-Family Home,600000,"$731,000 ",,,,,Sold,SAN MATEO
+94044,637 Forest Lake Dr,1,3,Pacifica,"1,110 sqft",11-Oct-13,"$590,000 ",37.65186,-122.47548,CA,Single-Family Home,590000,"$692,000 ",,,,,Sold,SAN MATEO
+94044,11 Buffalo Ct,2,3,Pacifica,"1,240 sqft",11-Oct-13,"$720,000 ",37.59643,-122.46284,CA,Single-Family Home,720000,"$870,000 ",,,,,Sold,SAN MATEO
+94044,967 Fassler Ave,2.5,2,Pacifica,"1,450 sqft",11-Oct-13,"$600,000 ",37.599754,-122.48522,CA,Single-Family Home,600000,"$767,000 ",,,,,Sold,SAN MATEO
+94044,1049 Rainier Ave,2.5,4,Pacifica,"2,310 sqft",10-Oct-13,"$740,000 ",37.59053,-122.4647,CA,Single-Family Home,740000,"$948,000 ",,,,,Sold,SAN MATEO
+94044,394 Coral Ridge Dr,2,3,Pacifica,"1,370 sqft",10-Oct-13,"$750,000 ",37.656906,-122.48719,CA,Single-Family Home,750000,"$881,000 ",,,,,Sold,SAN MATEO
+94044,426 Lewis Ln,2.5,3,Pacifica,"1,614 sqft",9-Oct-13,"$625,000 ",37.64811,-122.48178,CA,Condo,625000,"$944,000 ",,,,,Sold,SAN MATEO
+94044,402 Donaldson Ave,1,1,Pacifica,630 sqft,8-Oct-13,"$405,000 ",37.609337,-122.493286,CA,Single-Family Home,405000,"$659,000 ",,,,,Sold,SAN MATEO
+94044,620 Lockhaven Dr,2,3,Pacifica,"1,220 sqft",8-Oct-13,"$620,000 ",37.644814,-122.473305,CA,Single-Family Home,620000,"$733,000 ",,,,,Sold,SAN MATEO
+94044,1246 Lerida Way,2,3,Pacifica,"1,500 sqft",4-Oct-13,"$680,000 ",37.592766,-122.479416,CA,Single-Family Home,680000,"$857,000 ",,,,,Sold,SAN MATEO
+94044,1560 Grand Ave,1,2,Pacifica,"1,030 sqft",4-Oct-13,"$544,000 ",37.59105,-122.51134,CA,Single-Family Home,544000,"$805,000 ",,,,,Sold,SAN MATEO
+94044,369 Pacific Ave,1,2,Pacifica,880 sqft,3-Oct-13,"$482,500 ",37.632145,-122.48646,CA,Single-Family Home,482500,"$665,000 ",,,,,Sold,SAN MATEO
+94044,6 Spruce Ct,,,Pacifica,,3-Oct-13,"$268,000 ",37.593082,-122.480804,CA,Unknown,268000,,,,,,Sold,SAN MATEO
+94044,730 Fern Ave,2,3,Pacifica,"1,120 sqft",3-Oct-13,"$600,000 ",37.608704,-122.47842,CA,Single-Family Home,600000,"$704,000 ",,,,,Sold,SAN MATEO
+94044,498 Paloma Ave,1,2,Pacifica,"1,110 sqft",3-Oct-13,"$680,000 ",37.636604,-122.48376,CA,Single-Family Home,680000,"$692,000 ",,,,,Sold,SAN MATEO
+94044,496 Lynbrook Dr,2,3,Pacifica,"1,310 sqft",1-Oct-13,"$500,000 ",37.654373,-122.475464,CA,Single-Family Home,500000,"$665,000 ",,,,,Sold,SAN MATEO
+94044,389 Glencourt Way,2,3,Pacifica,"1,220 sqft",1-Oct-13,"$590,500 ",37.648365,-122.47465,CA,Single-Family Home,590500,"$606,000 ",,,,,Sold,SAN MATEO
+94044,1415 Linda Mar Blvd,1,3,Pacifica,"1,040 sqft",30-Sep-13,"$625,000 ",37.582607,-122.4829,CA,Single-Family Home,625000,"$709,000 ",,,,,Sold,SAN MATEO
+94044,1120 Glacier Ave,2,4,Pacifica,"1,360 sqft",27-Sep-13,"$710,000 ",37.59172,-122.4618,CA,Single-Family Home,710000,"$850,000 ",,,,,Sold,SAN MATEO
+94044,1131 Sheila Ln,2,3,Pacifica,"1,510 sqft",27-Sep-13,"$650,000 ",37.586414,-122.48437,CA,Single-Family Home,650000,"$800,000 ",,,,,Sold,SAN MATEO
+94044,1327 Livingston Ave,4.5,4,Pacifica,"3,028 sqft",27-Sep-13,"$1,395,000 ",37.594185,-122.50888,CA,Single-Family Home,1395000,"$1,402,000 ",,,,,Sold,SAN MATEO
+94044,724 Claridge Dr,2,3,Pacifica,"1,220 sqft",27-Sep-13,"$580,000 ",37.64386,-122.46986,CA,Single-Family Home,580000,"$728,000 ",,,,,Sold,SAN MATEO
+94044,438 Firecrest Ave,2.5,4,Pacifica,"1,610 sqft",26-Sep-13,"$655,000 ",37.655502,-122.4752,CA,Single-Family Home,655000,"$766,000 ",,,,,Sold,SAN MATEO
+94044,1207 De Solo Dr,1,3,Pacifica,"1,040 sqft",26-Sep-13,"$545,000 ",37.59414,-122.50108,CA,Single-Family Home,545000,"$653,000 ",,,,,Sold,SAN MATEO
+94044,572 Moana Way,2,3,Pacifica,"1,140 sqft",25-Sep-13,"$623,000 ",37.631447,-122.48315,CA,Single-Family Home,623000,"$733,000 ",,,,,Sold,SAN MATEO
+94044,345 Esplanade Ave,4,8,Pacifica,"5,824 sqft",25-Sep-13,"$333,000 ",37.652737,-122.492455,CA,Multi-Family,333000,,,,,,Sold,SAN MATEO
+94044,27 Cadiz Ct,1,3,Pacifica,"1,040 sqft",24-Sep-13,"$430,000 ",37.592804,-122.49434,CA,Single-Family Home,430000,"$663,000 ",,,,,Sold,SAN MATEO
+94044,7 Alisal Ct,2.5,4,Pacifica,"1,970 sqft",24-Sep-13,"$825,000 ",37.65396,-122.47312,CA,Single-Family Home,825000,"$891,000 ",,,,,Sold,SAN MATEO
+94044,412 Griffin Ave,2.5,4,Pacifica,"2,530 sqft",20-Sep-13,"$785,000 ",37.63396,-122.48622,CA,Single-Family Home,785000,"$863,000 ",,,,,Sold,SAN MATEO
+94044,159 Eastridge Cir,2.5,3,Pacifica,"1,250 sqft",20-Sep-13,"$675,000 ",37.665985,-122.48197,CA,Single-Family Home,675000,"$865,000 ",,,,,Sold,SAN MATEO
+94044,266 Beachview Ave #7,2.5,3,Pacifica,"1,640 sqft",20-Sep-13,"$600,000 ",37.65417,-122.482704,CA,Single-Family Home,600000,"$774,000 ",,,,,Sold,SAN MATEO
+94044,398 Beverly Pl,2,3,Pacifica,"1,360 sqft",20-Sep-13,"$650,000 ",37.65441,-122.486115,CA,Single-Family Home,650000,"$756,000 ",,,,,Sold,SAN MATEO
+94044,1144 Dulles Ct,2,3,Pacifica,"1,110 sqft",19-Sep-13,"$590,000 ",37.58559,-122.48156,CA,Single-Family Home,590000,"$660,000 ",,,,,Sold,SAN MATEO
+94044,335 Esplanade Ave,4,8,Pacifica,"5,824 sqft",19-Sep-13,"$998,000 ",37.652935,-122.49262,CA,Multi-Family,998000,,,,,,Sold,SAN MATEO
+94044,1576 Madeira Dr,2,4,Pacifica,"1,740 sqft",19-Sep-13,"$700,000 ",37.581387,-122.47944,CA,Single-Family Home,700000,"$820,000 ",,,,,Sold,SAN MATEO
+94044,1018 Big Bend Dr,3,4,Pacifica,"1,870 sqft",18-Sep-13,"$731,000 ",37.589474,-122.4667,CA,Single-Family Home,731000,"$942,000 ",,,,,Sold,SAN MATEO
+94044,1041 Banyan Way,1.5,3,Pacifica,"1,220 sqft",17-Sep-13,"$750,000 ",37.590515,-122.48179,CA,Single-Family Home,750000,"$770,000 ",,,,,Sold,SAN MATEO
+94044,513 Monterey Rd,2,3,Pacifica,"1,590 sqft",12-Sep-13,"$750,000 ",37.649525,-122.47954,CA,Single-Family Home,750000,"$814,000 ",,,,,Sold,SAN MATEO
+94044,539 Vista Mar Ave,1,3,Pacifica,980 sqft,12-Sep-13,"$600,000 ",37.647636,-122.48533,CA,Single-Family Home,600000,"$624,000 ",,,,,Sold,SAN MATEO
+94044,1 Outlook Cir,1,1,Pacifica,939 sqft,12-Sep-13,"$430,000 ",37.63181,-122.47541,CA,Condo,430000,"$528,000 ",,,,,Sold,SAN MATEO
+94044,981 Rosita Rd,3,4,Pacifica,"2,170 sqft",12-Sep-13,"$803,000 ",37.58543,-122.49629,CA,Single-Family Home,803000,"$928,000 ",,,,,Sold,SAN MATEO
+94044,1262 Alicante Dr,3,4,Pacifica,"1,490 sqft",11-Sep-13,"$585,000 ",37.583706,-122.48237,CA,Single-Family Home,585000,"$783,000 ",,,,,Sold,SAN MATEO
+94044,52 Desvio Ct,2,3,Pacifica,"1,100 sqft",11-Sep-13,"$687,000 ",37.585392,-122.482414,CA,Single-Family Home,687000,"$767,000 ",,,,,Sold,SAN MATEO
+94044,965 Monte Verde Dr,1,3,Pacifica,"1,040 sqft",10-Sep-13,"$605,000 ",37.58385,-122.49648,CA,Single-Family Home,605000,"$728,000 ",,,,,Sold,SAN MATEO
+94044,1127 Crespi Dr,1,3,Pacifica,980 sqft,6-Sep-13,"$620,000 ",37.590244,-122.48833,CA,Single-Family Home,620000,"$762,000 ",,,,,Sold,SAN MATEO
+94044,1040 Escalero Ave,1,3,Pacifica,"1,040 sqft",6-Sep-13,"$580,000 ",37.59576,-122.49356,CA,Single-Family Home,580000,"$754,000 ",,,,,Sold,SAN MATEO
+94044,200 Bonita Ave,2,2,Pacifica,"2,050 sqft",6-Sep-13,"$835,000 ",37.612576,-122.47882,CA,Single-Family Home,835000,"$943,000 ",,,,,Sold,SAN MATEO
+94044,744 Crespi Dr,2,3,Pacifica,"1,560 sqft",6-Sep-13,"$680,000 ",37.59408,-122.49733,CA,Single-Family Home,680000,"$967,000 ",,,,,Sold,SAN MATEO
+94044,484 Lomond Dr,2,3,Pacifica,"1,220 sqft",5-Sep-13,"$328,000 ",37.649155,-122.47415,CA,Single-Family Home,328000,"$643,000 ",,,,,Sold,SAN MATEO
+94044,379 Bancroft Way,2,4,Pacifica,950 sqft,5-Sep-13,"$515,000 ",37.652176,-122.484634,CA,Single-Family Home,515000,"$595,000 ",,,,,Sold,SAN MATEO
+94044,714 Rockaway Beach Ave,2,3,Pacifica,"1,790 sqft",3-Sep-13,"$812,000 ",37.60419,-122.48962,CA,Single-Family Home,812000,"$947,000 ",,,,,Sold,SAN MATEO
+94044,644 Forest Lake Dr,1,3,Pacifica,"1,110 sqft",30-Aug-13,"$480,000 ",37.651283,-122.47525,CA,Single-Family Home,480000,"$625,000 ",,,,,Sold,SAN MATEO
+94044,345 Genevieve Ave,3.5,3,Pacifica,"2,650 sqft",30-Aug-13,"$850,000 ",37.609486,-122.47853,CA,Single-Family Home,850000,"$1,056,000 ",,,,,Sold,SAN MATEO
+94044,5015 Palmetto Ave #8,1,2,Pacifica,"1,000 sqft",30-Aug-13,"$467,000 ",37.65977,-122.490524,CA,Condo,467000,"$532,000 ",,,,,Sold,SAN MATEO
+94044,316 Avalon Dr,1,3,Pacifica,"1,000 sqft",30-Aug-13,"$550,000 ",37.64648,-122.486,CA,Single-Family Home,550000,"$609,000 ",,,,,Sold,SAN MATEO
+94044,1117 Grand Teton Dr,2,3,Pacifica,"1,490 sqft",30-Aug-13,"$699,500 ",37.590237,-122.46776,CA,Single-Family Home,699500,"$726,000 ",,,,,Sold,SAN MATEO
+94044,71 Santa Rosa Ave,1,2,Pacifica,500 sqft,30-Aug-13,"$400,000 ",37.633564,-122.49287,CA,Single-Family Home,400000,"$464,000 ",,,,,Sold,SAN MATEO
+94044,111 Eastridge Cir,1,3,Pacifica,"1,350 sqft",28-Aug-13,"$600,000 ",37.666492,-122.4835,CA,Single-Family Home,600000,"$797,000 ",,,,,Sold,SAN MATEO
+94044,5015 Palmetto Ave #4,1,2,Pacifica,"1,000 sqft",28-Aug-13,"$437,500 ",37.65977,-122.490524,CA,Condo,437500,"$523,000 ",,,,,Sold,SAN MATEO
+94044,479 Loma Vista Ter,2,3,Pacifica,"1,290 sqft",27-Aug-13,"$640,000 ",37.635654,-122.4845,CA,Single-Family Home,640000,"$634,000 ",,,,,Sold,SAN MATEO
+94044,1021 Rainier Ave,3,4,Pacifica,"2,370 sqft",26-Aug-13,"$720,000 ",37.589634,-122.46517,CA,Single-Family Home,720000,"$898,000 ",,,,,Sold,SAN MATEO
+94044,5011 Palmetto Ave #20,1,2,Pacifica,"1,000 sqft",26-Aug-13,"$411,500 ",37.65977,-122.490524,CA,Condo,411500,"$506,000 ",,,,,Sold,SAN MATEO
+94044,463 Andover Dr,2,3,Pacifica,"1,180 sqft",23-Aug-13,"$667,000 ",37.655727,-122.47373,CA,Single-Family Home,667000,"$798,000 ",,,,,Sold,SAN MATEO
+94044,1639 Linda Mar Blvd,1,3,Pacifica,"1,040 sqft",23-Aug-13,"$620,000 ",37.581703,-122.477646,CA,Single-Family Home,620000,"$700,000 ",,,,,Sold,SAN MATEO
+94044,143 Beachview Ave,1.5,3,Pacifica,"1,240 sqft",22-Aug-13,"$615,000 ",37.65621,-122.48481,CA,Single-Family Home,615000,"$717,000 ",,,,,Sold,SAN MATEO
+94044,307 Heathcliff Dr,2,3,Pacifica,"1,220 sqft",20-Aug-13,"$560,000 ",37.650444,-122.47369,CA,Single-Family Home,560000,"$730,000 ",,,,,Sold,SAN MATEO
+94044,435 Glasgow Dr,2,3,Pacifica,"1,220 sqft",20-Aug-13,"$593,000 ",37.649975,-122.47518,CA,Single-Family Home,593000,"$618,000 ",,,,,Sold,SAN MATEO
+94044,8 Conchita Ct,1,3,Pacifica,"1,010 sqft",19-Aug-13,"$642,000 ",37.642967,-122.48545,CA,Single-Family Home,642000,"$670,000 ",,,,,Sold,SAN MATEO
+94044,8 Hamilton Ct,2,3,Pacifica,"1,180 sqft",16-Aug-13,"$735,000 ",37.656036,-122.480446,CA,Single-Family Home,735000,"$721,000 ",,,,,Sold,SAN MATEO
+94044,1239 Galvez Dr,2,2,Pacifica,"1,040 sqft",16-Aug-13,"$625,000 ",37.582565,-122.488846,CA,Single-Family Home,625000,"$779,000 ",,,,,Sold,SAN MATEO
+94044,712 Linda Mar Blvd,1,3,Pacifica,"1,040 sqft",16-Aug-13,"$360,000 ",37.59213,-122.49965,CA,Single-Family Home,360000,"$631,000 ",,,,,Sold,SAN MATEO
+94044,559 Beaumont Blvd,2,2,Pacifica,"1,350 sqft",16-Aug-13,"$765,000 ",37.652092,-122.48399,CA,Single-Family Home,765000,"$790,000 ",,,,,Sold,SAN MATEO
+94044,1397 Terra Nova Blvd,1.5,2,Pacifica,960 sqft,15-Aug-13,"$415,000 ",37.59043,-122.47633,CA,Single-Family Home,415000,"$486,000 ",,,,,Sold,SAN MATEO
+94044,207 Monterey Rd #4,2,2,Pacifica,"1,610 sqft",15-Aug-13,"$500,000 ",37.65196,-122.48883,CA,Condo,500000,"$614,000 ",,,,,Sold,SAN MATEO
+94044,211 Clifton Rd,2.5,2,Pacifica,"1,190 sqft",15-Aug-13,"$500,000 ",37.653355,-122.48916,CA,Single-Family Home,500000,"$601,000 ",,,,,Sold,SAN MATEO
+94044,863 Vista Montara Cir,2.5,3,Pacifica,"1,567 sqft",15-Aug-13,"$725,000 ",37.5863,-122.49778,CA,Condo,725000,"$852,000 ",,,,,Sold,SAN MATEO
+94044,771 Moana Way,2,3,Pacifica,"1,130 sqft",13-Aug-13,"$500,000 ",37.633163,-122.48035,CA,Single-Family Home,500000,"$785,000 ",,,,,Sold,SAN MATEO
+94044,262 Beachview Ave #4,2.5,2,Pacifica,"1,440 sqft",9-Aug-13,"$605,000 ",37.654472,-122.48299,CA,Single-Family Home,605000,"$732,000 ",,,,,Sold,SAN MATEO
+94044,1239 Lerida Way,2,3,Pacifica,"1,240 sqft",9-Aug-13,"$665,000 ",37.593826,-122.47795,CA,Single-Family Home,665000,"$777,000 ",,,,,Sold,SAN MATEO
+94044,1031 Rio Vista Dr,2,4,Pacifica,"1,040 sqft",9-Aug-13,"$698,000 ",37.585316,-122.494064,CA,Single-Family Home,698000,"$799,000 ",,,,,Sold,SAN MATEO
+94044,23 Alviso Ct,2,4,Pacifica,"1,320 sqft",8-Aug-13,"$665,000 ",37.587036,-122.48847,CA,Single-Family Home,665000,"$758,000 ",,,,,Sold,SAN MATEO
+94044,520 Ridgeway Dr,2,3,Pacifica,"1,130 sqft",8-Aug-13,"$605,000 ",37.62123,-122.48196,CA,Single-Family Home,605000,"$733,000 ",,,,,Sold,SAN MATEO
+94044,153 Outlook Cir,1,1,Pacifica,939 sqft,7-Aug-13,"$430,000 ",37.63181,-122.47541,CA,Condo,430000,"$490,000 ",,,,,Sold,SAN MATEO
+94044,411 Vista Mar Ave,1,3,Pacifica,840 sqft,6-Aug-13,"$525,000 ",37.649906,-122.48497,CA,Single-Family Home,525000,"$582,000 ",,,,,Sold,SAN MATEO
+94044,1259 Hermosa Ave,1,3,Pacifica,"1,040 sqft",2-Aug-13,"$589,000 ",37.589172,-122.49472,CA,Single-Family Home,589000,"$633,000 ",,,,,Sold,SAN MATEO
+94044,336 Glencourt Way,2,4,Pacifica,"1,686 sqft",2-Aug-13,"$601,000 ",37.649174,-122.47356,CA,Single-Family Home,601000,"$685,000 ",,,,,Sold,SAN MATEO
+94044,538 Monterey Rd #A,2.5,3,Pacifica,"1,520 sqft",1-Aug-13,"$777,000 ",37.647728,-122.47861,CA,Single-Family Home,777000,"$885,000 ",,,,,Sold,SAN MATEO
+94044,1635 Adobe Dr,3.5,4,Pacifica,"2,920 sqft",1-Aug-13,"$1,200,000 ",37.582886,-122.49931,CA,Single-Family Home,1200000,"$1,598,000 ",,,,,Sold,SAN MATEO
+94044,428 Farallon Ave,3.5,4,Pacifica,"3,020 sqft",30-Jul-13,"$730,000 ",37.654354,-122.48436,CA,Single-Family Home,730000,"$924,000 ",,,,,Sold,SAN MATEO
+94044,380 Lynbrook Dr,2,3,Pacifica,"1,310 sqft",30-Jul-13,"$636,500 ",37.65672,-122.47736,CA,Single-Family Home,636500,"$687,000 ",,,,,Sold,SAN MATEO
+94044,244 Berendos Ave,1,3,Pacifica,"1,320 sqft",30-Jul-13,"$658,000 ",37.60947,-122.47269,CA,Single-Family Home,658000,"$744,000 ",,,,,Sold,SAN MATEO
+94044,300 Fremont Ave,3,4,Pacifica,"1,629 sqft",29-Jul-13,"$687,000 ",37.652008,-122.486946,CA,Multi-Family,687000,,,,,,Sold,SAN MATEO
+94044,517 Monterey Rd,3,3,Pacifica,"1,760 sqft",29-Jul-13,"$726,000 ",37.649254,-122.479164,CA,Single-Family Home,726000,"$871,000 ",,,,,Sold,SAN MATEO
+94044,1120 Manzanita Dr,3,3,Pacifica,"1,600 sqft",26-Jul-13,"$725,000 ",37.586662,-122.48232,CA,Single-Family Home,725000,"$805,000 ",,,,,Sold,SAN MATEO
+94044,2317 Beach Blvd,,,Pacifica,,26-Jul-13,"$1,365,000 ",37.631096,-122.493164,CA,Multi-Family,1365000,,,,,,Sold,SAN MATEO
+94044,154 Beachview Ave,1.5,3,Pacifica,"1,280 sqft",25-Jul-13,"$600,000 ",37.655724,-122.4846,CA,Single-Family Home,600000,"$749,000 ",,,,,Sold,SAN MATEO
+94044,240 Reichling Ave,2,3,Pacifica,"1,170 sqft",25-Jul-13,"$750,000 ",37.612495,-122.484184,CA,Single-Family Home,750000,"$844,000 ",,,,,Sold,SAN MATEO
+94044,719 Montezuma Dr,2,3,Pacifica,"2,090 sqft",24-Jul-13,"$650,000 ",37.591763,-122.49971,CA,Single-Family Home,650000,"$823,000 ",,,,,Sold,SAN MATEO
+94044,283 Reichling Ave,2,3,Pacifica,"1,310 sqft",24-Jul-13,"$670,000 ",37.611427,-122.48355,CA,Single-Family Home,670000,"$694,000 ",,,,,Sold,SAN MATEO
+94044,328 Seaside Dr,2,3,Pacifica,"1,050 sqft",24-Jul-13,"$650,000 ",37.61958,-122.48822,CA,Single-Family Home,650000,"$788,000 ",,,,,Sold,SAN MATEO
+94044,350 View Point Ct,2.5,3,Pacifica,"2,100 sqft",24-Jul-13,"$863,000 ",37.638607,-122.46662,CA,Single-Family Home,863000,"$1,068,000 ",,,,,Sold,SAN MATEO
+94044,820 Crespi Dr,2,3,Pacifica,"1,370 sqft",23-Jul-13,"$680,000 ",37.59297,-122.495186,CA,Single-Family Home,680000,"$744,000 ",,,,,Sold,SAN MATEO
+94044,1145 Manzanita Dr,2,3,Pacifica,"1,210 sqft",23-Jul-13,"$650,000 ",37.58576,-122.480804,CA,Single-Family Home,650000,"$674,000 ",,,,,Sold,SAN MATEO
+94044,586 Loma Vista Ter,,,Pacifica,,19-Jul-13,"$778,000 ",37.635094,-122.48357,CA,Single-Family Home,778000,"$209,000 ",,,,,Sold,SAN MATEO
+94044,1380 Flores Dr,1,3,Pacifica,"1,040 sqft",19-Jul-13,"$595,000 ",37.591404,-122.50173,CA,Single-Family Home,595000,"$701,000 ",,,,,Sold,SAN MATEO
+94044,219 Manor Dr,1,3,Pacifica,"1,020 sqft",18-Jul-13,"$560,000 ",37.64907,-122.487656,CA,Single-Family Home,560000,"$628,000 ",,,,,Sold,SAN MATEO
+94044,471 Imperial Dr,1.5,3,Pacifica,"1,230 sqft",16-Jul-13,"$655,000 ",37.654446,-122.47589,CA,Single-Family Home,655000,"$833,000 ",,,,,Sold,SAN MATEO
+94044,1315 Terra Nova Blvd,2,2,Pacifica,"1,400 sqft",12-Jul-13,"$475,000 ",37.58935,-122.47705,CA,Single-Family Home,475000,"$595,000 ",,,,,Sold,SAN MATEO
+94044,1341 Terra Nova Blvd,1.5,2,Pacifica,900 sqft,10-Jul-13,"$260,000 ",37.589832,-122.47664,CA,Single-Family Home,260000,"$497,000 ",,,,,Sold,SAN MATEO
+94044,10 Tioga Way,3,5,Pacifica,"2,640 sqft",10-Jul-13,"$833,000 ",37.585114,-122.47141,CA,Single-Family Home,833000,"$1,115,000 ",,,,,Sold,SAN MATEO
+94044,1375 Terra Nova Blvd,1.5,2,Pacifica,"1,100 sqft",9-Jul-13,"$425,000 ",37.589886,-122.47693,CA,Single-Family Home,425000,"$497,000 ",,,,,Sold,SAN MATEO
+94044,989 Serena Dr,2,4,Pacifica,"1,345 sqft",9-Jul-13,"$728,000 ",37.594643,-122.4902,CA,Single-Family Home,728000,"$792,000 ",,,,,Sold,SAN MATEO
+94044,296 Seaside Dr,2,3,Pacifica,"1,050 sqft",8-Jul-13,"$750,000 ",37.619804,-122.48943,CA,Single-Family Home,750000,"$756,000 ",,,,,Sold,SAN MATEO
+94044,1637 Higgins Way,2,3,Pacifica,"1,760 sqft",3-Jul-13,"$750,000 ",37.583115,-122.49683,CA,Single-Family Home,750000,"$831,000 ",,,,,Sold,SAN MATEO
+94044,299 Sycamore St,3,4,Pacifica,"2,007 sqft",3-Jul-13,"$845,000 ",37.64718,-122.47316,CA,Single-Family Home,845000,"$863,000 ",,,,,Sold,SAN MATEO
+94044,1383 Livingston Ave,,,Pacifica,,3-Jul-13,"$450,000 ",37.593353,-122.50962,CA,Unknown,450000,,,,,,Sold,SAN MATEO
+94044,1028 Monte Verde Dr,1,3,Pacifica,"1,040 sqft",2-Jul-13,"$575,000 ",37.583252,-122.49593,CA,Single-Family Home,575000,"$690,000 ",,,,,Sold,SAN MATEO
+94044,709 Big Bend Dr,2,4,Pacifica,"1,560 sqft",2-Jul-13,"$735,000 ",37.587906,-122.46019,CA,Single-Family Home,735000,"$857,000 ",,,,,Sold,SAN MATEO
+94044,477 Roberts Rd,2,3,Pacifica,"1,780 sqft",1-Jul-13,"$740,000 ",37.602222,-122.4974,CA,Condo,740000,"$829,000 ",,,,,Sold,SAN MATEO
+94044,218 Palmetto Ave,2,2,Pacifica,"1,445 sqft",1-Jul-13,"$553,500 ",37.65644,-122.49267,CA,Condo,553500,"$574,000 ",,,,,Sold,SAN MATEO
+94044,230 Monterey Rd,1,2,Pacifica,860 sqft,28-Jun-13,"$450,000 ",37.651413,-122.48805,CA,Single-Family Home,450000,"$672,000 ",,,,,Sold,SAN MATEO
+94044,1012 Everglades Dr,2.5,3,Pacifica,"1,490 sqft",28-Jun-13,"$745,000 ",37.591454,-122.46564,CA,Single-Family Home,745000,"$889,000 ",,,,,Sold,SAN MATEO
+94044,1279 Alicante Dr,3,4,Pacifica,"1,080 sqft",28-Jun-13,"$660,000 ",37.583447,-122.48389,CA,Single-Family Home,660000,"$684,000 ",,,,,Sold,SAN MATEO
+94044,770 Ursula Ave,2,3,Pacifica,"1,380 sqft",28-Jun-13,"$630,000 ",37.61025,-122.47798,CA,Single-Family Home,630000,"$739,000 ",,,,,Sold,SAN MATEO
+94044,1310 Rosita Rd,1.5,2,Pacifica,"1,150 sqft",28-Jun-13,"$448,000 ",37.58101,-122.48559,CA,Single-Family Home,448000,"$617,000 ",,,,,Sold,SAN MATEO
+94044,903 Fassler Ave,2.5,2,Pacifica,"1,300 sqft",26-Jun-13,"$619,000 ",37.600773,-122.48772,CA,Single-Family Home,619000,"$723,000 ",,,,,Sold,SAN MATEO
+94044,823 Montezuma Dr,1,3,Pacifica,"1,040 sqft",26-Jun-13,"$630,000 ",37.590496,-122.49666,CA,Single-Family Home,630000,"$745,000 ",,,,,Sold,SAN MATEO
+94044,479 Manor Dr,2.5,3,Pacifica,"1,375 sqft",26-Jun-13,"$600,000 ",37.64684,-122.479996,CA,Single-Family Home,600000,"$763,000 ",,,,,Sold,SAN MATEO
+94044,976 Crespi Dr,1,3,Pacifica,"1,040 sqft",26-Jun-13,"$100,000 ",37.59347,-122.49006,CA,Single-Family Home,100000,"$693,000 ",,,,,Sold,SAN MATEO
+94044,54 Salada Ave,1.5,1,Pacifica,"1,270 sqft",26-Jun-13,"$485,000 ",37.63445,-122.493004,CA,Single-Family Home,485000,"$624,000 ",,,,,Sold,SAN MATEO
+94044,655 Foothill Dr,1.5,3,Pacifica,"1,260 sqft",26-Jun-13,"$485,000 ",37.652332,-122.474754,CA,Single-Family Home,485000,"$719,000 ",,,,,Sold,SAN MATEO
+94044,507 Beaumont Blvd,1,3,Pacifica,860 sqft,25-Jun-13,"$441,000 ",37.653187,-122.48438,CA,Single-Family Home,441000,"$675,000 ",,,,,Sold,SAN MATEO
+94044,812 Prairie Creek Dr,2,3,Pacifica,"1,060 sqft",25-Jun-13,"$701,000 ",37.589672,-122.46301,CA,Single-Family Home,701000,"$815,000 ",,,,,Sold,SAN MATEO
+94044,453 Lynbrook Dr,2.5,4,Pacifica,"1,960 sqft",25-Jun-13,"$630,000 ",37.655083,-122.47531,CA,Single-Family Home,630000,"$801,000 ",,,,,Sold,SAN MATEO
+94044,1284 Alvarado Ave,2,3,Pacifica,"1,860 sqft",24-Jun-13,"$820,000 ",37.584435,-122.48551,CA,Single-Family Home,820000,"$872,000 ",,,,,Sold,SAN MATEO
+94044,607 Sharp Park Rd,2.5,3,Pacifica,"1,695 sqft",24-Jun-13,"$570,000 ",37.63439,-122.47388,CA,Single-Family Home,570000,"$712,000 ",,,,,Sold,SAN MATEO
+94044,227 Brighton Rd,4,5,Pacifica,"3,128 sqft",24-Jun-13,"$585,000 ",37.630795,-122.48877,CA,Multi-Family,585000,,,,,,Sold,SAN MATEO

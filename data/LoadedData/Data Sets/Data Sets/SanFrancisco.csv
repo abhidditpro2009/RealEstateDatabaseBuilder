@@ -1,0 +1,915 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,611 39th Ave,1.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.777187,-122.49982,CA,Single-Family Home,698000,,94121,Outer Richmond,91,70,For Sale,SAN FRANCISCO
+2,2729 Bryant St,3.0,8.0,San Francisco,,"Dec 31, 1969",$0,37.75071,-122.408615,CA,Multi-Family Home,1395000,,94110,Potrero Hill,92,80,For Sale,SAN FRANCISCO
+3,1606 35th Ave,2.0,2.0,San Francisco,"1,725 sqft","Dec 31, 1969",$0,37.75702,-122.49358,CA,Single-Family Home,795000,,94122,Central Sunset,78,60,For Sale,SAN FRANCISCO
+4,1260 Clay St #207,1.0,1.0,San Francisco,575 sqft,"Dec 31, 1969",$0,37.79357,-122.41368,CA,Apt/Condo/Twnhm,519000,,94108,Nob Hill,95,100,For Sale,SAN FRANCISCO
+5,169 Beulah St,3.0,5.0,San Francisco,,"Dec 31, 1969",$0,37.767117,-122.45257,CA,Single-Family Home,2495000,,94117,Cole Valley,94,69,For Sale,SAN FRANCISCO
+6,2546 Folsom St,2.75,3.0,San Francisco,,"Dec 31, 1969",$0,37.75651,-122.414825,CA,Apt/Condo/Twnhm,829000,,94110,Mission,94,85,For Sale,SAN FRANCISCO
+7,1800 Washington St #414,1.0,1.0,San Francisco,476 sqft,"Dec 31, 1969",$0,37.79343,-122.42343,CA,Condo,499000,,94109,Pacific Heights,98,91,For Sale,SAN FRANCISCO
+8,2831 Webster St #4,2.5,3.0,San Francisco,,"Dec 31, 1969",$0,37.796757,-122.434044,CA,Apartment,1099000,,94123,Cow Hollow,94,83,For Sale,SAN FRANCISCO
+9,2299 Sacramento St #18,1.0,2.0,San Francisco,"1,252 sqft","Dec 31, 1969",$0,37.79001,-122.43048,CA,Apt/Condo/Twnhm,925000,,94115,Pacific Heights,98,83,For Sale,SAN FRANCISCO
+10,355 1st St #1502,2.0,2.0,San Francisco,"1,166 sqft","Dec 31, 1969",$0,37.78703,-122.39364,CA,Apt/Condo/Twnhm,1375000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+11,3284 Jackson St,3.0,4.0,San Francisco,"3,100 sqft","Dec 31, 1969",$0,37.79092,-122.44889,CA,Single-Family Home,2295000,,94118,Presidio Heights,89,78,For Sale,SAN FRANCISCO
+12,1615 Jones St #3,1.0,,San Francisco,342 sqft,"Dec 31, 1969",$0,37.79611,-122.41528,CA,Condo,385000,,94109,Nob Hill,94,100,For Sale,SAN FRANCISCO
+13,1515 Noe St,3.0,4.0,San Francisco,"1,836 sqft","Dec 31, 1969",$0,37.74478,-122.43095,CA,Single-Family Home,1288000,,94131,Noe Valley,85,80,For Sale,SAN FRANCISCO
+14,970 Duncan St #F204,2.0,2.0,San Francisco,"1,175 sqft","Dec 31, 1969",$0,37.74538,-122.44203,CA,Condo,649000,,94131,Diamond Heights,65,60,For Sale,SAN FRANCISCO
+15,315 Santa Rosa Ave #2,2.0,3.0,San Francisco,"1,539 sqft","Dec 31, 1969",$0,37.728874,-122.44034,CA,Apt/Condo/Twnhm,635000,,94112,Mission Terrace,72,89,For Sale,SAN FRANCISCO
+16,255 Berry St #114,2.5,3.0,San Francisco,,"Dec 31, 1969",$0,37.774185,-122.394745,CA,Condo,1695000,,94158,Mission Bay,86,93,For Sale,SAN FRANCISCO
+17,265 Kensington Way,2.0,4.0,San Francisco,"2,800 sqft","Dec 31, 1969",$0,37.7427,-122.46191,CA,Single-Family Home,1199000,,94127,West Portal,80,78,For Sale,SAN FRANCISCO
+18,291 Justin Dr,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.73225,-122.42189,CA,Single-Family Home,899000,,94112,Bernal Heights,66,78,For Sale,SAN FRANCISCO
+19,460 Francisco St #303,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.80494,-122.41282,CA,Condo,650000,,94133,Fisherman's Wharf,95,88,For Sale,SAN FRANCISCO
+20,216 Roanoke St,1.0,1.0,San Francisco,695 sqft,"Dec 31, 1969",$0,37.735233,-122.430275,CA,Condo,429000,,94131,Glen Park,85,85,For Sale,SAN FRANCISCO
+21,1295 48th Ave,1.0,2.0,San Francisco,978 sqft,"Dec 31, 1969",$0,37.762394,-122.508385,CA,Apt/Condo/Twnhm,579000,,94122,Outer Sunset,71,58,For Sale,SAN FRANCISCO
+22,878 Hampshire St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.758064,-122.408066,CA,Single-Family Home,1195000,,94110,Potrero Hill,91,76,For Sale,SAN FRANCISCO
+23,1910 Baker St,,,San Francisco,"2,174 sqft","Dec 31, 1969",$0,37.789017,-122.44373,CA,Multi-Family Home,1495000,,94115,Pacific Heights,89,79,For Sale,SAN FRANCISCO
+24,256 Waller St #A,1.0,1.0,San Francisco,900 sqft,"Dec 31, 1969",$0,37.771732,-122.42793,CA,Condo,649000,,94102,Hayes Valley,92,100,For Sale,SAN FRANCISCO
+25,378 Sweeny St,1.0,2.0,San Francisco,875 sqft,"Dec 31, 1969",$0,37.731766,-122.41264,CA,Single-Family Home,499000,,94134,Portola,72,68,For Sale,SAN FRANCISCO
+26,3242 Washington St,5.0,5.0,San Francisco,"5,500 sqft","Dec 31, 1969",$0,37.79029,-122.446724,CA,Single-Family Home,4895000,,94115,Presidio Heights,91,80,For Sale,SAN FRANCISCO
+27,2773 21st St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.757355,-122.41019,CA,Single-Family Home,899000,,94110,Mission,94,80,For Sale,SAN FRANCISCO
+28,1800 Bryant St #114,2.0,1.0,San Francisco,862 sqft,"Dec 31, 1969",$0,37.76409,-122.41083,CA,Condo,639000,,94110,Mission,97,85,For Sale,SAN FRANCISCO
+29,293 Cumberland St,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.75856,-122.43003,CA,Single-Family Home,1695000,,94114,Castro,86,91,For Sale,SAN FRANCISCO
+30,862 Wisconsin St,3.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.7564,-122.39916,CA,Single-Family Home,1495000,,94107,Potrero Hill,82,68,For Sale,SAN FRANCISCO
+31,62 Bradford St,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.742184,-122.40962,CA,Single-Family Home,995000,,94110,Bernal Heights,75,71,For Sale,SAN FRANCISCO
+32,2831 2833 Webster #4,2.5,3.0,San Francisco,,"Dec 31, 1969",$0,37.79676,-122.434044,CA,TIC,1099000,,94123,Cow Hollow,94,86,For Sale,SAN FRANCISCO
+33,315 Coleridge St,2.0,3.0,San Francisco,"1,358 sqft","Dec 31, 1969",$0,37.74145,-122.42091,CA,Single-Family Home,1150000,,94110,Bernal Heights,88,83,For Sale,SAN FRANCISCO
+34,2889 24th St #7,3.0,3.0,San Francisco,"1,457 sqft","Dec 31, 1969",$0,37.752537,-122.40971,CA,Apt/Condo/Twnhm,1095000,,94110,Mission,95,78,For Sale,SAN FRANCISCO
+35,433 Burnett Ave,,,San Francisco,,"Dec 31, 1969",$0,37.755478,-122.44388,CA,Single-Family Home,2195000,,94131,Twin Peaks,63,72,For Sale,SAN FRANCISCO
+36,200 Townsend St #9,2.0,1.0,San Francisco,"1,255 sqft","Dec 31, 1969",$0,37.778885,-122.3933,CA,Condo,950000,,94107,Mission Bay,89,100,For Sale,SAN FRANCISCO
+37,257 29th St,3.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.743507,-122.42574,CA,Single-Family Home,2995000,,94131,Noe Valley,89,79,For Sale,SAN FRANCISCO
+38,3467 Jackson St,2.0,4.0,San Francisco,"2,295 sqft","Dec 31, 1969",$0,37.790024,-122.451904,CA,Apt/Condo/Twnhm,2095000,,94118,Presidio Heights,91,70,For Sale,SAN FRANCISCO
+39,415 De Haro St #301,1.0,1.0,San Francisco,912 sqft,"Dec 31, 1969",$0,37.76447,-122.401405,CA,Apt/Condo/Twnhm,875000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+40,2980 22nd Ave,2.5,4.0,San Francisco,"2,532 sqft","Dec 31, 1969",$0,37.733006,-122.4776,CA,Single-Family Home,1395000,,94132,Merced Manor,78,70,For Sale,SAN FRANCISCO
+41,501 Crescent Way #5107,2.0,2.0,San Francisco,"1,095 sqft","Dec 31, 1969",$0,37.71193,-122.3886,CA,Condo,529995,,94134,Bayview,46,54,For Sale,SAN FRANCISCO
+42,1222 25th Ave,,,San Francisco,,"Dec 31, 1969",$0,37.76467,-122.48332,CA,Multi-Family Home,1195000,,94122,Central Sunset,78,64,For Sale,SAN FRANCISCO
+43,1440 Broadway #406,1.0,1.0,San Francisco,841 sqft,"Dec 31, 1969",$0,37.79639,-122.42073,CA,Condo,699000,,94109,Russian Hill,97,91,For Sale,SAN FRANCISCO
+44,25 Hotaling Pl #H,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.795868,-122.40297,CA,Apt/Condo/Twnhm,695000,,94111,Financial District,98,100,For Sale,SAN FRANCISCO
+45,253 Bocana St,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.739624,-122.418144,CA,Condo,629000,,94110,Bernal Heights,89,78,For Sale,SAN FRANCISCO
+46,2283 9th Ave,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.747387,-122.46691,CA,Single-Family Home,889000,,94116,Forest Hill,72,78,For Sale,SAN FRANCISCO
+47,3324 Octavia St #2,1.0,1.0,San Francisco,752 sqft,"Dec 31, 1969",$0,37.80302,-122.42965,CA,Condo,759000,,94123,Marina,89,83,For Sale,SAN FRANCISCO
+48,194 Laidley St,1.0,1.0,San Francisco,618 sqft,"Dec 31, 1969",$0,37.738914,-122.42842,CA,TIC,450000,,94131,Glen Park,78,84,For Sale,SAN FRANCISCO
+49,725 Florida St #6,1.0,1.0,San Francisco,729 sqft,"Dec 31, 1969",$0,37.759937,-122.410576,CA,Condo,688000,,94110,Mission,92,80,For Sale,SAN FRANCISCO
+50,155 24th Ave #4,2.0,3.0,San Francisco,"1,557 sqft","Dec 31, 1969",$0,37.78657,-122.48446,CA,Condo,1595000,,94121,Sea Cliff,82,68,For Sale,SAN FRANCISCO
+51,1335 Stanyan St,3.0,5.0,San Francisco,,"Dec 31, 1969",$0,37.75899,-122.45179,CA,Single-Family Home,2450000,,94114,Buena Vista Park,75,69,For Sale,SAN FRANCISCO
+52,1564 Church St,2.0,4.0,San Francisco,"1,603 sqft","Dec 31, 1969",$0,37.745804,-122.42703,CA,TIC,1225000,,94131,Noe Valley,83,84,For Sale,SAN FRANCISCO
+53,153 Wood St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.781464,-122.449234,CA,Apt/Condo/Twnhm,889000,,94118,Laurel Heights,92,78,For Sale,SAN FRANCISCO
+54,1245 Broadway,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.796104,-122.41768,CA,TIC,649000,,94109,Nob Hill,94,95,For Sale,SAN FRANCISCO
+55,1421 Masonic Ave #51,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.76694,-122.44491,CA,Apt/Condo/Twnhm,679000,,94117,Ashbury Heights,89,86,For Sale,SAN FRANCISCO
+56,2186 Geary Blvd #315,1.0,,San Francisco,461 sqft,"Dec 31, 1969",$0,37.7837,-122.43929,CA,Income/Investment,199000,,94115,Lower Pacific Heights,92,81,For Sale,SAN FRANCISCO
+57,81 Frank Norris St #701,1.0,1.0,San Francisco,562 sqft,"Dec 31, 1969",$0,37.78908,-122.42005,CA,Condo,449000,,94109,Civic Center,97,100,For Sale,SAN FRANCISCO
+58,920 Monterey Blvd,2.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.73142,-122.45639,CA,Single-Family Home,1695000,,94127,Westwood Highlands,74,73,For Sale,SAN FRANCISCO
+59,435 China Basin St #214,1.0,1.0,San Francisco,835 sqft,"Dec 31, 1969",$0,37.771587,-122.388535,CA,Condo,795000,,94158,Mission Bay,62,83,For Sale,SAN FRANCISCO
+60,3322 16th St #2,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.764828,-122.427055,CA,TIC,599000,,94114,Castro,98,99,For Sale,SAN FRANCISCO
+61,4307 17th St,1.0,1.0,San Francisco,746 sqft,"Dec 31, 1969",$0,37.762047,-122.440636,CA,Apt/Condo/Twnhm,659000,,94114,Castro,86,88,For Sale,SAN FRANCISCO
+62,1779 15th St,,,San Francisco,,"Dec 31, 1969",$0,37.766216,-122.42373,CA,Multi-Family Home,1195000,,94103,Mission Dolores,97,100,For Sale,SAN FRANCISCO
+63,406 42nd Ave,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.780987,-122.50281,CA,Single-Family Home,799000,,94121,Outer Richmond,78,66,For Sale,SAN FRANCISCO
+64,637 Powell St #202,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.790634,-122.40918,CA,Condo,795000,,94108,Downtown,100,100,For Sale,SAN FRANCISCO
+65,1386 47th Ave #88,2.0,4.0,San Francisco,"1,560 sqft","Dec 31, 1969",$0,37.760674,-122.50677,CA,Multi-Family Home,799000,,94122,Outer Sunset,72,59,For Sale,SAN FRANCISCO
+66,2701 Larkin St #202,3.0,3.0,San Francisco,"1,405 sqft","Dec 31, 1969",$0,37.802822,-122.421844,CA,Single-Family Home,1795000,,94109,Russian Hill,88,89,For Sale,SAN FRANCISCO
+67,631 Ofarrell St #2101,3.5,3.0,San Francisco,"3,879 sqft","Dec 31, 1969",$0,37.78524,-122.41512,CA,Condo,4250000,,94109,Tenderloin,98,100,For Sale,SAN FRANCISCO
+68,175 Brompton Ave,1.0,2.0,San Francisco,950 sqft,"Dec 31, 1969",$0,37.732845,-122.435005,CA,Single-Family Home,690000,,94131,Glen Park,85,89,For Sale,SAN FRANCISCO
+69,799 La Playa St #3,2.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.77339,-122.51031,CA,Condo,750000,,94121,Outer Richmond,68,65,For Sale,SAN FRANCISCO
+70,2170 Vallejo St #302,1.0,1.0,San Francisco,"1,236 sqft","Dec 31, 1969",$0,37.79578,-122.43302,CA,Apt/Condo/Twnhm,895000,,94123,Pacific Heights,97,86,For Sale,SAN FRANCISCO
+71,301 Main St #T36E,2.0,3.0,San Francisco,"1,700 sqft","Dec 31, 1969",$0,37.789333,-122.39155,CA,Condo,3295000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+72,3565 Sacramento St,2.0,3.0,San Francisco,"1,610 sqft","Dec 31, 1969",$0,37.787495,-122.45131,CA,Condo,1450000,,94118,Presidio Heights,92,75,For Sale,SAN FRANCISCO
+73,733 Front St #301,1.0,1.0,San Francisco,"1,004 sqft","Dec 31, 1969",$0,37.798027,-122.40009,CA,Condo,788000,,94111,Financial District,98,100,For Sale,SAN FRANCISCO
+74,138 16th Ave,4.5,5.0,San Francisco,,"Dec 31, 1969",$0,37.78544,-122.475105,CA,Single-Family Home,3500000,,94118,Lake Street,91,73,For Sale,SAN FRANCISCO
+75,1 Toyon Ln,1.5,2.0,San Francisco,"1,265 sqft","Dec 31, 1969",$0,37.709377,-122.430504,CA,Single-Family Home,579000,,94112,Crocker Amazon,51,57,For Sale,SAN FRANCISCO
+76,1626 Palou Ave #1628,5.0,8.0,San Francisco,"2,288 sqft","Dec 31, 1969",$0,37.73457,-122.39141,CA,Multi-Family Home,549000,,94124,Bayview,78,68,For Sale,SAN FRANCISCO
+77,1445 Page St #A,1.0,1.0,San Francisco,539 sqft,"Dec 31, 1969",$0,37.77113,-122.44457,CA,Apt/Condo/Twnhm,525000,,94117,Haight,89,83,For Sale,SAN FRANCISCO
+78,2253 Broderick St,4.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.791203,-122.442986,CA,Condo,3995000,,94115,Pacific Heights,86,80,For Sale,SAN FRANCISCO
+79,776 Wisconsin St,2.5,4.0,San Francisco,"1,804 sqft","Dec 31, 1969",$0,37.75768,-122.399284,CA,Single-Family Home,1495000,,94107,Potrero Hill,78,72,For Sale,SAN FRANCISCO
+80,1440 Clement St,,,San Francisco,"5,976 sqft","Dec 31, 1969",$0,37.782734,-122.474884,CA,Income/Investment,2195000,,94118,Central Richmond,97,76,For Sale,SAN FRANCISCO
+81,2390 Hyde St #3,4.0,3.0,San Francisco,"3,014 sqft","Dec 31, 1969",$0,37.802773,-122.419495,CA,Condo,5995000,,94109,Russian Hill,89,91,For Sale,SAN FRANCISCO
+82,337 Webster St,,,San Francisco,"5,157 sqft","Dec 31, 1969",$0,37.773746,-122.42939,CA,Income/Investment,1850000,,94117,Hayes Valley,94,100,For Sale,SAN FRANCISCO
+83,333 Grant Ave #707,1.5,1.0,San Francisco,654 sqft,"Dec 31, 1969",$0,37.79015,-122.40587,CA,Single-Family Home,775000,,94108,Downtown,100,100,For Sale,SAN FRANCISCO
+84,1960 Grant Ave #17,4.0,3.0,San Francisco,"2,955 sqft","Dec 31, 1969",$0,37.805088,-122.408005,CA,Condo,6250000,,94133,Telegraph Hill,94,87,For Sale,SAN FRANCISCO
+85,1001 Pine St #212,1.0,,San Francisco,450 sqft,"Dec 31, 1969",$0,37.790348,-122.41257,CA,Apt/Condo/Twnhm,427500,,94109,Downtown,97,100,For Sale,SAN FRANCISCO
+86,1150 Sacramento St #403,4.0,3.0,San Francisco,"3,700 sqft","Dec 31, 1969",$0,37.79298,-122.4118,CA,Condo,5950000,,94108,Nob Hill,98,100,For Sale,SAN FRANCISCO
+87,1201 California St #1401,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.79108,-122.41435,CA,Coop,1195000,,94109,Downtown,98,100,For Sale,SAN FRANCISCO
+88,429 Noe St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.762177,-122.43257,CA,Condo,1195000,,94114,Castro,100,94,For Sale,SAN FRANCISCO
+89,1057 Goettingen St,2.0,4.0,San Francisco,"2,626 sqft","Dec 31, 1969",$0,37.71904,-122.403,CA,Single-Family Home,669000,,94134,Visitacion Valley,66,68,For Sale,SAN FRANCISCO
+90,220 Lombard St #522,1.0,1.0,San Francisco,603 sqft,"Dec 31, 1969",$0,37.804245,-122.4055,CA,Single-Family Home,520000,,94111,Fisherman's Wharf,94,86,For Sale,SAN FRANCISCO
+91,331 Douglass St,,,San Francisco,"1,704 sqft","Dec 31, 1969",$0,37.758453,-122.43882,CA,Multi-Family Home,1380000,,94114,Castro,92,87,For Sale,SAN FRANCISCO
+92,1450 Masonic Ave,6.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.76697,-122.44439,CA,Single-Family Home,5995000,,94117,Ashbury Heights,91,84,For Sale,SAN FRANCISCO
+93,1150 Lombard St #9,3.0,3.0,San Francisco,"2,065 sqft","Dec 31, 1969",$0,37.80236,-122.42057,CA,Condo,2995000,,94109,Russian Hill,95,90,For Sale,SAN FRANCISCO
+94,2250 21st Ave,4.0,3.0,San Francisco,"1,800 sqft","Dec 31, 1969",$0,37.74573,-122.4777,CA,Single-Family Home,898000,,94116,Central Sunset,78,69,For Sale,SAN FRANCISCO
+95,282 Holladay Ave,2.5,3.0,San Francisco,"1,638 sqft","Dec 31, 1969",$0,37.74533,-122.40566,CA,Single-Family Home,895000,,94110,Bernal Heights,82,73,For Sale,SAN FRANCISCO
+96,19-21 Rosemont Pl,4.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.76876,-122.42541,CA,Multi-Family Home,1395000,,94103,Mission Dolores,97,100,For Sale,SAN FRANCISCO
+97,333 1st St #1803,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.78703,-122.39364,CA,Condo,799000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+98,1999 Broadway #62,3.0,3.0,San Francisco,"2,200 sqft","Dec 31, 1969",$0,37.794666,-122.42972,CA,Condo,1795000,,94109,Pacific Heights,94,91,For Sale,SAN FRANCISCO
+99,219 Brannan St #18A,2.0,3.0,San Francisco,"1,611 sqft","Dec 31, 1969",$0,37.78271,-122.39036,CA,Condo,2500000,,94107,South Beach,86,100,For Sale,SAN FRANCISCO
+100,2769 Union St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.795616,-122.44481,CA,Condo,2175000,,94123,Cow Hollow,85,79,For Sale,SAN FRANCISCO
+101,192 Laidley St,1.0,1.0,San Francisco,830 sqft,"Dec 31, 1969",$0,37.73881,-122.42849,CA,TIC,550000,,94131,Glen Park,78,84,For Sale,SAN FRANCISCO
+102,1810 Hyde St,,6.0,San Francisco,,"Dec 31, 1969",$0,37.79761,-122.41851,CA,Multi-Family Home,1695000,,94109,Russian Hill,94,92,For Sale,SAN FRANCISCO
+103,140 Gellert Dr,3.0,4.0,San Francisco,"2,482 sqft","Dec 31, 1969",$0,37.731197,-122.49282,CA,Single-Family Home,1395000,,94132,Merced Manor,57,52,For Sale,SAN FRANCISCO
+104,1310 Minnesota St #210,2.0,1.0,San Francisco,881 sqft,"Dec 31, 1969",$0,37.7537,-122.39007,CA,Apt/Condo/Twnhm,725000,,94107,Central Waterfront,75,64,For Sale,SAN FRANCISCO
+105,728 Clayton St,,,San Francisco,,"Dec 31, 1969",$0,37.7683,-122.44797,CA,Multi-Family Home,2495000,,94117,Haight,94,81,For Sale,SAN FRANCISCO
+106,4540 19th St,2.0,3.0,San Francisco,"1,750 sqft","Dec 31, 1969",$0,37.759224,-122.439964,CA,Single-Family Home,1495000,,94114,Castro,85,85,For Sale,SAN FRANCISCO
+107,415 De Haro St #204,2.0,2.0,San Francisco,"1,190 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Apt/Condo/Twnhm,1195000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+108,1818 Hyde St,,,San Francisco,,"Dec 31, 1969",$0,37.79773,-122.41849,CA,Multi-Family Home,1450000,,94109,Russian Hill,94,92,For Sale,SAN FRANCISCO
+109,415 De Haro St #206,2.0,2.0,San Francisco,"1,237 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Apt/Condo/Twnhm,1235000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+110,425 1st St #3205,1.0,1.0,San Francisco,710 sqft,"Dec 31, 1969",$0,37.786064,-122.39217,CA,Condo,849000,,94105,South Beach,86,100,For Sale,SAN FRANCISCO
+111,1501 6th Ave,2.0,3.0,San Francisco,"2,228 sqft","Dec 31, 1969",$0,37.760296,-122.46312,CA,Single-Family Home,1095000,,94122,Inner Sunset,,,For Sale,SAN FRANCISCO
+112,1470 22nd Ave,1.0,2.0,San Francisco,"1,480 sqft","Dec 31, 1969",$0,37.76027,-122.47979,CA,Single-Family Home,899000,,94122,Central Sunset,89,68,For Sale,SAN FRANCISCO
+113,118 17th Ave,3.0,3.0,San Francisco,"2,080 sqft","Dec 31, 1969",$0,37.785732,-122.47622,CA,Single-Family Home,2050000,,94121,Lake Street,85,73,For Sale,SAN FRANCISCO
+114,56 Winfield St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.744293,-122.41764,CA,Condo,749000,,94110,Bernal Heights,86,84,For Sale,SAN FRANCISCO
+115,288 27th St,,,San Francisco,,"Dec 31, 1969",$0,37.74704,-122.42667,CA,Unspecified,2499000,,94131,Noe Valley,89,82,For Sale,SAN FRANCISCO
+116,415 De Haro St #207,2.0,2.0,San Francisco,"1,273 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Apt/Condo/Twnhm,1325000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+117,3867 Jackson St,5.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.789127,-122.45868,CA,Single-Family Home,4250000,,94118,Presidio Heights,78,66,For Sale,SAN FRANCISCO
+118,1354A Stevenson St,1.0,2.0,San Francisco,925 sqft,"Dec 31, 1969",$0,37.77074,-122.42187,CA,Condo,765000,,94103,SoMa,92,100,For Sale,SAN FRANCISCO
+119,254 12th Ave,,,San Francisco,"1,600 sqft","Dec 31, 1969",$0,37.783504,-122.47058,CA,Multi-Family Home,850000,,94118,Inner Richmond,95,76,For Sale,SAN FRANCISCO
+120,338 Spear St #12C,1.0,1.0,San Francisco,806 sqft,"Dec 31, 1969",$0,37.790077,-122.39125,CA,Condo,849000,,94105,South Beach,80,100,For Sale,SAN FRANCISCO
+121,1230 Jackson St,,,San Francisco,"4,986 sqft","Dec 31, 1969",$0,37.79513,-122.41541,CA,Income/Investment,1895000,,94109,Nob Hill,,,For Sale,SAN FRANCISCO
+122,3579 Folsom St,,,San Francisco,,"Dec 31, 1969",$0,37.74172,-122.41301,CA,Lot/Land,299000,,94110,Bernal Heights,86,79,For Sale,SAN FRANCISCO
+123,53 Martha Ave,2.0,3.0,San Francisco,"1,325 sqft","Dec 31, 1969",$0,37.734108,-122.440445,CA,Single-Family Home,859000,,94131,Sunnyside,69,81,For Sale,SAN FRANCISCO
+124,828 25th Ave,1.0,2.0,San Francisco,"1,702 sqft","Dec 31, 1969",$0,37.773888,-122.48412,CA,Condo,650000,,94121,Central Richmond,,,For Sale,SAN FRANCISCO
+125,3256 16th St #3,1.0,1.0,San Francisco,753 sqft,"Dec 31, 1969",$0,37.76498,-122.42544,CA,Condo,203961,,94103,Mission Dolores,98,100,For Sale,SAN FRANCISCO
+126,360 Diamond St,1.0,2.0,San Francisco,"1,146 sqft","Dec 31, 1969",$0,37.756615,-122.43698,CA,Condo,849000,,94114,Castro,89,81,For Sale,SAN FRANCISCO
+127,406 Douglass St,2.0,5.0,San Francisco,"2,074 sqft","Dec 31, 1969",$0,37.756897,-122.43926,CA,Multi-Family Home,1459000,,94114,Castro,,,For Sale,SAN FRANCISCO
+128,826 25th Ave,1.0,2.0,San Francisco,"1,702 sqft","Dec 31, 1969",$0,37.773903,-122.48397,CA,Condo,749000,,94121,Central Richmond,,,For Sale,SAN FRANCISCO
+129,200 Brannan St #410,2.0,2.0,San Francisco,"1,525 sqft","Dec 31, 1969",$0,37.7836,-122.39071,CA,Condo,1275000,,94107,South Beach,85,100,For Sale,SAN FRANCISCO
+130,1148 Church St,1.0,2.0,San Francisco,954 sqft,"Dec 31, 1969",$0,37.75258,-122.427765,CA,Condo,849000,,94114,Noe Valley,91,81,For Sale,SAN FRANCISCO
+131,18 Natick St,1.0,2.0,San Francisco,916 sqft,"Dec 31, 1969",$0,37.734344,-122.4321,CA,Apt/Condo/Twnhm,749000,,94131,Glen Park,,,For Sale,SAN FRANCISCO
+132,111 Chestnut St #807,1.0,1.0,San Francisco,633 sqft,"Dec 31, 1969",$0,37.804245,-122.4055,CA,Apt/Condo/Twnhm,599000,,94111,Fisherman's Wharf,,,For Sale,SAN FRANCISCO
+133,172 Fairmount St,1.0,1.0,San Francisco,747 sqft,"Dec 31, 1969",$0,37.73913,-122.4269,CA,Apt/Condo/Twnhm,599000,,94131,Glen Park,,,For Sale,SAN FRANCISCO
+134,35 Divisadero St,1.0,2.0,San Francisco,"1,190 sqft","Dec 31, 1969",$0,37.767822,-122.43677,CA,Apt/Condo/Twnhm,799000,,94117,Buena Vista Park,,,For Sale,SAN FRANCISCO
+135,15 Loyola Ter,1.0,2.0,San Francisco,"1,335 sqft","Dec 31, 1969",$0,37.775814,-122.44914,CA,Apt/Condo/Twnhm,899000,,94117,Lone Mountain,,,For Sale,SAN FRANCISCO
+136,333 Grant Ave #707,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.79015,-122.40587,CA,Condo,775000,,94108,Downtown,100,100,For Sale,SAN FRANCISCO
+137,1120 Hampshire St,1.0,2.0,San Francisco,800 sqft,"Dec 31, 1969",$0,37.7541,-122.40758,CA,Condo,689000,,94110,Potrero Hill,95,76,For Sale,SAN FRANCISCO
+138,667 28th St,2.0,3.0,San Francisco,"1,854 sqft","Dec 31, 1969",$0,37.744434,-122.43708,CA,Single-Family Home,1795000,,94131,Diamond Heights,72,66,For Sale,SAN FRANCISCO
+139,1800 Washington St #219,2.0,2.0,San Francisco,"1,042 sqft","Dec 31, 1969",$0,37.79343,-122.42343,CA,Apt/Condo/Twnhm,899000,,94109,Pacific Heights,98,91,For Sale,SAN FRANCISCO
+140,279 Graystone Ter #1,1.0,1.0,San Francisco,708 sqft,"Dec 31, 1969",$0,37.757027,-122.44411,CA,TIC,599000,,94114,Twin Peaks,68,76,For Sale,SAN FRANCISCO
+141,170 King St #1031,2.0,2.0,San Francisco,"1,130 sqft","Dec 31, 1969",$0,37.77898,-122.391754,CA,Condo,1250000,,94107,South Beach,89,100,For Sale,SAN FRANCISCO
+142,1738 Lombard St #4,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.80091,-122.43023,CA,Condo,1250000,,94123,Marina,95,83,For Sale,SAN FRANCISCO
+143,206 Lisbon St,1.0,3.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.72505,-122.43159,CA,Single-Family Home,599000,,94112,Excelsior,83,86,For Sale,SAN FRANCISCO
+144,901909 Balboa St,4.0,6.0,San Francisco,"2,725 sqft","Dec 31, 1969",$0,37.7772,-122.465,CA,Single-Family Home,1743000,,94118,Inner Richmond,91,77,For Sale,SAN FRANCISCO
+145,3627 21st St,3.0,3.0,San Francisco,"3,003 sqft","Dec 31, 1969",$0,37.756207,-122.42858,CA,Single-Family Home,2625000,,94114,Noe Valley,85,,For Sale,SAN FRANCISCO
+146,420 El Camino Del Mar,3.0,4.0,San Francisco,"4,498 sqft","Dec 31, 1969",$0,37.787804,-122.487816,CA,Single-Family Home,5100000,,94121,Sea Cliff,65,52,For Sale,SAN FRANCISCO
+147,333 1st St #1401,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.78703,-122.39364,CA,Condo,1150000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+148,2366 33rd Ave,4.0,5.0,San Francisco,"2,500 sqft","Dec 31, 1969",$0,37.74303,-122.49041,CA,Single-Family Home,1250000,,94116,Central Sunset,77,61,For Sale,SAN FRANCISCO
+149,65 Montclair Ter,4.5,4.0,San Francisco,,"Dec 31, 1969",$0,37.80285,-122.419205,CA,Single-Family Home,9950000,,94109,Russian Hill,89,90,For Sale,SAN FRANCISCO
+150,201 Sansome St #1004,2.5,2.0,San Francisco,"1,538 sqft","Dec 31, 1969",$0,37.792255,-122.401245,CA,Condo,1550000,,94104,Downtown,100,100,For Sale,SAN FRANCISCO
+151,1124 Hampshire St,1.0,2.0,San Francisco,812 sqft,"Dec 31, 1969",$0,37.754047,-122.40757,CA,Condo,699000,,94110,Potrero Hill,95,76,For Sale,SAN FRANCISCO
+152,31 Whittier St,2.0,2.0,San Francisco,"1,460 sqft","Dec 31, 1969",$0,37.709972,-122.447716,CA,Single-Family Home,350000,,94112,Crocker Amazon,72,64,For Sale,SAN FRANCISCO
+153,1834A Mason St,3.0,3.0,San Francisco,"2,179 sqft","Dec 31, 1969",$0,37.800552,-122.412415,CA,TIC,1899000,,94133,North Beach,98,93,For Sale,SAN FRANCISCO
+154,260 King St #705,2.0,2.0,San Francisco,"1,488 sqft","Dec 31, 1969",$0,37.77764,-122.39342,CA,Condo,1150000,,94107,Mission Bay,88,98,For Sale,SAN FRANCISCO
+155,77 Dow Pl #703,1.5,1.0,San Francisco,,"Dec 31, 1969",$0,37.784157,-122.39662,CA,Condo,799000,,94107,South Beach,92,100,For Sale,SAN FRANCISCO
+156,1242 Sacramento St #3,2.0,1.0,San Francisco,"1,000 sqft","Dec 31, 1969",$0,37.7927,-122.41336,CA,Condo,1345000,,94108,Nob Hill,97,100,For Sale,SAN FRANCISCO
+157,365 Hazelwood Ave,5.0,5.0,San Francisco,"3,070 sqft","Dec 31, 1969",$0,37.73368,-122.45646,CA,Single-Family Home,1995000,,94127,Westwood Highlands,63,65,For Sale,SAN FRANCISCO
+158,260 King St #463,1.0,1.0,San Francisco,747 sqft,"Dec 31, 1969",$0,37.77764,-122.39342,CA,Condo,635000,,94107,Mission Bay,88,98,For Sale,SAN FRANCISCO
+159,63 Belle Ave,4.0,5.0,San Francisco,"2,402 sqft","Dec 31, 1969",$0,37.70847,-122.47027,CA,Single-Family Home,728000,,94132,Ingleside Heights,63,75,For Sale,SAN FRANCISCO
+160,1510 Pacific Ave #12,,,San Francisco,"2,850 sqft","Dec 31, 1969",$0,37.795387,-122.42029,CA,Multi-Family Home,1788000,,94109,Nob Hill,98,94,For Sale,SAN FRANCISCO
+161,4348 21st St,2.0,3.0,San Francisco,"1,450 sqft","Dec 31, 1969",$0,37.755543,-122.439705,CA,Single-Family Home,1499000,,94114,Noe Valley,83,77,For Sale,SAN FRANCISCO
+162,219 Brannan St #1G,1.0,1.0,San Francisco,"1,032 sqft","Dec 31, 1969",$0,37.78271,-122.39036,CA,Apt/Condo/Twnhm,795000,,94107,South Beach,86,100,For Sale,SAN FRANCISCO
+163,501 Masonic Ave,,,San Francisco,,"Dec 31, 1969",$0,37.776554,-122.44702,CA,Multi-Family Home,1580000,,94117,Lone Mountain,94,78,For Sale,SAN FRANCISCO
+164,111 Chestnut St #512,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.804245,-122.4055,CA,Condo,575000,,94111,Fisherman's Wharf,94,86,For Sale,SAN FRANCISCO
+165,301 Mission St #6J,2.0,2.0,San Francisco,"1,245 sqft","Dec 31, 1969",$0,37.790543,-122.39592,CA,Condo,1590000,,94105,South Beach,92,100,For Sale,SAN FRANCISCO
+166,1042 Jackson St,,,San Francisco,"2,640 sqft","Dec 31, 1969",$0,37.795464,-122.4123,CA,Multi-Family Home,1188000,,94133,Nob Hill,97,100,For Sale,SAN FRANCISCO
+167,717 Grand View Ave,3.0,2.0,San Francisco,"1,424 sqft","Dec 31, 1969",$0,37.748737,-122.442276,CA,Condo,1095000,,94114,Noe Valley,72,61,For Sale,SAN FRANCISCO
+168,250 27th Ave #252,,,San Francisco,,"Dec 31, 1969",$0,37.7847,-122.486885,CA,Multi-Family Home,1449000,,94121,Sea Cliff,83,67,For Sale,SAN FRANCISCO
+169,355 1st St #1505,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.78703,-122.39364,CA,Condo,800000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+170,1894 44th Ave,1.0,2.0,San Francisco,800 sqft,"Dec 31, 1969",$0,37.751347,-122.5029,CA,Single-Family Home,689000,,94122,Outer Sunset,78,56,For Sale,SAN FRANCISCO
+171,188 Minna St #25F,3.0,2.0,San Francisco,"1,527 sqft","Dec 31, 1969",$0,37.78629,-122.401375,CA,Condo,3850000,,94105,South Beach,98,100,For Sale,SAN FRANCISCO
+172,706 Holloway Ave,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.722054,-122.46048,CA,Single-Family Home,699000,,94112,Ingleside,83,82,For Sale,SAN FRANCISCO
+173,690 Market St #1105,2.5,2.0,San Francisco,,"Dec 31, 1969",$0,37.788246,-122.40323,CA,Condo,2499000,,94104,Downtown,98,100,For Sale,SAN FRANCISCO
+174,295 Castro St #299,,,San Francisco,,"Dec 31, 1969",$0,37.764305,-122.43502,CA,Income/Investment,4495000,,94114,Duboce Triangle,100,94,For Sale,SAN FRANCISCO
+175,187 Belvedere St #A,2.0,3.0,San Francisco,"1,488 sqft","Dec 31, 1969",$0,37.767124,-122.44941,CA,Condo,1588000,,94117,Haight,94,79,For Sale,SAN FRANCISCO
+176,1142 Church St,1.0,2.0,San Francisco,948 sqft,"Dec 31, 1969",$0,37.752594,-122.427765,CA,Condo,849000,,94114,Noe Valley,91,81,For Sale,SAN FRANCISCO
+177,900 Bush St #217,2.0,2.0,San Francisco,847 sqft,"Dec 31, 1969",$0,37.789944,-122.41273,CA,Apt/Condo/Twnhm,599000,,94109,Downtown,98,100,For Sale,SAN FRANCISCO
+178,975 Union St,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.799534,-122.415405,CA,Condo,1525000,,94133,Russian Hill,91,90,For Sale,SAN FRANCISCO
+179,792 Ashbury St,2.0,3.0,San Francisco,"1,893 sqft","Dec 31, 1969",$0,37.76745,-122.44612,CA,Condo,1198000,,94117,Haight,97,82,For Sale,SAN FRANCISCO
+180,1758 La Salle Ave,1.0,2.0,San Francisco,"1,075 sqft","Dec 31, 1969",$0,37.738373,-122.39145,CA,Single-Family Home,439000,,94124,Bayview,68,67,For Sale,SAN FRANCISCO
+181,751 Rockdale Dr,1.0,2.0,San Francisco,"1,320 sqft","Dec 31, 1969",$0,37.741165,-122.4521,CA,Single-Family Home,895000,,94127,Miraloma,,,For Sale,SAN FRANCISCO
+182,2584 Folsom St #3,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.75586,-122.414604,CA,Condo,649000,,94110,Mission,,,For Sale,SAN FRANCISCO
+183,125 127 30th St #127,1.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.74205,-122.42377,CA,TIC,725000,,94110,Glen Park,,,For Sale,SAN FRANCISCO
+184,125 30th St #127,1.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.742054,-122.42377,CA,Apt/Condo/Twnhm,725000,,94110,Glen Park,,,For Sale,SAN FRANCISCO
+185,1325 Bay St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.803463,-122.42883,CA,Condo,1278000,,94123,Marina,89,85,For Sale,SAN FRANCISCO
+186,173 27th St,1.0,3.0,San Francisco,"1,320 sqft","Dec 31, 1969",$0,37.746944,-122.42395,CA,Condo,900000,,94110,Noe Valley,,,For Sale,SAN FRANCISCO
+187,171 27th St,1.0,2.0,San Francisco,"1,166 sqft","Dec 31, 1969",$0,37.746845,-122.42389,CA,Condo,900000,,94110,Noe Valley,,,For Sale,SAN FRANCISCO
+188,2049 Vallejo St,2.0,2.0,San Francisco,"1,394 sqft","Dec 31, 1969",$0,37.795467,-122.43095,CA,Condo,1499000,,94123,Pacific Heights,94,89,For Sale,SAN FRANCISCO
+189,4449 23rd St,2.0,3.0,San Francisco,"2,500 sqft","Dec 31, 1969",$0,37.752197,-122.441666,CA,Single-Family Home,1788000,,94114,Noe Valley,,,For Sale,SAN FRANCISCO
+190,1640 Hayes St #4,2.0,3.0,San Francisco,"1,860 sqft","Dec 31, 1969",$0,37.77455,-122.44359,CA,Condo,1395000,,94117,North Park,,,For Sale,SAN FRANCISCO
+191,88 King St #604,2.0,2.0,San Francisco,"1,145 sqft","Dec 31, 1969",$0,37.78063,-122.38963,CA,Condo,1088000,,94107,South Beach,,,For Sale,SAN FRANCISCO
+192,942 S Van Ness Ave,3.5,3.0,San Francisco,"1,890 sqft","Dec 31, 1969",$0,37.758022,-122.41719,CA,Condo,1359000,,94110,Mission,,,For Sale,SAN FRANCISCO
+193,171 27th St,2.0,8.0,San Francisco,"2,485 sqft","Dec 31, 1969",$0,37.746845,-122.42389,CA,Multi-Family Home,1800000,,94110,Noe Valley,,,For Sale,SAN FRANCISCO
+194,64 Waller St,2.0,2.0,San Francisco,"1,573 sqft","Dec 31, 1969",$0,37.772167,-122.42475,CA,Condo,1299000,,94102,Hayes Valley,,,For Sale,SAN FRANCISCO
+195,357 Tehama St #1,1.0,1.0,San Francisco,"1,403 sqft","Dec 31, 1969",$0,37.78167,-122.40336,CA,Apt/Condo/Twnhm,950000,,94103,SoMa,,,For Sale,SAN FRANCISCO
+196,1140 Dolores St,2.0,2.0,San Francisco,"1,855 sqft","Dec 31, 1969",$0,37.751194,-122.42534,CA,Apt/Condo/Twnhm,1595000,,94110,Noe Valley,,,For Sale,SAN FRANCISCO
+197,415 De Haro St #407,2.0,2.0,San Francisco,"1,317 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Apt/Condo/Twnhm,1599000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+198,246 Taraval St,,,San Francisco,"1,815 sqft","Dec 31, 1969",$0,37.743595,-122.4689,CA,Multi-Family Home,899000,,94116,Forest Hill,94,80,For Sale,SAN FRANCISCO
+199,3042 Jackson St #1,2.0,3.0,San Francisco,"2,265 sqft","Dec 31, 1969",$0,37.79137,-122.44532,CA,Condo,1995000,,94115,Pacific Heights,,,For Sale,SAN FRANCISCO
+200,88 King St #1304,2.0,2.0,San Francisco,"1,165 sqft","Dec 31, 1969",$0,37.78063,-122.38963,CA,Condo,1295000,,94107,South Beach,80,98,For Sale,SAN FRANCISCO
+201,380 Wawona St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.73789,-122.470535,CA,Single-Family Home,949000,,94127,West Portal,91,79,For Sale,SAN FRANCISCO
+202,70 Bannock St,1.0,3.0,San Francisco,880 sqft,"Dec 31, 1969",$0,37.718548,-122.44283,CA,Single-Family Home,649000,,94112,Mission Terrace,77,93,For Sale,SAN FRANCISCO
+203,842 30th Ave,2.25,3.0,San Francisco,"1,795 sqft","Dec 31, 1969",$0,37.77338,-122.48929,CA,Single-Family Home,1050000,,94121,Central Richmond,,,For Sale,SAN FRANCISCO
+204,812 Corbett Ave,3.0,4.0,San Francisco,"3,400 sqft","Dec 31, 1969",$0,37.75385,-122.44347,CA,Single-Family Home,2995000,,94131,Twin Peaks,62,61,For Sale,SAN FRANCISCO
+205,165 Elsie St,1.0,3.0,San Francisco,"1,450 sqft","Dec 31, 1969",$0,37.74177,-122.41815,CA,Single-Family Home,1095000,,94110,Bernal Heights,98,82,For Sale,SAN FRANCISCO
+206,160 San Marcos Ave,3.5,3.0,San Francisco,"3,565 sqft","Dec 31, 1969",$0,37.747093,-122.46512,CA,Single-Family Home,2288000,,94116,Forest Hill,77,78,For Sale,SAN FRANCISCO
+207,2415 Lake St,1.5,2.0,San Francisco,,"Dec 31, 1969",$0,37.785522,-122.485504,CA,Condo,899000,,94121,Sea Cliff,,,For Sale,SAN FRANCISCO
+208,3717 20th St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.758205,-122.424,CA,Apt/Condo/Twnhm,899000,,94110,Castro,,,For Sale,SAN FRANCISCO
+209,1940 Sacramento St #5,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.79126,-122.42495,CA,Condo,1399000,,94109,Pacific Heights,97,89,For Sale,SAN FRANCISCO
+210,355 1st St #S1502,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.78703,-122.39364,CA,Condo,1375000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+211,826 25th Ave,2.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.773903,-122.48397,CA,Multi-Family Home,1399000,,94121,Central Richmond,,,For Sale,SAN FRANCISCO
+212,2331 Bryant St #2333,,,San Francisco,,"Dec 31, 1969",$0,37.757057,-122.40922,CA,Multi-Family Home,2200000,,94110,Potrero Hill,92,78,For Sale,SAN FRANCISCO
+213,670 Douglass St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.75308,-122.43895,CA,Single-Family Home,1525000,,94114,Noe Valley,,,For Sale,SAN FRANCISCO
+214,4121 20th St #4123,2.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.757545,-122.43308,CA,Single-Family Home,1699000,,94114,Castro,,,For Sale,SAN FRANCISCO
+215,300 Sussex St,2.5,5.0,San Francisco,,"Dec 31, 1969",$0,37.737103,-122.438324,CA,Single-Family Home,1295000,,94131,Glen Park,,,For Sale,SAN FRANCISCO
+216,643 43rd Ave,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.7764,-122.50419,CA,Single-Family Home,1495000,,94121,Outer Richmond,,,For Sale,SAN FRANCISCO
+217,2938 Pine St,3.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.78688,-122.44431,CA,Single-Family Home,2700000,,94115,Lower Pacific Heights,,,For Sale,SAN FRANCISCO
+218,2711 Scott St,6.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.795086,-122.44046,CA,Single-Family Home,8950000,,94123,Pacific Heights,,,For Sale,SAN FRANCISCO
+219,333 Main St #7H,1.0,,San Francisco,640 sqft,"Dec 31, 1969",$0,37.789375,-122.39097,CA,Condo,699000,,94105,South Beach,80,100,For Sale,SAN FRANCISCO
+220,945 Green St #1,3.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.798557,-122.414375,CA,Coop,4600000,,94133,Russian Hill,89,90,For Sale,SAN FRANCISCO
+221,793 Ingerson Ave,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.716576,-122.38933,CA,Single-Family Home,425000,,94124,Bayview,55,61,For Sale,SAN FRANCISCO
+222,101 Lombard St #314E,2.0,2.0,San Francisco,"1,509 sqft","Dec 31, 1969",$0,37.80347,-122.404076,CA,Condo,1450000,,94111,Fisherman's Wharf,94,93,For Sale,SAN FRANCISCO
+223,1201 Revere Ave,4.0,5.0,San Francisco,"2,057 sqft","Dec 31, 1969",$0,37.72729,-122.38299,CA,Single-Family Home,588000,,94124,Bayview,60,62,For Sale,SAN FRANCISCO
+224,400 Spear St #206,1.0,1.0,San Francisco,933 sqft,"Dec 31, 1969",$0,37.788403,-122.38912,CA,Apt/Condo/Twnhm,749000,,94105,South Beach,77,100,For Sale,SAN FRANCISCO
+225,145 Escolta Way,2.0,3.0,San Francisco,"1,599 sqft","Dec 31, 1969",$0,37.737843,-122.489136,CA,Single-Family Home,874800,,94116,Central Sunset,68,61,For Sale,SAN FRANCISCO
+226,358 Mullen Ave,4.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.745796,-122.40619,CA,Single-Family Home,1950000,,94110,Bernal Heights,82,73,For Sale,SAN FRANCISCO
+227,301 Main St #20B,2.0,2.0,San Francisco,"1,317 sqft","Dec 31, 1969",$0,37.789333,-122.39155,CA,Condo,2100000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+228,318 29th Ave,,,San Francisco,"3,483 sqft","Dec 31, 1969",$0,37.783295,-122.488945,CA,Multi-Family Home,1890000,,94121,Central Richmond,83,68,For Sale,SAN FRANCISCO
+229,323 Edinburgh St,2.0,3.0,San Francisco,"1,075 sqft","Dec 31, 1969",$0,37.723827,-122.429695,CA,Single-Family Home,799000,,94112,Excelsior,72,74,For Sale,SAN FRANCISCO
+230,527 42nd Ave,,,San Francisco,,"Dec 31, 1969",$0,37.778606,-122.50323,CA,Single-Family Home,1988800,,94121,Outer Richmond,85,67,For Sale,SAN FRANCISCO
+231,1177 California St #730,1.0,,San Francisco,656 sqft,"Dec 31, 1969",$0,37.791027,-122.41365,CA,Condo,575000,,94108,Downtown,98,100,For Sale,SAN FRANCISCO
+232,1386 47th Ave #1388,,,San Francisco,,"Dec 31, 1969",$0,37.76067,-122.50675,CA,Multi-Family Home,799000,,94122,Outer Sunset,71,58,For Sale,SAN FRANCISCO
+233,3679 17th St #3681,,7.0,San Francisco,,"Dec 31, 1969",$0,37.7627,-122.42793,CA,Multi-Family Home,3200000,,94114,Castro,98,96,For Sale,SAN FRANCISCO
+234,18 Castillo St,1.0,2.0,San Francisco,"1,217 sqft","Dec 31, 1969",$0,37.709187,-122.41807,CA,Single-Family Home,599000,,94134,Visitacion Valley,48,58,For Sale,SAN FRANCISCO
+235,765 Market St #30G,2.0,2.0,San Francisco,"1,762 sqft","Dec 31, 1969",$0,37.785397,-122.40439,CA,Condo,2995000,,94103,SoMa,98,100,For Sale,SAN FRANCISCO
+236,2345 Wawona St,3.0,4.0,San Francisco,"2,933 sqft","Dec 31, 1969",$0,37.737026,-122.492165,CA,Single-Family Home,1350000,,94116,Central Sunset,72,60,For Sale,SAN FRANCISCO
+237,2224 Clement St,,,San Francisco,,"Dec 31, 1969",$0,37.78234,-122.48343,CA,Lot/Land,4000000,,94121,Central Richmond,91,73,For Sale,SAN FRANCISCO
+238,667 Portola Dr,,,San Francisco,"2,000 sqft","Dec 31, 1969",$0,37.744457,-122.45276,CA,Income/Investment,679000,,94127,Miraloma,66,75,For Sale,SAN FRANCISCO
+239,202 Teddy Ave,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.71483,-122.406555,CA,Single-Family Home,549000,,94134,Visitacion Valley,72,68,For Sale,SAN FRANCISCO
+240,80 Sycamore St #82,,,San Francisco,,"Dec 31, 1969",$0,37.7628,-122.42106,CA,Multi-Family Home,2395000,,94110,Mission Dolores,100,96,For Sale,SAN FRANCISCO
+241,1920 Irving St,,,San Francisco,,"Dec 31, 1969",$0,37.763653,-122.47853,CA,Income/Investment,265000,,94122,Central Sunset,89,72,For Sale,SAN FRANCISCO
+242,563 40th Ave,4.0,5.0,San Francisco,"2,920 sqft","Dec 31, 1969",$0,37.778107,-122.501045,CA,Single-Family Home,1599000,,94121,Outer Richmond,91,70,For Sale,SAN FRANCISCO
+243,1201 Revere Ave,,,San Francisco,"2,057 sqft","Dec 31, 1969",$0,37.72729,-122.38299,CA,Single-Family Home,588000,,94124,Bayview,60,62,For Sale,SAN FRANCISCO
+244,201 Sansome St #705,1.0,1.0,San Francisco,565 sqft,"Dec 31, 1969",$0,37.792263,-122.40125,CA,Condo,365705,,94104,Downtown,100,100,For Sale,SAN FRANCISCO
+245,1496 27th Ave,1.0,2.0,San Francisco,972 sqft,"Dec 31, 1969",$0,37.75962,-122.48527,CA,Apt/Condo/Twnhm,428000,,94122,Central Sunset,85,63,For Sale,SAN FRANCISCO
+246,2945 Baker St #5,1.0,,San Francisco,265 sqft,"Dec 31, 1969",$0,37.7981,-122.44605,CA,TIC,329000,,94123,Cow Hollow,91,70,For Sale,SAN FRANCISCO
+247,850 Powell St #106,3.0,3.0,San Francisco,"2,461 sqft","Dec 31, 1969",$0,37.79286,-122.40894,CA,Condo,1250000,,94108,Chinatown,98,100,For Sale,SAN FRANCISCO
+248,41 Peralta Ave,,,San Francisco,,"Dec 31, 1969",$0,37.747803,-122.405754,CA,Single-Family Home,798000,,94110,Bernal Heights,85,74,For Sale,SAN FRANCISCO
+249,1711 Geneva Ave,2.0,3.0,San Francisco,"1,430 sqft","Dec 31, 1969",$0,37.711334,-122.42635,CA,Single-Family Home,699000,,94134,Excelsior,42,61,For Sale,SAN FRANCISCO
+250,2724 Pacific Ave,7.0,7.0,San Francisco,"13,500 sqft","Dec 31, 1969",$0,37.792896,-122.44085,CA,Single-Family Home,30000000,,94115,Pacific Heights,86,81,For Sale,SAN FRANCISCO
+251,1160 Mission St #602,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.778706,-122.412636,CA,Condo,695000,,94103,SoMa,95,100,For Sale,SAN FRANCISCO
+252,3561 Sacramento St #A,4.0,5.0,San Francisco,"3,218 sqft","Dec 31, 1969",$0,37.78736,-122.451256,CA,Condo,3195000,,94118,Presidio Heights,92,75,For Sale,SAN FRANCISCO
+253,2068 3rd St #7,2.0,1.0,San Francisco,"1,183 sqft","Dec 31, 1969",$0,37.76345,-122.38911,CA,Condo,789000,,94107,Central Waterfront,78,75,For Sale,SAN FRANCISCO
+254,1 Crescent Way #1103,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.71084,-122.39018,CA,Condo,799000,,94134,Bayview,63,59,For Sale,SAN FRANCISCO
+255,80 Sycamore St #82,,,San Francisco,,"Dec 31, 1969",$0,37.7628,-122.42106,CA,Multi-Family Home,2395000,,94110,Mission Dolores,100,96,For Sale,SAN FRANCISCO
+256,1920 Irving St,,,San Francisco,,"Dec 31, 1969",$0,37.763653,-122.47853,CA,Income/Investment,265000,,94122,Central Sunset,89,72,For Sale,SAN FRANCISCO
+257,563 40th Ave,4.0,5.0,San Francisco,"2,920 sqft","Dec 31, 1969",$0,37.778107,-122.501045,CA,Single-Family Home,1599000,,94121,Outer Richmond,91,70,For Sale,SAN FRANCISCO
+258,1201 Revere Ave,,,San Francisco,"2,057 sqft","Dec 31, 1969",$0,37.72729,-122.38299,CA,Single-Family Home,588000,,94124,Bayview,60,62,For Sale,SAN FRANCISCO
+259,201 Sansome St #705,1.0,1.0,San Francisco,565 sqft,"Dec 31, 1969",$0,37.792263,-122.40125,CA,Condo,365705,,94104,Downtown,100,100,For Sale,SAN FRANCISCO
+260,1496 27th Ave,1.0,2.0,San Francisco,972 sqft,"Dec 31, 1969",$0,37.75962,-122.48527,CA,Apt/Condo/Twnhm,428000,,94122,Central Sunset,85,63,For Sale,SAN FRANCISCO
+261,2945 Baker St #5,1.0,,San Francisco,265 sqft,"Dec 31, 1969",$0,37.7981,-122.44605,CA,TIC,329000,,94123,Cow Hollow,91,70,For Sale,SAN FRANCISCO
+262,850 Powell St #106,3.0,3.0,San Francisco,"2,461 sqft","Dec 31, 1969",$0,37.79286,-122.40894,CA,Condo,1250000,,94108,Chinatown,98,100,For Sale,SAN FRANCISCO
+263,41 Peralta Ave,,,San Francisco,,"Dec 31, 1969",$0,37.747803,-122.405754,CA,Single-Family Home,798000,,94110,Bernal Heights,85,74,For Sale,SAN FRANCISCO
+264,1711 Geneva Ave,2.0,3.0,San Francisco,"1,430 sqft","Dec 31, 1969",$0,37.711334,-122.42635,CA,Single-Family Home,699000,,94134,Excelsior,42,61,For Sale,SAN FRANCISCO
+265,2724 Pacific Ave,7.0,7.0,San Francisco,"13,500 sqft","Dec 31, 1969",$0,37.792896,-122.44085,CA,Single-Family Home,30000000,,94115,Pacific Heights,86,81,For Sale,SAN FRANCISCO
+266,1160 Mission St #602,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.778706,-122.412636,CA,Condo,695000,,94103,SoMa,95,100,For Sale,SAN FRANCISCO
+267,3561 Sacramento St #A,4.0,5.0,San Francisco,"3,218 sqft","Dec 31, 1969",$0,37.78736,-122.451256,CA,Condo,3195000,,94118,Presidio Heights,92,75,For Sale,SAN FRANCISCO
+268,2068 3rd St #7,2.0,1.0,San Francisco,"1,183 sqft","Dec 31, 1969",$0,37.76345,-122.38911,CA,Condo,789000,,94107,Central Waterfront,78,75,For Sale,SAN FRANCISCO
+269,1 Crescent Way #1103,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.71084,-122.39018,CA,Condo,799000,,94134,Bayview,63,59,For Sale,SAN FRANCISCO
+270,1100 Sacramento St #302,4.0,3.0,San Francisco,"2,390 sqft","Dec 31, 1969",$0,37.792953,-122.411385,CA,Condo,2995000,,94108,Nob Hill,98,100,For Sale,SAN FRANCISCO
+271,301 Main St #33A,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.789333,-122.39155,CA,Condo,2395000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+272,22 Arleta Ave,2.0,4.0,San Francisco,"2,125 sqft","Dec 31, 1969",$0,37.712738,-122.402985,CA,Single-Family Home,649000,,94134,Visitacion Valley,65,68,For Sale,SAN FRANCISCO
+273,456 Vallejo St,5.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.79934,-122.40499,CA,Apartment,1750000,,94133,Telegraph Hill,98,100,For Sale,SAN FRANCISCO
+274,113 Galewood Cir,3.0,3.0,San Francisco,"2,085 sqft","Dec 31, 1969",$0,37.751984,-122.45675,CA,Townhome,900000,,94131,Midtown Terrace,49,77,For Sale,SAN FRANCISCO
+275,1100 Sutter St,,,San Francisco,,"Dec 31, 1969",$0,37.788197,-122.41873,CA,Income/Investment,180000,,94109,Civic Center,98,100,For Sale,SAN FRANCISCO
+276,1066 Hollister Ave,2.0,3.0,San Francisco,"1,455 sqft","Dec 31, 1969",$0,37.719578,-122.39164,CA,Single-Family Home,675500,,94124,Bayview,65,64,For Sale,SAN FRANCISCO
+277,850 Powell St #303,3.0,4.0,San Francisco,"2,822 sqft","Dec 31, 1969",$0,37.79286,-122.40894,CA,Condo,2250000,,94108,Nob Hill,98,100,For Sale,SAN FRANCISCO
+278,364 3rd Ave #366,4.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.781864,-122.46079,CA,Single-Family Home,1995000,,94118,Inner Richmond,94,76,For Sale,SAN FRANCISCO
+279,791 La Playa St #3,2.0,3.0,San Francisco,"1,600 sqft","Dec 31, 1969",$0,37.77354,-122.51032,CA,Condo,850000,,94121,Outer Richmond,71,64,For Sale,SAN FRANCISCO
+280,1516 Hyde St #1518,3.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.794872,-122.417946,CA,Single-Family Home,1299000,,94109,Nob Hill,94,95,For Sale,SAN FRANCISCO
+281,1000 Eucalyptus Dr,3.0,3.0,San Francisco,"1,667 sqft","Dec 31, 1969",$0,37.731255,-122.48295,CA,Single-Family Home,1099000,,94132,Merced Manor,74,66,For Sale,SAN FRANCISCO
+282,690 Market St #2401,,,San Francisco,"3,595 sqft","Dec 31, 1969",$0,37.788246,-122.40323,CA,Condo,3800000,,94104,Downtown,100,100,For Sale,SAN FRANCISCO
+283,166 Scotia Ave,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.732166,-122.400185,CA,Lot/Land,599000,,94124,Silver Terrace,80,70,For Sale,SAN FRANCISCO
+284,2937 Mission St,,,San Francisco,,"Dec 31, 1969",$0,37.750042,-122.4179,CA,Multi-Family Home,2099000,,94110,Mission,94,88,For Sale,SAN FRANCISCO
+285,188 Minna St #33C,3.0,2.0,San Francisco,"1,670 sqft","Dec 31, 1969",$0,37.78629,-122.401375,CA,Condo,2800000,,94105,South Beach,98,100,For Sale,SAN FRANCISCO
+286,380 Sawyer St #382,3.0,7.0,San Francisco,"2,845 sqft","Dec 31, 1969",$0,37.713455,-122.414536,CA,Single-Family Home,859000,,94134,Visitacion Valley,49,63,For Sale,SAN FRANCISCO
+287,83 Sylvan Dr,2.0,2.0,San Francisco,"1,464 sqft","Dec 31, 1969",$0,37.732643,-122.48569,CA,Single-Family Home,878825,,94132,Merced Manor,77,61,For Sale,SAN FRANCISCO
+288,89 Roosevelt Way,,,San Francisco,,"Dec 31, 1969",$0,37.766464,-122.43797,CA,Multi-Family Home,2877000,,94114,Buena Vista Park,86,95,For Sale,SAN FRANCISCO
+289,1627 Clay St,,,San Francisco,"7,110 sqft","Dec 31, 1969",$0,37.79226,-122.41988,CA,Multi-Family Home,2750000,,94109,Nob Hill,98,99,For Sale,SAN FRANCISCO
+290,1095 Shafter Ave,1.0,,San Francisco,"6,747 sqft","Dec 31, 1969",$0,37.725433,-122.381226,CA,Income/Investment,1275000,,94124,Bayview,66,56,For Sale,SAN FRANCISCO
+291,2776 Diamond St,1.0,2.0,San Francisco,"1,170 sqft","Dec 31, 1969",$0,37.734974,-122.43394,CA,Single-Family Home,1333000,,94131,Glen Park,83,87,For Sale,SAN FRANCISCO
+292,2639 San Jose Ave,,,San Francisco,"3,207 sqft","Dec 31, 1969",$0,37.71558,-122.45046,CA,Multi-Family Home,1100000,,94112,Ingleside,68,89,For Sale,SAN FRANCISCO
+293,1436 Grove St,,,San Francisco,,"Dec 31, 1969",$0,37.775963,-122.44041,CA,Single-Family Home,2300000,,94117,North Park,89,83,For Sale,SAN FRANCISCO
+294,1298 Fitzgerald Ave,2.0,2.0,San Francisco,"2,190 sqft","Dec 31, 1969",$0,37.722126,-122.3928,CA,Single-Family Home,975000,,94124,Bayview,71,67,For Sale,SAN FRANCISCO
+295,300 Beale St #613,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.78814,-122.39258,CA,Apt/Condo/Twnhm,1600000,,94105,South Beach,89,100,For Sale,SAN FRANCISCO
+296,144 27th St,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.747353,-122.423584,CA,Condo,449000,,94110,Noe Valley,91,84,For Sale,SAN FRANCISCO
+297,25 Sierra St #204,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.757915,-122.39548,CA,Townhome,749000,,94107,Potrero Hill,82,73,For Sale,SAN FRANCISCO
+298,1627 27th Ave,1.0,2.0,San Francisco,"1,775 sqft","Dec 31, 1969",$0,37.757027,-122.485596,CA,Single-Family Home,689000,,94122,Central Sunset,78,61,For Sale,SAN FRANCISCO
+299,144 27th St,1.0,1.0,San Francisco,500 sqft,"Dec 31, 1969",$0,37.747353,-122.423584,CA,Condo,449000,,94110,Noe Valley,91,84,For Sale,SAN FRANCISCO
+300,1070 Guerrero St,2.0,3.0,San Francisco,"1,288 sqft","Dec 31, 1969",$0,37.75407,-122.42342,CA,Condo,1450000,,94110,Noe Valley,94,84,For Sale,SAN FRANCISCO
+301,229 Brannan St #9E,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.782646,-122.39039,CA,Condo,1299000,,94107,South Beach,86,100,For Sale,SAN FRANCISCO
+302,319 Christopher Dr,3.0,4.0,San Francisco,"2,100 sqft","Dec 31, 1969",$0,37.754345,-122.45848,CA,Single-Family Home,1150000,,94131,Forest Knolls,52,62,For Sale,SAN FRANCISCO
+303,451 Kansas St #352,1.0,,San Francisco,,"Dec 31, 1969",$0,37.764114,-122.402985,CA,Condo,499000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+304,175 Bluxome St #120,1.5,2.0,San Francisco,962 sqft,"Dec 31, 1969",$0,37.77438,-122.399574,CA,Single-Family Home,665000,,94107,Mission Bay,91,98,For Sale,SAN FRANCISCO
+305,40 Cedro Ave,3.5,4.0,San Francisco,"3,360 sqft","Dec 31, 1969",$0,37.727272,-122.46806,CA,Single-Family Home,1895000,,94127,Ingleside Terrace,71,71,For Sale,SAN FRANCISCO
+306,3921 17th St,1.0,2.0,San Francisco,"1,156 sqft","Dec 31, 1969",$0,37.76241,-122.43346,CA,Condo,899000,,94114,Castro,100,94,For Sale,SAN FRANCISCO
+307,444 Francisco St #201,1.0,1.0,San Francisco,611 sqft,"Dec 31, 1969",$0,37.80497,-122.41255,CA,Condo,579000,,94133,Fisherman's Wharf,98,90,For Sale,SAN FRANCISCO
+308,2306 Cecilia Ave,1.0,2.0,San Francisco,"1,450 sqft","Dec 31, 1969",$0,37.7449,-122.47199,CA,Single-Family Home,898000,,94116,Inner Parkside,88,77,For Sale,SAN FRANCISCO
+309,28 Vandewater St,2.5,3.0,San Francisco,"2,000 sqft","Dec 31, 1969",$0,37.80535,-122.412994,CA,Condo,1699000,,94133,Fisherman's Wharf,95,86,For Sale,SAN FRANCISCO
+310,1255 California St #104,1.0,,San Francisco,725 sqft,"Dec 31, 1969",$0,37.79099,-122.41499,CA,Condo,499000,,94109,Downtown,98,100,For Sale,SAN FRANCISCO
+311,403 Main St #716N,1.0,1.0,San Francisco,862 sqft,"Dec 31, 1969",$0,37.78801,-122.38964,CA,Condo,750000,,94105,South Beach,77,100,For Sale,SAN FRANCISCO
+312,206 Edinburgh St,1.0,2.0,San Francisco,930 sqft,"Dec 31, 1969",$0,37.72584,-122.42881,CA,Single-Family Home,399000,,94112,Excelsior,72,83,For Sale,SAN FRANCISCO
+313,345 Church St #3E,1.0,1.0,San Francisco,861 sqft,"Dec 31, 1969",$0,37.76558,-122.42818,CA,Condo,695000,,94114,Castro,98,100,For Sale,SAN FRANCISCO
+314,1488 Harrison St #102,2.0,1.0,San Francisco,867 sqft,"Dec 31, 1969",$0,37.77093,-122.41242,CA,Apt/Condo/Twnhm,649000,,94103,SoMa,88,100,For Sale,SAN FRANCISCO
+315,743 Corbett Ave,1.0,2.0,San Francisco,"1,137 sqft","Dec 31, 1969",$0,37.7549,-122.44206,CA,Condo,799000,,94131,Twin Peaks,69,75,For Sale,SAN FRANCISCO
+316,1516 Hyde St #1518,3.0,3.0,San Francisco,"2,465 sqft","Dec 31, 1969",$0,37.794872,-122.417946,CA,Unspecified,1299000,,94109,Nob Hill,94,96,For Sale,SAN FRANCISCO
+317,140 S Van Ness Ave #303,1.0,1.0,San Francisco,795 sqft,"Dec 31, 1969",$0,37.771564,-122.4188,CA,Condo,365271,,94103,SoMa,97,100,For Sale,SAN FRANCISCO
+318,451 Kansas St #387,1.0,,San Francisco,,"Dec 31, 1969",$0,37.764114,-122.402985,CA,Condo,499000,,94107,Potrero Hill,89,75,For Sale,SAN FRANCISCO
+319,36 Panorama Dr,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.747055,-122.45026,CA,Single-Family Home,775000,,94131,Midtown Terrace,62,75,For Sale,SAN FRANCISCO
+320,310 Townsend St #110,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.77703,-122.39575,CA,Condo,1250000,,94107,Mission Bay,95,100,For Sale,SAN FRANCISCO
+321,3136 Scott St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.798695,-122.4407,CA,TIC,995000,,94123,Cow Hollow,95,73,For Sale,SAN FRANCISCO
+322,2225 23rd St,1.0,1.0,San Francisco,602 sqft,"Dec 31, 1969",$0,37.753902,-122.402016,CA,Single-Family Home,490000,,94107,Potrero Hill,82,70,For Sale,SAN FRANCISCO
+323,1555 Yosemite Ave,,,San Francisco,,"Dec 31, 1969",$0,37.72601,-122.39102,CA,Single-Family Home,128000,,94124,Bayview,77,69,For Sale,SAN FRANCISCO
+324,344 Park St,2.5,3.0,San Francisco,"1,600 sqft","Dec 31, 1969",$0,37.73617,-122.41817,CA,Apartment,799000,,94110,Bernal Heights,82,78,For Sale,SAN FRANCISCO
+325,590 Lombard St #594,3.0,,San Francisco,,"Dec 31, 1969",$0,37.803192,-122.411156,CA,Multi-Family Home,1950000,,94133,North Beach,95,87,For Sale,SAN FRANCISCO
+326,1525 Jerrold Ave,,,San Francisco,"2,839 sqft","Dec 31, 1969",$0,37.73778,-122.38815,CA,Multi-Family Home,1495000,,94124,Bayview,82,66,For Sale,SAN FRANCISCO
+327,1806 20th St,2.0,3.0,San Francisco,"1,770 sqft","Dec 31, 1969",$0,37.76046,-122.39973,CA,Condo,1650000,,94107,Potrero Hill,83,72,For Sale,SAN FRANCISCO
+328,2728 Ulloa St,1.0,2.0,San Francisco,"1,300 sqft","Dec 31, 1969",$0,37.740982,-122.4858,CA,Single-Family Home,750000,,94116,Central Sunset,78,65,For Sale,SAN FRANCISCO
+329,1000 N Point St #701,2.0,2.0,San Francisco,"1,200 sqft","Dec 31, 1969",$0,37.80543,-122.42481,CA,Coop,1050000,,94109,Russian Hill,83,86,For Sale,SAN FRANCISCO
+330,3880 19th St #3882,,4.0,San Francisco,"3,072 sqft","Dec 31, 1969",$0,37.759834,-122.42992,CA,Multi-Family Home,1895000,,94114,Castro,91,93,For Sale,SAN FRANCISCO
+331,400 Alemany Blvd #16,2.0,2.0,San Francisco,"1,048 sqft","Dec 31, 1969",$0,37.733143,-122.414566,CA,Condo,499000,,94110,Bernal Heights,72,69,For Sale,SAN FRANCISCO
+332,201 Delta St,2.0,3.0,San Francisco,"1,550 sqft","Dec 31, 1969",$0,37.715668,-122.40816,CA,Single-Family Home,568000,,94134,Visitacion Valley,63,67,For Sale,SAN FRANCISCO
+333,1070 Guerrero St,2.0,3.0,San Francisco,"1,288 sqft","Dec 31, 1969",$0,37.75407,-122.42342,CA,Apt/Condo/Twnhm,1450000,,94110,Noe Valley,94,84,For Sale,SAN FRANCISCO
+334,733 Front St #308,2.0,2.0,San Francisco,"1,291 sqft","Dec 31, 1969",$0,37.798027,-122.40009,CA,Condo,1290000,,94111,Financial District,100,100,For Sale,SAN FRANCISCO
+335,2551 Larkin St,4.0,,San Francisco,,"Dec 31, 1969",$0,37.801308,-122.42133,CA,Multi-Family Home,2099000,,94109,Russian Hill,94,90,For Sale,SAN FRANCISCO
+336,220 Lombard St #421,1.0,1.0,San Francisco,648 sqft,"Dec 31, 1969",$0,37.804245,-122.4055,CA,Condo,520000,,94111,Fisherman's Wharf,94,86,For Sale,SAN FRANCISCO
+337,431 Arkansas St,2.0,3.0,San Francisco,"1,807 sqft","Dec 31, 1969",$0,37.7608,-122.39799,CA,Condo,1499000,,94107,Potrero Hill,83,72,For Sale,SAN FRANCISCO
+338,146 Taraval St,1.0,3.0,San Francisco,"1,560 sqft","Dec 31, 1969",$0,37.743725,-122.467026,CA,Single-Family Home,1098000,,94116,Forest Hill,98,79,For Sale,SAN FRANCISCO
+339,14 Dehon St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.764294,-122.4303,CA,Apt/Condo/Twnhm,775000,,94114,Castro,100,98,For Sale,SAN FRANCISCO
+340,775 37th Ave,1.5,3.0,San Francisco,"1,670 sqft","Dec 31, 1969",$0,37.77432,-122.49755,CA,Single-Family Home,1098000,,94121,Outer Richmond,88,70,For Sale,SAN FRANCISCO
+341,99 Rotteck St,2.0,4.0,San Francisco,660 sqft,"Dec 31, 1969",$0,37.731388,-122.430466,CA,Single-Family Home,699000,,94112,Mission Terrace,78,85,For Sale,SAN FRANCISCO
+342,1447 Lombard St,5.0,6.0,San Francisco,"4,930 sqft","Dec 31, 1969",$0,37.800907,-122.425415,CA,Single-Family Home,3000000,,94123,Cow Hollow,86,88,For Sale,SAN FRANCISCO
+343,325 China Basin St #107,3.0,3.0,San Francisco,"1,848 sqft","Dec 31, 1969",$0,37.771664,-122.38745,CA,Apt/Condo/Twnhm,1749000,,94158,Mission Bay,62,83,For Sale,SAN FRANCISCO
+344,855 La Playa St #361,2.0,2.0,San Francisco,"1,028 sqft","Dec 31, 1969",$0,37.7722,-122.51038,CA,Condo,750000,,94121,Outer Richmond,58,65,For Sale,SAN FRANCISCO
+345,1354 Stevenson St,1.0,2.0,San Francisco,925 sqft,"Dec 31, 1969",$0,37.77074,-122.42187,CA,Condo,765000,,94103,SoMa,92,100,For Sale,SAN FRANCISCO
+346,3 Laussat St,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.771915,-122.42733,CA,Single-Family Home,875000,,94102,Hayes Valley,91,100,For Sale,SAN FRANCISCO
+347,1358 26th Ave,,,San Francisco,"3,584 sqft","Dec 31, 1969",$0,37.76215,-122.48424,CA,Multi-Family Home,1499000,,94122,Central Sunset,,,For Sale,SAN FRANCISCO
+348,1834 Mason St,3.0,3.0,San Francisco,"2,179 sqft","Dec 31, 1969",$0,37.800594,-122.41224,CA,Condo,1899000,,94133,North Beach,98,93,For Sale,SAN FRANCISCO
+349,17th Street and De Haro Street,2.5,2.0,San Francisco,"1,237 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Condo,1235000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+350,151 Alice B Toklas Pl #807,2.0,1.0,San Francisco,"1,507 sqft","Dec 31, 1969",$0,37.785088,-122.42068,CA,Apt/Condo/Twnhm,1399000,,94109,Civic Center,98,100,For Sale,SAN FRANCISCO
+351,955 S Van Ness Ave,3.5,3.0,San Francisco,"2,720 sqft","Dec 31, 1969",$0,37.757908,-122.41645,CA,Apt/Condo/Twnhm,2150000,,94110,Mission,95,86,For Sale,SAN FRANCISCO
+352,300 Berry St #804,1.0,1.0,San Francisco,856 sqft,"Dec 31, 1969",$0,37.77393,-122.39624,CA,Condo,799000,,94158,Mission Bay,,,For Sale,SAN FRANCISCO
+353,750 2nd St #C-1,,,San Francisco,349 sqft,"Dec 31, 1969",$0,37.780006,-122.390274,CA,Apt/Condo/Twnhm,299000,,94107,South Beach,82,100,For Sale,SAN FRANCISCO
+354,489 Harrison St #403,3.0,3.0,San Francisco,"2,354 sqft","Dec 31, 1969",$0,37.786064,-122.39217,CA,Condo,2199000,,94105,South Beach,86,100,For Sale,SAN FRANCISCO
+355,438 Locust St,2.5,2.0,San Francisco,"1,530 sqft","Dec 31, 1969",$0,37.787113,-122.4515,CA,Condo,1320000,,94118,Presidio Heights,91,75,For Sale,SAN FRANCISCO
+356,554 Diamond St,3.0,3.0,San Francisco,"2,948 sqft","Dec 31, 1969",$0,37.753433,-122.43686,CA,Single-Family Home,1795000,,94114,Noe Valley,80,65,For Sale,SAN FRANCISCO
+357,229 States St,2.5,2.0,San Francisco,"1,545 sqft","Dec 31, 1969",$0,37.763893,-122.4403,CA,Apt/Condo/Twnhm,1950000,,94114,Buena Vista Park,85,88,For Sale,SAN FRANCISCO
+358,95 Red Rock Way #203M,1.0,,San Francisco,592 sqft,"Dec 31, 1969",$0,37.74632,-122.44152,CA,Condo,379900,,94131,Diamond Heights,65,60,For Sale,SAN FRANCISCO
+359,1905 Laguna St #306,1.0,1.0,San Francisco,685 sqft,"Dec 31, 1969",$0,37.78872,-122.42904,CA,Condo,530000,,94115,Lower Pacific Heights,97,88,For Sale,SAN FRANCISCO
+360,1354 Stevenson St,1.0,2.0,San Francisco,925 sqft,"Dec 31, 1969",$0,37.77074,-122.42187,CA,Condo,765000,,94103,SoMa,92,100,For Sale,SAN FRANCISCO
+361,3 Laussat St,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.771915,-122.42733,CA,Single-Family Home,875000,,94102,Hayes Valley,91,100,For Sale,SAN FRANCISCO
+362,1358 26th Ave,,,San Francisco,"3,584 sqft","Dec 31, 1969",$0,37.76215,-122.48424,CA,Multi-Family Home,1499000,,94122,Central Sunset,,,For Sale,SAN FRANCISCO
+363,1834 Mason St,3.0,3.0,San Francisco,"2,179 sqft","Dec 31, 1969",$0,37.800594,-122.41224,CA,Condo,1899000,,94133,North Beach,98,93,For Sale,SAN FRANCISCO
+364,17th Street and De Haro Street,2.5,2.0,San Francisco,"1,237 sqft","Dec 31, 1969",$0,37.76447,-122.401405,CA,Condo,1235000,,94107,Potrero Hill,89,73,For Sale,SAN FRANCISCO
+365,151 Alice B Toklas Pl #807,2.0,1.0,San Francisco,"1,507 sqft","Dec 31, 1969",$0,37.785088,-122.42068,CA,Apt/Condo/Twnhm,1399000,,94109,Civic Center,98,100,For Sale,SAN FRANCISCO
+366,955 S Van Ness Ave,3.5,3.0,San Francisco,"2,720 sqft","Dec 31, 1969",$0,37.757908,-122.41645,CA,Apt/Condo/Twnhm,2150000,,94110,Mission,95,86,For Sale,SAN FRANCISCO
+367,300 Berry St #804,1.0,1.0,San Francisco,856 sqft,"Dec 31, 1969",$0,37.77393,-122.39624,CA,Condo,799000,,94158,Mission Bay,,,For Sale,SAN FRANCISCO
+368,750 2nd St #C-1,,,San Francisco,349 sqft,"Dec 31, 1969",$0,37.780006,-122.390274,CA,Apt/Condo/Twnhm,299000,,94107,South Beach,82,100,For Sale,SAN FRANCISCO
+369,489 Harrison St #403,3.0,3.0,San Francisco,"2,354 sqft","Dec 31, 1969",$0,37.786064,-122.39217,CA,Condo,2199000,,94105,South Beach,86,100,For Sale,SAN FRANCISCO
+370,438 Locust St,2.5,2.0,San Francisco,"1,530 sqft","Dec 31, 1969",$0,37.787113,-122.4515,CA,Condo,1320000,,94118,Presidio Heights,91,75,For Sale,SAN FRANCISCO
+371,554 Diamond St,3.0,3.0,San Francisco,"2,948 sqft","Dec 31, 1969",$0,37.753433,-122.43686,CA,Single-Family Home,1795000,,94114,Noe Valley,80,65,For Sale,SAN FRANCISCO
+372,229 States St,2.5,2.0,San Francisco,"1,545 sqft","Dec 31, 1969",$0,37.763893,-122.4403,CA,Apt/Condo/Twnhm,1950000,,94114,Buena Vista Park,85,88,For Sale,SAN FRANCISCO
+373,95 Red Rock Way #203M,1.0,,San Francisco,592 sqft,"Dec 31, 1969",$0,37.74632,-122.44152,CA,Condo,379900,,94131,Diamond Heights,65,60,For Sale,SAN FRANCISCO
+374,1905 Laguna St #306,1.0,1.0,San Francisco,685 sqft,"Dec 31, 1969",$0,37.78872,-122.42904,CA,Condo,530000,,94115,Lower Pacific Heights,97,88,For Sale,SAN FRANCISCO
+375,320 Texas St,2.0,2.0,San Francisco,"1,433 sqft","Dec 31, 1969",$0,37.76229,-122.39572,CA,Condo,1198000,,94107,Potrero Hill,82,73,For Sale,SAN FRANCISCO
+376,461 2nd St #T552,1.5,1.0,San Francisco,"1,698 sqft","Dec 31, 1969",$0,37.7837,-122.39358,CA,Condo,1349000,,94107,South Beach,88,100,For Sale,SAN FRANCISCO
+377,2701 Larkin St #200,2.0,1.0,San Francisco,954 sqft,"Dec 31, 1969",$0,37.802822,-122.421844,CA,TIC,1295000,,94109,Russian Hill,88,90,For Sale,SAN FRANCISCO
+378,695 27th Ave,5.0,5.0,San Francisco,"2,250 sqft","Dec 31, 1969",$0,37.776337,-122.48686,CA,Single-Family Home,1595000,,94121,Central Richmond,80,72,For Sale,SAN FRANCISCO
+379,1863 19th Ave,2.0,2.0,San Francisco,"1,203 sqft","Dec 31, 1969",$0,37.753056,-122.47672,CA,Apt/Condo/Twnhm,659000,,94122,Central Sunset,78,63,For Sale,SAN FRANCISCO
+380,1981 Funston Ave,3.5,3.0,San Francisco,"2,643 sqft","Dec 31, 1969",$0,37.7511,-122.46977,CA,Single-Family Home,1595000,,94116,Golden Gate Heights,66,74,For Sale,SAN FRANCISCO
+381,2474 35th Ave,4.0,4.0,San Francisco,"1,941 sqft","Dec 31, 1969",$0,37.74093,-122.49241,CA,Single-Family Home,899000,,94116,Central Sunset,75,61,For Sale,SAN FRANCISCO
+382,2416 Rivera St,2.0,2.0,San Francisco,"1,834 sqft","Dec 31, 1969",$0,37.74627,-122.49241,CA,Single-Family Home,850000,,94116,Central Sunset,78,62,For Sale,SAN FRANCISCO
+383,229 States St,2.5,2.0,San Francisco,"1,545 sqft","Dec 31, 1969",$0,37.763893,-122.4403,CA,Condo,2050000,,94114,Buena Vista Park,85,88,For Sale,SAN FRANCISCO
+384,710 N Point St,5.0,6.0,San Francisco,"2,812 sqft","Dec 31, 1969",$0,37.806072,-122.41916,CA,Condo,1599000,,94109,Russian Hill,86,88,For Sale,SAN FRANCISCO
+385,900 Wisconsin St,1.0,2.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.75592,-122.399124,CA,Single-Family Home,1199000,,94107,Potrero Hill,78,72,For Sale,SAN FRANCISCO
+386,2122 Union St,1.0,1.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.797474,-122.43431,CA,Condo,1049000,,94123,Cow Hollow,94,86,For Sale,SAN FRANCISCO
+387,750 2nd St #801,2.5,2.0,San Francisco,"1,960 sqft","Dec 31, 1969",$0,37.780006,-122.390274,CA,Apt/Condo/Twnhm,2950000,,94107,South Beach,82,100,For Sale,SAN FRANCISCO
+388,2339 37th Ave,2.0,7.0,San Francisco,"1,845 sqft","Dec 31, 1969",$0,37.74329,-122.495384,CA,Single-Family Home,890000,,94116,Outer Sunset,78,61,For Sale,SAN FRANCISCO
+389,6 Rousseau St,4.5,4.0,San Francisco,"4,200 sqft","Dec 31, 1969",$0,37.73351,-122.43049,CA,Townhome,1449000,,94112,Bernal Heights,85,85,For Sale,SAN FRANCISCO
+390,320 Texas St,2.0,2.0,San Francisco,"1,433 sqft","Dec 31, 1969",$0,37.76229,-122.39572,CA,Condo,1198000,,94107,Potrero Hill,82,73,For Sale,SAN FRANCISCO
+391,461 2nd St #T552,1.5,1.0,San Francisco,"1,698 sqft","Dec 31, 1969",$0,37.7837,-122.39358,CA,Condo,1349000,,94107,South Beach,88,100,For Sale,SAN FRANCISCO
+392,2701 Larkin St #200,2.0,1.0,San Francisco,954 sqft,"Dec 31, 1969",$0,37.802822,-122.421844,CA,TIC,1295000,,94109,Russian Hill,88,90,For Sale,SAN FRANCISCO
+393,695 27th Ave,5.0,5.0,San Francisco,"2,250 sqft","Dec 31, 1969",$0,37.776337,-122.48686,CA,Single-Family Home,1595000,,94121,Central Richmond,80,72,For Sale,SAN FRANCISCO
+394,1863 19th Ave,2.0,2.0,San Francisco,"1,203 sqft","Dec 31, 1969",$0,37.753056,-122.47672,CA,Apt/Condo/Twnhm,659000,,94122,Central Sunset,78,63,For Sale,SAN FRANCISCO
+395,1981 Funston Ave,3.5,3.0,San Francisco,"2,643 sqft","Dec 31, 1969",$0,37.7511,-122.46977,CA,Single-Family Home,1595000,,94116,Golden Gate Heights,66,74,For Sale,SAN FRANCISCO
+396,2474 35th Ave,4.0,4.0,San Francisco,"1,941 sqft","Dec 31, 1969",$0,37.74093,-122.49241,CA,Single-Family Home,899000,,94116,Central Sunset,75,61,For Sale,SAN FRANCISCO
+397,2416 Rivera St,2.0,2.0,San Francisco,"1,834 sqft","Dec 31, 1969",$0,37.74627,-122.49241,CA,Single-Family Home,850000,,94116,Central Sunset,78,62,For Sale,SAN FRANCISCO
+398,229 States St,2.5,2.0,San Francisco,"1,545 sqft","Dec 31, 1969",$0,37.763893,-122.4403,CA,Condo,2050000,,94114,Buena Vista Park,85,88,For Sale,SAN FRANCISCO
+399,710 N Point St,5.0,6.0,San Francisco,"2,812 sqft","Dec 31, 1969",$0,37.806072,-122.41916,CA,Condo,1599000,,94109,Russian Hill,86,88,For Sale,SAN FRANCISCO
+400,900 Wisconsin St,1.0,2.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.75592,-122.399124,CA,Single-Family Home,1199000,,94107,Potrero Hill,78,72,For Sale,SAN FRANCISCO
+401,2122 Union St,1.0,1.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.797474,-122.43431,CA,Condo,1049000,,94123,Cow Hollow,94,86,For Sale,SAN FRANCISCO
+402,750 2nd St #801,2.5,2.0,San Francisco,"1,960 sqft","Dec 31, 1969",$0,37.780006,-122.390274,CA,Apt/Condo/Twnhm,2950000,,94107,South Beach,82,100,For Sale,SAN FRANCISCO
+403,2339 37th Ave,2.0,7.0,San Francisco,"1,845 sqft","Dec 31, 1969",$0,37.74329,-122.495384,CA,Single-Family Home,890000,,94116,Outer Sunset,78,61,For Sale,SAN FRANCISCO
+404,6 Rousseau St,4.5,4.0,San Francisco,"4,200 sqft","Dec 31, 1969",$0,37.73351,-122.43049,CA,Townhome,1449000,,94112,Bernal Heights,85,85,For Sale,SAN FRANCISCO
+405,320 Texas St,2.0,2.0,San Francisco,"1,433 sqft","Dec 31, 1969",$0,37.76229,-122.39572,CA,Condo,1198000,,94107,Potrero Hill,82,73,For Sale,SAN FRANCISCO
+406,461 2nd St #T552,1.5,1.0,San Francisco,"1,698 sqft","Dec 31, 1969",$0,37.7837,-122.39358,CA,Condo,1349000,,94107,South Beach,88,100,For Sale,SAN FRANCISCO
+407,2701 Larkin St #200,2.0,1.0,San Francisco,954 sqft,"Dec 31, 1969",$0,37.802822,-122.421844,CA,TIC,1295000,,94109,Russian Hill,88,90,For Sale,SAN FRANCISCO
+408,695 27th Ave,5.0,5.0,San Francisco,"2,250 sqft","Dec 31, 1969",$0,37.776337,-122.48686,CA,Single-Family Home,1595000,,94121,Central Richmond,80,72,For Sale,SAN FRANCISCO
+409,1863 19th Ave,2.0,2.0,San Francisco,"1,203 sqft","Dec 31, 1969",$0,37.753056,-122.47672,CA,Apt/Condo/Twnhm,659000,,94122,Central Sunset,78,63,For Sale,SAN FRANCISCO
+410,1981 Funston Ave,3.5,3.0,San Francisco,"2,643 sqft","Dec 31, 1969",$0,37.7511,-122.46977,CA,Single-Family Home,1595000,,94116,Golden Gate Heights,66,74,For Sale,SAN FRANCISCO
+411,2474 35th Ave,4.0,4.0,San Francisco,"1,941 sqft","Dec 31, 1969",$0,37.74093,-122.49241,CA,Single-Family Home,899000,,94116,Central Sunset,75,61,For Sale,SAN FRANCISCO
+412,2416 Rivera St,2.0,2.0,San Francisco,"1,834 sqft","Dec 31, 1969",$0,37.74627,-122.49241,CA,Single-Family Home,850000,,94116,Central Sunset,78,62,For Sale,SAN FRANCISCO
+413,229 States St,2.5,2.0,San Francisco,"1,545 sqft","Dec 31, 1969",$0,37.763893,-122.4403,CA,Condo,2050000,,94114,Buena Vista Park,85,88,For Sale,SAN FRANCISCO
+414,710 N Point St,5.0,6.0,San Francisco,"2,812 sqft","Dec 31, 1969",$0,37.806072,-122.41916,CA,Condo,1599000,,94109,Russian Hill,86,88,For Sale,SAN FRANCISCO
+415,900 Wisconsin St,1.0,2.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.75592,-122.399124,CA,Single-Family Home,1199000,,94107,Potrero Hill,78,72,For Sale,SAN FRANCISCO
+416,2122 Union St,1.0,1.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.797474,-122.43431,CA,Condo,1049000,,94123,Cow Hollow,94,86,For Sale,SAN FRANCISCO
+417,750 2nd St #801,2.5,2.0,San Francisco,"1,960 sqft","Dec 31, 1969",$0,37.780006,-122.390274,CA,Apt/Condo/Twnhm,2950000,,94107,South Beach,82,100,For Sale,SAN FRANCISCO
+418,2339 37th Ave,2.0,7.0,San Francisco,"1,845 sqft","Dec 31, 1969",$0,37.74329,-122.495384,CA,Single-Family Home,890000,,94116,Outer Sunset,78,61,For Sale,SAN FRANCISCO
+419,6 Rousseau St,4.5,4.0,San Francisco,"4,200 sqft","Dec 31, 1969",$0,37.73351,-122.43049,CA,Townhome,1449000,,94112,Bernal Heights,85,85,For Sale,SAN FRANCISCO
+420,246 2nd St #1304,1.0,1.0,San Francisco,644 sqft,"Dec 31, 1969",$0,37.785748,-122.3974,CA,Condo,699000,,94105,South Beach,92,100,For Sale,SAN FRANCISCO
+421,20 Parkridge Dr #1,2.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.75118,-122.44544,CA,Apt/Condo/Twnhm,589000,,94131,Twin Peaks,55,66,For Sale,SAN FRANCISCO
+422,8300 Oceanview Ter #108,2.0,2.0,San Francisco,"1,021 sqft","Dec 31, 1969",$0,37.71042,-122.467705,CA,Single-Family Home,499900,,94132,Ingleside Heights,66,75,For Sale,SAN FRANCISCO
+423,150 Lombard St #104,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.80445,-122.404175,CA,Condo,1049000,,94111,Fisherman's Wharf,92,87,For Sale,SAN FRANCISCO
+424,425 1st St #SUITE 4407,1.0,1.0,San Francisco,820 sqft,"Dec 31, 1969",$0,37.786064,-122.39217,CA,Condo,980000,,94105,South Beach,86,100,For Sale,SAN FRANCISCO
+425,444 Francisco St #304,1.0,1.0,San Francisco,625 sqft,"Dec 31, 1969",$0,37.80497,-122.41255,CA,Condo,599000,,94133,Fisherman's Wharf,95,87,For Sale,SAN FRANCISCO
+426,101 Lombard St #109E,1.5,1.0,San Francisco,"1,041 sqft","Dec 31, 1969",$0,37.80347,-122.404076,CA,Condo,820000,,94111,Fisherman's Wharf,94,93,For Sale,SAN FRANCISCO
+427,101 Lombard St #811W,1.0,1.0,San Francisco,923 sqft,"Dec 31, 1969",$0,37.80347,-122.404076,CA,Condo,850000,,94111,Fisherman's Wharf,94,93,For Sale,SAN FRANCISCO
+428,439 Clipper St,1.0,3.0,San Francisco,"1,164 sqft","Dec 31, 1969",$0,37.748596,-122.43475,CA,Single-Family Home,1295000,,94114,Noe Valley,91,76,For Sale,SAN FRANCISCO
+429,1551 Filbert St #4,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.799046,-122.42516,CA,Condo,780000,,94123,Cow Hollow,97,87,For Sale,SAN FRANCISCO
+430,19 Raleigh Ave,1.0,2.0,San Francisco,"1,110 sqft","Dec 31, 1969",$0,37.727398,-122.44192,CA,Single-Family Home,699000,,94112,Mission Terrace,80,90,For Sale,SAN FRANCISCO
+431,8 Le Conte Cir,2.0,3.0,San Francisco,"1,879 sqft","Dec 31, 1969",$0,37.717934,-122.39539,CA,Condo,599000,,94124,Bayview,60,67,For Sale,SAN FRANCISCO
+432,710 N Point St,5.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.806072,-122.41916,CA,Multi-Family Home,1599000,,94109,Russian Hill,86,,For Sale,SAN FRANCISCO
+433,2609 Diamond St,1.0,2.0,San Francisco,780 sqft,"Dec 31, 1969",$0,37.736984,-122.43439,CA,Single-Family Home,849000,,94131,Glen Park,85,84,For Sale,SAN FRANCISCO
+434,5 Orizaba Ave,3.0,5.0,San Francisco,,"Dec 31, 1969",$0,37.70989,-122.462845,CA,Single-Family Home,945000,,94112,Outer Mission,72,74,For Sale,SAN FRANCISCO
+435,377 Lisbon St,1.0,2.0,San Francisco,544 sqft,"Dec 31, 1969",$0,37.722275,-122.43306,CA,Single-Family Home,588888,,94112,Excelsior,86,83,For Sale,SAN FRANCISCO
+436,425 1st St #5802,2.0,2.0,San Francisco,"1,526 sqft","Dec 31, 1969",$0,37.786064,-122.39217,CA,Condo,2299000,,94105,South Beach,86,100,For Sale,SAN FRANCISCO
+437,1042 Jackson St,2.0,5.0,San Francisco,"2,640 sqft","Dec 31, 1969",$0,37.795464,-122.4123,CA,Condo,1188000,,94133,Nob Hill,97,100,For Sale,SAN FRANCISCO
+438,371 Turk St,,,San Francisco,,"Dec 31, 1969",$0,37.782425,-122.41511,CA,Single-Family Home,3625000,,94102,Tenderloin,100,100,For Sale,SAN FRANCISCO
+439,16 Orizaba Ave,6.0,6.0,San Francisco,"4,136 sqft","Dec 31, 1969",$0,37.709892,-122.46228,CA,Single-Family Home,1250000,,94112,Outer Mission,72,74,For Sale,SAN FRANCISCO
+440,4 Miraloma Dr,4.0,5.0,San Francisco,,"Dec 31, 1969",$0,37.740116,-122.46023,CA,Single-Family Home,1980000,,94127,West Portal,83,77,For Sale,SAN FRANCISCO
+441,375 4th Ave #377,3.5,4.0,San Francisco,"2,432 sqft","Dec 31, 1969",$0,37.78165,-122.46251,CA,Condo,1395000,,94118,Inner Richmond,95,76,For Sale,SAN FRANCISCO
+442,300 Sanchez St,,,San Francisco,,"Dec 31, 1969",$0,37.764214,-122.43115,CA,Condo,1000000,,94114,Castro,100,97,For Sale,SAN FRANCISCO
+443,2625 San Jose Ave,,,San Francisco,"2,756 sqft","Dec 31, 1969",$0,37.715984,-122.45007,CA,Multi-Family Home,798000,,94112,Ingleside,63,91,For Sale,SAN FRANCISCO
+444,1558 La Salle Ave,2.0,3.0,San Francisco,"1,800 sqft","Dec 31, 1969",$0,37.736233,-122.38774,CA,Single-Family Home,450000,,94124,Bayview,72,66,For Sale,SAN FRANCISCO
+445,183 Lakeshore,4.0,5.0,San Francisco,"3,450 sqft","Dec 31, 1969",$0,37.72951,-122.48039,CA,Single-Family Home,1598000,,94132,San Francisco State University,85,67,For Sale,SAN FRANCISCO
+446,29 Ord St,,,San Francisco,"2,573 sqft","Dec 31, 1969",$0,37.763203,-122.440094,CA,Multi-Family Home,2295000,,94114,Buena Vista Park,86,90,For Sale,SAN FRANCISCO
+447,3820 Mission St,3.5,4.0,San Francisco,"3,000 sqft","Dec 31, 1969",$0,37.735653,-122.42493,CA,Condo,1350000,,94110,Bernal Heights,83,84,For Sale,SAN FRANCISCO
+448,675 Naples St,1.0,2.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.718018,-122.43301,CA,Single-Family Home,688000,,94112,Excelsior,65,78,For Sale,SAN FRANCISCO
+449,250 King St #1402,2.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.77764,-122.39342,CA,Single-Family Home,1299500,,94107,Mission Bay,88,98,For Sale,SAN FRANCISCO
+450,732 Noriega St,2.0,3.0,San Francisco,"1,834 sqft","Dec 31, 1969",$0,37.755592,-122.471535,CA,Single-Family Home,1450000,,94122,Golden Gate Heights,68,68,For Sale,SAN FRANCISCO
+451,Delta Street and Tucker Avenue,,,San Francisco,,"Dec 31, 1969",$0,37.716923,-122.40813,CA,Lot/Land,243888,,94134,Visitacion Valley,66,66,For Sale,SAN FRANCISCO
+452,901 Balboa St #909,4.0,6.0,San Francisco,"2,725 sqft","Dec 31, 1969",$0,37.776882,-122.46856,CA,Condo,1743000,,94118,Inner Richmond,85,76,For Sale,SAN FRANCISCO
+453,278 11th Ave #280,,,San Francisco,"2,700 sqft","Dec 31, 1969",$0,37.783134,-122.469475,CA,Multi-Family Home,1580000,,94118,Inner Richmond,92,76,For Sale,SAN FRANCISCO
+454,1630 Geary Blvd #1600,,,San Francisco,,"Dec 31, 1969",$0,37.785027,-122.43056,CA,Income/Investment,3000000,,94115,Japantown,100,83,For Sale,SAN FRANCISCO
+455,901 Balboa St,4.0,6.0,San Francisco,"2,725 sqft","Dec 31, 1969",$0,37.776886,-122.468575,CA,Single-Family Home,1743000,,94118,Inner Richmond,85,77,For Sale,SAN FRANCISCO
+456,27 Appleton Ave,1.0,1.0,San Francisco,"1,308 sqft","Dec 31, 1969",$0,37.73885,-122.423325,CA,Single-Family Home,899000,,94110,Bernal Heights,86,78,For Sale,SAN FRANCISCO
+457,555 4th St #708,1.0,,San Francisco,576 sqft,"Dec 31, 1969",$0,37.779423,-122.39671,CA,Condo,565000,,94107,Mission Bay,95,100,For Sale,SAN FRANCISCO
+458,1730 Judah St,2.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.761784,-122.48081,CA,Apartment,1100000,,94122,Central Sunset,83,67,For Sale,SAN FRANCISCO
+459,333 Main St #4K,1.0,1.0,San Francisco,832 sqft,"Dec 31, 1969",$0,37.789375,-122.39097,CA,Single-Family Home,839000,,94105,South Beach,80,100,For Sale,SAN FRANCISCO
+460,45-55 Western Shore Ln,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.78379,-122.42963,CA,Single-Family Home,339000,,94115,Western Addition,98,92,For Sale,SAN FRANCISCO
+461,1001 Pine St #312,,,San Francisco,450 sqft,"Dec 31, 1969",$0,37.790348,-122.41257,CA,Condo,384888,,94109,Downtown,100,100,For Sale,SAN FRANCISCO
+462,235 Waller St #2,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.771233,-122.42755,CA,Apt/Condo/Twnhm,399000,,94102,Hayes Valley,94,100,For Sale,SAN FRANCISCO
+463,175 Bluxome St #107,1.5,2.0,San Francisco,,"Dec 31, 1969",$0,37.77438,-122.399574,CA,Condo,679000,,94107,Mission Bay,91,98,For Sale,SAN FRANCISCO
+464,1310 Fillmore St #403,2.0,2.0,San Francisco,"1,407 sqft","Dec 31, 1969",$0,37.78195,-122.43198,CA,Condo,845000,,94115,Western Addition,97,91,For Sale,SAN FRANCISCO
+465,1735 Franklin St,5.0,9.0,San Francisco,"9,815 sqft","Dec 31, 1969",$0,37.790665,-122.42437,CA,Single-Family Home,10250000,,94109,Pacific Heights,95,93,For Sale,SAN FRANCISCO
+466,3800 Washington St,11.0,14.0,San Francisco,"20,516 sqft","Dec 31, 1969",$0,37.789135,-122.45597,CA,Single-Family Home,19989000,,94118,Presidio Heights,89,70,For Sale,SAN FRANCISCO
+467,1805 Fillmore St #205,1.0,1.0,San Francisco,610 sqft,"Dec 31, 1969",$0,37.78625,-122.43365,CA,Condo,599000,,94115,Lower Pacific Heights,100,84,For Sale,SAN FRANCISCO
+468,400 Beale St #604,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.786903,-122.39092,CA,Condo,699000,,94105,South Beach,83,100,For Sale,SAN FRANCISCO
+469,300 Berry St #417,1.0,1.0,San Francisco,660 sqft,"Dec 31, 1969",$0,37.77393,-122.39624,CA,Apt/Condo/Twnhm,650000,,94158,Mission Bay,88,95,For Sale,SAN FRANCISCO
+470,2446 19th Ave,1.0,2.0,San Francisco,"1,430 sqft","Dec 31, 1969",$0,37.74217,-122.47526,CA,Single-Family Home,625000,,94116,Inner Parkside,95,75,For Sale,SAN FRANCISCO
+471,527 Corbett Ave,3.5,,San Francisco,,"Dec 31, 1969",$0,37.757706,-122.444176,CA,Single-Family Home,1499000,,94114,Twin Peaks,71,81,For Sale,SAN FRANCISCO
+472,1 Edgar Pl,3.0,3.0,San Francisco,"2,002 sqft","Dec 31, 1969",$0,37.720394,-122.45252,CA,Single-Family Home,555000,,94112,Ingleside,71,92,For Sale,SAN FRANCISCO
+473,457 Fulton St,2.0,2.0,San Francisco,"1,506 sqft","Dec 31, 1969",$0,37.778248,-122.42402,CA,Condo,1100000,,94102,Hayes Valley,94,100,For Sale,SAN FRANCISCO
+474,9 Edgar Pl,1.0,2.0,San Francisco,"1,437 sqft","Dec 31, 1969",$0,37.720695,-122.45242,CA,Single-Family Home,500000,,94112,Ingleside,71,92,For Sale,SAN FRANCISCO
+475,969 Buena Vista Ave W,4.0,10.0,San Francisco,"5,734 sqft","Dec 31, 1969",$0,37.77022,-122.44344,CA,Single-Family Home,3495000,,94117,Haight,92,85,For Sale,SAN FRANCISCO
+476,26 Shields St,2.0,3.0,San Francisco,850 sqft,"Dec 31, 1969",$0,37.718136,-122.463135,CA,Single-Family Home,625000,,94132,Merced Heights,49,75,For Sale,SAN FRANCISCO
+477,1269 Lombard St #A,4.0,4.0,San Francisco,"2,481 sqft","Dec 31, 1969",$0,37.801353,-122.422356,CA,Condo,3450000,,94109,Russian Hill,94,92,For Sale,SAN FRANCISCO
+478,189 College Ave #1,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.735504,-122.42524,CA,Multi-Family Home,599000,,94112,Bernal Heights,83,86,For Sale,SAN FRANCISCO
+479,2976 23rd St,,,San Francisco,,"Dec 31, 1969",$0,37.75442,-122.411736,CA,Multi-Family Home,1780000,,94110,Mission,92,82,For Sale,SAN FRANCISCO
+480,1 Lansdale Ave,3.0,4.0,San Francisco,"2,040 sqft","Dec 31, 1969",$0,37.7389,-122.459114,CA,Single-Family Home,1595000,,94127,Miraloma,80,73,For Sale,SAN FRANCISCO
+481,5696 Diamond Heights Blvd,3.5,3.0,San Francisco,"2,435 sqft","Dec 31, 1969",$0,37.73883,-122.43926,CA,Single-Family Home,1399000,,94131,Glen Park,78,78,For Sale,SAN FRANCISCO
+482,333 Bush St #4202,2.0,2.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.790592,-122.40305,CA,Condo,1288000,,94104,Downtown,100,100,For Sale,SAN FRANCISCO
+483,6620 Geary Blvd #2,1.0,1.0,San Francisco,"1,265 sqft","Dec 31, 1969",$0,37.78013,-122.4906,CA,Single-Family Home,728000,,94121,Central Richmond,89,71,For Sale,SAN FRANCISCO
+484,145 Lakeview Ave,2.0,2.0,San Francisco,"1,000 sqft","Dec 31, 1969",$0,37.71677,-122.451904,CA,Single-Family Home,588000,,94112,Ingleside,66,91,For Sale,SAN FRANCISCO
+485,610 Moraga St,4.0,5.0,San Francisco,,"Dec 31, 1969",$0,37.75668,-122.46929,CA,Single-Family Home,1450000,,94122,Golden Gate Heights,74,69,For Sale,SAN FRANCISCO
+486,2215 Rivera St,4.0,5.0,San Francisco,"2,063 sqft","Dec 31, 1969",$0,37.74601,-122.49016,CA,Single-Family Home,980000,,94116,Central Sunset,72,62,For Sale,SAN FRANCISCO
+487,4815 Mission St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.721176,-122.43712,CA,Single-Family Home,498000,,94112,Excelsior,75,89,For Sale,SAN FRANCISCO
+488,1921 Ellis St,5.0,8.0,San Francisco,,"Dec 31, 1969",$0,37.78137,-122.438225,CA,Multi-Family Home,1499000,,94115,Western Addition,92,80,For Sale,SAN FRANCISCO
+489,1671 Lombard St,12.0,,San Francisco,,"Dec 31, 1969",$0,37.800365,-122.428825,CA,Multi-Family Home,4395000,,94123,Cow Hollow,92,86,For Sale,SAN FRANCISCO
+490,523 Munich St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.71726,-122.42924,CA,Apartment,549900,,94112,Excelsior,54,68,For Sale,SAN FRANCISCO
+491,1269 Lombard St #B,2.0,3.0,San Francisco,"1,599 sqft","Dec 31, 1969",$0,37.801353,-122.422356,CA,Condo,3900000,,94109,Russian Hill,94,92,For Sale,SAN FRANCISCO
+492,9 Edgar Pl,,,San Francisco,,"Dec 31, 1969",$0,37.720695,-122.45242,CA,Lot/Land,360000,,94112,Ingleside,71,92,For Sale,SAN FRANCISCO
+493,900 Ingerson Ave,2.0,3.0,San Francisco,"1,000 sqft","Dec 31, 1969",$0,37.718292,-122.3911,CA,Single-Family Home,469900,,94124,Bayview,65,64,For Sale,SAN FRANCISCO
+494,667 Jackson St,,,San Francisco,,"Dec 31, 1969",$0,37.79594,-122.40627,CA,Income/Investment,240000,,94133,Chinatown,100,100,For Sale,SAN FRANCISCO
+495,886 Junipero Serra Blvd,3.0,3.0,San Francisco,"1,651 sqft","Dec 31, 1969",$0,37.721924,-122.47292,CA,Single-Family Home,1138000,,94127,San Francisco State University,83,67,For Sale,SAN FRANCISCO
+496,3300 26th St,,,San Francisco,"5,250 sqft","Dec 31, 1969",$0,37.749336,-122.41623,CA,Multi-Family Home,1599000,,94110,Mission,89,84,For Sale,SAN FRANCISCO
+497,1516 Hyde St,3.0,3.0,San Francisco,"2,465 sqft","Dec 31, 1969",$0,37.794876,-122.41796,CA,Income/Investment,1299000,,94109,Nob Hill,94,96,For Sale,SAN FRANCISCO
+498,350 Rolph St,2.0,2.0,San Francisco,"1,662 sqft","Dec 31, 1969",$0,37.71303,-122.43582,CA,Single-Family Home,675000,,94112,Crocker Amazon,72,75,For Sale,SAN FRANCISCO
+499,93 W View Ave,,,San Francisco,,"Dec 31, 1969",$0,37.731117,-122.416985,CA,Lot/Land,239000,,94134,Portola,66,67,For Sale,SAN FRANCISCO
+500,750 Van Ness Ave #1304,2.0,2.0,San Francisco,"1,075 sqft","Dec 31, 1969",$0,37.78238,-122.420166,CA,Condo,999000,,94102,Civic Center,98,100,For Sale,SAN FRANCISCO
+501,1921 Ellis St,4.0,,San Francisco,,"Dec 31, 1969",$0,37.78137,-122.438225,CA,Multi-Family Home,1600000,,94115,Western Addition,91,80,For Sale,SAN FRANCISCO
+502,160 Linda St,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.759087,-122.42297,CA,Apt/Condo/Twnhm,599000,,94110,Castro,97,93,For Sale,SAN FRANCISCO
+503,125 Main St,3.0,4.0,San Francisco,"2,000 sqft","Dec 31, 1969",$0,37.791462,-122.394226,CA,Single-Family Home,600000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+504,1418 Newcomb Ave,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.73353,-122.38627,CA,Single-Family Home,468000,,94124,Bayview,68,66,For Sale,SAN FRANCISCO
+505,101 States St #2,1.5,2.0,San Francisco,,"Dec 31, 1969",$0,37.76305,-122.43753,CA,Condo,995000,,94114,Buena Vista Park,97,90,For Sale,SAN FRANCISCO
+506,47 Lobos St,1.0,2.0,San Francisco,"1,291 sqft","Dec 31, 1969",$0,37.714687,-122.45384,CA,Single-Family Home,620000,,94112,Oceanview,63,83,For Sale,SAN FRANCISCO
+507,1071 Mississippi St #1,,,San Francisco,"1,235 sqft","Dec 31, 1969",$0,37.75298,-122.39336,CA,Unspecified,575000,,94107,Potrero Hill,77,75,For Sale,SAN FRANCISCO
+508,527 Oak Park Dr,2.0,3.0,San Francisco,"1,402 sqft","Dec 31, 1969",$0,37.75568,-122.46072,CA,Single-Family Home,798000,,94131,Forest Knolls,54,62,For Sale,SAN FRANCISCO
+509,66 Cook St,1.0,2.0,San Francisco,"1,150 sqft","Dec 31, 1969",$0,37.782608,-122.45198,CA,Single-Family Home,799000,,94118,Laurel Heights,,,For Sale,SAN FRANCISCO
+510,Nevada St,1.0,1.0,San Francisco,780 sqft,"Dec 31, 1969",$0,37.737972,-122.41152,CA,Single-Family Home,811724,,94110,Bernal Heights,82,74,For Sale,SAN FRANCISCO
+511,2130 Mason St #2134,3.0,5.0,San Francisco,"3,786 sqft","Dec 31, 1969",$0,37.80329,-122.412895,CA,Income/Investment,2690000,,94133,North Beach,95,89,For Sale,SAN FRANCISCO
+512,Russia Ave,1.0,2.0,San Francisco,770 sqft,"Dec 31, 1969",$0,37.71828,-122.43026,CA,Single-Family Home,625135,,94112,Excelsior,66,71,For Sale,SAN FRANCISCO
+513,1819 Diamond St,2.5,2.0,San Francisco,"2,464 sqft","Dec 31, 1969",$0,37.742813,-122.43522,CA,Unspecified,1195000,,94131,Diamond Heights,63,76,For Sale,SAN FRANCISCO
+514,901 Bush St #506,,,San Francisco,,"Dec 31, 1969",$0,37.789528,-122.41229,CA,Unspecified,399000,,94109,Downtown,98,100,For Sale,SAN FRANCISCO
+515,1407 San Bruno Ave,3.0,6.0,San Francisco,,"Dec 31, 1969",$0,37.7516,-122.40394,CA,Single-Family Home,990000,,94110,Potrero Hill,94,74,For Sale,SAN FRANCISCO
+516,1251 Folsom St,,,San Francisco,"8,400 sqft","Dec 31, 1969",$0,37.774117,-122.41058,CA,Unspecified,3000000,,94103,SoMa,95,100,For Sale,SAN FRANCISCO
+517,1595 Fairfax Ave,,,San Francisco,"15,000 sqft","Dec 31, 1969",$0,37.742023,-122.38897,CA,Unspecified,2230000,,94124,Bayview,78,70,For Sale,SAN FRANCISCO
+518,2000 California Street TIC - New Plan,1.0,1.0,San Francisco,"1,500 sqft","Dec 31, 1969",$0,37.789936,-122.42762,CA,Apt/Condo/Twnhm,1000000,,94109,Pacific Heights,94,90,For Sale,SAN FRANCISCO
+519,Wall Pl C,,,San Francisco,,"Dec 31, 1969",$0,37.79498,-122.417595,CA,Unspecified,281024,,94109,Nob Hill,94,95,For Sale,SAN FRANCISCO
+520,48th Ave,,,San Francisco,,"Dec 31, 1969",$0,37.754444,-122.50765,CA,Unspecified,446494,,94122,Outer Sunset,66,58,For Sale,SAN FRANCISCO
+521,Pope St,3.0,4.0,San Francisco,"2,083 sqft","Dec 31, 1969",$0,37.714558,-122.441444,CA,Single-Family Home,850671,,94112,Crocker Amazon,75,86,For Sale,SAN FRANCISCO
+522,Ridge Ct,2.0,3.0,San Francisco,"1,254 sqft","Dec 31, 1969",$0,37.709354,-122.425674,CA,Condo,433625,,94134,Crocker Amazon,40,55,For Sale,SAN FRANCISCO
+523,Caine Ave,1.0,2.0,San Francisco,750 sqft,"Dec 31, 1969",$0,37.715347,-122.452225,CA,Single-Family Home,546521,,94112,Oceanview,62,87,For Sale,SAN FRANCISCO
+524,Maynard St,1.0,2.0,San Francisco,862 sqft,"Dec 31, 1969",$0,37.730556,-122.42255,CA,Single-Family Home,577368,,94112,Excelsior,63,78,For Sale,SAN FRANCISCO
+525,King St #1108,1.0,1.0,San Francisco,787 sqft,"Dec 31, 1969",$0,37.77732,-122.39305,CA,Condo,726119,,94107,Mission Bay,89,98,For Sale,SAN FRANCISCO
+526,Palou Ave,4.0,5.0,San Francisco,"3,302 sqft","Dec 31, 1969",$0,37.735706,-122.39396,CA,Single-Family Home,914320,,94124,Silver Terrace,82,69,For Sale,SAN FRANCISCO
+527,Plymouth Ave,1.0,,San Francisco,968 sqft,"Dec 31, 1969",$0,37.72334,-122.45616,CA,Single-Family Home,630426,,94112,Ingleside,75,86,For Sale,SAN FRANCISCO
+528,Jennings St,1.0,,San Francisco,590 sqft,"Dec 31, 1969",$0,37.721832,-122.39336,CA,Single-Family Home,444922,,94124,Bayview,83,68,For Sale,SAN FRANCISCO
+529,Powell St,,,San Francisco,,"Dec 31, 1969",$0,37.79128,-122.409004,CA,Unspecified,662756,,94108,Chinatown,100,100,For Sale,SAN FRANCISCO
+530,Rey St,1.0,,San Francisco,"1,173 sqft","Dec 31, 1969",$0,37.711506,-122.412,CA,Single-Family Home,552698,,94134,Visitacion Valley,57,66,For Sale,SAN FRANCISCO
+531,34th Ave,1.0,2.0,San Francisco,"1,375 sqft","Dec 31, 1969",$0,37.758713,-122.4929,CA,Single-Family Home,853692,,94122,Central Sunset,68,60,For Sale,SAN FRANCISCO
+532,Chicago Way,1.0,3.0,San Francisco,"1,465 sqft","Dec 31, 1969",$0,37.709435,-122.43296,CA,Single-Family Home,651777,,94112,Crocker Amazon,52,59,For Sale,SAN FRANCISCO
+533,San Bruno Ave,1.0,,San Francisco,"1,375 sqft","Dec 31, 1969",$0,37.72207,-122.401306,CA,Single-Family Home,776645,,94134,Portola,83,68,For Sale,SAN FRANCISCO
+534,Goettingen St,1.0,,San Francisco,830 sqft,"Dec 31, 1969",$0,37.718708,-122.40316,CA,Single-Family Home,676511,,94134,Visitacion Valley,69,68,For Sale,SAN FRANCISCO
+535,Campbell Ave,1.0,3.0,San Francisco,"1,190 sqft","Dec 31, 1969",$0,37.7144,-122.40331,CA,Single-Family Home,711490,,94134,Visitacion Valley,68,68,For Sale,SAN FRANCISCO
+536,Saint Charles Ave,1.0,,San Francisco,"1,088 sqft","Dec 31, 1969",$0,37.713558,-122.469365,CA,Single-Family Home,608240,,94132,,,,For Sale,SAN FRANCISCO
+537,Putnam,1.0,2.0,San Francisco,"1,024 sqft","Dec 31, 1969",$0,37.736614,-122.41101,CA,Single-Family Home,838548,,94110,Bernal Heights,77,73,For Sale,SAN FRANCISCO
+538,Mabrey Ct,2.0,3.0,San Francisco,"1,776 sqft","Dec 31, 1969",$0,37.73595,-122.38541,CA,Single-Family Home,602042,,94124,Bayview,68,65,For Sale,SAN FRANCISCO
+539,939 Jackson St,2.0,2.0,San Francisco,991 sqft,"Dec 31, 1969",$0,37.79528,-122.4105,CA,Condo,799000,,94133,Nob Hill,98,100,For Sale,SAN FRANCISCO
+540,1744 Clement St,,,San Francisco,"1,800 sqft","Dec 31, 1969",$0,37.782536,-122.4782,CA,Unspecified,288000,,94121,Central Richmond,95,75,For Sale,SAN FRANCISCO
+541,566 S Van Ness Ave #28,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.763992,-122.41782,CA,Unspecified,469000,,94110,Mission,94,94,For Sale,SAN FRANCISCO
+542,2021 Castro St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.74539,-122.43329,CA,Unspecified,929000,,94131,Noe Valley,78,77,For Sale,SAN FRANCISCO
+543,1164 Clay St,2.0,4.0,San Francisco,,"Dec 31, 1969",$0,37.79376,-122.412384,CA,Unspecified,1095000,,94108,Nob Hill,94,100,For Sale,SAN FRANCISCO
+544,1885 Jackson St #402,2.0,2.0,San Francisco,900 sqft,"Dec 31, 1969",$0,37.79332,-122.42579,CA,Unspecified,850000,,94109,Pacific Heights,97,88,For Sale,SAN FRANCISCO
+545,160 Linda St,1.0,1.0,San Francisco,642 sqft,"Dec 31, 1969",$0,37.759087,-122.42297,CA,Unspecified,575000,,94110,Castro,94,94,For Sale,SAN FRANCISCO
+546,1166 Clay St,2.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.79362,-122.41243,CA,Unspecified,995000,,94108,Nob Hill,94,100,For Sale,SAN FRANCISCO
+547,1118 Howard St,,,San Francisco,"13,497 sqft","Dec 31, 1969",$0,37.777775,-122.410065,CA,Unspecified,3390000,,94103,SoMa,98,100,For Sale,SAN FRANCISCO
+548,407 30th St,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.741753,-122.42929,CA,Unspecified,950000,,94131,Glen Park,82,80,For Sale,SAN FRANCISCO
+549,714 Castro St,3.0,4.0,San Francisco,"2,500 sqft","Dec 31, 1969",$0,37.757107,-122.435005,CA,Unspecified,2135000,,94114,Castro,91,87,For Sale,SAN FRANCISCO
+550,128 Laidley St,2.0,3.0,San Francisco,"1,499 sqft","Dec 31, 1969",$0,37.739826,-122.43033,CA,Unspecified,1790000,,94131,Glen Park,88,85,For Sale,SAN FRANCISCO
+551,260 King St #365,2.0,2.0,San Francisco,"1,187 sqft","Dec 31, 1969",$0,37.77764,-122.39342,CA,Unspecified,839000,,94107,Mission Bay,95,100,For Sale,SAN FRANCISCO
+552,1598 Fairfax Ave,,,San Francisco,"15,000 sqft","Dec 31, 1969",$0,37.742393,-122.38878,CA,Unspecified,2230000,,94124,Bayview,74,74,For Sale,SAN FRANCISCO
+553,Alice B Toklas Pl #503,2.0,,San Francisco,989 sqft,"Dec 31, 1969",$0,37.78532,-122.42049,CA,Condo,98427,,94109,Civic Center,98,100,For Sale,SAN FRANCISCO
+554,Brussels St,2.0,,San Francisco,"2,250 sqft","Dec 31, 1969",$0,37.71609,-122.40101,CA,Multi-Family Home,150000,,94134,Visitacion Valley,71,68,For Sale,SAN FRANCISCO
+555,Oakdale Ave,2.0,,San Francisco,"1,750 sqft","Dec 31, 1969",$0,37.738136,-122.39656,CA,Multi-Family Home,65000,,94124,Silver Terrace,66,69,For Sale,SAN FRANCISCO
+556,Van Ness Ave #111,1.0,1.0,San Francisco,562 sqft,"Dec 31, 1969",$0,37.781464,-122.42061,CA,Condo,100000,,94102,Civic Center,98,100,For Sale,SAN FRANCISCO
+557,Divisadero St #212,2.0,2.0,San Francisco,"1,460 sqft","Dec 31, 1969",$0,37.780277,-122.43885,CA,Condo,114000,,94115,Anza Vista,92,80,For Sale,SAN FRANCISCO
+558,Pennsylvania Ave,2.0,1.0,San Francisco,971 sqft,"Dec 31, 1969",$0,37.757812,-122.39314,CA,Condo,396000,,94107,Potrero Hill,78,75,For Sale,SAN FRANCISCO
+559,Portola Dr,3.0,2.0,San Francisco,"1,501 sqft","Dec 31, 1969",$0,37.74737,-122.44427,CA,Condo,327000,,94131,Diamond Heights,52,66,For Sale,SAN FRANCISCO
+560,Texas St,2.0,,San Francisco,"1,750 sqft","Dec 31, 1969",$0,37.753265,-122.3947,CA,Multi-Family Home,737718,,94107,Potrero Hill,82,73,For Sale,SAN FRANCISCO
+561,Main St #17C,1.0,1.0,San Francisco,809 sqft,"Dec 31, 1969",$0,37.789333,-122.3917,CA,Condo,417000,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+562,Capitol Ave,1.0,3.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.72312,-122.45922,CA,Single-Family Home,100000,,94112,Ingleside,77,83,For Sale,SAN FRANCISCO
+563,Justin Dr,3.0,4.0,San Francisco,"2,500 sqft","Dec 31, 1969",$0,37.73198,-122.425705,CA,Single-Family Home,200000,,94112,Bernal Heights,78,84,For Sale,SAN FRANCISCO
+564,London St,2.0,4.0,San Francisco,"1,355 sqft","Dec 31, 1969",$0,37.719482,-122.43772,CA,Single-Family Home,120000,,94112,Excelsior,74,88,For Sale,SAN FRANCISCO
+565,Burrows St,2.0,,San Francisco,"1,475 sqft","Dec 31, 1969",$0,37.726418,-122.414505,CA,Single-Family Home,237000,,94134,Portola,58,62,For Sale,SAN FRANCISCO
+566,Mission St,2.0,,San Francisco,"1,334 sqft","Dec 31, 1969",$0,37.71242,-122.445,CA,Single-Family Home,74200,,94112,Outer Mission,71,85,For Sale,SAN FRANCISCO
+567,29th Ave,2.0,3.0,San Francisco,"1,565 sqft","Dec 31, 1969",$0,37.74894,-122.486855,CA,Single-Family Home,431800,,94116,Central Sunset,68,62,For Sale,SAN FRANCISCO
+568,Stoneyford Ave,1.0,2.0,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.729702,-122.421196,CA,Single-Family Home,120000,,94112,Excelsior,68,75,For Sale,SAN FRANCISCO
+569,Mullen Ave,2.0,3.0,San Francisco,"1,327 sqft","Dec 31, 1969",$0,37.746803,-122.40735,CA,Single-Family Home,255000,,94110,Bernal Heights,82,77,For Sale,SAN FRANCISCO
+570,Crescent Ave,1.0,4.0,San Francisco,"1,155 sqft","Dec 31, 1969",$0,37.735226,-122.42303,CA,Single-Family Home,254100,,94110,Bernal Heights,88,85,For Sale,SAN FRANCISCO
+571,Eucalyptus Dr,3.0,3.0,San Francisco,"1,940 sqft","Dec 31, 1969",$0,37.73122,-122.48959,CA,Single-Family Home,235000,,94132,Merced Manor,66,48,For Sale,SAN FRANCISCO
+572,Ortega St,4.0,,San Francisco,"2,200 sqft","Dec 31, 1969",$0,37.754745,-122.47055,CA,Single-Family Home,630000,,94122,Golden Gate Heights,66,68,For Sale,SAN FRANCISCO
+573,Gates St,3.0,4.0,San Francisco,"2,179 sqft","Dec 31, 1969",$0,37.73349,-122.41444,CA,Single-Family Home,389000,,94110,Bernal Heights,78,77,For Sale,SAN FRANCISCO
+574,Lobos St,2.0,3.0,San Francisco,"1,888 sqft","Dec 31, 1969",$0,37.714893,-122.457596,CA,Single-Family Home,184000,,94112,Oceanview,69,80,For Sale,SAN FRANCISCO
+575,Ankeny St,3.0,4.0,San Francisco,"2,128 sqft","Dec 31, 1969",$0,37.718533,-122.403656,CA,Single-Family Home,432000,,94134,Visitacion Valley,69,68,For Sale,SAN FRANCISCO
+576,Folsom St,1.0,,San Francisco,"1,632 sqft","Dec 31, 1969",$0,37.753742,-122.414215,CA,Single-Family Home,417000,,94110,Mission,92,84,For Sale,SAN FRANCISCO
+577,Chestnut St,1.0,,San Francisco,"1,272 sqft","Dec 31, 1969",$0,37.804417,-122.40751,CA,Condo,130000,,94133,Telegraph Hill,94,89,For Sale,SAN FRANCISCO
+578,Kirkwood Ave,1.0,,San Francisco,968 sqft,"Dec 31, 1969",$0,37.73855,-122.39065,CA,Single-Family Home,150000,,94124,Bayview,78,67,For Sale,SAN FRANCISCO
+579,Marina Blvd,3.0,3.0,San Francisco,"2,445 sqft","Dec 31, 1969",$0,37.806488,-122.436676,CA,Single-Family Home,826500,,94123,Marina,89,73,For Sale,SAN FRANCISCO
+580,Lombard St #939,,,San Francisco,840 sqft,"Dec 31, 1969",$0,37.80378,-122.40531,CA,Condo,225000,,94111,Telegraph Hill,94,89,For Sale,SAN FRANCISCO
+581,Ora Way #204,1.0,1.0,San Francisco,676 sqft,"Dec 31, 1969",$0,37.74155,-122.437904,CA,Condo,303606,,94131,Diamond Heights,72,77,For Sale,SAN FRANCISCO
+582,Alice B Toklas Pl,2.0,2.0,San Francisco,"1,257 sqft","Dec 31, 1969",$0,37.744328,-122.42968,CA,Condo,457771,,94109,Noe Valley,86,82,For Sale,SAN FRANCISCO
+583,Howth St,1.0,,San Francisco,995 sqft,"Dec 31, 1969",$0,37.720924,-122.45086,CA,Single-Family Home,200000,,94112,Ingleside,69,93,For Sale,SAN FRANCISCO
+584,Vienna St,1.0,,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.72312,-122.4284,CA,Single-Family Home,175000,,94112,Excelsior,75,78,For Sale,SAN FRANCISCO
+585,Richland Ave,1.0,3.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.735775,-122.4204,CA,Single-Family Home,366000,,94110,Bernal Heights,83,83,For Sale,SAN FRANCISCO
+586,Alemany Blvd,1.0,2.0,San Francisco,868 sqft,"Dec 31, 1969",$0,37.732975,-122.41448,CA,Condo,229961,,94110,Bernal Heights,72,69,For Sale,SAN FRANCISCO
+587,1st St #101,2.0,2.0,San Francisco,"1,220 sqft","Dec 31, 1969",$0,37.786755,-122.39376,CA,Condo,677621,,94105,South Beach,85,100,For Sale,SAN FRANCISCO
+588,Victoria St,1.0,,San Francisco,"1,025 sqft","Dec 31, 1969",$0,37.711224,-122.46528,CA,Single-Family Home,289275,,94132,Ingleside Heights,68,75,For Sale,SAN FRANCISCO
+589,Schwerin St,4.0,5.0,San Francisco,"3,300 sqft","Dec 31, 1969",$0,37.70997,-122.41161,CA,Single-Family Home,690000,,94134,Visitacion Valley,54,63,For Sale,SAN FRANCISCO
+590,1359 Oak St,,,San Francisco,,"Dec 31, 1969",$0,37.7723,-122.44169,CA,Unspecified,2000000,,94117,Panhandle,83,86,For Sale,SAN FRANCISCO
+591,550 Barneveld Ave,,,San Francisco,"9,000 sqft","Dec 31, 1969",$0,37.73995,-122.40471,CA,Unspecified,2000000,,94124,Bayview,72,68,For Sale,SAN FRANCISCO
+592,Richland Ave,3.0,,San Francisco,"2,854 sqft","Dec 31, 1969",$0,37.73566,-122.41788,CA,Multi-Family Home,782907,,94110,Bernal Heights,89,80,For Sale,SAN FRANCISCO
+593,Majestic Ave,3.0,4.0,San Francisco,"2,218 sqft","Dec 31, 1969",$0,37.715652,-122.45297,CA,Single-Family Home,572000,,94112,Oceanview,62,88,For Sale,SAN FRANCISCO
+594,18th Ave,1.0,3.0,San Francisco,"2,024 sqft","Dec 31, 1969",$0,37.751263,-122.47519,CA,Single-Family Home,600000,,94116,Inner Parkside,75,63,For Sale,SAN FRANCISCO
+595,Oceanview Ter #424,2.0,2.0,San Francisco,948 sqft,"Dec 31, 1969",$0,37.70988,-122.46744,CA,Condo,287000,,94132,Ingleside Heights,66,75,For Sale,SAN FRANCISCO
+596,8th Ave,1.0,,San Francisco,"1,525 sqft","Dec 31, 1969",$0,37.778652,-122.466255,CA,Single-Family Home,841659,,94118,Inner Richmond,88,78,For Sale,SAN FRANCISCO
+597,Magellan Ave,1.0,3.0,San Francisco,"2,390 sqft","Dec 31, 1969",$0,37.74425,-122.46667,CA,Single-Family Home,825000,,94116,Forest Hill,86,79,For Sale,SAN FRANCISCO
+598,Wildwood Way,2.0,,San Francisco,"1,552 sqft","Dec 31, 1969",$0,37.727467,-122.461845,CA,Single-Family Home,417000,,94112,Mount Davidson Manor,77,73,For Sale,SAN FRANCISCO
+599,Harrison St,1.0,,San Francisco,956 sqft,"Dec 31, 1969",$0,37.754517,-122.41206,CA,Single-Family Home,300000,,94110,Mission,92,83,For Sale,SAN FRANCISCO
+600,Monterey Blvd,1.0,,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.731594,-122.4417,CA,Single-Family Home,561918,,94131,Sunnyside,65,88,For Sale,SAN FRANCISCO
+601,Townsend St,2.0,1.0,San Francisco,908 sqft,"Dec 31, 1969",$0,37.7786,-122.39308,CA,Single-Family Home,438300,,94107,Mission Bay,85,100,For Sale,SAN FRANCISCO
+602,Leland Ave,2.0,5.0,San Francisco,"2,080 sqft","Dec 31, 1969",$0,37.71324,-122.409966,CA,Single-Family Home,461837,,94134,Visitacion Valley,69,63,For Sale,SAN FRANCISCO
+603,Dalewood Way,2.0,4.0,San Francisco,"1,758 sqft","Dec 31, 1969",$0,37.738457,-122.45756,CA,Single-Family Home,650000,,94127,Miraloma,63,71,For Sale,SAN FRANCISCO
+604,Santos St,2.0,3.0,San Francisco,"1,237 sqft","Dec 31, 1969",$0,37.709076,-122.419754,CA,Single-Family Home,300000,,94134,Visitacion Valley,45,56,For Sale,SAN FRANCISCO
+605,3001 25th St,1.0,,San Francisco,,"Dec 31, 1969",$0,37.75099,-122.41015,CA,Unspecified,925000,,94110,Mission,89,82,For Sale,SAN FRANCISCO
+606,Front,3.0,3.0,San Francisco,"2,251 sqft","Dec 31, 1969",$0,37.798122,-122.39972,CA,Condo,748308,,94111,Financial District,100,100,For Sale,SAN FRANCISCO
+607,Revere Ave,5.0,6.0,San Francisco,"2,864 sqft","Dec 31, 1969",$0,37.727497,-122.382835,CA,Single-Family Home,613227,,94124,Bayview,60,62,For Sale,SAN FRANCISCO
+608,Geneva Ave,2.0,,San Francisco,"2,110 sqft","Dec 31, 1969",$0,37.713634,-122.43491,CA,Single-Family Home,600000,,94112,Excelsior,69,72,For Sale,SAN FRANCISCO
+609,La Playa St #366,2.0,2.0,San Francisco,"1,178 sqft","Dec 31, 1969",$0,37.772217,-122.50997,CA,Condo,495000,,94121,Outer Richmond,65,64,For Sale,SAN FRANCISCO
+610,7th St #8,1.0,1.0,San Francisco,"1,161 sqft","Dec 31, 1969",$0,37.77814,-122.40959,CA,Condo,353600,,94103,SoMa,98,100,For Sale,SAN FRANCISCO
+611,Newcomb Ave,4.0,6.0,San Francisco,"2,000 sqft","Dec 31, 1969",$0,37.73646,-122.392,CA,Multi-Family Home,461705,,94124,Bayview,78,68,For Sale,SAN FRANCISCO
+612,Polk St #306,,,San Francisco,648 sqft,"Dec 31, 1969",$0,37.788925,-122.42029,CA,Condo,329000,,94109,Civic Center,98,94,For Sale,SAN FRANCISCO
+613,Indiana St #4,,,San Francisco,"1,244 sqft","Dec 31, 1969",$0,37.750504,-122.39048,CA,Condo,755781,,94107,Central Waterfront,74,75,For Sale,SAN FRANCISCO
+614,3241-3243 Mission St #2,1.0,2.0,San Francisco,"1,082 sqft","Dec 31, 1969",$0,37.7448,-122.419975,CA,Unspecified,370469,,94110,Bernal Heights,88,86,For Sale,SAN FRANCISCO
+615,Newman St,1.0,,San Francisco,"1,325 sqft","Dec 31, 1969",$0,37.73788,-122.41871,CA,Single-Family Home,472500,,94110,Bernal Heights,94,81,For Sale,SAN FRANCISCO
+616,Holloway Ave,3.0,4.0,San Francisco,"2,387 sqft","Dec 31, 1969",$0,37.72183,-122.45896,CA,Multi-Family Home,697361,,94112,Ingleside,91,84,For Sale,SAN FRANCISCO
+617,9th Ave,1.0,4.0,San Francisco,"1,720 sqft","Dec 31, 1969",$0,37.76108,-122.46612,CA,Single-Family Home,750000,,94122,Inner Sunset,89,70,For Sale,SAN FRANCISCO
+618,Beale St #14,1.0,2.0,San Francisco,852 sqft,"Dec 31, 1969",$0,37.785923,-122.389305,CA,Condo,670912,,94105,South Beach,75,100,For Sale,SAN FRANCISCO
+619,Garrison Ave,2.0,4.0,San Francisco,"1,725 sqft","Dec 31, 1969",$0,37.71027,-122.41323,CA,Condo,451682,,94134,Visitacion Valley,63,62,For Sale,SAN FRANCISCO
+620,Mcallister St #121,1.0,1.0,San Francisco,659 sqft,"Dec 31, 1969",$0,37.77853,-122.43258,CA,Condo,381951,,94115,Alamo Square,92,85,For Sale,SAN FRANCISCO
+621,Jerrold Ave,1.0,3.0,San Francisco,"1,175 sqft","Dec 31, 1969",$0,37.728622,-122.37148,CA,Condo,296280,,94124,Hunters Point,34,48,For Sale,SAN FRANCISCO
+622,Potomac St,1.0,4.0,San Francisco,"1,675 sqft","Dec 31, 1969",$0,37.77035,-122.432625,CA,Single-Family Home,925000,,94117,Hayes Valley,89,100,For Sale,SAN FRANCISCO
+623,Harkness Ave,2.0,2.0,San Francisco,"1,412 sqft","Dec 31, 1969",$0,37.718124,-122.40567,CA,Single-Family Home,390000,,94134,Visitacion Valley,68,66,For Sale,SAN FRANCISCO
+624,Andover St,1.0,,San Francisco,875 sqft,"Dec 31, 1969",$0,37.73352,-122.41694,CA,Single-Family Home,352000,,94110,Bernal Heights,77,78,For Sale,SAN FRANCISCO
+625,Alemany Blvd,1.0,2.0,San Francisco,"1,200 sqft","Dec 31, 1969",$0,37.730247,-122.43222,CA,Single-Family Home,391800,,94112,Mission Terrace,78,89,For Sale,SAN FRANCISCO
+626,Geary Blvd,3.0,3.0,San Francisco,"1,730 sqft","Dec 31, 1969",$0,37.779137,-122.50569,CA,Single-Family Home,736500,,94121,Outer Richmond,86,66,For Sale,SAN FRANCISCO
+627,Arelious Walker Dr,1.0,2.0,San Francisco,780 sqft,"Dec 31, 1969",$0,37.71732,-122.38619,CA,Condo,200000,,94124,,49,56,For Sale,SAN FRANCISCO
+628,Lombard St #205E,1.0,1.0,San Francisco,"1,015 sqft","Dec 31, 1969",$0,37.80393,-122.40411,CA,Condo,754906,,94111,Fisherman's Wharf,92,91,For Sale,SAN FRANCISCO
+629,Atoll Cir #99,3.0,3.0,San Francisco,"1,360 sqft","Dec 31, 1969",$0,37.72829,-122.37326,CA,Condo,364000,,94124,Hunters Point,37,48,For Sale,SAN FRANCISCO
+630,Folsom St,2.0,2.0,San Francisco,"1,077 sqft","Dec 31, 1969",$0,37.78108,-122.40239,CA,Condo,753250,,94107,SoMa,95,100,For Sale,SAN FRANCISCO
+631,Madrid St,1.0,,San Francisco,"1,900 sqft","Dec 31, 1969",$0,37.721836,-122.43264,CA,Single-Family Home,628000,,94112,Excelsior,82,84,For Sale,SAN FRANCISCO
+632,Vallejo St #84,1.0,1.0,San Francisco,691 sqft,"Dec 31, 1969",$0,37.79805,-122.41282,CA,Condo,370000,,94133,Russian Hill,95,91,For Sale,SAN FRANCISCO
+633,Bryant St,,,San Francisco,"1,148 sqft","Dec 31, 1969",$0,37.77662,-122.40178,CA,Condo,800000,,94107,Mission Bay,91,100,For Sale,SAN FRANCISCO
+634,Van Ness Ave #448,1.0,1.0,San Francisco,442 sqft,"Dec 31, 1969",$0,37.781464,-122.42061,CA,Condo,246750,,94102,Civic Center,98,100,For Sale,SAN FRANCISCO
+635,Bacon St #1,2.0,3.0,San Francisco,"1,600 sqft","Dec 31, 1969",$0,37.724262,-122.41652,CA,Condo,500000,,94134,Portola,48,61,For Sale,SAN FRANCISCO
+636,Anderson St,3.0,3.0,San Francisco,"2,173 sqft","Dec 31, 1969",$0,37.73336,-122.41569,CA,Single-Family Home,901005,,94110,Bernal Heights,77,77,For Sale,SAN FRANCISCO
+637,Edinburgh St,2.0,4.0,San Francisco,"2,416 sqft","Dec 31, 1969",$0,37.71785,-122.43457,CA,Single-Family Home,831191,,94112,Excelsior,66,81,For Sale,SAN FRANCISCO
+638,Delano Ave,1.0,2.0,San Francisco,"1,175 sqft","Dec 31, 1969",$0,37.717,-122.44707,CA,Single-Family Home,420000,,94112,Outer Mission,72,94,For Sale,SAN FRANCISCO
+639,Diamond Heights Blvd,2.0,2.0,San Francisco,"1,116 sqft","Dec 31, 1969",$0,37.747112,-122.44154,CA,Condo,664395,,94131,Diamond Heights,75,63,For Sale,SAN FRANCISCO
+640,California St #730,1.0,,San Francisco,656 sqft,"Dec 31, 1969",$0,37.791462,-122.41374,CA,Condo,543485,,94108,Nob Hill,98,100,For Sale,SAN FRANCISCO
+641,Mission St #401,1.0,1.0,San Francisco,915 sqft,"Dec 31, 1969",$0,37.70919,-122.451584,CA,Condo,357277,,94112,Outer Mission,78,69,For Sale,SAN FRANCISCO
+642,Indiana St #10,,,San Francisco,890 sqft,"Dec 31, 1969",$0,37.75233,-122.390656,CA,Condo,676329,,94107,Central Waterfront,82,66,For Sale,SAN FRANCISCO
+643,Polk St #606,1.0,1.0,San Francisco,643 sqft,"Dec 31, 1969",$0,37.788925,-122.42029,CA,Condo,413306,,94109,Civic Center,98,94,For Sale,SAN FRANCISCO
+644,Red Rock Way,1.0,,San Francisco,474 sqft,"Dec 31, 1969",$0,37.74591,-122.44227,CA,Condo,282799,,94131,Diamond Heights,65,62,For Sale,SAN FRANCISCO
+645,Bush St,1.0,2.0,San Francisco,"1,437 sqft","Dec 31, 1969",$0,37.78602,-122.4413,CA,Condo,907291,,94115,Lower Pacific Heights,95,77,For Sale,SAN FRANCISCO
+646,Bay Shore Blvd 406,1.0,1.0,San Francisco,550 sqft,"Dec 31, 1969",$0,37.732582,-122.40445,CA,Condo,222296,,94124,Silver Terrace,78,69,For Sale,SAN FRANCISCO
+647,Yosemite Ave #1C,1.0,,San Francisco,334 sqft,"Dec 31, 1969",$0,37.72633,-122.390724,CA,Condo,341348,,94124,Bayview,77,69,For Sale,SAN FRANCISCO
+648,King St #753,1.0,,San Francisco,556 sqft,"Dec 31, 1969",$0,37.77732,-122.39305,CA,Condo,589532,,94107,Mission Bay,89,98,For Sale,SAN FRANCISCO
+649,Wallace Ave,1.0,,San Francisco,905 sqft,"Dec 31, 1969",$0,37.728252,-122.39244,CA,Condo,386956,,94124,Bayview,83,70,For Sale,SAN FRANCISCO
+650,Crescent Way #5413,2.0,3.0,San Francisco,"1,421 sqft","Dec 31, 1969",$0,37.711777,-122.38902,CA,Condo,532350,,94134,Bayview,38,57,For Sale,SAN FRANCISCO
+651,Guerrero St,1.0,1.0,San Francisco,775 sqft,"Dec 31, 1969",$0,37.765526,-122.424164,CA,Condo,528000,,94103,Mission Dolores,98,100,For Sale,SAN FRANCISCO
+652,15th Ave,1.0,2.0,San Francisco,"1,239 sqft","Dec 31, 1969",$0,37.78668,-122.47439,CA,Condo,865037,,94118,Lake Street,82,71,For Sale,SAN FRANCISCO
+653,Buchanan St 4,1.0,,San Francisco,496 sqft,"Dec 31, 1969",$0,37.79426,-122.43153,CA,Condo,631683,,94115,Pacific Heights,97,88,For Sale,SAN FRANCISCO
+654,Ofarrell St #1006,1.0,,San Francisco,520 sqft,"Dec 31, 1969",$0,37.78554,-122.41501,CA,Condo,374748,,94109,Tenderloin,97,100,For Sale,SAN FRANCISCO
+655,Wallace Ave #304,2.0,2.0,San Francisco,799 sqft,"Dec 31, 1969",$0,37.72836,-122.39263,CA,Condo,424145,,94124,Bayview,82,70,For Sale,SAN FRANCISCO
+656,Polk St #706,1.0,1.0,San Francisco,612 sqft,"Dec 31, 1969",$0,37.788925,-122.42029,CA,Condo,415679,,94109,Civic Center,98,94,For Sale,SAN FRANCISCO
+657,Van Ness Ave,1.0,1.0,San Francisco,749 sqft,"Dec 31, 1969",$0,37.78147,-122.42053,CA,Condo,513542,,94102,Civic Center,98,100,For Sale,SAN FRANCISCO
+658,Fillmore St #410,1.0,1.0,San Francisco,740 sqft,"Dec 31, 1969",$0,37.781857,-122.43242,CA,Condo,567409,,94115,Western Addition,100,88,For Sale,SAN FRANCISCO
+659,1st St #S1905,1.0,1.0,San Francisco,691 sqft,"Dec 31, 1969",$0,37.786785,-122.3938,CA,Condo,784381,,94105,South Beach,88,100,For Sale,SAN FRANCISCO
+660,Oceanview Ter,1.0,1.0,San Francisco,667 sqft,"Dec 31, 1969",$0,37.70988,-122.46744,CA,Condo,392784,,94132,Ingleside Heights,66,75,For Sale,SAN FRANCISCO
+661,King St #867,1.0,1.0,San Francisco,690 sqft,"Dec 31, 1969",$0,37.77732,-122.39305,CA,Condo,581497,,94107,Mission Bay,85,97,For Sale,SAN FRANCISCO
+662,King St,1.0,1.0,San Francisco,862 sqft,"Dec 31, 1969",$0,37.77732,-122.39305,CA,Condo,690968,,94107,Mission Bay,94,92,For Sale,SAN FRANCISCO
+663,Mission St,2.0,2.0,San Francisco,995 sqft,"Dec 31, 1969",$0,37.70919,-122.451584,CA,Condo,402677,,94112,Outer Mission,77,69,For Sale,SAN FRANCISCO
+664,Bush St,1.0,1.0,San Francisco,633 sqft,"Dec 31, 1969",$0,37.789684,-122.412674,CA,Condo,570326,,94109,Downtown,98,100,For Sale,SAN FRANCISCO
+665,Mcallister St,1.0,2.0,San Francisco,270 sqft,"Dec 31, 1969",$0,37.78097,-122.41332,CA,Condo,460907,,94102,Civic Center,100,100,For Sale,SAN FRANCISCO
+666,Oceanview Ter,2.0,2.0,San Francisco,950 sqft,"Dec 31, 1969",$0,37.70988,-122.46744,CA,Condo,489978,,94132,Ingleside Heights,77,75,For Sale,SAN FRANCISCO
+667,21st Ave #1,2.0,4.0,San Francisco,"1,223 sqft","Dec 31, 1969",$0,37.744198,-122.47793,CA,Condo,799476,,94116,Central Sunset,92,71,For Sale,SAN FRANCISCO
+668,Diamond Heights Blvd #302A,1.0,1.0,San Francisco,744 sqft,"Dec 31, 1969",$0,37.746994,-122.44041,CA,Condo,479511,,94131,Diamond Heights,75,65,For Sale,SAN FRANCISCO
+669,Monterey Blvd,1.0,1.0,San Francisco,653 sqft,"Dec 31, 1969",$0,37.731564,-122.443985,CA,Condo,604016,,94131,Sunnyside,72,88,For Sale,SAN FRANCISCO
+670,Lombard St #3,2.0,2.0,San Francisco,"1,425 sqft","Dec 31, 1969",$0,37.801666,-122.42188,CA,Condo,975000,,94109,Russian Hill,92,92,For Sale,SAN FRANCISCO
+671,Lucerne St #7,1.0,,San Francisco,"1,050 sqft","Dec 31, 1969",$0,37.773453,-122.40136,CA,Condo,754906,,94103,Mission Bay,86,99,For Sale,SAN FRANCISCO
+672,Congdon St,1.0,,San Francisco,"1,210 sqft","Dec 31, 1969",$0,37.72898,-122.42601,CA,Single-Family Home,454000,,94112,Excelsior,72,83,For Sale,SAN FRANCISCO
+673,Castillo St,2.0,,San Francisco,"1,681 sqft","Dec 31, 1969",$0,37.708473,-122.418106,CA,Single-Family Home,534376,,94134,Visitacion Valley,48,58,For Sale,SAN FRANCISCO
+674,1st St,1.0,1.0,San Francisco,713 sqft,"Dec 31, 1969",$0,37.78688,-122.39392,CA,Condo,811375,,94105,South Beach,91,100,For Sale,SAN FRANCISCO
+675,Rudden Ave,1.0,,San Francisco,"1,230 sqft","Dec 31, 1969",$0,37.724503,-122.44211,CA,Single-Family Home,469000,,94112,Mission Terrace,74,95,For Sale,SAN FRANCISCO
+676,Teddy Ave,2.0,,San Francisco,"1,536 sqft","Dec 31, 1969",$0,37.713646,-122.40395,CA,Single-Family Home,528000,,94134,Visitacion Valley,66,68,For Sale,SAN FRANCISCO
+677,Jamestown Ave,2.0,3.0,San Francisco,"1,303 sqft","Dec 31, 1969",$0,37.719154,-122.39473,CA,Single-Family Home,409500,,94124,Bayview,68,66,For Sale,SAN FRANCISCO
+678,Paris St,2.0,4.0,San Francisco,"2,725 sqft","Dec 31, 1969",$0,37.719402,-122.43668,CA,Single-Family Home,942608,,94112,Excelsior,74,86,For Sale,SAN FRANCISCO
+679,Colby St,1.0,,San Francisco,"1,115 sqft","Dec 31, 1969",$0,37.71962,-122.41011,CA,Single-Family Home,551581,,94134,Portola,51,61,For Sale,SAN FRANCISCO
+680,Naples St,1.0,,San Francisco,875 sqft,"Dec 31, 1969",$0,37.7253,-122.42786,CA,Single-Family Home,529515,,94112,Excelsior,71,82,For Sale,SAN FRANCISCO
+681,Pinehurst Way,1.0,,San Francisco,"1,310 sqft","Dec 31, 1969",$0,37.72798,-122.46501,CA,Single-Family Home,988072,,94127,Mount Davidson Manor,74,71,For Sale,SAN FRANCISCO
+682,Vicente St,2.0,2.0,San Francisco,"1,181 sqft","Dec 31, 1969",$0,37.738804,-122.48761,CA,Single-Family Home,802975,,94116,Central Sunset,69,61,For Sale,SAN FRANCISCO
+683,Folsom St,2.0,4.0,San Francisco,"1,267 sqft","Dec 31, 1969",$0,37.74051,-122.413284,CA,Single-Family Home,770098,,94110,Bernal Heights,88,77,For Sale,SAN FRANCISCO
+684,Thrift St,1.0,2.0,San Francisco,750 sqft,"Dec 31, 1969",$0,37.717415,-122.46223,CA,Single-Family Home,523607,,94112,Merced Heights,62,77,For Sale,SAN FRANCISCO
+685,Edinburgh St,1.0,,San Francisco,750 sqft,"Dec 31, 1969",$0,37.726933,-122.42767,CA,Single-Family Home,476680,,94112,Excelsior,74,82,For Sale,SAN FRANCISCO
+686,Lakeview Ave,1.0,2.0,San Francisco,504 sqft,"Dec 31, 1969",$0,37.71824,-122.45433,CA,Single-Family Home,520000,,94112,Ingleside,66,89,For Sale,SAN FRANCISCO
+687,Shakespeare St,1.0,2.0,San Francisco,740 sqft,"Dec 31, 1969",$0,37.70848,-122.463005,CA,Single-Family Home,365000,,94112,Outer Mission,68,74,For Sale,SAN FRANCISCO
+688,London St,1.0,,San Francisco,"1,300 sqft","Dec 31, 1969",$0,37.71927,-122.43788,CA,Single-Family Home,554400,,94112,Excelsior,74,88,For Sale,SAN FRANCISCO
+689,Dellbrook Ave,1.0,,San Francisco,937 sqft,"Dec 31, 1969",$0,37.74895,-122.45314,CA,Single-Family Home,584000,,94131,Midtown Terrace,58,76,For Sale,SAN FRANCISCO
+690,Moultrie St,1.0,1.0,San Francisco,500 sqft,"Dec 31, 1969",$0,37.737396,-122.41595,CA,Single-Family Home,451470,,94110,Bernal Heights,92,80,For Sale,SAN FRANCISCO
+691,Bancroft Ave,1.0,,San Francisco,"1,286 sqft","Dec 31, 1969",$0,37.730404,-122.401245,CA,Single-Family Home,464000,,94124,Silver Terrace,91,70,For Sale,SAN FRANCISCO
+692,Colby St,1.0,3.0,San Francisco,"1,295 sqft","Dec 31, 1969",$0,37.728477,-122.41379,CA,Single-Family Home,518627,,94134,Portola,68,65,For Sale,SAN FRANCISCO
+693,Revere Ave,1.0,2.0,San Francisco,995 sqft,"Dec 31, 1969",$0,37.72797,-122.38366,CA,Single-Family Home,436602,,94124,Bayview,77,62,For Sale,SAN FRANCISCO
+694,Howth St,1.0,1.0,San Francisco,541 sqft,"Dec 31, 1969",$0,37.718964,-122.45209,CA,Single-Family Home,429222,,94112,Ingleside,66,92,For Sale,SAN FRANCISCO
+695,Reddy St,1.0,2.0,San Francisco,884 sqft,"Dec 31, 1969",$0,37.730766,-122.39514,CA,Single-Family Home,370000,,94124,Bayview,92,70,For Sale,SAN FRANCISCO
+696,Delta St,2.0,4.0,San Francisco,700 sqft,"Dec 31, 1969",$0,37.713505,-122.40932,CA,Single-Family Home,436000,,94134,Visitacion Valley,62,64,For Sale,SAN FRANCISCO
+697,Canyon Dr,1.0,2.0,San Francisco,"1,067 sqft","Dec 31, 1969",$0,37.70897,-122.43082,CA,Single-Family Home,555000,,94112,Crocker Amazon,52,59,For Sale,SAN FRANCISCO
+698,44th Ave,1.0,,San Francisco,"1,022 sqft","Dec 31, 1969",$0,37.779568,-122.5051,CA,Single-Family Home,649000,,94121,Outer Richmond,85,66,For Sale,SAN FRANCISCO
+699,29th Ave,1.0,,San Francisco,"1,036 sqft","Dec 31, 1969",$0,37.748028,-122.486786,CA,Single-Family Home,765918,,94116,Central Sunset,68,62,For Sale,SAN FRANCISCO
+700,Paris St,1.0,,San Francisco,800 sqft,"Dec 31, 1969",$0,37.723713,-122.43338,CA,Single-Family Home,547582,,94112,Excelsior,82,82,For Sale,SAN FRANCISCO
+701,Ortega St,1.0,,San Francisco,800 sqft,"Dec 31, 1969",$0,37.751644,-122.49304,CA,Single-Family Home,661320,,94122,Central Sunset,75,58,For Sale,SAN FRANCISCO
+702,Quesada Ave,1.0,,San Francisco,750 sqft,"Dec 31, 1969",$0,37.731743,-122.388626,CA,Single-Family Home,338768,,94124,Bayview,89,66,For Sale,SAN FRANCISCO
+703,Vienna St,1.0,,San Francisco,432 sqft,"Dec 31, 1969",$0,37.725544,-122.426605,CA,Single-Family Home,410029,,94112,Excelsior,71,80,For Sale,SAN FRANCISCO
+704,Judson Ave,1.0,2.0,San Francisco,900 sqft,"Dec 31, 1969",$0,37.72826,-122.44722,CA,Single-Family Home,449000,,94112,Sunnyside,83,92,For Sale,SAN FRANCISCO
+705,Velasco Ave,1.0,2.0,San Francisco,"1,188 sqft","Dec 31, 1969",$0,37.709423,-122.41753,CA,Single-Family Home,459273,,94134,Visitacion Valley,45,58,For Sale,SAN FRANCISCO
+706,33rd Ave,1.0,2.0,San Francisco,800 sqft,"Dec 31, 1969",$0,37.750137,-122.491234,CA,Single-Family Home,674547,,94116,Central Sunset,80,60,For Sale,SAN FRANCISCO
+707,21st St,1.0,,San Francisco,"1,265 sqft","Dec 31, 1969",$0,37.7577,-122.40828,CA,Single-Family Home,723476,,94110,Potrero Hill,91,78,For Sale,SAN FRANCISCO
+708,Orizaba Ave,1.0,,San Francisco,560 sqft,"Dec 31, 1969",$0,37.709957,-122.462524,CA,Single-Family Home,458916,,94112,Outer Mission,75,74,For Sale,SAN FRANCISCO
+709,Alemany Blvd,1.0,2.0,San Francisco,728 sqft,"Dec 31, 1969",$0,37.71039,-122.45531,CA,Single-Family Home,517556,,94112,Outer Mission,78,67,For Sale,SAN FRANCISCO
+710,Gilman,1.0,2.0,San Francisco,750 sqft,"Dec 31, 1969",$0,37.717335,-122.38657,CA,Condo,507383,,94124,,49,56,For Sale,SAN FRANCISCO
+711,Gilman Ave,1.0,2.0,San Francisco,923 sqft,"Dec 31, 1969",$0,37.717335,-122.38657,CA,Condo,507383,,94124,,49,56,For Sale,SAN FRANCISCO
+712,Diamond St,2.0,,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.735725,-122.434166,CA,Multi-Family Home,848290,,94131,Glen Park,86,88,For Sale,SAN FRANCISCO
+713,Bryant St 104,2.0,1.0,San Francisco,"1,042 sqft","Dec 31, 1969",$0,37.764114,-122.41036,CA,Condo,884156,,94110,Mission,89,85,For Sale,SAN FRANCISCO
+714,New Montgomery St #806,,,San Francisco,787 sqft,"Dec 31, 1969",$0,37.78642,-122.39924,CA,Condo,832665,,94105,South Beach,94,100,For Sale,SAN FRANCISCO
+715,Paris St,1.0,,San Francisco,800 sqft,"Dec 31, 1969",$0,37.723713,-122.43338,CA,Single-Family Home,547582,,94112,Excelsior,82,82,For Sale,SAN FRANCISCO
+716,Ortega St,1.0,,San Francisco,800 sqft,"Dec 31, 1969",$0,37.751644,-122.49304,CA,Single-Family Home,661320,,94122,Central Sunset,75,58,For Sale,SAN FRANCISCO
+717,Quesada Ave,1.0,,San Francisco,750 sqft,"Dec 31, 1969",$0,37.731743,-122.388626,CA,Single-Family Home,338768,,94124,Bayview,89,66,For Sale,SAN FRANCISCO
+718,Vienna St,1.0,,San Francisco,432 sqft,"Dec 31, 1969",$0,37.725544,-122.426605,CA,Single-Family Home,410029,,94112,Excelsior,71,80,For Sale,SAN FRANCISCO
+719,Judson Ave,1.0,2.0,San Francisco,900 sqft,"Dec 31, 1969",$0,37.72826,-122.44722,CA,Single-Family Home,449000,,94112,Sunnyside,83,92,For Sale,SAN FRANCISCO
+720,Velasco Ave,1.0,2.0,San Francisco,"1,188 sqft","Dec 31, 1969",$0,37.709423,-122.41753,CA,Single-Family Home,459273,,94134,Visitacion Valley,45,58,For Sale,SAN FRANCISCO
+721,33rd Ave,1.0,2.0,San Francisco,800 sqft,"Dec 31, 1969",$0,37.750137,-122.491234,CA,Single-Family Home,674547,,94116,Central Sunset,80,60,For Sale,SAN FRANCISCO
+722,21st St,1.0,,San Francisco,"1,265 sqft","Dec 31, 1969",$0,37.7577,-122.40828,CA,Single-Family Home,723476,,94110,Potrero Hill,91,78,For Sale,SAN FRANCISCO
+723,Orizaba Ave,1.0,,San Francisco,560 sqft,"Dec 31, 1969",$0,37.709957,-122.462524,CA,Single-Family Home,458916,,94112,Outer Mission,75,74,For Sale,SAN FRANCISCO
+724,Alemany Blvd,1.0,2.0,San Francisco,728 sqft,"Dec 31, 1969",$0,37.71039,-122.45531,CA,Single-Family Home,517556,,94112,Outer Mission,78,67,For Sale,SAN FRANCISCO
+725,Gilman,1.0,2.0,San Francisco,750 sqft,"Dec 31, 1969",$0,37.717335,-122.38657,CA,Condo,507383,,94124,,49,56,For Sale,SAN FRANCISCO
+726,Gilman Ave,1.0,2.0,San Francisco,923 sqft,"Dec 31, 1969",$0,37.717335,-122.38657,CA,Condo,507383,,94124,,49,56,For Sale,SAN FRANCISCO
+727,Diamond St,2.0,,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.735725,-122.434166,CA,Multi-Family Home,848290,,94131,Glen Park,86,88,For Sale,SAN FRANCISCO
+728,Bryant St 104,2.0,1.0,San Francisco,"1,042 sqft","Dec 31, 1969",$0,37.764114,-122.41036,CA,Condo,884156,,94110,Mission,89,85,For Sale,SAN FRANCISCO
+729,New Montgomery St #806,,,San Francisco,787 sqft,"Dec 31, 1969",$0,37.78642,-122.39924,CA,Condo,832665,,94105,South Beach,94,100,For Sale,SAN FRANCISCO
+730,40th Ave,2.0,3.0,San Francisco,"1,629 sqft","Dec 31, 1969",$0,37.76374,-122.499695,CA,Single-Family Home,832019,,94122,Outer Sunset,74,58,For Sale,SAN FRANCISCO
+731,Regent St,2.0,4.0,San Francisco,"1,550 sqft","Dec 31, 1969",$0,37.709587,-122.45638,CA,Multi-Family Home,634065,,94112,Outer Mission,68,68,For Sale,SAN FRANCISCO
+732,King St #501,2.0,2.0,San Francisco,901 sqft,"Dec 31, 1969",$0,37.77868,-122.39133,CA,Condo,895848,,94107,South Beach,94,94,For Sale,SAN FRANCISCO
+733,Lombard St,1.0,,San Francisco,"1,025 sqft","Dec 31, 1969",$0,37.80393,-122.40414,CA,Condo,788256,,94111,Fisherman's Wharf,92,91,For Sale,SAN FRANCISCO
+734,Girard St,4.0,7.0,San Francisco,"2,300 sqft","Dec 31, 1969",$0,37.72814,-122.40491,CA,Multi-Family Home,750000,,94134,Portola,97,69,For Sale,SAN FRANCISCO
+735,Cayuga Ave,1.0,2.0,San Francisco,"1,100 sqft","Dec 31, 1969",$0,37.72955,-122.43499,CA,Single-Family Home,620000,,94112,Mission Terrace,83,91,For Sale,SAN FRANCISCO
+736,Palou Ave,1.0,2.0,San Francisco,"1,050 sqft","Dec 31, 1969",$0,37.73269,-122.388596,CA,Single-Family Home,509190,,94124,Bayview,88,67,For Sale,SAN FRANCISCO
+737,Jennings St,1.0,2.0,San Francisco,"1,165 sqft","Dec 31, 1969",$0,37.728577,-122.38728,CA,Single-Family Home,511208,,94124,Bayview,71,67,For Sale,SAN FRANCISCO
+738,Ankeny St,1.0,3.0,San Francisco,"1,110 sqft","Dec 31, 1969",$0,37.719666,-122.40559,CA,Single-Family Home,604975,,94134,Visitacion Valley,69,66,For Sale,SAN FRANCISCO
+739,Ellington Ave,1.0,2.0,San Francisco,"1,190 sqft","Dec 31, 1969",$0,37.71479,-122.44342,CA,Single-Family Home,606139,,94112,Outer Mission,88,90,For Sale,SAN FRANCISCO
+740,Gates St,3.0,4.0,San Francisco,"2,179 sqft","Dec 31, 1969",$0,37.73349,-122.41444,CA,Single-Family Home,970206,,94110,Bernal Heights,78,77,For Sale,SAN FRANCISCO
+741,Trumbull St,1.0,,San Francisco,"1,060 sqft","Dec 31, 1969",$0,37.7308,-122.4224,CA,Single-Family Home,624067,,94112,Excelsior,77,80,For Sale,SAN FRANCISCO
+742,Willard St N,,,San Francisco,,"Dec 31, 1969",$0,37.77616,-122.45667,CA,Unspecified,50000,,94118,Lone Mountain,82,76,For Sale,SAN FRANCISCO
+743,Willard St N,,,San Francisco,,"Dec 31, 1969",$0,37.7762,-122.45662,CA,Unspecified,120000,,94118,Lone Mountain,82,76,For Sale,SAN FRANCISCO
+744,22nd St,,,San Francisco,,"Dec 31, 1969",$0,37.755238,-122.421974,CA,Single-Family Home,133256,,94110,Noe Valley,98,90,For Sale,SAN FRANCISCO
+745,22nd St,,,San Francisco,,"Dec 31, 1969",$0,37.755276,-122.42203,CA,Unspecified,133256,,94110,Noe Valley,98,90,For Sale,SAN FRANCISCO
+746,Folsom St #522,,,San Francisco,,"Dec 31, 1969",$0,37.78108,-122.40239,CA,Unspecified,386559,,94107,SoMa,95,100,For Sale,SAN FRANCISCO
+747,Mission St,,,San Francisco,,"Dec 31, 1969",$0,37.71246,-122.444885,CA,Unspecified,74200,,94112,Outer Mission,71,85,For Sale,SAN FRANCISCO
+748,La Playa #423,,,San Francisco,,"Dec 31, 1969",$0,37.77273,-122.51,CA,Unspecified,230400,,94121,Outer Richmond,68,64,For Sale,SAN FRANCISCO
+749,Keystone Way #2A,,,San Francisco,,"Dec 31, 1969",$0,37.725723,-122.4627,CA,Unspecified,393933,,94127,Mount Davidson Manor,83,75,For Sale,SAN FRANCISCO
+750,Alemany Blvd #8,,,San Francisco,,"Dec 31, 1969",$0,37.73302,-122.41439,CA,Unspecified,287000,,94110,Bernal Heights,80,68,For Sale,SAN FRANCISCO
+751,Girard St,1.0,,San Francisco,"1,045 sqft","Dec 31, 1969",$0,37.71834,-122.40084,CA,Single-Family Home,609670,,94134,Visitacion Valley,69,68,For Sale,SAN FRANCISCO
+752,Broadway,,,San Francisco,,"Dec 31, 1969",$0,37.796963,-122.41402,CA,Single-Family Home,85000,,94133,Nob Hill,94,100,For Sale,SAN FRANCISCO
+753,Address Not Disclosed,,,San Francisco,,"Dec 31, 1969",$0,37.780277,-122.43885,CA,Unspecified,114000,,94115,Anza Vista,88,80,For Sale,SAN FRANCISCO
+754,2001 Union St #2,,,San Francisco,,"Dec 31, 1969",$0,37.797184,-122.43249,CA,Unspecified,372000,,94123,Cow Hollow,95,80,For Sale,SAN FRANCISCO
+755,La Playa St,,,San Francisco,,"Dec 31, 1969",$0,37.77273,-122.51,CA,Single-Family Home,230400,,94121,Outer Richmond,68,64,For Sale,SAN FRANCISCO
+756,Revere Ave,1.0,2.0,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.73297,-122.392525,CA,Single-Family Home,524915,,94124,Bayview,91,69,For Sale,SAN FRANCISCO
+757,Wetmore St,,,San Francisco,,"Dec 31, 1969",$0,37.79418,-122.410385,CA,Unspecified,200000,,94108,Nob Hill,97,100,For Sale,SAN FRANCISCO
+758,Wetmore St,,,San Francisco,,"Dec 31, 1969",$0,37.79428,-122.41046,CA,Unspecified,200000,,94108,Nob Hill,97,100,For Sale,SAN FRANCISCO
+759,Ofarrell St #311,,,San Francisco,,"Dec 31, 1969",$0,37.785534,-122.41515,CA,Unspecified,287650,,94109,Tenderloin,98,100,For Sale,SAN FRANCISCO
+760,22nd St,,,San Francisco,,"Dec 31, 1969",$0,37.755276,-122.42203,CA,Unspecified,133256,,94110,Noe Valley,98,90,For Sale,SAN FRANCISCO
+761,Folsom St #522,,,San Francisco,,"Dec 31, 1969",$0,37.78108,-122.40239,CA,Unspecified,386559,,94107,SoMa,95,100,For Sale,SAN FRANCISCO
+762,Mission St,,,San Francisco,,"Dec 31, 1969",$0,37.71246,-122.444885,CA,Unspecified,74200,,94112,Outer Mission,71,85,For Sale,SAN FRANCISCO
+763,La Playa #423,,,San Francisco,,"Dec 31, 1969",$0,37.77273,-122.51,CA,Unspecified,230400,,94121,Outer Richmond,68,64,For Sale,SAN FRANCISCO
+764,Keystone Way #2A,,,San Francisco,,"Dec 31, 1969",$0,37.725723,-122.4627,CA,Unspecified,393933,,94127,Mount Davidson Manor,83,75,For Sale,SAN FRANCISCO
+765,Alemany Blvd #8,,,San Francisco,,"Dec 31, 1969",$0,37.73302,-122.41439,CA,Unspecified,287000,,94110,Bernal Heights,80,68,For Sale,SAN FRANCISCO
+766,Girard St,1.0,,San Francisco,"1,045 sqft","Dec 31, 1969",$0,37.71834,-122.40084,CA,Single-Family Home,609670,,94134,Visitacion Valley,69,68,For Sale,SAN FRANCISCO
+767,Broadway,,,San Francisco,,"Dec 31, 1969",$0,37.796963,-122.41402,CA,Single-Family Home,85000,,94133,Nob Hill,94,100,For Sale,SAN FRANCISCO
+768,Address Not Disclosed,,,San Francisco,,"Dec 31, 1969",$0,37.780277,-122.43885,CA,Unspecified,114000,,94115,Anza Vista,88,80,For Sale,SAN FRANCISCO
+769,2001 Union St #2,,,San Francisco,,"Dec 31, 1969",$0,37.797184,-122.43249,CA,Unspecified,372000,,94123,Cow Hollow,95,80,For Sale,SAN FRANCISCO
+770,La Playa St,,,San Francisco,,"Dec 31, 1969",$0,37.77273,-122.51,CA,Single-Family Home,230400,,94121,Outer Richmond,68,64,For Sale,SAN FRANCISCO
+771,Revere Ave,1.0,2.0,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.73297,-122.392525,CA,Single-Family Home,524915,,94124,Bayview,91,69,For Sale,SAN FRANCISCO
+772,Wetmore St,,,San Francisco,,"Dec 31, 1969",$0,37.79418,-122.410385,CA,Unspecified,200000,,94108,Nob Hill,97,100,For Sale,SAN FRANCISCO
+773,Wetmore St,,,San Francisco,,"Dec 31, 1969",$0,37.79428,-122.41046,CA,Unspecified,200000,,94108,Nob Hill,97,100,For Sale,SAN FRANCISCO
+774,Ofarrell St #311,,,San Francisco,,"Dec 31, 1969",$0,37.785534,-122.41515,CA,Unspecified,287650,,94109,Tenderloin,98,100,For Sale,SAN FRANCISCO
+775,Crescent Way,,,San Francisco,,"Dec 31, 1969",$0,37.71115,-122.38957,CA,Unspecified,242658,,94134,Bayview,49,57,For Sale,SAN FRANCISCO
+776,Wall Pl #B,,,San Francisco,,"Dec 31, 1969",$0,37.79498,-122.417595,CA,Unspecified,624968,,94109,Nob Hill,94,96,For Sale,SAN FRANCISCO
+777,4th St #927,,,San Francisco,,"Dec 31, 1969",$0,37.77884,-122.39718,CA,Single-Family Home,649000,,94107,Mission Bay,85,100,For Sale,SAN FRANCISCO
+778,Address Not Disclosed,,,San Francisco,,"Dec 31, 1969",$0,37.781464,-122.42061,CA,Unspecified,400400,,94102,Civic Center,98,100,For Sale,SAN FRANCISCO
+779,Powel St #102,,,San Francisco,,"Dec 31, 1969",$0,37.790688,-122.40889,CA,Unspecified,720188,,94108,Downtown,100,100,For Sale,SAN FRANCISCO
+780,Golden Gate Ave,,,San Francisco,,"Dec 31, 1969",$0,37.776844,-122.4565,CA,Unspecified,148000,,94118,Lone Mountain,89,75,For Sale,SAN FRANCISCO
+781,Golden Gate Ave,,,San Francisco,,"Dec 31, 1969",$0,37.77689,-122.456474,CA,Unspecified,148000,,94118,Lone Mountain,89,75,For Sale,SAN FRANCISCO
+782,Morrell St,,,San Francisco,,"Dec 31, 1969",$0,37.795612,-122.419235,CA,Unspecified,425000,,94109,Nob Hill,95,92,For Sale,SAN FRANCISCO
+783,Morrell St,,,San Francisco,,"Dec 31, 1969",$0,37.79572,-122.4192,CA,Unspecified,425000,,94109,Nob Hill,95,92,For Sale,SAN FRANCISCO
+784,Cesar Chavez St,,,San Francisco,,"Dec 31, 1969",$0,37.74804,-122.42204,CA,Unspecified,509000,,94110,Noe Valley,94,87,For Sale,SAN FRANCISCO
+785,Greenwich St #58,,,San Francisco,,"Dec 31, 1969",$0,37.802616,-122.40704,CA,Unspecified,351900,,94133,Telegraph Hill,95,93,For Sale,SAN FRANCISCO
+786,Victoria St,1.0,,San Francisco,,"Dec 31, 1969",$0,37.713753,-122.46531,CA,Single-Family Home,300000,,94132,Ingleside Heights,69,73,For Sale,SAN FRANCISCO
+787,Bryant St,,,San Francisco,,"Dec 31, 1969",$0,37.77166,-122.40806,CA,Unspecified,200000,,94103,SoMa,88,100,For Sale,SAN FRANCISCO
+788,Bryant St,,,San Francisco,,"Dec 31, 1969",$0,37.771606,-122.4082,CA,Unspecified,200000,,94103,SoMa,88,100,For Sale,SAN FRANCISCO
+789,Bryant St,,,San Francisco,,"Dec 31, 1969",$0,37.77162,-122.40819,CA,Unspecified,200000,,94103,SoMa,88,100,For Sale,SAN FRANCISCO
+790,3rd Ave,,,San Francisco,,"Dec 31, 1969",$0,37.784718,-122.461266,CA,Unspecified,150000,,94118,Inner Richmond,91,74,For Sale,SAN FRANCISCO
+791,3rd Ave,1.0,3.0,San Francisco,,"Dec 31, 1969",$0,37.784748,-122.46133,CA,Single-Family Home,150000,,94118,Inner Richmond,91,74,For Sale,SAN FRANCISCO
+792,First St #802,,,San Francisco,,"Dec 31, 1969",$0,37.790824,-122.398869,CA,Unspecified,795316,,94105,,,,For Sale,SAN FRANCISCO
+793,Lyon St #32,,,San Francisco,,"Dec 31, 1969",$0,37.788105,-122.44553,CA,Unspecified,520000,,94115,Pacific Heights,91,78,For Sale,SAN FRANCISCO
+794,Greenwich,,,San Francisco,,"Dec 31, 1969",$0,37.800583,-122.422966,CA,Unspecified,650000,,94109,Russian Hill,95,91,For Sale,SAN FRANCISCO
+795,Cesar Chavez St,,,San Francisco,,"Dec 31, 1969",$0,37.7489,-122.40663,CA,Unspecified,513500,,94110,Bernal Heights,85,75,For Sale,SAN FRANCISCO
+796,Clement St,,,San Francisco,,"Dec 31, 1969",$0,37.78221,-122.48032,CA,Unspecified,565000,,94121,Central Richmond,77,65,For Sale,SAN FRANCISCO
+797,Broad St,,,San Francisco,,"Dec 31, 1969",$0,37.713184,-122.45782,CA,Unspecified,544185,,94112,Oceanview,66,76,For Sale,SAN FRANCISCO
+798,Broad St,,,San Francisco,,"Dec 31, 1969",$0,37.71314,-122.45759,CA,Unspecified,544185,,94112,Oceanview,66,76,For Sale,SAN FRANCISCO
+799,Market St #602,,,San Francisco,,"Dec 31, 1969",$0,37.783596,-122.40866,CA,Unspecified,392755,,94102,Tenderloin,100,100,For Sale,SAN FRANCISCO
+800,King St,,,San Francisco,,"Dec 31, 1969",$0,37.774944,-122.39549,CA,Unspecified,136000,,94158,Mission Bay,88,94,For Sale,SAN FRANCISCO
+801,California St #25,,,San Francisco,,"Dec 31, 1969",$0,37.78766,-122.44352,CA,Unspecified,199000,,94115,Lower Pacific Heights,91,78,For Sale,SAN FRANCISCO
+802,Address Not Disclosed,,,San Francisco,,"Dec 31, 1969",$0,37.780235,-122.38932,CA,Unspecified,600000,,94107,South Beach,97,100,For Sale,SAN FRANCISCO
+803,Bayshore Blvd #412,,,San Francisco,,"Dec 31, 1969",$0,37.73249,-122.4044,CA,Unspecified,275127,,94124,Silver Terrace,86,69,For Sale,SAN FRANCISCO
+804,Pine St 202,,,San Francisco,,"Dec 31, 1969",$0,37.788235,-122.43141,CA,Unspecified,254473,,94115,Lower Pacific Heights,100,86,For Sale,SAN FRANCISCO
+805,First St #1207,,,San Francisco,,"Dec 31, 1969",$0,37.790824,-122.398869,CA,Unspecified,660000,,94105,,,,For Sale,SAN FRANCISCO
+806,Bhuxome St #110,,,San Francisco,,"Dec 31, 1969",$0,37.776835,-122.39687,CA,Unspecified,631803,,94107,,,,For Sale,SAN FRANCISCO
+807,Polk St #602,1.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.788925,-122.42029,CA,Unspecified,405364,,94109,Civic Center,98,96,For Sale,SAN FRANCISCO
+808,Rhode Island St #18,,,San Francisco,,"Dec 31, 1969",$0,37.753956,-122.40156,CA,Unspecified,398000,,94107,Potrero Hill,82,70,For Sale,SAN FRANCISCO
+809,Scott St #202,,,San Francisco,,"Dec 31, 1969",$0,37.805058,-122.44217,CA,Single-Family Home,618000,,94123,Marina,83,66,For Sale,SAN FRANCISCO
+810,Kiska Rd,,,San Francisco,,"Dec 31, 1969",$0,37.730515,-122.37873,CA,Unspecified,229376,,94124,Hunters Point,60,59,For Sale,SAN FRANCISCO
+811,Federal St #22,,,San Francisco,,"Dec 31, 1969",$0,37.78379,-122.391624,CA,Unspecified,661000,,94107,South Beach,94,100,For Sale,SAN FRANCISCO
+812,Folsom St #2,,,San Francisco,,"Dec 31, 1969",$0,37.775738,-122.40913,CA,Unspecified,510000,,94103,SoMa,98,100,For Sale,SAN FRANCISCO
+813,25th St #301,,,San Francisco,,"Dec 31, 1969",$0,37.751163,-122.40943,CA,Unspecified,600000,,94110,Mission,95,81,For Sale,SAN FRANCISCO
+814,Garcia Ave,,,San Francisco,,"Dec 31, 1969",$0,37.74415,-122.459404,CA,Unspecified,405316,,94127,Forest Hill Extension,83,78,For Sale,SAN FRANCISCO
+815,Cesar Chavez,,,San Francisco,,"Dec 31, 1969",$0,37.748158,-122.418846,CA,Unspecified,400500,,94110,Mission,98,88,For Sale,SAN FRANCISCO
+816,Vista View Ct,,,San Francisco,,"Dec 31, 1969",$0,37.73364,-122.395035,CA,Unspecified,320249,,94124,Silver Terrace,74,69,For Sale,SAN FRANCISCO
+817,Shipley St #A-1,,,San Francisco,,"Dec 31, 1969",$0,37.7787,-122.40426,CA,Unspecified,420908,,94107,SoMa,95,100,For Sale,SAN FRANCISCO
+818,S Van Ness Ave #817,,,San Francisco,,"Dec 31, 1969",$0,37.771763,-122.418205,CA,Unspecified,335250,,94103,SoMa,94,100,For Sale,SAN FRANCISCO
+819,Franklin St #22,,,San Francisco,,"Dec 31, 1969",$0,37.783863,-122.42269,CA,Unspecified,472050,,94109,Civic Center,98,100,For Sale,SAN FRANCISCO
+820,Bay St,,,San Francisco,,"Dec 31, 1969",$0,37.805603,-122.413795,CA,Unspecified,180000,,94133,Fisherman's Wharf,92,89,For Sale,SAN FRANCISCO
+821,7th St #4,,,San Francisco,,"Dec 31, 1969",$0,37.77588,-122.406715,CA,Unspecified,447100,,94103,SoMa,98,100,For Sale,SAN FRANCISCO
+822,22nd St,,,San Francisco,,"Dec 31, 1969",$0,37.755894,-122.41141,CA,Unspecified,680000,,94110,Mission,97,92,For Sale,SAN FRANCISCO
+823,Mission St #526,,,San Francisco,,"Dec 31, 1969",$0,37.77181,-122.419266,CA,Single-Family Home,551622,,94103,SoMa,97,100,For Sale,SAN FRANCISCO
+824,Natoma St #205,,,San Francisco,,"Dec 31, 1969",$0,37.77824,-122.41003,CA,Single-Family Home,365287,,94103,SoMa,97,100,For Sale,SAN FRANCISCO
+825,Broderick St #222,,,San Francisco,,"Dec 31, 1969",$0,37.773346,-122.43918,CA,Single-Family Home,530782,,94117,Panhandle,82,89,For Sale,SAN FRANCISCO
+826,Otis St,,,San Francisco,,"Dec 31, 1969",$0,37.77219,-122.41994,CA,Unspecified,535495,,94103,SoMa,94,100,For Sale,SAN FRANCISCO
+827,Arelious Walker Dr,1.0,2.0,San Francisco,,"Dec 31, 1969",$0,37.717434,-122.38609,CA,Unspecified,222800,,94124,,54,56,For Sale,SAN FRANCISCO
+828,First St #1104,,,San Francisco,,"Dec 31, 1969",$0,37.790824,-122.398869,CA,Unspecified,468258,,94105,,,,For Sale,SAN FRANCISCO
+829,Sutter St,,,San Francisco,,"Dec 31, 1969",$0,37.787444,-122.422635,CA,Unspecified,737882,,94109,,98,100,For Sale,SAN FRANCISCO
+830,Keith St Sreet,,,San Francisco,,"Dec 31, 1969",$0,37.729095,-122.38966,CA,Unspecified,310000,,94124,Bayview,75,68,For Sale,SAN FRANCISCO
+831,S Van Ness Ave A,,,San Francisco,,"Dec 31, 1969",$0,37.749863,-122.41607,CA,Unspecified,699911,,94110,Mission,98,87,For Sale,SAN FRANCISCO
+832,23rd St,,,San Francisco,,"Dec 31, 1969",$0,37.755553,-122.38558,CA,Unspecified,439891,,94107,,,,For Sale,SAN FRANCISCO
+833,Mullen Ave #136,,,San Francisco,,"Dec 31, 1969",$0,37.746307,-122.40849,CA,Unspecified,700000,,94110,Bernal Heights,83,70,For Sale,SAN FRANCISCO
+834,Tiffany St #303,,,San Francisco,,"Dec 31, 1969",$0,37.74448,-122.42166,CA,Single-Family Home,483300,,94110,Mission,89,85,For Sale,SAN FRANCISCO
+835,37th Ave,,,San Francisco,,"Dec 31, 1969",$0,37.76051,-122.496284,CA,Unspecified,579900,,94122,Outer Sunset,68,59,For Sale,SAN FRANCISCO
+836,Arguello Blvd #2,,,San Francisco,,"Dec 31, 1969",$0,37.77659,-122.45855,CA,Unspecified,455200,,94118,Inner Richmond,86,76,For Sale,SAN FRANCISCO
+837,47th Ave #843,,,San Francisco,,"Dec 31, 1969",$0,37.777943,-122.5082,CA,Unspecified,541000,,94121,Outer Richmond,74,65,For Sale,SAN FRANCISCO
+838,Church St,,,San Francisco,,"Dec 31, 1969",$0,37.74351,-122.42664,CA,Unspecified,748886,,94131,Noe Valley,80,82,For Sale,SAN FRANCISCO
+839,Eddy St,,,San Francisco,,"Dec 31, 1969",$0,37.78216,-122.42662,CA,Unspecified,328000,,94109,Western Addition,92,100,For Sale,SAN FRANCISCO
+840,Bridgeview Dr,,,San Francisco,,"Dec 31, 1969",$0,37.73513,-122.39714,CA,Unspecified,300000,,94124,Silver Terrace,77,70,For Sale,SAN FRANCISCO
+841,Turk St,,,San Francisco,,"Dec 31, 1969",$0,37.77926,-122.442399,CA,Unspecified,766854,,94115,,89,79,For Sale,SAN FRANCISCO
+842,Palou Ave A,,,San Francisco,,"Dec 31, 1969",$0,37.734417,-122.391716,CA,Unspecified,427500,,94124,Bayview,83,67,For Sale,SAN FRANCISCO
+843,Townsend St,2.0,1.0,San Francisco,,"Dec 31, 1969",$0,37.775696,-122.39679,CA,Single-Family Home,461500,,94107,Mission Bay,95,89,For Sale,SAN FRANCISCO
+844,Miguel St,,,San Francisco,,"Dec 31, 1969",$0,37.738815,-122.42887,CA,Single-Family Home,740905,,94131,Glen Park,78,87,For Sale,SAN FRANCISCO
+845,45th Ave #2,,,San Francisco,,"Dec 31, 1969",$0,37.776566,-122.50595,CA,Unspecified,590000,,94121,Outer Richmond,78,66,For Sale,SAN FRANCISCO
+846,King St #757,,,San Francisco,,"Dec 31, 1969",$0,37.774998,-122.395996,CA,Unspecified,599000,,94158,Mission Bay,94,88,For Sale,SAN FRANCISCO
+847,1st St #N1807,,,San Francisco,,"Dec 31, 1969",$0,37.78688,-122.39392,CA,Single-Family Home,643500,,94105,South Beach,91,100,For Sale,SAN FRANCISCO
+848,Fulton St #322,,,San Francisco,,"Dec 31, 1969",$0,37.777584,-122.43246,CA,Single-Family Home,274050,,94134,Alamo Square,89,90,For Sale,SAN FRANCISCO
+849,Ivy St,,,San Francisco,,"Dec 31, 1969",$0,37.77685,-122.42696,CA,Unspecified,570000,,94102,Hayes Valley,95,100,For Sale,SAN FRANCISCO
+850,Ivy St,,,San Francisco,,"Dec 31, 1969",$0,37.776802,-122.427,CA,Unspecified,570000,,94102,Hayes Valley,95,100,For Sale,SAN FRANCISCO
+851,Albion St,,,San Francisco,,"Dec 31, 1969",$0,37.76371,-122.422806,CA,Unspecified,783000,,94110,Mission Dolores,95,100,For Sale,SAN FRANCISCO
+852,Albion St,,,San Francisco,,"Dec 31, 1969",$0,37.763775,-122.422745,CA,Unspecified,783000,,94110,Mission Dolores,95,100,For Sale,SAN FRANCISCO
+853,Monterey Blvd,,,San Francisco,,"Dec 31, 1969",$0,37.732193,-122.435132,CA,Unspecified,757543,,94131,,62,65,For Sale,SAN FRANCISCO
+854,Natoma St,,,San Francisco,,"Dec 31, 1969",$0,37.789495,-122.395935,CA,Unspecified,715045,,94103,,97,100,For Sale,SAN FRANCISCO
+855,La Salle Ave,,,San Francisco,,"Dec 31, 1969",$0,37.73715,-122.38981,CA,Single-Family Home,474540,,94124,Bayview,83,67,For Sale,SAN FRANCISCO
+856,Precita Ave,,,San Francisco,,"Dec 31, 1969",$0,37.74691,-122.41772,CA,Single-Family Home,825000,,94110,Bernal Heights,89,87,For Sale,SAN FRANCISCO
+857,Quesada Ave,1.0,,San Francisco,"1,150 sqft","Dec 31, 1969",$0,37.731003,-122.387314,CA,Single-Family Home,531925,,94124,Bayview,78,66,For Sale,SAN FRANCISCO
+858,Colby St,2.0,2.0,San Francisco,"1,680 sqft","Dec 31, 1969",$0,37.72196,-122.411095,CA,Single-Family Home,642668,,94134,Portola,68,62,For Sale,SAN FRANCISCO
+859,Campbell Ave,1.0,,San Francisco,"1,013 sqft","Dec 31, 1969",$0,37.71565,-122.407616,CA,Single-Family Home,647729,,94134,Visitacion Valley,63,67,For Sale,SAN FRANCISCO
+860,Rutland,1.0,,San Francisco,975 sqft,"Dec 31, 1969",$0,37.716366,-122.4057,CA,Single-Family Home,643988,,94134,Visitacion Valley,65,67,For Sale,SAN FRANCISCO
+861,Moscow St,1.0,2.0,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.72057,-122.42814,CA,Single-Family Home,631651,,94112,Excelsior,66,70,For Sale,SAN FRANCISCO
+862,Apollo St,1.0,3.0,San Francisco,987 sqft,"Dec 31, 1969",$0,37.73255,-122.39705,CA,Single-Family Home,548351,,94124,Silver Terrace,69,70,For Sale,SAN FRANCISCO
+863,Revere Ave,1.0,,San Francisco,"1,290 sqft","Dec 31, 1969",$0,37.727734,-122.38325,CA,Single-Family Home,541783,,94124,Bayview,83,62,For Sale,SAN FRANCISCO
+864,Van Dyke Ave,1.0,,San Francisco,"1,200 sqft","Dec 31, 1969",$0,37.72735,-122.38923,CA,Single-Family Home,532636,,94124,Bayview,80,69,For Sale,SAN FRANCISCO
+865,Lakeview Ave,2.0,3.0,San Francisco,"1,236 sqft","Dec 31, 1969",$0,37.71823,-122.4566,CA,Single-Family Home,635657,,94112,Ingleside,65,85,For Sale,SAN FRANCISCO
+866,1st St #A B,,,San Francisco,,"Dec 31, 1969",$0,37.78688,-122.39392,CA,Unspecified,811375,,94105,South Beach,91,100,For Sale,SAN FRANCISCO
+867,Banks St,1.0,,San Francisco,"1,120 sqft","Dec 31, 1969",$0,37.73852,-122.41272,CA,Single-Family Home,902261,,94110,Bernal Heights,82,74,For Sale,SAN FRANCISCO
+868,Amazon Ave,1.0,,San Francisco,"1,250 sqft","Dec 31, 1969",$0,37.715725,-122.436325,CA,Single-Family Home,639200,,94112,Excelsior,72,82,For Sale,SAN FRANCISCO
+869,Shields St,1.0,2.0,San Francisco,"1,000 sqft","Dec 31, 1969",$0,37.7179,-122.468445,CA,Single-Family Home,638949,,94132,Merced Heights,66,71,For Sale,SAN FRANCISCO
+870,Head St,2.0,3.0,San Francisco,"1,661 sqft","Dec 31, 1969",$0,37.717274,-122.46444,CA,Single-Family Home,812420,,94132,Merced Heights,77,74,For Sale,SAN FRANCISCO
+871,Keith St,2.0,,San Francisco,"1,596 sqft","Dec 31, 1969",$0,37.72971,-122.38911,CA,Single-Family Home,565428,,94124,Bayview,80,69,For Sale,SAN FRANCISCO
+872,Crescent Ave,1.0,2.0,San Francisco,960 sqft,"Dec 31, 1969",$0,37.734898,-122.41619,CA,Single-Family Home,964509,,94110,Bernal Heights,83,79,For Sale,SAN FRANCISCO
+873,Athens St,1.0,,San Francisco,"1,061 sqft","Dec 31, 1969",$0,37.727013,-122.4244,CA,Single-Family Home,661598,,94112,Excelsior,60,64,For Sale,SAN FRANCISCO
+874,Ingerson Ave,1.0,,San Francisco,950 sqft,"Dec 31, 1969",$0,37.719936,-122.39445,CA,Single-Family Home,583967,,94124,Bayview,72,66,For Sale,SAN FRANCISCO
+875,S Hill Blvd,1.0,2.0,San Francisco,"1,831 sqft","Dec 31, 1969",$0,37.711163,-122.4318,CA,Single-Family Home,734380,,94112,Crocker Amazon,57,63,For Sale,SAN FRANCISCO
+876,Silver Ave,1.0,,San Francisco,"1,275 sqft","Dec 31, 1969",$0,37.73033,-122.41218,CA,Single-Family Home,796457,,94134,Portola,71,69,For Sale,SAN FRANCISCO
+877,Winding Way,2.0,,San Francisco,"1,432 sqft","Dec 31, 1969",$0,37.709618,-122.438354,CA,Single-Family Home,744766,,94112,Crocker Amazon,66,62,For Sale,SAN FRANCISCO
+878,Concord St,1.0,,San Francisco,"1,315 sqft","Dec 31, 1969",$0,37.713303,-122.44308,CA,Single-Family Home,807637,,94112,Crocker Amazon,71,85,For Sale,SAN FRANCISCO
+879,Cora St,2.0,4.0,San Francisco,"1,800 sqft","Dec 31, 1969",$0,37.71048,-122.409386,CA,Single-Family Home,736792,,94134,Visitacion Valley,63,65,For Sale,SAN FRANCISCO
+880,Campbell Ave,2.0,3.0,San Francisco,"1,400 sqft","Dec 31, 1969",$0,37.71436,-122.40346,CA,Single-Family Home,719586,,94134,Visitacion Valley,68,68,For Sale,SAN FRANCISCO
+881,Santa Rosa Ave,1.0,,San Francisco,"1,491 sqft","Dec 31, 1969",$0,37.727413,-122.43726,CA,Single-Family Home,744945,,94112,Mission Terrace,82,92,For Sale,SAN FRANCISCO
+882,Vienna St,2.0,2.0,San Francisco,"1,175 sqft","Dec 31, 1969",$0,37.727516,-122.425125,CA,Single-Family Home,692427,,94112,Excelsior,69,66,For Sale,SAN FRANCISCO
+883,Rockridge Dr,1.0,,San Francisco,"1,150 sqft","Dec 31, 1969",$0,37.750603,-122.47016,CA,Single-Family Home,932741,,94116,Golden Gate Heights,62,74,For Sale,SAN FRANCISCO
+884,Maddux,1.0,,San Francisco,"1,175 sqft","Dec 31, 1969",$0,37.73311,-122.39917,CA,Single-Family Home,602042,,94124,Silver Terrace,72,70,For Sale,SAN FRANCISCO
+885,Shawnee Ave,1.0,3.0,San Francisco,"1,325 sqft","Dec 31, 1969",$0,37.71878,-122.447495,CA,Single-Family Home,772682,,94112,Outer Mission,77,95,For Sale,SAN FRANCISCO
+886,Quint St,1.0,,San Francisco,"1,596 sqft","Dec 31, 1969",$0,37.73529,-122.39823,CA,Single-Family Home,649800,,94124,Silver Terrace,68,70,For Sale,SAN FRANCISCO
+887,Brussels St,1.0,2.0,San Francisco,"1,020 sqft","Dec 31, 1969",$0,37.715725,-122.400856,CA,Single-Family Home,662865,,94134,Visitacion Valley,71,68,For Sale,SAN FRANCISCO
+888,Chenery St,,,San Francisco,,"Dec 31, 1969",$0,37.741564,-122.425753,CA,Unspecified,810000,,94131,,,,For Sale,SAN FRANCISCO
+889,Newcomb Ave,1.0,3.0,San Francisco,"1,300 sqft","Dec 31, 1969",$0,37.737106,-122.39312,CA,Single-Family Home,689067,,94124,Bayview,69,68,For Sale,SAN FRANCISCO
+890,Hearst Ave,1.0,,San Francisco,"1,280 sqft","Dec 31, 1969",$0,37.73067,-122.450645,CA,Single-Family Home,841435,,94112,Sunnyside,62,65,For Sale,SAN FRANCISCO
+891,Maynard St,1.0,5.0,San Francisco,"1,195 sqft","Dec 31, 1969",$0,37.72945,-122.425125,CA,Single-Family Home,683959,,94112,Excelsior,62,83,For Sale,SAN FRANCISCO
+892,Vistaview Ct,2.0,3.0,San Francisco,"1,594 sqft","Dec 31, 1969",$0,37.73373,-122.39522,CA,Single-Family Home,626099,,94124,Silver Terrace,69,70,For Sale,SAN FRANCISCO
+893,19th Ave,2.0,2.0,San Francisco,750 sqft,"Dec 31, 1969",$0,37.755623,-122.47654,CA,Single-Family Home,962832,,94122,Central Sunset,78,66,For Sale,SAN FRANCISCO
+894,Brussels St,1.0,,San Francisco,"1,625 sqft","Dec 31, 1969",$0,37.73122,-122.40727,CA,Single-Family Home,831851,,94134,Portola,75,66,For Sale,SAN FRANCISCO
+895,Bowdoin St,2.0,3.0,San Francisco,"1,890 sqft","Dec 31, 1969",$0,37.728752,-122.41172,CA,Single-Family Home,885162,,94134,Portola,71,66,For Sale,SAN FRANCISCO
+896,Edinburgh St,1.0,,San Francisco,"1,125 sqft","Dec 31, 1969",$0,37.718376,-122.43401,CA,Single-Family Home,669154,,94112,Excelsior,83,84,For Sale,SAN FRANCISCO
+897,Mission St,,,San Francisco,,"Dec 31, 1969",$0,37.73781,-122.424065,CA,Unspecified,839290,,94110,Bernal Heights,86,83,For Sale,SAN FRANCISCO
+898,S Van Ness Ave,6.0,,San Francisco,,"Dec 31, 1969",$0,37.76755,-122.41801,CA,Multi-Family Home,925000,,94103,Mission,97,100,For Sale,SAN FRANCISCO
+899,Post St,,,San Francisco,,"Dec 31, 1969",$0,37.787987,-122.410194,CA,Unspecified,781971,,94102,Tenderloin,100,100,For Sale,SAN FRANCISCO
+900,2246 Jerrold Ave,,,San Francisco,,"Dec 31, 1969",$0,37.74567,-122.40008,CA,Unspecified,800000,,94124,Bayview,74,70,For Sale,SAN FRANCISCO
+901,Fell St,,,San Francisco,,"Dec 31, 1969",$0,37.7754,-122.42718,CA,Unspecified,945000,,94102,Hayes Valley,94,100,For Sale,SAN FRANCISCO
+902,Fell St,,,San Francisco,,"Dec 31, 1969",$0,37.775352,-122.42718,CA,Unspecified,945000,,94102,Hayes Valley,94,100,For Sale,SAN FRANCISCO
+903,Girard St,,,San Francisco,,"Dec 31, 1969",$0,37.728165,-122.404854,CA,Unspecified,750000,,94134,Portola,69,68,For Sale,SAN FRANCISCO
+904,De Long,,,San Francisco,,"Dec 31, 1969",$0,37.709637,-122.462234,CA,Unspecified,715500,,94112,Outer Mission,71,74,For Sale,SAN FRANCISCO
+905,Dorado Ter #36,,,San Francisco,,"Dec 31, 1969",$0,37.72554,-122.461006,CA,Unspecified,738974,,94112,Mount Davidson Manor,83,77,For Sale,SAN FRANCISCO
+906,Lee Ave,,,San Francisco,,"Dec 31, 1969",$0,37.721542,-122.454155,CA,Unspecified,713824,,94112,Ingleside,83,91,For Sale,SAN FRANCISCO
+907,Lee Ave,,,San Francisco,,"Dec 31, 1969",$0,37.72163,-122.4541,CA,Unspecified,713824,,94112,Ingleside,83,91,For Sale,SAN FRANCISCO
+908,Velasco Ave,,,San Francisco,,"Dec 31, 1969",$0,37.709293,-122.41704,CA,Unspecified,847726,,94134,Visitacion Valley,55,59,For Sale,SAN FRANCISCO
+909,La Salle Ave,,,San Francisco,,"Dec 31, 1969",$0,37.73738,-122.39024,CA,Unspecified,663824,,94124,Bayview,83,67,For Sale,SAN FRANCISCO
+910,3rd St,2.0,,San Francisco,,"Dec 31, 1969",$0,37.730843,-122.39198,CA,Single-Family Home,638806,,94124,Bayview,89,70,For Sale,SAN FRANCISCO
+911,Third St,,,San Francisco,,"Dec 31, 1969",$0,37.743176,-122.387868,CA,Unspecified,825000,,94124,,,,For Sale,SAN FRANCISCO
+912,Mission St,,,San Francisco,,"Dec 31, 1969",$0,37.726692,-122.43322,CA,Unspecified,945232,,94112,Mission Terrace,69,67,For Sale,SAN FRANCISCO
+913,45th Ave,,,San Francisco,,"Dec 31, 1969",$0,37.778736,-122.50613,CA,Unspecified,996337,,94121,Outer Richmond,75,65,For Sale,SAN FRANCISCO
+914,Naples St #C,,,San Francisco,,"Dec 31, 1969",$0,37.713108,-122.43697,CA,Unspecified,675929,,94112,Crocker Amazon,72,75,For Sale,SAN FRANCISCO

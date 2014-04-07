@@ -1,0 +1,194 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,3814 Naughton Ave,2.5,4.0,Belmont,"2,250 sqft","Feb 19, 2014","$1,425,000",37.51446,-122.31882,CA,Single-Family Home,1425000,"$1,418,000",94002,,,,Sold,SAN MATEO
+2,1224 Lane St,1.5,3.0,Belmont,"1,450 sqft","Feb 18, 2014","$1,125,000",37.51269,-122.27275,CA,Single-Family Home,1125000,"$1,254,000",94002,,,,Sold,SAN MATEO
+3,2413 Hastings Dr,2.0,3.0,Belmont,"1,690 sqft","Feb 14, 2014","$1,175,000",37.505436,-122.29637,CA,Single-Family Home,1175000,"$1,250,000",94002,,,,Sold,SAN MATEO
+4,1521 Ralston Ave,3.0,3.0,Belmont,"3,920 sqft","Feb 11, 2014","$2,335,500",37.514034,-122.28606,CA,Single-Family Home,2335500,"$2,756,000",94002,,,,Sold,SAN MATEO
+5,2606 Prindle Rd,3.0,4.0,Belmont,"2,770 sqft","Feb 10, 2014","$2,025,000",37.512802,-122.300514,CA,Single-Family Home,2025000,"$1,776,000",94002,,,,Sold,SAN MATEO
+6,508 Dale View Ave,1.0,3.0,Belmont,"1,010 sqft","Feb 10, 2014","$710,000",37.529408,-122.28578,CA,Single-Family Home,710000,"$873,000",94002,,,,Sold,SAN MATEO
+7,400 Davey Glen Rd #4612,3.0,3.0,Belmont,"1,918 sqft","Feb 7, 2014","$572,500",37.525707,-122.28667,CA,Condo,572500,"$911,000",94002,,,,Sold,SAN MATEO
+8,2720 Yosemite Dr,2.0,3.0,Belmont,"1,390 sqft","Feb 6, 2014","$1,020,000",37.511757,-122.3153,CA,Single-Family Home,1020000,"$1,124,000",94002,,,,Sold,SAN MATEO
+9,2111 Pullman Ave,2.0,3.0,Belmont,"1,440 sqft","Feb 4, 2014","$1,200,000",37.514915,-122.298035,CA,Single-Family Home,1200000,"$1,180,000",94002,,,,Sold,SAN MATEO
+10,2804 Highgate Ave,2.0,3.0,Belmont,"1,940 sqft","Feb 3, 2014","$637,500",37.522686,-122.309456,CA,Single-Family Home,637500,"$1,335,000",94002,,,,Sold,SAN MATEO
+11,400 Davey Glen Rd #4621,1.0,1.0,Belmont,725 sqft,"Jan 28, 2014","$340,000",37.525707,-122.28667,CA,Condo,340000,"$445,000",94002,,,,Sold,SAN MATEO
+12,2115 Sharon Ave,1.5,3.0,Belmont,"1,400 sqft","Jan 24, 2014","$980,000",37.520092,-122.29833,CA,Single-Family Home,980000,"$1,128,000",94002,,,,Sold,SAN MATEO
+13,2108 Coronet Blvd,2.0,3.0,Belmont,"1,550 sqft","Jan 22, 2014","$1,300,000",37.520905,-122.29945,CA,Single-Family Home,1300000,"$1,236,000",94002,,,,Sold,SAN MATEO
+14,2433 Hastings Dr,2.5,3.0,Belmont,"2,250 sqft","Jan 17, 2014","$1,360,000",37.504528,-122.29595,CA,Single-Family Home,1360000,"$1,355,000",94002,,,,Sold,SAN MATEO
+15,2602 Coronet Blvd,2.0,3.0,Belmont,"1,270 sqft","Jan 17, 2014","$1,058,000",37.511612,-122.298744,CA,Single-Family Home,1058000,"$1,103,000",94002,,,,Sold,SAN MATEO
+16,2029 Arbor Ave,1.0,2.0,Belmont,830 sqft,"Jan 17, 2014","$812,500",37.51855,-122.29565,CA,Single-Family Home,812500,"$894,000",94002,,,,Sold,SAN MATEO
+17,1261 Alden Ct,1.0,3.0,Belmont,"1,170 sqft","Jan 16, 2014","$1,250,000",37.516666,-122.29284,CA,Single-Family Home,1250000,"$1,237,000",94002,,,,Sold,SAN MATEO
+18,200 Live Oak Way #206,2.5,2.0,Belmont,"1,379 sqft","Jan 16, 2014","$783,000",37.508755,-122.30161,CA,Condo,783000,"$859,000",94002,,,,Sold,SAN MATEO
+19,116 Clipper Dr,2.5,3.0,Belmont,"1,480 sqft","Jan 15, 2014","$1,050,000",37.53241,-122.26894,CA,Single-Family Home,1050000,"$1,105,000",94002,,,,Sold,SAN MATEO
+20,400 Davey Glen Rd #4503,1.0,1.0,Belmont,725 sqft,"Jan 10, 2014","$352,000",37.525707,-122.28667,CA,Condo,352000,"$460,000",94002,,,,Sold,SAN MATEO
+21,2827 Alhambra Dr,2.5,3.0,Belmont,"2,320 sqft","Jan 10, 2014","$1,010,000",37.518005,-122.313545,CA,Single-Family Home,1010000,"$1,298,000",94002,,,,Sold,SAN MATEO
+22,1136 Lassen Dr,2.0,4.0,Belmont,"1,760 sqft","Jan 6, 2014","$1,323,000",37.50981,-122.31651,CA,Single-Family Home,1323000,"$1,436,000",94002,,,,Sold,SAN MATEO
+23,49 Edgewood Pl,2.5,3.0,Belmont,"1,890 sqft","Jan 3, 2014","$1,080,000",37.525127,-122.284225,CA,Single-Family Home,1080000,"$1,230,000",94002,,,,Sold,SAN MATEO
+24,3031 San Juan Blvd,2.5,3.0,Belmont,"2,130 sqft","Dec 31, 2013","$1,175,000",37.51824,-122.314575,CA,Single-Family Home,1175000,"$1,549,000",94002,,,,Sold,SAN MATEO
+25,1311 Talbryn Dr,2.0,3.0,Belmont,"1,580 sqft","Dec 27, 2013","$1,265,000",37.513165,-122.27784,CA,Single-Family Home,1265000,"$1,442,000",94002,,,,Sold,SAN MATEO
+26,4120 Marsten Ave,2.0,3.0,Belmont,"2,760 sqft","Dec 27, 2013","$1,349,000",37.517185,-122.32321,CA,Single-Family Home,1349000,"$1,466,000",94002,,,,Sold,SAN MATEO
+27,2506 Cipriani Blvd,2.0,3.0,Belmont,"1,200 sqft","Dec 27, 2013","$950,000",37.515137,-122.30367,CA,Single-Family Home,950000,"$1,079,000",94002,,,,Sold,SAN MATEO
+28,300 Davey Glen Rd #3829,2.0,3.0,Belmont,"1,404 sqft","Dec 27, 2013","$595,000",37.525707,-122.28667,CA,Condo,595000,"$729,000",94002,,,,Sold,SAN MATEO
+29,512 Hiller St,1.0,3.0,Belmont,"1,010 sqft","Dec 27, 2013","$830,000",37.527695,-122.277435,CA,Single-Family Home,830000,"$849,000",94002,,,,Sold,SAN MATEO
+30,3715 Naughton Ave,2.0,3.0,Belmont,"1,350 sqft","Dec 23, 2013","$1,175,000",37.514214,-122.3179,CA,Single-Family Home,1175000,"$1,075,000",94002,,,,Sold,SAN MATEO
+31,26 Arroyo View Cir,2.5,3.0,Belmont,"1,270 sqft","Dec 20, 2013","$963,000",37.512146,-122.306175,CA,Single-Family Home,963000,"$1,083,000",94002,,,,Sold,SAN MATEO
+32,2207 Ewell Rd,3.0,4.0,Belmont,"2,300 sqft","Dec 20, 2013","$1,368,000",37.512882,-122.29843,CA,Single-Family Home,1368000,"$1,606,000",94002,,,,Sold,SAN MATEO
+33,520 Roxbury Way,2.5,5.0,Belmont,"2,340 sqft","Dec 20, 2013","$1,075,000",37.526024,-122.2784,CA,Single-Family Home,1075000,"$1,148,000",94002,,,,Sold,SAN MATEO
+34,1537 Escondido Way,2.5,4.0,Belmont,"1,910 sqft","Dec 13, 2013","$1,438,500",37.51291,-122.284805,CA,Single-Family Home,1438500,"$1,610,000",94002,,,,Sold,SAN MATEO
+35,1449 Sixth Ave,3.0,4.0,Belmont,"1,480 sqft","Dec 12, 2013","$1,190,000",37.515797,-122.27283,CA,Single-Family Home,1190000,"$1,269,000",94002,,,,Sold,SAN MATEO
+36,1307 Notre Dame Ave,1.0,3.0,Belmont,"1,250 sqft","Dec 12, 2013","$1,086,000",37.51782,-122.28971,CA,Single-Family Home,1086000,"$1,179,000",94002,,,,Sold,SAN MATEO
+37,2624 Ponce Ave,1.5,3.0,Belmont,"1,670 sqft","Dec 9, 2013","$975,000",37.51349,-122.3012,CA,Single-Family Home,975000,"$1,152,000",94002,,,,Sold,SAN MATEO
+38,301 Alameda De Las Pulgas,1.0,2.0,Belmont,"1,040 sqft","Dec 6, 2013","$850,000",37.52245,-122.30032,CA,Single-Family Home,850000,"$907,000",94002,,,,Sold,SAN MATEO
+39,2642 Ponce Ave,2.0,2.0,Belmont,"1,490 sqft","Dec 6, 2013","$945,000",37.51449,-122.30076,CA,Single-Family Home,945000,"$1,105,000",94002,,,,Sold,SAN MATEO
+40,300 Davey Glen Rd #3827,2.0,2.0,Belmont,"1,056 sqft","Dec 6, 2013","$511,000",37.525707,-122.28667,CA,Condo,511000,"$672,000",94002,,,,Sold,SAN MATEO
+41,3403 Plateau Dr,2.0,3.0,Belmont,"1,220 sqft","Dec 5, 2013","$1,000,000",37.51563,-122.31671,CA,Single-Family Home,1000000,"$1,046,000",94002,,,,Sold,SAN MATEO
+42,2022 Monroe Ave,2.0,3.0,Belmont,"1,100 sqft","Dec 5, 2013","$835,000",37.52401,-122.29859,CA,Single-Family Home,835000,"$1,042,000",94002,,,,Sold,SAN MATEO
+43,2872 Wakefield Dr,2.5,4.0,Belmont,"2,220 sqft","Dec 4, 2013","$1,550,000",37.50659,-122.30893,CA,Single-Family Home,1550000,"$1,606,000",94002,,,,Sold,SAN MATEO
+44,2309 Cipriani Blvd,,,Belmont,,"Dec 3, 2013","$267,000",37.51796,-122.3037,CA,Unknown,267000,,94002,,,,Sold,SAN MATEO
+45,1637 Notre Dame Ave,2.0,3.0,Belmont,"1,470 sqft","Dec 3, 2013","$1,087,000",37.522186,-122.290504,CA,Single-Family Home,1087000,"$1,248,000",94002,,,,Sold,SAN MATEO
+46,2411 Lincoln Ave,3.0,3.0,Belmont,"1,660 sqft","Nov 27, 2013","$1,635,000",37.517452,-122.305336,CA,Single-Family Home,1635000,"$1,493,000",94002,,,,Sold,SAN MATEO
+47,2399 Lyall Way,2.5,3.0,Belmont,"1,660 sqft","Nov 27, 2013","$895,000",37.510323,-122.30093,CA,Condo,895000,"$895,000",94002,,,,Sold,SAN MATEO
+48,2723 Barclay Way,2.0,5.0,Belmont,"1,820 sqft","Nov 27, 2013","$1,200,000",37.51647,-122.310455,CA,Single-Family Home,1200000,"$1,300,000",94002,,,,Sold,SAN MATEO
+49,505 Seagate Way,2.0,3.0,Belmont,"1,650 sqft","Nov 26, 2013","$1,010,000",37.530148,-122.275246,CA,Single-Family Home,1010000,"$1,103,000",94002,,,,Sold,SAN MATEO
+50,2937 San Juan Blvd,2.0,3.0,Belmont,"1,930 sqft","Nov 25, 2013","$1,300,000",37.515514,-122.31248,CA,Single-Family Home,1300000,"$1,298,000",94002,,,,Sold,SAN MATEO
+51,2019 Notre Dame Ave,2.0,3.0,Belmont,"1,180 sqft","Nov 22, 2013","$906,000",37.52225,-122.29817,CA,Single-Family Home,906000,"$1,136,000",94002,,,,Sold,SAN MATEO
+52,2503 Hastings Dr,2.5,3.0,Belmont,"2,210 sqft","Nov 21, 2013","$1,245,000",37.503433,-122.29508,CA,Single-Family Home,1245000,"$1,371,000",94002,,,,Sold,SAN MATEO
+53,1800 Miller Ave,2.0,3.0,Belmont,"1,690 sqft","Nov 21, 2013","$1,069,000",37.524445,-122.296715,CA,Single-Family Home,1069000,"$1,160,000",94002,,,,Sold,SAN MATEO
+54,417 Wessex Way,2.0,4.0,Belmont,"1,952 sqft","Nov 20, 2013","$799,000",37.52509,-122.27239,CA,Multi-Family,799000,"$1,133,000",94002,,,,Sold,SAN MATEO
+55,2708 Hallmark Dr,2.0,4.0,Belmont,"1,820 sqft","Nov 19, 2013","$1,453,000",37.50521,-122.31407,CA,Single-Family Home,1453000,"$1,513,000",94002,,,,Sold,SAN MATEO
+56,411 Briarfield Way,1.0,3.0,Belmont,"1,080 sqft","Nov 19, 2013","$780,000",37.526604,-122.274704,CA,Single-Family Home,780000,"$867,000",94002,,,,Sold,SAN MATEO
+57,2201 Coronet Blvd,2.0,3.0,Belmont,"1,580 sqft","Nov 18, 2013","$995,000",37.519054,-122.298706,CA,Single-Family Home,995000,"$1,167,000",94002,,,,Sold,SAN MATEO
+58,341 Malcolm Ave,2.0,3.0,Belmont,"1,870 sqft","Nov 18, 2013","$875,000",37.52739,-122.287,CA,Single-Family Home,875000,"$1,226,000",94002,,,,Sold,SAN MATEO
+59,3108 Marburger Ave,2.0,2.0,Belmont,"1,200 sqft","Nov 15, 2013","$701,000",37.515373,-122.311935,CA,Single-Family Home,701000,"$930,000",94002,,,,Sold,SAN MATEO
+60,924 Ruth Ave,1.0,2.0,Belmont,850 sqft,"Nov 15, 2013","$649,500",37.527172,-122.290764,CA,Single-Family Home,649500,"$813,000",94002,,,,Sold,SAN MATEO
+61,608 Hiller St,2.0,4.0,Belmont,"1,940 sqft","Nov 15, 2013","$720,000",37.5273,-122.27603,CA,Single-Family Home,720000,"$1,046,000",94002,,,,Sold,SAN MATEO
+62,2317 Hastings Dr,2.5,3.0,Belmont,"2,150 sqft","Nov 15, 2013","$1,300,000",37.506927,-122.29812,CA,Single-Family Home,1300000,"$1,354,000",94002,,,,Sold,SAN MATEO
+63,300 Davey Glen Rd #3809,2.0,3.0,Belmont,"1,404 sqft","Nov 15, 2013","$710,000",37.525707,-122.28667,CA,Condo,710000,"$719,000",94002,,,,Sold,SAN MATEO
+64,614 Chesterton Ave,1.0,3.0,Belmont,"1,080 sqft","Nov 15, 2013","$845,000",37.527294,-122.27306,CA,Single-Family Home,845000,"$899,000",94002,,,,Sold,SAN MATEO
+65,1004 Lassen Dr,2.0,3.0,Belmont,"1,610 sqft","Nov 13, 2013","$1,130,000",37.51119,-122.31824,CA,Single-Family Home,1130000,"$1,207,000",94002,,,,Sold,SAN MATEO
+66,1453 Fifth Ave,1.0,2.0,Belmont,"1,050 sqft","Nov 13, 2013","$800,000",37.516342,-122.27211,CA,Single-Family Home,800000,"$966,000",94002,,,,Sold,SAN MATEO
+67,2632 Sequoia Way,2.0,3.0,Belmont,"1,400 sqft","Nov 12, 2013","$1,045,000",37.519016,-122.309105,CA,Single-Family Home,1045000,"$1,087,000",94002,,,,Sold,SAN MATEO
+68,2945 Monte Cresta Dr,2.0,3.0,Belmont,"1,970 sqft","Nov 12, 2013","$1,250,000",37.52192,-122.310036,CA,Single-Family Home,1250000,"$1,330,000",94002,,,,Sold,SAN MATEO
+69,1522 Escondido Way,3.0,5.0,Belmont,"3,050 sqft","Nov 8, 2013","$1,936,000",37.513596,-122.2851,CA,Single-Family Home,1936000,"$2,392,000",94002,,,,Sold,SAN MATEO
+70,2801 Ponce Ave,2.0,3.0,Belmont,"1,670 sqft","Nov 5, 2013","$1,315,000",37.51458,-122.30374,CA,Single-Family Home,1315000,"$1,327,000",94002,,,,Sold,SAN MATEO
+71,3202 E Laurel Creek Rd,1.0,3.0,Belmont,"2,110 sqft","Nov 4, 2013","$1,110,000",37.522137,-122.31253,CA,Single-Family Home,1110000,"$1,244,000",94002,,,,Sold,SAN MATEO
+72,536 Middle Rd,2.5,3.0,Belmont,"3,110 sqft","Nov 4, 2013","$1,442,000",37.523415,-122.28271,CA,Single-Family Home,1442000,"$1,634,000",94002,,,,Sold,SAN MATEO
+73,2800 Wakefield Dr,2.5,4.0,Belmont,"2,500 sqft","Nov 4, 2013","$1,845,500",37.50703,-122.305374,CA,Single-Family Home,1845500,"$1,722,000",94002,,,,Sold,SAN MATEO
+74,3219 Adelaide Way,2.0,3.0,Belmont,"1,660 sqft","Nov 1, 2013","$1,000,000",37.51312,-122.32811,CA,Single-Family Home,1000000,"$1,239,000",94002,,,,Sold,SAN MATEO
+75,610 Middle Rd,2.0,3.0,Belmont,"1,640 sqft","Nov 1, 2013","$1,089,000",37.522522,-122.28068,CA,Single-Family Home,1089000,"$1,214,000",94002,,,,Sold,SAN MATEO
+76,2935 Belmont Woods Way,3.0,2.0,Belmont,"2,560 sqft","Nov 1, 2013","$1,225,000",37.510143,-122.32021,CA,Single-Family Home,1225000,"$1,222,000",94002,,,,Sold,SAN MATEO
+77,3637 Hillcrest Dr,2.5,4.0,Belmont,"1,830 sqft","Oct 30, 2013","$1,270,000",37.517395,-122.31847,CA,Single-Family Home,1270000,"$1,435,000",94002,,,,Sold,SAN MATEO
+78,2373 Lyall Way,2.5,3.0,Belmont,"1,700 sqft","Oct 29, 2013","$870,000",37.510323,-122.30093,CA,Condo,870000,"$955,000",94002,,,,Sold,SAN MATEO
+79,2321 Hastings Dr,2.5,3.0,Belmont,"2,150 sqft","Oct 28, 2013","$1,270,000",37.506893,-122.29794,CA,Single-Family Home,1270000,"$1,409,000",94002,,,,Sold,SAN MATEO
+80,1001 North Rd,2.5,4.0,Belmont,"2,150 sqft","Oct 25, 2013","$950,000",37.527557,-122.29099,CA,Single-Family Home,950000,"$1,361,000",94002,,,,Sold,SAN MATEO
+81,504 Dale View Ave,1.0,3.0,Belmont,"1,300 sqft","Oct 24, 2013","$730,000",37.52967,-122.285484,CA,Single-Family Home,730000,"$935,000",94002,,,,Sold,SAN MATEO
+82,1061 Granada St,1.0,3.0,Belmont,"1,190 sqft","Oct 24, 2013","$768,000",37.522423,-122.27237,CA,Single-Family Home,768000,"$964,000",94002,,,,Sold,SAN MATEO
+83,3309 Haskins Dr,2.5,4.0,Belmont,"2,980 sqft","Oct 22, 2013","$1,494,000",37.523643,-122.31128,CA,Single-Family Home,1494000,"$1,499,000",94002,,,,Sold,SAN MATEO
+84,529 Chesterton Ave,1.0,3.0,Belmont,"1,010 sqft","Oct 18, 2013","$833,000",37.527607,-122.276024,CA,Single-Family Home,833000,"$857,000",94002,,,,Sold,SAN MATEO
+85,1198 Villa Ave,1.0,3.0,Belmont,"1,240 sqft","Oct 18, 2013","$1,055,000",37.515255,-122.293655,CA,Single-Family Home,1055000,"$1,308,000",94002,,,,Sold,SAN MATEO
+86,2802 Ponce Ave,2.0,4.0,Belmont,"1,630 sqft","Oct 18, 2013","$1,240,000",37.514988,-122.30387,CA,Single-Family Home,1240000,"$1,238,000",94002,,,,Sold,SAN MATEO
+87,1608 Chula Vista Dr,2.0,2.0,Belmont,"1,920 sqft","Oct 18, 2013","$1,305,000",37.511227,-122.28657,CA,Single-Family Home,1305000,"$1,300,000",94002,,,,Sold,SAN MATEO
+88,1517 Folger Dr,3.0,5.0,Belmont,"2,700 sqft","Oct 18, 2013","$1,771,000",37.519318,-122.28822,CA,Single-Family Home,1771000,"$1,843,000",94002,,,,Sold,SAN MATEO
+89,2005 Mezes Ave,2.5,4.0,Belmont,"2,680 sqft","Oct 18, 2013","$1,360,000",37.522655,-122.29457,CA,Single-Family Home,1360000,"$1,597,000",94002,,,,Sold,SAN MATEO
+90,2011 Arbor Ave,2.0,3.0,Belmont,"1,930 sqft","Oct 16, 2013","$1,350,000",37.517704,-122.294464,CA,Single-Family Home,1350000,"$1,338,000",94002,,,,Sold,SAN MATEO
+91,819 Ruth Ave,1.0,3.0,Belmont,"1,260 sqft","Oct 15, 2013","$880,000",37.527916,-122.28808,CA,Single-Family Home,880000,"$997,000",94002,,,,Sold,SAN MATEO
+92,23 Willow Ln,2.5,3.0,Belmont,"2,030 sqft","Oct 15, 2013","$1,300,000",37.52129,-122.286285,CA,Single-Family Home,1300000,"$1,463,000",94002,,,,Sold,SAN MATEO
+93,1040 Continentals Way #2,3.5,3.0,Belmont,"2,490 sqft","Oct 15, 2013","$770,000",37.509678,-122.30458,CA,Condo,770000,"$979,000",94002,,,,Sold,SAN MATEO
+94,2501 Hastings Dr,2.5,3.0,Belmont,"2,210 sqft","Oct 11, 2013","$1,342,000",37.503548,-122.29521,CA,Single-Family Home,1342000,"$1,448,000",94002,,,,Sold,SAN MATEO
+95,1115 North Rd,1.0,2.0,Belmont,910 sqft,"Oct 10, 2013","$690,000",37.52601,-122.29092,CA,Single-Family Home,690000,"$881,000",94002,,,,Sold,SAN MATEO
+96,1617 Chula Vista Dr,3.0,4.0,Belmont,"2,160 sqft","Oct 8, 2013","$1,351,000",37.510654,-122.28675,CA,Single-Family Home,1351000,"$1,481,000",94002,,,,Sold,SAN MATEO
+97,1040 Continentals Way #17,3.5,3.0,Belmont,"1,997 sqft","Oct 8, 2013","$730,000",37.509678,-122.30458,CA,Condo,730000,"$1,198,000",94002,,,,Sold,SAN MATEO
+98,2038 Monroe Ave,1.0,2.0,Belmont,920 sqft,"Oct 8, 2013","$855,000",37.523502,-122.29982,CA,Single-Family Home,855000,"$1,007,000",94002,,,,Sold,SAN MATEO
+99,2012 Arbor Ave,2.0,3.0,Belmont,"1,680 sqft","Oct 7, 2013","$1,135,000",37.518246,-122.29432,CA,Single-Family Home,1135000,"$1,255,000",94002,,,,Sold,SAN MATEO
+100,935 Old County Rd #7,2.0,2.0,Belmont,"1,224 sqft","Oct 3, 2013","$620,000",37.52228,-122.27606,CA,Condo,620000,"$705,000",94002,,,,Sold,SAN MATEO
+101,18 Antique Forest Ln,2.5,3.0,Belmont,"2,090 sqft","Oct 3, 2013","$1,050,000",37.521767,-122.28011,CA,Single-Family Home,1050000,"$1,232,000",94002,,,,Sold,SAN MATEO
+102,38 Arroyo View Cir,2.5,3.0,Belmont,"1,270 sqft","Oct 1, 2013","$951,000",37.51112,-122.30537,CA,Single-Family Home,951000,"$1,225,000",94002,,,,Sold,SAN MATEO
+103,3858 W Naughton Ave,1.0,1.0,Belmont,490 sqft,"Sep 30, 2013","$835,000",37.51295,-122.320915,CA,Single-Family Home,835000,"$872,000",94002,,,,Sold,SAN MATEO
+104,850 South Rd,2.5,4.0,Belmont,"2,560 sqft","Sep 30, 2013","$1,550,000",37.520077,-122.27986,CA,Single-Family Home,1550000,"$1,538,000",94002,,,,Sold,SAN MATEO
+105,2841 San Juan Blvd,2.5,3.0,Belmont,870 sqft,"Sep 27, 2013","$925,000",37.513573,-122.308,CA,Single-Family Home,925000,"$1,021,000",94002,,,,Sold,SAN MATEO
+106,2506 Ralston Ave,3.5,4.0,Belmont,"3,040 sqft","Sep 27, 2013","$1,475,000",37.512806,-122.305046,CA,Single-Family Home,1475000,"$1,705,000",94002,,,,Sold,SAN MATEO
+107,2515 Hastings Dr,,,Belmont,,"Sep 26, 2013","$1,229,000",37.50293,-122.2944,CA,Single-Family Home,1229000,,94002,,,,Sold,SAN MATEO
+108,3410 Plateau Dr,2.0,3.0,Belmont,"1,660 sqft","Sep 26, 2013","$1,040,000",37.516376,-122.31703,CA,Single-Family Home,1040000,"$1,201,000",94002,,,,Sold,SAN MATEO
+109,1130 Academy Ave,1.5,2.0,Belmont,"1,330 sqft","Sep 26, 2013","$1,088,000",37.514984,-122.29316,CA,Single-Family Home,1088000,"$1,211,000",94002,,,,Sold,SAN MATEO
+110,1610 Courtland Rd,3.0,4.0,Belmont,"2,337 sqft","Sep 25, 2013","$1,890,000",37.51185,-122.27465,CA,Single-Family Home,1890000,"$2,075,000",94002,,,,Sold,SAN MATEO
+111,700 Live Oak Way #701,2.5,2.0,Belmont,"1,451 sqft","Sep 24, 2013","$821,000",37.508755,-122.30161,CA,Condo,821000,"$892,000",94002,,,,Sold,SAN MATEO
+112,3426 Beresford Ave,2.0,3.0,Belmont,"1,810 sqft","Sep 23, 2013","$1,250,000",37.51721,-122.31686,CA,Single-Family Home,1250000,"$1,194,000",94002,,,,Sold,SAN MATEO
+113,9 Debbie Ln,2.0,2.0,Belmont,"2,225 sqft","Sep 20, 2013","$1,300,000",37.521847,-122.28584,CA,Single-Family Home,1300000,"$1,312,000",94002,,,,Sold,SAN MATEO
+114,1702 Notre Dame Ave,3.0,3.0,Belmont,"1,810 sqft","Sep 20, 2013","$1,300,000",37.52273,-122.29061,CA,Single-Family Home,1300000,"$1,549,000",94002,,,,Sold,SAN MATEO
+115,120 Clipper Dr,2.5,3.0,Belmont,"1,330 sqft","Sep 13, 2013","$980,000",37.532566,-122.26895,CA,Single-Family Home,980000,"$1,028,000",94002,,,,Sold,SAN MATEO
+116,2610 Belmont Canyon Rd,2.5,4.0,Belmont,"2,355 sqft","Sep 12, 2013","$1,340,000",37.513714,-122.31,CA,Single-Family Home,1340000,"$1,418,000",94002,,,,Sold,SAN MATEO
+117,411 Cornish Way,2.0,3.0,Belmont,"1,505 sqft","Sep 11, 2013","$925,000",37.52633,-122.273834,CA,Single-Family Home,925000,"$984,000",94002,,,,Sold,SAN MATEO
+118,2 Somerset Ct,2.5,5.0,Belmont,"2,310 sqft","Sep 10, 2013","$1,850,000",37.50194,-122.30363,CA,Single-Family Home,1850000,"$1,851,000",94002,,,,Sold,SAN MATEO
+119,1101 Continentals Way #302,2.0,2.0,Belmont,"1,040 sqft","Sep 10, 2013","$500,000",37.51047,-122.30302,CA,Condo,500000,"$636,000",94002,,,,Sold,SAN MATEO
+120,841 Covington Rd,1.0,2.0,Belmont,900 sqft,"Sep 5, 2013","$845,000",37.513622,-122.29536,CA,Single-Family Home,845000,"$980,000",94002,,,,Sold,SAN MATEO
+121,50 Edgewood Pl,2.5,3.0,Belmont,"2,090 sqft","Sep 5, 2013","$989,000",37.525352,-122.28415,CA,Single-Family Home,989000,"$1,253,000",94002,,,,Sold,SAN MATEO
+122,2111 Lyon Ave,1.0,3.0,Belmont,"1,140 sqft","Sep 4, 2013","$915,000",37.521004,-122.300026,CA,Single-Family Home,915000,"$1,024,000",94002,,,,Sold,SAN MATEO
+123,2227 Semeria Ave,2.5,4.0,Belmont,"2,240 sqft","Sep 3, 2013","$1,210,000",37.519566,-122.30017,CA,Single-Family Home,1210000,"$1,407,000",94002,,,,Sold,SAN MATEO
+124,901 Chevy St,1.5,3.0,Belmont,"1,260 sqft","Aug 30, 2013","$1,151,000",37.5145,-122.289276,CA,Single-Family Home,1151000,"$1,107,000",94002,,,,Sold,SAN MATEO
+125,1012 Lassen Dr,2.0,3.0,Belmont,"1,420 sqft","Aug 30, 2013","$1,111,000",37.51086,-122.31827,CA,Single-Family Home,1111000,"$1,159,000",94002,,,,Sold,SAN MATEO
+126,2611 Coronet Blvd,1.0,3.0,Belmont,"1,230 sqft","Aug 30, 2013","$975,000",37.5121,-122.29782,CA,Single-Family Home,975000,"$1,070,000",94002,,,,Sold,SAN MATEO
+127,3222 Upper Lock Ave,2.0,3.0,Belmont,"1,520 sqft","Aug 29, 2013","$989,000",37.513756,-122.313866,CA,Single-Family Home,989000,"$1,152,000",94002,,,,Sold,SAN MATEO
+128,2304 Buena Vista Ave,1.0,2.0,Belmont,"1,210 sqft","Aug 29, 2013","$919,500",37.519215,-122.30228,CA,Single-Family Home,919500,"$1,047,000",94002,,,,Sold,SAN MATEO
+129,2716 Wakefield Dr,2.5,4.0,Belmont,"2,500 sqft","Aug 28, 2013","$1,300,000",37.50605,-122.30594,CA,Single-Family Home,1300000,"$1,674,000",94002,,,,Sold,SAN MATEO
+130,1915 Hillman Ave,2.5,3.0,Belmont,"1,770 sqft","Aug 28, 2013","$842,500",37.52168,-122.29444,CA,Single-Family Home,842500,"$1,240,000",94002,,,,Sold,SAN MATEO
+131,10 Somerset Ct,2.5,4.0,Belmont,"2,940 sqft","Aug 27, 2013","$1,499,500",37.50182,-122.30315,CA,Single-Family Home,1499500,"$1,745,000",94002,,,,Sold,SAN MATEO
+132,1817 Bayview Ave,1.0,2.0,Belmont,800 sqft,"Aug 23, 2013","$800,500",37.524796,-122.2962,CA,Single-Family Home,800500,"$826,000",94002,,,,Sold,SAN MATEO
+133,1817 Hillman Ave,3.0,3.0,Belmont,"1,420 sqft","Aug 23, 2013","$1,530,000",37.524677,-122.29208,CA,Single-Family Home,1530000,"$1,519,000",94002,,,,Sold,SAN MATEO
+134,300 Davey Glen Rd #3303,1.0,1.0,Belmont,725 sqft,"Aug 22, 2013","$381,000",37.525707,-122.28667,CA,Condo,381000,"$442,000",94002,,,,Sold,SAN MATEO
+135,1156 Village Dr,3.0,2.0,Belmont,"1,950 sqft","Aug 22, 2013","$780,000",37.507156,-122.293205,CA,Single-Family Home,780000,"$1,030,000",94002,,,,Sold,SAN MATEO
+136,104 Clipper Dr,2.5,3.0,Belmont,"1,480 sqft","Aug 21, 2013","$935,000",37.531994,-122.26895,CA,Single-Family Home,935000,"$1,093,000",94002,,,,Sold,SAN MATEO
+137,2421 Lincoln Ave,2.0,4.0,Belmont,"1,520 sqft","Aug 21, 2013","$1,353,000",37.51736,-122.30635,CA,Single-Family Home,1353000,"$1,359,000",94002,,,,Sold,SAN MATEO
+138,2326 Casa Bona Ave,2.0,3.0,Belmont,"1,780 sqft","Aug 19, 2013","$1,071,000",37.518127,-122.30098,CA,Single-Family Home,1071000,"$1,274,000",94002,,,,Sold,SAN MATEO
+139,1128 Ladera Way,2.0,3.0,Belmont,"1,290 sqft","Aug 16, 2013","$945,000",37.510056,-122.292046,CA,Single-Family Home,945000,"$1,195,000",94002,,,,Sold,SAN MATEO
+140,1724 Terrace Dr,,,Belmont,,"Aug 16, 2013","$315,000",37.51862,-122.29224,CA,Unknown,315000,,94002,,,,Sold,SAN MATEO
+141,2521 Hastings Dr,2.5,4.0,Belmont,"2,280 sqft","Aug 16, 2013","$1,388,000",37.502724,-122.294075,CA,Single-Family Home,1388000,"$1,560,000",94002,,,,Sold,SAN MATEO
+142,3830 Naughton Ave,3.5,4.0,Belmont,"2,050 sqft","Aug 16, 2013","$1,510,000",37.51357,-122.31959,CA,Single-Family Home,1510000,"$1,796,000",94002,,,,Sold,SAN MATEO
+143,35 Ralston Ranch Rd,3.5,4.0,Belmont,"2,730 sqft","Aug 15, 2013","$1,852,500",37.512962,-122.32271,CA,Single-Family Home,1852500,"$2,040,000",94002,,,,Sold,SAN MATEO
+144,840 Alameda De Las Pulgas,2.0,3.0,Belmont,"1,540 sqft","Aug 14, 2013","$1,002,000",37.513668,-122.2951,CA,Single-Family Home,1002000,"$1,213,000",94002,,,,Sold,SAN MATEO
+145,1006 Villa Ave,1.0,2.0,Belmont,"1,010 sqft","Aug 13, 2013","$900,000",37.51349,-122.29409,CA,Single-Family Home,900000,"$1,026,000",94002,,,,Sold,SAN MATEO
+146,610 Alameda De Las Pulgas,2.0,3.0,Belmont,"1,730 sqft","Aug 12, 2013","$1,010,000",37.51965,-122.29765,CA,Single-Family Home,1010000,"$1,117,000",94002,,,,Sold,SAN MATEO
+147,2206 Coronet Blvd,2.0,2.0,Belmont,"1,460 sqft","Aug 12, 2013","$1,136,000",37.518494,-122.299095,CA,Single-Family Home,1136000,"$1,149,000",94002,,,,Sold,SAN MATEO
+148,2515 Carmelita Ave,2.0,3.0,Belmont,"1,540 sqft","Aug 9, 2013","$1,030,000",37.51642,-122.301544,CA,Single-Family Home,1030000,"$1,149,000",94002,,,,Sold,SAN MATEO
+149,2308 Wooster Ave,3.0,4.0,Belmont,"2,160 sqft","Aug 7, 2013","$1,212,000",37.52104,-122.30573,CA,Single-Family Home,1212000,"$1,521,000",94002,,,,Sold,SAN MATEO
+150,3037 San Juan Blvd,3.0,3.0,Belmont,"1,040 sqft","Aug 7, 2013","$1,065,000",37.51866,-122.31493,CA,Single-Family Home,1065000,"$1,119,000",94002,,,,Sold,SAN MATEO
+151,9 Arroyo View Cir,2.5,3.0,Belmont,"1,520 sqft","Aug 7, 2013","$900,000",37.510464,-122.305786,CA,Single-Family Home,900000,"$1,201,000",94002,,,,Sold,SAN MATEO
+152,2100 Lyon Ave,2.0,3.0,Belmont,"1,790 sqft","Aug 7, 2013","$1,160,000",37.521797,-122.30044,CA,Single-Family Home,1160000,"$1,178,000",94002,,,,Sold,SAN MATEO
+153,3404 Beresford Ave,2.0,3.0,Belmont,"2,060 sqft","Aug 6, 2013","$1,231,500",37.51592,-122.315704,CA,Single-Family Home,1231500,"$1,265,000",94002,,,,Sold,SAN MATEO
+154,805 Covington Rd,1.0,3.0,Belmont,"1,640 sqft","Aug 6, 2013","$1,100,000",37.515644,-122.29651,CA,Single-Family Home,1100000,"$1,267,000",94002,,,,Sold,SAN MATEO
+155,917 North Rd,1.0,3.0,Belmont,"1,490 sqft","Jul 31, 2013","$950,000",37.527885,-122.29019,CA,Single-Family Home,950000,"$1,107,000",94002,,,,Sold,SAN MATEO
+156,2848 Alhambra Dr,3.5,4.0,Belmont,"3,370 sqft","Jul 31, 2013","$1,750,000",37.519176,-122.31323,CA,Single-Family Home,1750000,"$1,966,000",94002,,,,Sold,SAN MATEO
+157,313 Treasure Island Dr,2.5,2.0,Belmont,"1,400 sqft","Jul 30, 2013","$725,000",37.533276,-122.26912,CA,Single-Family Home,725000,"$931,000",94002,,,,Sold,SAN MATEO
+158,1120 Continentals Way,2.5,3.0,Belmont,"1,860 sqft","Jul 29, 2013","$804,000",37.51131,-122.30314,CA,Single-Family Home,804000,"$1,023,000",94002,,,,Sold,SAN MATEO
+159,875 Broadway,2.5,2.0,Belmont,820 sqft,"Jul 26, 2013","$700,000",37.517017,-122.27292,CA,Single-Family Home,700000,"$855,000",94002,,,,Sold,SAN MATEO
+160,1636 King St,2.0,3.0,Belmont,"1,680 sqft","Jul 26, 2013","$900,000",37.51282,-122.27014,CA,Single-Family Home,900000,"$1,130,000",94002,,,,Sold,SAN MATEO
+161,508 Hiller St,1.0,3.0,Belmont,"1,010 sqft","Jul 23, 2013","$760,000",37.527782,-122.27776,CA,Single-Family Home,760000,"$849,000",94002,,,,Sold,SAN MATEO
+162,3015 San Juan Blvd,2.5,3.0,Belmont,"2,440 sqft","Jul 22, 2013","$1,020,000",37.51709,-122.3141,CA,Single-Family Home,1020000,"$1,378,000",94002,,,,Sold,SAN MATEO
+163,2395 Lyall Way,2.5,3.0,Belmont,"1,660 sqft","Jul 19, 2013","$810,000",37.510323,-122.30093,CA,Condo,810000,"$947,000",94002,,,,Sold,SAN MATEO
+164,500 Live Oak Way #501,2.5,2.0,Belmont,"1,409 sqft","Jul 18, 2013","$810,000",37.508755,-122.30161,CA,Condo,810000,"$913,000",94002,,,,Sold,SAN MATEO
+165,1161 Academy Ave,1.0,3.0,Belmont,"1,330 sqft","Jul 18, 2013","$1,100,000",37.51547,-122.29366,CA,Single-Family Home,1100000,"$1,230,000",94002,,,,Sold,SAN MATEO
+166,2402 Read Ave,2.0,3.0,Belmont,"1,470 sqft","Jul 16, 2013","$885,000",37.5174,-122.29896,CA,Single-Family Home,885000,"$1,154,000",94002,,,,Sold,SAN MATEO
+167,2947 San Juan Blvd,1.0,3.0,Belmont,"1,010 sqft","Jul 16, 2013","$744,000",37.516167,-122.31299,CA,Single-Family Home,744000,"$894,000",94002,,,,Sold,SAN MATEO
+168,1000 Live Oak Way #1001,2.5,2.0,Belmont,"1,409 sqft","Jul 16, 2013","$810,000",37.508755,-122.30161,CA,Condo,810000,"$926,000",94002,,,,Sold,SAN MATEO
+169,1727 Valley View Ave,2.5,3.0,Belmont,"1,670 sqft","Jul 15, 2013","$1,650,000",37.519466,-122.29108,CA,Single-Family Home,1650000,"$1,740,000",94002,,,,Sold,SAN MATEO
+170,1725 Pine Knoll Dr,2.0,3.0,Belmont,"2,120 sqft","Jul 12, 2013","$968,000",37.52258,-122.29332,CA,Single-Family Home,968000,"$1,451,000",94002,,,,Sold,SAN MATEO
+171,22 Willow Ln,,,Belmont,"3,526 sqft","Jul 12, 2013","$1,730,000",37.520653,-122.287056,CA,Unknown,1730000,,94002,,,,Sold,SAN MATEO
+172,3227 Adelaide Way,2.0,4.0,Belmont,"1,480 sqft","Jul 12, 2013","$918,000",37.513695,-122.328445,CA,Single-Family Home,918000,"$1,165,000",94002,,,,Sold,SAN MATEO
+173,510 Mountain View Ave,1.0,3.0,Belmont,"1,010 sqft","Jul 11, 2013","$706,500",37.52764,-122.2818,CA,Single-Family Home,706500,"$864,000",94002,,,,Sold,SAN MATEO
+174,815 Covington Rd,2.0,3.0,Belmont,"1,900 sqft","Jul 10, 2013","$1,200,000",37.51521,-122.296295,CA,Single-Family Home,1200000,"$1,348,000",94002,,,,Sold,SAN MATEO
+175,1101 Continentals Way #105,2.0,2.0,Belmont,"1,040 sqft","Jul 10, 2013","$501,500",37.51047,-122.30302,CA,Condo,501500,"$653,000",94002,,,,Sold,SAN MATEO
+176,1923 Valdez Ave,2.0,3.0,Belmont,"1,910 sqft","Jul 10, 2013","$1,370,000",37.50842,-122.289566,CA,Single-Family Home,1370000,"$1,392,000",94002,,,,Sold,SAN MATEO
+177,1515 Winding Way,1.0,3.0,Belmont,"1,240 sqft","Jul 10, 2013","$1,450,000",37.52424,-122.288574,CA,Single-Family Home,1450000,"$1,398,000",94002,,,,Sold,SAN MATEO
+178,3639 Hillcrest Dr,2.5,4.0,Belmont,"1,830 sqft","Jul 10, 2013","$1,310,000",37.51735,-122.31828,CA,Single-Family Home,1310000,"$1,354,000",94002,,,,Sold,SAN MATEO
+179,2319 Casa Bona Ave,2.0,3.0,Belmont,"1,420 sqft","Jul 9, 2013","$972,500",37.51771,-122.30035,CA,Single-Family Home,972500,"$1,076,000",94002,,,,Sold,SAN MATEO
+180,2029 Mezes Ave,2.5,3.0,Belmont,"2,200 sqft","Jul 9, 2013","$1,700,000",37.521473,-122.29608,CA,Single-Family Home,1700000,"$1,687,000",94002,,,,Sold,SAN MATEO
+181,2216 Pullman Ave,2.0,3.0,Belmont,"1,495 sqft","Jul 5, 2013","$1,256,000",37.51235,-122.29761,CA,Single-Family Home,1256000,"$1,303,000",94002,,,,Sold,SAN MATEO
+182,221 Hiller St,1.0,3.0,Belmont,"1,010 sqft","Jul 5, 2013","$863,000",37.528828,-122.28343,CA,Single-Family Home,863000,"$902,000",94002,,,,Sold,SAN MATEO
+183,2041 Monroe Ave,2.0,4.0,Belmont,"1,940 sqft","Jul 3, 2013","$1,250,000",37.52304,-122.29991,CA,Single-Family Home,1250000,"$1,382,000",94002,,,,Sold,SAN MATEO
+184,2501 Sherborne Dr,2.5,4.0,Belmont,"3,250 sqft","Jul 3, 2013","$1,830,000",37.50207,-122.30424,CA,Single-Family Home,1830000,"$1,906,000",94002,,,,Sold,SAN MATEO
+185,1572 Sunnyslope Ave,2.0,3.0,Belmont,"2,220 sqft","Jul 2, 2013","$1,390,000",37.513905,-122.27209,CA,Single-Family Home,1390000,"$1,608,000",94002,,,,Sold,SAN MATEO
+186,108 Clipper Dr,2.5,3.0,Belmont,"1,330 sqft","Jul 2, 2013","$902,000",37.532135,-122.26895,CA,Single-Family Home,902000,"$1,026,000",94002,,,,Sold,SAN MATEO
+187,1561 Sunnyslope Ave,3.0,3.0,Belmont,"2,029 sqft","Jul 1, 2013","$1,320,000",37.514343,-122.27208,CA,Single-Family Home,1320000,"$1,621,000",94002,,,,Sold,SAN MATEO
+188,2015 Belle Monti Ave,2.5,3.0,Belmont,"2,010 sqft","Jun 28, 2013","$1,290,000",37.52235,-122.296555,CA,Single-Family Home,1290000,"$1,466,000",94002,,,,Sold,SAN MATEO
+189,1348 Sunnyslope Ave,3.0,4.0,Belmont,"2,770 sqft","Jun 28, 2013","$1,522,000",37.516144,-122.27541,CA,Single-Family Home,1522000,"$1,913,000",94002,,,,Sold,SAN MATEO
+190,2129 Shirley Rd,2.5,3.0,Belmont,"1,740 sqft","Jun 27, 2013","$1,050,000",37.52113,-122.30262,CA,Single-Family Home,1050000,"$1,251,000",94002,,,,Sold,SAN MATEO
+191,1250 North Rd,2.0,3.0,Belmont,"1,430 sqft","Jun 26, 2013","$898,000",37.52362,-122.287346,CA,Single-Family Home,898000,"$1,182,000",94002,,,,Sold,SAN MATEO
+192,796 Miramar Ter,2.0,3.0,Belmont,"1,940 sqft","Jun 26, 2013","$1,330,000",37.520233,-122.28346,CA,Single-Family Home,1330000,"$1,312,000",94002,,,,Sold,SAN MATEO
+193,1148 Villa Ave,1.0,3.0,Belmont,"1,260 sqft","Jun 25, 2013","$1,010,000",37.515026,-122.29488,CA,Single-Family Home,1010000,"$1,231,000",94002,,,,Sold,SAN MATEO

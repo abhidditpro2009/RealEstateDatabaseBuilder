@@ -1,0 +1,761 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95376,358 W Emerson Ave,1,2,Tracy,795 sqft,10-Mar-14,"$195,000 ",37.748543,-121.43113,CA,Single-Family Home,195000,"$208,000 ",,,,,Sold,SAN JOAQUIN
+95376,1401 W 12th St,4,5,Tracy,"2,289 sqft",7-Mar-14,"$315,000 ",37.741146,-121.44276,CA,Multi-Family,315000,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95304,1835 Bankston Dr,3,5,Tracy,"3,060 sqft",7-Mar-14,"$413,000 ",37.717262,-121.40796,CA,Single-Family Home,413000,"$462,000 ",,,,,Sold,SAN JOAQUIN
+95377,4467 Twin Creeks Ln,2.5,5,Tracy,"2,311 sqft",7-Mar-14,"$400,000 ",37.699097,-121.43844,CA,Single-Family Home,400000,"$412,000 ",,,,,Sold,SAN JOAQUIN
+95376,1501 Griffith Pl,2,4,Tracy,"1,527 sqft",7-Mar-14,"$304,000 ",37.74446,-121.44589,CA,Single-Family Home,304000,"$284,000 ",,,,,Sold,SAN JOAQUIN
+95376,1415 W 12th St,4,4,Tracy,"2,039 sqft",7-Mar-14,"$242,500 ",37.741123,-121.442986,CA,Multi-Family,242500,"$254,000 ",,,,,Sold,SAN JOAQUIN
+95377,2161 Bridle Creek Cir,3,4,Tracy,"2,312 sqft",7-Mar-14,"$380,000 ",37.749207,-121.464355,CA,Single-Family Home,380000,"$419,000 ",,,,,Sold,SAN JOAQUIN
+95376,1811 Mcpeak Ct,2,4,Tracy,"1,422 sqft",7-Mar-14,"$333,000 ",37.751076,-121.44959,CA,Single-Family Home,333000,"$310,000 ",,,,,Sold,SAN JOAQUIN
+95304,798 Harold Smith Dr,2.5,4,Tracy,"1,902 sqft",7-Mar-14,"$330,000 ",37.710964,-121.412994,CA,Single-Family Home,330000,"$399,000 ",,,,,Sold,SAN JOAQUIN
+95304,630 Yosemite Dr,2.5,3,Tracy,"2,240 sqft",6-Mar-14,"$452,500 ",37.72058,-121.41579,CA,Single-Family Home,452500,"$477,000 ",,,,,Sold,SAN JOAQUIN
+95376,1541 Teakwood Way,2.5,3,Tracy,"1,453 sqft",6-Mar-14,"$328,000 ",37.745117,-121.45187,CA,Single-Family Home,328000,"$352,000 ",,,,,Sold,SAN JOAQUIN
+95376,1573 Shadowood Ct,2.5,3,Tracy,"1,516 sqft",6-Mar-14,"$310,000 ",37.74544,-121.45265,CA,Single-Family Home,310000,"$338,000 ",,,,,Sold,SAN JOAQUIN
+95377,2864 Brantford Ct,2.5,4,Tracy,"1,705 sqft",5-Mar-14,"$330,000 ",37.70975,-121.43761,CA,Single-Family Home,330000,"$391,000 ",,,,,Sold,SAN JOAQUIN
+95376,420 Northgate Ct,2.5,3,Tracy,"1,878 sqft",5-Mar-14,"$287,000 ",37.759792,-121.43153,CA,Single-Family Home,287000,"$334,000 ",,,,,Sold,SAN JOAQUIN
+95304,1842 Placid Dr,2.5,4,Tracy,"2,408 sqft",5-Mar-14,"$412,000 ",37.71714,-121.414406,CA,Single-Family Home,412000,"$464,000 ",,,,,Sold,SAN JOAQUIN
+95376,150 Tioga Way,2,3,Tracy,"1,167 sqft",4-Mar-14,"$280,000 ",37.721363,-121.42281,CA,Single-Family Home,280000,"$286,000 ",,,,,Sold,SAN JOAQUIN
+95376,1201 Parkside Dr,2.5,4,Tracy,"1,945 sqft",4-Mar-14,"$380,000 ",37.723244,-121.44049,CA,Single-Family Home,380000,"$389,000 ",,,,,Sold,SAN JOAQUIN
+95376,142 E Beverly Pl,2,3,Tracy,"1,711 sqft",3-Mar-14,"$255,000 ",37.744976,-121.4237,CA,Single-Family Home,255000,"$275,000 ",,,,,Sold,SAN JOAQUIN
+95377,1950 Notre Dame Ct,2.5,4,Tracy,"2,410 sqft",3-Mar-14,"$369,000 ",37.7026,-121.45154,CA,Single-Family Home,369000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95304,4189 Rocky Point Ct,3,4,Tracy,"2,356 sqft",3-Mar-14,"$380,000 ",37.752537,-121.3581,CA,Single-Family Home,380000,"$514,000 ",,,,,Sold,SAN JOAQUIN
+95377,556 Park Haven Dr,2.5,4,Tracy,"2,226 sqft",28-Feb-14,"$180,000 ",37.72437,-121.467896,CA,Single-Family Home,180000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95376,160 Club House Way,2,4,Tracy,"1,806 sqft",28-Feb-14,"$336,000 ",37.731762,-121.439224,CA,Single-Family Home,336000,"$362,000 ",,,,,Sold,SAN JOAQUIN
+95376,1740 Birchwood Ln,2.5,4,Tracy,"2,498 sqft",28-Feb-14,"$405,000 ",37.72974,-121.44802,CA,Single-Family Home,405000,"$407,000 ",,,,,Sold,SAN JOAQUIN
+95376,245 San Simeon Way,3,4,Tracy,"2,373 sqft",27-Feb-14,"$380,000 ",37.73014,-121.42214,CA,Single-Family Home,380000,"$397,000 ",,,,,Sold,SAN JOAQUIN
+95304,1991 Superior Ct,3,4,Tracy,"3,054 sqft",27-Feb-14,"$488,000 ",37.71598,-121.416,CA,Single-Family Home,488000,"$546,000 ",,,,,Sold,SAN JOAQUIN
+95304,1801 Mckenna Dr,2.5,4,Tracy,"2,857 sqft",26-Feb-14,"$242,000 ",37.717575,-121.41003,CA,Single-Family Home,242000,"$458,000 ",,,,,Sold,SAN JOAQUIN
+95376,1955 Foxwood Ct,2.5,3,Tracy,"1,835 sqft",26-Feb-14,"$337,000 ",37.736767,-121.45182,CA,Single-Family Home,337000,"$378,000 ",,,,,Sold,SAN JOAQUIN
+95376,1441 Renown Dr,2.5,3,Tracy,"1,902 sqft",26-Feb-14,"$342,000 ",37.728596,-121.44237,CA,Single-Family Home,342000,"$373,000 ",,,,,Sold,SAN JOAQUIN
+95377,3164 Milton Jenson Ct,3,4,Tracy,"2,215 sqft",25-Feb-14,"$390,000 ",37.74594,-121.47425,CA,Single-Family Home,390000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95376,1340 Standridge Ct,1,3,Tracy,"1,242 sqft",25-Feb-14,"$285,000 ",37.75055,-121.44225,CA,Single-Family Home,285000,"$300,000 ",,,,,Sold,SAN JOAQUIN
+95377,1303 Montgomery Ln,2.5,5,Tracy,"2,130 sqft",25-Feb-14,"$363,000 ",37.74238,-121.47074,CA,Single-Family Home,363000,"$384,000 ",,,,,Sold,SAN JOAQUIN
+95304,23352 Hansen Rd,2,3,Tracy,"1,624 sqft",21-Feb-14,"$495,500 ",37.74387,-121.51243,CA,Single-Family Home,495500,"$452,000 ",,,,,Sold,SAN JOAQUIN
+95377,2262 Cabana Ln,2.5,4,Tracy,"2,277 sqft",21-Feb-14,"$370,000 ",37.72785,-121.45747,CA,Single-Family Home,370000,"$413,000 ",,,,,Sold,SAN JOAQUIN
+95376,317 W 21st St,1,2,Tracy,854 sqft,21-Feb-14,"$95,000 ",37.75177,-121.43032,CA,Single-Family Home,95000,"$196,000 ",,,,,Sold,SAN JOAQUIN
+95376,215 E Emerson Ave,1,2,Tracy,928 sqft,21-Feb-14,"$225,000 ",37.74892,-121.42247,CA,Single-Family Home,225000,"$244,000 ",,,,,Sold,SAN JOAQUIN
+95376,2909 Sunset Way,2,3,Tracy,"1,120 sqft",21-Feb-14,"$232,000 ",37.758465,-121.43384,CA,Single-Family Home,232000,"$257,000 ",,,,,Sold,SAN JOAQUIN
+95376,233 Alvarado Way,2,3,Tracy,"1,411 sqft",21-Feb-14,"$255,000 ",37.757637,-121.42097,CA,Single-Family Home,255000,"$284,000 ",,,,,Sold,SAN JOAQUIN
+95377,154 Ridgeview Dr,3,4,Tracy,"2,836 sqft",20-Feb-14,"$425,000 ",37.701874,-121.42461,CA,Single-Family Home,425000,"$487,000 ",,,,,Sold,SAN JOAQUIN
+95377,505 Belmont Ln,2.5,4,Tracy,"2,226 sqft",20-Feb-14,"$405,000 ",37.723663,-121.466606,CA,Single-Family Home,405000,"$416,000 ",,,,,Sold,SAN JOAQUIN
+95376,1235 Walnut St,1,2,Tracy,876 sqft,20-Feb-14,"$205,000 ",37.74131,-121.42876,CA,Single-Family Home,205000,"$197,000 ",,,,,Sold,SAN JOAQUIN
+95376,568 W 4th St,2.5,3,Tracy,"1,702 sqft",20-Feb-14,"$265,000 ",37.729263,-121.433655,CA,Single-Family Home,265000,"$337,000 ",,,,,Sold,SAN JOAQUIN
+95377,2559 Bennett Ct,4,5,Tracy,"3,251 sqft",19-Feb-14,"$490,000 ",37.7389,-121.46319,CA,Single-Family Home,490000,"$540,000 ",,,,,Sold,SAN JOAQUIN
+95377,869 Mason Ct,2.5,4,Tracy,"2,498 sqft",19-Feb-14,"$410,000 ",37.73698,-121.4703,CA,Single-Family Home,410000,"$436,000 ",,,,,Sold,SAN JOAQUIN
+95377,1347 Jonathan Pl,2,3,Tracy,"1,334 sqft",19-Feb-14,"$280,000 ",37.705563,-121.44113,CA,Single-Family Home,280000,"$315,000 ",,,,,Sold,SAN JOAQUIN
+95304,14220 Finck Rd,1,3,Tracy,"1,280 sqft",18-Feb-14,"$2,200,000 ",37.791073,-121.483765,CA,Farm/Ranch,2200000,"$691,000 ",,,,,Sold,SAN JOAQUIN
+95377,4229 Eveningside Ln,3,4,Tracy,"2,334 sqft",18-Feb-14,"$430,000 ",37.700966,-121.42102,CA,Single-Family Home,430000,"$457,000 ",,,,,Sold,SAN JOAQUIN
+95377,974 Tom Fowler Dr,2.5,4,Tracy,"2,029 sqft",18-Feb-14,"$388,000 ",37.704086,-121.437775,CA,Single-Family Home,388000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95376,1690 Treehaven Ln,2,4,Tracy,"1,785 sqft",14-Feb-14,"$352,000 ",37.74465,-121.447365,CA,Single-Family Home,352000,"$386,000 ",,,,,Sold,SAN JOAQUIN
+95376,45 S Central Ave,2.5,3,Tracy,"1,952 sqft",14-Feb-14,"$337,000 ",37.729588,-121.42599,CA,Single-Family Home,337000,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95377,2497 Greystone Dr,3,5,Tracy,"2,738 sqft",14-Feb-14,"$450,000 ",37.73423,-121.46212,CA,Single-Family Home,450000,"$466,000 ",,,,,Sold,SAN JOAQUIN
+95377,182 Diego Ln,2.5,4,Tracy,"2,689 sqft",14-Feb-14,"$420,000 ",37.730354,-121.45446,CA,Single-Family Home,420000,"$445,000 ",,,,,Sold,SAN JOAQUIN
+95377,263 Ridgeview Dr,3,5,Tracy,"2,817 sqft",14-Feb-14,"$415,000 ",37.70236,-121.42239,CA,Single-Family Home,415000,"$480,000 ",,,,,Sold,SAN JOAQUIN
+95377,4311 Mulberry Ct,3,5,Tracy,"2,555 sqft",14-Feb-14,"$385,000 ",37.70018,-121.428345,CA,Single-Family Home,385000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95304,8608 Waterwell Way,4,4,Tracy,"4,505 sqft",14-Feb-14,"$837,000 ",37.697075,-121.41131,CA,Single-Family Home,837000,"$860,000 ",,,,,Sold,SAN JOAQUIN
+95377,4444 Lindsey Ln,3,5,Tracy,"2,977 sqft",14-Feb-14,"$445,000 ",37.69939,-121.42361,CA,Single-Family Home,445000,"$473,000 ",,,,,Sold,SAN JOAQUIN
+95377,642 Morton Way,3,5,Tracy,"3,107 sqft",14-Feb-14,"$425,000 ",37.734962,-121.463356,CA,Single-Family Home,425000,"$494,000 ",,,,,Sold,SAN JOAQUIN
+95376,1760 Mcpeak Ct,2,4,Tracy,"1,527 sqft",14-Feb-14,"$330,000 ",37.750614,-121.448875,CA,Single-Family Home,330000,"$338,000 ",,,,,Sold,SAN JOAQUIN
+95376,1447 Blue Jay Ct,3,4,Tracy,"2,961 sqft",13-Feb-14,"$440,000 ",37.716415,-121.44286,CA,Single-Family Home,440000,"$470,000 ",,,,,Sold,SAN JOAQUIN
+95376,8 E Lowell Ave,1,3,Tracy,"1,424 sqft",12-Feb-14,"$269,000 ",37.747654,-121.425476,CA,Single-Family Home,269000,"$286,000 ",,,,,Sold,SAN JOAQUIN
+95376,1212 Walnut St,2,3,Tracy,"1,280 sqft",12-Feb-14,"$253,000 ",37.740986,-121.42835,CA,Single-Family Home,253000,"$237,000 ",,,,,Sold,SAN JOAQUIN
+95376,1411 Greenwillow Way,3,4,Tracy,"1,764 sqft",11-Feb-14,"$335,000 ",37.742992,-121.44837,CA,Single-Family Home,335000,"$348,000 ",,,,,Sold,SAN JOAQUIN
+95376,495 Allisha Ln,2,3,Tracy,"1,176 sqft",11-Feb-14,"$210,000 ",37.72296,-121.417854,CA,Single-Family Home,210000,"$266,000 ",,,,,Sold,SAN JOAQUIN
+95304,2634 Gilberte Ct,3.5,5,Tracy,"3,767 sqft",11-Feb-14,"$559,000 ",37.71194,-121.398636,CA,Single-Family Home,559000,"$614,000 ",,,,,Sold,SAN JOAQUIN
+95376,261 De Bord Dr,3,4,Tracy,"2,316 sqft",10-Feb-14,"$389,500 ",37.71483,-121.42242,CA,Single-Family Home,389500,"$439,000 ",,,,,Sold,SAN JOAQUIN
+95376,145 E Mount Diablo Ave,2.5,3,Tracy,"2,036 sqft",10-Feb-14,"$372,000 ",37.729256,-121.42395,CA,Single-Family Home,372000,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95376,80 Portola Way #105,1.5,3,Tracy,"1,280 sqft",7-Feb-14,"$145,000 ",37.75473,-121.42461,CA,Condo,145000,"$169,000 ",,,,,Sold,SAN JOAQUIN
+95376,130 E Grant Line Rd #6,1,2,Tracy,769 sqft,6-Feb-14,"$120,000 ",37.753124,-121.42337,CA,Condo,120000,"$135,000 ",,,,,Sold,SAN JOAQUIN
+95377,1370 Bluegrass Ln,2,3,Tracy,"1,334 sqft",6-Feb-14,"$309,500 ",37.70795,-121.442276,CA,Single-Family Home,309500,"$329,000 ",,,,,Sold,SAN JOAQUIN
+95377,2193 Misquez Ln,3,4,Tracy,"2,421 sqft",6-Feb-14,"$370,000 ",37.752216,-121.45515,CA,Single-Family Home,370000,"$440,000 ",,,,,Sold,SAN JOAQUIN
+95376,960 Peerless Ct,2.5,3,Tracy,"1,382 sqft",6-Feb-14,"$275,000 ",37.723248,-121.41751,CA,Single-Family Home,275000,"$295,000 ",,,,,Sold,SAN JOAQUIN
+95376,1990 Harvest Landing Ct,3,4,Tracy,"1,772 sqft",5-Feb-14,"$340,000 ",37.728935,-121.45265,CA,Single-Family Home,340000,"$359,000 ",,,,,Sold,SAN JOAQUIN
+95376,245 Pacheco Dr,2,3,Tracy,"1,325 sqft",5-Feb-14,"$292,500 ",37.728172,-121.42428,CA,Single-Family Home,292500,"$327,000 ",,,,,Sold,SAN JOAQUIN
+95376,551 Sir Lancelot Dr,2.5,3,Tracy,"1,714 sqft",5-Feb-14,"$333,000 ",37.72959,-121.4171,CA,Single-Family Home,333000,"$347,000 ",,,,,Sold,SAN JOAQUIN
+95377,2967 Dixon Ct,2.5,5,Tracy,"2,130 sqft",4-Feb-14,"$352,000 ",37.74248,-121.46987,CA,Single-Family Home,352000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95304,30920 S Bird Rd,3.5,3,Tracy,"3,837 sqft",4-Feb-14,"$875,000 ",37.672462,-121.36042,CA,Farm/Ranch,875000,"$667,000 ",,,,,Sold,SAN JOAQUIN
+95377,2577 Paul Poole Dr,3,4,Tracy,"2,527 sqft",4-Feb-14,"$430,500 ",37.73806,-121.463615,CA,Single-Family Home,430500,"$470,000 ",,,,,Sold,SAN JOAQUIN
+95376,11683 W Valpico Rd,2,3,Tracy,"1,118 sqft",4-Feb-14,"$255,000 ",37.71082,-121.449615,CA,Single-Family Home,255000,"$310,000 ",,,,,Sold,SAN JOAQUIN
+95304,27836 Gerhart Ln,3.5,5,Tracy,"3,590 sqft",31-Jan-14,"$440,000 ",37.702625,-121.40166,CA,Single-Family Home,440000,"$576,000 ",,,,,Sold,SAN JOAQUIN
+95391,15440 Altamont Pass Rd,2,3,Tracy,"1,296 sqft",31-Jan-14,"$320,000 ",37.746567,-121.59584,CA,Farm/Ranch,320000,"$438,000 ",,,,,Sold,ALAMEDA
+95377,2135 Pedro Ln,3.5,5,Tracy,"3,089 sqft",31-Jan-14,"$450,000 ",37.73009,-121.45532,CA,Single-Family Home,450000,"$521,000 ",,,,,Sold,SAN JOAQUIN
+95376,1611 Bayberry Ln,2,4,Tracy,"1,720 sqft",31-Jan-14,"$285,000 ",37.728264,-121.44549,CA,Single-Family Home,285000,"$361,000 ",,,,,Sold,SAN JOAQUIN
+95376,1614 Parker Ave,1,2,Tracy,"1,134 sqft",31-Jan-14,"$210,000 ",37.74659,-121.429634,CA,Single-Family Home,210000,"$207,000 ",,,,,Sold,SAN JOAQUIN
+95377,446 Barcelona Dr,2.5,4,Tracy,"2,268 sqft",31-Jan-14,"$387,000 ",37.73318,-121.45658,CA,Single-Family Home,387000,"$404,000 ",,,,,Sold,SAN JOAQUIN
+95377,420 Keys Ct,4,5,Tracy,"4,098 sqft",31-Jan-14,"$440,000 ",37.732525,-121.462395,CA,Single-Family Home,440000,"$552,000 ",,,,,Sold,SAN JOAQUIN
+95377,60 Wisteria Ln,2.5,4,Tracy,"2,513 sqft",31-Jan-14,"$420,000 ",37.698963,-121.426186,CA,Single-Family Home,420000,"$439,000 ",,,,,Sold,SAN JOAQUIN
+95376,2817 Buthmann Ave,2,3,Tracy,"1,152 sqft",31-Jan-14,"$271,500 ",37.75769,-121.432556,CA,Single-Family Home,271500,"$252,000 ",,,,,Sold,SAN JOAQUIN
+95376,1021 Tarrogana Dr,2,3,Tracy,"1,482 sqft",31-Jan-14,"$290,000 ",37.7227,-121.425026,CA,Single-Family Home,290000,"$321,000 ",,,,,Sold,SAN JOAQUIN
+95304,1713 Saint Emillion Ct,2,4,Tracy,"2,575 sqft",31-Jan-14,"$415,000 ",37.71702,-121.39875,CA,Single-Family Home,415000,"$485,000 ",,,,,Sold,SAN JOAQUIN
+95376,1296 Eagle St,3,4,Tracy,"2,582 sqft",31-Jan-14,"$400,000 ",37.717304,-121.44123,CA,Single-Family Home,400000,"$463,000 ",,,,,Sold,SAN JOAQUIN
+95304,31900 S Bird Rd,2.5,3,Tracy,"3,140 sqft",30-Jan-14,"$250,000 ",37.66319,-121.3608,CA,Farm/Ranch,250000,"$538,000 ",,,,,Sold,SAN JOAQUIN
+95376,2178 Wellington Dr,2.5,3,Tracy,"2,045 sqft",30-Jan-14,"$295,000 ",37.715206,-121.43812,CA,Single-Family Home,295000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95376,208 Alvarado Way,1.5,3,Tracy,"1,270 sqft",30-Jan-14,"$245,000 ",37.757908,-121.42274,CA,Single-Family Home,245000,"$266,000 ",,,,,Sold,SAN JOAQUIN
+95377,788 Sparrow Ct,2,4,Tracy,"1,878 sqft",30-Jan-14,"$385,000 ",37.72225,-121.46398,CA,Single-Family Home,385000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95377,2286 Sabrina Way,2,4,Tracy,"1,850 sqft",30-Jan-14,"$341,500 ",37.74389,-121.45832,CA,Single-Family Home,341500,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95377,919 Cherry Blossom Ln,3,4,Tracy,"2,668 sqft",30-Jan-14,"$430,000 ",37.70296,-121.437386,CA,Single-Family Home,430000,"$438,000 ",,,,,Sold,SAN JOAQUIN
+95376,2605 Nivens St,3,4,Tracy,"2,077 sqft",30-Jan-14,"$370,000 ",37.755157,-121.452774,CA,Single-Family Home,370000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95376,1320 Blair Ave,3,4,Tracy,"2,723 sqft",30-Jan-14,"$371,000 ",37.756462,-121.440704,CA,Single-Family Home,371000,"$407,000 ",,,,,Sold,SAN JOAQUIN
+95376,552 W 4th St,2,3,Tracy,"1,282 sqft",30-Jan-14,"$247,000 ",37.7303,-121.433365,CA,Single-Family Home,247000,"$259,000 ",,,,,Sold,SAN JOAQUIN
+95377,2593 Kinsey Way,3,4,Tracy,"3,107 sqft",29-Jan-14,"$439,000 ",37.7335,-121.46382,CA,Single-Family Home,439000,"$485,000 ",,,,,Sold,SAN JOAQUIN
+95376,74 Elysian Ct,2.5,3,Tracy,"1,511 sqft",28-Jan-14,"$320,000 ",37.722763,-121.42652,CA,Single-Family Home,320000,"$340,000 ",,,,,Sold,SAN JOAQUIN
+95376,868 Iberis Way,3,5,Tracy,"2,662 sqft",28-Jan-14,"$381,000 ",37.715584,-121.43723,CA,Single-Family Home,381000,"$442,000 ",,,,,Sold,SAN JOAQUIN
+95377,900 Marie Angela Dr,3,4,Tracy,"2,199 sqft",28-Jan-14,"$395,000 ",37.722355,-121.459946,CA,Single-Family Home,395000,"$421,000 ",,,,,Sold,SAN JOAQUIN
+95377,2784 Redbridge Rd,2.5,3,Tracy,"3,231 sqft",28-Jan-14,"$500,000 ",37.71971,-121.46779,CA,Single-Family Home,500000,"$560,000 ",,,,,Sold,SAN JOAQUIN
+95376,540 W Carlton Way,1,3,Tracy,994 sqft,27-Jan-14,"$165,000 ",37.746086,-121.433945,CA,Single-Family Home,165000,"$214,000 ",,,,,Sold,SAN JOAQUIN
+95377,2255 Jenni Ln,2.5,3,Tracy,"2,008 sqft",27-Jan-14,"$305,000 ",37.749214,-121.457634,CA,Single-Family Home,305000,"$393,000 ",,,,,Sold,SAN JOAQUIN
+95377,437 Glenbriar Cir,2,3,Tracy,"1,421 sqft",24-Jan-14,"$330,000 ",37.704014,-121.422935,CA,Single-Family Home,330000,"$363,000 ",,,,,Sold,SAN JOAQUIN
+95376,1675 Sequoia Blvd,3,4,Tracy,"2,210 sqft",24-Jan-14,"$350,000 ",37.739124,-121.446846,CA,Single-Family Home,350000,"$425,000 ",,,,,Sold,SAN JOAQUIN
+95377,160 Faith Ln,2.5,4,Tracy,"2,268 sqft",24-Jan-14,"$413,000 ",37.73014,-121.459335,CA,Single-Family Home,413000,"$446,000 ",,,,,Sold,SAN JOAQUIN
+95376,921 Sultana Dr,1,3,Tracy,"1,000 sqft",24-Jan-14,"$160,000 ",37.723495,-121.42165,CA,Single-Family Home,160000,"$211,000 ",,,,,Sold,SAN JOAQUIN
+95376,312 Ramona Way,3,5,Tracy,"2,248 sqft",24-Jan-14,"$300,000 ",37.76063,-121.42133,CA,Single-Family Home,300000,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95376,246 E Highland Ave,1,2,Tracy,801 sqft,23-Jan-14,"$76,500 ",37.74155,-121.42133,CA,Single-Family Home,76500,"$202,000 ",,,,,Sold,SAN JOAQUIN
+95377,2180 Mary Alice Way,3,5,Tracy,"2,421 sqft",23-Jan-14,"$420,000 ",37.7514,-121.456505,CA,Single-Family Home,420000,"$471,000 ",,,,,Sold,SAN JOAQUIN
+95376,1850 Mcpeak Ct,1.5,3,Tracy,"1,087 sqft",23-Jan-14,"$250,000 ",37.75064,-121.45042,CA,Single-Family Home,250000,"$270,000 ",,,,,Sold,SAN JOAQUIN
+95304,1490 Eastlake Cir,3.5,5,Tracy,"2,912 sqft",23-Jan-14,"$414,000 ",37.71453,-121.41362,CA,Single-Family Home,414000,"$477,000 ",,,,,Sold,SAN JOAQUIN
+95376,575 W Emerson Ave,2,3,Tracy,"1,435 sqft",23-Jan-14,"$250,000 ",37.748924,-121.43475,CA,Single-Family Home,250000,"$271,000 ",,,,,Sold,SAN JOAQUIN
+95376,138 Laguna Dr,2,3,Tracy,"1,246 sqft",22-Jan-14,"$212,000 ",37.759754,-121.42453,CA,Single-Family Home,212000,"$270,000 ",,,,,Sold,SAN JOAQUIN
+95376,2790 Lincoln Blvd,2,3,Tracy,"1,554 sqft",22-Jan-14,"$310,000 ",37.75668,-121.443115,CA,Single-Family Home,310000,"$306,000 ",,,,,Sold,SAN JOAQUIN
+95376,451 Pombo Square Dr,3,4,Tracy,"1,984 sqft",22-Jan-14,"$365,000 ",37.760265,-121.41769,CA,Single-Family Home,365000,"$377,000 ",,,,,Sold,SAN JOAQUIN
+95376,1183 Terry Ln,2.5,3,Tracy,"2,045 sqft",22-Jan-14,"$323,500 ",37.715042,-121.43946,CA,Single-Family Home,323500,"$360,000 ",,,,,Sold,SAN JOAQUIN
+95377,3761 Norfolk Dr,2.5,4,Tracy,"2,029 sqft",22-Jan-14,"$325,000 ",37.70386,-121.438675,CA,Single-Family Home,325000,"$390,000 ",,,,,Sold,SAN JOAQUIN
+95376,1220 Brighton Dr,2.5,4,Tracy,"1,945 sqft",17-Jan-14,"$359,000 ",37.721657,-121.44084,CA,Single-Family Home,359000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95377,2645 Castle Haven Ct,3.5,5,Tracy,"3,308 sqft",17-Jan-14,"$518,000 ",37.724117,-121.465355,CA,Single-Family Home,518000,"$614,000 ",,,,,Sold,SAN JOAQUIN
+95377,2268 Golden Leaf Ln,2.5,4,Tracy,"2,678 sqft",17-Jan-14,"$309,000 ",37.725864,-121.45768,CA,Single-Family Home,309000,"$426,000 ",,,,,Sold,SAN JOAQUIN
+95304,1867 Bayonne Ct,2.5,3,Tracy,"2,629 sqft",17-Jan-14,"$370,000 ",37.716995,-121.402245,CA,Single-Family Home,370000,"$474,000 ",,,,,Sold,SAN JOAQUIN
+95377,4228 Roxbury Dr,3,5,Tracy,"2,451 sqft",17-Jan-14,"$386,000 ",37.700523,-121.448616,CA,Single-Family Home,386000,"$424,000 ",,,,,Sold,SAN JOAQUIN
+95376,553 Montclair Ln,3,4,Tracy,"2,316 sqft",17-Jan-14,"$415,000 ",37.71588,-121.416916,CA,Single-Family Home,415000,"$454,000 ",,,,,Sold,SAN JOAQUIN
+95376,1555 Monterey Ct,2.5,3,Tracy,"2,056 sqft",16-Jan-14,"$355,000 ",37.71881,-121.43656,CA,Single-Family Home,355000,"$389,000 ",,,,,Sold,SAN JOAQUIN
+95377,996 Sunnyside Ln,2,3,Tracy,"2,093 sqft",16-Jan-14,"$360,000 ",37.700768,-121.438866,CA,Single-Family Home,360000,"$417,000 ",,,,,Sold,SAN JOAQUIN
+95304,1021 Tulloch Dr,3,4,Tracy,"3,339 sqft",16-Jan-14,"$435,000 ",37.71783,-121.40969,CA,Single-Family Home,435000,"$487,000 ",,,,,Sold,SAN JOAQUIN
+95377,900 Belmont Ln,3.5,4,Tracy,"3,485 sqft",16-Jan-14,"$500,000 ",37.721016,-121.468895,CA,Single-Family Home,500000,"$602,000 ",,,,,Sold,SAN JOAQUIN
+95376,221 Coronado Way,2,3,Tracy,"1,222 sqft",14-Jan-14,"$256,000 ",37.756447,-121.42215,CA,Single-Family Home,256000,"$273,000 ",,,,,Sold,SAN JOAQUIN
+95376,431 W Central Ave,2,2,Tracy,"1,070 sqft",10-Jan-14,"$222,000 ",37.7149,-121.43191,CA,Single-Family Home,222000,"$296,000 ",,,,,Sold,SAN JOAQUIN
+95377,4537 Bonsai Ave,2.5,3,Tracy,"1,858 sqft",10-Jan-14,"$345,000 ",37.69855,-121.43021,CA,Single-Family Home,345000,"$379,000 ",,,,,Sold,SAN JOAQUIN
+95304,641 Tulare Ct,2.5,5,Tracy,"2,499 sqft",10-Jan-14,"$390,000 ",37.717587,-121.41584,CA,Single-Family Home,390000,"$474,000 ",,,,,Sold,SAN JOAQUIN
+95376,352 Fairmont Ct,3,4,Tracy,"2,316 sqft",10-Jan-14,"$360,000 ",37.715427,-121.42083,CA,Single-Family Home,360000,"$418,000 ",,,,,Sold,SAN JOAQUIN
+95377,841 Saffron Dr,3,5,Tracy,"2,564 sqft",9-Jan-14,"$424,000 ",37.73676,-121.459984,CA,Single-Family Home,424000,"$461,000 ",,,,,Sold,SAN JOAQUIN
+95377,2715 Redbridge Rd,2,2,Tracy,"1,235 sqft",9-Jan-14,"$290,000 ",37.72058,-121.466835,CA,Single-Family Home,290000,"$330,000 ",,,,,Sold,SAN JOAQUIN
+95376,2660 Golden Springs Dr,3,4,Tracy,"2,077 sqft",9-Jan-14,"$310,000 ",37.75562,-121.45039,CA,Single-Family Home,310000,"$357,000 ",,,,,Sold,SAN JOAQUIN
+95376,1145 Juan Jose Ln,2.5,4,Tracy,"2,223 sqft",8-Jan-14,"$350,000 ",37.715397,-121.43923,CA,Single-Family Home,350000,"$403,000 ",,,,,Sold,SAN JOAQUIN
+95376,822 Willow Park Ln,2.5,4,Tracy,"2,147 sqft",8-Jan-14,"$347,500 ",37.724182,-121.439125,CA,Single-Family Home,347500,"$386,000 ",,,,,Sold,SAN JOAQUIN
+95376,2625 Christy St,2,4,Tracy,"1,796 sqft",8-Jan-14,"$274,000 ",37.711857,-121.43851,CA,Single-Family Home,274000,"$365,000 ",,,,,Sold,SAN JOAQUIN
+95376,2640 Lincoln Blvd,2,3,Tracy,"1,552 sqft",7-Jan-14,"$295,000 ",37.755627,-121.4433,CA,Single-Family Home,295000,"$319,000 ",,,,,Sold,SAN JOAQUIN
+95376,277 W 20th St,2,3,Tracy,"1,574 sqft",7-Jan-14,"$235,000 ",37.751106,-121.42971,CA,Single-Family Home,235000,"$253,000 ",,,,,Sold,SAN JOAQUIN
+95377,1413 Whittingham Dr,2.5,4,Tracy,"2,029 sqft",7-Jan-14,"$375,000 ",37.703777,-121.44231,CA,Single-Family Home,375000,"$415,000 ",,,,,Sold,SAN JOAQUIN
+95376,1765 Tahoe Cir,3,4,Tracy,"2,223 sqft",7-Jan-14,"$352,000 ",37.720837,-121.43858,CA,Single-Family Home,352000,"$409,000 ",,,,,Sold,SAN JOAQUIN
+95377,2215 Holder Ln,2.5,4,Tracy,"2,428 sqft",3-Jan-14,"$400,000 ",37.747864,-121.45727,CA,Single-Family Home,400000,"$436,000 ",,,,,Sold,SAN JOAQUIN
+95376,1520 Cuneo Ct,2,3,Tracy,"1,389 sqft",3-Jan-14,"$275,000 ",37.756878,-121.44403,CA,Single-Family Home,275000,"$313,000 ",,,,,Sold,SAN JOAQUIN
+95377,547 Barcelona Dr,2.5,4,Tracy,"2,267 sqft",3-Jan-14,"$395,000 ",37.733994,-121.45709,CA,Single-Family Home,395000,"$451,000 ",,,,,Sold,SAN JOAQUIN
+95376,1322 Evergreen Way,2.5,3,Tracy,"1,572 sqft",3-Jan-14,"$329,000 ",37.74219,-121.447105,CA,Single-Family Home,329000,"$285,000 ",,,,,Sold,SAN JOAQUIN
+95304,8101 W Depot Master Dr,3.5,5,Tracy,"3,017 sqft",2-Jan-14,"$520,000 ",37.698383,-121.4059,CA,Single-Family Home,520000,"$542,000 ",,,,,Sold,SAN JOAQUIN
+95377,3871 Kelley Mist Ln,3,4,Tracy,"2,447 sqft",31-Dec-13,"$400,000 ",37.70313,-121.425285,CA,Single-Family Home,400000,"$422,000 ",,,,,Sold,SAN JOAQUIN
+95376,391 Jaeger St,3,4,Tracy,"1,859 sqft",31-Dec-13,"$263,000 ",37.732574,-121.420006,CA,Single-Family Home,263000,"$339,000 ",,,,,Sold,SAN JOAQUIN
+95376,1930 Birchwood Ct,3,4,Tracy,"1,772 sqft",31-Dec-13,"$220,000 ",37.729687,-121.45151,CA,Single-Family Home,220000,"$359,000 ",,,,,Sold,SAN JOAQUIN
+95377,2009 Foothill Vista Dr,2.5,4,Tracy,"2,467 sqft",31-Dec-13,"$378,000 ",37.750614,-121.460495,CA,Single-Family Home,378000,"$448,000 ",,,,,Sold,SAN JOAQUIN
+95376,16 E 2nd St,1,2,Tracy,"1,023 sqft",31-Dec-13,"$135,000 ",37.73157,-121.42503,CA,Single-Family Home,135000,"$202,000 ",,,,,Sold,SAN JOAQUIN
+95376,135 Cedar Mountain Dr,3,4,Tracy,"2,373 sqft",31-Dec-13,"$335,000 ",37.725872,-121.42437,CA,Single-Family Home,335000,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95377,205 La Monte Ln,2.5,4,Tracy,"1,969 sqft",31-Dec-13,"$356,000 ",37.707268,-121.42303,CA,Single-Family Home,356000,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95376,499 Krider Ct,3,4,Tracy,"1,859 sqft",31-Dec-13,"$330,000 ",37.734295,-121.41805,CA,Single-Family Home,330000,"$334,000 ",,,,,Sold,SAN JOAQUIN
+95376,979 Palm Cir,1,2,Tracy,800 sqft,30-Dec-13,"$55,000 ",37.737534,-121.4401,CA,Apartment/Condo/Townhouse,55000,"$92,000 ",,,,,Sold,SAN JOAQUIN
+95377,593 Trestle Glen Ct,3,4,Tracy,"3,133 sqft",30-Dec-13,"$676,000 ",37.708214,-121.41691,CA,Single-Family Home,676000,"$682,000 ",,,,,Sold,SAN JOAQUIN
+95376,435 W 9th St,2,3,Tracy,"1,379 sqft",30-Dec-13,"$210,000 ",37.737545,-121.432365,CA,Single-Family Home,210000,"$277,000 ",,,,,Sold,SAN JOAQUIN
+95376,935 Menay Dr,2.5,4,Tracy,"2,272 sqft",30-Dec-13,"$350,000 ",37.72209,-121.43798,CA,Single-Family Home,350000,"$393,000 ",,,,,Sold,SAN JOAQUIN
+95376,1120 Candlewood Dr,3,4,Tracy,"2,046 sqft",30-Dec-13,"$346,000 ",37.722366,-121.43849,CA,Single-Family Home,346000,"$369,000 ",,,,,Sold,SAN JOAQUIN
+95377,3891 Kelley Mist Ln,3,5,Tracy,"2,977 sqft",30-Dec-13,"$425,000 ",37.702732,-121.4253,CA,Single-Family Home,425000,"$508,000 ",,,,,Sold,SAN JOAQUIN
+95376,1616 Hummingbird Way,,,Tracy,,27-Dec-13,"$445,000 ",37.71672,-121.445145,CA,Lot/Land,445000,,,,,,Sold,SAN JOAQUIN
+95377,4770 Twin Oaks Ct,3,4,Tracy,"2,537 sqft",27-Dec-13,"$412,500 ",37.69674,-121.435005,CA,Single-Family Home,412500,"$426,000 ",,,,,Sold,SAN JOAQUIN
+95376,1645 Parkside Dr,2,3,Tracy,"1,165 sqft",26-Dec-13,"$260,000 ",37.722633,-121.44607,CA,Single-Family Home,260000,"$293,000 ",,,,,Sold,SAN JOAQUIN
+95304,1252 Tulloch Dr,2.5,4,Tracy,"2,630 sqft",26-Dec-13,"$460,000 ",37.717327,-121.4064,CA,Single-Family Home,460000,"$468,000 ",,,,,Sold,SAN JOAQUIN
+95304,1234 Awahnee Ct,3.5,4,Tracy,"2,756 sqft",24-Dec-13,"$445,000 ",37.721222,-121.41533,CA,Single-Family Home,445000,"$553,000 ",,,,,Sold,SAN JOAQUIN
+95376,1294 Sunpeak Ln,2.5,3,Tracy,"1,566 sqft",24-Dec-13,"$320,000 ",37.742435,-121.44987,CA,Single-Family Home,320000,"$365,000 ",,,,,Sold,SAN JOAQUIN
+95377,2998 Jackson Ave,3,3,Tracy,"2,527 sqft",24-Dec-13,"$400,000 ",37.735817,-121.471275,CA,Single-Family Home,400000,"$461,000 ",,,,,Sold,SAN JOAQUIN
+95376,2970 Golden Springs Dr,3,4,Tracy,"2,077 sqft",24-Dec-13,"$350,000 ",37.757683,-121.45048,CA,Single-Family Home,350000,"$366,000 ",,,,,Sold,SAN JOAQUIN
+95376,1921 S Central Ave,2,3,Tracy,"1,669 sqft",24-Dec-13,"$305,000 ",37.716354,-121.42837,CA,Single-Family Home,305000,"$347,000 ",,,,,Sold,SAN JOAQUIN
+95377,3913 Middlefield Dr,2.5,4,Tracy,"2,410 sqft",23-Dec-13,"$320,000 ",37.70286,-121.44679,CA,Single-Family Home,320000,"$409,000 ",,,,,Sold,SAN JOAQUIN
+95376,551 Leamon St,2.5,4,Tracy,"1,629 sqft",23-Dec-13,"$290,000 ",37.73245,-121.41724,CA,Single-Family Home,290000,"$335,000 ",,,,,Sold,SAN JOAQUIN
+95376,100 Silkwood Ln,2,3,Tracy,"1,525 sqft",20-Dec-13,"$310,000 ",37.71517,-121.42683,CA,Single-Family Home,310000,"$328,000 ",,,,,Sold,SAN JOAQUIN
+95377,2969 Jackson Ave,2.5,4,Tracy,"2,176 sqft",20-Dec-13,"$355,000 ",37.736267,-121.470726,CA,Single-Family Home,355000,"$424,000 ",,,,,Sold,SAN JOAQUIN
+95376,520 Sir Lancelot Dr,2.5,3,Tracy,"1,714 sqft",20-Dec-13,"$300,000 ",37.729122,-121.41769,CA,Single-Family Home,300000,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95377,3982 Middlefield Dr,3.5,5,Tracy,"3,128 sqft",20-Dec-13,"$420,000 ",37.70217,-121.446236,CA,Single-Family Home,420000,"$496,000 ",,,,,Sold,SAN JOAQUIN
+95377,652 Summer Ln,2.5,4,Tracy,"2,285 sqft",20-Dec-13,"$395,000 ",37.735016,-121.46034,CA,Single-Family Home,395000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95376,795 Teton Ln,2,3,Tracy,"1,245 sqft",20-Dec-13,"$280,000 ",37.72389,-121.44652,CA,Single-Family Home,280000,"$309,000 ",,,,,Sold,SAN JOAQUIN
+95376,137 E 6th St,1,3,Tracy,"1,568 sqft",20-Dec-13,"$156,000 ",37.7357,-121.422005,CA,Single-Family Home,156000,"$210,000 ",,,,,Sold,SAN JOAQUIN
+95377,1595 Gloria Cir,3,4,Tracy,"2,158 sqft",20-Dec-13,"$365,000 ",37.744675,-121.475815,CA,Single-Family Home,365000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95377,761 Glencreek Dr,2.5,4,Tracy,"1,705 sqft",20-Dec-13,"$320,000 ",37.710293,-121.436424,CA,Single-Family Home,320000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95377,2352 Del Mar Ct,3,4,Tracy,"2,540 sqft",20-Dec-13,"$400,000 ",37.748783,-121.4595,CA,Single-Family Home,400000,"$471,000 ",,,,,Sold,SAN JOAQUIN
+95376,105 Pereira Ave,2,3,Tracy,"1,632 sqft",20-Dec-13,"$265,000 ",37.75046,-121.424805,CA,Single-Family Home,265000,"$281,000 ",,,,,Sold,SAN JOAQUIN
+95377,1921 Heather Ct,2,3,Tracy,"1,664 sqft",20-Dec-13,"$321,000 ",37.75028,-121.45409,CA,Single-Family Home,321000,"$361,000 ",,,,,Sold,SAN JOAQUIN
+95377,3786 Newbury Dr,2.5,4,Tracy,"2,029 sqft",20-Dec-13,"$373,500 ",37.703583,-121.44081,CA,Single-Family Home,373500,"$397,000 ",,,,,Sold,SAN JOAQUIN
+95376,1392 Hampton Ct,2,4,Tracy,"1,860 sqft",20-Dec-13,"$330,000 ",37.719482,-121.44195,CA,Single-Family Home,330000,"$364,000 ",,,,,Sold,SAN JOAQUIN
+95304,10607 W Larch Rd,2,4,Tracy,"1,360 sqft",20-Dec-13,"$60,000 ",37.765633,-121.43604,CA,Farm/Ranch,60000,"$316,000 ",,,,,Sold,SAN JOAQUIN
+95376,1210 Lincoln Blvd,2,4,Tracy,"2,124 sqft",20-Dec-13,"$265,000 ",37.740837,-121.441376,CA,Multi-Family,265000,"$283,000 ",,,,,Sold,SAN JOAQUIN
+95377,971 Kennedy Pl,3,4,Tracy,"2,331 sqft",19-Dec-13,"$387,000 ",37.73811,-121.4712,CA,Single-Family Home,387000,"$411,000 ",,,,,Sold,SAN JOAQUIN
+95376,1965 Lincoln Blvd,3,4,Tracy,"1,636 sqft",19-Dec-13,"$295,000 ",37.750652,-121.44383,CA,Single-Family Home,295000,"$306,000 ",,,,,Sold,SAN JOAQUIN
+95377,1232 Windham Ct,2,3,Tracy,"1,554 sqft",19-Dec-13,"$314,000 ",37.703316,-121.439445,CA,Single-Family Home,314000,"$356,000 ",,,,,Sold,SAN JOAQUIN
+95376,1360 Heatherfield Way,2.5,3,Tracy,"1,566 sqft",19-Dec-13,"$320,000 ",37.7426,-121.44623,CA,Single-Family Home,320000,"$356,000 ",,,,,Sold,SAN JOAQUIN
+95376,2047 Alhambra Ct,,,Tracy,,19-Dec-13,"$489,500 ",37.716305,-121.45057,CA,Lot/Land,489500,,,,,,Sold,SAN JOAQUIN
+95376,1666 Countrywood Ln,2.5,3,Tracy,"1,566 sqft",19-Dec-13,"$360,000 ",37.743725,-121.446754,CA,Single-Family Home,360000,"$351,000 ",,,,,Sold,SAN JOAQUIN
+95376,2247 Calhoun Ct,3.5,5,Tracy,"4,013 sqft",18-Dec-13,"$460,000 ",37.714577,-121.450676,CA,Single-Family Home,460000,"$559,000 ",,,,,Sold,SAN JOAQUIN
+95304,2686 Ozark Dr,2.5,4,Tracy,"2,368 sqft",18-Dec-13,"$404,000 ",37.711494,-121.4074,CA,Single-Family Home,404000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95376,362 Roan Dr,2,3,Tracy,"1,650 sqft",18-Dec-13,"$327,000 ",37.726437,-121.44009,CA,Single-Family Home,327000,"$359,000 ",,,,,Sold,SAN JOAQUIN
+95376,1280 Harding Ave,1,2,Tracy,"1,176 sqft",18-Dec-13,"$181,000 ",37.742046,-121.437706,CA,Single-Family Home,181000,"$221,000 ",,,,,Sold,SAN JOAQUIN
+95377,2060 Seville Dr,3,5,Tracy,"3,047 sqft",17-Dec-13,"$305,000 ",37.739834,-121.454346,CA,Single-Family Home,305000,"$435,000 ",,,,,Sold,SAN JOAQUIN
+95304,10835 W Larch Rd,1.5,3,Tracy,720 sqft,17-Dec-13,"$165,000 ",37.765835,-121.43916,CA,Farm/Ranch,165000,"$277,000 ",,,,,Sold,SAN JOAQUIN
+95376,1355 Blair Ave,3,4,Tracy,"2,235 sqft",16-Dec-13,"$365,000 ",37.75692,-121.44109,CA,Single-Family Home,365000,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95376,1580 Hurley Ct,2,4,Tracy,"1,422 sqft",16-Dec-13,"$284,000 ",37.750656,-121.4451,CA,Single-Family Home,284000,"$265,000 ",,,,,Sold,SAN JOAQUIN
+95376,1337 Mansfield St,2.5,4,Tracy,"2,509 sqft",13-Dec-13,"$420,000 ",37.71365,-121.44168,CA,Single-Family Home,420000,"$437,000 ",,,,,Sold,SAN JOAQUIN
+95377,2629 Gaines Ct,2,3,Tracy,"1,434 sqft",13-Dec-13,"$317,000 ",37.74398,-121.46417,CA,Single-Family Home,317000,"$337,000 ",,,,,Sold,SAN JOAQUIN
+95376,2104 East St,1,3,Tracy,"1,240 sqft",13-Dec-13,"$135,000 ",37.75208,-121.420906,CA,Single-Family Home,135000,"$233,000 ",,,,,Sold,SAN JOAQUIN
+95377,174 La Monte Ln,3,5,Tracy,"2,977 sqft",13-Dec-13,"$420,000 ",37.706783,-121.42368,CA,Single-Family Home,420000,"$469,000 ",,,,,Sold,SAN JOAQUIN
+95376,1381 Divine Ln,3,4,Tracy,"2,268 sqft",13-Dec-13,"$375,000 ",37.72974,-121.44181,CA,Single-Family Home,375000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95377,329 Glenbriar Cir,3,5,Tracy,"2,869 sqft",12-Dec-13,"$420,000 ",37.709225,-121.42388,CA,Single-Family Home,420000,"$481,000 ",,,,,Sold,SAN JOAQUIN
+95376,700 Joranollo Dr,2,3,Tracy,"1,167 sqft",12-Dec-13,"$120,000 ",37.724937,-121.41916,CA,Single-Family Home,120000,"$248,000 ",,,,,Sold,SAN JOAQUIN
+95376,485 W Carlton Way,1,3,Tracy,790 sqft,12-Dec-13,"$219,000 ",37.746506,-121.43265,CA,Single-Family Home,219000,"$172,000 ",,,,,Sold,SAN JOAQUIN
+95377,1492 Hoboken Dr,2,3,Tracy,"1,168 sqft",12-Dec-13,"$290,000 ",37.707233,-121.4435,CA,Single-Family Home,290000,"$306,000 ",,,,,Sold,SAN JOAQUIN
+95377,4769 English Oaks Ct,3.5,4,Tracy,"2,968 sqft",12-Dec-13,"$322,000 ",37.696747,-121.43936,CA,Single-Family Home,322000,"$448,000 ",,,,,Sold,SAN JOAQUIN
+95376,1045 Winter Ct,2.5,4,Tracy,"1,436 sqft",12-Dec-13,"$315,000 ",37.722015,-121.444565,CA,Single-Family Home,315000,"$322,000 ",,,,,Sold,SAN JOAQUIN
+95377,1238 Michael Dr,2,4,Tracy,"2,165 sqft",12-Dec-13,"$365,000 ",37.7414,-121.472595,CA,Single-Family Home,365000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95376,454 Marie Ave,2,3,Tracy,"1,496 sqft",11-Dec-13,"$255,000 ",37.75907,-121.43097,CA,Single-Family Home,255000,"$256,000 ",,,,,Sold,SAN JOAQUIN
+95377,12060 Midway Dr,2,3,Tracy,"2,067 sqft",10-Dec-13,"$445,000 ",37.717632,-121.45463,CA,Single-Family Home,445000,"$481,000 ",,,,,Sold,SAN JOAQUIN
+95376,445 Hollywood Ave,2,3,Tracy,"1,433 sqft",10-Dec-13,"$285,000 ",37.744625,-121.41792,CA,Single-Family Home,285000,"$275,000 ",,,,,Sold,SAN JOAQUIN
+95376,809 Alpina Ct,3,5,Tracy,"2,662 sqft",9-Dec-13,"$400,000 ",37.715305,-121.43664,CA,Single-Family Home,400000,"$487,000 ",,,,,Sold,SAN JOAQUIN
+95376,1106 Lourence Dr,2,3,Tracy,"1,372 sqft",9-Dec-13,"$303,000 ",37.726814,-121.43994,CA,Single-Family Home,303000,"$320,000 ",,,,,Sold,SAN JOAQUIN
+95376,545 Mahogany Ln,2,3,Tracy,"1,199 sqft",6-Dec-13,"$280,000 ",37.71704,-121.433525,CA,Single-Family Home,280000,"$324,000 ",,,,,Sold,SAN JOAQUIN
+95304,745 Manitoba Ct,2.5,4,Tracy,"1,902 sqft",6-Dec-13,"$360,000 ",37.712074,-121.41407,CA,Single-Family Home,360000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95376,875 Manor Ct,2.5,4,Tracy,"1,898 sqft",6-Dec-13,"$300,000 ",37.750603,-121.438354,CA,Single-Family Home,300000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95304,27391 Walnut Ct,2,4,Tracy,"2,836 sqft",6-Dec-13,"$302,000 ",37.706573,-121.40033,CA,Single-Family Home,302000,"$652,000 ",,,,,Sold,SAN JOAQUIN
+95377,2642 Merchant Dr,2.5,4,Tracy,"2,498 sqft",6-Dec-13,"$399,000 ",37.736202,-121.46538,CA,Single-Family Home,399000,"$437,000 ",,,,,Sold,SAN JOAQUIN
+95377,2211 Hillcrest Dr,2,3,Tracy,"1,936 sqft",5-Dec-13,"$355,000 ",37.749935,-121.45663,CA,Single-Family Home,355000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95376,525 Peerless Way #2,1.5,2,Tracy,"1,166 sqft",5-Dec-13,"$163,000 ",37.724457,-121.41794,CA,Condo,163000,"$180,000 ",,,,,Sold,SAN JOAQUIN
+95376,25 W Eaton Ave,2,3,Tracy,"1,429 sqft",5-Dec-13,"$270,000 ",37.743523,-121.426674,CA,Single-Family Home,270000,"$270,000 ",,,,,Sold,SAN JOAQUIN
+95376,135 Carmel Way,2.5,5,Tracy,"2,207 sqft",5-Dec-13,"$342,500 ",37.7249,-121.42322,CA,Single-Family Home,342500,"$369,000 ",,,,,Sold,SAN JOAQUIN
+95376,1641 W Beverly Pl,2,3,Tracy,"1,245 sqft",5-Dec-13,"$280,000 ",37.744106,-121.445404,CA,Single-Family Home,280000,"$261,000 ",,,,,Sold,SAN JOAQUIN
+95377,936 Sunnyside Ln,2.5,4,Tracy,"2,032 sqft",5-Dec-13,"$360,000 ",37.700626,-121.43802,CA,Single-Family Home,360000,"$392,000 ",,,,,Sold,SAN JOAQUIN
+95376,3440 Briar Ln,2,3,Tracy,"1,078 sqft",5-Dec-13,"$185,000 ",37.761776,-121.427086,CA,Single-Family Home,185000,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95377,2284 Gary Ln,2,4,Tracy,"2,044 sqft",4-Dec-13,"$283,000 ",37.744644,-121.45821,CA,Single-Family Home,283000,"$387,000 ",,,,,Sold,SAN JOAQUIN
+95377,723 Twin Oaks Dr,2.5,3,Tracy,"2,243 sqft",4-Dec-13,"$370,000 ",37.69705,-121.435776,CA,Single-Family Home,370000,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95377,2113 Betty Ln,2,3,Tracy,"1,536 sqft",4-Dec-13,"$320,000 ",37.746075,-121.4555,CA,Single-Family Home,320000,"$350,000 ",,,,,Sold,SAN JOAQUIN
+95304,1843 Meritt Dr,3,4,Tracy,"3,060 sqft",4-Dec-13,"$457,000 ",37.717182,-121.408775,CA,Single-Family Home,457000,"$475,000 ",,,,,Sold,SAN JOAQUIN
+95376,1383 Ferngrove Ln,2.5,3,Tracy,"1,461 sqft",3-Dec-13,"$315,000 ",37.743248,-121.452644,CA,Single-Family Home,315000,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95377,2102 Golden Gate Dr,2.5,4,Tracy,"2,432 sqft",3-Dec-13,"$407,000 ",37.73251,-121.45498,CA,Single-Family Home,407000,"$457,000 ",,,,,Sold,SAN JOAQUIN
+95376,1713 Ray Wise Ln,2,3,Tracy,"1,600 sqft",3-Dec-13,"$330,000 ",37.72668,-121.44721,CA,Single-Family Home,330000,"$352,000 ",,,,,Sold,SAN JOAQUIN
+95304,2433 Gilberte St,3.5,4,Tracy,"3,767 sqft",2-Dec-13,"$562,000 ",37.713272,-121.399254,CA,Single-Family Home,562000,"$574,000 ",,,,,Sold,SAN JOAQUIN
+95377,480 Keys Ct,3.5,5,Tracy,"2,919 sqft",27-Nov-13,"$491,000 ",37.733143,-121.462425,CA,Single-Family Home,491000,"$493,000 ",,,,,Sold,SAN JOAQUIN
+95377,797 Yellowstone Ct,2.5,5,Tracy,"2,888 sqft",27-Nov-13,"$485,000 ",37.736393,-121.45718,CA,Single-Family Home,485000,"$482,000 ",,,,,Sold,SAN JOAQUIN
+95304,2642 Pyramid Dr,2.5,4,Tracy,"2,190 sqft",27-Nov-13,"$345,000 ",37.711807,-121.4096,CA,Single-Family Home,345000,"$435,000 ",,,,,Sold,SAN JOAQUIN
+95376,1321 Appalosa Ct,2,3,Tracy,"1,650 sqft",27-Nov-13,"$325,000 ",37.726692,-121.44192,CA,Single-Family Home,325000,"$351,000 ",,,,,Sold,SAN JOAQUIN
+95376,185 W Clover Rd,2,2,Tracy,961 sqft,27-Nov-13,"$185,000 ",37.761654,-121.428345,CA,Single-Family Home,185000,"$215,000 ",,,,,Sold,SAN JOAQUIN
+95377,2767 Green Haven Dr,4,5,Tracy,"3,178 sqft",27-Nov-13,"$473,000 ",37.72492,-121.46736,CA,Single-Family Home,473000,"$528,000 ",,,,,Sold,SAN JOAQUIN
+95304,8673 Julie Lynne Cir,5.5,4,Tracy,"4,530 sqft",27-Nov-13,"$990,000 ",37.70402,-121.41231,CA,Single-Family Home,990000,"$933,000 ",,,,,Sold,SAN JOAQUIN
+95376,2455 Gerald Ct,2.5,4,Tracy,"1,775 sqft",27-Nov-13,"$315,000 ",37.754417,-121.437614,CA,Single-Family Home,315000,"$341,000 ",,,,,Sold,SAN JOAQUIN
+95377,861 Kennedy Pl,2.5,4,Tracy,"2,176 sqft",27-Nov-13,"$368,000 ",37.736973,-121.4712,CA,Single-Family Home,368000,"$400,000 ",,,,,Sold,SAN JOAQUIN
+95376,1900 Court Dr,1,3,Tracy,"1,016 sqft",27-Nov-13,"$222,000 ",37.749893,-121.427635,CA,Single-Family Home,222000,"$234,000 ",,,,,Sold,SAN JOAQUIN
+95376,425 Pacheco Dr,2.5,3,Tracy,"1,794 sqft",27-Nov-13,"$279,000 ",37.726974,-121.42468,CA,Single-Family Home,279000,"$357,000 ",,,,,Sold,SAN JOAQUIN
+95376,1520 Hurley Ct,1.5,3,Tracy,"1,087 sqft",26-Nov-13,"$230,000 ",37.75052,-121.44439,CA,Single-Family Home,230000,"$261,000 ",,,,,Sold,SAN JOAQUIN
+95376,1561 Duncan Dr,2,4,Tracy,"1,527 sqft",26-Nov-13,"$285,000 ",37.753166,-121.4449,CA,Single-Family Home,285000,"$301,000 ",,,,,Sold,SAN JOAQUIN
+95376,1951 Parkside Dr,2.5,4,Tracy,"1,630 sqft",26-Nov-13,"$300,000 ",37.72184,-121.45201,CA,Single-Family Home,300000,"$342,000 ",,,,,Sold,SAN JOAQUIN
+95377,1480 Velasquez Ln,2,4,Tracy,"1,834 sqft",26-Nov-13,"$367,500 ",37.74422,-121.453514,CA,Single-Family Home,367500,"$389,000 ",,,,,Sold,SAN JOAQUIN
+95376,499 Gonzalez St,2,3,Tracy,"1,214 sqft",26-Nov-13,"$270,000 ",37.73486,-121.41835,CA,Single-Family Home,270000,"$294,000 ",,,,,Sold,SAN JOAQUIN
+95376,215 W Clover Rd,3,3,Tracy,"1,516 sqft",26-Nov-13,"$250,000 ",37.761646,-121.42871,CA,Single-Family Home,250000,"$260,000 ",,,,,Sold,SAN JOAQUIN
+95377,2807 Green Haven Dr,2,3,Tracy,"2,388 sqft",26-Nov-13,"$450,000 ",37.72492,-121.46781,CA,Single-Family Home,450000,"$523,000 ",,,,,Sold,SAN JOAQUIN
+95376,1040 Winter Ct,2,2,Tracy,"1,334 sqft",26-Nov-13,"$275,000 ",37.722115,-121.444016,CA,Single-Family Home,275000,"$314,000 ",,,,,Sold,SAN JOAQUIN
+95376,788 Palm Cir,2,4,Tracy,"1,230 sqft",26-Nov-13,"$100,000 ",37.736443,-121.43961,CA,Apartment/Condo/Townhouse,100000,"$150,000 ",,,,,Sold,SAN JOAQUIN
+95377,107 Barcelona Dr,2.5,4,Tracy,"2,689 sqft",22-Nov-13,"$400,000 ",37.729668,-121.45706,CA,Single-Family Home,400000,"$431,000 ",,,,,Sold,SAN JOAQUIN
+95376,1786 Kagehiro Dr,4.5,5,Tracy,"3,948 sqft",22-Nov-13,"$485,000 ",37.71367,-121.44859,CA,Single-Family Home,485000,"$567,000 ",,,,,Sold,SAN JOAQUIN
+95376,1776 Kagehiro Dr,4.5,5,Tracy,"3,678 sqft",22-Nov-13,"$515,000 ",37.713673,-121.44832,CA,Single-Family Home,515000,"$573,000 ",,,,,Sold,SAN JOAQUIN
+95376,143 W Beverly Pl,2,2,Tracy,"1,064 sqft",22-Nov-13,"$205,000 ",37.745205,-121.42778,CA,Single-Family Home,205000,"$240,000 ",,,,,Sold,SAN JOAQUIN
+95376,224 E Beverly Pl,2,4,Tracy,"1,589 sqft",22-Nov-13,"$315,000 ",37.744976,-121.422226,CA,Single-Family Home,315000,"$267,000 ",,,,,Sold,SAN JOAQUIN
+95376,2974 Elsinore Dr,2,4,Tracy,"1,358 sqft",22-Nov-13,"$255,000 ",37.758434,-121.42779,CA,Single-Family Home,255000,"$260,000 ",,,,,Sold,SAN JOAQUIN
+95377,4425 Tropaz Ln,2,3,Tracy,"1,416 sqft",22-Nov-13,"$320,000 ",37.699272,-121.447945,CA,Single-Family Home,320000,"$336,000 ",,,,,Sold,SAN JOAQUIN
+95376,2925 Holly Dr,2,3,Tracy,"1,104 sqft",22-Nov-13,"$201,000 ",37.758034,-121.42616,CA,Single-Family Home,201000,"$250,000 ",,,,,Sold,SAN JOAQUIN
+95377,3135 Milton Jenson Ct,3,4,Tracy,"2,443 sqft",21-Nov-13,"$399,000 ",37.74612,-121.473564,CA,Single-Family Home,399000,"$437,000 ",,,,,Sold,SAN JOAQUIN
+95376,475 Peerless Way #1,1.5,2,Tracy,"1,166 sqft",21-Nov-13,"$162,000 ",37.72484,-121.41884,CA,Condo,162000,"$176,000 ",,,,,Sold,SAN JOAQUIN
+95377,422 Glenbriar Cir,2,3,Tracy,"1,421 sqft",21-Nov-13,"$315,000 ",37.703514,-121.42421,CA,Single-Family Home,315000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95377,34855 Bernard Rd,3,3,Tracy,"2,264 sqft",21-Nov-13,"$430,000 ",37.634678,-121.406044,CA,Single-Family Home,430000,"$480,000 ",,,,,Sold,SAN JOAQUIN
+95377,2133 Diego Ct,2.5,4,Tracy,"2,689 sqft",21-Nov-13,"$410,000 ",37.73079,-121.45533,CA,Single-Family Home,410000,"$448,000 ",,,,,Sold,SAN JOAQUIN
+95304,2703 Gilberte Ct,3,5,Tracy,"3,208 sqft",21-Nov-13,"$540,000 ",37.711292,-121.39927,CA,Single-Family Home,540000,"$557,000 ",,,,,Sold,SAN JOAQUIN
+95376,617 Robert L Smith Dr,2.5,4,Tracy,"2,407 sqft",20-Nov-13,"$369,000 ",37.725983,-121.44368,CA,Single-Family Home,369000,"$401,000 ",,,,,Sold,SAN JOAQUIN
+95377,526 Barcelona Dr,3,6,Tracy,"2,536 sqft",20-Nov-13,"$405,000 ",37.73394,-121.456474,CA,Single-Family Home,405000,"$447,000 ",,,,,Sold,SAN JOAQUIN
+95376,139 W 12th St,1,2,Tracy,831 sqft,20-Nov-13,"$165,000 ",37.740856,-121.42755,CA,Single-Family Home,165000,"$209,000 ",,,,,Sold,SAN JOAQUIN
+95376,471 Baldwin Ct,2.5,3,Tracy,"2,135 sqft",20-Nov-13,"$340,000 ",37.734436,-121.43186,CA,Single-Family Home,340000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95377,2217 Golden Leaf Ln,2.5,5,Tracy,"2,652 sqft",19-Nov-13,"$390,000 ",37.726284,-121.45705,CA,Single-Family Home,390000,"$463,000 ",,,,,Sold,SAN JOAQUIN
+95377,1172 Cochran Dr,3,3,Tracy,"2,656 sqft",19-Nov-13,"$397,000 ",37.740395,-121.46071,CA,Single-Family Home,397000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95376,335 W Carlton Way,1,3,Tracy,"1,191 sqft",19-Nov-13,"$230,000 ",37.746513,-121.43073,CA,Single-Family Home,230000,"$215,000 ",,,,,Sold,SAN JOAQUIN
+95376,1285 Sunpeak Ln,2.5,3,Tracy,"1,566 sqft",19-Nov-13,"$307,000 ",37.74246,-121.45036,CA,Apartment/Condo/Townhouse,307000,"$351,000 ",,,,,Sold,SAN JOAQUIN
+95377,2455 Cochran Ct,3,5,Tracy,"2,771 sqft",19-Nov-13,"$415,000 ",37.741753,-121.46143,CA,Single-Family Home,415000,"$460,000 ",,,,,Sold,SAN JOAQUIN
+95376,305 Cecelio Way,2.5,4,Tracy,"2,597 sqft",19-Nov-13,"$380,000 ",37.72648,-121.430405,CA,Single-Family Home,380000,"$434,000 ",,,,,Sold,SAN JOAQUIN
+95304,2252 Erie Ct,3,5,Tracy,"3,747 sqft",18-Nov-13,"$555,000 ",37.71388,-121.41395,CA,Single-Family Home,555000,"$558,000 ",,,,,Sold,SAN JOAQUIN
+95304,1154 Powell Ct,2.5,4,Tracy,"1,918 sqft",18-Nov-13,"$350,000 ",37.712315,-121.40787,CA,Single-Family Home,350000,"$390,000 ",,,,,Sold,SAN JOAQUIN
+95304,28353 S Zephyr Dr,2.5,4,Tracy,"3,076 sqft",15-Nov-13,"$527,000 ",37.697712,-121.40225,CA,Single-Family Home,527000,"$588,000 ",,,,,Sold,SAN JOAQUIN
+95377,2972 Rugby Ct,3,4,Tracy,"2,397 sqft",15-Nov-13,"$370,000 ",37.748516,-121.47147,CA,Single-Family Home,370000,"$433,000 ",,,,,Sold,SAN JOAQUIN
+95376,1760 Thicket Ct,2.5,4,Tracy,"1,899 sqft",15-Nov-13,"$337,000 ",37.73299,-121.44844,CA,Single-Family Home,337000,"$368,000 ",,,,,Sold,SAN JOAQUIN
+95377,155 La Monte Ln,3,5,Tracy,"2,869 sqft",15-Nov-13,"$445,000 ",37.707268,-121.42406,CA,Single-Family Home,445000,"$485,000 ",,,,,Sold,SAN JOAQUIN
+95304,1936 Bankston Dr,3,5,Tracy,"3,101 sqft",14-Nov-13,"$460,000 ",37.71651,-121.40743,CA,Single-Family Home,460000,"$533,000 ",,,,,Sold,SAN JOAQUIN
+95376,535 Loma Verde Dr,2,4,Tracy,"2,357 sqft",14-Nov-13,"$415,000 ",37.71885,-121.4335,CA,Single-Family Home,415000,"$452,000 ",,,,,Sold,SAN JOAQUIN
+95376,1020 Zion Ct,2.5,4,Tracy,"1,436 sqft",14-Nov-13,"$275,000 ",37.72235,-121.444916,CA,Single-Family Home,275000,"$332,000 ",,,,,Sold,SAN JOAQUIN
+95376,75 Yosemite Dr,2,4,Tracy,"1,405 sqft",13-Nov-13,"$200,000 ",37.721092,-121.42415,CA,Single-Family Home,200000,"$270,000 ",,,,,Sold,SAN JOAQUIN
+95376,1828 Bayberry Ln,2.5,3,Tracy,"1,902 sqft",13-Nov-13,"$359,000 ",37.727932,-121.44969,CA,Single-Family Home,359000,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95376,1311 Roosevelt Ave,1,2,Tracy,"1,064 sqft",13-Nov-13,"$195,000 ",37.741924,-121.43461,CA,Single-Family Home,195000,"$201,000 ",,,,,Sold,SAN JOAQUIN
+95377,1986 Calaveras Ct,2.5,3,Tracy,"1,808 sqft",12-Nov-13,"$339,000 ",37.69978,-121.452156,CA,Single-Family Home,339000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95376,417 Hollywood Ave,2,2,Tracy,"2,034 sqft",8-Nov-13,"$345,000 ",37.744625,-121.4186,CA,Single-Family Home,345000,"$340,000 ",,,,,Sold,SAN JOAQUIN
+95377,2238 Golden Leaf Ln,2.5,4,Tracy,"2,355 sqft",8-Nov-13,"$372,000 ",37.725864,-121.45729,CA,Single-Family Home,372000,"$420,000 ",,,,,Sold,SAN JOAQUIN
+95376,2240 Chester Dr,2,4,Tracy,"1,339 sqft",8-Nov-13,"$255,000 ",37.752575,-121.43964,CA,Single-Family Home,255000,"$281,000 ",,,,,Sold,SAN JOAQUIN
+95376,1984 Gibson Ct,3,4,Tracy,"2,589 sqft",8-Nov-13,"$392,000 ",37.716324,-121.44912,CA,Single-Family Home,392000,"$440,000 ",,,,,Sold,SAN JOAQUIN
+95377,536 Park Haven Dr,2.5,3,Tracy,"1,958 sqft",8-Nov-13,"$350,000 ",37.72447,-121.467896,CA,Single-Family Home,350000,"$396,000 ",,,,,Sold,SAN JOAQUIN
+95376,1407 Jeffrey Dr,2,3,Tracy,"1,183 sqft",8-Nov-13,"$280,000 ",37.743572,-121.44196,CA,Single-Family Home,280000,"$257,000 ",,,,,Sold,SAN JOAQUIN
+95377,4156 Escatta Ave,3,4,Tracy,"2,611 sqft",8-Nov-13,"$380,000 ",37.701115,-121.425705,CA,Single-Family Home,380000,"$477,000 ",,,,,Sold,SAN JOAQUIN
+95377,4154 Reids Way,2,3,Tracy,"2,083 sqft",8-Nov-13,"$399,000 ",37.701107,-121.42668,CA,Single-Family Home,399000,"$422,000 ",,,,,Sold,SAN JOAQUIN
+95376,3055 Elsinore Dr,2,4,Tracy,"1,358 sqft",7-Nov-13,"$258,000 ",37.758926,-121.42835,CA,Single-Family Home,258000,"$281,000 ",,,,,Sold,SAN JOAQUIN
+95376,1036 Sallie Ln,3.5,3,Tracy,"1,703 sqft",7-Nov-13,"$306,500 ",37.71539,-121.43858,CA,Single-Family Home,306500,"$325,000 ",,,,,Sold,SAN JOAQUIN
+95376,1705 Parkside Dr,2.5,4,Tracy,"2,080 sqft",7-Nov-13,"$350,000 ",37.72217,-121.44747,CA,Single-Family Home,350000,"$379,000 ",,,,,Sold,SAN JOAQUIN
+95304,5081 W Canal Blvd,1,3,Tracy,"1,152 sqft",6-Nov-13,"$40,500 ",37.775574,-121.368095,CA,Farm/Ranch,40500,"$346,000 ",,,,,Sold,SAN JOAQUIN
+95377,1422 Whittingham Dr,2.5,4,Tracy,"2,029 sqft",5-Nov-13,"$372,000 ",37.70334,-121.44252,CA,Single-Family Home,372000,"$399,000 ",,,,,Sold,SAN JOAQUIN
+95376,420 Mount Oso Ave,3.5,6,Tracy,"3,631 sqft",5-Nov-13,"$437,500 ",37.726727,-121.4318,CA,Single-Family Home,437500,"$485,000 ",,,,,Sold,SAN JOAQUIN
+95304,787 Harold Smith Dr,2.5,3,Tracy,"1,705 sqft",4-Nov-13,"$334,500 ",37.711372,-121.41349,CA,Single-Family Home,334500,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95376,1427 Mansfield St,3,5,Tracy,"2,917 sqft",4-Nov-13,"$395,000 ",37.713634,-121.44249,CA,Single-Family Home,395000,"$479,000 ",,,,,Sold,SAN JOAQUIN
+95376,321 Derecho Way,2,4,Tracy,"1,470 sqft",4-Nov-13,"$250,000 ",37.758305,-121.4202,CA,Single-Family Home,250000,"$272,000 ",,,,,Sold,SAN JOAQUIN
+95376,1265 Pickford Ct,2.5,3,Tracy,"2,152 sqft",4-Nov-13,"$390,000 ",37.712814,-121.441154,CA,Single-Family Home,390000,"$433,000 ",,,,,Sold,SAN JOAQUIN
+95391,622 N Montebello St,3,4,Tracy,"2,498 sqft",1-Nov-13,"$465,000 ",37.78777,-121.55114,CA,Single-Family Home,465000,"$488,000 ",,,,,Sold,SAN JOAQUIN
+95376,1218 Palomino Dr,2,3,Tracy,"1,650 sqft",31-Oct-13,"$330,000 ",37.72578,-121.440605,CA,Single-Family Home,330000,"$361,000 ",,,,,Sold,SAN JOAQUIN
+95376,251 Ranchero Way,2,4,Tracy,"1,894 sqft",31-Oct-13,"$260,000 ",37.759518,-121.42199,CA,Single-Family Home,260000,"$326,000 ",,,,,Sold,SAN JOAQUIN
+95376,1820 Geranium Way,3,5,Tracy,"3,055 sqft",31-Oct-13,"$450,000 ",37.71777,-121.447044,CA,Single-Family Home,450000,"$488,000 ",,,,,Sold,SAN JOAQUIN
+95376,56 W South St,2.5,3,Tracy,"1,526 sqft",31-Oct-13,"$250,000 ",37.729847,-121.42674,CA,Single-Family Home,250000,"$305,000 ",,,,,Sold,SAN JOAQUIN
+95376,220 Mount Oso Ave,2.5,4,Tracy,"2,356 sqft",31-Oct-13,"$370,000 ",37.72673,-121.42879,CA,Single-Family Home,370000,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95376,1320 Edmonton Ct,3,4,Tracy,"2,300 sqft",31-Oct-13,"$154,500 ",37.718697,-121.44171,CA,Single-Family Home,154500,"$440,000 ",,,,,Sold,SAN JOAQUIN
+95376,927 Taft Ave,1,2,Tracy,967 sqft,31-Oct-13,"$211,000 ",37.737965,-121.43371,CA,Single-Family Home,211000,"$214,000 ",,,,,Sold,SAN JOAQUIN
+95376,845 Menay Dr,2.5,4,Tracy,"1,945 sqft",31-Oct-13,"$278,500 ",37.72209,-121.43718,CA,Single-Family Home,278500,"$364,000 ",,,,,Sold,SAN JOAQUIN
+95377,1480 Jones Ln,3,4,Tracy,"1,863 sqft",31-Oct-13,"$349,000 ",37.744137,-121.46822,CA,Single-Family Home,349000,"$368,000 ",,,,,Sold,SAN JOAQUIN
+95304,8411 Rinauro Ct,3.5,4,Tracy,"3,057 sqft",31-Oct-13,"$745,000 ",37.706963,-121.40959,CA,Single-Family Home,745000,"$653,000 ",,,,,Sold,SAN JOAQUIN
+95376,3260 Cheryl Ln,2,3,Tracy,"1,345 sqft",31-Oct-13,"$292,000 ",37.76049,-121.41498,CA,Single-Family Home,292000,"$310,000 ",,,,,Sold,SAN JOAQUIN
+95376,1961 Bristlecone Dr,2,2,Tracy,"1,070 sqft",31-Oct-13,"$261,000 ",37.716106,-121.43098,CA,Single-Family Home,261000,"$275,000 ",,,,,Sold,SAN JOAQUIN
+95377,2859 Hawkins Ln,2,3,Tracy,"1,483 sqft",30-Oct-13,"$315,000 ",37.750324,-121.468605,CA,Single-Family Home,315000,"$331,000 ",,,,,Sold,SAN JOAQUIN
+95304,8743 Waterwell Way,4.5,4,Tracy,"3,541 sqft",30-Oct-13,"$567,000 ",37.697796,-121.41341,CA,Single-Family Home,567000,"$740,000 ",,,,,Sold,SAN JOAQUIN
+95376,2962 Pintado Ct,2,3,Tracy,"1,600 sqft",30-Oct-13,"$240,000 ",37.75911,-121.42211,CA,Single-Family Home,240000,"$282,000 ",,,,,Sold,SAN JOAQUIN
+95304,3679 W Linne Rd,2,4,Tracy,"2,541 sqft",29-Oct-13,"$550,000 ",37.69679,-121.3506,CA,Farm/Ranch,550000,"$515,000 ",,,,,Sold,SAN JOAQUIN
+95376,1706 Countrywood Ln,2.5,3,Tracy,"1,566 sqft",29-Oct-13,"$330,000 ",37.743694,-121.44745,CA,Single-Family Home,330000,"$345,000 ",,,,,Sold,SAN JOAQUIN
+95376,240 Versailles Ct,2.5,4,Tracy,"1,629 sqft",29-Oct-13,"$339,000 ",37.731735,-121.41679,CA,Single-Family Home,339000,"$338,000 ",,,,,Sold,SAN JOAQUIN
+95376,441 Gonzalez St,2.5,3,Tracy,"1,446 sqft",29-Oct-13,"$285,000 ",37.734436,-121.41944,CA,Single-Family Home,285000,"$315,000 ",,,,,Sold,SAN JOAQUIN
+95377,875 Cobalt Ct,3,5,Tracy,"2,585 sqft",29-Oct-13,"$407,000 ",37.73719,-121.46204,CA,Single-Family Home,407000,"$441,000 ",,,,,Sold,SAN JOAQUIN
+95376,1420 Christina Dr,2,3,Tracy,"1,332 sqft",29-Oct-13,"$205,000 ",37.75512,-121.442,CA,Single-Family Home,205000,"$258,000 ",,,,,Sold,SAN JOAQUIN
+95376,982 Sequoia Blvd,1,2,Tracy,800 sqft,29-Oct-13,"$130,000 ",37.73766,-121.44076,CA,Apartment/Condo/Townhouse,130000,"$145,000 ",,,,,Sold,SAN JOAQUIN
+95376,2684 Christy St,3,4,Tracy,"2,651 sqft",29-Oct-13,"$415,000 ",37.711334,-121.43794,CA,Single-Family Home,415000,"$443,000 ",,,,,Sold,SAN JOAQUIN
+95377,2502 Choisser Ct,3,5,Tracy,"2,629 sqft",28-Oct-13,"$395,000 ",37.740463,-121.46225,CA,Single-Family Home,395000,"$467,000 ",,,,,Sold,SAN JOAQUIN
+95377,25275 S Lammers Rd,3,5,Tracy,"2,310 sqft",28-Oct-13,"$325,000 ",37.72419,-121.47921,CA,Single-Family Home,325000,"$435,000 ",,,,,Sold,SAN JOAQUIN
+95376,165 Victoria St,2.5,3,Tracy,"1,491 sqft",28-Oct-13,"$305,000 ",37.723465,-121.42971,CA,Single-Family Home,305000,"$351,000 ",,,,,Sold,SAN JOAQUIN
+95376,1291 Hepburn St,3,4,Tracy,"2,651 sqft",28-Oct-13,"$390,000 ",37.71139,-121.441185,CA,Single-Family Home,390000,"$454,000 ",,,,,Sold,SAN JOAQUIN
+95377,4460 Cove Ct,3,5,Tracy,"3,712 sqft",28-Oct-13,"$480,000 ",37.699112,-121.43967,CA,Single-Family Home,480000,"$588,000 ",,,,,Sold,SAN JOAQUIN
+95377,3232 Honeydew Ct,2.5,4,Tracy,"1,907 sqft",25-Oct-13,"$245,000 ",37.707447,-121.440544,CA,Single-Family Home,245000,"$382,000 ",,,,,Sold,SAN JOAQUIN
+95376,2900 Butler Dr,2,4,Tracy,"1,854 sqft",25-Oct-13,"$270,000 ",37.758102,-121.43805,CA,Single-Family Home,270000,"$316,000 ",,,,,Sold,SAN JOAQUIN
+95377,4431 Burr Ct,2.5,4,Tracy,"2,368 sqft",25-Oct-13,"$371,000 ",37.698532,-121.44967,CA,Single-Family Home,371000,"$401,000 ",,,,,Sold,SAN JOAQUIN
+95377,2718 Jackson Ave,3.5,5,Tracy,"3,140 sqft",25-Oct-13,"$475,000 ",37.734722,-121.46621,CA,Single-Family Home,475000,"$522,000 ",,,,,Sold,SAN JOAQUIN
+95391,778 N San Marcos Dr,,,Tracy,,24-Oct-13,"$495,500 ",37.79183,-121.55185,CA,Unknown,495500,,,,,,Sold,SAN JOAQUIN
+95376,106 W Emerson Ave,2,3,Tracy,"1,409 sqft",24-Oct-13,"$250,000 ",37.74849,-121.42691,CA,Single-Family Home,250000,"$254,000 ",,,,,Sold,SAN JOAQUIN
+95376,995 Henderson Way,2.5,3,Tracy,"2,056 sqft",24-Oct-13,"$333,000 ",37.719498,-121.438065,CA,Single-Family Home,333000,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95376,350 Ranchero Way,3,5,Tracy,"2,050 sqft",24-Oct-13,"$355,000 ",37.759117,-121.42004,CA,Single-Family Home,355000,"$357,000 ",,,,,Sold,SAN JOAQUIN
+95304,3706 W 11th St,1,2,Tracy,888 sqft,24-Oct-13,"$120,000 ",37.752216,-121.35199,CA,Farm/Ranch,120000,"$181,000 ",,,,,Sold,SAN JOAQUIN
+95304,1884 Oswego Ct,3,5,Tracy,"2,642 sqft",24-Oct-13,"$430,000 ",37.71669,-121.41346,CA,Single-Family Home,430000,"$500,000 ",,,,,Sold,SAN JOAQUIN
+95376,2261 Lincoln Blvd,2,3,Tracy,"1,160 sqft",23-Oct-13,"$235,000 ",37.752777,-121.44386,CA,Single-Family Home,235000,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95376,58 West St,1,4,Tracy,"1,480 sqft",23-Oct-13,"$234,500 ",37.729546,-121.42996,CA,Single-Family Home,234500,"$220,000 ",,,,,Sold,SAN JOAQUIN
+95376,1430 Autumn Ln,2.5,3,Tracy,"1,902 sqft",23-Oct-13,"$350,000 ",37.731895,-121.441986,CA,Single-Family Home,350000,"$376,000 ",,,,,Sold,SAN JOAQUIN
+95377,7035 W Saint Andrews Ln,2,3,Tracy,"2,390 sqft",22-Oct-13,"$350,000 ",37.63004,-121.39202,CA,Single-Family Home,350000,"$389,000 ",,,,,Sold,SAN JOAQUIN
+95376,1925 Birchwood Ct,3,5,Tracy,"2,790 sqft",22-Oct-13,"$400,000 ",37.73014,-121.45133,CA,Single-Family Home,400000,"$474,000 ",,,,,Sold,SAN JOAQUIN
+95376,1062 Westbury Ct,2.5,2,Tracy,"1,271 sqft",22-Oct-13,"$174,500 ",37.753597,-121.439125,CA,Condo,174500,"$200,000 ",,,,,Sold,SAN JOAQUIN
+95304,817 Harold Smith Dr,2.5,4,Tracy,"1,902 sqft",21-Oct-13,"$330,000 ",37.711613,-121.413185,CA,Single-Family Home,330000,"$392,000 ",,,,,Sold,SAN JOAQUIN
+95304,1861 Mckenna Dr,2,4,Tracy,"2,145 sqft",21-Oct-13,"$351,000 ",37.717068,-121.40999,CA,Single-Family Home,351000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95377,2143 Golden Gate Dr,2.5,3,Tracy,"2,241 sqft",21-Oct-13,"$450,000 ",37.732967,-121.455734,CA,Single-Family Home,450000,"$472,000 ",,,,,Sold,SAN JOAQUIN
+95376,246 W Clover Rd,2,3,Tracy,"1,408 sqft",18-Oct-13,"$199,000 ",37.76078,-121.42846,CA,Single-Family Home,199000,"$252,000 ",,,,,Sold,SAN JOAQUIN
+95377,1538 Cindy Way,2,4,Tracy,"1,642 sqft",18-Oct-13,"$345,000 ",37.745335,-121.45992,CA,Single-Family Home,345000,"$352,000 ",,,,,Sold,SAN JOAQUIN
+95377,2452 Colby Ct,3,4,Tracy,"2,420 sqft",18-Oct-13,"$395,000 ",37.722935,-121.46118,CA,Single-Family Home,395000,"$423,000 ",,,,,Sold,SAN JOAQUIN
+95376,261 King Arthur Ct,2,3,Tracy,"1,660 sqft",18-Oct-13,"$291,000 ",37.727722,-121.41921,CA,Single-Family Home,291000,"$323,000 ",,,,,Sold,SAN JOAQUIN
+95376,735 W Beverly Pl,2,3,Tracy,"1,268 sqft",17-Oct-13,"$150,000 ",37.745136,-121.43698,CA,Single-Family Home,150000,"$252,000 ",,,,,Sold,SAN JOAQUIN
+95376,909 Roosevelt Ave,1,2,Tracy,819 sqft,17-Oct-13,"$210,000 ",37.737595,-121.43466,CA,Single-Family Home,210000,"$204,000 ",,,,,Sold,SAN JOAQUIN
+95377,1491 Kyle Ct,3,4,Tracy,"2,443 sqft",17-Oct-13,"$390,000 ",37.74474,-121.473755,CA,Single-Family Home,390000,"$440,000 ",,,,,Sold,SAN JOAQUIN
+95377,640 Marie Angela Dr,2,3,Tracy,"1,513 sqft",17-Oct-13,"$286,000 ",37.724068,-121.45996,CA,Single-Family Home,286000,"$355,000 ",,,,,Sold,SAN JOAQUIN
+95377,1190 Whispering Wind Dr,3,5,Tracy,"3,712 sqft",16-Oct-13,"$495,000 ",37.70011,-121.44036,CA,Single-Family Home,495000,"$537,000 ",,,,,Sold,SAN JOAQUIN
+95376,2809 Buthmann Ave,2,3,Tracy,"1,152 sqft",16-Oct-13,"$230,000 ",37.75741,-121.43256,CA,Single-Family Home,230000,"$249,000 ",,,,,Sold,SAN JOAQUIN
+95377,1320 Cherry Blossom Ln,2.5,4,Tracy,"2,385 sqft",16-Oct-13,"$375,000 ",37.702503,-121.441765,CA,Single-Family Home,375000,"$414,000 ",,,,,Sold,SAN JOAQUIN
+95376,2090 Garrison Ln,2.5,4,Tracy,"2,238 sqft",16-Oct-13,"$23,500 ",37.715965,-121.43846,CA,Single-Family Home,23500,"$396,000 ",,,,,Sold,SAN JOAQUIN
+95376,2005 Gibson Ct,3,3,Tracy,"2,350 sqft",16-Oct-13,"$390,000 ",37.716167,-121.44971,CA,Single-Family Home,390000,"$438,000 ",,,,,Sold,SAN JOAQUIN
+95376,175 W Clover Rd,3,3,Tracy,"1,506 sqft",15-Oct-13,"$270,000 ",37.761654,-121.42822,CA,Single-Family Home,270000,"$302,000 ",,,,,Sold,SAN JOAQUIN
+95376,375 Lopez Ln,3,4,Tracy,"2,135 sqft",15-Oct-13,"$345,000 ",37.72562,-121.45062,CA,Single-Family Home,345000,"$400,000 ",,,,,Sold,SAN JOAQUIN
+95377,2334 Clemente Ln,2.5,4,Tracy,"2,277 sqft",15-Oct-13,"$362,500 ",37.727203,-121.45841,CA,Single-Family Home,362500,"$401,000 ",,,,,Sold,SAN JOAQUIN
+95376,108 W Clover Rd,2,3,Tracy,"1,741 sqft",14-Oct-13,"$342,000 ",37.76096,-121.42716,CA,Single-Family Home,342000,"$301,000 ",,,,,Sold,SAN JOAQUIN
+95377,233 Lasata Dr,3,5,Tracy,"2,720 sqft",11-Oct-13,"$435,000 ",37.70185,-121.42899,CA,Single-Family Home,435000,"$454,000 ",,,,,Sold,SAN JOAQUIN
+95376,410 Hawthorne Dr,2,3,Tracy,"1,166 sqft",11-Oct-13,"$190,000 ",37.76196,-121.43112,CA,Single-Family Home,190000,"$242,000 ",,,,,Sold,SAN JOAQUIN
+95377,4566 Dandelion Loop,2.5,4,Tracy,"2,378 sqft",11-Oct-13,"$400,000 ",37.698467,-121.4257,CA,Single-Family Home,400000,"$439,000 ",,,,,Sold,SAN JOAQUIN
+95376,1081 Appalosa Way,2,3,Tracy,"1,159 sqft",11-Oct-13,"$255,000 ",37.727512,-121.43979,CA,Single-Family Home,255000,"$312,000 ",,,,,Sold,SAN JOAQUIN
+95376,540 Peerless Way,2.5,3,Tracy,"1,382 sqft",11-Oct-13,"$282,000 ",37.7236,-121.41726,CA,Single-Family Home,282000,"$311,000 ",,,,,Sold,SAN JOAQUIN
+95377,2525 Bridle Creek Ct,3,5,Tracy,"2,485 sqft",11-Oct-13,"$390,000 ",37.74758,-121.46308,CA,Single-Family Home,390000,"$440,000 ",,,,,Sold,SAN JOAQUIN
+95377,2842 Dorset Ln,2.5,3,Tracy,"2,048 sqft",11-Oct-13,"$355,000 ",37.74697,-121.46867,CA,Single-Family Home,355000,"$413,000 ",,,,,Sold,SAN JOAQUIN
+95376,710 Centre Court Dr,2,3,Tracy,"1,665 sqft",11-Oct-13,"$320,000 ",37.733425,-121.43561,CA,Single-Family Home,320000,"$376,000 ",,,,,Sold,SAN JOAQUIN
+95377,2836 Daisy Ln,3,4,Tracy,"2,927 sqft",11-Oct-13,"$500,000 ",37.72048,-121.46842,CA,Single-Family Home,500000,"$520,000 ",,,,,Sold,SAN JOAQUIN
+95376,358 E 21st St,2,3,Tracy,"1,368 sqft",11-Oct-13,"$225,000 ",37.75175,-121.41924,CA,Single-Family Home,225000,"$243,000 ",,,,,Sold,SAN JOAQUIN
+95376,1600 Andrew St,2,3,Tracy,"1,075 sqft",10-Oct-13,"$259,000 ",37.71887,-121.42572,CA,Single-Family Home,259000,"$272,000 ",,,,,Sold,SAN JOAQUIN
+95376,1096 Lourence Dr,2.5,3,Tracy,"1,547 sqft",10-Oct-13,"$300,000 ",37.72668,-121.43985,CA,Single-Family Home,300000,"$360,000 ",,,,,Sold,SAN JOAQUIN
+95376,38 Primrose Ct,2.5,4,Tracy,"2,057 sqft",10-Oct-13,"$340,000 ",37.721508,-121.427216,CA,Single-Family Home,340000,"$378,000 ",,,,,Sold,SAN JOAQUIN
+95377,439 Glenbriar Cir,2,3,Tracy,"1,421 sqft",10-Oct-13,"$315,000 ",37.704014,-121.42277,CA,Single-Family Home,315000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95376,1761 Alegre Dr,2,4,Tracy,"1,422 sqft",10-Oct-13,"$289,000 ",37.752453,-121.448944,CA,Single-Family Home,289000,"$321,000 ",,,,,Sold,SAN JOAQUIN
+95376,2940 Ponte Mira Way,3,4,Tracy,"2,203 sqft",9-Oct-13,"$312,000 ",37.75855,-121.43978,CA,Single-Family Home,312000,"$373,000 ",,,,,Sold,SAN JOAQUIN
+95376,480 E 3rd St,3,4,Tracy,"1,950 sqft",9-Oct-13,"$340,000 ",37.729954,-121.41868,CA,Single-Family Home,340000,"$357,000 ",,,,,Sold,SAN JOAQUIN
+95377,2270 Hillcrest Dr,2,3,Tracy,"1,936 sqft",8-Oct-13,"$366,500 ",37.74949,-121.45779,CA,Single-Family Home,366500,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95377,2984 Misty Meadow Dr,2.5,3,Tracy,"1,441 sqft",8-Oct-13,"$319,000 ",37.708843,-121.44,CA,Single-Family Home,319000,"$344,000 ",,,,,Sold,SAN JOAQUIN
+95376,730 Weeping Willow Ln,2.5,4,Tracy,"1,892 sqft",8-Oct-13,"$330,000 ",37.72483,-121.437836,CA,Single-Family Home,330000,"$366,000 ",,,,,Sold,SAN JOAQUIN
+95376,435 Centre Court Dr,2.5,3,Tracy,"1,771 sqft",7-Oct-13,"$285,000 ",37.733715,-121.43194,CA,Single-Family Home,285000,"$365,000 ",,,,,Sold,SAN JOAQUIN
+95304,8155 W Bates Rd,3,4,Tracy,"2,968 sqft",7-Oct-13,"$560,000 ",37.70533,-121.40575,CA,Farm/Ranch,560000,"$545,000 ",,,,,Sold,SAN JOAQUIN
+95377,1364 Crossroads Dr,2,2,Tracy,"1,434 sqft",4-Oct-13,"$300,000 ",37.74279,-121.46155,CA,Single-Family Home,300000,"$336,000 ",,,,,Sold,SAN JOAQUIN
+95376,1801 Deborah St,1,3,Tracy,"1,087 sqft",4-Oct-13,"$205,000 ",37.748924,-121.42044,CA,Single-Family Home,205000,"$241,000 ",,,,,Sold,SAN JOAQUIN
+95376,1921 Mello Ct,2,3,Tracy,"1,245 sqft",4-Oct-13,"$270,000 ",37.75176,-121.4519,CA,Single-Family Home,270000,"$302,000 ",,,,,Sold,SAN JOAQUIN
+95376,54 E 8th St,2,3,Tracy,"2,245 sqft",4-Oct-13,"$265,000 ",37.73647,-121.42451,CA,Single-Family Home,265000,"$290,000 ",,,,,Sold,SAN JOAQUIN
+95376,1975 Foxtail Ct,2.5,3,Tracy,"1,835 sqft",4-Oct-13,"$320,000 ",37.736004,-121.45221,CA,Single-Family Home,320000,"$394,000 ",,,,,Sold,SAN JOAQUIN
+95376,1266 Mansfield St,3,4,Tracy,"2,651 sqft",4-Oct-13,"$410,000 ",37.713093,-121.44116,CA,Single-Family Home,410000,"$474,000 ",,,,,Sold,SAN JOAQUIN
+95377,2674 Castle Haven Ct,4,5,Tracy,"3,198 sqft",4-Oct-13,"$510,000 ",37.72381,-121.46591,CA,Single-Family Home,510000,"$581,000 ",,,,,Sold,SAN JOAQUIN
+95376,55 Dale Odell Dr,2.5,3,Tracy,"2,036 sqft",3-Oct-13,"$315,000 ",37.730225,-121.42355,CA,Single-Family Home,315000,"$342,000 ",,,,,Sold,SAN JOAQUIN
+95376,301 Gonzalez St,2.5,3,Tracy,"1,446 sqft",3-Oct-13,"$295,000 ",37.73365,-121.4211,CA,Single-Family Home,295000,"$324,000 ",,,,,Sold,SAN JOAQUIN
+95377,1247 Gentry Ct,3,4,Tracy,"1,863 sqft",1-Oct-13,"$328,000 ",37.74146,-121.472275,CA,Single-Family Home,328000,"$355,000 ",,,,,Sold,SAN JOAQUIN
+95376,154 Carmel Way,3,4,Tracy,"1,876 sqft",1-Oct-13,"$345,000 ",37.724506,-121.42273,CA,Single-Family Home,345000,"$381,000 ",,,,,Sold,SAN JOAQUIN
+95376,632 Carol Louise Ln,2,3,Tracy,"1,345 sqft",1-Oct-13,"$252,000 ",37.76048,-121.415596,CA,Single-Family Home,252000,"$306,000 ",,,,,Sold,SAN JOAQUIN
+95376,421 Czerny St,2.5,3,Tracy,"1,446 sqft",30-Sep-13,"$319,000 ",37.73252,-121.41932,CA,Single-Family Home,319000,"$335,000 ",,,,,Sold,SAN JOAQUIN
+95376,1705 Sequoia Blvd,3,4,Tracy,"2,210 sqft",30-Sep-13,"$390,000 ",37.739086,-121.44745,CA,Single-Family Home,390000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95376,2680 Lincoln Blvd,2,3,Tracy,"1,552 sqft",30-Sep-13,"$295,000 ",37.755817,-121.4433,CA,Single-Family Home,295000,"$330,000 ",,,,,Sold,SAN JOAQUIN
+95376,73 E 6th St,,,Tracy,,30-Sep-13,"$360,000 ",37.73527,-121.42351,CA,Multi-Family,360000,,,,,,Sold,SAN JOAQUIN
+95376,1939 Cactus St,2.5,3,Tracy,"1,808 sqft",30-Sep-13,"$292,000 ",37.7554,-121.451805,CA,Single-Family Home,292000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95376,2775 Gomes Ct,2.5,4,Tracy,"1,550 sqft",27-Sep-13,"$320,000 ",37.756943,-121.436844,CA,Single-Family Home,320000,"$331,000 ",,,,,Sold,SAN JOAQUIN
+95376,1885 Birchwood Ln,3,4,Tracy,"2,268 sqft",27-Sep-13,"$360,000 ",37.730152,-121.450554,CA,Single-Family Home,360000,"$438,000 ",,,,,Sold,SAN JOAQUIN
+95304,1066 Dahlia Ct,2.5,4,Tracy,"2,190 sqft",27-Sep-13,"$370,000 ",37.71165,-121.40936,CA,Single-Family Home,370000,"$415,000 ",,,,,Sold,SAN JOAQUIN
+95377,2914 Ray M Gutierrez Ln,2.5,4,Tracy,"1,878 sqft",27-Sep-13,"$295,000 ",37.744953,-121.469475,CA,Single-Family Home,295000,"$364,000 ",,,,,Sold,SAN JOAQUIN
+95377,860 Glencreek Dr,2.5,3,Tracy,"1,572 sqft",27-Sep-13,"$320,000 ",37.70994,-121.43736,CA,Single-Family Home,320000,"$356,000 ",,,,,Sold,SAN JOAQUIN
+95377,511 Havenwood Ct,3,4,Tracy,"2,588 sqft",27-Sep-13,"$468,000 ",37.70952,-121.418144,CA,Single-Family Home,468000,"$555,000 ",,,,,Sold,SAN JOAQUIN
+95376,222 E 22nd St,1,3,Tracy,936 sqft,27-Sep-13,"$201,000 ",37.752304,-121.42262,CA,Single-Family Home,201000,"$232,000 ",,,,,Sold,SAN JOAQUIN
+95376,2645 Harlow St,3,4,Tracy,"2,294 sqft",27-Sep-13,"$375,000 ",37.711525,-121.44091,CA,Single-Family Home,375000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95376,365 W 22nd St,1,2,Tracy,854 sqft,27-Sep-13,"$198,000 ",37.752438,-121.43111,CA,Single-Family Home,198000,"$208,000 ",,,,,Sold,SAN JOAQUIN
+95376,1406 Jeffrey Dr,1.5,3,Tracy,"1,145 sqft",27-Sep-13,"$150,000 ",37.743572,-121.44142,CA,Single-Family Home,150000,"$221,000 ",,,,,Sold,SAN JOAQUIN
+95376,105 Albert Ct,2,3,Tracy,"1,278 sqft",26-Sep-13,"$225,000 ",37.72484,-121.42871,CA,Single-Family Home,225000,"$323,000 ",,,,,Sold,SAN JOAQUIN
+95376,163 Lauriana Ln,2,3,Tracy,"1,600 sqft",26-Sep-13,"$344,000 ",37.72753,-121.447365,CA,Single-Family Home,344000,"$360,000 ",,,,,Sold,SAN JOAQUIN
+95377,1151 Berg Rd,1,3,Tracy,"1,520 sqft",26-Sep-13,"$335,000 ",37.739967,-121.46805,CA,Farm/Ranch,335000,"$299,000 ",,,,,Sold,SAN JOAQUIN
+95377,2237 Isabel Virginia Dr,3,4,Tracy,"2,095 sqft",26-Sep-13,"$370,000 ",37.752357,-121.45841,CA,Single-Family Home,370000,"$420,000 ",,,,,Sold,SAN JOAQUIN
+95376,1907 W Kavanagh Ave,2.5,3,Tracy,"1,570 sqft",26-Sep-13,"$295,000 ",37.757042,-121.45095,CA,Single-Family Home,295000,"$345,000 ",,,,,Sold,SAN JOAQUIN
+95376,2575 Colony Dr,2,4,Tracy,"1,454 sqft",26-Sep-13,"$260,000 ",37.756084,-121.41815,CA,Single-Family Home,260000,"$267,000 ",,,,,Sold,SAN JOAQUIN
+95304,1895 Bankston Dr,3,5,Tracy,"3,101 sqft",26-Sep-13,"$430,000 ",37.716805,-121.40795,CA,Single-Family Home,430000,"$493,000 ",,,,,Sold,SAN JOAQUIN
+95377,120 Nabor Ln,3.5,5,Tracy,"3,089 sqft",26-Sep-13,"$439,000 ",37.729824,-121.45357,CA,Single-Family Home,439000,"$487,000 ",,,,,Sold,SAN JOAQUIN
+95377,974 Shelborne Dr,2.5,3,Tracy,"1,572 sqft",25-Sep-13,"$300,000 ",37.70896,-121.43854,CA,Single-Family Home,300000,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95376,1210 Coolidge Ave,1,3,Tracy,"1,047 sqft",25-Sep-13,"$200,000 ",37.740963,-121.43867,CA,Single-Family Home,200000,"$238,000 ",,,,,Sold,SAN JOAQUIN
+95377,1580 Annie Way,3,5,Tracy,"2,440 sqft",25-Sep-13,"$375,000 ",37.74582,-121.45356,CA,Single-Family Home,375000,"$449,000 ",,,,,Sold,SAN JOAQUIN
+95377,2983 Remington Way,2.5,5,Tracy,"2,748 sqft",25-Sep-13,"$375,000 ",37.719894,-121.47079,CA,Single-Family Home,375000,"$503,000 ",,,,,Sold,SAN JOAQUIN
+95304,8188 W 11th St,1,2,Tracy,983 sqft,25-Sep-13,"$66,500 ",37.737587,-121.40595,CA,Farm/Ranch,66500,"$255,000 ",,,,,Sold,SAN JOAQUIN
+95377,1180 King Loop,3,5,Tracy,"2,516 sqft",25-Sep-13,"$175,454 ",37.740517,-121.46941,CA,Single-Family Home,175454,"$423,000 ",,,,,Sold,SAN JOAQUIN
+95376,222 W Highland Ave,1.5,3,Tracy,"1,326 sqft",24-Sep-13,"$115,000 ",37.741302,-121.42915,CA,Single-Family Home,115000,"$220,000 ",,,,,Sold,SAN JOAQUIN
+95376,1170 Freedom Ct,2.5,6,Tracy,"2,632 sqft",24-Sep-13,"$492,000 ",37.72193,-121.43186,CA,Single-Family Home,492000,"$543,000 ",,,,,Sold,SAN JOAQUIN
+95376,1732 Duncan Dr,2,4,Tracy,"1,527 sqft",23-Sep-13,"$271,000 ",37.75253,-121.44849,CA,Single-Family Home,271000,"$296,000 ",,,,,Sold,SAN JOAQUIN
+95377,2183 Joseph Damon Dr,2,4,Tracy,"1,648 sqft",23-Sep-13,"$315,000 ",37.752483,-121.456436,CA,Single-Family Home,315000,"$372,000 ",,,,,Sold,SAN JOAQUIN
+95376,3055 Dovenshire Dr,2,3,Tracy,"1,120 sqft",23-Sep-13,"$190,000 ",37.75893,-121.42929,CA,Single-Family Home,190000,"$264,000 ",,,,,Sold,SAN JOAQUIN
+95304,8315 Waterwell Way,,,Tracy,,23-Sep-13,"$190,000 ",37.69955,-121.40815,CA,Unknown,190000,,,,,,Sold,SAN JOAQUIN
+95377,2461 Tolbert Dr,3,5,Tracy,"2,629 sqft",20-Sep-13,"$395,000 ",37.74017,-121.46142,CA,Single-Family Home,395000,"$452,000 ",,,,,Sold,SAN JOAQUIN
+95376,1143 Terry Ln,3.5,3,Tracy,"1,703 sqft",20-Sep-13,"$316,000 ",37.715042,-121.43921,CA,Townhouse,316000,"$293,000 ",,,,,Sold,SAN JOAQUIN
+95376,1590 Locust Dr,2,3,Tracy,"1,851 sqft",20-Sep-13,"$335,000 ",37.735363,-121.44528,CA,Single-Family Home,335000,"$368,000 ",,,,,Sold,SAN JOAQUIN
+95376,1860 Foxtail Way,2,4,Tracy,"1,639 sqft",20-Sep-13,"$295,000 ",37.73524,-121.450195,CA,Single-Family Home,295000,"$356,000 ",,,,,Sold,SAN JOAQUIN
+95304,16220 Von Sosten Rd,2.5,3,Tracy,"1,897 sqft",20-Sep-13,"$351,000 ",37.750557,-121.50982,CA,Single-Family Home,351000,"$410,000 ",,,,,Sold,SAN JOAQUIN
+95376,495 Silvertail Pl,2.5,4,Tracy,"1,899 sqft",20-Sep-13,"$358,500 ",37.73467,-121.44922,CA,Single-Family Home,358500,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95376,1552 Vinewood Way,3,5,Tracy,"3,159 sqft",20-Sep-13,"$465,000 ",37.745663,-121.44714,CA,Single-Family Home,465000,"$493,000 ",,,,,Sold,SAN JOAQUIN
+95377,4650 Twin Oaks Ct,3,3,Tracy,"2,603 sqft",20-Sep-13,"$255,000 ",37.69775,-121.43509,CA,Single-Family Home,255000,"$405,000 ",,,,,Sold,SAN JOAQUIN
+95376,540 W Schulte Rd,2,3,Tracy,"2,371 sqft",20-Sep-13,"$430,000 ",37.72475,-121.433716,CA,Single-Family Home,430000,"$454,000 ",,,,,Sold,SAN JOAQUIN
+95376,216 E Whittier Ave,1,3,Tracy,931 sqft,20-Sep-13,"$120,000 ",37.749226,-121.42247,CA,Single-Family Home,120000,"$197,000 ",,,,,Sold,SAN JOAQUIN
+95376,730 West St,1,1,Tracy,856 sqft,20-Sep-13,"$165,000 ",37.736847,-121.43007,CA,Single-Family Home,165000,"$190,000 ",,,,,Sold,SAN JOAQUIN
+95304,22152 El Rancho Rd,2,3,Tracy,"1,570 sqft",19-Sep-13,"$395,000 ",37.757748,-121.37243,CA,Farm/Ranch,395000,"$433,000 ",,,,,Sold,SAN JOAQUIN
+95304,8829 Waterwell Way,6,7,Tracy,"7,628 sqft",18-Sep-13,"$1,438,000 ",37.697567,-121.4145,CA,Single-Family Home,1438000,"$1,159,000 ",,,,,Sold,SAN JOAQUIN
+95376,556 Rockingham Way,2.5,3,Tracy,"1,771 sqft",18-Sep-13,"$350,000 ",37.734077,-121.433945,CA,Single-Family Home,350000,"$358,000 ",,,,,Sold,SAN JOAQUIN
+95376,1386 Peppertree Way,2,3,Tracy,"1,127 sqft",18-Sep-13,"$286,000 ",37.742702,-121.450516,CA,Single-Family Home,286000,"$318,000 ",,,,,Sold,SAN JOAQUIN
+95304,15923 Redondo Dr,3,3,Tracy,"2,463 sqft",18-Sep-13,"$495,000 ",37.750137,-121.50586,CA,Single-Family Home,495000,"$544,000 ",,,,,Sold,SAN JOAQUIN
+95376,628 Williams Ct,2.5,4,Tracy,"1,858 sqft",18-Sep-13,"$340,000 ",37.713696,-121.434975,CA,Single-Family Home,340000,"$362,000 ",,,,,Sold,SAN JOAQUIN
+95376,1450 Heatherfield Way,2.5,4,Tracy,"2,074 sqft",17-Sep-13,"$344,500 ",37.743927,-121.44624,CA,Single-Family Home,344500,"$380,000 ",,,,,Sold,SAN JOAQUIN
+95376,3460 Cabrillo Ct,2,2,Tracy,"1,139 sqft",16-Sep-13,"$250,000 ",37.762222,-121.42001,CA,Single-Family Home,250000,"$264,000 ",,,,,Sold,SAN JOAQUIN
+95304,1386 Montauban St,3,5,Tracy,"3,324 sqft",16-Sep-13,"$405,000 ",37.715633,-121.40405,CA,Single-Family Home,405000,"$539,000 ",,,,,Sold,SAN JOAQUIN
+95377,1548 Cindy Way,3,4,Tracy,"2,211 sqft",13-Sep-13,"$369,000 ",37.745487,-121.45992,CA,Single-Family Home,369000,"$382,000 ",,,,,Sold,SAN JOAQUIN
+95377,4303 Lindsey Ln,2.5,4,Tracy,"2,215 sqft",13-Sep-13,"$343,000 ",37.700256,-121.42424,CA,Single-Family Home,343000,"$420,000 ",,,,,Sold,SAN JOAQUIN
+95376,1108 Joranollo Dr,2,3,Tracy,"1,431 sqft",13-Sep-13,"$268,000 ",37.72244,-121.41917,CA,Single-Family Home,268000,"$316,000 ",,,,,Sold,SAN JOAQUIN
+95304,2734 Gilberte Ct,3.5,5,Tracy,"3,698 sqft",13-Sep-13,"$515,000 ",37.710995,-121.39861,CA,Single-Family Home,515000,"$619,000 ",,,,,Sold,SAN JOAQUIN
+95377,184 Ridgeview Dr,3,4,Tracy,"2,447 sqft",13-Sep-13,"$400,000 ",37.701874,-121.42409,CA,Single-Family Home,400000,"$445,000 ",,,,,Sold,SAN JOAQUIN
+95376,142 Henry Ct,2.5,3,Tracy,"1,491 sqft",13-Sep-13,"$301,000 ",37.722317,-121.4292,CA,Single-Family Home,301000,"$350,000 ",,,,,Sold,SAN JOAQUIN
+95391,16515 W Grant Line Rd,2,3,Tracy,"1,702 sqft",13-Sep-13,"$555,000 ",37.747932,-121.57757,CA,Farm/Ranch,555000,"$680,000 ",,,,,Sold,ALAMEDA
+95376,321 Accipiter Ct,2.5,4,Tracy,"1,790 sqft",13-Sep-13,"$297,000 ",37.732525,-121.42083,CA,Single-Family Home,297000,"$336,000 ",,,,,Sold,SAN JOAQUIN
+95376,1243 Marlin Pl,1.5,3,Tracy,"1,144 sqft",13-Sep-13,"$222,000 ",37.74585,-121.44168,CA,Single-Family Home,222000,"$256,000 ",,,,,Sold,SAN JOAQUIN
+95376,650 Horse Shoe Loop,2.5,4,Tracy,"2,356 sqft",13-Sep-13,"$376,000 ",37.73547,-121.44775,CA,Single-Family Home,376000,"$412,000 ",,,,,Sold,SAN JOAQUIN
+95376,1449 Bluesage Ct,2,3,Tracy,"1,660 sqft",13-Sep-13,"$348,000 ",37.720802,-121.44267,CA,Single-Family Home,348000,"$371,000 ",,,,,Sold,SAN JOAQUIN
+95376,1600 Lynch Dr,2,3,Tracy,"1,245 sqft",13-Sep-13,"$232,500 ",37.75134,-121.44541,CA,Single-Family Home,232500,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95376,1420 Divine Ln,2.5,3,Tracy,"1,902 sqft",13-Sep-13,"$360,000 ",37.72908,-121.44191,CA,Single-Family Home,360000,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95376,1545 Deer Run Ln,3,5,Tracy,"2,598 sqft",13-Sep-13,"$427,500 ",37.73442,-121.44426,CA,Single-Family Home,427500,"$472,000 ",,,,,Sold,SAN JOAQUIN
+95376,1420 Harvest Ln,2.5,3,Tracy,"1,902 sqft",13-Sep-13,"$345,000 ",37.73022,-121.44204,CA,Single-Family Home,345000,"$378,000 ",,,,,Sold,SAN JOAQUIN
+95377,1200 King Loop,3,4,Tracy,"1,863 sqft",12-Sep-13,"$270,000 ",37.740784,-121.46932,CA,Single-Family Home,270000,"$382,000 ",,,,,Sold,SAN JOAQUIN
+95376,1650 N Tracy Blvd,2,3,Tracy,"1,490 sqft",12-Sep-13,"$175,000 ",37.746834,-121.434715,CA,Single-Family Home,175000,"$285,000 ",,,,,Sold,SAN JOAQUIN
+95376,425 Covey Ln,3,4,Tracy,"2,689 sqft",12-Sep-13,"$368,000 ",37.725822,-121.43176,CA,Single-Family Home,368000,"$418,000 ",,,,,Sold,SAN JOAQUIN
+95376,1965 Woodcrest Ct,2.5,3,Tracy,"1,808 sqft",12-Sep-13,"$325,000 ",37.757645,-121.45248,CA,Single-Family Home,325000,"$349,000 ",,,,,Sold,SAN JOAQUIN
+95377,2564 Storey Ct,3.5,5,Tracy,"3,140 sqft",12-Sep-13,"$441,000 ",37.73669,-121.46335,CA,Single-Family Home,441000,"$520,000 ",,,,,Sold,SAN JOAQUIN
+95376,1360 Harvest Ln,3,5,Tracy,"2,381 sqft",11-Sep-13,"$388,000 ",37.730026,-121.441414,CA,Single-Family Home,388000,"$414,000 ",,,,,Sold,SAN JOAQUIN
+95377,3242 Patina Ct,3.5,4,Tracy,"4,508 sqft",11-Sep-13,"$800,000 ",37.719666,-121.47565,CA,Single-Family Home,800000,"$853,000 ",,,,,Sold,SAN JOAQUIN
+95376,107 E Lowell Ave,2,3,Tracy,"1,771 sqft",11-Sep-13,"$285,000 ",37.74808,-121.42431,CA,Single-Family Home,285000,"$319,000 ",,,,,Sold,SAN JOAQUIN
+95376,80 Portola Way #106,1.5,2,Tracy,"1,050 sqft",11-Sep-13,"$110,000 ",37.75479,-121.424614,CA,Condo,110000,"$151,000 ",,,,,Sold,SAN JOAQUIN
+95376,1885 Foxwood Dr,2,3,Tracy,"1,628 sqft",11-Sep-13,"$325,000 ",37.736652,-121.450386,CA,Single-Family Home,325000,"$367,000 ",,,,,Sold,SAN JOAQUIN
+95377,880 Glencreek Dr,2.5,4,Tracy,"1,680 sqft",11-Sep-13,"$350,000 ",37.70994,-121.43754,CA,Single-Family Home,350000,"$373,000 ",,,,,Sold,SAN JOAQUIN
+95377,4242 Middlefield Dr,2,4,Tracy,"1,810 sqft",11-Sep-13,"$285,000 ",37.700443,-121.446236,CA,Single-Family Home,285000,"$377,000 ",,,,,Sold,SAN JOAQUIN
+95376,495 W Central Ave,2,3,Tracy,"1,306 sqft",11-Sep-13,"$275,000 ",37.71489,-121.43274,CA,Single-Family Home,275000,"$319,000 ",,,,,Sold,SAN JOAQUIN
+95376,415 W Lowell Ave,1,2,Tracy,934 sqft,11-Sep-13,"$185,000 ",37.74801,-121.431816,CA,Single-Family Home,185000,"$222,000 ",,,,,Sold,SAN JOAQUIN
+95304,19829 Alder Ave,1,3,Tracy,"1,156 sqft",10-Sep-13,"$240,000 ",37.781273,-121.36098,CA,Farm/Ranch,240000,"$309,000 ",,,,,Sold,SAN JOAQUIN
+95376,495 W Carlton Way,1,2,Tracy,912 sqft,9-Sep-13,"$200,000 ",37.746506,-121.43284,CA,Single-Family Home,200000,"$195,000 ",,,,,Sold,SAN JOAQUIN
+95376,1076 Sallie Ln,2.5,3,Tracy,"2,045 sqft",9-Sep-13,"$336,500 ",37.715385,-121.438805,CA,Apartment/Condo/Townhouse,336500,"$345,000 ",,,,,Sold,SAN JOAQUIN
+95377,2537 Veneto Ln,3,4,Tracy,"2,558 sqft",6-Sep-13,"$380,000 ",37.724953,-121.46228,CA,Single-Family Home,380000,"$429,000 ",,,,,Sold,SAN JOAQUIN
+95376,115 E Emerson Ave,1,3,Tracy,"1,070 sqft",6-Sep-13,"$252,000 ",37.74892,-121.423935,CA,Single-Family Home,252000,"$206,000 ",,,,,Sold,SAN JOAQUIN
+95377,1648 Springhill Ct,2,4,Tracy,"1,971 sqft",6-Sep-13,"$385,000 ",37.746365,-121.46455,CA,Single-Family Home,385000,"$413,000 ",,,,,Sold,SAN JOAQUIN
+95376,31 W Eaton Ave,2,3,Tracy,"1,300 sqft",6-Sep-13,"$250,000 ",37.743523,-121.42685,CA,Single-Family Home,250000,"$232,000 ",,,,,Sold,SAN JOAQUIN
+95304,8611 Waterwell Way,,,Tracy,,6-Sep-13,"$200,000 ",37.69803,-121.41165,CA,Single-Family Home,200000,"$174,000 ",,,,,Sold,SAN JOAQUIN
+95376,26172 S Corral Hollow Rd,3,4,Tracy,"3,165 sqft",6-Sep-13,"$515,000 ",37.718437,-121.452415,CA,Single-Family Home,515000,"$581,000 ",,,,,Sold,SAN JOAQUIN
+95377,561 Glenbriar Cir,3,5,Tracy,"2,817 sqft",6-Sep-13,"$465,000 ",37.70917,-121.41859,CA,Single-Family Home,465000,"$502,000 ",,,,,Sold,SAN JOAQUIN
+95376,20 E South St,2,4,Tracy,"1,789 sqft",5-Sep-13,"$280,000 ",37.729717,-121.42497,CA,Single-Family Home,280000,"$373,000 ",,,,,Sold,SAN JOAQUIN
+95377,2460 Tolbert Dr,3,4,Tracy,"2,629 sqft",5-Sep-13,"$306,000 ",37.73971,-121.461395,CA,Single-Family Home,306000,"$444,000 ",,,,,Sold,SAN JOAQUIN
+95376,1140 W 12th St,2,3,Tracy,"1,295 sqft",5-Sep-13,"$300,000 ",37.74071,-121.44045,CA,Single-Family Home,300000,"$284,000 ",,,,,Sold,SAN JOAQUIN
+95376,1930 Blossomwood Ln,2,3,Tracy,"1,458 sqft",4-Sep-13,"$320,000 ",37.716225,-121.433685,CA,Single-Family Home,320000,"$328,000 ",,,,,Sold,SAN JOAQUIN
+95377,2543 Evelyn Ct E,3,5,Tracy,"2,367 sqft",4-Sep-13,"$350,000 ",37.748596,-121.46312,CA,Single-Family Home,350000,"$477,000 ",,,,,Sold,SAN JOAQUIN
+95376,1430 Teakwood Way,2.5,3,Tracy,"1,461 sqft",4-Sep-13,"$285,000 ",37.74385,-121.45144,CA,Single-Family Home,285000,"$353,000 ",,,,,Sold,SAN JOAQUIN
+95376,307 Hollywood Ave,2,3,Tracy,"2,296 sqft",4-Sep-13,"$282,000 ",37.74462,-121.42091,CA,Single-Family Home,282000,"$345,000 ",,,,,Sold,SAN JOAQUIN
+95377,2450 Frnk Blondin Ln,3,3,Tracy,"2,095 sqft",4-Sep-13,"$429,500 ",37.73204,-121.455414,CA,Single-Family Home,429500,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95377,2965 Ray M Gutierrez Ln,3,4,Tracy,"1,800 sqft",3-Sep-13,"$335,000 ",37.745464,-121.47025,CA,Single-Family Home,335000,"$356,000 ",,,,,Sold,SAN JOAQUIN
+95376,1831 Alegre Dr,2,3,Tracy,"1,245 sqft",3-Sep-13,"$258,000 ",37.75245,-121.44999,CA,Single-Family Home,258000,"$297,000 ",,,,,Sold,SAN JOAQUIN
+95377,2357 Golden Leaf Ln,3,4,Tracy,"2,448 sqft",3-Sep-13,"$380,000 ",37.726276,-121.458755,CA,Single-Family Home,380000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95376,95 Country Ct,3,3,Tracy,"1,945 sqft",30-Aug-13,"$300,000 ",37.726177,-121.427414,CA,Single-Family Home,300000,"$392,000 ",,,,,Sold,SAN JOAQUIN
+95376,1981 Earl Way,2,3,Tracy,"1,199 sqft",30-Aug-13,"$291,000 ",37.716,-121.42729,CA,Single-Family Home,291000,"$304,000 ",,,,,Sold,SAN JOAQUIN
+95377,2216 Aragon Ct,3,5,Tracy,"2,652 sqft",30-Aug-13,"$401,000 ",37.726543,-121.45704,CA,Single-Family Home,401000,"$460,000 ",,,,,Sold,SAN JOAQUIN
+95376,410 Graham Ct,2.5,4,Tracy,"1,567 sqft",30-Aug-13,"$292,000 ",37.75538,-121.418945,CA,Single-Family Home,292000,"$320,000 ",,,,,Sold,SAN JOAQUIN
+95377,2586 Spencer Ct,3,4,Tracy,"2,051 sqft",30-Aug-13,"$345,000 ",37.742622,-121.46366,CA,Single-Family Home,345000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95376,245 N Hickory Ave,2.5,3,Tracy,"1,902 sqft",30-Aug-13,"$310,000 ",37.73229,-121.443535,CA,Single-Family Home,310000,"$369,000 ",,,,,Sold,SAN JOAQUIN
+95376,1561 Bayberry Ln,2,3,Tracy,"1,600 sqft",30-Aug-13,"$325,500 ",37.727955,-121.44476,CA,Single-Family Home,325500,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95377,2369 Ogden Sannazor Dr,4,6,Tracy,"3,632 sqft",30-Aug-13,"$452,000 ",37.74335,-121.45944,CA,Single-Family Home,452000,"$490,000 ",,,,,Sold,SAN JOAQUIN
+95376,1335 Pickford Ct,2.5,4,Tracy,"2,152 sqft",30-Aug-13,"$375,000 ",37.712868,-121.44154,CA,Single-Family Home,375000,"$418,000 ",,,,,Sold,SAN JOAQUIN
+95377,2080 Holder Ln,2.5,3,Tracy,"2,008 sqft",30-Aug-13,"$327,500 ",37.74737,-121.454765,CA,Single-Family Home,327500,"$379,000 ",,,,,Sold,SAN JOAQUIN
+95376,1260 Nutcracker Ct,3,4,Tracy,"2,484 sqft",30-Aug-13,"$408,000 ",37.71653,-121.44056,CA,Single-Family Home,408000,"$430,000 ",,,,,Sold,SAN JOAQUIN
+95377,2253 Joseph Damon Dr,3,3,Tracy,"1,461 sqft",30-Aug-13,"$295,000 ",37.753036,-121.45809,CA,Single-Family Home,295000,"$344,000 ",,,,,Sold,SAN JOAQUIN
+95377,2631 Wyman Ct,3.5,5,Tracy,"2,919 sqft",29-Aug-13,"$514,000 ",37.735767,-121.464035,CA,Single-Family Home,514000,"$510,000 ",,,,,Sold,SAN JOAQUIN
+95377,1500 Joseph Menusa Ln,3,4,Tracy,"2,211 sqft",29-Aug-13,"$405,000 ",37.74491,-121.45623,CA,Single-Family Home,405000,"$443,000 ",,,,,Sold,SAN JOAQUIN
+95376,1860 Village Dr,2,4,Tracy,"1,312 sqft",29-Aug-13,"$284,500 ",37.71687,-121.431335,CA,Single-Family Home,284500,"$309,000 ",,,,,Sold,SAN JOAQUIN
+95376,415 Northgate Ct,2.5,3,Tracy,"2,078 sqft",29-Aug-13,"$240,000 ",37.76001,-121.431526,CA,Single-Family Home,240000,"$337,000 ",,,,,Sold,SAN JOAQUIN
+95376,330 Accipiter Ct,3,4,Tracy,"1,859 sqft",28-Aug-13,"$320,000 ",37.732056,-121.420616,CA,Single-Family Home,320000,"$353,000 ",,,,,Sold,SAN JOAQUIN
+95377,2080 Madera Ct,3,5,Tracy,"2,490 sqft",27-Aug-13,"$425,000 ",37.740517,-121.45476,CA,Single-Family Home,425000,"$403,000 ",,,,,Sold,SAN JOAQUIN
+95376,320 Jaeger St,2.5,3,Tracy,"1,446 sqft",27-Aug-13,"$290,000 ",37.731552,-121.41988,CA,Single-Family Home,290000,"$321,000 ",,,,,Sold,SAN JOAQUIN
+95376,2820 Ponte Mira Way,3,4,Tracy,"2,203 sqft",27-Aug-13,"$345,000 ",37.75711,-121.43977,CA,Single-Family Home,345000,"$374,000 ",,,,,Sold,SAN JOAQUIN
+95304,2569 Almanor Dr,2.5,4,Tracy,"2,190 sqft",27-Aug-13,"$370,000 ",37.71227,-121.41594,CA,Single-Family Home,370000,"$395,000 ",,,,,Sold,SAN JOAQUIN
+95377,1582 Jennifer Way,3,4,Tracy,"2,100 sqft",27-Aug-13,"$391,000 ",37.745895,-121.45443,CA,Single-Family Home,391000,"$445,000 ",,,,,Sold,SAN JOAQUIN
+95377,2467 Peppercorn Ln,2,4,Tracy,"1,971 sqft",27-Aug-13,"$390,000 ",37.746723,-121.46115,CA,Single-Family Home,390000,"$401,000 ",,,,,Sold,SAN JOAQUIN
+95304,28065 S Traina Ct,4,4,Tracy,"3,519 sqft",27-Aug-13,"$685,000 ",37.700428,-121.40441,CA,Single-Family Home,685000,"$730,000 ",,,,,Sold,SAN JOAQUIN
+95377,4615 Citrus Way,2,3,Tracy,"1,588 sqft",27-Aug-13,"$328,000 ",37.697906,-121.43077,CA,Single-Family Home,328000,"$363,000 ",,,,,Sold,SAN JOAQUIN
+95377,1314 Ray Harvey Dr,2,3,Tracy,"1,168 sqft",27-Aug-13,"$275,000 ",37.70654,-121.44125,CA,Single-Family Home,275000,"$304,000 ",,,,,Sold,SAN JOAQUIN
+95377,1595 Lankershire Dr,3,4,Tracy,"1,800 sqft",26-Aug-13,"$250,000 ",37.745815,-121.47134,CA,Single-Family Home,250000,"$341,000 ",,,,,Sold,SAN JOAQUIN
+95377,389 Cose Ln,2,4,Tracy,"1,782 sqft",26-Aug-13,"$315,000 ",37.704018,-121.42041,CA,Single-Family Home,315000,"$378,000 ",,,,,Sold,SAN JOAQUIN
+95377,4317 Famoso Ln,3,4,Tracy,"2,128 sqft",26-Aug-13,"$330,000 ",37.699886,-121.44851,CA,Single-Family Home,330000,"$394,000 ",,,,,Sold,SAN JOAQUIN
+95377,4126 Keepsake Ct,2.5,4,Tracy,"2,376 sqft",26-Aug-13,"$369,000 ",37.701416,-121.45108,CA,Single-Family Home,369000,"$403,000 ",,,,,Sold,SAN JOAQUIN
+95377,2076 Vivian Ct,3,4,Tracy,"2,620 sqft",23-Aug-13,"$420,000 ",37.74371,-121.45506,CA,Single-Family Home,420000,"$490,000 ",,,,,Sold,SAN JOAQUIN
+95377,2576 Paul Poole Dr,2.5,4,Tracy,"2,945 sqft",23-Aug-13,"$478,000 ",37.737545,-121.463585,CA,Single-Family Home,478000,"$482,000 ",,,,,Sold,SAN JOAQUIN
+95377,1265 Dover Ln,2.5,3,Tracy,"1,531 sqft",23-Aug-13,"$315,000 ",37.741867,-121.47149,CA,Single-Family Home,315000,"$343,000 ",,,,,Sold,SAN JOAQUIN
+95376,180 Hawthorne Dr,2,3,Tracy,"1,191 sqft",23-Aug-13,"$205,000 ",37.761955,-121.42835,CA,Single-Family Home,205000,"$237,000 ",,,,,Sold,SAN JOAQUIN
+95376,2635 Nivens St,2.5,3,Tracy,"1,373 sqft",23-Aug-13,"$292,000 ",37.755463,-121.45276,CA,Single-Family Home,292000,"$322,000 ",,,,,Sold,SAN JOAQUIN
+95377,2064 Thelma Loop,3,4,Tracy,"2,158 sqft",23-Aug-13,"$365,000 ",37.74594,-121.473404,CA,Single-Family Home,365000,"$398,000 ",,,,,Sold,SAN JOAQUIN
+95377,838 Alexander Gabriel Ct,3,4,Tracy,"2,350 sqft",23-Aug-13,"$460,000 ",37.72296,-121.45892,CA,Single-Family Home,460000,"$494,000 ",,,,,Sold,SAN JOAQUIN
+95376,911 Lassen Ct,2.5,4,Tracy,"1,872 sqft",23-Aug-13,"$335,000 ",37.72209,-121.45065,CA,Single-Family Home,335000,"$354,000 ",,,,,Sold,SAN JOAQUIN
+95376,1928 Pagoda Ct,2.5,4,Tracy,"2,032 sqft",23-Aug-13,"$369,000 ",37.725426,-121.45115,CA,Single-Family Home,369000,"$382,000 ",,,,,Sold,SAN JOAQUIN
+95376,519 Yosemite Dr,2,3,Tracy,"1,167 sqft",23-Aug-13,"$260,000 ",37.721107,-121.41758,CA,Single-Family Home,260000,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95377,542 Veneto Ct,2.5,4,Tracy,"2,420 sqft",23-Aug-13,"$360,000 ",37.724075,-121.46132,CA,Single-Family Home,360000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95376,1735 Harvest Landing Ln,4,3,Tracy,"2,737 sqft",23-Aug-13,"$350,000 ",37.729485,-121.447815,CA,Single-Family Home,350000,"$445,000 ",,,,,Sold,SAN JOAQUIN
+95376,1010 Tarrogana Dr,2.5,3,Tracy,"2,168 sqft",23-Aug-13,"$368,000 ",37.72285,-121.42446,CA,Single-Family Home,368000,"$379,000 ",,,,,Sold,SAN JOAQUIN
+95376,155 E 12th St,1,2,Tracy,976 sqft,23-Aug-13,"$187,000 ",37.740585,-121.42341,CA,Single-Family Home,187000,"$228,000 ",,,,,Sold,SAN JOAQUIN
+95376,210 E Carlton Way,2,2,Tracy,"1,146 sqft",22-Aug-13,"$177,000 ",37.745857,-121.42265,CA,Single-Family Home,177000,"$243,000 ",,,,,Sold,SAN JOAQUIN
+95377,2623 Merchant Dr,2.5,4,Tracy,"2,498 sqft",22-Aug-13,"$405,000 ",37.73663,-121.46491,CA,Single-Family Home,405000,"$427,000 ",,,,,Sold,SAN JOAQUIN
+95377,12046 Midway Dr,2,4,Tracy,"1,903 sqft",22-Aug-13,"$350,000 ",37.717564,-121.454124,CA,Single-Family Home,350000,"$432,000 ",,,,,Sold,SAN JOAQUIN
+95377,1764 Rochester St,2.5,3,Tracy,"2,390 sqft",22-Aug-13,"$382,000 ",37.74868,-121.46723,CA,Single-Family Home,382000,"$409,000 ",,,,,Sold,SAN JOAQUIN
+95376,515 Peerless Way #3,1,2,Tracy,947 sqft,22-Aug-13,"$152,000 ",37.72413,-121.41798,CA,Condo,152000,"$169,000 ",,,,,Sold,SAN JOAQUIN
+95376,515 Peerless Way #7,2.5,3,Tracy,"1,298 sqft",21-Aug-13,"$170,000 ",37.724148,-121.41764,CA,Condo,170000,"$228,000 ",,,,,Sold,SAN JOAQUIN
+95376,1880 Bristlecone Dr,2,3,Tracy,"1,306 sqft",21-Aug-13,"$244,500 ",37.716835,-121.430435,CA,Single-Family Home,244500,"$299,000 ",,,,,Sold,SAN JOAQUIN
+95304,746 Manitoba Ct,3,4,Tracy,"2,368 sqft",21-Aug-13,"$400,000 ",37.711636,-121.41408,CA,Single-Family Home,400000,"$420,000 ",,,,,Sold,SAN JOAQUIN
+95377,1552 Blackbird Ct,4,5,Tracy,"2,748 sqft",21-Aug-13,"$330,000 ",37.74558,-121.461754,CA,Single-Family Home,330000,"$470,000 ",,,,,Sold,SAN JOAQUIN
+95377,687 Jefferson Ln,4,5,Tracy,"3,023 sqft",21-Aug-13,"$400,000 ",37.735126,-121.47026,CA,Single-Family Home,400000,"$494,000 ",,,,,Sold,SAN JOAQUIN
+95376,490 Hawthorne Dr,3,3,Tracy,"1,516 sqft",20-Aug-13,"$170,000 ",37.762047,-121.43218,CA,Single-Family Home,170000,"$271,000 ",,,,,Sold,SAN JOAQUIN
+95376,90 E Clover Rd,2,3,Tracy,"1,277 sqft",20-Aug-13,"$170,500 ",37.761272,-121.42459,CA,Single-Family Home,170500,"$263,000 ",,,,,Sold,SAN JOAQUIN
+95304,1896 Bankston Dr,2,4,Tracy,"2,145 sqft",20-Aug-13,"$335,000 ",37.71681,-121.40743,CA,Single-Family Home,335000,"$413,000 ",,,,,Sold,SAN JOAQUIN
+95376,1740 Reyes Ln,2,3,Tracy,"1,537 sqft",20-Aug-13,"$305,000 ",37.754528,-121.44702,CA,Single-Family Home,305000,"$324,000 ",,,,,Sold,SAN JOAQUIN
+95376,323 Acacia St,1,3,Tracy,956 sqft,20-Aug-13,"$210,000 ",37.747253,-121.42014,CA,Single-Family Home,210000,"$232,000 ",,,,,Sold,SAN JOAQUIN
+95377,2264 Gary Ln,3,4,Tracy,"2,211 sqft",20-Aug-13,"$200,000 ",37.744534,-121.45785,CA,Single-Family Home,200000,"$393,000 ",,,,,Sold,SAN JOAQUIN
+95376,2148 Wellington Dr,3.5,3,Tracy,"1,703 sqft",20-Aug-13,"$315,000 ",37.71548,-121.43812,CA,Single-Family Home,315000,"$350,000 ",,,,,Sold,SAN JOAQUIN
+95376,35 E 22nd St,2,5,Tracy,"1,596 sqft",20-Aug-13,"$205,000 ",37.752766,-121.424706,CA,Single-Family Home,205000,"$281,000 ",,,,,Sold,SAN JOAQUIN
+95377,2973 Campbell Ln,3,5,Tracy,"2,516 sqft",20-Aug-13,"$390,000 ",37.744923,-121.47056,CA,Single-Family Home,390000,"$437,000 ",,,,,Sold,SAN JOAQUIN
+95377,2758 Handstand Way,2.5,4,Tracy,"3,485 sqft",20-Aug-13,"$520,000 ",37.72133,-121.46811,CA,Single-Family Home,520000,"$619,000 ",,,,,Sold,SAN JOAQUIN
+95376,331 Accipiter Ct,3,4,Tracy,"1,859 sqft",19-Aug-13,"$190,000 ",37.732536,-121.420654,CA,Single-Family Home,190000,"$325,000 ",,,,,Sold,SAN JOAQUIN
+95304,1134 Powell Ct,2.5,4,Tracy,"2,190 sqft",19-Aug-13,"$285,000 ",37.71232,-121.408195,CA,Single-Family Home,285000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95376,1101 Rusher St,2,3,Tracy,"1,542 sqft",16-Aug-13,"$255,000 ",37.752483,-121.440094,CA,Single-Family Home,255000,"$292,000 ",,,,,Sold,SAN JOAQUIN
+95376,578 W 4th St,2.5,4,Tracy,"1,869 sqft",16-Aug-13,"$265,000 ",37.72986,-121.433815,CA,Single-Family Home,265000,"$347,000 ",,,,,Sold,SAN JOAQUIN
+95377,2044 Thelma Loop,3,4,Tracy,"2,443 sqft",16-Aug-13,"$450,000 ",37.745815,-121.47347,CA,Single-Family Home,450000,"$418,000 ",,,,,Sold,SAN JOAQUIN
+95377,1021 Kennedy Pl,2,3,Tracy,"1,518 sqft",16-Aug-13,"$225,000 ",37.738503,-121.47121,CA,Single-Family Home,225000,"$340,000 ",,,,,Sold,SAN JOAQUIN
+95376,475 Peerless Way #30,2.5,3,Tracy,"1,298 sqft",15-Aug-13,"$175,000 ",37.72478,-121.41881,CA,Condo,175000,"$228,000 ",,,,,Sold,SAN JOAQUIN
+95377,2450 W Byron Rd,4,6,Tracy,"2,969 sqft",15-Aug-13,"$160,000 ",37.74378,-121.461555,CA,Farm/Ranch,160000,"$316,000 ",,,,,Sold,SAN JOAQUIN
+95376,1238 Palomino Dr,2,3,Tracy,"1,159 sqft",15-Aug-13,"$230,000 ",37.725838,-121.440994,CA,Single-Family Home,230000,"$299,000 ",,,,,Sold,SAN JOAQUIN
+95304,1660 Edna Ct,3,4,Tracy,"2,754 sqft",15-Aug-13,"$527,500 ",37.67322,-121.32604,CA,Single-Family Home,527500,"$595,000 ",,,,,Sold,SAN JOAQUIN
+95377,4319 Roxbury Dr,2.5,3,Tracy,"1,945 sqft",15-Aug-13,"$356,000 ",37.699642,-121.44945,CA,Single-Family Home,356000,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95304,3565 W Linne Rd,2.5,4,Tracy,"2,046 sqft",14-Aug-13,"$430,000 ",37.696793,-121.35009,CA,Farm/Ranch,430000,"$453,000 ",,,,,Sold,SAN JOAQUIN
+95376,1587 Parkside Ct,2.5,4,Tracy,"2,362 sqft",13-Aug-13,"$365,000 ",37.724537,-121.4454,CA,Single-Family Home,365000,"$406,000 ",,,,,Sold,SAN JOAQUIN
+95377,27510 S Corral Hollow Rd,2.5,4,Tracy,"2,167 sqft",13-Aug-13,"$415,000 ",37.705647,-121.45202,CA,Single-Family Home,415000,"$460,000 ",,,,,Sold,SAN JOAQUIN
+95376,1402 Egret Dr,2.5,4,Tracy,"2,272 sqft",13-Aug-13,"$390,000 ",37.7203,-121.443085,CA,Single-Family Home,390000,"$421,000 ",,,,,Sold,SAN JOAQUIN
+95376,450 Altamont Dr,2.5,3,Tracy,"1,794 sqft",12-Aug-13,"$285,000 ",37.726803,-121.42114,CA,Single-Family Home,285000,"$350,000 ",,,,,Sold,SAN JOAQUIN
+95304,21301 San Jose Rd,2,3,Tracy,"1,350 sqft",12-Aug-13,"$800,000 ",37.76435,-121.49125,CA,Multi-Family,800000,"$414,000 ",,,,,Sold,SAN JOAQUIN
+95376,223 E 21st St,1,3,Tracy,"1,320 sqft",12-Aug-13,"$225,000 ",37.752003,-121.42262,CA,Single-Family Home,225000,"$256,000 ",,,,,Sold,SAN JOAQUIN
+95376,1530 Doe Trail Ln,2.5,3,Tracy,"1,948 sqft",9-Aug-13,"$365,000 ",37.734764,-121.44406,CA,Single-Family Home,365000,"$386,000 ",,,,,Sold,SAN JOAQUIN
+95377,4263 Middlefield Dr,3,4,Tracy,"2,265 sqft",9-Aug-13,"$385,000 ",37.70028,-121.44678,CA,Single-Family Home,385000,"$402,000 ",,,,,Sold,SAN JOAQUIN
+95377,2108 Ashley Ln,3,5,Tracy,"2,590 sqft",9-Aug-13,"$440,000 ",37.72339,-121.45466,CA,Single-Family Home,440000,"$489,000 ",,,,,Sold,SAN JOAQUIN
+95376,1875 Foxwood Dr,2.5,4,Tracy,"1,899 sqft",8-Aug-13,"$355,000 ",37.736523,-121.45025,CA,Single-Family Home,355000,"$371,000 ",,,,,Sold,SAN JOAQUIN
+95376,710 Chestnut Ave,2,3,Tracy,"1,168 sqft",8-Aug-13,"$250,000 ",37.735947,-121.441605,CA,Single-Family Home,250000,"$276,000 ",,,,,Sold,SAN JOAQUIN
+95377,1110 Valencia Dr,3,4,Tracy,"2,608 sqft",7-Aug-13,"$385,000 ",37.74004,-121.45665,CA,Single-Family Home,385000,"$408,000 ",,,,,Sold,SAN JOAQUIN
+95376,1635 Tahoe Cir,2.5,3,Tracy,"1,880 sqft",6-Aug-13,"$340,000 ",37.72098,-121.436165,CA,Single-Family Home,340000,"$380,000 ",,,,,Sold,SAN JOAQUIN
+95376,1354 Pickford Ct,3,3,Tracy,"2,294 sqft",6-Aug-13,"$370,000 ",37.712425,-121.44174,CA,Single-Family Home,370000,"$420,000 ",,,,,Sold,SAN JOAQUIN
+95376,331 E 21st St,2,3,Tracy,956 sqft,6-Aug-13,"$235,000 ",37.752075,-121.420296,CA,Single-Family Home,235000,"$215,000 ",,,,,Sold,SAN JOAQUIN
+95377,1140 Whispering Wind Dr,2.5,4,Tracy,"2,530 sqft",5-Aug-13,"$377,000 ",37.700237,-121.43973,CA,Single-Family Home,377000,"$424,000 ",,,,,Sold,SAN JOAQUIN
+95376,450 Wagtail Dr,3,4,Tracy,"1,859 sqft",5-Aug-13,"$335,000 ",37.732777,-121.41911,CA,Single-Family Home,335000,"$334,000 ",,,,,Sold,SAN JOAQUIN
+95376,2805 Buthmann Ave,2,3,Tracy,"1,440 sqft",5-Aug-13,"$237,000 ",37.75727,-121.43256,CA,Single-Family Home,237000,"$296,000 ",,,,,Sold,SAN JOAQUIN
+95304,23448 Currier Dr,2,3,Tracy,"1,655 sqft",2-Aug-13,"$515,000 ",37.744514,-121.50471,CA,Single-Family Home,515000,"$525,000 ",,,,,Sold,SAN JOAQUIN
+95376,774 Oneil Ct,3,4,Tracy,"2,294 sqft",2-Aug-13,"$399,000 ",37.71166,-121.43745,CA,Single-Family Home,399000,"$429,000 ",,,,,Sold,SAN JOAQUIN
+95376,334 W Emerson Ave,1,2,Tracy,885 sqft,2-Aug-13,"$192,000 ",37.748543,-121.43076,CA,Single-Family Home,192000,"$215,000 ",,,,,Sold,SAN JOAQUIN
+95377,4241 Glenhaven Dr,3,5,Tracy,"2,836 sqft",2-Aug-13,"$465,000 ",37.70067,-121.4253,CA,Single-Family Home,465000,"$520,000 ",,,,,Sold,SAN JOAQUIN
+95377,1430 Joseph Menusa Ln,3,4,Tracy,"2,487 sqft",2-Aug-13,"$325,000 ",37.743835,-121.45628,CA,Single-Family Home,325000,"$436,000 ",,,,,Sold,SAN JOAQUIN
+95304,8542 Ranch Rd,4.5,5,Tracy,"5,125 sqft",2-Aug-13,"$890,000 ",37.70052,-121.41024,CA,Single-Family Home,890000,"$847,000 ",,,,,Sold,SAN JOAQUIN
+95376,263 Fairmont Ln,2,3,Tracy,"1,660 sqft",1-Aug-13,"$338,000 ",37.715847,-121.42259,CA,Single-Family Home,338000,"$384,000 ",,,,,Sold,SAN JOAQUIN
+95377,1455 Tom Fowler Dr,3,4,Tracy,"2,038 sqft",1-Aug-13,"$383,000 ",37.704514,-121.44267,CA,Single-Family Home,383000,"$417,000 ",,,,,Sold,SAN JOAQUIN
+95377,473 Quail Run Cir,3,5,Tracy,"2,817 sqft",1-Aug-13,"$465,000 ",37.708076,-121.422195,CA,Single-Family Home,465000,"$508,000 ",,,,,Sold,SAN JOAQUIN
+95376,1462 Greenwillow Way,2.5,3,Tracy,"1,566 sqft",1-Aug-13,"$324,000 ",37.743107,-121.44763,CA,Single-Family Home,324000,"$347,000 ",,,,,Sold,SAN JOAQUIN
+95376,3500 Surrey Dr,2.5,4,Tracy,"1,588 sqft",1-Aug-13,"$305,000 ",37.76248,-121.42184,CA,Single-Family Home,305000,"$328,000 ",,,,,Sold,SAN JOAQUIN
+95377,3130 Jerrold Zanzi Ln,3,5,Tracy,"2,568 sqft",1-Aug-13,"$440,000 ",37.739796,-121.47356,CA,Single-Family Home,440000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95377,480 Belmont Ln,2,2,Tracy,"1,235 sqft",31-Jul-13,"$280,000 ",37.72301,-121.46619,CA,Single-Family Home,280000,"$319,000 ",,,,,Sold,SAN JOAQUIN
+95376,511 Czerny St,2.5,3,Tracy,"1,446 sqft",31-Jul-13,"$235,000 ",37.73287,-121.417915,CA,Single-Family Home,235000,"$319,000 ",,,,,Sold,SAN JOAQUIN
+95377,2666 Daisy Ln,2,2,Tracy,"1,235 sqft",31-Jul-13,"$290,000 ",37.721092,-121.46648,CA,Single-Family Home,290000,"$328,000 ",,,,,Sold,SAN JOAQUIN
+95376,1143 Wall St,1,2,Tracy,995 sqft,31-Jul-13,"$196,000 ",37.740463,-121.43165,CA,Single-Family Home,196000,"$177,000 ",,,,,Sold,SAN JOAQUIN
+95376,312 Sekera Ct,2.5,3,Tracy,"1,973 sqft",31-Jul-13,"$330,000 ",37.73299,-121.43148,CA,Single-Family Home,330000,"$386,000 ",,,,,Sold,SAN JOAQUIN
+95377,330 Arezzo Way,2,4,Tracy,"1,841 sqft",31-Jul-13,"$252,500 ",37.702244,-121.43033,CA,Single-Family Home,252500,"$343,000 ",,,,,Sold,SAN JOAQUIN
+95304,1524 Badger Way,3,5,Tracy,"2,883 sqft",31-Jul-13,"$430,000 ",37.719868,-121.41542,CA,Single-Family Home,430000,"$523,000 ",,,,,Sold,SAN JOAQUIN
+95377,2175 Jenni Ln,2.5,3,Tracy,"2,008 sqft",31-Jul-13,"$320,000 ",37.749226,-121.45651,CA,Single-Family Home,320000,"$376,000 ",,,,,Sold,SAN JOAQUIN
+95377,217 James W Smith Dr,2.5,4,Tracy,"1,969 sqft",31-Jul-13,"$401,000 ",37.705643,-121.42311,CA,Single-Family Home,401000,"$403,000 ",,,,,Sold,SAN JOAQUIN
+95376,3245 Ernest Dr,3,5,Tracy,"1,984 sqft",31-Jul-13,"$340,000 ",37.76035,-121.418175,CA,Single-Family Home,340000,"$363,000 ",,,,,Sold,SAN JOAQUIN
+95376,1511 Mcdermott Dr,2,4,Tracy,"1,422 sqft",30-Jul-13,"$272,000 ",37.74507,-121.444664,CA,Single-Family Home,272000,"$285,000 ",,,,,Sold,SAN JOAQUIN
+95376,130 Loma Prieta Cir,2,3,Tracy,"2,045 sqft",30-Jul-13,"$330,000 ",37.726147,-121.42409,CA,Single-Family Home,330000,"$390,000 ",,,,,Sold,SAN JOAQUIN
+95377,1130 Madera Dr,3,5,Tracy,"3,047 sqft",29-Jul-13,"$325,000 ",37.740295,-121.45354,CA,Single-Family Home,325000,"$463,000 ",,,,,Sold,SAN JOAQUIN
+95304,1593 Badger Way,3.5,4,Tracy,"2,780 sqft",29-Jul-13,"$351,000 ",37.71922,-121.416,CA,Single-Family Home,351000,"$477,000 ",,,,,Sold,SAN JOAQUIN
+95377,2829 Hawkins Ln,2.5,3,Tracy,"1,815 sqft",29-Jul-13,"$304,000 ",37.7506,-121.468155,CA,Single-Family Home,304000,"$349,000 ",,,,,Sold,SAN JOAQUIN
+95304,1728 Toulouse Ct,3,6,Tracy,"3,400 sqft",29-Jul-13,"$555,000 ",37.71499,-121.3986,CA,Single-Family Home,555000,"$581,000 ",,,,,Sold,SAN JOAQUIN
+95377,1558 Cindy Way,2,4,Tracy,"1,850 sqft",29-Jul-13,"$350,000 ",37.745644,-121.45992,CA,Single-Family Home,350000,"$369,000 ",,,,,Sold,SAN JOAQUIN
+95377,1193 Montgomery Ln,3,5,Tracy,"2,516 sqft",26-Jul-13,"$414,000 ",37.741005,-121.47074,CA,Single-Family Home,414000,"$435,000 ",,,,,Sold,SAN JOAQUIN
+95304,27679 S Fairoaks Rd,4.5,6,Tracy,"3,616 sqft",26-Jul-13,"$560,000 ",37.703976,-121.407974,CA,Single-Family Home,560000,"$593,000 ",,,,,Sold,SAN JOAQUIN
+95377,745 Shelborne Dr,2.5,3,Tracy,"1,388 sqft",26-Jul-13,"$300,000 ",37.7091,-121.43603,CA,Single-Family Home,300000,"$324,000 ",,,,,Sold,SAN JOAQUIN
+95376,132 Henry Ct,2.5,3,Tracy,"1,812 sqft",26-Jul-13,"$315,000 ",37.722317,-121.42904,CA,Single-Family Home,315000,"$376,000 ",,,,,Sold,SAN JOAQUIN
+95376,2708 Louise Ave,2,3,Tracy,"1,216 sqft",26-Jul-13,"$236,000 ",37.75667,-121.430626,CA,Single-Family Home,236000,"$276,000 ",,,,,Sold,SAN JOAQUIN
+95376,1351 Standridge Ct,1,2,Tracy,"1,000 sqft",26-Jul-13,"$200,000 ",37.751064,-121.442406,CA,Single-Family Home,200000,"$230,000 ",,,,,Sold,SAN JOAQUIN
+95376,3407 Mary Jean Ln,2,3,Tracy,"1,337 sqft",26-Jul-13,"$258,000 ",37.761436,-121.41904,CA,Single-Family Home,258000,"$318,000 ",,,,,Sold,SAN JOAQUIN
+95376,1979 Knollcrest Ln,2.5,3,Tracy,"1,689 sqft",26-Jul-13,"$318,000 ",37.742397,-121.45196,CA,Single-Family Home,318000,"$372,000 ",,,,,Sold,SAN JOAQUIN
+95376,341 Chukar Ct,3,4,Tracy,"1,859 sqft",26-Jul-13,"$170,000 ",37.73176,-121.42073,CA,Single-Family Home,170000,"$357,000 ",,,,,Sold,SAN JOAQUIN
+95376,1241 Lonna Way,2,3,Tracy,"1,444 sqft",25-Jul-13,"$265,000 ",37.74165,-121.44014,CA,Single-Family Home,265000,"$288,000 ",,,,,Sold,SAN JOAQUIN
+95377,4718 Bonsai Ave,2.5,3,Tracy,"1,858 sqft",25-Jul-13,"$325,000 ",37.697186,-121.42926,CA,Single-Family Home,325000,"$388,000 ",,,,,Sold,SAN JOAQUIN
+95376,2110 Tahoe Cir,2.5,3,Tracy,"1,577 sqft",25-Jul-13,"$276,000 ",37.717995,-121.43534,CA,Single-Family Home,276000,"$352,000 ",,,,,Sold,SAN JOAQUIN
+95376,1156 Joranollo Dr,2,4,Tracy,"1,393 sqft",25-Jul-13,"$190,000 ",37.72176,-121.41918,CA,Single-Family Home,190000,"$299,000 ",,,,,Sold,SAN JOAQUIN
+95376,1430 Parkside Dr,2.5,4,Tracy,"1,945 sqft",25-Jul-13,"$345,000 ",37.722733,-121.44272,CA,Single-Family Home,345000,"$393,000 ",,,,,Sold,SAN JOAQUIN
+95376,1150 Vallerand Rd,1,3,Tracy,"1,043 sqft",24-Jul-13,"$180,000 ",37.751373,-121.440735,CA,Single-Family Home,180000,"$247,000 ",,,,,Sold,SAN JOAQUIN
+95376,310 Pepperwood Ct,2,3,Tracy,"1,592 sqft",24-Jul-13,"$317,000 ",37.726578,-121.44944,CA,Single-Family Home,317000,"$349,000 ",,,,,Sold,SAN JOAQUIN
+95377,161 Oak Crest Ct,3,5,Tracy,"2,869 sqft",23-Jul-13,"$420,000 ",37.708893,-121.42385,CA,Single-Family Home,420000,"$473,000 ",,,,,Sold,SAN JOAQUIN
+95377,1341 Manley Dr,3.5,5,Tracy,"2,919 sqft",23-Jul-13,"$430,000 ",37.743183,-121.4603,CA,Single-Family Home,430000,"$483,000 ",,,,,Sold,SAN JOAQUIN
+95376,232 E 9th St,1,2,Tracy,872 sqft,23-Jul-13,"$122,000 ",37.737144,-121.42159,CA,Single-Family Home,122000,"$193,000 ",,,,,Sold,SAN JOAQUIN
+95376,2083 Dorothy Ln,2.5,4,Tracy,"1,667 sqft",23-Jul-13,"$308,000 ",37.75146,-121.44756,CA,Single-Family Home,308000,"$337,000 ",,,,,Sold,SAN JOAQUIN
+95377,290 Portico Ln,2.5,5,Tracy,"2,652 sqft",22-Jul-13,"$432,000 ",37.726387,-121.4535,CA,Single-Family Home,432000,"$447,000 ",,,,,Sold,SAN JOAQUIN
+95377,1223 Montgomery Ln,3,5,Tracy,"2,516 sqft",22-Jul-13,"$400,000 ",37.741417,-121.47074,CA,Single-Family Home,400000,"$449,000 ",,,,,Sold,SAN JOAQUIN
+95377,764 Presidio Pl,2.5,4,Tracy,"2,498 sqft",19-Jul-13,"$409,000 ",37.736004,-121.467606,CA,Single-Family Home,409000,"$427,000 ",,,,,Sold,SAN JOAQUIN
+95376,70 S Hickory Ave,2,4,Tracy,"2,051 sqft",19-Jul-13,"$347,500 ",37.72886,-121.44297,CA,Single-Family Home,347500,"$379,000 ",,,,,Sold,SAN JOAQUIN
+95376,930 Suellen Dr,2.5,3,Tracy,"1,775 sqft",19-Jul-13,"$362,000 ",37.75594,-121.43887,CA,Single-Family Home,362000,"$355,000 ",,,,,Sold,SAN JOAQUIN
+95376,385 Cecelio Way,2.5,3,Tracy,"2,187 sqft",19-Jul-13,"$375,000 ",37.72648,-121.431335,CA,Single-Family Home,375000,"$386,000 ",,,,,Sold,SAN JOAQUIN
+95377,3385 Cloudview Ct,2,3,Tracy,"2,453 sqft",19-Jul-13,"$420,000 ",37.706547,-121.418274,CA,Single-Family Home,420000,"$534,000 ",,,,,Sold,SAN JOAQUIN
+95376,360 Yosemite Dr,2,4,Tracy,"1,393 sqft",19-Jul-13,"$185,000 ",37.720654,-121.41956,CA,Single-Family Home,185000,"$289,000 ",,,,,Sold,SAN JOAQUIN
+95377,19400 W Corral Hollow Rd,,,Tracy,,19-Jul-13,"$180,000 ",37.634354,-121.54538,CA,Farm/Ranch,180000,,,,,,Sold,SAN JOAQUIN
+95304,7900 W Mel Rd,1,3,Tracy,"1,122 sqft",19-Jul-13,"$253,000 ",37.73657,-121.403015,CA,Multi-Family,253000,"$261,000 ",,,,,Sold,SAN JOAQUIN
+95376,112 Victoria St,2,3,Tracy,"1,278 sqft",19-Jul-13,"$280,000 ",37.723026,-121.42871,CA,Single-Family Home,280000,"$304,000 ",,,,,Sold,SAN JOAQUIN
+95377,1173 Montgomery Ln,2.5,5,Tracy,"2,130 sqft",19-Jul-13,"$382,000 ",37.74073,-121.47074,CA,Single-Family Home,382000,"$413,000 ",,,,,Sold,SAN JOAQUIN
+95376,785 Centre Court Dr,2,3,Tracy,"1,574 sqft",19-Jul-13,"$311,000 ",37.734093,-121.43635,CA,Single-Family Home,311000,"$327,000 ",,,,,Sold,SAN JOAQUIN
+95376,35 Phillips Ct,2.5,3,Tracy,"1,622 sqft",18-Jul-13,"$345,000 ",37.72419,-121.42728,CA,Single-Family Home,345000,"$363,000 ",,,,,Sold,SAN JOAQUIN
+95377,255 La Monte Ln,2,5,Tracy,"2,049 sqft",18-Jul-13,"$265,000 ",37.70726,-121.42211,CA,Single-Family Home,265000,"$377,000 ",,,,,Sold,SAN JOAQUIN
+95376,650 Menay Dr,3,4,Tracy,"2,046 sqft",18-Jul-13,"$360,000 ",37.721653,-121.43543,CA,Single-Family Home,360000,"$404,000 ",,,,,Sold,SAN JOAQUIN
+95304,23381 Los Padres Dr,3,5,Tracy,"3,712 sqft",18-Jul-13,"$500,000 ",37.745697,-121.5194,CA,Single-Family Home,500000,"$777,000 ",,,,,Sold,SAN JOAQUIN
+95377,232 Kelley Mist Ln,3,4,Tracy,"2,447 sqft",17-Jul-13,"$395,000 ",37.70269,-121.423225,CA,Single-Family Home,395000,"$424,000 ",,,,,Sold,SAN JOAQUIN
+95376,1351 Fruitwood Way,3,3,Tracy,"1,764 sqft",17-Jul-13,"$211,500 ",37.742245,-121.448235,CA,Single-Family Home,211500,"$317,000 ",,,,,Sold,SAN JOAQUIN
+95376,345 Hawthorne Dr,2,3,Tracy,"1,166 sqft",17-Jul-13,"$205,000 ",37.762413,-121.430275,CA,Single-Family Home,205000,"$228,000 ",,,,,Sold,SAN JOAQUIN
+95377,7843 Stearman Rd,2,4,Tracy,"2,948 sqft",17-Jul-13,"$355,000 ",37.637512,-121.40442,CA,Single-Family Home,355000,"$575,000 ",,,,,Sold,SAN JOAQUIN
+95376,1872 Lloyd C Gary Dr,3,4,Tracy,"2,350 sqft",16-Jul-13,"$388,000 ",37.716843,-121.45072,CA,Single-Family Home,388000,"$434,000 ",,,,,Sold,SAN JOAQUIN
+95377,1160 Cherry Blossom Ln,3,3,Tracy,"2,668 sqft",16-Jul-13,"$412,000 ",37.70249,-121.44009,CA,Single-Family Home,412000,"$462,000 ",,,,,Sold,SAN JOAQUIN
+95376,1342 Audrey Dr,2,3,Tracy,"1,444 sqft",16-Jul-13,"$250,000 ",37.74285,-121.44175,CA,Single-Family Home,250000,"$291,000 ",,,,,Sold,SAN JOAQUIN
+95376,136 W Emerson Ave,2,3,Tracy,"2,705 sqft",15-Jul-13,"$343,000 ",37.74855,-121.42754,CA,Single-Family Home,343000,"$380,000 ",,,,,Sold,SAN JOAQUIN
+95377,2130 Jenni Ln,2.5,4,Tracy,"2,654 sqft",15-Jul-13,"$425,000 ",37.74876,-121.45573,CA,Single-Family Home,425000,"$438,000 ",,,,,Sold,SAN JOAQUIN
+95376,2954 Coventry Dr,2,4,Tracy,"1,453 sqft",15-Jul-13,"$150,000 ",37.758278,-121.42966,CA,Single-Family Home,150000,"$280,000 ",,,,,Sold,SAN JOAQUIN
+95304,4348 W Grant Line Rd,2,4,Tracy,"1,478 sqft",12-Jul-13,"$395,000 ",37.75355,-121.3599,CA,Single-Family Home,395000,"$435,000 ",,,,,Sold,SAN JOAQUIN
+95377,362 Quail Run Cir,3,4,Tracy,"2,944 sqft",12-Jul-13,"$460,000 ",37.70889,-121.4222,CA,Single-Family Home,460000,"$529,000 ",,,,,Sold,SAN JOAQUIN
+95376,1740 Thicket Ct,2.5,3,Tracy,"1,835 sqft",12-Jul-13,"$325,000 ",37.73297,-121.44805,CA,Single-Family Home,325000,"$348,000 ",,,,,Sold,SAN JOAQUIN
+95377,2719 Jackson Ave,2.5,4,Tracy,"2,176 sqft",12-Jul-13,"$315,000 ",37.735176,-121.46629,CA,Single-Family Home,315000,"$383,000 ",,,,,Sold,SAN JOAQUIN
+95377,4504 Tropaz Ln,3,4,Tracy,"2,128 sqft",12-Jul-13,"$330,000 ",37.698524,-121.44884,CA,Single-Family Home,330000,"$404,000 ",,,,,Sold,SAN JOAQUIN
+95377,892 Autumn Creek Ct,2,4,Tracy,"2,093 sqft",12-Jul-13,"$300,500 ",37.701763,-121.43709,CA,Single-Family Home,300500,"$382,000 ",,,,,Sold,SAN JOAQUIN
+95376,1971 Bayberry Ct,2.5,4,Tracy,"2,032 sqft",12-Jul-13,"$371,500 ",37.728325,-121.45228,CA,Single-Family Home,371500,"$401,000 ",,,,,Sold,SAN JOAQUIN
+95377,2697 Daisy Ln,3,3,Tracy,"2,377 sqft",11-Jul-13,"$430,000 ",37.72133,-121.467026,CA,Single-Family Home,430000,"$455,000 ",,,,,Sold,SAN JOAQUIN
+95376,259 E 22nd St,1,3,Tracy,"1,286 sqft",11-Jul-13,"$201,000 ",37.75277,-121.42155,CA,Single-Family Home,201000,"$235,000 ",,,,,Sold,SAN JOAQUIN
+95304,1821 Lynn W Riffle St,3,4,Tracy,"2,859 sqft",11-Jul-13,"$280,000 ",37.71721,-121.40534,CA,Single-Family Home,280000,"$480,000 ",,,,,Sold,SAN JOAQUIN
+95377,1115 Poppy Hills Ct,3.5,5,Tracy,"2,850 sqft",11-Jul-13,"$340,000 ",37.696987,-121.439674,CA,Single-Family Home,340000,"$487,000 ",,,,,Sold,SAN JOAQUIN
+95304,3917 W Stoneridge Rd,2,3,Tracy,"2,035 sqft",10-Jul-13,"$325,000 ",37.752964,-121.35548,CA,Single-Family Home,325000,"$458,000 ",,,,,Sold,SAN JOAQUIN
+95377,1470 Velasquez Ln,3,4,Tracy,"2,500 sqft",10-Jul-13,"$385,000 ",37.744057,-121.45353,CA,Single-Family Home,385000,"$452,000 ",,,,,Sold,SAN JOAQUIN
+95377,1352 Hoboken Dr,2.5,4,Tracy,"1,607 sqft",10-Jul-13,"$245,000 ",37.707222,-121.44182,CA,Single-Family Home,245000,"$337,000 ",,,,,Sold,SAN JOAQUIN
+95377,1232 Cochran Dr,2.5,4,Tracy,"2,045 sqft",9-Jul-13,"$299,000 ",37.741383,-121.4607,CA,Single-Family Home,299000,"$400,000 ",,,,,Sold,SAN JOAQUIN
+95304,1726 Lahola Ct,3.5,4,Tracy,"3,331 sqft",9-Jul-13,"$520,000 ",37.715836,-121.39859,CA,Single-Family Home,520000,"$556,000 ",,,,,Sold,SAN JOAQUIN
+95376,205 W 21st St,2,3,Tracy,"1,322 sqft",9-Jul-13,"$202,000 ",37.751778,-121.42799,CA,Single-Family Home,202000,"$229,000 ",,,,,Sold,SAN JOAQUIN
+95376,165 Edward Ct,2,3,Tracy,"1,274 sqft",9-Jul-13,"$295,000 ",37.72205,-121.42953,CA,Single-Family Home,295000,"$313,000 ",,,,,Sold,SAN JOAQUIN
+95376,531 Renaissance Dr,3,4,Tracy,"1,950 sqft",9-Jul-13,"$315,000 ",37.728832,-121.41753,CA,Single-Family Home,315000,"$362,000 ",,,,,Sold,SAN JOAQUIN
+95377,4230 Dally Ct,3,5,Tracy,"2,451 sqft",8-Jul-13,"$380,000 ",37.70072,-121.44935,CA,Single-Family Home,380000,"$430,000 ",,,,,Sold,SAN JOAQUIN
+95377,4363 Lindsey Ln,3,4,Tracy,"2,836 sqft",5-Jul-13,"$465,000 ",37.69985,-121.42424,CA,Single-Family Home,465000,"$479,000 ",,,,,Sold,SAN JOAQUIN
+95376,25596 S Macarthur Dr,2,3,Tracy,"1,468 sqft",5-Jul-13,"$525,000 ",37.723587,-121.41503,CA,Farm/Ranch,525000,"$492,000 ",,,,,Sold,SAN JOAQUIN
+95377,27550 S Corral Hollow Rd,2.5,3,Tracy,"2,009 sqft",5-Jul-13,"$485,000 ",37.705276,-121.45201,CA,Single-Family Home,485000,"$530,000 ",,,,,Sold,SAN JOAQUIN
+95376,1317 Richard Dr,2,3,Tracy,"1,467 sqft",5-Jul-13,"$264,500 ",37.742878,-121.44108,CA,Single-Family Home,264500,"$297,000 ",,,,,Sold,SAN JOAQUIN
+95376,1569 Woodland Ct,2.5,3,Tracy,"1,516 sqft",5-Jul-13,"$275,000 ",37.74543,-121.45114,CA,Single-Family Home,275000,"$345,000 ",,,,,Sold,SAN JOAQUIN
+95376,1415 Eagle St,3,5,Tracy,"2,961 sqft",5-Jul-13,"$435,000 ",37.717735,-121.44264,CA,Single-Family Home,435000,"$463,000 ",,,,,Sold,SAN JOAQUIN
+95376,624 Whitman Ct,3,5,Tracy,"2,294 sqft",3-Jul-13,"$375,000 ",37.711742,-121.43498,CA,Single-Family Home,375000,"$441,000 ",,,,,Sold,SAN JOAQUIN
+95377,130 Arezzo Way,3,4,Tracy,"2,441 sqft",3-Jul-13,"$435,000 ",37.702248,-121.42728,CA,Single-Family Home,435000,"$462,000 ",,,,,Sold,SAN JOAQUIN
+95377,2697 Marshall Ct,3.5,5,Tracy,"3,140 sqft",3-Jul-13,"$500,000 ",37.734398,-121.46565,CA,Single-Family Home,500000,"$525,000 ",,,,,Sold,SAN JOAQUIN
+95377,2619 Cranston Ct,3,4,Tracy,"2,719 sqft",3-Jul-13,"$325,000 ",37.734947,-121.46407,CA,Single-Family Home,325000,"$456,000 ",,,,,Sold,SAN JOAQUIN
+95376,204 E Carlton Way,1,3,Tracy,"1,124 sqft",3-Jul-13,"$175,000 ",37.745853,-121.42286,CA,Single-Family Home,175000,"$219,000 ",,,,,Sold,SAN JOAQUIN
+95304,1813 Mount Pellier St,2.5,4,Tracy,"3,539 sqft",3-Jul-13,"$510,000 ",37.71761,-121.40436,CA,Single-Family Home,510000,"$559,000 ",,,,,Sold,SAN JOAQUIN
+95377,2485 Bennett Way,3,5,Tracy,"3,063 sqft",3-Jul-13,"$440,000 ",37.738926,-121.461945,CA,Single-Family Home,440000,"$490,000 ",,,,,Sold,SAN JOAQUIN
+95376,1828 Camellia Dr,3,4,Tracy,"2,077 sqft",3-Jul-13,"$230,000 ",37.75516,-121.44903,CA,Single-Family Home,230000,"$343,000 ",,,,,Sold,SAN JOAQUIN
+95304,2031 Amatchi Dr,3,5,Tracy,"3,361 sqft",3-Jul-13,"$490,000 ",37.71595,-121.40028,CA,Single-Family Home,490000,"$537,000 ",,,,,Sold,SAN JOAQUIN
+95304,29750 S Chrisman Rd,2.5,3,Tracy,"2,167 sqft",3-Jul-13,"$330,000 ",37.683735,-121.39696,CA,Farm/Ranch,330000,"$469,000 ",,,,,Sold,SAN JOAQUIN
+95377,744 Tom Fowler Ct,3,4,Tracy,"2,239 sqft",2-Jul-13,"$398,000 ",37.704056,-121.43539,CA,Single-Family Home,398000,"$434,000 ",,,,,Sold,SAN JOAQUIN
+95376,525 Peerless Way #10,2,2,Tracy,"1,118 sqft",2-Jul-13,"$150,500 ",37.72484,-121.41736,CA,Condo,150500,"$191,000 ",,,,,Sold,SAN JOAQUIN
+95376,1030 Joranollo Dr,2,4,Tracy,"1,393 sqft",2-Jul-13,"$220,000 ",37.722965,-121.4192,CA,Single-Family Home,220000,"$259,000 ",,,,,Sold,SAN JOAQUIN
+95376,985 Peerless Ct,2.5,3,Tracy,"1,358 sqft",2-Jul-13,"$240,000 ",37.723186,-121.417946,CA,Single-Family Home,240000,"$289,000 ",,,,,Sold,SAN JOAQUIN
+95376,1335 Eagle St,3,4,Tracy,"2,582 sqft",1-Jul-13,"$388,000 ",37.71773,-121.44174,CA,Single-Family Home,388000,"$471,000 ",,,,,Sold,SAN JOAQUIN
+95376,2925 Descanso Ct,2.5,3,Tracy,"1,860 sqft",28-Jun-13,"$251,000 ",37.75863,-121.42088,CA,Single-Family Home,251000,"$323,000 ",,,,,Sold,SAN JOAQUIN
+95376,69 Ferdinand St,2.5,3,Tracy,"2,057 sqft",28-Jun-13,"$341,000 ",37.72126,-121.4267,CA,Single-Family Home,341000,"$385,000 ",,,,,Sold,SAN JOAQUIN
+95376,1740 Stags Leap Ct,2,3,Tracy,"1,620 sqft",28-Jun-13,"$240,000 ",37.7341,-121.44817,CA,Single-Family Home,240000,"$361,000 ",,,,,Sold,SAN JOAQUIN
+95376,2267 Cedrus Dr,3.5,3,Tracy,"1,703 sqft",28-Jun-13,"$305,000 ",37.714775,-121.43788,CA,Single-Family Home,305000,"$376,000 ",,,,,Sold,SAN JOAQUIN
+95376,135 W Emerson Ave,2,3,Tracy,"1,345 sqft",28-Jun-13,"$235,000 ",37.748962,-121.42746,CA,Single-Family Home,235000,"$236,000 ",,,,,Sold,SAN JOAQUIN
+95377,184 La Monte Ln,3,4,Tracy,"2,447 sqft",28-Jun-13,"$413,000 ",37.706783,-121.423485,CA,Single-Family Home,413000,"$434,000 ",,,,,Sold,SAN JOAQUIN
+95376,1675 Reyes Ln,2,4,Tracy,"1,881 sqft",28-Jun-13,"$338,000 ",37.754982,-121.44624,CA,Single-Family Home,338000,"$350,000 ",,,,,Sold,SAN JOAQUIN
+95377,2530 Tolbert Dr,3,5,Tracy,"2,892 sqft",28-Jun-13,"$426,000 ",37.739708,-121.46276,CA,Single-Family Home,426000,"$452,000 ",,,,,Sold,SAN JOAQUIN
+95376,1501 Cuneo Ct,2,3,Tracy,"1,198 sqft",28-Jun-13,"$192,000 ",37.757126,-121.44348,CA,Single-Family Home,192000,"$282,000 ",,,,,Sold,SAN JOAQUIN
+95376,462 Montclair Ln,2,3,Tracy,"1,660 sqft",28-Jun-13,"$320,000 ",37.71544,-121.4188,CA,Single-Family Home,320000,"$353,000 ",,,,,Sold,SAN JOAQUIN
+95376,170 W Mount Diablo Ave,2,4,Tracy,"1,746 sqft",28-Jun-13,"$308,000 ",37.728336,-121.42884,CA,Single-Family Home,308000,"$343,000 ",,,,,Sold,SAN JOAQUIN
+95376,421 Falcon Ct,2.5,4,Tracy,"1,790 sqft",28-Jun-13,"$310,000 ",37.733753,-121.419464,CA,Single-Family Home,310000,"$335,000 ",,,,,Sold,SAN JOAQUIN
+95377,4720 Windchime Way,2.5,4,Tracy,"2,126 sqft",28-Jun-13,"$393,000 ",37.697186,-121.42837,CA,Single-Family Home,393000,"$422,000 ",,,,,Sold,SAN JOAQUIN
+95377,2779 Hawkins Ln,2.5,3,Tracy,"2,142 sqft",28-Jun-13,"$275,000 ",37.7507,-121.46743,CA,Single-Family Home,275000,"$373,000 ",,,,,Sold,SAN JOAQUIN
+95376,455 Hollywood Ave,1.5,3,Tracy,"1,338 sqft",28-Jun-13,"$190,000 ",37.744625,-121.4177,CA,Single-Family Home,190000,"$272,000 ",,,,,Sold,SAN JOAQUIN
+95377,821 Autumn Creek Ct,3,4,Tracy,"2,668 sqft",27-Jun-13,"$306,000 ",37.702198,-121.43664,CA,Single-Family Home,306000,"$436,000 ",,,,,Sold,SAN JOAQUIN
+95376,1012 Westbury Ct,2.5,3,Tracy,"1,533 sqft",27-Jun-13,"$215,000 ",37.7536,-121.43873,CA,Condo,215000,"$230,000 ",,,,,Sold,SAN JOAQUIN
+95377,2733 Merchant Ct,2.5,4,Tracy,"2,498 sqft",26-Jun-13,"$425,000 ",37.73663,-121.466484,CA,Single-Family Home,425000,"$443,000 ",,,,,Sold,SAN JOAQUIN
+95376,131 W Deerwood Ln,2,3,Tracy,"1,444 sqft",26-Jun-13,"$255,000 ",37.717766,-121.42932,CA,Single-Family Home,255000,"$310,000 ",,,,,Sold,SAN JOAQUIN
+95376,830 Arches Ct,2.5,4,Tracy,"1,630 sqft",26-Jun-13,"$300,000 ",37.72279,-121.45228,CA,Single-Family Home,300000,"$342,000 ",,,,,Sold,SAN JOAQUIN
+95377,1415 Tom Fowler Dr,2.5,3,Tracy,"2,029 sqft",26-Jun-13,"$365,500 ",37.704514,-121.44227,CA,Single-Family Home,365500,"$391,000 ",,,,,Sold,SAN JOAQUIN
+95304,1590 Eastlake Cir,3.5,4,Tracy,"3,054 sqft",25-Jun-13,"$360,000 ",37.712833,-121.41358,CA,Single-Family Home,360000,"$493,000 ",,,,,Sold,SAN JOAQUIN
+95376,1699 Dove Dr,4.5,5,Tracy,"3,417 sqft",25-Jun-13,"$399,000 ",37.715473,-121.446754,CA,Single-Family Home,399000,"$522,000 ",,,,,Sold,SAN JOAQUIN
+95377,1486 Gentry Ln,3,4,Tracy,"1,800 sqft",25-Jun-13,"$290,000 ",37.74428,-121.47167,CA,Single-Family Home,290000,"$367,000 ",,,,,Sold,SAN JOAQUIN
+95377,1160 Tony Stuitt Dr,3,5,Tracy,"3,047 sqft",25-Jun-13,"$360,000 ",37.740803,-121.455315,CA,Single-Family Home,360000,"$438,000 ",,,,,Sold,SAN JOAQUIN
+95376,2685 Mario Dr,2,3,Tracy,"1,329 sqft",25-Jun-13,"$175,000 ",37.7558,-121.442986,CA,Single-Family Home,175000,"$237,000 ",,,,,Sold,SAN JOAQUIN
+95376,835 Almond Blossom Dr,2,3,Tracy,"1,167 sqft",24-Jun-13,"$262,500 ",37.724243,-121.42063,CA,Single-Family Home,262500,"$245,000 ",,,,,Sold,SAN JOAQUIN
+95377,2853 Clover Hill Ct,3,5,Tracy,"2,869 sqft",24-Jun-13,"$253,000 ",37.709995,-121.42419,CA,Single-Family Home,253000,"$438,000 ",,,,,Sold,SAN JOAQUIN

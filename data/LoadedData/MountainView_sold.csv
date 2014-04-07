@@ -1,0 +1,428 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94043,2447 Tamalpais St,2,3,Mountain View,"1,280 sqft",12-Mar-14,"$1,150,000 ",37.405773,-122.10305,CA,Single-Family Home,1150000,"$1,268,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,201 Flynn Ave #22,1.5,2,Mountain View,"1,254 sqft",12-Mar-14,"$700,000 ",37.397858,-122.0612,CA,Condo,700000,"$655,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,938 Clark Ave #39,2,2,Mountain View,"1,069 sqft",12-Mar-14,"$780,000 ",37.393204,-122.100105,CA,Condo,780000,"$779,000 ",,,,,Sold,SANTA CLARA
+94041,725 Mariposa Ave #305,1.5,1,Mountain View,839 sqft,11-Mar-14,"$438,000 ",37.390587,-122.091385,CA,Condo,438000,"$537,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94040,274 Pamela Dr #7,1,1,Mountain View,644 sqft,11-Mar-14,"$375,000 ",37.38108,-122.07707,CA,Condo,375000,"$491,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #225,1,1,Mountain View,814 sqft,11-Mar-14,"$575,000 ",37.407352,-122.107864,CA,Condo,575000,"$592,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,62 Eldora Dr,2,3,Mountain View,"1,340 sqft",11-Mar-14,"$1,160,000 ",37.385796,-122.07079,CA,Single-Family Home,1160000,"$1,301,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,154 Cottonwood Ct,2.5,3,Mountain View,"1,352 sqft",7-Mar-14,"$870,000 ",37.390495,-122.05933,CA,Condo,870000,"$957,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,344 Oaktree Dr #1305,2.5,2,Mountain View,"1,240 sqft",7-Mar-14,"$776,000 ",37.400288,-122.10315,CA,Condo,776000,"$801,000 ",,,,,Sold,SANTA CLARA
+94040,1043 Dale Ave,,,Mountain View,"2,643 sqft",7-Mar-14,"$1,315,000 ",37.374084,-122.06298,CA,Multi-Family,1315000,"$1,346,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,144 Chetwood Dr,2.5,2,Mountain View,"1,173 sqft",5-Mar-14,"$836,000 ",37.391705,-122.0606,CA,Condo,836000,"$842,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,173 Escuela Ave,,,Mountain View,"1,518 sqft",28-Feb-14,"$805,000 ",37.39957,-122.09186,CA,Multi-Family,805000,"$1,003,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94043,469 Kasra Dr,2.5,2,Mountain View,"1,594 sqft",28-Feb-14,"$850,000 ",37.38897,-122.057144,CA,Condo,850000,"$915,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,515 Easy St,,,Mountain View,"2,016 sqft",28-Feb-14,"$450,000 ",37.40286,-122.06404,CA,Multi-Family,450000,,,North Whisman,,,Sold,SANTA CLARA
+94040,2025 California St #33,1,1,Mountain View,668 sqft,28-Feb-14,"$325,000 ",37.397953,-122.09857,CA,Condo,325000,"$403,000 ",,,,,Sold,SANTA CLARA
+94043,519 Easy St,,,Mountain View,"2,016 sqft",28-Feb-14,"$450,000 ",37.403133,-122.06394,CA,Multi-Family,450000,,,North Whisman,,,Sold,SANTA CLARA
+94041,58 Eldora Dr,2,3,Mountain View,"1,124 sqft",28-Feb-14,"$1,200,000 ",37.385727,-122.07063,CA,Single-Family Home,1200000,"$1,229,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1021 Varsity Ct,2,3,Mountain View,"2,215 sqft",27-Feb-14,"$1,975,000 ",37.375378,-122.09277,CA,Single-Family Home,1975000,"$2,010,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,1935 Newbury Dr,2.5,3,Mountain View,"1,634 sqft",26-Feb-14,"$1,100,000 ",37.415943,-122.08866,CA,Condo,1100000,"$951,000 ",,,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #151,2,2,Mountain View,"1,158 sqft",26-Feb-14,"$587,000 ",37.39982,-122.07068,CA,Condo,587000,"$605,000 ",,,,,Sold,SANTA CLARA
+94040,1332 Miramonte Ave,1,3,Mountain View,"1,194 sqft",25-Feb-14,"$1,253,000 ",37.380093,-122.08738,CA,Single-Family Home,1253000,"$1,421,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,168 Georgetown Dr,2.5,3,Mountain View,"1,372 sqft",25-Feb-14,"$880,000 ",37.390713,-122.05786,CA,Condo,880000,"$883,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,1013 Karen Way,2,3,Mountain View,"1,472 sqft",21-Feb-14,"$1,610,000 ",37.392555,-122.10226,CA,Single-Family Home,1610000,"$1,621,000 ",,,,,Sold,SANTA CLARA
+94040,1172 Phyllis Ave,2,3,Mountain View,"1,665 sqft",21-Feb-14,"$1,252,000 ",37.379642,-122.07804,CA,Single-Family Home,1252000,"$1,590,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,2025 California St #13,1,2,Mountain View,796 sqft,21-Feb-14,"$388,000 ",37.39776,-122.098564,CA,Condo,388000,"$472,000 ",,,,,Sold,SANTA CLARA
+94040,22527 Redcliff Ct,3.5,3,Mountain View,"2,730 sqft",21-Feb-14,"$1,810,000 ",37.37099,-122.06924,CA,Single-Family Home,1810000,"$1,994,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94043,77 Devonshire Ave,,,Mountain View,952 sqft,20-Feb-14,"$1,468,000 ",37.402977,-122.05889,CA,Single-Family Home,1468000,"$1,046,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,2115 Sun Mor Ave,2,3,Mountain View,"1,751 sqft",20-Feb-14,"$1,657,500 ",37.37239,-122.06977,CA,Single-Family Home,1657500,"$1,838,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #11,1,1,Mountain View,668 sqft,20-Feb-14,"$425,000 ",37.398163,-122.07294,CA,Condo,425000,"$428,000 ",,,,,Sold,SANTA CLARA
+94040,1450 Meadow Ln,3,5,Mountain View,"2,622 sqft",19-Feb-14,"$2,045,000 ",37.379745,-122.093,CA,Single-Family Home,2045000,"$2,035,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94040,2328 Carol Ave,2,4,Mountain View,"1,885 sqft",19-Feb-14,"$1,700,000 ",37.37079,-122.07519,CA,Single-Family Home,1700000,"$1,716,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,2447 Villa Nueva Way,2.5,3,Mountain View,"1,910 sqft",19-Feb-14,"$1,800,000 ",37.36904,-122.07492,CA,Single-Family Home,1800000,"$1,811,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,495 Alice Ave,2.5,4,Mountain View,"1,869 sqft",18-Feb-14,"$865,000 ",37.384506,-122.06648,CA,Single-Family Home,865000,"$1,128,000 ",,,,,Sold,SANTA CLARA
+94043,1370 Montecito Ave #1,2,3,Mountain View,"1,430 sqft",18-Feb-14,"$750,000 ",37.4029,-122.08271,CA,Condo,750000,"$884,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,400 Ortega Ave #109,1,2,Mountain View,928 sqft,14-Feb-14,"$580,000 ",37.39953,-122.10568,CA,Condo,580000,"$610,000 ",,,,,Sold,SANTA CLARA
+94040,400 Ortega Ave #220,2,3,Mountain View,"1,485 sqft",14-Feb-14,"$823,000 ",37.399902,-122.10569,CA,Condo,823000,"$833,000 ",,,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #12,1,1,Mountain View,662 sqft,14-Feb-14,"$395,000 ",37.398163,-122.07294,CA,Condo,395000,"$447,000 ",,,,,Sold,SANTA CLARA
+94043,123 Evandale Ave #14,1,1,Mountain View,615 sqft,13-Feb-14,"$410,000 ",37.404568,-122.06103,CA,Condo,410000,"$459,000 ",,North Whisman,,,Sold,SANTA CLARA
+94041,536 Mccarty Ave,2,4,Mountain View,"1,400 sqft",11-Feb-14,"$1,375,000 ",37.386124,-122.07048,CA,Single-Family Home,1375000,"$1,383,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,1793 Vassar Ave,1,3,Mountain View,860 sqft,11-Feb-14,"$916,000 ",37.40261,-122.08793,CA,Single-Family Home,916000,"$808,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94043,46 Starlite Ct,2.5,4,Mountain View,"1,427 sqft",10-Feb-14,"$737,000 ",37.40608,-122.076195,CA,Condo,737000,"$797,000 ",,,,,Sold,SANTA CLARA
+94040,599 Sleeper Ave,2.5,3,Mountain View,"3,247 sqft",7-Feb-14,"$2,700,000 ",37.37111,-122.07232,CA,Single-Family Home,2700000,"$2,362,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,807 Hope St,,,Mountain View,"1,744 sqft",7-Feb-14,"$1,345,000 ",37.38634,-122.08221,CA,Multi-Family,1345000,"$1,375,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1135 Phyllis Ave,3,3,Mountain View,"1,617 sqft",5-Feb-14,"$1,215,000 ",37.380825,-122.077484,CA,Single-Family Home,1215000,"$1,483,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,1036 Ashley Pl,2,3,Mountain View,"1,721 sqft",4-Feb-14,"$1,603,000 ",37.392048,-122.10139,CA,Single-Family Home,1603000,"$1,602,000 ",,,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #140,1,2,Mountain View,843 sqft,4-Feb-14,"$520,000 ",37.398163,-122.07294,CA,Condo,520000,"$517,000 ",,,,,Sold,SANTA CLARA
+94043,837 San Luppe Dr,2,4,Mountain View,"1,576 sqft",31-Jan-14,"$675,000 ",37.403976,-122.070404,CA,Single-Family Home,675000,"$939,000 ",,,,,Sold,SANTA CLARA
+94040,956 Bonita Ave #2,1.5,2,Mountain View,"1,126 sqft",31-Jan-14,"$685,000 ",37.38299,-122.08103,CA,Condo,685000,"$817,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,803 Wake Forest Dr,2,4,Mountain View,"1,474 sqft",28-Jan-14,"$740,000 ",37.403477,-122.064835,CA,Single-Family Home,740000,"$951,000 ",,North Whisman,,,Sold,SANTA CLARA
+94041,221 Jessie Ln,,,Mountain View,"3,347 sqft",28-Jan-14,"$650,000 ",37.385757,-122.07567,CA,Multi-Family,650000,,,Old Mountain View,,,Sold,SANTA CLARA
+94043,229 Cypress Point Dr,1.5,2,Mountain View,"1,290 sqft",27-Jan-14,"$725,000 ",37.39702,-122.07001,CA,Condo,725000,"$742,000 ",,,,,Sold,SANTA CLARA
+94040,1348 Isabelle Ave,2,5,Mountain View,"1,782 sqft",27-Jan-14,"$362,000 ",37.378277,-122.08936,CA,Single-Family Home,362000,"$1,583,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,1777 Morgan St,2,3,Mountain View,"1,104 sqft",24-Jan-14,"$829,000 ",37.4127,-122.086,CA,Single-Family Home,829000,"$949,000 ",,,,,Sold,SANTA CLARA
+94040,442 Martens Ave,2.5,4,Mountain View,"3,051 sqft",24-Jan-14,"$2,300,000 ",37.3748,-122.07115,CA,Single-Family Home,2300000,"$2,597,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94043,905 W Middlefield Rd #968,2,3,Mountain View,"1,215 sqft",24-Jan-14,"$587,500 ",37.40439,-122.07639,CA,Condo,587500,"$726,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94040,49 Showers Dr #N262,2,1,Mountain View,"1,168 sqft",23-Jan-14,"$668,000 ",37.40517,-122.10482,CA,Condo,668000,"$725,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,924 Camille Ln,3.5,3,Mountain View,"2,041 sqft",22-Jan-14,"$1,270,000 ",37.383,-122.07964,CA,Condo,1270000,"$1,271,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,50 E Middlefield Rd #23,1,1,Mountain View,837 sqft,17-Jan-14,"$380,000 ",37.39882,-122.06497,CA,Condo,380000,"$485,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,421 Sierra Vista Ave #4,2.5,2,Mountain View,"1,560 sqft",15-Jan-14,"$880,000 ",37.407394,-122.08967,CA,Condo,880000,"$929,000 ",,,,,Sold,SANTA CLARA
+94043,128 Ada Ave #15,2.5,3,Mountain View,"1,544 sqft",15-Jan-14,"$855,000 ",37.39278,-122.066925,CA,Condo,855000,"$910,000 ",,,,,Sold,SANTA CLARA
+94041,94 Dalma Dr,2,3,Mountain View,"1,684 sqft",14-Jan-14,"$1,240,000 ",37.384575,-122.07255,CA,Single-Family Home,1240000,"$1,563,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,1963 Rock St #6,2,3,Mountain View,"1,653 sqft",14-Jan-14,"$732,000 ",37.412098,-122.09003,CA,Condo,732000,"$869,000 ",,,,,Sold,SANTA CLARA
+94043,545 Tyrella Ave,2,3,Mountain View,"1,604 sqft",14-Jan-14,"$900,000 ",37.404716,-122.06231,CA,Condo,900000,"$909,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,785 Bryn Mawr Ct #57,2,2,Mountain View,"1,150 sqft",14-Jan-14,"$760,000 ",37.413445,-122.09443,CA,Condo,760000,"$759,000 ",,,,,Sold,SANTA CLARA
+94040,100 W El Camino Real #35,2.5,2,Mountain View,"1,300 sqft",13-Jan-14,"$712,000 ",37.38286,-122.07669,CA,Condo,712000,"$731,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,221 Orchard Glen Ct,2.5,3,Mountain View,"1,586 sqft",10-Jan-14,"$1,100,000 ",37.39426,-122.07097,CA,Single-Family Home,1100000,"$1,184,000 ",,,,,Sold,SANTA CLARA
+94043,650 Alamo Ct #6,1,1,Mountain View,578 sqft,10-Jan-14,"$355,000 ",37.402298,-122.068634,CA,Condo,355000,"$426,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1563 Begen Ave,3.5,6,Mountain View,"2,262 sqft",10-Jan-14,"$1,597,500 ",37.377823,-122.08487,CA,Single-Family Home,1597500,"$1,661,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #124,1,1,Mountain View,814 sqft,8-Jan-14,"$490,000 ",37.40741,-122.10795,CA,Condo,490000,"$592,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,179 Bel Air Ct,2.5,3,Mountain View,"1,369 sqft",7-Jan-14,"$800,000 ",37.390903,-122.05711,CA,Condo,800000,"$895,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,30 Starlite Ct,2.5,3,Mountain View,"1,203 sqft",6-Jan-14,"$729,000 ",37.406227,-122.07683,CA,Condo,729000,"$798,000 ",,,,,Sold,SANTA CLARA
+94043,2149 Junction Ave #11,3.5,4,Mountain View,"2,498 sqft",3-Jan-14,"$1,080,000 ",37.409767,-122.0947,CA,Condo,1080000,"$1,088,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94041,538 Mountain View Ave,,,Mountain View,858 sqft,3-Jan-14,"$1,050,000 ",37.391857,-122.08749,CA,Single-Family Home,1050000,"$1,102,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94043,191 Fable Ct,2.5,2,Mountain View,"1,236 sqft",3-Jan-14,"$776,000 ",37.39021,-122.05664,CA,Condo,776000,"$812,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,937 Rincon St,3.5,4,Mountain View,"2,173 sqft",31-Dec-13,"$1,560,000 ",37.3839,-122.08827,CA,Single-Family Home,1560000,"$1,882,000 ",,,,,Sold,SANTA CLARA
+94043,712 Astor Ct,2,2,Mountain View,"1,150 sqft",31-Dec-13,"$927,000 ",37.412945,-122.09329,CA,Condo,927000,"$822,000 ",,,,,Sold,SANTA CLARA
+94043,556 Farley St,1,3,Mountain View,"1,364 sqft",31-Dec-13,"$400,000 ",37.404453,-122.08938,CA,Single-Family Home,400000,"$943,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,1032 Blackfield Way,3.5,4,Mountain View,"2,062 sqft",31-Dec-13,"$1,550,000 ",37.391037,-122.09876,CA,Single-Family Home,1550000,"$1,878,000 ",,,,,Sold,SANTA CLARA
+94040,1642 Nilda Ave,2,3,Mountain View,"1,378 sqft",30-Dec-13,"$1,100,000 ",37.374336,-122.0797,CA,Single-Family Home,1100000,"$1,441,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,2346 Craig Ct,2,3,Mountain View,"1,104 sqft",27-Dec-13,"$1,090,000 ",37.408333,-122.09728,CA,Single-Family Home,1090000,"$1,103,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94041,221 Okeefe Way,2.5,2,Mountain View,"1,458 sqft",24-Dec-13,"$799,000 ",37.38674,-122.057556,CA,Condo,799000,"$868,000 ",,,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #186,1,1,Mountain View,720 sqft,24-Dec-13,"$375,000 ",37.399826,-122.07127,CA,Condo,375000,"$449,000 ",,,,,Sold,SANTA CLARA
+94040,1029 Rose Ave,2,3,Mountain View,"1,527 sqft",23-Dec-13,"$1,850,000 ",37.370735,-122.09195,CA,Single-Family Home,1850000,"$1,858,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94041,35 Church St,,,Mountain View,"2,380 sqft",19-Dec-13,"$1,087,500 ",37.383125,-122.07242,CA,Multi-Family,1087500,"$1,391,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,181 Centre St #1,2.5,3,Mountain View,"1,488 sqft",18-Dec-13,"$710,000 ",37.38361,-122.07663,CA,Condo,710000,"$884,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #78,1,1,Mountain View,662 sqft,17-Dec-13,"$392,500 ",37.398163,-122.07294,CA,Condo,392500,"$429,000 ",,,,,Sold,SANTA CLARA
+94040,2746 Saint Giles Ln,,,Mountain View,,17-Dec-13,"$2,250,000 ",37.364464,-122.072075,CA,Single-Family Home,2250000,,,Waverly Park,,,Sold,SANTA CLARA
+94041,716 Pettis Ave,2.5,3,Mountain View,"1,673 sqft",17-Dec-13,"$1,465,000 ",37.390537,-122.090996,CA,Single-Family Home,1465000,"$1,651,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94040,1017 Bonita Ave,,,Mountain View,"3,715 sqft",17-Dec-13,"$1,850,000 ",37.381687,-122.080376,CA,Multi-Family,1850000,,,Cuesta Park,,,Sold,SANTA CLARA
+94043,344 Walker Dr,2,3,Mountain View,"1,216 sqft",12-Dec-13,"$950,000 ",37.401566,-122.05904,CA,Single-Family Home,950000,"$985,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,183 Del Medio Ave #102,1,1,Mountain View,756 sqft,12-Dec-13,"$389,000 ",37.408024,-122.11218,CA,Condo,389000,"$426,000 ",,,,,Sold,SANTA CLARA
+94041,65 Paul Ave,2,3,Mountain View,"1,419 sqft",12-Dec-13,"$1,040,000 ",37.384678,-122.07108,CA,Single-Family Home,1040000,"$1,690,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,1046 Wright Ave #B,1.5,2,Mountain View,999 sqft,10-Dec-13,"$612,000 ",37.40031,-122.08311,CA,Condo,612000,"$682,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94041,108 Bryant St #19,2,3,Mountain View,"1,438 sqft",10-Dec-13,"$865,000 ",37.395424,-122.0799,CA,Condo,865000,"$1,089,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #157,1,1,Mountain View,812 sqft,10-Dec-13,"$349,000 ",37.400337,-122.09868,CA,Condo,349000,"$434,000 ",,,,,Sold,SANTA CLARA
+94040,2738 Saint Giles Ln,,,Mountain View,,6-Dec-13,"$2,200,000 ",37.364464,-122.072075,CA,Single-Family Home,2200000,,,Waverly Park,,,Sold,SANTA CLARA
+94040,2080 Marich Way #22,2.5,3,Mountain View,"1,667 sqft",6-Dec-13,"$978,000 ",37.394035,-122.10137,CA,Condo,978000,"$1,186,000 ",,,,,Sold,SANTA CLARA
+94041,326 Church St,2,3,Mountain View,"2,005 sqft",6-Dec-13,"$1,675,000 ",37.38613,-122.077225,CA,Single-Family Home,1675000,"$1,577,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,36 Tyrella Ct,2.5,3,Mountain View,"1,700 sqft",5-Dec-13,"$927,000 ",37.401695,-122.06282,CA,Condo,927000,"$979,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,49 Showers Dr #H446,2.5,3,Mountain View,"1,487 sqft",4-Dec-13,"$780,000 ",37.40517,-122.10482,CA,Condo,780000,"$881,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,119 Flynn Ave #B,1.5,2,Mountain View,"1,081 sqft",4-Dec-13,"$523,000 ",37.39913,-122.0628,CA,Condo,523000,"$630,000 ",,North Whisman,,,Sold,SANTA CLARA
+94041,731 Calderon Ave,2.5,3,Mountain View,"1,839 sqft",4-Dec-13,"$1,525,000 ",37.384274,-122.07602,CA,Single-Family Home,1525000,"$1,537,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,111 Laurel Way,2.5,3,Mountain View,"1,290 sqft",4-Dec-13,"$1,125,000 ",37.40431,-122.106705,CA,Single-Family Home,1125000,"$1,206,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,808 Yardis Ct,2.5,3,Mountain View,"2,404 sqft",4-Dec-13,"$1,650,000 ",37.366554,-122.08734,CA,Single-Family Home,1650000,"$2,122,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94041,802 Moraga Dr,,,Mountain View,"2,367 sqft",3-Dec-13,"$1,250,000 ",37.378048,-122.062485,CA,Multi-Family,1250000,"$1,272,000 ",,,,,Sold,SANTA CLARA
+94043,532 Tyrella Ave #3,1.5,3,Mountain View,"1,128 sqft",3-Dec-13,"$550,000 ",37.40447,-122.06406,CA,Condo,550000,"$659,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,480 Quincy Dr,2,3,Mountain View,"1,576 sqft",3-Dec-13,"$1,220,000 ",37.411175,-122.10003,CA,Single-Family Home,1220000,"$1,253,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94040,1633 Miramonte Ave,2,3,Mountain View,"1,178 sqft",3-Dec-13,"$1,200,000 ",37.376186,-122.08665,CA,Single-Family Home,1200000,"$1,361,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,78 Gladys Ave,1.5,3,Mountain View,"1,121 sqft",3-Dec-13,"$950,000 ",37.396465,-122.066444,CA,Single-Family Home,950000,"$980,000 ",,,,,Sold,SANTA CLARA
+94043,24 Tyrella Ct,2,3,Mountain View,"1,545 sqft",2-Dec-13,"$755,000 ",37.40175,-122.06315,CA,Condo,755000,"$922,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,751 W Middlefield Rd #C,2.5,2,Mountain View,"1,300 sqft",2-Dec-13,"$650,000 ",37.40111,-122.07429,CA,Condo,650000,"$831,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94040,49 Showers Dr #H445,2.5,3,Mountain View,"1,526 sqft",27-Nov-13,"$739,000 ",37.40516,-122.1049,CA,Condo,739000,"$946,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,650 Alamo Ct #2,1,2,Mountain View,852 sqft,27-Nov-13,"$446,000 ",37.40238,-122.06863,CA,Condo,446000,"$505,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #46,1,1,Mountain View,645 sqft,27-Nov-13,"$385,000 ",37.398163,-122.07294,CA,Condo,385000,"$427,000 ",,,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #196,1,2,Mountain View,814 sqft,27-Nov-13,"$575,000 ",37.4076,-122.10819,CA,Condo,575000,"$620,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,157 Centre St,2,2,Mountain View,"1,232 sqft",27-Nov-13,"$790,000 ",37.38284,-122.07503,CA,Condo,790000,"$812,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,102 Glen Alpine Ct,3,3,Mountain View,"2,017 sqft",26-Nov-13,"$1,050,500 ",37.39975,-122.065025,CA,Single-Family Home,1050500,"$1,281,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #130,2,2,Mountain View,"1,003 sqft",26-Nov-13,"$535,000 ",37.400517,-122.09864,CA,Condo,535000,"$571,000 ",,,,,Sold,SANTA CLARA
+94040,49 Showers Dr #J322,2,1,Mountain View,"1,168 sqft",26-Nov-13,"$695,000 ",37.40517,-122.10482,CA,Condo,695000,"$718,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,793 Calderon Ave,2,4,Mountain View,"2,066 sqft",26-Nov-13,"$1,554,000 ",37.383934,-122.07636,CA,Single-Family Home,1554000,"$1,691,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,2343 Gabriel Ave,,,Mountain View,"2,299 sqft",26-Nov-13,"$1,350,000 ",37.40264,-122.10397,CA,Multi-Family,1350000,"$1,596,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,106 Magnolia Ln,2.5,4,Mountain View,"1,925 sqft",25-Nov-13,"$1,140,000 ",37.389545,-122.060425,CA,Single-Family Home,1140000,"$1,300,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,175 Cuesta Dr,2,3,Mountain View,"1,336 sqft",25-Nov-13,"$1,025,000 ",37.373222,-122.07835,CA,Single-Family Home,1025000,"$1,474,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94041,438 View St,3.5,4,Mountain View,"3,233 sqft",22-Nov-13,"$2,532,500 ",37.39004,-122.07891,CA,Single-Family Home,2532500,"$2,209,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,1920 Rock St #14,1.5,3,Mountain View,"1,337 sqft",22-Nov-13,"$690,000 ",37.41302,-122.08819,CA,Condo,690000,"$736,000 ",,,,,Sold,SANTA CLARA
+94040,456 Del Medio Ave,1.5,3,Mountain View,"1,371 sqft",22-Nov-13,"$1,585,000 ",37.40551,-122.115395,CA,Single-Family Home,1585000,"$1,521,000 ",,,,,Sold,SANTA CLARA
+94041,651 Mccarty Ave,2,4,Mountain View,"1,761 sqft",22-Nov-13,"$1,095,000 ",37.38435,-122.07022,CA,Single-Family Home,1095000,"$1,480,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,766 Rustic Ln,2.5,5,Mountain View,"2,519 sqft",22-Nov-13,"$1,820,000 ",37.3801,-122.08617,CA,Single-Family Home,1820000,"$1,815,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,1051 Nilda Ave,1,3,Mountain View,"1,052 sqft",21-Nov-13,"$1,155,000 ",37.381958,-122.07929,CA,Single-Family Home,1155000,"$1,325,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,169 Gladys Ave,2.5,3,Mountain View,"1,465 sqft",21-Nov-13,"$727,500 ",37.3952,-122.062935,CA,Condo,727500,"$842,000 ",,,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #15,2,2,Mountain View,"1,003 sqft",21-Nov-13,"$505,000 ",37.399414,-122.098526,CA,Condo,505000,"$577,000 ",,,,,Sold,SANTA CLARA
+94043,421 Sierra Vista Ave #5,2.5,2,Mountain View,"1,560 sqft",20-Nov-13,"$819,000 ",37.407295,-122.089485,CA,Condo,819000,"$925,000 ",,,,,Sold,SANTA CLARA
+94040,1540 Bonita Ave,2,4,Mountain View,"1,781 sqft",20-Nov-13,"$1,700,000 ",37.375584,-122.08054,CA,Single-Family Home,1700000,"$1,647,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,139 Frederick Ct,2.5,3,Mountain View,"1,013 sqft",20-Nov-13,"$782,000 ",37.389526,-122.059616,CA,Condo,782000,"$818,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,534 Victory Ave,2,3,Mountain View,"1,116 sqft",20-Nov-13,"$1,110,000 ",37.41284,-122.09968,CA,Single-Family Home,1110000,"$1,137,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,1950 Cambridge Dr,3.5,3,Mountain View,"1,879 sqft",20-Nov-13,"$975,000 ",37.417038,-122.089,CA,Condo,975000,"$1,062,000 ",,,,,Sold,SANTA CLARA
+94043,128 Palmer Ave,2,3,Mountain View,"1,302 sqft",20-Nov-13,"$1,305,000 ",37.40454,-122.098854,CA,Single-Family Home,1305000,"$1,257,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94041,231 Dali Ave,3.5,3,Mountain View,"1,548 sqft",20-Nov-13,"$980,000 ",37.38585,-122.0558,CA,Condo,980000,"$1,029,000 ",,,,,Sold,SANTA CLARA
+94043,928 Wright Ave #1006,2,2,Mountain View,"1,183 sqft",19-Nov-13,"$788,000 ",37.398773,-122.07878,CA,Condo,788000,"$772,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94043,272 Montebello Ave,2,2,Mountain View,"1,588 sqft",19-Nov-13,"$785,000 ",37.40572,-122.09376,CA,Condo,785000,"$867,000 ",,,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #125,1,1,Mountain View,564 sqft,15-Nov-13,"$320,000 ",37.400505,-122.07192,CA,Condo,320000,"$426,000 ",,,,,Sold,SANTA CLARA
+94040,2761 Doverton Sq,2.5,5,Mountain View,"2,544 sqft",15-Nov-13,"$1,875,000 ",37.36439,-122.06884,CA,Single-Family Home,1875000,"$1,986,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,154 Montelena Ct,3,2,Mountain View,"1,796 sqft",15-Nov-13,"$1,100,000 ",37.409878,-122.11317,CA,Condo,1100000,"$1,078,000 ",,,,,Sold,SANTA CLARA
+94040,120 College St,2,3,Mountain View,910 sqft,15-Nov-13,"$765,000 ",37.403126,-122.100006,CA,Single-Family Home,765000,"$989,000 ",,,,,Sold,SANTA CLARA
+94043,175 Evandale Ave #4,2.5,2,Mountain View,"1,167 sqft",14-Nov-13,"$667,500 ",37.40453,-122.059265,CA,Condo,667500,"$759,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,248 Walker Dr #21,2,2,Mountain View,"1,288 sqft",14-Nov-13,"$635,000 ",37.40238,-122.061264,CA,Condo,635000,"$760,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,2543 Mardell Way,2,3,Mountain View,"1,216 sqft",13-Nov-13,"$226,500 ",37.412907,-122.102936,CA,Single-Family Home,226500,"$1,177,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,101 Sherland Ave #C,1.5,3,Mountain View,"1,215 sqft",13-Nov-13,"$600,000 ",37.400146,-122.062126,CA,Condo,600000,"$674,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1176 Bonita Ave,3,4,Mountain View,"1,962 sqft",8-Nov-13,"$1,350,000 ",37.37989,-122.08094,CA,Single-Family Home,1350000,"$1,889,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,2112 Wyandotte St #H,2.5,3,Mountain View,"1,325 sqft",8-Nov-13,"$660,000 ",37.416763,-122.09375,CA,Condo,660000,"$818,000 ",,,,,Sold,SANTA CLARA
+94041,1575 Mercy St,2,3,Mountain View,"1,610 sqft",8-Nov-13,"$1,400,000 ",37.39334,-122.090164,CA,Single-Family Home,1400000,"$1,338,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #57,1,1,Mountain View,551 sqft,7-Nov-13,"$310,000 ",37.399433,-122.09812,CA,Condo,310000,"$384,000 ",,,,,Sold,SANTA CLARA
+94040,1344 Park Dr,,,Mountain View,948 sqft,7-Nov-13,"$1,125,000 ",37.388176,-122.09042,CA,Single-Family Home,1125000,"$1,377,000 ",,,,,Sold,SANTA CLARA
+94040,100 W El Camino Real #53,2,2,Mountain View,"1,199 sqft",7-Nov-13,"$630,000 ",37.38262,-122.07595,CA,Condo,630000,"$677,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,509 Levin Ave,2,3,Mountain View,"1,863 sqft",7-Nov-13,"$1,690,000 ",37.365593,-122.07332,CA,Single-Family Home,1690000,"$1,750,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,212 Palmita Pl,2.5,3,Mountain View,"1,517 sqft",6-Nov-13,"$1,250,000 ",37.39203,-122.07517,CA,Single-Family Home,1250000,"$1,556,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,264 N Whisman Rd #8,1,2,Mountain View,"1,087 sqft",6-Nov-13,"$480,000 ",37.396286,-122.06115,CA,Condo,480000,"$529,000 ",,,,,Sold,SANTA CLARA
+94040,3573 Grant Rd,2,3,Mountain View,"1,630 sqft",6-Nov-13,"$1,750,000 ",37.36029,-122.07731,CA,Single-Family Home,1750000,"$1,681,000 ",,,,,Sold,SANTA CLARA
+94043,800 Wake Forest Dr,1,3,Mountain View,850 sqft,5-Nov-13,"$635,000 ",37.403645,-122.06529,CA,Single-Family Home,635000,"$786,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,938 Clark Ave #55,1,2,Mountain View,982 sqft,5-Nov-13,"$652,000 ",37.393456,-122.10014,CA,Condo,652000,"$706,000 ",,,,,Sold,SANTA CLARA
+94040,2722 Saint Giles Ln,3,5,Mountain View,"2,302 sqft",5-Nov-13,"$1,658,000 ",37.36451,-122.0712,CA,Single-Family Home,1658000,"$1,812,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,725 Mariposa Ave #106,2,2,Mountain View,"1,048 sqft",5-Nov-13,"$487,750 ",37.390507,-122.091515,CA,Condo,487750,"$581,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94041,155 Centre St,2,2,Mountain View,"1,232 sqft",4-Nov-13,"$725,000 ",37.382805,-122.07497,CA,Condo,725000,"$792,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,359 Tyrella Ave #B,1,2,Mountain View,917 sqft,1-Nov-13,"$425,000 ",37.40016,-122.06392,CA,Condo,425000,"$541,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,708 Astor Ct,2,2,Mountain View,"1,150 sqft",1-Nov-13,"$745,000 ",37.412804,-122.093185,CA,Condo,745000,"$820,000 ",,,,,Sold,SANTA CLARA
+94043,190 Fable Ct,2.5,2,Mountain View,"1,236 sqft",31-Oct-13,"$800,000 ",37.39009,-122.056526,CA,Condo,800000,"$801,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,129 College St,2.5,3,Mountain View,"1,627 sqft",31-Oct-13,"$933,000 ",37.402973,-122.09949,CA,Single-Family Home,933000,"$1,181,000 ",,Castro City,,,Sold,SANTA CLARA
+94040,214 Fair Oaks Ave,2.5,3,Mountain View,"1,531 sqft",31-Oct-13,"$1,050,000 ",37.40154,-122.09974,CA,Single-Family Home,1050000,"$1,154,000 ",,Castro City,,,Sold,SANTA CLARA
+94043,2506 Mardell Way,2,3,Mountain View,"1,216 sqft",31-Oct-13,"$1,100,000 ",37.411667,-122.10238,CA,Single-Family Home,1100000,"$1,165,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94040,1247 Christobal Privada,2.5,3,Mountain View,"2,261 sqft",31-Oct-13,"$1,300,000 ",37.37001,-122.06468,CA,Single-Family Home,1300000,"$1,557,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94040,49 Showers Dr #W202,2,2,Mountain View,"1,206 sqft",30-Oct-13,"$465,000 ",37.40517,-122.10482,CA,Condo,465000,"$693,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,1940 San Ramon Ave,1.5,2,Mountain View,"1,170 sqft",30-Oct-13,"$730,000 ",37.409824,-122.0895,CA,Condo,730000,"$1,126,000 ",,,,,Sold,SANTA CLARA
+94040,2142 Sun Mor Ave,1,2,Mountain View,"1,855 sqft",30-Oct-13,"$1,490,000 ",37.372154,-122.07047,CA,Single-Family Home,1490000,"$1,765,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94043,285 Stierlin Rd,2,3,Mountain View,"2,996 sqft",29-Oct-13,"$1,500,000 ",37.39735,-122.077896,CA,Single-Family Home,1500000,"$1,508,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94040,303 Preston Dr,2,4,Mountain View,"1,922 sqft",29-Oct-13,"$1,700,000 ",37.363285,-122.075874,CA,Single-Family Home,1700000,"$1,742,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,1945 Mount Vernon Ct #4,2,2,Mountain View,"1,086 sqft",29-Oct-13,"$580,000 ",37.396194,-122.09648,CA,Condo,580000,"$632,000 ",,,,,Sold,SANTA CLARA
+94040,131 Pacchetti Way,3,3,Mountain View,"1,421 sqft",29-Oct-13,"$920,000 ",37.40574,-122.10749,CA,Condo,920000,"$936,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,753 Independence Ave,2,3,Mountain View,"1,170 sqft",29-Oct-13,"$765,000 ",37.41404,-122.09717,CA,Single-Family Home,765000,"$973,000 ",,,,,Sold,SANTA CLARA
+94040,1763 Fordham Way,2,3,Mountain View,"1,527 sqft",28-Oct-13,"$950,000 ",37.371708,-122.09122,CA,Single-Family Home,950000,"$1,797,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,300 Whisman Station Dr,2.5,3,Mountain View,"1,625 sqft",28-Oct-13,"$930,000 ",37.39159,-122.06146,CA,Condo,930000,"$939,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,1224 Arbor Ct,3.5,5,Mountain View,"2,793 sqft",28-Oct-13,"$1,580,000 ",37.366905,-122.06627,CA,Single-Family Home,1580000,"$1,986,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,125 Ortega Ave,2.5,2,Mountain View,"1,584 sqft",25-Oct-13,"$757,500 ",37.40232,-122.10311,CA,Condo,757500,"$872,000 ",,,,,Sold,SANTA CLARA
+94043,99 E Middlefield Rd #28,2,2,Mountain View,"1,083 sqft",25-Oct-13,"$515,000 ",37.397305,-122.064545,CA,Condo,515000,"$542,000 ",,,,,Sold,SANTA CLARA
+94043,201 Ada Ave #33,2.5,2,Mountain View,"1,247 sqft",25-Oct-13,"$624,000 ",37.393784,-122.06343,CA,Condo,624000,"$737,000 ",,,,,Sold,SANTA CLARA
+94043,1773 Vassar Ave,1,3,Mountain View,"1,202 sqft",25-Oct-13,"$640,000 ",37.402473,-122.0876,CA,Single-Family Home,640000,"$886,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,2027 Tripiano Ct,4,5,Mountain View,"4,217 sqft",25-Oct-13,"$2,400,000 ",37.372543,-122.07218,CA,Single-Family Home,2400000,"$2,496,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94040,938 Clark Ave #48,2,2,Mountain View,"1,069 sqft",25-Oct-13,"$672,000 ",37.393257,-122.099655,CA,Condo,672000,"$779,000 ",,,,,Sold,SANTA CLARA
+94040,157 Ortega Ave,2.5,3,Mountain View,"1,755 sqft",25-Oct-13,"$910,000 ",37.401756,-122.10174,CA,Condo,910000,"$1,045,000 ",,,,,Sold,SANTA CLARA
+94040,1440 Brookdale Ave,1,3,Mountain View,"1,198 sqft",24-Oct-13,"$1,410,000 ",37.377388,-122.09033,CA,Single-Family Home,1410000,"$1,424,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94040,3568 Amherst Ct,3,4,Mountain View,"1,964 sqft",24-Oct-13,"$1,680,000 ",37.360043,-122.0757,CA,Single-Family Home,1680000,"$1,682,000 ",,,,,Sold,SANTA CLARA
+94043,344 Fay Way,2,3,Mountain View,"1,104 sqft",24-Oct-13,"$1,030,000 ",37.407963,-122.09587,CA,Single-Family Home,1030000,"$1,085,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,121 Flynn Ave #C,1,2,Mountain View,917 sqft,24-Oct-13,"$452,500 ",37.399002,-122.06247,CA,Condo,452500,"$526,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,101 Mansfield Dr,,,Mountain View,,23-Oct-13,"$2,295,000 ",37.364212,-122.07742,CA,Single-Family Home,2295000,,,Waverly Park,,,Sold,SANTA CLARA
+94040,1200 Lubich Dr,2.5,4,Mountain View,"2,454 sqft",23-Oct-13,"$1,725,000 ",37.36345,-122.066826,CA,Single-Family Home,1725000,"$1,761,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,135 Eldora Dr,1,2,Mountain View,"1,077 sqft",23-Oct-13,"$1,025,000 ",37.3864,-122.073524,CA,Single-Family Home,1025000,"$1,172,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,529 Anza St,1,2,Mountain View,"1,056 sqft",22-Oct-13,"$424,000 ",37.387974,-122.076866,CA,Single-Family Home,424000,"$1,042,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,75 Devonshire Ave #9,2.5,2,Mountain View,"1,141 sqft",22-Oct-13,"$700,000 ",37.402767,-122.05915,CA,Condo,700000,"$734,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,953 Eichler Dr,2,4,Mountain View,"1,816 sqft",22-Oct-13,"$1,650,000 ",37.381836,-122.08893,CA,Single-Family Home,1650000,"$1,773,000 ",,,,,Sold,SANTA CLARA
+94043,1588 Spring St,2,3,Mountain View,"1,438 sqft",22-Oct-13,"$835,000 ",37.412834,-122.081474,CA,Single-Family Home,835000,"$1,068,000 ",,,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #98,1,1,Mountain View,720 sqft,21-Oct-13,"$420,000 ",37.400505,-122.07192,CA,Condo,420000,"$438,000 ",,,,,Sold,SANTA CLARA
+94043,463 Whisman Park Dr,2.5,4,Mountain View,"1,925 sqft",18-Oct-13,"$1,109,750 ",37.38842,-122.057915,CA,Single-Family Home,1109750,"$1,264,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,453 N Rengstorff Ave #5,1,2,Mountain View,828 sqft,18-Oct-13,"$415,000 ",37.41014,-122.09237,CA,Condo,415000,"$550,000 ",,,,,Sold,SANTA CLARA
+94043,888 Sierra Vista Ave,3,4,Mountain View,"2,143 sqft",18-Oct-13,"$1,476,000 ",37.417118,-122.08996,CA,Single-Family Home,1476000,"$1,425,000 ",,,,,Sold,SANTA CLARA
+94040,278 Monroe Dr #30,1,2,Mountain View,899 sqft,18-Oct-13,"$560,000 ",37.411724,-122.11534,CA,Condo,560000,"$612,000 ",,,,,Sold,SANTA CLARA
+94043,440 Bedford Loop,2.5,2,Mountain View,"1,236 sqft",18-Oct-13,"$760,000 ",37.39036,-122.05679,CA,Condo,760000,"$811,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,956 Bonita Ave #8,1.5,2,Mountain View,"1,126 sqft",18-Oct-13,"$660,000 ",37.383156,-122.08104,CA,Condo,660000,"$817,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #94,1,1,Mountain View,720 sqft,18-Oct-13,"$410,000 ",37.40175,-122.07074,CA,Condo,410000,"$468,000 ",,,,,Sold,SANTA CLARA
+94043,1976 Silverwood Ave,1.5,2,Mountain View,984 sqft,17-Oct-13,"$565,000 ",37.402256,-122.09228,CA,Condo,565000,"$627,000 ",,,,,Sold,SANTA CLARA
+94040,2702 Saint Giles Ln,2.5,4,Mountain View,"1,963 sqft",17-Oct-13,"$1,375,000 ",37.365623,-122.071205,CA,Single-Family Home,1375000,"$1,748,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,469 Pettis Ave,2,3,Mountain View,"1,705 sqft",17-Oct-13,"$1,325,000 ",37.39336,-122.08854,CA,Single-Family Home,1325000,"$1,377,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94040,413 Del Medio Ave,1,2,Mountain View,889 sqft,16-Oct-13,"$950,000 ",37.406174,-122.113914,CA,Single-Family Home,950000,"$1,096,000 ",,,,,Sold,SANTA CLARA
+94040,228 S Rengstorff Ave,2,4,Mountain View,"1,219 sqft",16-Oct-13,"$808,000 ",37.40086,-122.09919,CA,Single-Family Home,808000,"$1,022,000 ",,Castro City,,,Sold,SANTA CLARA
+94043,809 Leong Dr,1,3,Mountain View,"1,008 sqft",16-Oct-13,"$680,000 ",37.405235,-122.06602,CA,Single-Family Home,680000,"$815,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,550 Ortega Ave #B330,2,2,Mountain View,"1,157 sqft",16-Oct-13,"$758,000 ",37.39905,-122.10578,CA,Condo,758000,"$748,000 ",,,,,Sold,SANTA CLARA
+94043,467 Bedford Loop,2.5,2,Mountain View,"1,236 sqft",15-Oct-13,"$779,750 ",37.389977,-122.057175,CA,Condo,779750,"$802,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94041,550 Sierra Ave,2,4,Mountain View,"1,615 sqft",15-Oct-13,"$1,650,000 ",37.38651,-122.0799,CA,Single-Family Home,1650000,"$1,734,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1191 Solana Dr,1,3,Mountain View,"1,522 sqft",15-Oct-13,"$1,520,000 ",37.3891,-122.10329,CA,Single-Family Home,1520000,"$1,732,000 ",,,,,Sold,SANTA CLARA
+94040,968 Trophy Dr,2,4,Mountain View,"1,912 sqft",11-Oct-13,"$1,810,000 ",37.383022,-122.08985,CA,Single-Family Home,1810000,"$1,829,000 ",,,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #52,1,1,Mountain View,662 sqft,11-Oct-13,"$412,000 ",37.398163,-122.07294,CA,Condo,412000,"$437,000 ",,,,,Sold,SANTA CLARA
+94041,311 Jessie Ln,3,5,Mountain View,"2,900 sqft",9-Oct-13,"$1,699,000 ",37.38609,-122.07658,CA,Single-Family Home,1699000,"$1,257,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #76,1,1,Mountain View,658 sqft,9-Oct-13,"$425,000 ",37.398163,-122.07294,CA,Condo,425000,"$446,000 ",,,,,Sold,SANTA CLARA
+94043,181 Ada Ave #52,2.5,2,Mountain View,"1,206 sqft",9-Oct-13,"$725,000 ",37.39284,-122.06446,CA,Condo,725000,"$749,000 ",,,,,Sold,SANTA CLARA
+94041,285 Mountain View Ave,,,Mountain View,864 sqft,9-Oct-13,"$1,225,000 ",37.394894,-122.08484,CA,Single-Family Home,1225000,"$1,064,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94043,524 Easy St,,,Mountain View,"1,820 sqft",9-Oct-13,"$820,000 ",37.403526,-122.06445,CA,Multi-Family,820000,"$971,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,701 N Rengstorff Ave #13,1,1,Mountain View,887 sqft,8-Oct-13,"$425,000 ",37.41273,-122.09164,CA,Condo,425000,"$469,000 ",,,,,Sold,SANTA CLARA
+94041,181 Centre St #6,2.5,2,Mountain View,"1,300 sqft",4-Oct-13,"$725,000 ",37.383236,-122.07671,CA,Condo,725000,"$789,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,1944 San Ramon Ave,1.5,2,Mountain View,"1,170 sqft",4-Oct-13,"$751,000 ",37.409847,-122.08959,CA,Condo,751000,"$763,000 ",,,,,Sold,SANTA CLARA
+94040,1940 Mount Vernon Ct #13,2,2,Mountain View,"1,137 sqft",4-Oct-13,"$558,000 ",37.396454,-122.09622,CA,Condo,558000,"$733,000 ",,,,,Sold,SANTA CLARA
+94040,419 Ortega Ave #104,2.5,2,Mountain View,"1,240 sqft",4-Oct-13,"$722,000 ",37.399906,-122.10466,CA,Condo,722000,"$801,000 ",,,,,Sold,SANTA CLARA
+94041,551 Sullivan Dr,2.5,5,Mountain View,"2,897 sqft",3-Oct-13,"$1,550,000 ",37.380238,-122.063736,CA,Single-Family Home,1550000,"$1,746,000 ",,,,,Sold,SANTA CLARA
+94040,203 Ortega Ave,2.5,2,Mountain View,"1,584 sqft",2-Oct-13,"$800,000 ",37.402573,-122.10253,CA,Condo,800000,"$884,000 ",,,,,Sold,SANTA CLARA
+94041,225 Miro Ave,3.5,3,Mountain View,"1,591 sqft",2-Oct-13,"$960,000 ",37.386284,-122.05689,CA,Condo,960000,"$1,021,000 ",,,,,Sold,SANTA CLARA
+94041,380 Franklin St,1,2,Mountain View,988 sqft,1-Oct-13,"$1,175,000 ",37.392548,-122.08283,CA,Single-Family Home,1175000,"$1,351,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,366 Sierra Vista Ave #3,2.5,2,Mountain View,"1,478 sqft",1-Oct-13,"$726,000 ",37.406906,-122.09067,CA,Condo,726000,"$854,000 ",,,,,Sold,SANTA CLARA
+94043,264 N Whisman Rd #23,1,2,Mountain View,"1,087 sqft",1-Oct-13,"$395,000 ",37.396534,-122.06073,CA,Condo,395000,"$552,000 ",,,,,Sold,SANTA CLARA
+94040,1031 Crestview Dr #106,2,2,Mountain View,"1,140 sqft",30-Sep-13,"$540,500 ",37.373672,-122.059364,CA,Condo,540500,"$616,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94040,1306 Lubich Dr,2.5,3,Mountain View,"1,722 sqft",30-Sep-13,"$1,365,000 ",37.363426,-122.06428,CA,Single-Family Home,1365000,"$1,538,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94043,264 N Whisman Rd #15,1,2,Mountain View,"1,087 sqft",30-Sep-13,"$505,000 ",37.39607,-122.06035,CA,Condo,505000,"$552,000 ",,,,,Sold,SANTA CLARA
+94043,867 San Luppe Dr,2,3,Mountain View,"1,022 sqft",30-Sep-13,"$704,000 ",37.40507,-122.07042,CA,Single-Family Home,704000,"$805,000 ",,,,,Sold,SANTA CLARA
+94040,956 Bonita Ave #6,1.5,2,Mountain View,"1,126 sqft",27-Sep-13,"$700,000 ",37.383144,-122.08092,CA,Condo,700000,"$823,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,1937 Amalfi Way,2,3,Mountain View,"1,716 sqft",27-Sep-13,"$1,145,500 ",37.367176,-122.085785,CA,Condo,1145500,"$1,149,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,1918 Silverwood Ave,1.5,2,Mountain View,984 sqft,26-Sep-13,"$560,000 ",37.401863,-122.091515,CA,Condo,560000,"$616,000 ",,,,,Sold,SANTA CLARA
+94043,280 Easy St #511,2,2,Mountain View,967 sqft,26-Sep-13,"$475,000 ",37.397633,-122.06746,CA,Condo,475000,"$530,000 ",,,,,Sold,SANTA CLARA
+94040,1060 Rose Ave,2,3,Mountain View,"1,280 sqft",26-Sep-13,"$1,650,000 ",37.371162,-122.09287,CA,Single-Family Home,1650000,"$1,685,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,468 Sierra Vista Ave #4,1,1,Mountain View,768 sqft,24-Sep-13,"$430,000 ",37.40926,-122.08994,CA,Condo,430000,"$488,000 ",,,,,Sold,SANTA CLARA
+94040,2504 Katrina Way,2.5,5,Mountain View,"2,300 sqft",24-Sep-13,"$1,605,000 ",37.36796,-122.068634,CA,Single-Family Home,1605000,"$1,775,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #334,2,2,Mountain View,"1,213 sqft",24-Sep-13,"$690,000 ",37.407097,-122.10781,CA,Condo,690000,"$818,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,41 Starlite Ct,2.5,3,Mountain View,"1,448 sqft",24-Sep-13,"$735,000 ",37.40583,-122.076164,CA,Condo,735000,"$816,000 ",,,,,Sold,SANTA CLARA
+94041,530 Oak St,2.5,3,Mountain View,"1,944 sqft",23-Sep-13,"$2,000,000 ",37.39098,-122.08527,CA,Single-Family Home,2000000,"$1,990,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1759 Begen Ave,2,3,Mountain View,"1,200 sqft",20-Sep-13,"$1,333,500 ",37.371563,-122.0851,CA,Single-Family Home,1333500,"$1,418,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,292 Leslie Ct #B,2.5,2,Mountain View,"1,738 sqft",20-Sep-13,"$850,000 ",37.397762,-122.06307,CA,Condo,850000,"$895,000 ",,,,,Sold,SANTA CLARA
+94043,2149 Junction Ave #2,2.5,3,Mountain View,"1,531 sqft",20-Sep-13,"$800,000 ",37.41034,-122.09432,CA,Condo,800000,"$946,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94040,1198 Maria Privada,2,3,Mountain View,"1,703 sqft",19-Sep-13,"$1,083,000 ",37.371265,-122.06307,CA,Single-Family Home,1083000,"$1,300,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94040,1354 Dale Ave #14,2.5,2,Mountain View,"1,478 sqft",19-Sep-13,"$700,000 ",37.37133,-122.06548,CA,Condo,700000,"$836,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,450 Sierra Vista Ave #10,2.5,2,Mountain View,"1,852 sqft",18-Sep-13,"$733,000 ",37.40867,-122.09003,CA,Condo,733000,"$926,000 ",,,,,Sold,SANTA CLARA
+94040,1259 Marilyn Ct,3,4,Mountain View,"2,306 sqft",18-Sep-13,"$2,318,000 ",37.380665,-122.09411,CA,Single-Family Home,2318000,"$2,306,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,662 Willowgate St,2.5,3,Mountain View,"2,042 sqft",18-Sep-13,"$1,070,000 ",37.394535,-122.07398,CA,Condo,1070000,"$1,086,000 ",,,,,Sold,SANTA CLARA
+94041,714 Muir Dr,,,Mountain View,"2,788 sqft",18-Sep-13,"$1,220,000 ",37.378773,-122.06084,CA,Multi-Family,1220000,"$1,298,000 ",,,,,Sold,SANTA CLARA
+94043,275 Leslie Ct,2,3,Mountain View,"1,432 sqft",18-Sep-13,"$829,000 ",37.396984,-122.063034,CA,Condo,829000,"$894,000 ",,,,,Sold,SANTA CLARA
+94041,1655 Villa St,2,3,Mountain View,"1,555 sqft",18-Sep-13,"$1,086,500 ",37.397472,-122.088936,CA,Single-Family Home,1086500,"$1,356,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94043,112 Magnolia Ln,2.5,4,Mountain View,"1,925 sqft",17-Sep-13,"$1,175,000 ",37.389645,-122.06038,CA,Single-Family Home,1175000,"$1,273,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,243 Horizon Ave,1.5,2,Mountain View,"1,274 sqft",17-Sep-13,"$785,000 ",37.396187,-122.074104,CA,Condo,785000,"$726,000 ",,,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #20,1,2,Mountain View,935 sqft,16-Sep-13,"$460,000 ",37.399315,-122.09827,CA,Condo,460000,"$517,000 ",,,,,Sold,SANTA CLARA
+94040,235 Fair Oaks Ave,,,Mountain View,"1,908 sqft",13-Sep-13,"$1,254,000 ",37.401146,-122.09945,CA,Multi-Family,1254000,"$1,715,000 ",,Castro City,,,Sold,SANTA CLARA
+94041,32 Church St,,,Mountain View,"3,155 sqft",13-Sep-13,"$1,450,000 ",37.3836,-122.07228,CA,Multi-Family,1450000,"$1,483,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,116 Flynn Ave #B,1,2,Mountain View,917 sqft,13-Sep-13,"$441,000 ",37.39996,-122.06245,CA,Condo,441000,"$541,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,935 San Pierre Way,2,4,Mountain View,"1,576 sqft",10-Sep-13,"$1,090,000 ",37.405895,-122.082085,CA,Single-Family Home,1090000,"$1,217,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94043,324 Whisman Station Dr,2.5,3,Mountain View,"1,390 sqft",10-Sep-13,"$832,000 ",37.391457,-122.06087,CA,Condo,832000,"$951,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94041,91 Eldora Dr,2,3,Mountain View,"1,420 sqft",10-Sep-13,"$750,000 ",37.385906,-122.07229,CA,Single-Family Home,750000,"$1,347,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,298 Laura Ln,2,3,Mountain View,"1,104 sqft",10-Sep-13,"$1,150,000 ",37.408405,-122.10086,CA,Single-Family Home,1150000,"$1,137,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,437 Rhone Ct,2.5,2,Mountain View,"1,407 sqft",10-Sep-13,"$780,000 ",37.409374,-122.09019,CA,Condo,780000,"$850,000 ",,,,,Sold,SANTA CLARA
+94043,317 Serra San Bruno,2.5,3,Mountain View,"1,715 sqft",10-Sep-13,"$1,000,000 ",37.407227,-122.09472,CA,Single-Family Home,1000000,"$1,264,000 ",,,,,Sold,SANTA CLARA
+94040,49 Showers Dr #A132,2,2,Mountain View,"1,206 sqft",10-Sep-13,"$653,000 ",37.40517,-122.10482,CA,Condo,653000,"$691,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,135 Margo Dr #10,2,3,Mountain View,"1,273 sqft",9-Sep-13,"$563,000 ",37.384296,-122.06582,CA,Condo,563000,"$728,000 ",,,,,Sold,SANTA CLARA
+94040,587 Sleeper Ave,3.5,5,Mountain View,"3,336 sqft",9-Sep-13,"$2,300,000 ",37.37129,-122.0729,CA,Single-Family Home,2300000,"$1,016,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94043,100 E Middlefield Rd #1D,2,2,Mountain View,"1,083 sqft",6-Sep-13,"$505,000 ",37.39931,-122.06349,CA,Condo,505000,"$609,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,550 Ortega Ave #A108,2,2,Mountain View,"1,163 sqft",6-Sep-13,"$688,000 ",37.399216,-122.1062,CA,Condo,688000,"$779,000 ",,,,,Sold,SANTA CLARA
+94043,255 Easy St #12,1,2,Mountain View,966 sqft,6-Sep-13,"$450,000 ",37.398273,-122.06602,CA,Condo,450000,"$506,000 ",,,,,Sold,SANTA CLARA
+94040,2184 Leland Ave,3,4,Mountain View,"1,919 sqft",6-Sep-13,"$940,000 ",37.403484,-122.099266,CA,Single-Family Home,940000,"$1,190,000 ",,Castro City,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #422,1,1,Mountain View,769 sqft,6-Sep-13,"$500,000 ",37.40741,-122.108116,CA,Condo,500000,"$580,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,938 Clark Ave #5,2,2,Mountain View,"1,069 sqft",6-Sep-13,"$615,000 ",37.393024,-122.09926,CA,Condo,615000,"$752,000 ",,,,,Sold,SANTA CLARA
+94043,1988 Silverwood Ave,1.5,2,Mountain View,984 sqft,5-Sep-13,"$560,000 ",37.401997,-122.09243,CA,Condo,560000,"$626,000 ",,,,,Sold,SANTA CLARA
+94040,1112 Sussex Sq,2,3,Mountain View,"1,888 sqft",5-Sep-13,"$1,375,000 ",37.37787,-122.073135,CA,Single-Family Home,1375000,"$1,730,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #189,1,1,Mountain View,720 sqft,4-Sep-13,"$405,000 ",37.39987,-122.07142,CA,Condo,405000,"$446,000 ",,,,,Sold,SANTA CLARA
+94040,847 Runningwood Cir,2,2,Mountain View,"1,497 sqft",4-Sep-13,"$1,035,000 ",37.369865,-122.06416,CA,Condo,1035000,"$1,034,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94040,169 College St,2,3,Mountain View,"1,104 sqft",30-Aug-13,"$850,000 ",37.40234,-122.099884,CA,Single-Family Home,850000,"$1,042,000 ",,Castro City,,,Sold,SANTA CLARA
+94043,505 Cypress Point Dr #149,1,1,Mountain View,662 sqft,30-Aug-13,"$392,000 ",37.398163,-122.07294,CA,Condo,392000,"$425,000 ",,,,,Sold,SANTA CLARA
+94040,1031 Crestview Dr #211,2,2,Mountain View,"1,140 sqft",30-Aug-13,"$552,000 ",37.373215,-122.05953,CA,Condo,552000,"$648,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,191 Darya Ct,2.5,2,Mountain View,"1,236 sqft",30-Aug-13,"$760,000 ",37.389538,-122.05603,CA,Condo,760000,"$792,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94041,1025 California St,,,Mountain View,"1,472 sqft",30-Aug-13,"$720,000 ",37.392082,-122.08319,CA,Multi-Family,720000,"$1,343,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,751 W Middlefield Rd #E,2.5,3,Mountain View,"1,300 sqft",30-Aug-13,"$670,000 ",37.401283,-122.07451,CA,Condo,670000,"$871,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94041,271 Velarde St,1,2,Mountain View,916 sqft,30-Aug-13,"$1,105,000 ",37.388508,-122.07474,CA,Single-Family Home,1105000,"$1,036,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,881 Linda Vista Ave,2,3,Mountain View,"1,302 sqft",29-Aug-13,"$848,000 ",37.405933,-122.07538,CA,Single-Family Home,848000,"$878,000 ",,,,,Sold,SANTA CLARA
+94040,456 Chesley Ave,2.5,5,Mountain View,"2,566 sqft",29-Aug-13,"$1,788,000 ",37.366783,-122.07409,CA,Single-Family Home,1788000,"$1,957,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,156 Pacchetti Way,2.5,2,Mountain View,"1,080 sqft",29-Aug-13,"$720,000 ",37.405823,-122.10789,CA,Condo,720000,"$823,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,1926 Montecito Ave,2,3,Mountain View,"1,193 sqft",28-Aug-13,"$920,000 ",37.405457,-122.090904,CA,Single-Family Home,920000,"$1,072,000 ",,,,,Sold,SANTA CLARA
+94040,104 Concord Cir,2.5,3,Mountain View,"1,570 sqft",28-Aug-13,"$1,312,000 ",37.40477,-122.105934,CA,Single-Family Home,1312000,"$1,411,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,49 Showers Dr #B452,2.5,3,Mountain View,"1,487 sqft",28-Aug-13,"$870,000 ",37.40517,-122.10482,CA,Condo,870000,"$887,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,173 Sierra Vista Ave #1,2.5,2,Mountain View,"1,594 sqft",27-Aug-13,"$875,000 ",37.403248,-122.09221,CA,Condo,875000,"$909,000 ",,,,,Sold,SANTA CLARA
+94040,1100 Carlos Privada,3,3,Mountain View,"2,022 sqft",27-Aug-13,"$1,250,000 ",37.373005,-122.06229,CA,Single-Family Home,1250000,"$1,358,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,280 Easy St #312,1,1,Mountain View,711 sqft,27-Aug-13,"$370,000 ",37.398445,-122.067314,CA,Condo,370000,"$411,000 ",,,,,Sold,SANTA CLARA
+94040,956 Trophy Dr,2,4,Mountain View,"1,816 sqft",27-Aug-13,"$1,500,000 ",37.383106,-122.08921,CA,Single-Family Home,1500000,"$1,757,000 ",,,,,Sold,SANTA CLARA
+94043,32 Annie Laurie St,,,Mountain View,"1,361 sqft",23-Aug-13,"$842,500 ",37.403408,-122.06125,CA,Single-Family Home,842500,"$1,039,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1532 Meadow Ln,2.5,3,Mountain View,"2,023 sqft",23-Aug-13,"$1,660,000 ",37.37843,-122.09301,CA,Single-Family Home,1660000,"$1,998,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,173 Sierra Vista Ave #21,3,3,Mountain View,"1,490 sqft",23-Aug-13,"$805,000 ",37.402412,-122.09145,CA,Condo,805000,"$909,000 ",,,,,Sold,SANTA CLARA
+94043,131 Huntington Ct,2.5,2,Mountain View,"1,119 sqft",22-Aug-13,"$730,000 ",37.38957,-122.058846,CA,Condo,730000,"$792,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,325 Chatham Way,2.5,5,Mountain View,"2,822 sqft",22-Aug-13,"$1,931,000 ",37.36724,-122.07593,CA,Single-Family Home,1931000,"$2,194,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #176,1,1,Mountain View,720 sqft,22-Aug-13,"$329,500 ",37.399612,-122.07095,CA,Condo,329500,"$459,000 ",,,,,Sold,SANTA CLARA
+94040,100 W El Camino Real #42,2,2,Mountain View,"1,199 sqft",21-Aug-13,"$600,000 ",37.38253,-122.076584,CA,Condo,600000,"$687,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,620 Tyrella Ave,2.5,3,Mountain View,"1,653 sqft",21-Aug-13,"$899,000 ",37.405792,-122.06243,CA,Single-Family Home,899000,"$1,152,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1255 Marilyn Ct,2.5,3,Mountain View,"2,077 sqft",21-Aug-13,"$1,580,000 ",37.380478,-122.09397,CA,Single-Family Home,1580000,"$2,012,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,128 Ada Ave #23,2.5,2,Mountain View,"1,353 sqft",21-Aug-13,"$746,000 ",37.392963,-122.06675,CA,Condo,746000,"$819,000 ",,,,,Sold,SANTA CLARA
+94043,365 Tyrella Ave #A,1,2,Mountain View,858 sqft,20-Aug-13,"$490,000 ",37.400005,-122.06304,CA,Condo,490000,"$515,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,921 Barbara Ave,1,2,Mountain View,"1,076 sqft",20-Aug-13,"$1,305,000 ",37.376938,-122.08761,CA,Single-Family Home,1305000,"$1,358,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94040,1023 Morton Ct,1,3,Mountain View,"1,235 sqft",20-Aug-13,"$1,140,000 ",37.391537,-122.10057,CA,Single-Family Home,1140000,"$1,459,000 ",,,,,Sold,SANTA CLARA
+94041,745 Glenborough Dr,2.5,5,Mountain View,"2,897 sqft",20-Aug-13,"$1,590,000 ",37.382275,-122.064804,CA,Single-Family Home,1590000,"$1,626,000 ",,,,,Sold,SANTA CLARA
+94040,3414 Shady Spring Ln,2.5,4,Mountain View,"2,427 sqft",16-Aug-13,"$1,756,000 ",37.360455,-122.07126,CA,Single-Family Home,1756000,"$1,793,000 ",,,,,Sold,SANTA CLARA
+94043,2356 Laura Ln,2,3,Mountain View,"1,104 sqft",16-Aug-13,"$1,050,000 ",37.4072,-122.09742,CA,Single-Family Home,1050000,"$1,107,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,1930 Cappelletti Ct,3,4,Mountain View,"1,697 sqft",16-Aug-13,"$1,285,000 ",37.405018,-122.09158,CA,Single-Family Home,1285000,"$1,301,000 ",,,,,Sold,SANTA CLARA
+94040,2676 Yorkton Dr,3,4,Mountain View,"1,975 sqft",16-Aug-13,"$1,565,000 ",37.367104,-122.07214,CA,Single-Family Home,1565000,"$1,717,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94043,928 Wright Ave #501,2,3,Mountain View,"1,414 sqft",16-Aug-13,"$751,000 ",37.39926,-122.08036,CA,Condo,751000,"$819,000 ",,Jackson Park,,,Sold,SANTA CLARA
+94043,968 San Marcos Cir,2,3,Mountain View,"1,415 sqft",16-Aug-13,"$1,015,000 ",37.407116,-122.082954,CA,Single-Family Home,1015000,"$1,120,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,2527 Westford Way,2.5,5,Mountain View,"2,566 sqft",15-Aug-13,"$1,725,000 ",37.36709,-122.06883,CA,Single-Family Home,1725000,"$1,842,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,1115 Ana Privada,2.5,3,Mountain View,"2,261 sqft",15-Aug-13,"$1,250,000 ",37.371952,-122.06114,CA,Single-Family Home,1250000,"$1,559,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,1945 Cappelletti Ct,3,4,Mountain View,"1,669 sqft",15-Aug-13,"$1,170,000 ",37.405125,-122.09277,CA,Single-Family Home,1170000,"$1,259,000 ",,,,,Sold,SANTA CLARA
+94040,528 Leona Ln,2,3,Mountain View,"1,178 sqft",14-Aug-13,"$1,260,000 ",37.377045,-122.08142,CA,Single-Family Home,1260000,"$1,395,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,229 Hamilton Ave,2,3,Mountain View,"1,280 sqft",14-Aug-13,"$1,205,000 ",37.406693,-122.10031,CA,Single-Family Home,1205000,"$1,232,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,2047 Montecito Ave #14,1,2,Mountain View,"1,000 sqft",14-Aug-13,"$423,500 ",37.406006,-122.09441,CA,Condo,423500,"$571,000 ",,,,,Sold,SANTA CLARA
+94043,1932 Aberdeen Ln,3.5,3,Mountain View,"1,644 sqft",14-Aug-13,"$840,000 ",37.416508,-122.08852,CA,Condo,840000,"$980,000 ",,,,,Sold,SANTA CLARA
+94043,432 Whisman Park Dr,2.5,4,Mountain View,"1,925 sqft",13-Aug-13,"$1,185,000 ",37.389652,-122.05822,CA,Single-Family Home,1185000,"$1,299,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94040,1216 Satake Ct,3.5,4,Mountain View,"2,298 sqft",13-Aug-13,"$2,105,000 ",37.38047,-122.09125,CA,Single-Family Home,2105000,"$2,111,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,280 Easy St #409,1,2,Mountain View,894 sqft,12-Aug-13,"$460,000 ",37.398254,-122.067795,CA,Condo,460000,"$481,000 ",,,,,Sold,SANTA CLARA
+94043,751 Leong Dr,1.5,3,Mountain View,"1,047 sqft",9-Aug-13,"$685,000 ",37.404507,-122.067,CA,Single-Family Home,685000,"$880,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #110,2,2,Mountain View,"1,003 sqft",9-Aug-13,"$552,000 ",37.40018,-122.09776,CA,Condo,552000,"$589,000 ",,,,,Sold,SANTA CLARA
+94040,1119 Sussex Sq,2,3,Mountain View,"1,712 sqft",9-Aug-13,"$1,323,000 ",37.377213,-122.07297,CA,Single-Family Home,1323000,"$1,630,000 ",,Martens-Carmelita,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #383,3,3,Mountain View,"1,418 sqft",8-Aug-13,"$810,000 ",37.40739,-122.10858,CA,Condo,810000,"$926,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,255 Paul Ave,,,Mountain View,"2,099 sqft",8-Aug-13,"$1,580,000 ",37.386482,-122.07558,CA,Multi-Family,1580000,"$1,641,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,2526 W Middlefield Rd,1.5,2,Mountain View,968 sqft,7-Aug-13,"$550,000 ",37.41371,-122.09873,CA,Condo,550000,"$638,000 ",,,,,Sold,SANTA CLARA
+94043,174 Jordan Ct,2.5,2,Mountain View,"1,594 sqft",6-Aug-13,"$832,000 ",37.388958,-122.05662,CA,Condo,832000,"$915,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,419 Rialto Ct,2.5,3,Mountain View,"1,659 sqft",6-Aug-13,"$958,000 ",37.409317,-122.09267,CA,Condo,958000,"$963,000 ",,,,,Sold,SANTA CLARA
+94040,13080 Sun Mor Ave,,,Mountain View,"1,370 sqft",1-Aug-13,"$2,425,000 ",37.368195,-122.069954,CA,Single-Family Home,2425000,"$1,954,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,605 Moorpark Way,2.5,4,Mountain View,"2,240 sqft",1-Aug-13,"$1,245,000 ",37.382774,-122.067085,CA,Single-Family Home,1245000,"$1,412,000 ",,,,,Sold,SANTA CLARA
+94040,1943 Mount Vernon Ct #110,2,2,Mountain View,"1,169 sqft",1-Aug-13,"$585,000 ",37.396263,-122.09674,CA,Condo,585000,"$731,000 ",,,,,Sold,SANTA CLARA
+94041,505 Hope St,3,4,Mountain View,"1,909 sqft",31-Jul-13,"$1,550,000 ",37.38938,-122.08,CA,Single-Family Home,1550000,"$1,654,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,836 Bourbon Ct,2,4,Mountain View,"1,730 sqft",31-Jul-13,"$1,150,000 ",37.377804,-122.06549,CA,Single-Family Home,1150000,"$1,280,000 ",,,,,Sold,SANTA CLARA
+94041,793 View St,2,4,Mountain View,"1,754 sqft",30-Jul-13,"$1,930,000 ",37.386078,-122.080635,CA,Single-Family Home,1930000,"$1,896,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94043,530 Devonshire Ct,2.5,3,Mountain View,"1,697 sqft",30-Jul-13,"$62,500 ",37.40397,-122.06066,CA,Single-Family Home,62500,"$1,156,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,2404 Villa Nueva Way,2,3,Mountain View,"1,682 sqft",29-Jul-13,"$1,430,000 ",37.36924,-122.07707,CA,Single-Family Home,1430000,"$1,720,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #128,1,1,Mountain View,812 sqft,29-Jul-13,"$340,000 ",37.400494,-122.09856,CA,Condo,340000,"$443,000 ",,,,,Sold,SANTA CLARA
+94040,115 Pacchetti Way,2.5,2,Mountain View,"1,080 sqft",26-Jul-13,"$750,000 ",37.40627,-122.10704,CA,Condo,750000,"$801,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,49 Showers Dr #W104,2,2,Mountain View,"1,206 sqft",26-Jul-13,"$619,000 ",37.40517,-122.10482,CA,Condo,619000,"$675,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,1031 Crestview Dr #112,1,1,Mountain View,855 sqft,26-Jul-13,"$438,000 ",37.37348,-122.059204,CA,Condo,438000,"$444,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94040,49 Showers Dr #P421,2.5,3,Mountain View,"1,526 sqft",26-Jul-13,"$902,000 ",37.40516,-122.1049,CA,Condo,902000,"$945,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,255 S Rengstorff Ave #7,2,2,Mountain View,"1,003 sqft",26-Jul-13,"$562,000 ",37.399464,-122.09866,CA,Condo,562000,"$568,000 ",,,,,Sold,SANTA CLARA
+94040,1414 Lloyd Way,1.5,2,Mountain View,"1,370 sqft",26-Jul-13,"$1,325,000 ",37.387093,-122.09202,CA,Single-Family Home,1325000,"$1,495,000 ",,,,,Sold,SANTA CLARA
+94043,1921 Rock St #11,1,2,Mountain View,884 sqft,26-Jul-13,"$510,000 ",37.41198,-122.08842,CA,Condo,510000,"$541,000 ",,,,,Sold,SANTA CLARA
+94041,521 Frances Way,2,3,Mountain View,"1,431 sqft",25-Jul-13,"$1,260,000 ",37.386673,-122.072136,CA,Single-Family Home,1260000,"$1,385,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1405 Village Ct,,,Mountain View,"3,060 sqft",25-Jul-13,"$1,200,000 ",37.36833,-122.06249,CA,Multi-Family,1200000,"$1,320,000 ",,Cuernavaca,,,Sold,SANTA CLARA
+94043,71 Tyrella Ct,2.5,3,Mountain View,"1,700 sqft",25-Jul-13,"$836,000 ",37.401417,-122.062744,CA,Condo,836000,"$918,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,49 Showers Dr #P426,2.5,3,Mountain View,"1,526 sqft",24-Jul-13,"$850,000 ",37.40517,-122.10482,CA,Condo,850000,"$945,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,1940 Cappelletti Ct,3,4,Mountain View,"1,630 sqft",24-Jul-13,"$1,188,000 ",37.40536,-122.09242,CA,Single-Family Home,1188000,"$1,248,000 ",,,,,Sold,SANTA CLARA
+94040,1549 Melba Ct,1.5,3,Mountain View,"1,404 sqft",23-Jul-13,"$1,325,000 ",37.38735,-122.09224,CA,Single-Family Home,1325000,"$1,494,000 ",,,,,Sold,SANTA CLARA
+94040,938 Clark Ave #36,2,2,Mountain View,"1,069 sqft",19-Jul-13,"$599,000 ",37.393166,-122.100334,CA,Condo,599000,"$751,000 ",,,,,Sold,SANTA CLARA
+94040,1661 Begen Ave,2.5,4,Mountain View,"1,562 sqft",19-Jul-13,"$1,450,000 ",37.375443,-122.08486,CA,Single-Family Home,1450000,"$1,622,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,1755 Fordham Way,2,3,Mountain View,"1,527 sqft",19-Jul-13,"$1,600,000 ",37.371895,-122.09121,CA,Single-Family Home,1600000,"$1,925,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,701 N Rengstorff Ave #10,1,1,Mountain View,887 sqft,19-Jul-13,"$412,000 ",37.41274,-122.09172,CA,Condo,412000,"$474,000 ",,,,,Sold,SANTA CLARA
+94043,188 Campbell Dr,2.5,3,Mountain View,"1,369 sqft",19-Jul-13,"$830,000 ",37.39197,-122.05822,CA,Condo,830000,"$905,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,6 Comstock Queen Ct,1.5,3,Mountain View,"1,254 sqft",18-Jul-13,"$640,000 ",37.40398,-122.07852,CA,Condo,640000,"$726,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,2255 Showers Dr #263,2,2,Mountain View,"1,113 sqft",17-Jul-13,"$700,000 ",37.407074,-122.10846,CA,Condo,700000,"$796,000 ",,The Crossings,,,Sold,SANTA CLARA
+94040,1110 Nilda Ave,2,3,Mountain View,"1,578 sqft",17-Jul-13,"$1,502,000 ",37.38092,-122.0798,CA,Single-Family Home,1502000,"$1,505,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,973 Mountain View Ave,3,3,Mountain View,"1,659 sqft",17-Jul-13,"$1,613,000 ",37.38549,-122.08999,CA,Single-Family Home,1613000,"$1,665,000 ",,,,,Sold,SANTA CLARA
+94041,748 Alice Ave,2.5,4,Mountain View,"2,289 sqft",16-Jul-13,"$984,000 ",37.382183,-122.06698,CA,Single-Family Home,984000,"$1,398,000 ",,,,,Sold,SANTA CLARA
+94040,1245 Phyllis Ave,,,Mountain View,"2,380 sqft",16-Jul-13,"$1,575,000 ",37.378742,-122.077415,CA,Multi-Family,1575000,"$2,017,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94043,1921 Rock St #3,1.5,2,Mountain View,972 sqft,16-Jul-13,"$529,000 ",37.41201,-122.08788,CA,Condo,529000,"$619,000 ",,,,,Sold,SANTA CLARA
+94040,1424 Phyllis Ave,,,Mountain View,"2,649 sqft",16-Jul-13,"$1,360,000 ",37.376446,-122.07735,CA,Multi-Family,1360000,"$1,913,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94041,358 View St,,,Mountain View,"2,050 sqft",16-Jul-13,"$1,480,000 ",37.39109,-122.07827,CA,Multi-Family,1480000,"$1,520,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,525 Fairmont Ave,1,3,Mountain View,"1,275 sqft",15-Jul-13,"$1,168,000 ",37.384827,-122.08075,CA,Single-Family Home,1168000,"$1,410,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,241 Miro Ave,3.5,3,Mountain View,"1,591 sqft",12-Jul-13,"$980,000 ",37.386105,-122.05695,CA,Condo,980000,"$1,030,000 ",,,,,Sold,SANTA CLARA
+94043,465 Central Ave,1.5,2,Mountain View,"1,274 sqft",12-Jul-13,"$710,000 ",37.395927,-122.07327,CA,Condo,710000,"$716,000 ",,,,,Sold,SANTA CLARA
+94040,1061 Clark Ave,1,3,Mountain View,974 sqft,12-Jul-13,"$1,150,000 ",37.390667,-122.10026,CA,Single-Family Home,1150000,"$1,341,000 ",,,,,Sold,SANTA CLARA
+94040,49 Showers Dr #N166,2,1,Mountain View,"1,168 sqft",12-Jul-13,"$614,000 ",37.40517,-122.10482,CA,Condo,614000,"$692,000 ",,The Crossings,,,Sold,SANTA CLARA
+94043,154 Granada Dr,2.5,3,Mountain View,"1,704 sqft",12-Jul-13,"$840,000 ",37.400135,-122.086655,CA,Condo,840000,"$929,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94043,372 Flower Ln,2.5,3,Mountain View,"1,390 sqft",11-Jul-13,"$870,000 ",37.392082,-122.05932,CA,Condo,870000,"$926,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,449 Whisman Park Dr,2.5,3,Mountain View,"1,728 sqft",11-Jul-13,"$1,010,000 ",37.388977,-122.05819,CA,Single-Family Home,1010000,"$1,233,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,1762 Elsie Ave,1,3,Mountain View,882 sqft,11-Jul-13,"$850,000 ",37.404964,-122.08673,CA,Single-Family Home,850000,"$911,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,100 W El Camino Real #56,2.5,2,Mountain View,"1,300 sqft",10-Jul-13,"$650,000 ",37.38264,-122.07623,CA,Condo,650000,"$738,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,332 Deerwood Ct #1104,2.5,2,Mountain View,"1,240 sqft",10-Jul-13,"$720,000 ",37.40054,-122.10366,CA,Condo,720000,"$775,000 ",,,,,Sold,SANTA CLARA
+94040,1915 Mount Vernon Ct #4,1,1,Mountain View,896 sqft,10-Jul-13,"$360,000 ",37.39568,-122.09542,CA,Condo,360000,"$482,000 ",,,,,Sold,SANTA CLARA
+94040,143 Laurel Way,2.5,3,Mountain View,"1,339 sqft",10-Jul-13,"$1,150,000 ",37.4052,-122.10754,CA,Single-Family Home,1150000,"$1,264,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,541 Mercy St,1,2,Mountain View,800 sqft,10-Jul-13,"$1,555,000 ",37.388725,-122.078545,CA,Single-Family Home,1555000,"$1,124,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,49 Showers Dr #A137,2,2,Mountain View,"1,206 sqft",9-Jul-13,"$596,000 ",37.40517,-122.10482,CA,Condo,596000,"$711,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,822 Calderon Ave,2,3,Mountain View,"1,820 sqft",9-Jul-13,"$1,206,000 ",37.383675,-122.07728,CA,Single-Family Home,1206000,"$1,518,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,49 Showers Dr #J127,2,2,Mountain View,"1,206 sqft",9-Jul-13,"$590,000 ",37.40517,-122.10482,CA,Condo,590000,"$694,000 ",,The Crossings,,,Sold,SANTA CLARA
+94041,726 Borello Way,,,Mountain View,"2,662 sqft",9-Jul-13,"$1,198,000 ",37.37822,-122.06207,CA,Multi-Family,1198000,"$1,299,000 ",,,,,Sold,SANTA CLARA
+94043,99 Sherland Ave #B,1,2,Mountain View,917 sqft,8-Jul-13,"$475,000 ",37.40029,-122.06234,CA,Condo,475000,"$541,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,2509 Nedson Ct,2,3,Mountain View,"1,536 sqft",3-Jul-13,"$854,000 ",37.413223,-122.0997,CA,Single-Family Home,854000,"$1,271,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,233 Cypress Point Dr,2,3,Mountain View,"1,526 sqft",3-Jul-13,"$852,000 ",37.397182,-122.07013,CA,Condo,852000,"$868,000 ",,,,,Sold,SANTA CLARA
+94040,774 Bond Way,1,3,Mountain View,"1,004 sqft",3-Jul-13,"$1,050,000 ",37.372845,-122.08594,CA,Single-Family Home,1050000,"$1,292,000 ",,Cuesta Park,,,Sold,SANTA CLARA
+94040,2025 California St #25,1,2,Mountain View,768 sqft,3-Jul-13,"$368,000 ",37.398018,-122.0981,CA,Condo,368000,"$488,000 ",,,,,Sold,SANTA CLARA
+94041,272 Palo Alto Ave,2,3,Mountain View,"1,399 sqft",3-Jul-13,"$1,110,000 ",37.395687,-122.08648,CA,Single-Family Home,1110000,"$1,312,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94040,1874 Anthony Ct,3.5,3,Mountain View,"2,040 sqft",3-Jul-13,"$1,720,000 ",37.390556,-122.0979,CA,Single-Family Home,1720000,"$2,061,000 ",,,,,Sold,SANTA CLARA
+94040,1191 Awalt Dr,2.5,4,Mountain View,"2,720 sqft",3-Jul-13,"$1,570,000 ",37.362988,-122.06947,CA,Single-Family Home,1570000,"$1,969,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #40,2,2,Mountain View,978 sqft,3-Jul-13,"$505,000 ",37.400505,-122.07192,CA,Condo,505000,"$599,000 ",,,,,Sold,SANTA CLARA
+94043,97 Sherland Ave #C,1.5,3,Mountain View,"1,215 sqft",3-Jul-13,"$583,000 ",37.400253,-122.06256,CA,Condo,583000,"$657,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1244 Lubich Dr,2.5,4,Mountain View,"2,292 sqft",1-Jul-13,"$1,463,500 ",37.363426,-122.06579,CA,Single-Family Home,1463500,"$1,860,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,12 Church St,,,Mountain View,"2,101 sqft",1-Jul-13,"$1,200,000 ",37.383137,-122.07138,CA,Multi-Family,1200000,"$1,581,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94041,14 Church St,,,Mountain View,"2,512 sqft",1-Jul-13,"$1,275,000 ",37.383232,-122.07156,CA,Multi-Family,1275000,"$1,441,000 ",,Old Mountain View,,,Sold,SANTA CLARA
+94040,1902 Limetree Ln,2,3,Mountain View,"2,112 sqft",28-Jun-13,"$2,105,000 ",37.368137,-122.09535,CA,Single-Family Home,2105000,"$2,118,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,352 Flower Ln,2.5,3,Mountain View,"1,390 sqft",28-Jun-13,"$900,000 ",37.392185,-122.05978,CA,Condo,900000,"$959,000 ",,Whisman Station,,,Sold,SANTA CLARA
+94043,123 Flynn Ave #D,1,2,Mountain View,840 sqft,28-Jun-13,"$467,500 ",37.39888,-122.06226,CA,Condo,467500,"$509,000 ",,North Whisman,,,Sold,SANTA CLARA
+94041,1721 California St #8,2,2,Mountain View,778 sqft,28-Jun-13,"$253,000 ",37.395695,-122.09217,CA,Condo,253000,"$453,000 ",,Shoreline West,,,Sold,SANTA CLARA
+94043,1835 Montecito Ave,1,3,Mountain View,877 sqft,28-Jun-13,"$770,000 ",37.404106,-122.087715,CA,Single-Family Home,770000,"$812,000 ",,Rex Manor,,,Sold,SANTA CLARA
+94040,2211 Latham St #110,2,2,Mountain View,"1,206 sqft",28-Jun-13,"$560,000 ",37.397247,-122.10284,CA,Condo,560000,"$661,000 ",,,,,Sold,SANTA CLARA
+94043,192 Wiley Ter,3.5,3,Mountain View,"1,654 sqft",28-Jun-13,"$840,000 ",37.405407,-122.05939,CA,Single-Family Home,840000,"$1,082,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,2521 Westford Way,2,3,Mountain View,"2,093 sqft",28-Jun-13,"$1,450,000 ",37.367302,-122.06884,CA,Single-Family Home,1450000,"$1,794,000 ",,Waverly Park,,,Sold,SANTA CLARA
+94041,373 Pettis Ave,,,Mountain View,"3,340 sqft",28-Jun-13,"$1,150,000 ",37.394627,-122.08777,CA,Multi-Family,1150000,,,Shoreline West,,,Sold,SANTA CLARA
+94040,936 Madison Dr,3,3,Mountain View,"2,433 sqft",26-Jun-13,"$1,903,000 ",37.370316,-122.08902,CA,Single-Family Home,1903000,"$2,190,000 ",,Blossom Valley,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #150,1,1,Mountain View,720 sqft,26-Jun-13,"$410,000 ",37.399803,-122.07094,CA,Condo,410000,"$451,000 ",,,,,Sold,SANTA CLARA
+94043,75 Devonshire Ave #8,2.5,2,Mountain View,"1,141 sqft",26-Jun-13,"$670,000 ",37.402832,-122.05912,CA,Condo,670000,"$751,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,264 N Whisman Rd #13,1,2,Mountain View,"1,087 sqft",26-Jun-13,"$440,000 ",37.39624,-122.06029,CA,Condo,440000,"$552,000 ",,,,,Sold,SANTA CLARA
+94043,532 Tyrella Ave #1,1.5,3,Mountain View,"1,128 sqft",26-Jun-13,"$561,000 ",37.40449,-122.06422,CA,Condo,561000,"$659,000 ",,North Whisman,,,Sold,SANTA CLARA
+94043,500 W Middlefield Rd #115,2,2,Mountain View,"1,136 sqft",25-Jun-13,"$455,000 ",37.400505,-122.07192,CA,Condo,455000,"$598,000 ",,,,,Sold,SANTA CLARA
+94043,2335 Thompson Ct,3,5,Mountain View,"1,968 sqft",25-Jun-13,"$1,225,000 ",37.408005,-122.0963,CA,Single-Family Home,1225000,"$1,351,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94043,266 Walker Dr,2,3,Mountain View,"1,330 sqft",25-Jun-13,"$1,010,000 ",37.40191,-122.06048,CA,Single-Family Home,1010000,"$1,023,000 ",,North Whisman,,,Sold,SANTA CLARA
+94040,1758 Marich Way,2,3,Mountain View,"1,980 sqft",24-Jun-13,"$1,360,000 ",37.39117,-122.09715,CA,Single-Family Home,1360000,"$1,833,000 ",,,,,Sold,SANTA CLARA
+94043,342 Anna Ave,2,3,Mountain View,"1,170 sqft",24-Jun-13,"$1,175,000 ",37.409065,-122.10126,CA,Single-Family Home,1175000,"$1,167,000 ",,Monta Loma,,,Sold,SANTA CLARA
+94040,104 Sondgroth Way,2.5,3,Mountain View,"1,339 sqft",24-Jun-13,"$1,120,000 ",37.40579,-122.10657,CA,Single-Family Home,1120000,"$1,319,000 ",,The Crossings,,,Sold,SANTA CLARA

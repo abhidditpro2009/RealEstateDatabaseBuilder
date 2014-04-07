@@ -1,0 +1,368 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,951 N Hickory Ave,2.0,3.0,Tracy,"1,132 sqft","Dec 31, 1969",$0,37.73764,-121.44378,CA,Single-Family Home,70000,,95376,,60,,For Sale,SAN JOAQUIN
+2,2128 Babcock Ln,4.0,4.0,Tracy,"2,746 sqft","Dec 31, 1969",$0,37.728977,-121.455,CA,Single-Family Home,450000,,95377,,28,,For Sale,SAN JOAQUIN
+3,250 E Clover Rd,2.5,4.0,Tracy,,"Dec 31, 1969",$0,37.761375,-121.42222,CA,Single-Family Home,269000,,95376,,46,,For Sale,SAN JOAQUIN
+4,2081 Garrison Ln,2.0,4.0,Tracy,"2,223 sqft","Dec 31, 1969",$0,37.71608,-121.43868,CA,Single-Family Home,345888,,95376,,52,,For Sale,SAN JOAQUIN
+5,2115 Foothill Ranch Dr,3.0,4.0,Tracy,"2,144 sqft","Dec 31, 1969",$0,37.75092,-121.454865,CA,Single-Family Home,360000,,95377,,43,,For Sale,SAN JOAQUIN
+6,2929 N Macarthur Dr #110,2.0,3.0,Tracy,"1,200 sqft","Dec 31, 1969",$0,37.757008,-121.41616,CA,Mobile/Manufactured,79000,,95376,,37,,For Sale,SAN JOAQUIN
+7,2064 Thelma Loop,3.0,4.0,Tracy,"2,158 sqft","Dec 31, 1969",$0,37.74594,-121.473404,CA,Single-Family Home,329999,,95377,,32,,For Sale,SAN JOAQUIN
+8,400 Glenbriar Cir,4.0,4.0,Tracy,"2,296 sqft","Dec 31, 1969",$0,37.70467,-121.42527,CA,Single-Family Home,435000,,95377,,29,,For Sale,SAN JOAQUIN
+9,57 E Heritage Dr,3.0,4.0,Tracy,"3,015 sqft","Dec 31, 1969",$0,37.77096,-121.5451,CA,Single-Family Home,498000,,95391,,14,,For Sale,SAN JOAQUIN
+10,2196 Wynngate Ct #47,4.0,3.0,Tracy,"1,368 sqft","Dec 31, 1969",$0,37.752216,-121.43826,CA,Single-Family Home,225000,,95376,,62,,For Sale,SAN JOAQUIN
+11,30000 Kasson Rd #76,1.0,1.0,Tracy,936 sqft,"Dec 31, 1969",$0,37.68106,-121.27053,CA,Single-Family Home,120000,,95304,,0,,For Sale,SAN JOAQUIN
+12,845 S Amor St,4.0,5.0,Tracy,"3,775 sqft","Dec 31, 1969",$0,37.769695,-121.55653,CA,Single-Family Home,625000,,95391,,6,,For Sale,SAN JOAQUIN
+13,27277 S Leeward Way,4.0,5.0,Tracy,"4,800 sqft","Dec 31, 1969",$0,37.708176,-121.404366,CA,Single-Family Home,999950,,95304,,9,,For Sale,SAN JOAQUIN
+14,11753 Mountain View Rd,5.0,6.0,Tracy,"3,037 sqft","Dec 31, 1969",$0,37.720608,-121.44975,CA,Single-Family Home,599999,,95376,,25,,For Sale,SAN JOAQUIN
+15,811 Plantation Dr,2.0,4.0,Tracy,"1,830 sqft","Dec 31, 1969",$0,37.755653,-121.437164,CA,Single-Family Home,350000,,95376,,65,,For Sale,SAN JOAQUIN
+16,34521 Bernard Rd,3.0,3.0,Tracy,"1,830 sqft","Dec 31, 1969",$0,37.637848,-121.40612,CA,Single-Family Home,559900,,95377,,0,,For Sale,SAN JOAQUIN
+17,1051 Renown Dr,3.0,5.0,Tracy,"2,572 sqft","Dec 31, 1969",$0,37.729992,-121.438805,CA,Single-Family Home,369000,,95376,,55,,For Sale,SAN JOAQUIN
+18,29181 S Lehman Rd,4.0,4.0,Tracy,"3,616 sqft","Dec 31, 1969",$0,37.689316,-121.37265,CA,Single-Family Home,1300000,,95304,,0,,For Sale,SAN JOAQUIN
+19,15613 S Kelso Rd,3.0,3.0,Tracy,,"Dec 31, 1969",$0,37.815025,-121.55328,CA,Single-Family Home,549000,,95391,,0,,For Sale,SAN JOAQUIN
+20,7903 W Cabe Rd,2.0,4.0,Tracy,"1,472 sqft","Dec 31, 1969",$0,37.736336,-121.403145,CA,Single-Family Home,279500,,95304,,23,,For Sale,SAN JOAQUIN
+21,1546 Arrigotti Ln,2.0,4.0,Tracy,"1,850 sqft","Dec 31, 1969",$0,37.745655,-121.45904,CA,Single-Family Home,360000,,95377,,35,,For Sale,SAN JOAQUIN
+22,1052 Tulloch Dr,3.0,5.0,Tracy,"3,101 sqft","Dec 31, 1969",$0,37.71738,-121.40893,CA,Single-Family Home,454900,,95304,,14,,For Sale,SAN JOAQUIN
+23,2415 Abbott Ct,3.0,5.0,Tracy,"2,461 sqft","Dec 31, 1969",$0,37.726944,-121.459526,CA,Single-Family Home,381900,,95377,,20,,For Sale,SAN JOAQUIN
+24,1586 Hummingbird Way,3.0,4.0,Tracy,"2,486 sqft","Dec 31, 1969",$0,37.71672,-121.4448,CA,Single-Family Home,479355,,95376,,42,,For Sale,SAN JOAQUIN
+25,28128 Greenwood Way,2.0,3.0,Tracy,"1,894 sqft","Dec 31, 1969",$0,37.699734,-121.40919,CA,Single-Family Home,475000,,95304,,22,,For Sale,SAN JOAQUIN
+26,21250 S Corral Hollow Rd,,4.0,Tracy,"1,899 sqft","Dec 31, 1969",$0,37.766167,-121.452614,CA,Single-Family Home,518888,,95304,,37,,For Sale,SAN JOAQUIN
+27,273 Lasata Dr,3.0,5.0,Tracy,"2,555 sqft","Dec 31, 1969",$0,37.701958,-121.4298,CA,Single-Family Home,449900,,95377,,25,,For Sale,SAN JOAQUIN
+28,224 Granada Way,2.0,3.0,Tracy,"1,988 sqft","Dec 31, 1969",$0,37.756664,-121.421844,CA,Single-Family Home,299000,,95376,,52,,For Sale,SAN JOAQUIN
+29,1940 Bridle Creek Cir,3.0,3.0,Tracy,"1,980 sqft","Dec 31, 1969",$0,37.748974,-121.46229,CA,Single-Family Home,305000,,95377,,52,,For Sale,SAN JOAQUIN
+30,855 Almond Blossom Dr,3.0,3.0,Tracy,"1,308 sqft","Dec 31, 1969",$0,37.72407,-121.42066,CA,Single-Family Home,280000,,95376,,34,,For Sale,SAN JOAQUIN
+31,S Hansen Rd,,,Tracy,,"Dec 31, 1969",$0,37.7188,-121.4659,CA,Lot/Land,695000,,95377,,14,,For Sale,SAN JOAQUIN
+32,2346 Holly Dr,,,Tracy,,"Dec 31, 1969",$0,37.75362,-121.42551,CA,Income/Investment,450000,,95376,,65,,For Sale,SAN JOAQUIN
+33,6712 W Linne Rd,1.0,1.0,Tracy,"1,000 sqft","Dec 31, 1969",$0,37.695244,-121.38814,CA,Single-Family Home,501000,,95304,,9,,For Sale,SAN JOAQUIN
+34,270 E Mount Diablo Ave,2.5,3.0,Tracy,"1,794 sqft","Dec 31, 1969",$0,37.72899,-121.42168,CA,Single-Family Home,335000,,95376,,43,,For Sale,SAN JOAQUIN
+35,1821 Kern St,3.0,4.0,Tracy,"2,813 sqft","Dec 31, 1969",$0,37.717155,-121.43798,CA,Single-Family Home,459950,,95376,,54,,For Sale,SAN JOAQUIN
+36,361 E Mount Diablo Ave,3.0,3.0,Tracy,"1,348 sqft","Dec 31, 1969",$0,37.72951,-121.419975,CA,Single-Family Home,269000,,95376,,40,,For Sale,SAN JOAQUIN
+37,3970 Maison Ct,3.0,5.0,Tracy,"2,696 sqft","Dec 31, 1969",$0,37.702564,-121.44952,CA,Single-Family Home,427000,,95377,,18,,For Sale,SAN JOAQUIN
+38,15559 S Kelso Rd,2.0,4.0,Tracy,"2,277 sqft","Dec 31, 1969",$0,37.81502,-121.55445,CA,Single-Family Home,539000,,95391,,0,,For Sale,SAN JOAQUIN
+39,775 Mount Rushmore Ave,2.5,4.0,Tracy,"2,561 sqft","Dec 31, 1969",$0,37.736233,-121.45622,CA,Single-Family Home,440000,,95377,,46,,For Sale,SAN JOAQUIN
+40,2870 Hidden Valley Ct,3.0,3.0,Tracy,"2,836 sqft","Dec 31, 1969",$0,37.709618,-121.41955,CA,Single-Family Home,475000,,95377,,23,,For Sale,SAN JOAQUIN
+41,820 Alpina Ct,3.0,5.0,Tracy,"2,662 sqft","Dec 31, 1969",$0,37.714855,-121.43686,CA,Single-Family Home,409900,,95376,,62,,For Sale,SAN JOAQUIN
+42,1030 Sultana Dr,2.0,3.0,Tracy,"1,167 sqft","Dec 31, 1969",$0,37.722847,-121.42106,CA,Single-Family Home,191000,,95376,,26,,For Sale,SAN JOAQUIN
+43,760 Teton Ln,2.0,3.0,Tracy,,"Dec 31, 1969",$0,37.724445,-121.446236,CA,Single-Family Home,299900,,95376,,35,,For Sale,SAN JOAQUIN
+44,1875 Harvest Landing Ln,2.5,3.0,Tracy,"1,902 sqft","Dec 31, 1969",$0,37.729446,-121.450356,CA,Single-Family Home,339000,,95376,,34,,For Sale,SAN JOAQUIN
+45,30 W Clarissa Ln,2.5,3.0,Tracy,"1,460 sqft","Dec 31, 1969",$0,37.77815,-121.54417,CA,Condo,300000,,95391,,23,,For Sale,SAN JOAQUIN
+46,1421 Harvest Ln,3.0,5.0,Tracy,"2,381 sqft","Dec 31, 1969",$0,37.730667,-121.44201,CA,Single-Family Home,390000,,95376,,49,,For Sale,SAN JOAQUIN
+47,2210 Tahoe Cir,3.0,4.0,Tracy,"1,840 sqft","Dec 31, 1969",$0,37.719395,-121.43511,CA,Single-Family Home,369500,,95376,,48,,For Sale,SAN JOAQUIN
+48,531 W Deerwood Ln,2.0,4.0,Tracy,"1,312 sqft","Dec 31, 1969",$0,37.71776,-121.43335,CA,Single-Family Home,265000,,95376,,52,,For Sale,SAN JOAQUIN
+49,2132 Misquez Ln,3.0,4.0,Tracy,"2,421 sqft","Dec 31, 1969",$0,37.751205,-121.45467,CA,Single-Family Home,410888,,95377,,43,,For Sale,SAN JOAQUIN
+50,730 Centre Court Dr,2.0,4.0,Tracy,"2,729 sqft","Dec 31, 1969",$0,37.733437,-121.43587,CA,Single-Family Home,389888,,95376,,65,,For Sale,SAN JOAQUIN
+51,28 Regina Dr,2.0,4.0,Tracy,"1,210 sqft","Dec 31, 1969",$0,37.718052,-121.42736,CA,Single-Family Home,299950,,95376,,37,,For Sale,SAN JOAQUIN
+52,3381 Cheryl Ct,2.5,4.0,Tracy,"1,817 sqft","Dec 31, 1969",$0,37.761295,-121.415535,CA,Single-Family Home,342500,,95376,,37,,For Sale,SAN JOAQUIN
+53,2264 Clemente Ln,3.0,3.0,Tracy,"2,355 sqft","Dec 31, 1969",$0,37.727203,-121.45766,CA,Single-Family Home,390000,,95377,,22,,For Sale,SAN JOAQUIN
+54,33 W Beverly Pl,2.0,3.0,Tracy,"1,672 sqft","Dec 31, 1969",$0,37.745205,-121.42662,CA,Single-Family Home,255000,,95376,,80,,For Sale,SAN JOAQUIN
+55,1557 Parker Ave,2.0,2.0,Tracy,982 sqft,"Dec 31, 1969",$0,37.746014,-121.43017,CA,Single-Family Home,249000,,95376,,68,,For Sale,SAN JOAQUIN
+56,905 Tom Fowler Dr,3.0,5.0,Tracy,"2,239 sqft","Dec 31, 1969",$0,37.704533,-121.4372,CA,Single-Family Home,415000,,95377,,40,,For Sale,SAN JOAQUIN
+57,692 Quail Run Cir,,,Tracy,,"Dec 31, 1969",$0,37.70872,-121.41853,CA,Single-Family Home,430000,,95377,,26,,For Sale,SAN JOAQUIN
+58,1701 Whirlaway Ln,3.0,4.0,Tracy,"2,768 sqft","Dec 31, 1969",$0,37.697033,-121.44719,CA,Single-Family Home,440000,,95377,,12,,For Sale,SAN JOAQUIN
+59,1618 Tamarisk Ln,3.0,4.0,Tracy,"2,259 sqft","Dec 31, 1969",$0,37.699074,-121.44522,CA,Single-Family Home,449900,,95377,,18,,For Sale,SAN JOAQUIN
+60,8071 W Erb Way,3.0,4.0,Tracy,"3,930 sqft","Dec 31, 1969",$0,37.70691,-121.4049,CA,Single-Family Home,949000,,95304,,9,,For Sale,SAN JOAQUIN
+61,1800 Mcpeak Ct,2.0,4.0,Tracy,"1,422 sqft","Dec 31, 1969",$0,37.750645,-121.44939,CA,Single-Family Home,280000,,95376,,43,,For Sale,SAN JOAQUIN
+62,4622 Glenhaven Dr,3.0,4.0,Tracy,"2,447 sqft","Dec 31, 1969",$0,37.69813,-121.42468,CA,Single-Family Home,445000,,95377,,15,,For Sale,SAN JOAQUIN
+63,1395 Busca Dr,3.0,3.0,Tracy,"1,548 sqft","Dec 31, 1969",$0,37.754883,-121.4416,CA,Single-Family Home,260000,,95376,,55,,For Sale,SAN JOAQUIN
+64,459 W Highland Ave,3.0,5.0,Tracy,"2,346 sqft","Dec 31, 1969",$0,37.74193,-121.432846,CA,Single-Family Home,413950,,95376,,78,,For Sale,SAN JOAQUIN
+65,551 Krider Ct,3.0,4.0,Tracy,"1,637 sqft","Dec 31, 1969",$0,37.734467,-121.41743,CA,Single-Family Home,329500,,95376,,48,,For Sale,SAN JOAQUIN
+66,22797 Cozy Ct,2.0,3.0,Tracy,"1,333 sqft","Dec 31, 1969",$0,37.75089,-121.3748,CA,Single-Family Home,399900,,95304,,12,,For Sale,SAN JOAQUIN
+67,650 Yosemite Dr,3.5,4.0,Tracy,"2,360 sqft","Dec 31, 1969",$0,37.720577,-121.41559,CA,Single-Family Home,469990,,95304,,11,,For Sale,SAN JOAQUIN
+68,Bridalveil Falls Plan,3.0,4.0,Tracy,"2,173 sqft","Dec 31, 1969",$0,37.72057,-121.415375,CA,Single-Family Home,456670,,95304,,14,,For Sale,SAN JOAQUIN
+69,464 Mabel Josephine Dr,3.0,4.0,Tracy,"2,558 sqft","Dec 31, 1969",$0,37.724583,-121.4622,CA,Single-Family Home,405000,,95377,,12,,For Sale,SAN JOAQUIN
+70,201 W Santa Barbara Way,3.0,3.0,Tracy,"1,753 sqft","Dec 31, 1969",$0,37.782833,-121.54534,CA,Single-Family Home,378000,,95391,,8,,For Sale,SAN JOAQUIN
+71,2722 Merchant Ct,2.5,4.0,Tracy,"2,498 sqft","Dec 31, 1969",$0,37.736187,-121.46629,CA,Single-Family Home,415000,,95377,,17,,For Sale,SAN JOAQUIN
+72,2755 Redbridge Rd,2.5,3.0,Tracy,"2,698 sqft","Dec 31, 1969",$0,37.720325,-121.46751,CA,Single-Family Home,479900,,95377,,9,,For Sale,SAN JOAQUIN
+73,27199 S Leeward Way,3.0,3.0,Tracy,"3,345 sqft","Dec 31, 1969",$0,37.708794,-121.404366,CA,Single-Family Home,854950,,95304,,9,,For Sale,SAN JOAQUIN
+74,2322 Holly Dr,,,Tracy,"3,450 sqft","Dec 31, 1969",$0,37.753452,-121.42518,CA,Multi-Family Home,690000,,95376,,57,,For Sale,SAN JOAQUIN
+75,Silver Strand Falls Plan,3.5,4.0,Tracy,"2,356 sqft","Dec 31, 1969",$0,37.72057,-121.415375,CA,Single-Family Home,464990,,95304,,14,,For Sale,SAN JOAQUIN
+76,Sentinel Falls Plan,3.0,4.0,Tracy,"2,071 sqft","Dec 31, 1969",$0,37.72057,-121.415375,CA,Single-Family Home,447169,,95304,,14,,For Sale,SAN JOAQUIN
+77,Yosemite Falls Plan,4.0,4.0,Tracy,"2,902 sqft","Dec 31, 1969",$0,37.72057,-121.415375,CA,Single-Family Home,499990,,95304,,14,,For Sale,SAN JOAQUIN
+78,1779 Foothill Vista Dr,3.0,4.0,Tracy,"2,540 sqft","Dec 31, 1969",$0,37.74861,-121.46049,CA,Single-Family Home,430000,,95377,,,,For Sale,SAN JOAQUIN
+79,1100 Palomar Ct,3.0,4.0,Tracy,"2,788 sqft","Dec 31, 1969",$0,37.73965,-121.45883,CA,Single-Family Home,42995000,,95377,,43,,For Sale,SAN JOAQUIN
+80,1407 Blue Jay Ct,3.0,4.0,Tracy,"2,813 sqft","Dec 31, 1969",$0,37.716385,-121.44195,CA,Single-Family Home,495000,,95376,,43,,For Sale,SAN JOAQUIN
+81,1755 Birchwood Ln,,,Tracy,,"Dec 31, 1969",$0,37.730186,-121.44819,CA,Single-Family Home,450000,,95376,,37,,For Sale,SAN JOAQUIN
+82,7870 W Arbor Ave,,,Tracy,,"Dec 31, 1969",$0,37.766956,-121.40089,CA,Income/Investment,4230600,,95304,,8,,For Sale,SAN JOAQUIN
+83,927 Windeler Ave,1.0,2.0,Tracy,,"Dec 31, 1969",$0,37.737854,-121.43277,CA,Single-Family Home,142000,,95376,,75,,For Sale,SAN JOAQUIN
+84,1341 Bessie Ave,1.0,3.0,Tracy,986 sqft,"Dec 31, 1969",$0,37.742523,-121.43331,CA,Single-Family Home,179900,,95376,,77,,For Sale,SAN JOAQUIN
+85,45 Portola Way,2.5,3.0,Tracy,"2,102 sqft","Dec 31, 1969",$0,37.755882,-121.425285,CA,Single-Family Home,329500,,95376,,55,,For Sale,SAN JOAQUIN
+86,3641 Farnham Ct,3.0,5.0,Tracy,"1,953 sqft","Dec 31, 1969",$0,37.704777,-121.44356,CA,Single-Family Home,389950,,95377,,35,,For Sale,SAN JOAQUIN
+87,27555 W Valpico Rd,,,Tracy,,"Dec 31, 1969",$0,37.710493,-121.471326,CA,Lot/Land,4999000,,95377,,6,,For Sale,SAN JOAQUIN
+88,Finck Rd,3.5,,Tracy,,"Dec 31, 1969",$0,37.79673,-121.48284,CA,Lot/Land,2500000,,95376,,0,,For Sale,SAN JOAQUIN
+89,27555 W Valpico Road Rd,,,Tracy,,"Dec 31, 1969",$0,37.62024,-121.47421,CA,Lot/Land,4999000,,95377,,2,,For Sale,SAN JOAQUIN
+90,Fieldview Dr,3.0,5.0,Tracy,"2,933 sqft","Dec 31, 1969",$0,37.74468,-121.454926,CA,Single-Family Home,424074,,95377,,45,,For Sale,SAN JOAQUIN
+91,E Clover Rd,2.0,4.0,Tracy,"1,588 sqft","Dec 31, 1969",$0,37.761593,-121.42217,CA,Single-Family Home,241000,,95376,,46,,For Sale,SAN JOAQUIN
+92,Sultana Dr,2.0,3.0,Tracy,"1,167 sqft","Dec 31, 1969",$0,37.722824,-121.421326,CA,Single-Family Home,191000,,95376,,28,,For Sale,SAN JOAQUIN
+93,W 9th St,1.0,3.0,Tracy,"1,125 sqft","Dec 31, 1969",$0,37.737335,-121.42985,CA,Single-Family Home,30000,,95376,,80,,For Sale,SAN JOAQUIN
+94,W Depot Master Dr,4.0,5.0,Tracy,"3,017 sqft","Dec 31, 1969",$0,37.698765,-121.40473,CA,Single-Family Home,409000,,95304,,22,,For Sale,SAN JOAQUIN
+95,Hampshire Ln,4.0,5.0,Tracy,"2,588 sqft","Dec 31, 1969",$0,37.74769,-121.47039,CA,Single-Family Home,302000,,95377,,40,,For Sale,SAN JOAQUIN
+96,Alzira Ct,3.0,4.0,Tracy,"2,262 sqft","Dec 31, 1969",$0,37.75461,-121.44822,CA,Single-Family Home,216015,,95376,,49,,For Sale,SAN JOAQUIN
+97,Brett Ave,3.0,5.0,Tracy,"3,497 sqft","Dec 31, 1969",$0,37.769173,-121.54378,CA,Single-Family Home,419352,,95391,,11,,For Sale,SAN JOAQUIN
+98,W Highland Ave,3.0,3.0,Tracy,"2,001 sqft","Dec 31, 1969",$0,37.741512,-121.42663,CA,Single-Family Home,58395,,95376,,92,,For Sale,SAN JOAQUIN
+99,James W Smith Dr,2.0,3.0,Tracy,"1,599 sqft","Dec 31, 1969",$0,37.705418,-121.42186,CA,Single-Family Home,100000,,95377,,28,,For Sale,SAN JOAQUIN
+100,Clover Hill Ct,2.0,4.0,Tracy,"2,300 sqft","Dec 31, 1969",$0,37.709686,-121.4239,CA,Single-Family Home,276287,,95377,,29,,For Sale,SAN JOAQUIN
+101,Ramona Way,2.0,3.0,Tracy,"1,799 sqft","Dec 31, 1969",$0,37.76077,-121.42443,CA,Single-Family Home,50000,,95376,,55,,For Sale,SAN JOAQUIN
+102,Sabrina Way,3.0,4.0,Tracy,"2,211 sqft","Dec 31, 1969",$0,37.743942,-121.457664,CA,Single-Family Home,296000,,95377,,45,,For Sale,SAN JOAQUIN
+103,Clearbrook Ct,3.0,4.0,Tracy,"2,077 sqft","Dec 31, 1969",$0,37.756367,-121.45206,CA,Single-Family Home,180000,,95376,,60,,For Sale,SAN JOAQUIN
+104,Cabrillo Dr,2.0,4.0,Tracy,"1,860 sqft","Dec 31, 1969",$0,37.75551,-121.419945,CA,Single-Family Home,190532,,95376,,46,,For Sale,SAN JOAQUIN
+105,Wilson Ave,2.0,3.0,Tracy,"1,321 sqft","Dec 31, 1969",$0,37.744007,-121.43702,CA,Single-Family Home,145000,,95376,,62,,For Sale,SAN JOAQUIN
+106,Kapareil Dr,2.0,4.0,Tracy,"1,614 sqft","Dec 31, 1969",$0,37.72242,-121.42386,CA,Single-Family Home,280203,,95376,,,,For Sale,SAN JOAQUIN
+107,Parkington Ln,3.0,4.0,Tracy,"1,863 sqft","Dec 31, 1969",$0,37.74324,-121.46957,CA,Single-Family Home,354614,,95377,,,,For Sale,SAN JOAQUIN
+108,Village Dr,2.0,2.0,Tracy,"1,070 sqft","Dec 31, 1969",$0,37.715046,-121.43119,CA,Single-Family Home,287422,,95376,,,,For Sale,SAN JOAQUIN
+109,Cove Ct,,,Tracy,,"Dec 31, 1969",$0,37.699112,-121.44004,CA,Unspecified,162600,,95377,,,,For Sale,SAN JOAQUIN
+110,Club House Way,,,Tracy,,"Dec 31, 1969",$0,37.732346,-121.43964,CA,Unspecified,230050,,95376,,,,For Sale,SAN JOAQUIN
+111,S Macarthur Dr,,,Tracy,,"Dec 31, 1969",$0,37.69825,-121.41642,CA,Unspecified,402000,,95377,,,,For Sale,SAN JOAQUIN
+112,Franklin Ave,,,Tracy,,"Dec 31, 1969",$0,37.74578,-121.41725,CA,Unspecified,221428,,95376,,,,For Sale,SAN JOAQUIN
+113,Cabana Ln,,,Tracy,,"Dec 31, 1969",$0,37.72805,-121.4578,CA,Unspecified,342000,,95377,,,,For Sale,SAN JOAQUIN
+114,Almanor Dr,,,Tracy,,"Dec 31, 1969",$0,37.711666,-121.415695,CA,Unspecified,393750,,95304,,,,For Sale,SAN JOAQUIN
+115,Zilli Dr,4.0,5.0,Tracy,"3,590 sqft","Dec 31, 1969",$0,37.697765,-121.39972,CA,Single-Family Home,529285,,95304,,23,,For Sale,SAN JOAQUIN
+116,Monterey Ct,3.0,5.0,Tracy,"2,684 sqft","Dec 31, 1969",$0,37.719612,-121.4362,CA,Single-Family Home,416495,,95376,,48,,For Sale,SAN JOAQUIN
+117,Fisher Ct,4.0,5.0,Tracy,"4,098 sqft","Dec 31, 1969",$0,37.73273,-121.46464,CA,Single-Family Home,639571,,95377,,15,,For Sale,SAN JOAQUIN
+118,Bridle Creek Cir,2.0,4.0,Tracy,"1,557 sqft","Dec 31, 1969",$0,37.729034,-121.6068,CA,Single-Family Home,356076,,95377,,0,,For Sale,SAN JOAQUIN
+119,Annie Way,3.0,4.0,Tracy,"2,100 sqft","Dec 31, 1969",$0,37.729034,-121.6068,CA,Single-Family Home,402323,,95377,,0,,For Sale,SAN JOAQUIN
+120,W South St,2.0,2.0,Tracy,"1,263 sqft","Dec 31, 1969",$0,37.730045,-121.428444,CA,Single-Family Home,154150,,95376,,52,,For Sale,SAN JOAQUIN
+121,Vine Ln,4.0,4.0,Tracy,"4,069 sqft","Dec 31, 1969",$0,37.69902,-121.41378,CA,Single-Family Home,995930,,95304,,22,,For Sale,SAN JOAQUIN
+122,Whirlaway Ln,4.0,5.0,Tracy,"3,011 sqft","Dec 31, 1969",$0,37.696823,-121.446465,CA,Single-Family Home,443241,,95377,,11,,For Sale,SAN JOAQUIN
+123,Morning Brook Ln,3.0,4.0,Tracy,"2,603 sqft","Dec 31, 1969",$0,37.69774,-121.436295,CA,Single-Family Home,388860,,95377,,22,,For Sale,SAN JOAQUIN
+124,Alpina Ct,3.0,5.0,Tracy,"2,662 sqft","Dec 31, 1969",$0,37.7151,-121.436874,CA,Single-Family Home,333700,,95376,,55,,For Sale,SAN JOAQUIN
+125,Baigorry Ct,4.0,5.0,Tracy,"3,698 sqft","Dec 31, 1969",$0,37.711998,-121.403076,CA,Single-Family Home,547191,,95304,,3,,For Sale,SAN JOAQUIN
+126,S Chrisman Rd,2.0,3.0,Tracy,"1,488 sqft","Dec 31, 1969",$0,37.705353,-121.3981,CA,Multi-Family Home,320000,,95304,,9,,For Sale,SAN JOAQUIN
+127,Tennis Ln,2.0,3.0,Tracy,"1,548 sqft","Dec 31, 1969",$0,37.732048,-121.43554,CA,Single-Family Home,286825,,95376,,57,,For Sale,SAN JOAQUIN
+128,Heirloom Ln,3.0,4.0,Tracy,"2,131 sqft","Dec 31, 1969",$0,37.701767,-121.45218,CA,Single-Family Home,410000,,95377,,8,,For Sale,SAN JOAQUIN
+129,Lotus Way,3.0,4.0,Tracy,"2,772 sqft","Dec 31, 1969",$0,37.717533,-121.45136,CA,Single-Family Home,452742,,95376,,18,,For Sale,SAN JOAQUIN
+130,Arrigotti Ln,3.0,5.0,Tracy,"2,487 sqft","Dec 31, 1969",$0,37.746246,-121.45933,CA,Single-Family Home,416230,,95377,,35,,For Sale,SAN JOAQUIN
+131,Glenbriar Cir,3.0,4.0,Tracy,"2,296 sqft","Dec 31, 1969",$0,37.703964,-121.42205,CA,Single-Family Home,327950,,95377,,22,,For Sale,SAN JOAQUIN
+132,Bristol Ln,3.0,3.0,Tracy,"2,048 sqft","Dec 31, 1969",$0,37.748104,-121.4693,CA,Single-Family Home,297500,,95377,,40,,For Sale,SAN JOAQUIN
+133,Paradise Valley Ct,3.0,4.0,Tracy,"2,077 sqft","Dec 31, 1969",$0,37.7546,-121.451805,CA,Single-Family Home,272813,,95376,,54,,For Sale,SAN JOAQUIN
+134,Lighthouse Cir,3.0,4.0,Tracy,"3,121 sqft","Dec 31, 1969",$0,37.715996,-121.41039,CA,Single-Family Home,472953,,95304,,5,,For Sale,SAN JOAQUIN
+135,Raven Ct,3.0,4.0,Tracy,"2,509 sqft","Dec 31, 1969",$0,37.71654,-121.44142,CA,Single-Family Home,325800,,95376,,43,,For Sale,SAN JOAQUIN
+136,Meritt Dr,3.0,5.0,Tracy,"3,101 sqft","Dec 31, 1969",$0,37.716953,-121.40856,CA,Single-Family Home,470044,,95304,,3,,For Sale,SAN JOAQUIN
+137,S Bird Rd,2.0,4.0,Tracy,"1,363 sqft","Dec 31, 1969",$0,37.75065,-121.361824,CA,Single-Family Home,274928,,95304,,9,,For Sale,SAN JOAQUIN
+138,Remington Way,2.0,2.0,Tracy,"1,235 sqft","Dec 31, 1969",$0,37.71993,-121.46562,CA,Single-Family Home,309590,,95377,,9,,For Sale,SAN JOAQUIN
+139,Mamie Anderson Ln,3.0,3.0,Tracy,"1,658 sqft","Dec 31, 1969",$0,37.74015,-121.465706,CA,Single-Family Home,380000,,95377,,26,,For Sale,SAN JOAQUIN
+140,Bessie Ave,1.0,3.0,Tracy,986 sqft,"Dec 31, 1969",$0,37.742508,-121.43305,CA,Single-Family Home,207208,,95376,,72,,For Sale,SAN JOAQUIN
+141,Cozy Ct,2.0,3.0,Tracy,"1,333 sqft","Dec 31, 1969",$0,37.75127,-121.37454,CA,Unspecified,426084,,95304,,14,,For Sale,SAN JOAQUIN
+142,Griffith Pl,2.0,3.0,Tracy,"1,245 sqft","Dec 31, 1969",$0,37.745094,-121.44561,CA,Single-Family Home,296733,,95376,,49,,For Sale,SAN JOAQUIN
+143,Hotchkiss St,,,Tracy,,"Dec 31, 1969",$0,37.7275,-121.418564,CA,Unspecified,290442,,95376,,,,For Sale,SAN JOAQUIN
+144,Westbury Ct,,,Tracy,,"Dec 31, 1969",$0,37.75372,-121.43884,CA,Unspecified,292000,,95376,,,,For Sale,SAN JOAQUIN
+145,Oneil Ct,3.0,4.0,Tracy,"2,152 sqft","Dec 31, 1969",$0,37.7119,-121.43603,CA,Single-Family Home,399798,,95376,,,,For Sale,SAN JOAQUIN
+146,S Tradition St,,,Tracy,,"Dec 31, 1969",$0,37.775133,-121.541467,CA,Unspecified,507712,,95391,,,,For Sale,SAN JOAQUIN
+147,Barcelona Dr,,,Tracy,,"Dec 31, 1969",$0,37.730434,-121.456856,CA,Unspecified,469000,,95377,,,,For Sale,SAN JOAQUIN
+148,W Linne Rd,,,Tracy,,"Dec 31, 1969",$0,37.696198,-121.3805,CA,Unspecified,910000,,95304,,,,For Sale,SAN JOAQUIN
+149,S Hillview St,,,Tracy,,"Dec 31, 1969",$0,37.70846,-121.3997,CA,Unspecified,693750,,95304,,,,For Sale,SAN JOAQUIN
+150,Windsong Dr,,,Tracy,,"Dec 31, 1969",$0,37.698025,-121.44123,CA,Unspecified,476000,,95377,,20,,For Sale,SAN JOAQUIN
+151,2111 Bridle Creek Cir,2.5,4.0,Tracy,"1,565 sqft","Dec 31, 1969",$0,37.749588,-121.46347,CA,Single-Family Home,399000,,95377,,48,,For Sale,SAN JOAQUIN
+152,Derecho Way,2.0,4.0,Tracy,"1,603 sqft","Dec 31, 1969",$0,37.758183,-121.42112,CA,Single-Family Home,277820,,95376,,46,,For Sale,SAN JOAQUIN
+153,E 21st St,1.0,3.0,Tracy,936 sqft,"Dec 31, 1969",$0,37.751762,-121.42487,CA,Single-Family Home,172726,,95376,,54,,For Sale,SAN JOAQUIN
+154,Keepsake Ct,3.0,4.0,Tracy,"2,376 sqft","Dec 31, 1969",$0,37.70116,-121.45135,CA,Single-Family Home,405742,,95377,,9,,For Sale,SAN JOAQUIN
+155,Michael Dr,3.0,4.0,Tracy,"2,443 sqft","Dec 31, 1969",$0,37.74338,-121.47274,CA,Single-Family Home,410573,,95377,,22,,For Sale,SAN JOAQUIN
+156,Glenbriar Cir,3.0,5.0,Tracy,"2,467 sqft","Dec 31, 1969",$0,37.729034,-121.6068,CA,Single-Family Home,427377,,95377,,0,,For Sale,SAN JOAQUIN
+157,Peppertree Way,3.0,3.0,Tracy,"1,461 sqft","Dec 31, 1969",$0,37.742477,-121.450935,CA,Single-Family Home,332388,,95376,,52,,For Sale,SAN JOAQUIN
+158,Clarence Bromell St,,,Tracy,,"Dec 31, 1969",$0,37.7336,-121.45392,CA,Unspecified,430132,,95377,,46,,For Sale,SAN JOAQUIN
+159,N Boyle Heights Ct,,,Tracy,,"Dec 31, 1969",$0,37.77939,-121.550735,CA,Unspecified,433708,,95391,,6,,For Sale,SAN JOAQUIN
+160,Mary Ct,,,Tracy,,"Dec 31, 1969",$0,37.718956,-121.42702,CA,Unspecified,311877,,95376,,29,,For Sale,SAN JOAQUIN
+161,W Highland Ave,2.0,3.0,Tracy,"1,318 sqft","Dec 31, 1969",$0,37.741505,-121.42767,CA,Single-Family Home,249128,,95376,,83,,For Sale,SAN JOAQUIN
+162,Coronado Way,2.0,3.0,Tracy,"1,186 sqft","Dec 31, 1969",$0,37.75608,-121.421555,CA,Single-Family Home,261115,,95376,,52,,For Sale,SAN JOAQUIN
+163,Heritage Pl,3.0,3.0,Tracy,"1,934 sqft","Dec 31, 1969",$0,37.707413,-121.43696,CA,Single-Family Home,382500,,95377,,49,,For Sale,SAN JOAQUIN
+164,Jennifer Way,3.0,4.0,Tracy,"2,100 sqft","Dec 31, 1969",$0,37.744865,-121.45486,CA,Single-Family Home,406757,,95377,,45,,For Sale,SAN JOAQUIN
+165,Acorn Ln,4.0,4.0,Tracy,"3,942 sqft","Dec 31, 1969",$0,37.699368,-121.41515,CA,Single-Family Home,659611,,95304,,22,,For Sale,SAN JOAQUIN
+166,De Bord Dr,3.0,4.0,Tracy,"2,316 sqft","Dec 31, 1969",$0,37.714626,-121.423256,CA,Single-Family Home,394484,,95376,,29,,For Sale,SAN JOAQUIN
+167,S Depot Master Dr,4.0,5.0,Tracy,"3,017 sqft","Dec 31, 1969",$0,37.697208,-121.406392,CA,Single-Family Home,569481,,95304,,,,For Sale,SAN JOAQUIN
+168,Birchwood Ct,3.0,4.0,Tracy,"1,772 sqft","Dec 31, 1969",$0,37.7299,-121.45244,CA,Single-Family Home,418300,,95376,,32,,For Sale,SAN JOAQUIN
+169,Dale Odell Dr,3.0,3.0,Tracy,"2,036 sqft","Dec 31, 1969",$0,37.73047,-121.42322,CA,Single-Family Home,363835,,95376,,60,,For Sale,SAN JOAQUIN
+170,Lonna Way,2.0,3.0,Tracy,"1,601 sqft","Dec 31, 1969",$0,37.742283,-121.43991,CA,Single-Family Home,317323,,95376,,62,,For Sale,SAN JOAQUIN
+171,Sullivan Way,,,Tracy,,"Dec 31, 1969",$0,37.767483,-121.53565,CA,Unspecified,410125,,95391,,14,,For Sale,SAN JOAQUIN
+172,W Homestead Rd,,,Tracy,,"Dec 31, 1969",$0,37.724682,-121.306307,CA,Lot/Land,291670,,95304,,,,For Sale,SAN JOAQUIN
+173,Regina Dr,,,Tracy,,"Dec 31, 1969",$0,37.71826,-121.427864,CA,Unspecified,265460,,95376,,31,,For Sale,SAN JOAQUIN
+174,Blossomwood Ln,2.0,4.0,Tracy,"1,722 sqft","Dec 31, 1969",$0,37.717503,-121.43399,CA,Single-Family Home,350041,,95376,,54,,For Sale,SAN JOAQUIN
+175,Babcock Ln,,,Tracy,,"Dec 31, 1969",$0,37.72913,-121.45601,CA,Unspecified,520000,,95377,,23,,For Sale,SAN JOAQUIN
+176,Greenwillow Way,3.0,3.0,Tracy,"1,566 sqft","Dec 31, 1969",$0,37.742813,-121.448265,CA,Single-Family Home,369600,,95376,,51,,For Sale,SAN JOAQUIN
+177,Jennifer Way,3.0,4.0,Tracy,"2,440 sqft","Dec 31, 1969",$0,37.745472,-121.45475,CA,Single-Family Home,512000,,95377,,46,,For Sale,SAN JOAQUIN
+178,Yorkshire Loop,3.0,4.0,Tracy,"1,831 sqft","Dec 31, 1969",$0,37.721043,-121.44261,CA,Single-Family Home,400000,,95376,,46,,For Sale,SAN JOAQUIN
+179,Spring Ct,2.0,3.0,Tracy,"1,334 sqft","Dec 31, 1969",$0,37.725175,-121.445298,CA,Single-Family Home,409955,,95376,,,,For Sale,SAN JOAQUIN
+180,Ben Ingram Ct,3.0,4.0,Tracy,"2,527 sqft","Dec 31, 1969",$0,37.73478,-121.46271,CA,Single-Family Home,499000,,95377,,25,,For Sale,SAN JOAQUIN
+181,Golden Leaf Ct,3.0,4.0,Tracy,"2,652 sqft","Dec 31, 1969",$0,37.72552,-121.45468,CA,Single-Family Home,502050,,95377,,23,,For Sale,SAN JOAQUIN
+182,Almond Blossom Dr,1.0,3.0,Tracy,"1,308 sqft","Dec 31, 1969",$0,37.724056,-121.420425,CA,Single-Family Home,307500,,95376,,22,,For Sale,SAN JOAQUIN
+183,Nutcracker Ct,3.0,4.0,Tracy,"2,509 sqft","Dec 31, 1969",$0,37.71677,-121.44054,CA,Single-Family Home,409850,,95376,,48,,For Sale,SAN JOAQUIN
+184,Palm Cir #R,,,Tracy,,"Dec 31, 1969",$0,37.736122,-121.4398,CA,Unspecified,264000,,95376,,58,,For Sale,SAN JOAQUIN
+185,Kapareil Dr,2.0,3.0,Tracy,"1,167 sqft","Dec 31, 1969",$0,37.721916,-121.42379,CA,Single-Family Home,340000,,95376,,28,,For Sale,SAN JOAQUIN
+186,Aldacourrou St,5.0,5.0,Tracy,"3,679 sqft","Dec 31, 1969",$0,37.715168,-121.40334,CA,Single-Family Home,692790,,95304,,2,,For Sale,SAN JOAQUIN
+187,Mesquite Ct,3.0,4.0,Tracy,"2,451 sqft","Dec 31, 1969",$0,37.72746,-121.448906,CA,Single-Family Home,403664,,95376,,34,,For Sale,SAN JOAQUIN
+188,Pereira Ave,2.0,3.0,Tracy,"1,509 sqft","Dec 31, 1969",$0,37.750233,-121.42256,CA,Single-Family Home,544185,,95376,,45,,For Sale,SAN JOAQUIN
+189,Gotland Ct,3.0,3.0,Tracy,"1,547 sqft","Dec 31, 1969",$0,37.726852,-121.43864,CA,Single-Family Home,406400,,95376,,51,,For Sale,SAN JOAQUIN
+190,W Mount Diablo Ave,1.0,3.0,Tracy,"1,040 sqft","Dec 31, 1969",$0,37.72892,-121.434204,CA,Single-Family Home,469342,,95376,,58,,For Sale,SAN JOAQUIN
+191,Chambers Ct,3.0,3.0,Tracy,"2,285 sqft","Dec 31, 1969",$0,37.73484,-121.46188,CA,Single-Family Home,555300,,95377,,25,,For Sale,SAN JOAQUIN
+192,Yellowstone Ave,3.0,5.0,Tracy,"2,888 sqft","Dec 31, 1969",$0,37.73676,-121.45856,CA,Single-Family Home,499361,,95377,,45,,For Sale,SAN JOAQUIN
+193,Cochran Ct,3.0,5.0,Tracy,"2,629 sqft","Dec 31, 1969",$0,37.741493,-121.46173,CA,Single-Family Home,520000,,95377,,34,,For Sale,SAN JOAQUIN
+194,Corbett Ln,2.0,4.0,Tracy,"1,648 sqft","Dec 31, 1969",$0,37.75934,-121.44829,CA,Single-Family Home,438600,,95376,,51,,For Sale,SAN JOAQUIN
+195,Lankershire Dr,3.0,5.0,Tracy,"2,516 sqft","Dec 31, 1969",$0,37.74305,-121.470924,CA,Single-Family Home,445667,,95377,,26,,For Sale,SAN JOAQUIN
+196,Annette Ct,4.0,4.0,Tracy,"3,698 sqft","Dec 31, 1969",$0,37.712273,-121.401276,CA,Single-Family Home,880000,,95304,,2,,For Sale,SAN JOAQUIN
+197,Diego Ln,3.0,4.0,Tracy,"2,994 sqft","Dec 31, 1969",$0,37.73064,-121.45478,CA,Single-Family Home,402671,,95377,,37,,For Sale,SAN JOAQUIN
+198,Christina Dr,2.0,3.0,Tracy,"1,332 sqft","Dec 31, 1969",$0,37.755306,-121.44137,CA,Single-Family Home,43724,,95376,,62,,For Sale,SAN JOAQUIN
+199,Coolidge Ave,2.0,3.0,Tracy,"1,686 sqft","Dec 31, 1969",$0,37.744514,-121.438995,CA,Single-Family Home,120000,,95376,,62,,For Sale,SAN JOAQUIN
+200,Peerless Way #104,2.0,2.0,Tracy,"1,059 sqft","Dec 31, 1969",$0,37.723732,-121.41705,CA,Unspecified,72000,,95376,,29,,For Sale,SAN JOAQUIN
+201,W St,2.0,3.0,Tracy,"1,412 sqft","Dec 31, 1969",$0,37.73163,-121.43026,CA,Single-Family Home,127500,,95376,,57,,For Sale,SAN JOAQUIN
+202,Windsong Dr,4.0,5.0,Tracy,"2,850 sqft","Dec 31, 1969",$0,37.697567,-121.43987,CA,Single-Family Home,385951,,95377,,38,,For Sale,SAN JOAQUIN
+203,Newbury Ct,2.0,3.0,Tracy,"1,697 sqft","Dec 31, 1969",$0,37.704823,-121.44114,CA,Single-Family Home,230017,,95377,,46,,For Sale,SAN JOAQUIN
+204,Dale Odell Dr,3.0,4.0,Tracy,"2,374 sqft","Dec 31, 1969",$0,37.730976,-121.422745,CA,Unspecified,244683,,95376,,60,,For Sale,SAN JOAQUIN
+205,Parker Ave,2.0,2.0,Tracy,"1,265 sqft","Dec 31, 1969",$0,37.74453,-121.42986,CA,Multi-Family Home,160637,,95376,,82,,For Sale,SAN JOAQUIN
+206,Johnson Ct,4.0,6.0,Tracy,"2,342 sqft","Dec 31, 1969",$0,37.753628,-121.441605,CA,Multi-Family Home,326410,,95376,,58,,For Sale,SAN JOAQUIN
+207,Hollywood Ave,3.0,4.0,Tracy,"2,345 sqft","Dec 31, 1969",$0,37.744354,-121.4196,CA,Single-Family Home,336174,,95376,,63,,For Sale,SAN JOAQUIN
+208,Redbridge Rd,3.0,4.0,Tracy,"2,927 sqft","Dec 31, 1969",$0,37.720123,-121.46729,CA,Single-Family Home,440000,,95377,,17,,For Sale,SAN JOAQUIN
+209,Bessie Ave,1.0,2.0,Tracy,"1,087 sqft","Dec 31, 1969",$0,37.747936,-121.43308,CA,Single-Family Home,167484,,95376,,65,,For Sale,SAN JOAQUIN
+210,Klamath Ct,3.0,4.0,Tracy,"2,499 sqft","Dec 31, 1969",$0,37.717,-121.4128,CA,Single-Family Home,401725,,95304,,17,,For Sale,SAN JOAQUIN
+211,W Saint Andrews Ln,2.0,3.0,Tracy,"2,390 sqft","Dec 31, 1969",$0,37.62986,-121.39204,CA,Single-Family Home,372472,,95377,,0,,For Sale,SAN JOAQUIN
+212,Bear Pl,3.0,4.0,Tracy,"3,121 sqft","Dec 31, 1969",$0,37.7128,-121.40973,CA,Single-Family Home,496897,,95304,,9,,For Sale,SAN JOAQUIN
+213,Smokey Ln,3.0,4.0,Tracy,"1,630 sqft","Dec 31, 1969",$0,37.72318,-121.446144,CA,Single-Family Home,353650,,95376,,37,,For Sale,SAN JOAQUIN
+214,W 8th St,2.0,3.0,Tracy,"1,390 sqft","Dec 31, 1969",$0,37.73654,-121.427284,CA,Multi-Family Home,224000,,95376,,88,,For Sale,SAN JOAQUIN
+215,Manley Dr,3.0,6.0,Tracy,"2,892 sqft","Dec 31, 1969",$0,37.740376,-121.460075,CA,Single-Family Home,450000,,95377,,48,,For Sale,SAN JOAQUIN
+216,Dalehurst Ln,4.0,5.0,Tracy,"2,615 sqft","Dec 31, 1969",$0,37.70021,-121.44476,CA,Single-Family Home,410303,,95377,,23,,For Sale,SAN JOAQUIN
+217,Gloria Ct,3.0,4.0,Tracy,"2,443 sqft","Dec 31, 1969",$0,37.74322,-121.47592,CA,Single-Family Home,383829,,95377,,18,,For Sale,SAN JOAQUIN
+218,Finale Way,2.0,3.0,Tracy,"1,846 sqft","Dec 31, 1969",$0,37.75932,-121.425156,CA,Single-Family Home,295566,,95376,,60,,For Sale,SAN JOAQUIN
+219,Chestnut Ave,2.0,3.0,Tracy,"1,168 sqft","Dec 31, 1969",$0,37.736595,-121.442055,CA,Single-Family Home,135000,,95376,,60,,For Sale,SAN JOAQUIN
+220,Thomas Dehaven Ln,2.0,4.0,Tracy,"1,639 sqft","Dec 31, 1969",$0,37.731262,-121.447815,CA,Single-Family Home,193431,,95376,,40,,For Sale,SAN JOAQUIN
+221,Whirlaway Ct,5.0,6.0,Tracy,"3,610 sqft","Dec 31, 1969",$0,37.69685,-121.44553,CA,Single-Family Home,516612,,95377,,11,,For Sale,SAN JOAQUIN
+222,Sienna Park Dr,3.0,4.0,Tracy,"1,892 sqft","Dec 31, 1969",$0,37.72352,-121.44295,CA,Single-Family Home,271827,,95376,,43,,For Sale,SAN JOAQUIN
+223,Photinia Dr,3.0,5.0,Tracy,"2,662 sqft","Dec 31, 1969",$0,37.715294,-121.436104,CA,Single-Family Home,385000,,95376,,51,,For Sale,SAN JOAQUIN
+224,Powell Ct,3.0,4.0,Tracy,"1,918 sqft","Dec 31, 1969",$0,37.71258,-121.40851,CA,Single-Family Home,448000,,95304,,9,,For Sale,SAN JOAQUIN
+225,Bessie Ave,2.0,3.0,Tracy,"1,383 sqft","Dec 31, 1969",$0,37.742985,-121.43306,CA,Single-Family Home,261525,,95376,,72,,For Sale,SAN JOAQUIN
+226,E 12th St,1.0,3.0,Tracy,"1,121 sqft","Dec 31, 1969",$0,37.74038,-121.42445,CA,Single-Family Home,256500,,95376,,85,,For Sale,SAN JOAQUIN
+227,Gerhart Ln,3.0,4.0,Tracy,"3,412 sqft","Dec 31, 1969",$0,37.693825,-121.34327,CA,Single-Family Home,557008,,95304,,0,,For Sale,SAN JOAQUIN
+228,S Ahern Rd,3.0,5.0,Tracy,"1,872 sqft","Dec 31, 1969",$0,37.634235,-121.29038,CA,Multi-Family Home,367100,,95304,,0,,For Sale,SAN JOAQUIN
+229,S Willow Creek Dr,2.0,3.0,Tracy,"1,306 sqft","Dec 31, 1969",$0,37.716732,-121.42898,CA,Single-Family Home,222394,,95376,,49,,For Sale,SAN JOAQUIN
+230,Macarthur,1.0,2.0,Tracy,"1,154 sqft","Dec 31, 1969",$0,37.69754,-121.41642,CA,Unspecified,195417,,95377,,28,,For Sale,SAN JOAQUIN
+231,Teton Ln,2.0,3.0,Tracy,"1,165 sqft","Dec 31, 1969",$0,37.723618,-121.44606,CA,Single-Family Home,240000,,95376,,28,,For Sale,SAN JOAQUIN
+232,Whittingham Dr,3.0,4.0,Tracy,"2,029 sqft","Dec 31, 1969",$0,37.7036,-121.442,CA,Single-Family Home,376906,,95377,,37,,For Sale,SAN JOAQUIN
+233,Bridle Creek Cir,2.0,3.0,Tracy,"1,366 sqft","Dec 31, 1969",$0,37.748055,-121.46414,CA,Single-Family Home,396000,,95377,,42,,For Sale,SAN JOAQUIN
+234,Gentry Ln,3.0,3.0,Tracy,"1,828 sqft","Dec 31, 1969",$0,37.74458,-121.47192,CA,Single-Family Home,382816,,95377,,31,,For Sale,SAN JOAQUIN
+235,Hawthorne Dr,2.0,2.0,Tracy,"1,191 sqft","Dec 31, 1969",$0,37.76221,-121.42796,CA,Single-Family Home,230119,,95376,,58,,For Sale,SAN JOAQUIN
+236,Christina Dr,2.0,2.0,Tracy,"1,154 sqft","Dec 31, 1969",$0,37.75529,-121.44247,CA,Single-Family Home,244922,,95376,,60,,For Sale,SAN JOAQUIN
+237,S Currier Dr,2.0,3.0,Tracy,"1,655 sqft","Dec 31, 1969",$0,37.743786,-121.5055,CA,Single-Family Home,352600,,95304,,3,,For Sale,SAN JOAQUIN
+238,Crowley Ct,2.0,3.0,Tracy,"1,277 sqft","Dec 31, 1969",$0,37.76207,-121.421265,CA,Single-Family Home,252007,,95376,,46,,For Sale,SAN JOAQUIN
+239,Tony Stuitt Ct,3.0,4.0,Tracy,"1,950 sqft","Dec 31, 1969",$0,37.74208,-121.455666,CA,Single-Family Home,385602,,95377,,58,,For Sale,SAN JOAQUIN
+240,W Clover Rd,2.0,3.0,Tracy,"1,248 sqft","Dec 31, 1969",$0,37.760643,-121.44609,CA,Single-Family Home,257067,,95376,,46,,For Sale,SAN JOAQUIN
+241,W Carlton Way,1.0,2.0,Tracy,800 sqft,"Dec 31, 1969",$0,37.746315,-121.4295,CA,Single-Family Home,201403,,95376,,74,,For Sale,SAN JOAQUIN
+242,W 20th St,2.0,3.0,Tracy,"1,047 sqft","Dec 31, 1969",$0,37.750862,-121.42797,CA,Single-Family Home,220102,,95376,,58,,For Sale,SAN JOAQUIN
+243,W Emerson Ave,1.0,3.0,Tracy,"1,098 sqft","Dec 31, 1969",$0,37.748753,-121.4299,CA,Single-Family Home,201046,,95376,,68,,For Sale,SAN JOAQUIN
+244,Fox Meadow Ct,2.0,3.0,Tracy,"1,328 sqft","Dec 31, 1969",$0,37.73228,-121.44782,CA,Unspecified,278762,,95376,,54,,For Sale,SAN JOAQUIN
+245,Tamarisk Ln,2.0,4.0,Tracy,"2,176 sqft","Dec 31, 1969",$0,37.699326,-121.44437,CA,Single-Family Home,386617,,95377,,18,,For Sale,SAN JOAQUIN
+246,Soto Ct,2.0,3.0,Tracy,"1,709 sqft","Dec 31, 1969",$0,37.74567,-121.47287,CA,Single-Family Home,349688,,95377,,32,,For Sale,SAN JOAQUIN
+247,Suellen Dr,2.0,2.0,Tracy,"1,154 sqft","Dec 31, 1969",$0,37.755924,-121.44138,CA,Single-Family Home,225861,,95376,,52,,For Sale,SAN JOAQUIN
+248,W 22nd St,1.0,2.0,Tracy,854 sqft,"Dec 31, 1969",$0,37.7522,-121.43012,CA,Single-Family Home,195427,,95376,,63,,For Sale,SAN JOAQUIN
+249,Whispering Wind Dr,2.0,4.0,Tracy,"1,810 sqft","Dec 31, 1969",$0,37.69884,-121.44631,CA,Single-Family Home,333687,,95377,,34,,For Sale,SAN JOAQUIN
+250,Bessie Ave,1.0,2.0,Tracy,806 sqft,"Dec 31, 1969",$0,37.74022,-121.43306,CA,Single-Family Home,193126,,95376,,74,,For Sale,SAN JOAQUIN
+251,Arrigotti Ln,3.0,4.0,Tracy,"2,211 sqft","Dec 31, 1969",$0,37.74493,-121.459335,CA,Single-Family Home,403316,,95377,,42,,For Sale,SAN JOAQUIN
+252,E Kavanagh Ave,1.0,2.0,Tracy,909 sqft,"Dec 31, 1969",$0,37.75781,-121.42519,CA,Single-Family Home,170733,,95376,,46,,For Sale,SAN JOAQUIN
+253,W Clover Rd,1.0,3.0,Tracy,"1,347 sqft","Dec 31, 1969",$0,37.7614,-121.44259,CA,Unspecified,305000,,95376,,52,,For Sale,SAN JOAQUIN
+254,Castle Creek Ct,3.0,4.0,Tracy,"2,312 sqft","Dec 31, 1969",$0,37.75005,-121.46514,CA,Single-Family Home,409891,,95377,,57,,For Sale,SAN JOAQUIN
+255,W Willow Creek Dr,2.0,3.0,Tracy,"1,212 sqft","Dec 31, 1969",$0,37.71617,-121.429306,CA,Single-Family Home,302529,,95376,,49,,For Sale,SAN JOAQUIN
+256,S Corral Hollow Rd,1.0,2.0,Tracy,"1,223 sqft","Dec 31, 1969",$0,37.76668,-121.453354,CA,Unspecified,475676,,95304,,32,,For Sale,SAN JOAQUIN
+257,Arthur Nate Haugh Dr,3.0,4.0,Tracy,"2,540 sqft","Dec 31, 1969",$0,37.748306,-121.45977,CA,Single-Family Home,412257,,95377,,68,,For Sale,SAN JOAQUIN
+258,Blossom Ln,4.0,4.0,Tracy,"3,987 sqft","Dec 31, 1969",$0,37.70025,-121.41157,CA,Multi-Family Home,685000,,95304,,17,,For Sale,SAN JOAQUIN
+259,Griffith Pl,2.0,4.0,Tracy,"1,527 sqft","Dec 31, 1969",$0,37.744617,-121.4456,CA,Single-Family Home,306860,,95376,,52,,For Sale,SAN JOAQUIN
+260,W 2nd St,3.0,3.0,Tracy,"2,064 sqft","Dec 31, 1969",$0,37.7318,-121.42642,CA,Single-Family Home,330647,,95376,,75,,For Sale,SAN JOAQUIN
+261,King Loop,3.0,5.0,Tracy,"2,516 sqft","Dec 31, 1969",$0,37.74103,-121.47002,CA,Single-Family Home,415785,,95377,,26,,For Sale,SAN JOAQUIN
+262,Katlin Ct,3.0,3.0,Tracy,"1,605 sqft","Dec 31, 1969",$0,37.72457,-121.442,CA,Single-Family Home,325000,,95376,,45,,For Sale,SAN JOAQUIN
+263,Norman Ct,2.0,4.0,Tracy,"1,693 sqft","Dec 31, 1969",$0,37.72312,-121.42338,CA,Single-Family Home,308500,,95376,,40,,For Sale,SAN JOAQUIN
+264,Abbott Ct,3.0,5.0,Tracy,"2,448 sqft","Dec 31, 1969",$0,37.726734,-121.45958,CA,Single-Family Home,413250,,95377,,31,,For Sale,SAN JOAQUIN
+265,Cecelio Way,3.0,4.0,Tracy,"2,772 sqft","Dec 31, 1969",$0,37.72627,-121.43243,CA,Single-Family Home,447338,,95376,,60,,For Sale,SAN JOAQUIN
+266,Meadow Lark Ln,2.0,3.0,Tracy,"1,851 sqft","Dec 31, 1969",$0,37.738716,-121.44453,CA,Single-Family Home,328656,,95376,,60,,For Sale,SAN JOAQUIN
+267,Marlin Pl,,,Tracy,,"Dec 31, 1969",$0,37.74563,-121.440796,CA,Unspecified,126704,,95376,,55,,For Sale,SAN JOAQUIN
+268,Wind Song Dr,,,Tracy,,"Dec 31, 1969",$0,37.702454,-121.44318,CA,Unspecified,282000,,95377,,37,,For Sale,SAN JOAQUIN
+269,E Peerless Way #12,,,Tracy,,"Dec 31, 1969",$0,37.723668,-121.419273,CA,Unspecified,77000,,95376,,,,For Sale,SAN JOAQUIN
+270,Rochester Ct,,,Tracy,,"Dec 31, 1969",$0,37.750595,-121.467026,CA,Unspecified,252500,,95377,,65,,For Sale,SAN JOAQUIN
+271,W Adonica Dr,,,Tracy,,"Dec 31, 1969",$0,37.778664,-121.54702,CA,Unspecified,128000,,95391,,11,,For Sale,SAN JOAQUIN
+272,Kenilworth Ct,,,Tracy,,"Dec 31, 1969",$0,37.75217,-121.43776,CA,Unspecified,83463,,95376,,66,,For Sale,SAN JOAQUIN
+273,Essex Ct,,,Tracy,,"Dec 31, 1969",$0,37.75471,-121.418236,CA,Unspecified,91100,,95376,,45,,For Sale,SAN JOAQUIN
+274,Jalisco St,,,Tracy,,"Dec 31, 1969",$0,37.779285,-121.54396,CA,Unspecified,110000,,95391,,17,,For Sale,SAN JOAQUIN
+275,W Adonica Dr,,,Tracy,,"Dec 31, 1969",$0,37.7787,-121.54694,CA,Unspecified,275146,,95391,,18,,For Sale,SAN JOAQUIN
+276,Chase St,,,Tracy,,"Dec 31, 1969",$0,37.773674,-121.53801,CA,Unspecified,209250,,95391,,15,,For Sale,SAN JOAQUIN
+277,N Lincoln Blvd,2.0,4.0,Tracy,,"Dec 31, 1969",$0,37.7524,-121.4435,CA,Single-Family Home,156000,,95304,,46,,For Sale,SAN JOAQUIN
+278,W Lucita Way,,,Tracy,,"Dec 31, 1969",$0,37.779243,-121.54737,CA,Unspecified,138000,,95391,,5,,For Sale,SAN JOAQUIN
+279,Palmquist Rd,,,Tracy,,"Dec 31, 1969",$0,37.697124,-121.415794,CA,Single-Family Home,172575,,95304,,14,,For Sale,SAN JOAQUIN
+280,W Grant Line Rd,2.0,3.0,Tracy,,"Dec 31, 1969",$0,37.75616,-121.55594,CA,Lot/Land,214701,,95391,,0,,For Sale,SAN JOAQUIN
+281,Alegre Dr,,,Tracy,,"Dec 31, 1969",$0,37.752018,-121.45021,CA,Unspecified,254308,,95376,,54,,For Sale,SAN JOAQUIN
+282,W 8th St,,,Tracy,,"Dec 31, 1969",$0,37.736546,-121.427315,CA,Unspecified,224000,,95376,,88,,For Sale,SAN JOAQUIN
+283,Bonsai Ave,,,Tracy,,"Dec 31, 1969",$0,37.69722,-121.42958,CA,Unspecified,366135,,95377,,25,,For Sale,SAN JOAQUIN
+284,S Central Ave,,,Tracy,,"Dec 31, 1969",$0,37.727467,-121.42545,CA,Unspecified,253993,,95376,,42,,For Sale,SAN JOAQUIN
+285,Cordes Ave,,,Tracy,,"Dec 31, 1969",$0,37.77359,-121.54043,CA,Unspecified,343100,,95391,,20,,For Sale,SAN JOAQUIN
+286,Central Pkwy,,,Tracy,,"Dec 31, 1969",$0,37.770176,-121.547165,CA,Unspecified,331761,,95391,,15,,For Sale,SAN JOAQUIN
+287,Treehaven Ln,,,Tracy,,"Dec 31, 1969",$0,37.74442,-121.44854,CA,Unspecified,262400,,95376,,57,,For Sale,SAN JOAQUIN
+288,Mcdermott Dr,3.0,4.0,Tracy,"1,567 sqft","Dec 31, 1969",$0,37.744442,-121.44444,CA,Single-Family Home,284243,,95376,,49,,For Sale,SAN JOAQUIN
+289,W 20th St,1.0,3.0,Tracy,"1,048 sqft","Dec 31, 1969",$0,37.750885,-121.43228,CA,Single-Family Home,320000,,95376,,62,,For Sale,SAN JOAQUIN
+290,W Adonica Dr,,,Tracy,,"Dec 31, 1969",$0,37.778683,-121.54698,CA,Unspecified,227940,,95391,,18,,For Sale,SAN JOAQUIN
+291,Hillview Dr,,,Tracy,,"Dec 31, 1969",$0,37.750195,-121.45645,CA,Unspecified,379196,,95377,,54,,For Sale,SAN JOAQUIN
+292,Ferngrove Ln,2.0,3.0,Tracy,"1,127 sqft","Dec 31, 1969",$0,37.742954,-121.45239,CA,Single-Family Home,334953,,95376,,55,,For Sale,SAN JOAQUIN
+293,Briar Ln,2.0,3.0,Tracy,"1,078 sqft","Dec 31, 1969",$0,37.761665,-121.42735,CA,Single-Family Home,337600,,95376,,63,,For Sale,SAN JOAQUIN
+294,Merchant Dr,4.0,5.0,Tracy,"3,140 sqft","Dec 31, 1969",$0,37.736183,-121.46319,CA,Single-Family Home,519200,,95377,,25,,For Sale,SAN JOAQUIN
+295,Versailles Ct,3.0,4.0,Tracy,"1,629 sqft","Dec 31, 1969",$0,37.731396,-121.41705,CA,Single-Family Home,364800,,95376,,48,,For Sale,SAN JOAQUIN
+296,Scarlett Pl,2.0,3.0,Tracy,"1,854 sqft","Dec 31, 1969",$0,37.75924,-121.43566,CA,Single-Family Home,384000,,95376,,71,,For Sale,SAN JOAQUIN
+297,Hansen Rd,3.0,3.0,Tracy,"1,990 sqft","Dec 31, 1969",$0,37.70362,-121.50806,CA,Unspecified,500000,,95377,,0,,For Sale,SAN JOAQUIN
+298,Lighthouse Cir,3.0,4.0,Tracy,"3,286 sqft","Dec 31, 1969",$0,37.715,-121.41078,CA,Single-Family Home,668605,,95304,,9,,For Sale,SAN JOAQUIN
+299,S Chrisman Rd,3.0,4.0,Tracy,"2,360 sqft","Dec 31, 1969",$0,37.68441,-121.397964,CA,Unspecified,641656,,95304,,5,,For Sale,SAN JOAQUIN
+300,De Bord Dr,3.0,4.0,Tracy,"2,316 sqft","Dec 31, 1969",$0,37.71494,-121.41956,CA,Single-Family Home,577114,,95376,,17,,For Sale,SAN JOAQUIN
+301,Cape Breton Ln,3.0,3.0,Tracy,"2,432 sqft","Dec 31, 1969",$0,37.733246,-121.45592,CA,Single-Family Home,442277,,95377,,34,,For Sale,SAN JOAQUIN
+302,Joranollo Dr,3.0,6.0,Tracy,"1,945 sqft","Dec 31, 1969",$0,37.72349,-121.41957,CA,Single-Family Home,412500,,95376,,20,,For Sale,SAN JOAQUIN
+303,Sean Ave,,,Tracy,,"Dec 31, 1969",$0,37.769936,-121.545133,CA,Unspecified,499999,,95391,,,,For Sale,SAN JOAQUIN
+304,Keyes Ct,,,Tracy,,"Dec 31, 1969",$0,37.732674,-121.46273,CA,Unspecified,423255,,95377,,18,,For Sale,SAN JOAQUIN
+305,W Depot Master Dr,,,Tracy,,"Dec 31, 1969",$0,37.697353,-121.40637,CA,Unspecified,650000,,95304,,20,,For Sale,SAN JOAQUIN
+306,Lynn W Riffle St,,,Tracy,,"Dec 31, 1969",$0,37.716877,-121.404976,CA,Lot/Land,444657,,95304,,5,,For Sale,SAN JOAQUIN
+307,Rockingham Way,,,Tracy,,"Dec 31, 1969",$0,37.734222,-121.43395,CA,Unspecified,254502,,95376,,72,,For Sale,SAN JOAQUIN
+308,N Lincoln Blvd,,,Tracy,,"Dec 31, 1969",$0,37.74012,-121.441708,CA,Unspecified,156000,,95376,,,,For Sale,SAN JOAQUIN
+309,E Eaton Ave,,,Tracy,,"Dec 31, 1969",$0,37.743484,-121.42202,CA,Unspecified,222051,,95376,,82,,For Sale,SAN JOAQUIN
+310,S Altura Ct,,,Tracy,,"Dec 31, 1969",$0,37.772583,-121.556206,CA,Unspecified,372500,,95391,,9,,For Sale,SAN JOAQUIN
+311,N Lincoln Blvd,,,Tracy,,"Dec 31, 1969",$0,37.74012,-121.441708,CA,Unspecified,213750,,95376,,,,For Sale,SAN JOAQUIN
+312,W 11th St,,,Tracy,,"Dec 31, 1969",$0,37.739735,-121.43163,CA,Unspecified,186100,,95376,,85,,For Sale,SAN JOAQUIN
+313,W Kavanagh Ave,,,Tracy,,"Dec 31, 1969",$0,37.758144,-121.434235,CA,Unspecified,220500,,95376,,65,,For Sale,SAN JOAQUIN
+314,W Kavanagh Ave,,,Tracy,,"Dec 31, 1969",$0,37.758102,-121.43389,CA,Unspecified,220500,,95376,,65,,For Sale,SAN JOAQUIN
+315,Peerless Way #208,,,Tracy,,"Dec 31, 1969",$0,37.723732,-121.41705,CA,Single-Family Home,172761,,95376,,31,,For Sale,SAN JOAQUIN
+316,Mesa Ct,3.0,5.0,Tracy,"2,397 sqft","Dec 31, 1969",$0,37.733826,-121.45873,CA,Single-Family Home,417000,,95377,,34,,For Sale,SAN JOAQUIN
+317,Erie Ct,4.0,4.0,Tracy,"3,054 sqft","Dec 31, 1969",$0,37.7145,-121.41443,CA,Single-Family Home,560000,,95304,,22,,For Sale,SAN JOAQUIN
+318,Lovely Rd,3.0,4.0,Tracy,"2,558 sqft","Dec 31, 1969",$0,37.7398,-121.36819,CA,Single-Family Home,555821,,95304,,2,,For Sale,SAN JOAQUIN
+319,W Central Ave,2.0,3.0,Tracy,"1,525 sqft","Dec 31, 1969",$0,37.715115,-121.43026,CA,Single-Family Home,329937,,95376,,52,,For Sale,SAN JOAQUIN
+320,Riverview Ct,5.0,6.0,Tracy,"3,456 sqft","Dec 31, 1969",$0,37.69755,-121.44679,CA,Single-Family Home,550000,,95377,,15,,For Sale,SAN JOAQUIN
+321,Lotus Way,3.0,4.0,Tracy,"2,589 sqft","Dec 31, 1969",$0,37.71643,-121.45136,CA,Single-Family Home,438593,,95376,,31,,For Sale,SAN JOAQUIN
+322,Pepperwood Ct,2.0,3.0,Tracy,"1,592 sqft","Dec 31, 1969",$0,37.72574,-121.44943,CA,Single-Family Home,341481,,95376,,38,,For Sale,SAN JOAQUIN
+323,Redbridge Rd,3.0,4.0,Tracy,"3,485 sqft","Dec 31, 1969",$0,37.71993,-121.467896,CA,Single-Family Home,556667,,95377,,23,,For Sale,SAN JOAQUIN
+324,Woodcrest Ct,3.0,3.0,Tracy,"1,808 sqft","Dec 31, 1969",$0,37.75747,-121.45096,CA,Single-Family Home,341728,,95376,,57,,For Sale,SAN JOAQUIN
+325,Whittingham Dr,3.0,4.0,Tracy,"2,223 sqft","Dec 31, 1969",$0,37.70358,-121.44273,CA,Single-Family Home,430175,,95377,,37,,For Sale,SAN JOAQUIN
+326,Rockingham Way,3.0,3.0,Tracy,"2,135 sqft","Dec 31, 1969",$0,37.734,-121.43293,CA,Single-Family Home,368135,,95376,,71,,For Sale,SAN JOAQUIN
+327,Mcpeak Ct,2.0,3.0,Tracy,"1,534 sqft","Dec 31, 1969",$0,37.750854,-121.45022,CA,Single-Family Home,356800,,95376,,49,,For Sale,SAN JOAQUIN
+328,N Tracy Blvd,2.0,3.0,Tracy,"1,268 sqft","Dec 31, 1969",$0,37.745342,-121.43504,CA,Single-Family Home,413000,,95376,,57,,For Sale,SAN JOAQUIN
+329,N Tracy Blvd,2.0,3.0,Tracy,"1,268 sqft","Dec 31, 1969",$0,37.74554,-121.435036,CA,Single-Family Home,413000,,95376,,57,,For Sale,SAN JOAQUIN
+330,Candido Ct,3.0,4.0,Tracy,"2,006 sqft","Dec 31, 1969",$0,37.75895,-121.42154,CA,Single-Family Home,422116,,95376,,54,,For Sale,SAN JOAQUIN
+331,Oxford Ln,3.0,4.0,Tracy,"2,782 sqft","Dec 31, 1969",$0,37.74817,-121.46811,CA,Single-Family Home,544500,,95377,,43,,For Sale,SAN JOAQUIN
+332,Mary Jean Ln,3.0,4.0,Tracy,"1,817 sqft","Dec 31, 1969",$0,37.76236,-121.41879,CA,Single-Family Home,404000,,95376,,43,,For Sale,SAN JOAQUIN
+333,Schantz Way,3.0,3.0,Tracy,"3,299 sqft","Dec 31, 1969",$0,37.71482,-121.44927,CA,Single-Family Home,581493,,95376,,37,,For Sale,SAN JOAQUIN
+334,Alpine Ct,3.0,3.0,Tracy,"1,880 sqft","Dec 31, 1969",$0,37.720535,-121.43721,CA,Single-Family Home,367554,,95376,,57,,For Sale,SAN JOAQUIN
+335,W Schulte Rd,2.0,4.0,Tracy,"2,341 sqft","Dec 31, 1969",$0,37.72511,-121.43444,CA,Single-Family Home,457665,,95376,,63,,For Sale,SAN JOAQUIN
+336,Camelot Dr,3.0,4.0,Tracy,"1,950 sqft","Dec 31, 1969",$0,37.728497,-121.4171,CA,Single-Family Home,372444,,95376,,43,,For Sale,SAN JOAQUIN
+337,Loma Prieta Cir,2.0,4.0,Tracy,"2,009 sqft","Dec 31, 1969",$0,37.726322,-121.42321,CA,Single-Family Home,353704,,95376,,49,,For Sale,SAN JOAQUIN
+338,Grand Teton Ct,2.0,4.0,Tracy,"2,682 sqft","Dec 31, 1969",$0,37.736,-121.4583,CA,Single-Family Home,449657,,95377,,38,,For Sale,SAN JOAQUIN
+339,Doe Trail Ln,3.0,4.0,Tracy,"2,210 sqft","Dec 31, 1969",$0,37.735043,-121.44411,CA,Single-Family Home,384598,,95376,,58,,For Sale,SAN JOAQUIN
+340,S Sonrisa St,,,Tracy,,"Dec 31, 1969",$0,37.77665,-121.555145,CA,Unspecified,604099,,95391,,11,,For Sale,SAN JOAQUIN
+341,S Sonrisa St,,,Tracy,,"Dec 31, 1969",$0,37.776384,-121.555173,CA,Unspecified,604099,,95391,,11,,For Sale,SAN JOAQUIN
+342,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792088,-121.553055,CA,Lot/Land,583952,,95391,,6,,For Sale,SAN JOAQUIN
+343,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79157,-121.55366,CA,Lot/Land,585973,,95391,,0,,For Sale,SAN JOAQUIN
+344,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792297,-121.552734,CA,Lot/Land,589004,,95391,,6,,For Sale,SAN JOAQUIN
+345,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79151,-121.55372,CA,Lot/Land,583952,,95391,,0,,For Sale,SAN JOAQUIN
+346,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.791973,-121.5532,CA,Lot/Land,589004,,95391,,6,,For Sale,SAN JOAQUIN
+347,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79204,-121.55312,CA,Lot/Land,592035,,95391,,6,,For Sale,SAN JOAQUIN
+348,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.7922,-121.552895,CA,Lot/Land,587994,,95391,,6,,For Sale,SAN JOAQUIN
+349,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792667,-121.55208,CA,Lot/Land,596076,,95391,,6,,For Sale,SAN JOAQUIN
+350,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.7925,-121.5525,CA,Lot/Land,591024,,95391,,6,,For Sale,SAN JOAQUIN
+351,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79258,-121.552246,CA,Lot/Land,596076,,95391,,6,,For Sale,SAN JOAQUIN
+352,San Marcos,,,Tracy,,"Dec 31, 1969",$0,37.790924,-121.55315,CA,Lot/Land,571587,,95391,,0,,For Sale,SAN JOAQUIN
+353,San Marcos,,,Tracy,,"Dec 31, 1969",$0,37.79144,-121.55259,CA,Lot/Land,570596,,95391,,0,,For Sale,SAN JOAQUIN
+354,San Marcos,,,Tracy,,"Dec 31, 1969",$0,37.791466,-121.55255,CA,Lot/Land,569605,,95391,,0,,For Sale,SAN JOAQUIN
+355,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792397,-121.55258,CA,Lot/Land,589004,,95391,,6,,For Sale,SAN JOAQUIN
+356,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792763,-121.55204,CA,Lot/Land,596076,,95391,,6,,For Sale,SAN JOAQUIN
+357,San Marcos,,,Tracy,,"Dec 31, 1969",$0,37.79115,-121.55291,CA,Lot/Land,571587,,95391,,0,,For Sale,SAN JOAQUIN
+358,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792297,-121.552734,CA,Lot/Land,593045,,95391,,6,,For Sale,SAN JOAQUIN
+359,San Marcos,,,Tracy,,"Dec 31, 1969",$0,37.79112,-121.55295,CA,Lot/Land,556727,,95391,,0,,For Sale,SAN JOAQUIN
+360,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792736,-121.55195,CA,Lot/Land,582942,,95391,,6,,For Sale,SAN JOAQUIN
+361,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79224,-121.55283,CA,Lot/Land,592035,,95391,,6,,For Sale,SAN JOAQUIN
+362,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792774,-121.55188,CA,Lot/Land,597086,,95391,,6,,For Sale,SAN JOAQUIN
+363,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.792492,-121.55241,CA,Lot/Land,589004,,95391,,6,,For Sale,SAN JOAQUIN
+364,Plumas,,,Tracy,,"Dec 31, 1969",$0,37.79241,-121.55256,CA,Lot/Land,589004,,95391,,6,,For Sale,SAN JOAQUIN
+365,Parkington Ln,,,Tracy,,"Dec 31, 1969",$0,37.743107,-121.46961,CA,Unspecified,447562,,95377,,28,,For Sale,SAN JOAQUIN
+366,Stalsburg Dr,,,Tracy,,"Dec 31, 1969",$0,37.71506,-121.420204,CA,Unspecified,370491,,95376,,26,,For Sale,SAN JOAQUIN
+367,Fairoaks Rd,,,Tracy,,"Dec 31, 1969",$0,37.708572,-121.407166,CA,Unspecified,826420,,95304,,12,,For Sale,SAN JOAQUIN

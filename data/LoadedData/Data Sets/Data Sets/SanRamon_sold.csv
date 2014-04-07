@@ -1,0 +1,798 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,2525 Twin Creeks Dr,1.0,2.0,San Ramon,954 sqft,"Mar 11, 2014","$320,000",37.772774,-121.97927,CA,Condo,320000,"$398,000",94583,,,,Sold,CONTRA COSTA
+2,3534 Ashbourne Cir,4.5,5.0,San Ramon,"4,523 sqft","Mar 11, 2014","$1,575,000",37.75113,-121.990585,CA,Townhouse,1575000,"$1,638,000",94583,,,,Sold,CONTRA COSTA
+3,12 Century Oaks Ct,2.5,5.0,San Ramon,"2,914 sqft","Mar 11, 2014","$1,049,000",37.743977,-121.96081,CA,Townhouse,1049000,"$1,161,000",94583,,,,Sold,CONTRA COSTA
+4,175 Elisha Ln,3.0,4.0,San Ramon,"2,378 sqft","Mar 10, 2014","$928,500",37.742836,-121.95702,CA,Single-Family Home,928500,"$1,068,000",94583,,,,Sold,CONTRA COSTA
+5,505 Cashew Ct,2.5,4.0,San Ramon,"1,979 sqft","Mar 10, 2014","$735,000",37.73635,-121.93941,CA,Single-Family Home,735000,"$873,000",94583,,,,Sold,CONTRA COSTA
+6,506 Montrose Ct,3.0,4.0,San Ramon,"2,655 sqft","Mar 10, 2014","$925,000",37.747475,-121.893936,CA,Single-Family Home,925000,"$1,002,000",94582,,,,Sold,CONTRA COSTA
+7,216 Lakeridge Way,2.5,3.0,San Ramon,"2,044 sqft","Mar 7, 2014","$842,000",37.78627,-121.94848,CA,Townhouse,842000,"$929,000",94582,,,,Sold,CONTRA COSTA
+8,8985 Alcosta Blvd #181,2.5,2.0,San Ramon,"1,230 sqft","Mar 7, 2014","$335,000",37.72565,-121.93569,CA,Condo,335000,"$425,000",94583,,,,Sold,CONTRA COSTA
+9,809 Pradera Way,4.0,5.0,San Ramon,"3,553 sqft","Mar 7, 2014","$1,219,000",37.770676,-121.998245,CA,Townhouse,1219000,"$1,271,000",94583,,,,Sold,CONTRA COSTA
+10,3101 Lakemont Dr #4,2.0,3.0,San Ramon,"1,810 sqft","Mar 7, 2014","$590,000",37.781185,-121.95066,CA,Condo,590000,"$693,000",94582,,,,Sold,CONTRA COSTA
+11,2 Indigo Ln,2.5,4.0,San Ramon,"1,915 sqft","Mar 7, 2014","$810,000",37.728165,-121.93259,CA,Townhouse,810000,"$857,000",94583,,,,Sold,CONTRA COSTA
+12,9993 Windsor Way,2.0,3.0,San Ramon,"1,382 sqft","Mar 6, 2014","$720,000",37.753128,-121.94805,CA,Single-Family Home,720000,"$727,000",94583,,,,Sold,CONTRA COSTA
+13,123 Metairie Pl,2.0,4.0,San Ramon,"1,407 sqft","Mar 5, 2014","$705,500",37.731953,-121.93331,CA,Single-Family Home,705500,"$722,000",94583,,,,Sold,CONTRA COSTA
+14,2687 Marsh Dr,2.5,4.0,San Ramon,"1,965 sqft","Mar 5, 2014","$585,000",37.766487,-121.977974,CA,Condo,585000,"$645,000",94583,,,,Sold,CONTRA COSTA
+15,2275 Ashbourne Dr,5.5,5.0,San Ramon,"5,201 sqft","Mar 5, 2014","$1,937,500",37.752094,-122.00127,CA,Townhouse,1937500,"$1,932,000",94583,,,,Sold,CONTRA COSTA
+16,1084 S Wedgewood Rd,,,San Ramon,,"Mar 4, 2014","$1,253,500",37.76874,-121.92013,CA,Lot/Land,1253500,,94582,,,,Sold,CONTRA COSTA
+17,3847 Crow Canyon Rd,2.5,2.0,San Ramon,"1,232 sqft","Mar 4, 2014","$470,000",37.785927,-121.952095,CA,Condo,470000,"$543,000",94582,,,,Sold,CONTRA COSTA
+18,9955 Broadmoor Dr,2.5,4.0,San Ramon,"1,886 sqft","Mar 4, 2014","$790,000",37.75058,-121.949875,CA,Single-Family Home,790000,"$803,000",94583,,,,Sold,CONTRA COSTA
+19,1657 Star Jasmine Dr,3.5,4.0,San Ramon,"2,974 sqft","Mar 4, 2014","$1,089,000",37.780205,-121.92043,CA,Single-Family Home,1089000,"$1,083,000",94582,,,,Sold,CONTRA COSTA
+20,526 Santander Dr,3.0,3.0,San Ramon,"2,590 sqft","Mar 3, 2014","$955,000",37.76677,-121.974106,CA,Townhouse,955000,"$1,002,000",94583,,,,Sold,CONTRA COSTA
+21,1815 Cedarwood Loop,2.5,4.0,San Ramon,"1,659 sqft","Mar 3, 2014","$708,000",37.770927,-121.92026,CA,Condo,708000,"$715,000",94582,,,,Sold,CONTRA COSTA
+22,312 Skyline Dr,2.0,2.0,San Ramon,995 sqft,"Mar 3, 2014","$402,000",37.776432,-121.985016,CA,Condo,402000,"$474,000",94583,,,,Sold,CONTRA COSTA
+23,1760 Blakesley Dr,2.5,3.0,San Ramon,"1,949 sqft","Mar 3, 2014","$795,000",37.764793,-121.90351,CA,Single-Family Home,795000,"$831,000",94582,,,,Sold,CONTRA COSTA
+24,3091 Hastings Way,4.0,5.0,San Ramon,"3,810 sqft","Feb 28, 2014","$1,210,000",37.753918,-121.90241,CA,Single-Family Home,1210000,"$1,263,000",94582,,,,Sold,CONTRA COSTA
+25,7145 Briza Loop,2.5,3.0,San Ramon,"1,419 sqft","Feb 28, 2014","$660,000",37.775143,-121.92933,CA,Condo,660000,"$690,000",94582,,,,Sold,CONTRA COSTA
+26,109 Woodland Valley Dr,3.0,4.0,San Ramon,"2,745 sqft","Feb 28, 2014","$950,500",37.74026,-121.915245,CA,Single-Family Home,950500,"$1,108,000",94582,,,,Sold,CONTRA COSTA
+27,4375 Gardenia St,,,San Ramon,,"Feb 28, 2014","$897,000",37.76116,-121.91521,CA,Lot/Land,897000,,94582,,,,Sold,CONTRA COSTA
+28,2010 Bayporte Way,2.5,3.0,San Ramon,"1,647 sqft","Feb 28, 2014","$761,000",37.771477,-121.9183,CA,Townhouse,761000,"$774,000",94582,,,,Sold,CONTRA COSTA
+29,4039 Marblehead Dr,3.0,3.0,San Ramon,"2,879 sqft","Feb 28, 2014","$1,110,000",37.749733,-121.93182,CA,Townhouse,1110000,"$1,218,000",94582,,,,Sold,CONTRA COSTA
+30,6963 Wisteria St,2.0,2.0,San Ramon,"1,165 sqft","Feb 28, 2014","$400,000",37.729584,-121.924706,CA,Single-Family Home,400000,"$540,000",94583,,,,Sold,CONTRA COSTA
+31,2269 Rosemount Ln,4.0,5.0,San Ramon,"3,387 sqft","Feb 27, 2014","$800,000",37.759537,-121.88466,CA,Single-Family Home,800000,"$1,252,000",94582,,,,Sold,CONTRA COSTA
+32,435 Summercreek Ln,3.0,4.0,San Ramon,"2,348 sqft","Feb 27, 2014","$811,000",37.756317,-121.94576,CA,Townhouse,811000,"$953,000",94583,,,,Sold,CONTRA COSTA
+33,3253 Burning Tree Dr,2.0,3.0,San Ramon,"2,170 sqft","Feb 26, 2014","$745,000",37.73841,-121.93024,CA,Single-Family Home,745000,"$896,000",94583,,,,Sold,CONTRA COSTA
+34,217 Stone Pine Ln,3.0,2.0,San Ramon,"1,177 sqft","Feb 26, 2014","$435,000",37.77834,-121.983246,CA,Condo,435000,"$531,000",94583,,,,Sold,CONTRA COSTA
+35,353 Eastridge Dr,1.0,2.0,San Ramon,985 sqft,"Feb 25, 2014","$395,000",37.768642,-121.94212,CA,Condo,395000,"$427,000",94582,,,,Sold,CONTRA COSTA
+36,326 Cameron Cir,3.0,3.0,San Ramon,"3,176 sqft","Feb 25, 2014","$950,000",37.754536,-121.95698,CA,Single-Family Home,950000,"$1,090,000",94583,,,,Sold,CONTRA COSTA
+37,95 Elmwood Dr,2.5,4.0,San Ramon,"1,915 sqft","Feb 25, 2014","$750,000",37.72732,-121.9328,CA,Townhouse,750000,"$848,000",94583,,,,Sold,CONTRA COSTA
+38,785 Watson Canyon Ct #251,2.0,2.0,San Ramon,914 sqft,"Feb 25, 2014","$375,000",37.776543,-121.94824,CA,Condo,375000,"$496,000",94582,,,,Sold,CONTRA COSTA
+39,2819 Bethany Rd,4.0,5.0,San Ramon,"3,462 sqft","Feb 24, 2014","$1,205,000",37.757996,-121.88813,CA,Single-Family Home,1205000,"$1,207,000",94582,,,,Sold,CONTRA COSTA
+40,124 Allanmere Ct,4.5,5.0,San Ramon,"3,296 sqft","Feb 21, 2014","$1,060,000",37.76623,-121.90297,CA,Single-Family Home,1060000,"$1,147,000",94582,,,,Sold,CONTRA COSTA
+41,713 Galemeadow Cir,2.5,4.0,San Ramon,"2,011 sqft","Feb 21, 2014","$720,000",37.783894,-121.92726,CA,Condo,720000,"$814,000",94582,,,,Sold,CONTRA COSTA
+42,5805 Cattleya Way,3.0,3.0,San Ramon,"2,717 sqft","Feb 21, 2014","$1,120,000",37.780464,-121.929214,CA,Townhouse,1120000,"$1,187,000",94582,,,,Sold,CONTRA COSTA
+43,9085 Alcosta Blvd #370,1.0,2.0,San Ramon,"1,039 sqft","Feb 21, 2014","$267,000",37.728218,-121.93524,CA,Condo,267000,"$363,000",94583,,,,Sold,CONTRA COSTA
+44,611 Abrigo Ct,2.0,3.0,San Ramon,"1,281 sqft","Feb 21, 2014","$590,000",37.769585,-121.98755,CA,Condo,590000,"$626,000",94583,,,,Sold,CONTRA COSTA
+45,3220 Vera Cruz Dr,2.0,4.0,San Ramon,"2,112 sqft","Feb 21, 2014","$849,500",37.754868,-121.946266,CA,Single-Family Home,849500,"$953,000",94583,,,,Sold,CONTRA COSTA
+46,2740 Derby Dr,3.0,4.0,San Ramon,"2,437 sqft","Feb 21, 2014","$968,000",37.75476,-121.974594,CA,Townhouse,968000,"$985,000",94583,,,,Sold,CONTRA COSTA
+47,250 Rio Grande Ct,3.0,3.0,San Ramon,"2,804 sqft","Feb 21, 2014","$89,500",37.78823,-121.94031,CA,Townhouse,89500,"$1,143,000",94582,,,,Sold,CONTRA COSTA
+48,2575 Harlow Ln,3.0,4.0,San Ramon,"2,569 sqft","Feb 20, 2014","$933,000",37.754185,-121.8983,CA,Single-Family Home,933000,"$1,007,000",94582,,,,Sold,CONTRA COSTA
+49,4849 Cornflower St,3.5,4.0,San Ramon,"2,478 sqft","Feb 20, 2014","$852,000",37.76367,-121.91659,CA,Townhouse,852000,"$1,015,000",94582,,,,Sold,CONTRA COSTA
+50,15 Neptune Ct,2.0,2.0,San Ramon,"1,165 sqft","Feb 20, 2014","$465,000",37.72817,-121.9256,CA,Single-Family Home,465000,"$576,000",94583,,,,Sold,CONTRA COSTA
+51,506 Fallen Leaf Cir,3.0,4.0,San Ramon,"2,614 sqft","Feb 20, 2014","$918,000",37.756905,-121.94782,CA,Townhouse,918000,"$936,000",94583,,,,Sold,CONTRA COSTA
+52,1120 Canyon Green Dr,3.0,4.0,San Ramon,"3,068 sqft","Feb 20, 2014","$985,000",37.7593,-121.93898,CA,Townhouse,985000,"$1,205,000",94582,,,,Sold,CONTRA COSTA
+53,4119 Greenwich Dr,2.5,4.0,San Ramon,"2,374 sqft","Feb 20, 2014","$979,000",37.75499,-121.93647,CA,Townhouse,979000,"$1,110,000",94582,,,,Sold,CONTRA COSTA
+54,9977 Windsor Way,2.0,4.0,San Ramon,"1,479 sqft","Feb 19, 2014","$751,000",37.75239,-121.947754,CA,Single-Family Home,751000,"$751,000",94583,,,,Sold,CONTRA COSTA
+55,2532 Shadow Mountain Ct,2.0,3.0,San Ramon,"1,673 sqft","Feb 19, 2014","$775,000",37.772377,-121.980545,CA,Single-Family Home,775000,"$844,000",94583,,,,Sold,CONTRA COSTA
+56,7352 Sedgefield Ave,3.0,4.0,San Ramon,"2,803 sqft","Feb 19, 2014","$1,010,000",37.735706,-121.93557,CA,Single-Family Home,1010000,"$983,000",94583,,,,Sold,CONTRA COSTA
+57,1205 Ustilago Dr,2.0,3.0,San Ramon,"1,676 sqft","Feb 19, 2014","$680,000",37.771408,-121.93892,CA,Townhouse,680000,"$873,000",94582,,,,Sold,CONTRA COSTA
+58,5331 Sherwood Way,3.0,4.0,San Ramon,"2,141 sqft","Feb 19, 2014","$730,000",37.750893,-121.89921,CA,Condo,730000,"$792,000",94582,,,,Sold,CONTRA COSTA
+59,4380 Gardenia St,,,San Ramon,,"Feb 19, 2014","$793,000",37.761463,-121.91524,CA,Lot/Land,793000,,94582,,,,Sold,CONTRA COSTA
+60,3816 Highbury Way,2.5,3.0,San Ramon,"2,300 sqft","Feb 14, 2014","$850,000",37.748333,-121.891075,CA,Single-Family Home,850000,"$928,000",94582,,,,Sold,CONTRA COSTA
+61,3897 Aragon Ln,2.5,4.0,San Ramon,"2,106 sqft","Feb 14, 2014","$703,500",37.77078,-121.97365,CA,Townhouse,703500,"$841,000",94583,,,,Sold,CONTRA COSTA
+62,2510 Soren Way,2.0,2.0,San Ramon,"1,169 sqft","Feb 14, 2014","$528,000",37.766727,-121.90729,CA,Condo,528000,"$576,000",94582,,,,Sold,CONTRA COSTA
+63,2978 Millbridge Dr,2.0,3.0,San Ramon,"1,533 sqft","Feb 14, 2014","$710,000",37.744442,-121.94973,CA,Single-Family Home,710000,"$743,000",94583,,,,Sold,CONTRA COSTA
+64,10057 Santa Rosa Ave,2.0,4.0,San Ramon,"1,883 sqft","Feb 14, 2014","$790,000",37.749638,-121.93878,CA,Single-Family Home,790000,"$836,000",94583,,,,Sold,CONTRA COSTA
+65,195 Woodview Terrace Dr,2.5,4.0,San Ramon,"2,460 sqft","Feb 13, 2014","$970,000",37.771976,-121.95616,CA,Single-Family Home,970000,"$1,078,000",94582,,,,Sold,CONTRA COSTA
+66,254 Canyon Lakes Pl,2.5,4.0,San Ramon,"3,024 sqft","Feb 13, 2014","$1,080,000",37.77962,-121.95573,CA,Townhouse,1080000,"$1,186,000",94582,,,,Sold,CONTRA COSTA
+67,1893 Hollyview Dr,2.0,3.0,San Ramon,"2,065 sqft","Feb 13, 2014","$890,000",37.779343,-121.91814,CA,Single-Family Home,890000,"$891,000",94582,,,,Sold,CONTRA COSTA
+68,3309 Burning Tree Dr,2.5,4.0,San Ramon,"2,906 sqft","Feb 12, 2014","$1,115,000",37.740826,-121.9297,CA,Single-Family Home,1115000,"$1,014,000",94583,,,,Sold,CONTRA COSTA
+69,6182 Yardley Ln,2.5,3.0,San Ramon,"2,028 sqft","Feb 12, 2014","$712,000",37.75075,-121.89805,CA,Condo,712000,"$765,000",94582,,,,Sold,CONTRA COSTA
+70,112 Coralflower Ln,2.5,3.0,San Ramon,"1,488 sqft","Feb 11, 2014","$640,000",37.788097,-121.92433,CA,Condo,640000,"$707,000",94582,,,,Sold,CONTRA COSTA
+71,7595 Northland Pl,3.0,4.0,San Ramon,"2,167 sqft","Feb 11, 2014","$810,000",37.731094,-121.9447,CA,Single-Family Home,810000,"$831,000",94583,,,,Sold,CONTRA COSTA
+72,3363 Middlebrook Way,3.0,5.0,San Ramon,"3,173 sqft","Feb 11, 2014","$989,000",37.76261,-121.88951,CA,Single-Family Home,989000,"$1,046,000",94582,,,,Sold,CONTRA COSTA
+73,324 Winterwind Cir,2.5,3.0,San Ramon,"1,651 sqft","Feb 11, 2014","$722,000",37.759212,-121.94942,CA,Townhouse,722000,"$770,000",94583,,,,Sold,CONTRA COSTA
+74,1926 Barossa Dr,3.0,5.0,San Ramon,"3,148 sqft","Feb 11, 2014","$1,000,000",37.76362,-121.898285,CA,Single-Family Home,1000000,"$1,080,000",94582,,,,Sold,CONTRA COSTA
+75,3879 Crow Canyon Rd,2.5,2.0,San Ramon,"1,232 sqft","Feb 7, 2014","$445,000",37.78607,-121.952255,CA,Condo,445000,"$553,000",94582,,,,Sold,CONTRA COSTA
+76,4035 Canyon Crest Rd W,3.0,3.0,San Ramon,"2,758 sqft","Feb 7, 2014","$963,000",37.788773,-121.946976,CA,Townhouse,963000,"$1,106,000",94582,,,,Sold,CONTRA COSTA
+77,516 Van Buren Pl,1.0,2.0,San Ramon,805 sqft,"Feb 7, 2014","$505,000",37.74351,-121.94208,CA,Single-Family Home,505000,"$556,000",94583,,,,Sold,CONTRA COSTA
+78,64 Shasta Ct,2.5,3.0,San Ramon,"2,097 sqft","Feb 7, 2014","$820,000",37.786682,-121.94559,CA,Condo,820000,"$803,000",94582,,,,Sold,CONTRA COSTA
+79,701 Destiny Ln,2.0,2.0,San Ramon,941 sqft,"Feb 6, 2014","$444,000",37.77918,-121.986755,CA,Condo,444000,"$515,000",94583,,,,Sold,CONTRA COSTA
+80,9085 Alcosta Blvd #321,1.0,2.0,San Ramon,"1,039 sqft","Feb 6, 2014","$250,000",37.72885,-121.93417,CA,Condo,250000,"$350,000",94583,,,,Sold,CONTRA COSTA
+81,2504 Fountainhead Dr,1.5,3.0,San Ramon,"1,276 sqft","Feb 6, 2014","$345,000",37.76968,-121.99274,CA,Condo,345000,"$455,000",94583,,,,Sold,CONTRA COSTA
+82,1072 S Wedgewood Rd,,,San Ramon,,"Feb 5, 2014","$1,366,500",37.768547,-121.91925,CA,Single-Family Home,1366500,,94582,,,,Sold,CONTRA COSTA
+83,285 Reflections Dr #17,2.0,2.0,San Ramon,949 sqft,"Feb 5, 2014","$350,000",37.761696,-121.950195,CA,Condo,350000,"$422,000",94583,,,,Sold,CONTRA COSTA
+84,3306 Amaryllis Cir,2.5,3.0,San Ramon,"1,433 sqft","Feb 5, 2014","$620,000",37.776863,-121.920906,CA,Condo,620000,"$796,000",94582,,,,Sold,CONTRA COSTA
+85,125 Reflections Dr #23,2.0,2.0,San Ramon,749 sqft,"Jan 31, 2014","$380,000",37.762394,-121.94944,CA,Condo,380000,"$392,000",94583,,,,Sold,CONTRA COSTA
+86,1188 Hawkshead Cir,5.5,5.0,San Ramon,"5,871 sqft","Jan 31, 2014","$2,219,000",37.742027,-121.98804,CA,Townhouse,2219000,"$2,145,000",94583,,,,Sold,CONTRA COSTA
+87,6187 Yardley Ln,3.0,4.0,San Ramon,"2,141 sqft","Jan 31, 2014","$697,000",37.750446,-121.89833,CA,Condo,697000,"$778,000",94582,,,,Sold,CONTRA COSTA
+88,3285 Ashbourne Cir,6.5,6.0,San Ramon,"5,632 sqft","Jan 30, 2014","$1,690,000",37.743977,-121.98897,CA,Townhouse,1690000,"$2,060,000",94583,,,,Sold,CONTRA COSTA
+89,20 Winslow Pl,2.0,3.0,San Ramon,"1,533 sqft","Jan 30, 2014","$673,000",37.744144,-121.95456,CA,Single-Family Home,673000,"$739,000",94583,,,,Sold,CONTRA COSTA
+90,2784 Corey Pl,3.0,4.0,San Ramon,"2,260 sqft","Jan 30, 2014","$821,000",37.74641,-121.95839,CA,Single-Family Home,821000,"$929,000",94583,,,,Sold,CONTRA COSTA
+91,3923 Crow Canyon Rd,2.0,2.0,San Ramon,966 sqft,"Jan 30, 2014","$395,000",37.78554,-121.95282,CA,Condo,395000,"$468,000",94582,,,,Sold,CONTRA COSTA
+92,4364 Gardenia St,,,San Ramon,,"Jan 29, 2014","$956,000",37.76127,-121.91568,CA,Single-Family Home,956000,,94582,,,,Sold,CONTRA COSTA
+93,209 Saint Denis Ct,2.0,4.0,San Ramon,"1,593 sqft","Jan 29, 2014","$775,000",37.747868,-121.95203,CA,Single-Family Home,775000,"$800,000",94583,,,,Sold,CONTRA COSTA
+94,2347 Magnolia Bridge Dr,3.0,3.0,San Ramon,"2,809 sqft","Jan 29, 2014","$975,000",37.77133,-121.913414,CA,Townhouse,975000,"$1,096,000",94582,,,,Sold,CONTRA COSTA
+95,1339 Canyon Side Ave,3.0,2.0,San Ramon,"1,942 sqft","Jan 28, 2014","$705,000",37.76494,-121.94124,CA,Condo,705000,"$785,000",94582,,,,Sold,CONTRA COSTA
+96,1815 Nancy Ln,2.0,2.0,San Ramon,"1,169 sqft","Jan 28, 2014","$510,000",37.76672,-121.90663,CA,Condo,510000,"$569,000",94582,,,,Sold,CONTRA COSTA
+97,3110 Montevideo Dr,2.0,4.0,San Ramon,"1,519 sqft","Jan 27, 2014","$752,000",37.752552,-121.949524,CA,Single-Family Home,752000,"$783,000",94583,,,,Sold,CONTRA COSTA
+98,4071 Dunbarton Cir,2.0,4.0,San Ramon,"2,073 sqft","Jan 24, 2014","$820,000",37.757538,-121.95234,CA,Single-Family Home,820000,"$951,000",94583,,,,Sold,CONTRA COSTA
+99,4372 Gardenia St,,,San Ramon,,"Jan 24, 2014","$854,000",37.761368,-121.91546,CA,Single-Family Home,854000,,94582,,,,Sold,CONTRA COSTA
+100,1343 Canyon Side Ave,3.0,3.0,San Ramon,"2,125 sqft","Jan 24, 2014","$690,000",37.764996,-121.94134,CA,Condo,690000,"$824,000",94582,,,,Sold,CONTRA COSTA
+101,7181 Briza Loop,2.5,3.0,San Ramon,"1,419 sqft","Jan 24, 2014","$632,500",37.775547,-121.92877,CA,Condo,632500,"$699,000",94582,,,,Sold,CONTRA COSTA
+102,239 Silk Hill Ct,4.5,5.0,San Ramon,"4,610 sqft","Jan 23, 2014","$1,225,000",37.760902,-121.894135,CA,Single-Family Home,1225000,"$1,331,000",94582,,,,Sold,CONTRA COSTA
+103,130 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Jan 23, 2014","$285,000",37.768295,-121.94116,CA,Condo,285000,"$368,000",94582,,,,Sold,CONTRA COSTA
+104,5085 Canyon Crest Dr,2.0,3.0,San Ramon,"2,444 sqft","Jan 23, 2014","$985,000",37.78747,-121.94148,CA,Townhouse,985000,"$1,110,000",94582,,,,Sold,CONTRA COSTA
+105,921 Maricaibo Pl,4.5,5.0,San Ramon,"3,960 sqft","Jan 23, 2014","$1,215,000",37.765007,-121.98844,CA,Townhouse,1215000,"$1,456,000",94583,,,,Sold,CONTRA COSTA
+106,3149 Ashbourne Cir,,,San Ramon,,"Jan 17, 2014","$1,699,500",37.745262,-121.99242,CA,Single-Family Home,1699500,,94583,,,,Sold,CONTRA COSTA
+107,6700 Aberdale Cir,2.5,3.0,San Ramon,"1,675 sqft","Jan 17, 2014","$675,000",37.74888,-121.90056,CA,Single-Family Home,675000,"$793,000",94582,,,,Sold,CONTRA COSTA
+108,4311 Gardenia St,,,San Ramon,,"Jan 17, 2014","$882,000",37.760857,-121.91593,CA,Single-Family Home,882000,,94582,,,,Sold,CONTRA COSTA
+109,2513 Soren Way,2.5,3.0,San Ramon,"1,605 sqft","Jan 17, 2014","$598,000",37.76667,-121.90747,CA,Condo,598000,"$664,000",94582,,,,Sold,CONTRA COSTA
+110,20 Palamos Ct,2.0,4.0,San Ramon,"1,713 sqft","Jan 15, 2014","$729,000",37.76264,-121.973145,CA,Townhouse,729000,"$790,000",94583,,,,Sold,CONTRA COSTA
+111,2836 Piccadilly Cir,4.5,5.0,San Ramon,"3,953 sqft","Jan 15, 2014","$900,000",37.776638,-121.89677,CA,Single-Family Home,900000,"$1,316,000",94582,,,,Sold,CONTRA COSTA
+112,1029 Vista Pointe Cir,2.5,3.0,San Ramon,"1,861 sqft","Jan 15, 2014","$725,000",37.77331,-121.95014,CA,Townhouse,725000,"$889,000",94582,,,,Sold,CONTRA COSTA
+113,30 Eagle Lake Pl #11,2.0,2.0,San Ramon,"1,272 sqft","Jan 15, 2014","$625,000",37.784367,-121.94853,CA,Condo,625000,"$628,000",94582,,,,Sold,CONTRA COSTA
+114,1013 Nancy Ln,2.5,3.0,San Ramon,"1,605 sqft","Jan 15, 2014","$575,000",37.76746,-121.90703,CA,Condo,575000,"$674,000",94582,,,,Sold,CONTRA COSTA
+115,812 Barnwood Dr,3.0,3.0,San Ramon,"1,972 sqft","Jan 14, 2014","$725,000",37.754887,-121.96352,CA,Townhouse,725000,"$869,000",94583,,,,Sold,CONTRA COSTA
+116,4 Talus Ct,4.5,4.0,San Ramon,"3,908 sqft","Jan 14, 2014","$1,325,000",37.731495,-121.95181,CA,Townhouse,1325000,"$1,536,000",94583,,,,Sold,CONTRA COSTA
+117,9085 Alcosta Blvd #350,1.0,2.0,San Ramon,952 sqft,"Jan 14, 2014","$266,000",37.7285,-121.9348,CA,Condo,266000,"$319,000",94583,,,,Sold,CONTRA COSTA
+118,5066 Holborn Way,4.5,5.0,San Ramon,"4,030 sqft","Jan 14, 2014","$1,100,000",37.745834,-121.8932,CA,Single-Family Home,1100000,"$1,336,000",94582,,,,Sold,CONTRA COSTA
+119,3302 Ashbourne Cir,,,San Ramon,,"Jan 14, 2014","$1,626,000",37.744995,-121.988785,CA,Lot/Land,1626000,,94583,,,,Sold,CONTRA COSTA
+120,3322 Ashbourne Cir,3.5,4.0,San Ramon,"4,007 sqft","Jan 13, 2014","$1,547,000",37.745514,-121.98792,CA,Townhouse,1547000,"$1,901,000",94583,,,,Sold,CONTRA COSTA
+121,3733 Crow Canyon Rd,2.0,2.0,San Ramon,922 sqft,"Jan 13, 2014","$400,000",37.78523,-121.95206,CA,Condo,400000,"$495,000",94582,,,,Sold,CONTRA COSTA
+122,2548 Toltec Cir,2.5,4.0,San Ramon,"2,718 sqft","Jan 10, 2014","$961,000",37.763844,-121.97875,CA,Townhouse,961000,"$996,000",94583,,,,Sold,CONTRA COSTA
+123,416 Norris Canyon Ter,1.0,2.0,San Ramon,"1,009 sqft","Jan 10, 2014","$400,000",37.77931,-121.96009,CA,Condo,400000,"$440,000",94583,,,,Sold,CONTRA COSTA
+124,323 S Overlook Dr #144,1.0,1.0,San Ramon,778 sqft,"Jan 10, 2014","$312,000",37.76772,-121.94611,CA,Condo,312000,"$343,000",94582,,,,Sold,CONTRA COSTA
+125,233 Kittery Pl,2.5,4.0,San Ramon,"2,009 sqft","Jan 9, 2014","$745,000",37.744377,-121.945816,CA,Single-Family Home,745000,"$827,000",94583,,,,Sold,CONTRA COSTA
+126,9481 Olympia Fields Dr,2.0,4.0,San Ramon,"1,989 sqft","Jan 9, 2014","$830,000",37.73665,-121.930046,CA,Single-Family Home,830000,"$885,000",94583,,,,Sold,CONTRA COSTA
+127,120 Woodcrest Dr,2.5,3.0,San Ramon,"2,045 sqft","Jan 9, 2014","$776,000",37.775585,-121.992615,CA,Townhouse,776000,"$866,000",94583,,,,Sold,CONTRA COSTA
+128,2581 Basswood Dr,2.5,3.0,San Ramon,"2,592 sqft","Jan 8, 2014","$910,000",37.770164,-121.91693,CA,Single-Family Home,910000,"$988,000",94582,,,,Sold,CONTRA COSTA
+129,4356 Gardenia St,,,San Ramon,,"Jan 8, 2014","$904,500",37.7611,-121.916084,CA,Single-Family Home,904500,,94582,,,,Sold,CONTRA COSTA
+130,430 Canyon Woods Pl #C,2.0,2.0,San Ramon,"1,031 sqft","Jan 7, 2014","$429,000",37.766148,-121.95063,CA,Condo,429000,"$488,000",94582,,,,Sold,CONTRA COSTA
+131,224 Lakeridge Way,2.5,3.0,San Ramon,"2,044 sqft","Jan 7, 2014","$780,000",37.786644,-121.9482,CA,Townhouse,780000,"$920,000",94582,,,,Sold,CONTRA COSTA
+132,501 Fallen Leaf Cir,3.0,4.0,San Ramon,"2,614 sqft","Jan 7, 2014","$905,000",37.75748,-121.947205,CA,Townhouse,905000,"$929,000",94583,,,,Sold,CONTRA COSTA
+133,124 Baltusrol Pl,2.0,3.0,San Ramon,"1,526 sqft","Jan 7, 2014","$770,000",37.730972,-121.93125,CA,Single-Family Home,770000,"$760,000",94583,,,,Sold,CONTRA COSTA
+134,7637 Corrinne Pl,2.0,3.0,San Ramon,"1,470 sqft","Jan 7, 2014","$670,000",37.724754,-121.93818,CA,Single-Family Home,670000,"$712,000",94583,,,,Sold,CONTRA COSTA
+135,9714 Alcosta Blvd,3.5,4.0,San Ramon,"3,766 sqft","Jan 7, 2014","$1,050,000",37.742565,-121.92875,CA,Single-Family Home,1050000,"$1,253,000",94583,,,,Sold,CONTRA COSTA
+136,3117 Lakemont Dr #4,2.0,3.0,San Ramon,"1,810 sqft","Jan 7, 2014","$540,000",37.781864,-121.95116,CA,Condo,540000,"$674,000",94582,,,,Sold,CONTRA COSTA
+137,2670 Derby Dr,2.0,3.0,San Ramon,"1,846 sqft","Jan 6, 2014","$825,000",37.75623,-121.979576,CA,Townhouse,825000,"$875,000",94583,,,,Sold,CONTRA COSTA
+138,407 Daybreak Ct,2.5,3.0,San Ramon,"1,378 sqft","Jan 6, 2014","$560,000",37.77873,-121.987305,CA,Condo,560000,"$603,000",94583,,,,Sold,CONTRA COSTA
+139,211 Milo Pl,3.0,5.0,San Ramon,"2,228 sqft","Jan 3, 2014","$878,000",37.745705,-121.95065,CA,Single-Family Home,878000,"$869,000",94583,,,,Sold,CONTRA COSTA
+140,3039 Tahoe Pl,2.5,3.0,San Ramon,"2,097 sqft","Jan 2, 2014","$640,000",37.78515,-121.94515,CA,Condo,640000,"$809,000",94582,,,,Sold,CONTRA COSTA
+141,4383 Gardenia St,,,San Ramon,,"Dec 31, 2013","$947,500",37.761257,-121.914986,CA,Single-Family Home,947500,,94582,,,,Sold,CONTRA COSTA
+142,2801 Saint Denis Dr,2.0,3.0,San Ramon,"1,760 sqft","Dec 31, 2013","$690,000",37.747036,-121.954254,CA,Single-Family Home,690000,"$790,000",94583,,,,Sold,CONTRA COSTA
+143,122 Copper Ridge Rd #12,2.5,2.0,San Ramon,"1,314 sqft","Dec 30, 2013","$407,500",37.77057,-121.946655,CA,Condo,407500,"$558,000",94582,,,,Sold,CONTRA COSTA
+144,410 Joree Ln,2.0,2.0,San Ramon,"1,169 sqft","Dec 30, 2013","$515,000",37.765835,-121.908134,CA,Condo,515000,"$616,000",94582,,,,Sold,CONTRA COSTA
+145,2310 Canyon Lakes Dr,2.5,3.0,San Ramon,"1,814 sqft","Dec 27, 2013","$815,000",37.775997,-121.95345,CA,Townhouse,815000,"$832,000",94582,,,,Sold,CONTRA COSTA
+146,2512 Fountainhead Dr,1.5,2.0,San Ramon,954 sqft,"Dec 27, 2013","$338,000",37.769733,-121.992905,CA,Condo,338000,"$423,000",94583,,,,Sold,CONTRA COSTA
+147,8985 Alcosta Blvd #186,2.5,2.0,San Ramon,"1,230 sqft","Dec 27, 2013","$330,000",37.725845,-121.93558,CA,Condo,330000,"$434,000",94583,,,,Sold,CONTRA COSTA
+148,96 Carousel Pl,3.0,5.0,San Ramon,"2,368 sqft","Dec 27, 2013","$800,000",37.768665,-121.98498,CA,Single-Family Home,800000,"$951,000",94583,,,,Sold,CONTRA COSTA
+149,1078 S Wedgewood Rd,,,San Ramon,,"Dec 27, 2013","$1,309,500",37.768673,-121.919815,CA,Single-Family Home,1309500,,94582,,,,Sold,CONTRA COSTA
+150,4348 Gardenia St,,,San Ramon,,"Dec 27, 2013","$933,500",37.7611,-121.916084,CA,Lot/Land,933500,,94582,,,,Sold,CONTRA COSTA
+151,401 Sunnyside Pl,3.0,5.0,San Ramon,"2,365 sqft","Dec 27, 2013","$932,000",37.742134,-121.919495,CA,Single-Family Home,932000,"$1,103,000",94582,,,,Sold,CONTRA COSTA
+152,448 Constantine Ct,4.0,5.0,San Ramon,"2,468 sqft","Dec 27, 2013","$796,000",37.77447,-121.98593,CA,Multi-Family,796000,"$1,154,000",94583,,,,Sold,CONTRA COSTA
+153,3340 Chartwell St,3.5,3.0,San Ramon,"1,430 sqft","Dec 27, 2013","$740,000",37.77467,-121.98661,CA,Townhouse,740000,"$806,000",94583,,,,Sold,CONTRA COSTA
+154,9447 Cherry Hills Ln,2.0,4.0,San Ramon,"2,013 sqft","Dec 26, 2013","$702,000",37.73668,-121.92739,CA,Single-Family Home,702000,"$875,000",94583,,,,Sold,CONTRA COSTA
+155,2452 Talavera Dr,2.0,4.0,San Ramon,"1,713 sqft","Dec 24, 2013","$685,000",37.76421,-121.972496,CA,Townhouse,685000,"$814,000",94583,,,,Sold,CONTRA COSTA
+156,4340 Gardenia St,,,San Ramon,,"Dec 24, 2013","$862,000",37.7611,-121.916084,CA,Single-Family Home,862000,,94582,,,,Sold,CONTRA COSTA
+157,9025 Alcosta Blvd #264,2.0,2.0,San Ramon,"1,121 sqft","Dec 24, 2013","$295,000",37.72705,-121.935,CA,Condo,295000,"$401,000",94583,,,,Sold,CONTRA COSTA
+158,8985 Alcosta Blvd #155,2.5,2.0,San Ramon,"1,230 sqft","Dec 24, 2013","$318,000",37.724834,-121.93592,CA,Condo,318000,"$434,000",94583,,,,Sold,CONTRA COSTA
+159,322 Winterwind Cir,2.5,2.0,San Ramon,"1,440 sqft","Dec 23, 2013","$359,000",37.75913,-121.949356,CA,Townhouse,359000,"$641,000",94583,,,,Sold,CONTRA COSTA
+160,464 S Clovercrest Ln,2.5,3.0,San Ramon,"1,532 sqft","Dec 23, 2013","$632,000",37.784363,-121.9254,CA,Condo,632000,"$711,000",94582,,,,Sold,CONTRA COSTA
+161,3362 Nutmeg Park St,3.5,4.0,San Ramon,"3,112 sqft","Dec 20, 2013","$1,078,500",37.766624,-121.917786,CA,Townhouse,1078500,"$1,212,000",94582,,,,Sold,CONTRA COSTA
+162,5058 Westside Dr,4.5,5.0,San Ramon,"3,908 sqft","Dec 20, 2013","$1,290,000",37.734234,-121.95326,CA,Townhouse,1290000,"$1,519,000",94583,,,,Sold,CONTRA COSTA
+163,10066 Foxboro Cir,3.0,3.0,San Ramon,"1,638 sqft","Dec 20, 2013","$705,000",37.75444,-121.94937,CA,Townhouse,705000,"$781,000",94583,,,,Sold,CONTRA COSTA
+164,13 Elmwood Dr,2.5,4.0,San Ramon,"1,915 sqft","Dec 20, 2013","$745,000",37.72884,-121.93226,CA,Townhouse,745000,"$828,000",94583,,,,Sold,CONTRA COSTA
+165,4351 Gardenia St,,,San Ramon,,"Dec 20, 2013","$945,000",37.760857,-121.91593,CA,Single-Family Home,945000,,94582,,,,Sold,CONTRA COSTA
+166,9128 Tangerine St,2.0,2.0,San Ramon,"1,165 sqft","Dec 19, 2013","$475,000",37.72994,-121.92315,CA,Single-Family Home,475000,"$547,000",94583,,,,Sold,CONTRA COSTA
+167,207 Majorca Dr,2.5,2.0,San Ramon,"1,964 sqft","Dec 19, 2013","$751,000",37.766586,-121.94245,CA,Townhouse,751000,"$881,000",94582,,,,Sold,CONTRA COSTA
+168,4332 Gardenia St,,,San Ramon,,"Dec 19, 2013","$965,000",37.7611,-121.916084,CA,Lot/Land,965000,,94582,,,,Sold,CONTRA COSTA
+169,2599 Marsh Dr,2.5,4.0,San Ramon,"1,965 sqft","Dec 18, 2013","$590,000",37.76484,-121.97645,CA,Condo,590000,"$639,000",94583,,,,Sold,CONTRA COSTA
+170,2226 Rosemount Ln,4.5,5.0,San Ramon,"3,826 sqft","Dec 18, 2013","$1,185,000",37.758537,-121.88395,CA,Single-Family Home,1185000,"$1,248,000",94582,,,,Sold,CONTRA COSTA
+171,21 Cree Ct,3.0,3.0,San Ramon,"2,291 sqft","Dec 18, 2013","$830,000",37.751396,-121.966705,CA,Townhouse,830000,"$1,045,000",94583,,,,Sold,CONTRA COSTA
+172,9672 Camassia Way,3.0,4.0,San Ramon,"1,811 sqft","Dec 18, 2013","$725,000",37.774837,-121.91838,CA,Townhouse,725000,"$860,000",94582,,,,Sold,CONTRA COSTA
+173,5569 Satinleaf Way,4.5,5.0,San Ramon,"4,967 sqft","Dec 18, 2013","$1,739,000",37.777493,-121.934135,CA,Townhouse,1739000,"$1,786,000",94582,,,,Sold,CONTRA COSTA
+174,785 Watson Canyon Ct #146,2.0,2.0,San Ramon,914 sqft,"Dec 18, 2013","$380,000",37.776573,-121.94817,CA,Condo,380000,"$471,000",94582,,,,Sold,CONTRA COSTA
+175,9025 Alcosta Blvd #228,2.0,2.0,San Ramon,"1,096 sqft","Dec 17, 2013","$300,000",37.726536,-121.935,CA,Condo,300000,"$370,000",94583,,,,Sold,CONTRA COSTA
+176,408 Bridle Ct,3.5,4.0,San Ramon,"3,886 sqft","Dec 17, 2013","$1,610,000",37.74022,-121.92292,CA,Townhouse,1610000,"$1,751,000",94582,,,,Sold,CONTRA COSTA
+177,9600 Velvet Leaf Cir,3.0,5.0,San Ramon,"3,171 sqft","Dec 17, 2013","$1,310,000",37.76466,-121.9355,CA,Townhouse,1310000,"$1,497,000",94582,,,,Sold,CONTRA COSTA
+178,9663 Camassia Way,2.5,3.0,San Ramon,"1,435 sqft","Dec 13, 2013","$640,000",37.77534,-121.91842,CA,Townhouse,640000,"$714,000",94582,,,,Sold,CONTRA COSTA
+179,2963 Cheyenne Ave,2.0,4.0,San Ramon,"1,472 sqft","Dec 13, 2013","$704,500",37.736996,-121.942085,CA,Single-Family Home,704500,"$788,000",94583,,,,Sold,CONTRA COSTA
+180,2602 Derby Dr,3.0,4.0,San Ramon,"2,437 sqft","Dec 13, 2013","$970,000",37.75802,-121.98356,CA,Townhouse,970000,"$1,038,000",94583,,,,Sold,CONTRA COSTA
+181,375 Cameron Cir,3.0,4.0,San Ramon,"3,367 sqft","Dec 13, 2013","$959,000",37.754433,-121.95934,CA,Single-Family Home,959000,"$1,060,000",94583,,,,Sold,CONTRA COSTA
+182,1295 Canyon Side Ave,3.0,2.0,San Ramon,"2,404 sqft","Dec 13, 2013","$685,000",37.764313,-121.94014,CA,Condo,685000,"$921,000",94582,,,,Sold,CONTRA COSTA
+183,633 Hardcastle Ct,4.0,4.0,San Ramon,"4,193 sqft","Dec 13, 2013","$1,445,000",37.749573,-121.99132,CA,Townhouse,1445000,"$1,562,000",94583,,,,Sold,CONTRA COSTA
+184,480 Bollinger Canyon Ln #275,1.0,1.0,San Ramon,657 sqft,"Dec 12, 2013","$245,000",37.773254,-121.94427,CA,Condo,245000,"$321,000",94582,,,,Sold,CONTRA COSTA
+185,4327 Gardenia St,,,San Ramon,,"Dec 12, 2013","$877,500",37.760857,-121.91593,CA,Single-Family Home,877500,,94582,,,,Sold,CONTRA COSTA
+186,9895 Brunswick Way,2.0,4.0,San Ramon,"1,795 sqft","Dec 12, 2013","$802,000",37.746716,-121.95042,CA,Single-Family Home,802000,"$792,000",94583,,,,Sold,CONTRA COSTA
+187,113 Laredo Ct,2.0,4.0,San Ramon,"1,713 sqft","Dec 12, 2013","$700,000",37.76891,-121.97676,CA,Townhouse,700000,"$797,000",94583,,,,Sold,CONTRA COSTA
+188,501 Norris Canyon Ter,2.0,2.0,San Ramon,"1,075 sqft","Dec 12, 2013","$400,000",37.779575,-121.96064,CA,Condo,400000,"$480,000",94583,,,,Sold,CONTRA COSTA
+189,5120 Canyon Crest Dr,2.0,3.0,San Ramon,"2,290 sqft","Dec 12, 2013","$881,000",37.787914,-121.9423,CA,Townhouse,881000,"$1,001,000",94582,,,,Sold,CONTRA COSTA
+190,2372 Millenium Ln,2.5,4.0,San Ramon,"1,775 sqft","Dec 12, 2013","$775,000",37.76142,-121.904015,CA,Townhouse,775000,"$817,000",94582,,,,Sold,CONTRA COSTA
+191,2430 Palmira Pl,2.5,4.0,San Ramon,"2,760 sqft","Dec 11, 2013","$830,000",37.76456,-121.98812,CA,Townhouse,830000,"$1,092,000",94583,,,,Sold,CONTRA COSTA
+192,3108 Sorrelwood Dr,4.0,5.0,San Ramon,"3,507 sqft","Dec 11, 2013","$1,410,000",37.77605,-121.93927,CA,Townhouse,1410000,"$1,549,000",94582,,,,Sold,CONTRA COSTA
+193,1771 Campanula Dr,2.0,3.0,San Ramon,"2,065 sqft","Dec 10, 2013","$863,000",37.78093,-121.918495,CA,Single-Family Home,863000,"$924,000",94582,,,,Sold,CONTRA COSTA
+194,413 San Roberto Pl,3.0,4.0,San Ramon,"3,094 sqft","Dec 10, 2013","$891,000",37.755276,-121.94217,CA,Single-Family Home,891000,"$1,103,000",94583,,,,Sold,CONTRA COSTA
+195,404 Deerhill Dr,2.5,3.0,San Ramon,"2,045 sqft","Dec 10, 2013","$761,000",37.775726,-121.991875,CA,Townhouse,761000,"$853,000",94583,,,,Sold,CONTRA COSTA
+196,1050 Vista Pointe Cir,2.5,4.0,San Ramon,"2,044 sqft","Dec 10, 2013","$810,000",37.772568,-121.950356,CA,Townhouse,810000,"$962,000",94582,,,,Sold,CONTRA COSTA
+197,4335 Gardenia St,,,San Ramon,,"Dec 10, 2013","$947,500",37.760857,-121.91593,CA,Single-Family Home,947500,,94582,,,,Sold,CONTRA COSTA
+198,4343 Gardenia St,,,San Ramon,,"Dec 10, 2013","$898,000",37.760857,-121.91593,CA,Single-Family Home,898000,,94582,,,,Sold,CONTRA COSTA
+199,15 Spring Garden Ct,1.5,2.0,San Ramon,"1,342 sqft","Dec 9, 2013","$435,000",37.76096,-121.9474,CA,Townhouse,435000,"$602,000",94583,,,,Sold,CONTRA COSTA
+200,460 Bollinger Canyon Ln #185,1.0,1.0,San Ramon,657 sqft,"Dec 6, 2013","$260,000",37.772755,-121.94371,CA,Condo,260000,"$333,000",94582,,,,Sold,CONTRA COSTA
+201,4055 W Lakeshore Dr,2.5,3.0,San Ramon,"1,900 sqft","Dec 6, 2013","$659,000",37.785213,-121.94667,CA,Condo,659000,"$831,000",94582,,,,Sold,CONTRA COSTA
+202,454 Sprucemoor Ct,,,San Ramon,,"Dec 6, 2013","$1,317,000",37.76847,-121.91595,CA,Single-Family Home,1317000,,94582,,,,Sold,CONTRA COSTA
+203,7742 Stoneleaf Rd,2.5,2.0,San Ramon,"1,402 sqft","Dec 6, 2013","$595,000",37.766064,-121.91995,CA,Condo,595000,"$669,000",94582,,,,Sold,CONTRA COSTA
+204,901 Winsford Ct,,,San Ramon,,"Dec 5, 2013","$1,588,500",37.744026,-121.99302,CA,Lot/Land,1588500,,94583,,,,Sold,CONTRA COSTA
+205,242 Copper Ridge Rd #96,1.0,1.0,San Ramon,778 sqft,"Dec 5, 2013","$309,000",37.76849,-121.9463,CA,Condo,309000,"$343,000",94582,,,,Sold,CONTRA COSTA
+206,3559 Aldwych Way,3.0,4.0,San Ramon,"2,687 sqft","Dec 5, 2013","$950,000",37.74805,-121.89576,CA,Single-Family Home,950000,"$1,004,000",94582,,,,Sold,CONTRA COSTA
+207,1015 Nancy Ln,2.0,2.0,San Ramon,"1,169 sqft","Dec 5, 2013","$480,000",37.767498,-121.90714,CA,Condo,480000,"$576,000",94582,,,,Sold,CONTRA COSTA
+208,284 Eastridge Dr,2.0,2.0,San Ramon,"1,058 sqft","Dec 4, 2013","$400,000",37.769897,-121.94189,CA,Condo,400000,"$490,000",94582,,,,Sold,CONTRA COSTA
+209,908 Radiant Ln,2.5,3.0,San Ramon,"1,378 sqft","Dec 4, 2013","$528,000",37.778675,-121.98646,CA,Condo,528000,"$622,000",94583,,,,Sold,CONTRA COSTA
+210,133 Lucy Ln,2.5,3.0,San Ramon,"2,313 sqft","Dec 4, 2013","$1,000,000",37.7689,-121.92338,CA,Townhouse,1000000,"$1,033,000",94582,,,,Sold,CONTRA COSTA
+211,705 Watson Canyon Ct #201,1.0,1.0,San Ramon,657 sqft,"Dec 3, 2013","$250,000",37.77421,-121.94885,CA,Condo,250000,"$328,000",94582,,,,Sold,CONTRA COSTA
+212,4613 Sweetgale Dr,2.5,3.0,San Ramon,"1,971 sqft","Dec 3, 2013","$860,000",37.780396,-121.9433,CA,Townhouse,860000,"$978,000",94582,,,,Sold,CONTRA COSTA
+213,215 Riverland Ct,4.0,4.0,San Ramon,"3,472 sqft","Dec 3, 2013","$1,090,000",37.76239,-121.89724,CA,Single-Family Home,1090000,"$1,236,000",94582,,,,Sold,CONTRA COSTA
+214,3650 Cinnamon Ridge Rd,,,San Ramon,,"Dec 3, 2013","$1,283,000",37.767216,-121.91741,CA,Single-Family Home,1283000,,94582,,,,Sold,CONTRA COSTA
+215,207 Arden Ct,3.0,4.0,San Ramon,"2,434 sqft","Dec 2, 2013","$913,000",37.75484,-121.90255,CA,Single-Family Home,913000,"$1,131,000",94582,,,,Sold,CONTRA COSTA
+216,2631 Casella Way,4.5,5.0,San Ramon,"3,985 sqft","Nov 27, 2013","$1,170,000",37.766068,-121.89602,CA,Single-Family Home,1170000,"$1,262,000",94582,,,,Sold,CONTRA COSTA
+217,366 Meadowood Cir,2.0,3.0,San Ramon,"1,311 sqft","Nov 27, 2013","$580,000",37.752464,-121.93816,CA,Condo,580000,"$636,000",94583,,,,Sold,CONTRA COSTA
+218,20 Eagle Lake Pl #22,2.0,3.0,San Ramon,"1,907 sqft","Nov 27, 2013","$685,000",37.783817,-121.9489,CA,Condo,685000,"$769,000",94582,,,,Sold,CONTRA COSTA
+219,3 Juniper Dr,2.5,4.0,San Ramon,"1,915 sqft","Nov 27, 2013","$752,000",37.72699,-121.931274,CA,Townhouse,752000,"$854,000",94583,,,,Sold,CONTRA COSTA
+220,4300 Gardenia St,,,San Ramon,,"Nov 27, 2013","$924,000",37.7611,-121.916084,CA,Unknown,924000,,94582,,,,Sold,CONTRA COSTA
+221,223 Skyline Dr,2.0,3.0,San Ramon,"1,147 sqft","Nov 26, 2013","$470,000",37.77619,-121.9855,CA,Condo,470000,"$523,000",94583,,,,Sold,CONTRA COSTA
+222,2229 Maidenhair Way,2.5,3.0,San Ramon,"1,606 sqft","Nov 26, 2013","$660,000",37.771004,-121.90908,CA,Townhouse,660000,"$774,000",94582,,,,Sold,CONTRA COSTA
+223,1986 Lambeth Way,2.5,3.0,San Ramon,"1,952 sqft","Nov 26, 2013","$810,000",37.752865,-121.89256,CA,Single-Family Home,810000,"$873,000",94582,,,,Sold,CONTRA COSTA
+224,9460 Cherry Hills Ln,2.0,4.0,San Ramon,"1,711 sqft","Nov 26, 2013","$660,000",37.737125,-121.928276,CA,Single-Family Home,660000,"$815,000",94583,,,,Sold,CONTRA COSTA
+225,2767 Dos Rios Dr,2.0,4.0,San Ramon,"1,652 sqft","Nov 26, 2013","$775,000",37.7672,-121.98364,CA,Single-Family Home,775000,"$865,000",94583,,,,Sold,CONTRA COSTA
+226,2861 Aptos Way,2.0,4.0,San Ramon,"1,479 sqft","Nov 26, 2013","$710,000",37.7491,-121.953255,CA,Single-Family Home,710000,"$770,000",94583,,,,Sold,CONTRA COSTA
+227,1086 Vista Pointe Cir,3.0,4.0,San Ramon,"2,143 sqft","Nov 26, 2013","$815,000",37.77131,-121.94913,CA,Townhouse,815000,"$959,000",94582,,,,Sold,CONTRA COSTA
+228,9110 Craydon Cir,1.0,1.0,San Ramon,612 sqft,"Nov 26, 2013","$175,000",37.728703,-121.92317,CA,Condo,175000,"$228,000",94583,,,,Sold,CONTRA COSTA
+229,135 Claremont Crest Ct,2.5,3.0,San Ramon,"2,285 sqft","Nov 26, 2013","$810,000",37.775406,-121.99638,CA,Townhouse,810000,"$907,000",94583,,,,Sold,CONTRA COSTA
+230,5101 Fioli Loop,2.5,3.0,San Ramon,"2,330 sqft","Nov 25, 2013","$690,000",37.771557,-121.90072,CA,Condo,690000,"$830,000",94582,,,,Sold,CONTRA COSTA
+231,9763 Gorham Pl,2.0,3.0,San Ramon,"1,153 sqft","Nov 25, 2013","$615,000",37.74072,-121.950035,CA,Single-Family Home,615000,"$651,000",94583,,,,Sold,CONTRA COSTA
+232,9400 Westside Dr,5.0,5.0,San Ramon,"3,368 sqft","Nov 25, 2013","$1,130,000",37.741055,-121.95841,CA,Single-Family Home,1130000,"$1,339,000",94583,,,,Sold,CONTRA COSTA
+233,4319 Gardenia St,,,San Ramon,,"Nov 25, 2013","$957,000",37.760857,-121.91593,CA,Lot/Land,957000,,94582,,,,Sold,CONTRA COSTA
+234,6210 Lakeview Cir,2.5,3.0,San Ramon,"2,064 sqft","Nov 25, 2013","$632,500",37.78277,-121.94289,CA,Condo,632500,"$759,000",94582,,,,Sold,CONTRA COSTA
+235,335 Dawes Ct,4.5,5.0,San Ramon,"3,891 sqft","Nov 25, 2013","$1,320,000",37.747215,-121.88572,CA,Single-Family Home,1320000,"$1,420,000",94582,,,,Sold,CONTRA COSTA
+236,2863 Enfield St,2.5,4.0,San Ramon,"2,194 sqft","Nov 22, 2013","$877,000",37.75326,-121.89327,CA,Single-Family Home,877000,"$905,000",94582,,,,Sold,CONTRA COSTA
+237,5400 Sherwood Way,3.5,5.0,San Ramon,"4,176 sqft","Nov 22, 2013","$1,245,000",37.750565,-121.90236,CA,Single-Family Home,1245000,"$1,309,000",94582,,,,Sold,CONTRA COSTA
+238,200 Rio Grande Ct,3.0,3.0,San Ramon,"2,804 sqft","Nov 22, 2013","$945,000",37.787334,-121.94059,CA,Townhouse,945000,"$1,140,000",94582,,,,Sold,CONTRA COSTA
+239,6197 Lakeview Cir,2.5,3.0,San Ramon,"1,960 sqft","Nov 22, 2013","$585,000",37.782658,-121.94378,CA,Condo,585000,"$772,000",94582,,,,Sold,CONTRA COSTA
+240,5021 Rashelle Way,3.0,4.0,San Ramon,"3,050 sqft","Nov 22, 2013","$1,105,000",37.768852,-121.9222,CA,Townhouse,1105000,"$1,261,000",94582,,,,Sold,CONTRA COSTA
+241,2552 Basswood Dr,3.0,4.0,San Ramon,"2,420 sqft","Nov 22, 2013","$960,000",37.77048,-121.91652,CA,Townhouse,960000,"$1,003,000",94582,,,,Sold,CONTRA COSTA
+242,137 Black Calla Ct,3.0,4.0,San Ramon,"2,811 sqft","Nov 22, 2013","$1,115,000",37.774,-121.94268,CA,Townhouse,1115000,"$1,217,000",94582,,,,Sold,CONTRA COSTA
+243,225 Reflections Dr #27,2.0,2.0,San Ramon,949 sqft,"Nov 21, 2013","$375,000",37.761852,-121.94865,CA,Condo,375000,"$441,000",94583,,,,Sold,CONTRA COSTA
+244,2120 Canyon Lakes Dr,2.5,3.0,San Ramon,"2,474 sqft","Nov 21, 2013","$802,000",37.7755,-121.95229,CA,Townhouse,802000,"$973,000",94582,,,,Sold,CONTRA COSTA
+245,2128 Feathermint Dr,3.0,4.0,San Ramon,"4,509 sqft","Nov 21, 2013","$1,350,000",37.775497,-121.910866,CA,Single-Family Home,1350000,"$1,332,000",94582,,,,Sold,CONTRA COSTA
+246,2506 Rockhampton Rd,2.5,3.0,San Ramon,"2,028 sqft","Nov 21, 2013","$644,500",37.7629,-121.9057,CA,Condo,644500,"$744,000",94582,,,,Sold,CONTRA COSTA
+247,4308 Gardenia St,,,San Ramon,,"Nov 20, 2013","$877,500",37.7611,-121.916084,CA,Single-Family Home,877500,,94582,,,,Sold,CONTRA COSTA
+248,1498 Asterbell Dr,2.5,3.0,San Ramon,"2,406 sqft","Nov 20, 2013","$930,000",37.781513,-121.92047,CA,Single-Family Home,930000,"$965,000",94582,,,,Sold,CONTRA COSTA
+249,212 Plumpointe Ln,2.5,3.0,San Ramon,"1,488 sqft","Nov 20, 2013","$625,000",37.789135,-121.92475,CA,Condo,625000,"$678,000",94582,,,,Sold,CONTRA COSTA
+250,1143 Hawkshead Cir,,,San Ramon,,"Nov 20, 2013","$1,611,500",37.73979,-121.98591,CA,Lot/Land,1611500,,94583,,,,Sold,CONTRA COSTA
+251,6078 Tigerside Way,3.0,5.0,San Ramon,"2,957 sqft","Nov 20, 2013","$1,170,000",37.776463,-121.931725,CA,Townhouse,1170000,"$1,225,000",94582,,,,Sold,CONTRA COSTA
+252,3658 Cinnamon Ridge Rd,2.5,3.0,San Ramon,"2,501 sqft","Nov 20, 2013","$1,030,000",37.76753,-121.917854,CA,Townhouse,1030000,"$1,017,000",94582,,,,Sold,CONTRA COSTA
+253,197 Copper Ridge Rd #54,2.0,2.0,San Ramon,"1,079 sqft","Nov 19, 2013","$375,000",37.769142,-121.94673,CA,Condo,375000,"$498,000",94582,,,,Sold,CONTRA COSTA
+254,3690 Cinnamon Ridge Rd,,,San Ramon,,"Nov 19, 2013","$1,072,000",37.76753,-121.917854,CA,Unknown,1072000,,94582,,,,Sold,CONTRA COSTA
+255,9811 Broadmoor Dr,2.0,4.0,San Ramon,"1,383 sqft","Nov 19, 2013","$530,000",37.7424,-121.94489,CA,Single-Family Home,530000,"$724,000",94583,,,,Sold,CONTRA COSTA
+256,212 Norris Canyon Pl #D,2.0,2.0,San Ramon,"1,179 sqft","Nov 19, 2013","$436,500",37.777546,-121.96117,CA,Condo,436500,"$461,000",94583,,,,Sold,CONTRA COSTA
+257,12224 Toluca Dr,3.0,4.0,San Ramon,"2,720 sqft","Nov 19, 2013","$920,000",37.75412,-121.94179,CA,Single-Family Home,920000,"$963,000",94583,,,,Sold,CONTRA COSTA
+258,4151 Terra Alta Dr,2.0,3.0,San Ramon,"2,160 sqft","Nov 19, 2013","$925,500",37.755592,-121.93565,CA,Townhouse,925500,"$1,031,000",94582,,,,Sold,CONTRA COSTA
+259,2208 Rosemount Ln,4.0,5.0,San Ramon,"3,387 sqft","Nov 19, 2013","$1,100,000",37.758022,-121.883865,CA,Single-Family Home,1100000,"$1,172,000",94582,,,,Sold,CONTRA COSTA
+260,412 Sprucemoor Ct,,,San Ramon,,"Nov 18, 2013","$1,271,000",37.76821,-121.91623,CA,Single-Family Home,1271000,,94582,,,,Sold,CONTRA COSTA
+261,400 Cranleigh Ct,5.5,4.0,San Ramon,"5,312 sqft","Nov 18, 2013","$2,030,000",37.746456,-121.9867,CA,Townhouse,2030000,"$2,058,000",94583,,,,Sold,CONTRA COSTA
+262,4075 W Lakeshore Dr,2.5,2.0,San Ramon,"1,769 sqft","Nov 18, 2013","$690,000",37.786026,-121.946686,CA,Condo,690000,"$761,000",94582,,,,Sold,CONTRA COSTA
+263,216 Riverland Ct,3.0,5.0,San Ramon,"3,147 sqft","Nov 18, 2013","$1,020,000",37.762524,-121.89673,CA,Single-Family Home,1020000,"$1,081,000",94582,,,,Sold,CONTRA COSTA
+264,701 Winterside Cir,2.5,2.0,San Ramon,"1,440 sqft","Nov 18, 2013","$565,000",37.759514,-121.9486,CA,Townhouse,565000,"$665,000",94583,,,,Sold,CONTRA COSTA
+265,4530 Lilac Ridge Rd,4.5,4.0,San Ramon,"5,622 sqft","Nov 15, 2013","$1,960,000",37.781277,-121.93766,CA,Townhouse,1960000,"$1,901,000",94582,,,,Sold,CONTRA COSTA
+266,66 Mesa Vista Ct,2.0,3.0,San Ramon,"1,713 sqft","Nov 15, 2013","$706,500",37.76539,-121.974266,CA,Townhouse,706500,"$796,000",94583,,,,Sold,CONTRA COSTA
+267,4303 Gardenia St,,,San Ramon,,"Nov 15, 2013","$788,000",37.760857,-121.91593,CA,Single-Family Home,788000,,94582,,,,Sold,CONTRA COSTA
+268,410 Marble Canyon Ct,2.0,3.0,San Ramon,"2,290 sqft","Nov 15, 2013","$850,000",37.79073,-121.94496,CA,Townhouse,850000,"$998,000",94582,,,,Sold,CONTRA COSTA
+269,400 Sprucemoor Ct,,,San Ramon,,"Nov 15, 2013","$1,103,000",37.76821,-121.91623,CA,Single-Family Home,1103000,,94582,,,,Sold,CONTRA COSTA
+270,2270 Bayleaf Dr,,,San Ramon,,"Nov 15, 2013","$1,080,000",37.76779,-121.91317,CA,Single-Family Home,1080000,,94582,,,,Sold,CONTRA COSTA
+271,131 Mavis Pl,2.5,4.0,San Ramon,"1,886 sqft","Nov 14, 2013","$757,500",37.750362,-121.946846,CA,Single-Family Home,757500,"$851,000",94583,,,,Sold,CONTRA COSTA
+272,132 Geranium Ct,2.5,3.0,San Ramon,"2,379 sqft","Nov 14, 2013","$915,000",37.773193,-121.90771,CA,Single-Family Home,915000,"$973,000",94582,,,,Sold,CONTRA COSTA
+273,158 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Nov 14, 2013","$297,000",37.7687,-121.94077,CA,Condo,297000,"$358,000",94582,,,,Sold,CONTRA COSTA
+274,3642 Cinnamon Ridge Rd,,,San Ramon,,"Nov 14, 2013","$1,091,500",37.76713,-121.91735,CA,Single-Family Home,1091500,,94582,,,,Sold,CONTRA COSTA
+275,6078 Dalton Way,2.5,3.0,San Ramon,"1,859 sqft","Nov 14, 2013","$770,000",37.748974,-121.899605,CA,Single-Family Home,770000,"$865,000",94582,,,,Sold,CONTRA COSTA
+276,8 Metairie Ct,2.0,3.0,San Ramon,"1,440 sqft","Nov 14, 2013","$705,000",37.731163,-121.93448,CA,Single-Family Home,705000,"$695,000",94583,,,,Sold,CONTRA COSTA
+277,7668 Stoneleaf Rd,2.5,2.0,San Ramon,"1,402 sqft","Nov 14, 2013","$625,000",37.764706,-121.91921,CA,Condo,625000,"$657,000",94582,,,,Sold,CONTRA COSTA
+278,261 S Overlook Dr #150,2.0,2.0,San Ramon,"1,079 sqft","Nov 14, 2013","$390,000",37.76781,-121.94573,CA,Condo,390000,"$549,000",94582,,,,Sold,CONTRA COSTA
+279,7618 Corrinne Pl,2.0,3.0,San Ramon,"1,602 sqft","Nov 13, 2013","$625,000",37.724262,-121.939255,CA,Single-Family Home,625000,"$736,000",94583,,,,Sold,CONTRA COSTA
+280,221 Forest Creek Ln,2.5,4.0,San Ramon,"1,908 sqft","Nov 13, 2013","$645,000",37.77091,-121.99085,CA,Condo,645000,"$735,000",94583,,,,Sold,CONTRA COSTA
+281,9967 Mangos Dr,2.0,3.0,San Ramon,"1,959 sqft","Nov 13, 2013","$798,000",37.750816,-121.944084,CA,Single-Family Home,798000,"$856,000",94583,,,,Sold,CONTRA COSTA
+282,600 Abrigo Ct,2.5,4.0,San Ramon,"1,731 sqft","Nov 13, 2013","$655,000",37.769142,-121.98751,CA,Condo,655000,"$683,000",94583,,,,Sold,CONTRA COSTA
+283,7461 Sedgefield Ave,2.0,3.0,San Ramon,"1,763 sqft","Nov 13, 2013","$685,000",37.733276,-121.93941,CA,Single-Family Home,685000,"$793,000",94583,,,,Sold,CONTRA COSTA
+284,2937 Marlboro Way,2.5,4.0,San Ramon,"2,028 sqft","Nov 12, 2013","$797,000",37.749928,-121.95111,CA,Single-Family Home,797000,"$849,000",94583,,,,Sold,CONTRA COSTA
+285,1165 S Chanterella Dr,2.5,3.0,San Ramon,"1,971 sqft","Nov 12, 2013","$870,000",37.768684,-121.939865,CA,Townhouse,870000,"$946,000",94582,,,,Sold,CONTRA COSTA
+286,3639 Cinnamon Ridge Rd,,,San Ramon,,"Nov 12, 2013","$1,036,500",37.766964,-121.917625,CA,Single-Family Home,1036500,,94582,,,,Sold,CONTRA COSTA
+287,42 Winterleaf Ct,2.5,3.0,San Ramon,"2,056 sqft","Nov 12, 2013","$745,000",37.759956,-121.950226,CA,Townhouse,745000,"$823,000",94583,,,,Sold,CONTRA COSTA
+288,136 Victory Cir,3.0,4.0,San Ramon,"2,359 sqft","Nov 8, 2013","$890,000",37.769547,-121.943214,CA,Townhouse,890000,"$1,004,000",94582,,,,Sold,CONTRA COSTA
+289,9806 Davona Dr,2.0,4.0,San Ramon,"1,795 sqft","Nov 8, 2013","$735,000",37.744476,-121.95305,CA,Single-Family Home,735000,"$809,000",94583,,,,Sold,CONTRA COSTA
+290,119 Avocado Ct,2.0,4.0,San Ramon,"1,611 sqft","Nov 8, 2013","$633,500",37.734493,-121.94288,CA,Single-Family Home,633500,"$776,000",94583,,,,Sold,CONTRA COSTA
+291,2828 Stratford Dr,2.0,4.0,San Ramon,"1,508 sqft","Nov 8, 2013","$625,000",37.736626,-121.94835,CA,Single-Family Home,625000,"$744,000",94583,,,,Sold,CONTRA COSTA
+292,8012 Briar Oaks Dr,2.5,3.0,San Ramon,"2,201 sqft","Nov 8, 2013","$860,000",37.77441,-121.917534,CA,Single-Family Home,860000,"$950,000",94582,,,,Sold,CONTRA COSTA
+293,164 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Nov 8, 2013","$285,000",37.76877,-121.9408,CA,Condo,285000,"$357,000",94582,,,,Sold,CONTRA COSTA
+294,3275 Montevideo Dr,3.0,4.0,San Ramon,"2,448 sqft","Nov 8, 2013","$855,000",37.752686,-121.94177,CA,Single-Family Home,855000,"$942,000",94583,,,,Sold,CONTRA COSTA
+295,1910 Whitetail Ln,1.0,2.0,San Ramon,879 sqft,"Nov 8, 2013","$356,500",37.743366,-121.9574,CA,Condo,356500,"$410,000",94583,,,,Sold,CONTRA COSTA
+296,30 Cree Ct,4.0,6.0,San Ramon,"3,509 sqft","Nov 8, 2013","$1,150,000",37.751926,-121.96775,CA,Townhouse,1150000,"$1,261,000",94583,,,,Sold,CONTRA COSTA
+297,2153 Watermill Rd,3.0,4.0,San Ramon,"2,140 sqft","Nov 8, 2013","$645,000",37.76217,-121.90709,CA,Condo,645000,"$798,000",94582,,,,Sold,CONTRA COSTA
+298,2779 Camino Venadillo,3.0,4.0,San Ramon,"2,518 sqft","Nov 8, 2013","$892,000",37.76676,-121.99108,CA,Townhouse,892000,"$1,003,000",94583,,,,Sold,CONTRA COSTA
+299,3261 Ashbourne Cir,3.5,4.0,San Ramon,"4,045 sqft","Nov 7, 2013","$1,435,000",37.74328,-121.98965,CA,Townhouse,1435000,"$1,682,000",94583,,,,Sold,CONTRA COSTA
+300,4324 Gardenia St,,,San Ramon,,"Nov 7, 2013","$885,000",37.7611,-121.916084,CA,Single-Family Home,885000,,94582,,,,Sold,CONTRA COSTA
+301,3392 Nutmeg Park St,,,San Ramon,,"Nov 7, 2013","$1,196,500",37.76729,-121.91813,CA,Single-Family Home,1196500,,94582,,,,Sold,CONTRA COSTA
+302,2911 Pine Valley Rd,2.0,3.0,San Ramon,"1,885 sqft","Nov 6, 2013","$615,000",37.738655,-121.946266,CA,Single-Family Home,615000,"$754,000",94583,,,,Sold,CONTRA COSTA
+303,4032 Marblehead Dr,3.0,3.0,San Ramon,"2,879 sqft","Nov 6, 2013","$1,100,000",37.74901,-121.93195,CA,Townhouse,1100000,"$1,143,000",94582,,,,Sold,CONTRA COSTA
+304,4269 Lilac Ridge Rd,3.5,4.0,San Ramon,"3,144 sqft","Nov 6, 2013","$1,350,000",37.78108,-121.94487,CA,Townhouse,1350000,"$1,407,000",94582,,,,Sold,CONTRA COSTA
+305,704 Lakemont Pl #5,2.0,3.0,San Ramon,"1,932 sqft","Nov 5, 2013","$623,000",37.782204,-121.95044,CA,Condo,623000,"$736,000",94582,,,,Sold,CONTRA COSTA
+306,2860 Sombrero Cir,2.0,4.0,San Ramon,"1,822 sqft","Nov 5, 2013","$706,000",37.7563,-121.96463,CA,Townhouse,706000,"$830,000",94583,,,,Sold,CONTRA COSTA
+307,2111 Arlington Way,2.5,3.0,San Ramon,"1,859 sqft","Nov 5, 2013","$800,000",37.751293,-121.892555,CA,Single-Family Home,800000,"$835,000",94582,,,,Sold,CONTRA COSTA
+308,6000 Dalton Way,3.0,4.0,San Ramon,"2,062 sqft","Nov 5, 2013","$820,000",37.750565,-121.90009,CA,Single-Family Home,820000,"$884,000",94582,,,,Sold,CONTRA COSTA
+309,152 Eastridge Dr,1.0,2.0,San Ramon,985 sqft,"Nov 5, 2013","$365,000",37.768555,-121.94077,CA,Condo,365000,"$446,000",94582,,,,Sold,CONTRA COSTA
+310,5762 Wells Ln,4.5,6.0,San Ramon,"3,953 sqft","Nov 5, 2013","$1,255,000",37.778027,-121.89482,CA,Single-Family Home,1255000,"$1,283,000",94582,,,,Sold,CONTRA COSTA
+311,918 Renada Pl,2.0,4.0,San Ramon,"1,883 sqft","Nov 5, 2013","$663,000",37.749557,-121.93993,CA,Single-Family Home,663000,"$832,000",94583,,,,Sold,CONTRA COSTA
+312,111 Shadowhill Cir,2.5,4.0,San Ramon,"1,995 sqft","Nov 5, 2013","$720,000",37.774193,-121.992714,CA,Condo,720000,"$767,000",94583,,,,Sold,CONTRA COSTA
+313,1001 Vista Pointe Cir,2.5,3.0,San Ramon,"1,523 sqft","Nov 1, 2013","$740,000",37.77308,-121.94938,CA,Townhouse,740000,"$779,000",94582,,,,Sold,CONTRA COSTA
+314,69 Elmwood Dr,2.5,3.0,San Ramon,"1,772 sqft","Oct 31, 2013","$715,000",37.72586,-121.93096,CA,Townhouse,715000,"$807,000",94583,,,,Sold,CONTRA COSTA
+315,2812 Morgan Dr,3.0,3.0,San Ramon,"2,776 sqft","Oct 31, 2013","$925,000",37.75193,-121.96651,CA,Townhouse,925000,"$1,065,000",94583,,,,Sold,CONTRA COSTA
+316,4316 Gardenia St,,,San Ramon,,"Oct 31, 2013","$909,000",37.7611,-121.916084,CA,Single-Family Home,909000,,94582,,,,Sold,CONTRA COSTA
+317,10025 Santa Rosa Ave,2.0,3.0,San Ramon,"1,593 sqft","Oct 31, 2013","$625,000",37.748886,-121.9383,CA,Single-Family Home,625000,"$755,000",94583,,,,Sold,CONTRA COSTA
+318,9468 Thunderbird Pl,3.0,4.0,San Ramon,"3,094 sqft","Oct 31, 2013","$1,024,000",37.73588,-121.9318,CA,Single-Family Home,1024000,"$1,018,000",94583,,,,Sold,CONTRA COSTA
+319,2668 Paige Way,3.0,4.0,San Ramon,"3,364 sqft","Oct 31, 2013","$1,050,000",37.754177,-121.8898,CA,Single-Family Home,1050000,"$1,179,000",94582,,,,Sold,CONTRA COSTA
+320,4137 Lilac Ridge Rd,4.5,6.0,San Ramon,"3,711 sqft","Oct 31, 2013","$1,455,000",37.778786,-121.946396,CA,Townhouse,1455000,"$1,552,000",94582,,,,Sold,CONTRA COSTA
+321,231 Gale Ridge Ct,3.0,4.0,San Ramon,"3,171 sqft","Oct 31, 2013","$1,299,000",37.76634,-121.93124,CA,Townhouse,1299000,"$1,361,000",94582,,,,Sold,CONTRA COSTA
+322,61 Eagle Lake Ln #24,2.0,3.0,San Ramon,"2,018 sqft","Oct 31, 2013","$685,000",37.78483,-121.94882,CA,Condo,685000,"$755,000",94582,,,,Sold,CONTRA COSTA
+323,51 Centennial Way,2.5,4.0,San Ramon,"2,087 sqft","Oct 30, 2013","$850,000",37.744865,-121.95962,CA,Townhouse,850000,"$900,000",94583,,,,Sold,CONTRA COSTA
+324,803 Destiny Ln,2.5,3.0,San Ramon,"1,325 sqft","Oct 30, 2013","$545,000",37.778908,-121.986336,CA,Condo,545000,"$593,000",94583,,,,Sold,CONTRA COSTA
+325,4960 Ivy Leaf Spgs,3.0,3.0,San Ramon,"2,158 sqft","Oct 30, 2013","$685,000",37.76025,-121.914764,CA,Condo,685000,"$950,000",94582,,,,Sold,CONTRA COSTA
+326,2664 Celaya Cir,3.0,4.0,San Ramon,"2,586 sqft","Oct 29, 2013","$802,500",37.76555,-121.9797,CA,Townhouse,802500,"$978,000",94583,,,,Sold,CONTRA COSTA
+327,2500 Mclaren Ln,2.5,4.0,San Ramon,"1,961 sqft","Oct 29, 2013","$829,000",37.7592,-121.90445,CA,Townhouse,829000,"$889,000",94582,,,,Sold,CONTRA COSTA
+328,65 Ayamonte Ct,2.0,3.0,San Ramon,"1,587 sqft","Oct 28, 2013","$625,000",37.763657,-121.97363,CA,Townhouse,625000,"$737,000",94583,,,,Sold,CONTRA COSTA
+329,3001 Tamburlane Dr,4.5,5.0,San Ramon,"4,610 sqft","Oct 28, 2013","$1,135,000",37.762436,-121.894554,CA,Single-Family Home,1135000,"$1,325,000",94582,,,,Sold,CONTRA COSTA
+330,236 Milo Pl,3.0,5.0,San Ramon,"2,228 sqft","Oct 28, 2013","$805,000",37.74488,-121.95087,CA,Single-Family Home,805000,"$874,000",94583,,,,Sold,CONTRA COSTA
+331,6337 Byron Ln,3.0,3.0,San Ramon,"2,141 sqft","Oct 28, 2013","$690,000",37.749184,-121.89827,CA,Condo,690000,"$871,000",94582,,,,Sold,CONTRA COSTA
+332,2554 Kilpatrick Ct,3.0,5.0,San Ramon,"2,368 sqft","Oct 25, 2013","$790,000",37.772675,-121.98608,CA,Single-Family Home,790000,"$1,081,000",94583,,,,Sold,CONTRA COSTA
+333,2801 Bethany Rd,4.0,5.0,San Ramon,"3,824 sqft","Oct 25, 2013","$1,110,000",37.757656,-121.88722,CA,Single-Family Home,1110000,"$1,271,000",94582,,,,Sold,CONTRA COSTA
+334,443 Pine Ridge Dr #225,2.0,2.0,San Ramon,"1,079 sqft","Oct 25, 2013","$370,000",37.767155,-121.94457,CA,Condo,370000,"$498,000",94582,,,,Sold,CONTRA COSTA
+335,3284 Ashbourne Cir,,,San Ramon,,"Oct 25, 2013","$1,632,500",37.744373,-121.98951,CA,Lot/Land,1632500,,94583,,,,Sold,CONTRA COSTA
+336,3378 Nutmeg Park St,,,San Ramon,,"Oct 25, 2013","$1,040,000",37.767284,-121.91813,CA,Single-Family Home,1040000,,94582,,,,Sold,CONTRA COSTA
+337,8985 Alcosta Blvd #175,2.5,2.0,San Ramon,"1,248 sqft","Oct 25, 2013","$321,500",37.72547,-121.93591,CA,Condo,321500,"$415,000",94583,,,,Sold,CONTRA COSTA
+338,2460 Canyon Lakes Dr,2.5,3.0,San Ramon,"1,814 sqft","Oct 25, 2013","$765,000",37.77452,-121.95356,CA,Townhouse,765000,"$854,000",94582,,,,Sold,CONTRA COSTA
+339,222 Weymouth Ct,3.0,5.0,San Ramon,"2,229 sqft","Oct 25, 2013","$781,500",37.74808,-121.94965,CA,Single-Family Home,781500,"$921,000",94583,,,,Sold,CONTRA COSTA
+340,8975 Alcosta Blvd #142,1.0,1.0,San Ramon,726 sqft,"Oct 25, 2013","$205,000",37.724854,-121.93701,CA,Condo,205000,"$243,000",94583,,,,Sold,CONTRA COSTA
+341,32 Mesa Vista Ct,2.5,3.0,San Ramon,"2,718 sqft","Oct 24, 2013","$896,000",37.764595,-121.974594,CA,Townhouse,896000,"$1,004,000",94583,,,,Sold,CONTRA COSTA
+342,45 Fircrest Ct,2.0,2.0,San Ramon,"1,165 sqft","Oct 24, 2013","$551,500",37.730793,-121.92647,CA,Single-Family Home,551500,"$576,000",94583,,,,Sold,CONTRA COSTA
+343,12999 Hawkins Dr,2.0,4.0,San Ramon,"2,308 sqft","Oct 23, 2013","$812,500",37.749428,-121.9624,CA,Townhouse,812500,"$948,000",94583,,,,Sold,CONTRA COSTA
+344,8975 Alcosta Blvd #165,2.0,2.0,San Ramon,"1,105 sqft","Oct 23, 2013","$325,000",37.72545,-121.93528,CA,Condo,325000,"$386,000",94583,,,,Sold,CONTRA COSTA
+345,7315 Briza Loop,2.5,2.0,San Ramon,"1,351 sqft","Oct 22, 2013","$550,000",37.777367,-121.92949,CA,Condo,550000,"$698,000",94582,,,,Sold,CONTRA COSTA
+346,562 La Copita Ct,1.5,3.0,San Ramon,"1,200 sqft","Oct 22, 2013","$415,000",37.771606,-121.97987,CA,Condo,415000,"$467,000",94583,,,,Sold,CONTRA COSTA
+347,1137 Hawkshead Cir,,,San Ramon,,"Oct 22, 2013","$1,474,500",37.739803,-121.98558,CA,Multi-Family,1474500,,94583,,,,Sold,CONTRA COSTA
+348,801 Willow Pond Ct,2.5,4.0,San Ramon,"1,904 sqft","Oct 22, 2013","$665,000",37.784077,-121.927055,CA,Condo,665000,"$776,000",94582,,,,Sold,CONTRA COSTA
+349,10015 Albion Rd,2.5,3.0,San Ramon,"2,028 sqft","Oct 22, 2013","$640,000",37.76504,-121.90735,CA,Condo,640000,"$753,000",94582,,,,Sold,CONTRA COSTA
+350,305 Cardona Cir,3.0,3.0,San Ramon,"2,585 sqft","Oct 21, 2013","$880,000",37.761703,-121.969925,CA,Townhouse,880000,"$980,000",94583,,,,Sold,CONTRA COSTA
+351,316 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Oct 21, 2013","$285,000",37.769733,-121.942406,CA,Condo,285000,"$327,000",94582,,,,Sold,CONTRA COSTA
+352,2540 Basswood Dr,2.0,3.0,San Ramon,"1,731 sqft","Oct 18, 2013","$760,000",37.770386,-121.91622,CA,Townhouse,760000,"$821,000",94582,,,,Sold,CONTRA COSTA
+353,9085 Alcosta Blvd #412,1.0,2.0,San Ramon,952 sqft,"Oct 18, 2013","$261,000",37.72785,-121.93504,CA,Condo,261000,"$340,000",94583,,,,Sold,CONTRA COSTA
+354,9851 Broadmoor Dr,2.0,4.0,San Ramon,"1,383 sqft","Oct 18, 2013","$682,000",37.744442,-121.94681,CA,Single-Family Home,682000,"$727,000",94583,,,,Sold,CONTRA COSTA
+355,311 Salem Ct,3.0,4.0,San Ramon,"2,448 sqft","Oct 18, 2013","$875,000",37.752254,-121.95261,CA,Single-Family Home,875000,"$1,013,000",94583,,,,Sold,CONTRA COSTA
+356,3351 Roma Pl,2.5,4.0,San Ramon,"2,139 sqft","Oct 18, 2013","$719,000",37.750134,-121.93723,CA,Single-Family Home,719000,"$860,000",94583,,,,Sold,CONTRA COSTA
+357,90 Casa Grande Pl,1.0,2.0,San Ramon,"1,035 sqft","Oct 17, 2013","$490,000",37.744125,-121.938934,CA,Single-Family Home,490000,"$560,000",94583,,,,Sold,CONTRA COSTA
+358,450 Bollinger Canyon Ln #192,1.0,1.0,San Ramon,657 sqft,"Oct 17, 2013","$260,000",37.772263,-121.94341,CA,Condo,260000,"$329,000",94582,,,,Sold,CONTRA COSTA
+359,3344 Chartwell St,3.5,4.0,San Ramon,"1,965 sqft","Oct 17, 2013","$795,000",37.77473,-121.98651,CA,Townhouse,795000,"$931,000",94583,,,,Sold,CONTRA COSTA
+360,1836 Hollyview Dr,3.0,4.0,San Ramon,"2,790 sqft","Oct 16, 2013","$1,026,000",37.777927,-121.918915,CA,Single-Family Home,1026000,"$1,091,000",94582,,,,Sold,CONTRA COSTA
+361,35 Seneca Ln,3.0,4.0,San Ramon,"2,339 sqft","Oct 16, 2013","$861,000",37.75684,-121.97463,CA,Townhouse,861000,"$1,012,000",94583,,,,Sold,CONTRA COSTA
+362,144 Dogwood Pl,2.0,2.0,San Ramon,960 sqft,"Oct 16, 2013","$460,000",37.730503,-121.9252,CA,Single-Family Home,460000,"$544,000",94583,,,,Sold,CONTRA COSTA
+363,805 Watson Canyon Ct #160,1.0,1.0,San Ramon,657 sqft,"Oct 16, 2013","$270,000",37.77752,-121.94793,CA,Condo,270000,"$338,000",94582,,,,Sold,CONTRA COSTA
+364,706 Birdwood Ct,2.5,3.0,San Ramon,"1,949 sqft","Oct 15, 2013","$782,000",37.76399,-121.90184,CA,Single-Family Home,782000,"$836,000",94582,,,,Sold,CONTRA COSTA
+365,5286 Fioli Loop,2.5,3.0,San Ramon,"2,050 sqft","Oct 15, 2013","$645,000",37.770554,-121.89943,CA,Condo,645000,"$775,000",94582,,,,Sold,CONTRA COSTA
+366,236 Eastridge Dr,2.0,2.0,San Ramon,"1,074 sqft","Oct 11, 2013","$420,000",37.76925,-121.941635,CA,Condo,420000,"$488,000",94582,,,,Sold,CONTRA COSTA
+367,342 S Overlook Dr #194,2.0,2.0,San Ramon,"1,079 sqft","Oct 11, 2013","$415,000",37.767048,-121.94589,CA,Condo,415000,"$532,000",94582,,,,Sold,CONTRA COSTA
+368,2225 Watermill Rd,3.0,4.0,San Ramon,"2,140 sqft","Oct 11, 2013","$660,000",37.76077,-121.90751,CA,Condo,660000,"$798,000",94582,,,,Sold,CONTRA COSTA
+369,2009 Bayporte Way,3.0,3.0,San Ramon,"2,144 sqft","Oct 11, 2013","$854,500",37.772038,-121.91807,CA,Townhouse,854500,"$952,000",94582,,,,Sold,CONTRA COSTA
+370,906 Vista Pointe Dr,2.5,3.0,San Ramon,"2,200 sqft","Oct 11, 2013","$800,000",37.77267,-121.94936,CA,Townhouse,800000,"$912,000",94582,,,,Sold,CONTRA COSTA
+371,2558 Basswood Dr,2.5,3.0,San Ramon,"2,313 sqft","Oct 11, 2013","$969,000",37.77053,-121.916664,CA,Townhouse,969000,"$965,000",94582,,,,Sold,CONTRA COSTA
+372,5721 Wells Ln,4.5,6.0,San Ramon,"3,953 sqft","Oct 11, 2013","$1,145,000",37.777737,-121.89594,CA,Single-Family Home,1145000,"$1,235,000",94582,,,,Sold,CONTRA COSTA
+373,6110 Lakeview Cir,2.5,3.0,San Ramon,"2,452 sqft","Oct 10, 2013","$788,000",37.78222,-121.946754,CA,Townhouse,788000,"$1,004,000",94582,,,,Sold,CONTRA COSTA
+374,436 Melrose Ct,2.5,4.0,San Ramon,"4,509 sqft","Oct 10, 2013","$1,330,000",37.776985,-121.911316,CA,Single-Family Home,1330000,"$1,391,000",94582,,,,Sold,CONTRA COSTA
+375,2235 S Donovan Way,3.0,4.0,San Ramon,"2,027 sqft","Oct 10, 2013","$777,500",37.76327,-121.895584,CA,Townhouse,777500,"$911,000",94582,,,,Sold,CONTRA COSTA
+376,11 Lakeridge Ct,3.0,3.0,San Ramon,"1,488 sqft","Oct 9, 2013","$651,000",37.785774,-121.95019,CA,Townhouse,651000,"$753,000",94582,,,,Sold,CONTRA COSTA
+377,152 Summerset Ct,3.0,4.0,San Ramon,"2,348 sqft","Oct 9, 2013","$900,000",37.75798,-121.941605,CA,Townhouse,900000,"$984,000",94583,,,,Sold,CONTRA COSTA
+378,3775 Crow Canyon Rd,2.5,2.0,San Ramon,"1,232 sqft","Oct 8, 2013","$415,000",37.785187,-121.95144,CA,Condo,415000,"$533,000",94582,,,,Sold,CONTRA COSTA
+379,224 Eastridge Dr,2.0,2.0,San Ramon,"1,058 sqft","Oct 8, 2013","$375,500",37.76938,-121.94163,CA,Condo,375500,"$490,000",94582,,,,Sold,CONTRA COSTA
+380,4749 Malayan St,2.5,3.0,San Ramon,"1,930 sqft","Oct 8, 2013","$730,000",37.76234,-121.917305,CA,Townhouse,730000,"$839,000",94582,,,,Sold,CONTRA COSTA
+381,1441 Stoney Creek Dr,3.0,4.0,San Ramon,"2,407 sqft","Oct 8, 2013","$780,000",37.730793,-121.91271,CA,Single-Family Home,780000,"$999,000",94582,,,,Sold,CONTRA COSTA
+382,7331 Briza Loop,2.5,3.0,San Ramon,"1,419 sqft","Oct 7, 2013","$645,000",37.777134,-121.92974,CA,Condo,645000,"$726,000",94582,,,,Sold,CONTRA COSTA
+383,1306 Cedarwood Loop,2.5,4.0,San Ramon,"1,659 sqft","Oct 7, 2013","$685,000",37.76973,-121.92121,CA,Condo,685000,"$766,000",94582,,,,Sold,CONTRA COSTA
+384,7405 Hillsboro Ave,2.0,3.0,San Ramon,"1,500 sqft","Oct 7, 2013","$550,000",37.735107,-121.937004,CA,Single-Family Home,550000,"$770,000",94583,,,,Sold,CONTRA COSTA
+385,6981 Wisteria St,2.0,3.0,San Ramon,"1,310 sqft","Oct 4, 2013","$457,500",37.72913,-121.92531,CA,Single-Family Home,457500,"$623,000",94583,,,,Sold,CONTRA COSTA
+386,3185 Ashbourne Cir,,,San Ramon,,"Oct 4, 2013","$1,609,500",37.743515,-121.99271,CA,Lot/Land,1609500,,94583,,,,Sold,CONTRA COSTA
+387,38 Longhorn Ct,3.0,3.0,San Ramon,"1,972 sqft","Oct 4, 2013","$709,000",37.753613,-121.96353,CA,Townhouse,709000,"$815,000",94583,,,,Sold,CONTRA COSTA
+388,117 Claremont Crest Ct,2.5,4.0,San Ramon,"2,106 sqft","Oct 4, 2013","$715,000",37.77505,-121.995255,CA,Townhouse,715000,"$879,000",94583,,,,Sold,CONTRA COSTA
+389,8384 Saturn Park Dr,2.5,3.0,San Ramon,"2,243 sqft","Oct 4, 2013","$846,500",37.77257,-121.91365,CA,Single-Family Home,846500,"$925,000",94582,,,,Sold,CONTRA COSTA
+390,3381 Nutmeg Park St,,,San Ramon,,"Oct 4, 2013","$1,119,000",37.76737,-121.918465,CA,Single-Family Home,1119000,,94582,,,,Sold,CONTRA COSTA
+391,2849 Fountainhead Dr,1.5,2.0,San Ramon,954 sqft,"Oct 3, 2013","$380,000",37.769367,-121.98918,CA,Condo,380000,"$449,000",94583,,,,Sold,CONTRA COSTA
+392,414 Santander Dr,2.0,3.0,San Ramon,"1,587 sqft","Oct 3, 2013","$660,000",37.76164,-121.97212,CA,Townhouse,660000,"$767,000",94583,,,,Sold,CONTRA COSTA
+393,220 Plumpointe Ln,2.5,2.0,San Ramon,"1,356 sqft","Oct 2, 2013","$580,000",37.78942,-121.924576,CA,Condo,580000,"$640,000",94582,,,,Sold,CONTRA COSTA
+394,1000 Quartermaster Canyon Rd,3.0,4.0,San Ramon,"2,758 sqft","Oct 2, 2013","$900,000",37.786396,-121.94116,CA,Townhouse,900000,"$1,090,000",94582,,,,Sold,CONTRA COSTA
+395,6214 Lakeview Cir,2.5,2.0,San Ramon,"1,793 sqft","Oct 2, 2013","$600,000",37.7831,-121.94259,CA,Condo,600000,"$705,000",94582,,,,Sold,CONTRA COSTA
+396,9108 Craydon Cir,1.0,1.0,San Ramon,612 sqft,"Oct 2, 2013","$175,000",37.72864,-121.92314,CA,Condo,175000,"$232,000",94583,,,,Sold,CONTRA COSTA
+397,9085 Alcosta Blvd #341,1.0,2.0,San Ramon,"1,039 sqft","Oct 2, 2013","$285,000",37.72878,-121.9346,CA,Condo,285000,"$351,000",94583,,,,Sold,CONTRA COSTA
+398,7085 Briza Loop,3.0,3.0,San Ramon,"1,684 sqft","Oct 1, 2013","$712,500",37.77495,-121.93051,CA,Condo,712500,"$777,000",94582,,,,Sold,CONTRA COSTA
+399,6757 Aberdale Cir,3.0,4.0,San Ramon,"2,062 sqft","Oct 1, 2013","$840,000",37.74988,-121.90119,CA,Single-Family Home,840000,"$919,000",94582,,,,Sold,CONTRA COSTA
+400,430 Sprucemoor Ct,,,San Ramon,,"Sep 30, 2013","$989,000",37.768433,-121.91599,CA,Single-Family Home,989000,,94582,,,,Sold,CONTRA COSTA
+401,442 Sprucemoor Ct,,,San Ramon,,"Sep 30, 2013","$1,077,500",37.76845,-121.91597,CA,Single-Family Home,1077500,,94582,,,,Sold,CONTRA COSTA
+402,8075 Briar Oaks Dr,3.0,4.0,San Ramon,"2,543 sqft","Sep 30, 2013","$880,000",37.775223,-121.91587,CA,Single-Family Home,880000,"$1,074,000",94582,,,,Sold,CONTRA COSTA
+403,207 Ramon Pl,2.0,3.0,San Ramon,"1,885 sqft","Sep 30, 2013","$712,500",37.739838,-121.94201,CA,Single-Family Home,712500,"$775,000",94583,,,,Sold,CONTRA COSTA
+404,3203 Spicewood Ln,3.0,4.0,San Ramon,"2,568 sqft","Sep 30, 2013","$918,000",37.764812,-121.91797,CA,Townhouse,918000,"$1,034,000",94582,,,,Sold,CONTRA COSTA
+405,445 Carillo Ct,1.5,2.0,San Ramon,"1,064 sqft","Sep 30, 2013","$369,000",37.772804,-121.98005,CA,Condo,369000,"$436,000",94583,,,,Sold,CONTRA COSTA
+406,2482 Dos Rios Dr,2.5,3.0,San Ramon,"1,665 sqft","Sep 27, 2013","$569,000",37.76883,-121.98772,CA,Condo,569000,"$672,000",94583,,,,Sold,CONTRA COSTA
+407,10115 Alcosta Blvd,2.5,4.0,San Ramon,"2,148 sqft","Sep 27, 2013","$750,000",37.752083,-121.93736,CA,Single-Family Home,750000,"$880,000",94583,,,,Sold,CONTRA COSTA
+408,2852 Westwood Ave,2.0,4.0,San Ramon,"1,858 sqft","Sep 27, 2013","$750,000",37.736023,-121.94536,CA,Single-Family Home,750000,"$813,000",94583,,,,Sold,CONTRA COSTA
+409,281 Norris Canyon Ter #C,1.0,1.0,San Ramon,820 sqft,"Sep 27, 2013","$300,000",37.77849,-121.96071,CA,Condo,300000,"$358,000",94583,,,,Sold,CONTRA COSTA
+410,114 Coralflower Ln,2.5,2.0,San Ramon,"1,356 sqft","Sep 26, 2013","$578,000",37.78819,-121.92431,CA,Condo,578000,"$664,000",94582,,,,Sold,CONTRA COSTA
+411,6862 Aberdale Cir,2.5,3.0,San Ramon,"1,675 sqft","Sep 26, 2013","$719,000",37.749157,-121.90037,CA,Single-Family Home,719000,"$789,000",94582,,,,Sold,CONTRA COSTA
+412,3112 Cedarwood Loop,2.5,3.0,San Ramon,"1,659 sqft","Sep 26, 2013","$655,000",37.771397,-121.92135,CA,Condo,655000,"$760,000",94582,,,,Sold,CONTRA COSTA
+413,3937 Sagewood Pl,4.5,5.0,San Ramon,"3,207 sqft","Sep 26, 2013","$1,050,000",37.766617,-121.918564,CA,Townhouse,1050000,"$1,138,000",94582,,,,Sold,CONTRA COSTA
+414,112 Valdivia Cir,2.0,3.0,San Ramon,"1,587 sqft","Sep 26, 2013","$635,000",37.764355,-121.97108,CA,Townhouse,635000,"$732,000",94583,,,,Sold,CONTRA COSTA
+415,128 Minerva Way,3.0,4.0,San Ramon,"3,186 sqft","Sep 26, 2013","$1,000,000",37.741806,-121.956604,CA,Single-Family Home,1000000,"$1,087,000",94583,,,,Sold,CONTRA COSTA
+416,105 Cassandra Pl,3.0,3.0,San Ramon,"1,950 sqft","Sep 25, 2013","$710,000",37.72806,-121.93818,CA,Single-Family Home,710000,"$784,000",94583,,,,Sold,CONTRA COSTA
+417,7552 Imperata Ln,2.5,3.0,San Ramon,"1,462 sqft","Sep 25, 2013","$640,000",37.775986,-121.930336,CA,Condo,640000,"$686,000",94582,,,,Sold,CONTRA COSTA
+418,3387 Nutmeg Park St,,,San Ramon,,"Sep 25, 2013","$1,147,000",37.76737,-121.918465,CA,Single-Family Home,1147000,,94582,,,,Sold,CONTRA COSTA
+419,2740 Moet Ln,2.5,3.0,San Ramon,"1,791 sqft","Sep 25, 2013","$727,000",37.760357,-121.90326,CA,Townhouse,727000,"$795,000",94582,,,,Sold,CONTRA COSTA
+420,328 S Overlook Dr #159,1.0,1.0,San Ramon,778 sqft,"Sep 25, 2013","$300,000",37.76739,-121.94603,CA,Condo,300000,"$343,000",94582,,,,Sold,CONTRA COSTA
+421,140 Reflections Dr #14,1.0,1.0,San Ramon,624 sqft,"Sep 25, 2013","$234,000",37.763355,-121.94935,CA,Condo,234000,"$283,000",94583,,,,Sold,CONTRA COSTA
+422,2100 Canyon Lakes Dr,3.0,3.0,San Ramon,"2,169 sqft","Sep 24, 2013","$775,000",37.775307,-121.95224,CA,Townhouse,775000,"$951,000",94582,,,,Sold,CONTRA COSTA
+423,3393 Nutmeg Park St,,,San Ramon,,"Sep 24, 2013","$987,000",37.76737,-121.918465,CA,Lot/Land,987000,,94582,,,,Sold,CONTRA COSTA
+424,5466 Sherwood Way,4.5,5.0,San Ramon,"3,805 sqft","Sep 24, 2013","$1,259,000",37.749588,-121.904015,CA,Single-Family Home,1259000,"$1,271,000",94582,,,,Sold,CONTRA COSTA
+425,3102 Browntail Way,2.5,3.0,San Ramon,"1,770 sqft","Sep 24, 2013","$730,000",37.77141,-121.907684,CA,Townhouse,730000,"$811,000",94582,,,,Sold,CONTRA COSTA
+426,9890 Del Mar Dr,2.0,4.0,San Ramon,"2,010 sqft","Sep 23, 2013","$700,000",37.74461,-121.93963,CA,Single-Family Home,700000,"$806,000",94583,,,,Sold,CONTRA COSTA
+427,2898 Laramie Ave,2.0,3.0,San Ramon,"1,736 sqft","Sep 23, 2013","$715,000",37.734985,-121.94369,CA,Single-Family Home,715000,"$754,000",94583,,,,Sold,CONTRA COSTA
+428,18 Lakeridge Ct,2.5,3.0,San Ramon,"1,715 sqft","Sep 23, 2013","$670,000",37.785503,-121.950455,CA,Townhouse,670000,"$773,000",94582,,,,Sold,CONTRA COSTA
+429,3805 Crow Canyon Rd,2.5,2.0,San Ramon,"1,232 sqft","Sep 23, 2013","$488,000",37.785484,-121.95163,CA,Condo,488000,"$559,000",94582,,,,Sold,CONTRA COSTA
+430,5445 Canyon Crest Dr,3.0,3.0,San Ramon,"2,804 sqft","Sep 23, 2013","$994,000",37.78936,-121.9459,CA,Townhouse,994000,"$1,106,000",94582,,,,Sold,CONTRA COSTA
+431,451 Sprucemoor Ct,,,San Ramon,,"Sep 23, 2013","$1,163,500",37.76864,-121.91623,CA,Single-Family Home,1163500,,94582,,,,Sold,CONTRA COSTA
+432,3118 Sweetviolet Dr,,,San Ramon,,"Sep 20, 2013","$1,096,500",37.767212,-121.918816,CA,Single-Family Home,1096500,,94582,,,,Sold,CONTRA COSTA
+433,2256 Rosemount Ln,4.0,5.0,San Ramon,"3,387 sqft","Sep 20, 2013","$1,155,000",37.759228,-121.88406,CA,Single-Family Home,1155000,"$1,165,000",94582,,,,Sold,CONTRA COSTA
+434,821 Bandol Way,4.5,4.0,San Ramon,"3,836 sqft","Sep 20, 2013","$1,150,000",37.76541,-121.89739,CA,Single-Family Home,1150000,"$1,321,000",94582,,,,Sold,CONTRA COSTA
+435,2877 Fountainhead Dr,1.5,2.0,San Ramon,954 sqft,"Sep 20, 2013","$385,000",37.76927,-121.988976,CA,Condo,385000,"$418,000",94583,,,,Sold,CONTRA COSTA
+436,2575 Toltec Cir,2.5,4.0,San Ramon,"2,107 sqft","Sep 20, 2013","$785,000",37.764385,-121.97714,CA,Townhouse,785000,"$885,000",94583,,,,Sold,CONTRA COSTA
+437,7632 Stoneleaf Rd,2.5,2.0,San Ramon,"1,402 sqft","Sep 20, 2013","$617,000",37.764145,-121.91883,CA,Condo,617000,"$662,000",94582,,,,Sold,CONTRA COSTA
+438,2276 Bayleaf Dr,,,San Ramon,,"Sep 20, 2013","$879,500",37.767834,-121.91308,CA,Single-Family Home,879500,,94582,,,,Sold,CONTRA COSTA
+439,2493 Camino De Jugar,2.5,3.0,San Ramon,"1,461 sqft","Sep 20, 2013","$620,000",37.76627,-121.98766,CA,Condo,620000,"$645,000",94583,,,,Sold,CONTRA COSTA
+440,3130 Sweetviolet Dr,,,San Ramon,,"Sep 20, 2013","$1,078,000",37.76744,-121.91873,CA,Single-Family Home,1078000,,94582,,,,Sold,CONTRA COSTA
+441,2788 Dos Rios Dr,2.0,3.0,San Ramon,"1,426 sqft","Sep 20, 2013","$575,000",37.76614,-121.98437,CA,Condo,575000,"$666,000",94583,,,,Sold,CONTRA COSTA
+442,3109 Hastings Way,4.0,5.0,San Ramon,"3,047 sqft","Sep 20, 2013","$810,000",37.753563,-121.90127,CA,Single-Family Home,810000,"$1,162,000",94582,,,,Sold,CONTRA COSTA
+443,3022 Lakemont Dr #2,2.0,2.0,San Ramon,"1,252 sqft","Sep 19, 2013","$632,000",37.780838,-121.95144,CA,Condo,632000,"$625,000",94582,,,,Sold,CONTRA COSTA
+444,4 Catalpa Ln,2.5,3.0,San Ramon,"1,551 sqft","Sep 19, 2013","$651,000",37.728134,-121.93223,CA,Townhouse,651000,"$721,000",94583,,,,Sold,CONTRA COSTA
+445,9600 Ernwood St,2.5,5.0,San Ramon,"1,711 sqft","Sep 19, 2013","$785,000",37.729984,-121.93766,CA,Single-Family Home,785000,"$791,000",94583,,,,Sold,CONTRA COSTA
+446,329 Bellflower Dr,2.5,3.0,San Ramon,"1,587 sqft","Sep 19, 2013","$650,000",37.786125,-121.92599,CA,Condo,650000,"$711,000",94582,,,,Sold,CONTRA COSTA
+447,4230 Lilac Ridge Rd,3.5,4.0,San Ramon,"3,150 sqft","Sep 19, 2013","$1,295,000",37.780407,-121.94529,CA,Townhouse,1295000,"$1,434,000",94582,,,,Sold,CONTRA COSTA
+448,201 Zebrina Ct,2.5,3.0,San Ramon,"1,770 sqft","Sep 19, 2013","$735,000",37.77255,-121.90966,CA,Townhouse,735000,"$819,000",94582,,,,Sold,CONTRA COSTA
+449,229 Majorca Dr,2.5,2.0,San Ramon,"1,964 sqft","Sep 19, 2013","$700,000",37.76784,-121.941895,CA,Townhouse,700000,"$892,000",94582,,,,Sold,CONTRA COSTA
+450,435 Deerhill Dr,2.5,3.0,San Ramon,"2,045 sqft","Sep 18, 2013","$781,000",37.775047,-121.98974,CA,Townhouse,781000,"$845,000",94583,,,,Sold,CONTRA COSTA
+451,104 Norris Canyon Pl #D,2.0,2.0,San Ramon,"1,082 sqft","Sep 18, 2013","$435,000",37.77804,-121.96153,CA,Condo,435000,"$462,000",94583,,,,Sold,CONTRA COSTA
+452,6 Olive Ln,2.5,4.0,San Ramon,"1,915 sqft","Sep 17, 2013","$755,000",37.726475,-121.931114,CA,Townhouse,755000,"$824,000",94583,,,,Sold,CONTRA COSTA
+453,7454 Interlachen Ave,2.0,3.0,San Ramon,"1,220 sqft","Sep 17, 2013","$600,000",37.72913,-121.93559,CA,Single-Family Home,600000,"$654,000",94583,,,,Sold,CONTRA COSTA
+454,2699 Durango Ln,2.0,3.0,San Ramon,"1,588 sqft","Sep 17, 2013","$716,000",37.768425,-121.97589,CA,Townhouse,716000,"$784,000",94583,,,,Sold,CONTRA COSTA
+455,831 Mornington Ct,3.0,4.0,San Ramon,"2,569 sqft","Sep 16, 2013","$930,000",37.753235,-121.89936,CA,Single-Family Home,930000,"$1,005,000",94582,,,,Sold,CONTRA COSTA
+456,6088 Hedgecrest Cir,3.0,4.0,San Ramon,"3,170 sqft","Sep 16, 2013","$1,170,000",37.77285,-121.93218,CA,Townhouse,1170000,"$1,258,000",94582,,,,Sold,CONTRA COSTA
+457,308 Blakesley Ct,3.0,3.0,San Ramon,"2,378 sqft","Sep 16, 2013","$865,000",37.763996,-121.9029,CA,Single-Family Home,865000,"$961,000",94582,,,,Sold,CONTRA COSTA
+458,2461 Basswood Dr,2.5,3.0,San Ramon,"2,379 sqft","Sep 13, 2013","$875,000",37.769363,-121.91446,CA,Single-Family Home,875000,"$947,000",94582,,,,Sold,CONTRA COSTA
+459,9687 Velvet Leaf Cir,2.5,4.0,San Ramon,"2,449 sqft","Sep 13, 2013","$1,055,000",37.767418,-121.93218,CA,Townhouse,1055000,"$1,151,000",94582,,,,Sold,CONTRA COSTA
+460,336 Adelaide Hills Ct,3.5,4.0,San Ramon,"3,295 sqft","Sep 13, 2013","$1,040,000",37.767273,-121.90064,CA,Single-Family Home,1040000,"$1,135,000",94582,,,,Sold,CONTRA COSTA
+461,9959 Windsor Way,2.0,3.0,San Ramon,"1,382 sqft","Sep 13, 2013","$650,000",37.751698,-121.94725,CA,Single-Family Home,650000,"$730,000",94583,,,,Sold,CONTRA COSTA
+462,9005 Alcosta Blvd #209,2.5,2.0,San Ramon,"1,230 sqft","Sep 13, 2013","$330,000",37.726208,-121.93498,CA,Condo,330000,"$434,000",94583,,,,Sold,CONTRA COSTA
+463,47 Terraced Hills Way,2.5,3.0,San Ramon,"2,014 sqft","Sep 13, 2013","$751,000",37.741177,-121.955246,CA,Townhouse,751000,"$836,000",94583,,,,Sold,CONTRA COSTA
+464,4108 Lilac Ridge Rd,3.5,4.0,San Ramon,"2,914 sqft","Sep 13, 2013","$1,150,000",37.77885,-121.945496,CA,Townhouse,1150000,"$1,279,000",94582,,,,Sold,CONTRA COSTA
+465,438 Santander Dr,3.0,4.0,San Ramon,"1,880 sqft","Sep 13, 2013","$670,000",37.762173,-121.97339,CA,Townhouse,670000,"$806,000",94583,,,,Sold,CONTRA COSTA
+466,649 S Blackbrush Ln,2.5,4.0,San Ramon,"1,904 sqft","Sep 13, 2013","$675,000",37.78469,-121.92663,CA,Condo,675000,"$824,000",94582,,,,Sold,CONTRA COSTA
+467,1733 Campanula Dr,3.5,4.0,San Ramon,"2,466 sqft","Sep 13, 2013","$900,000",37.77947,-121.9191,CA,Single-Family Home,900000,"$985,000",94582,,,,Sold,CONTRA COSTA
+468,4073 Greenwich Dr,2.5,4.0,San Ramon,"3,184 sqft","Sep 13, 2013","$1,220,000",37.754402,-121.9348,CA,Townhouse,1220000,"$1,302,000",94582,,,,Sold,CONTRA COSTA
+469,3666 Cinnamon Ridge Rd,2.0,2.0,San Ramon,"2,568 sqft","Sep 12, 2013","$1,091,000",37.76753,-121.917854,CA,Townhouse,1091000,"$1,049,000",94582,,,,Sold,CONTRA COSTA
+470,1118 Chancery Way,3.0,4.0,San Ramon,"3,047 sqft","Sep 12, 2013","$1,008,000",37.752632,-121.90191,CA,Single-Family Home,1008000,"$1,192,000",94582,,,,Sold,CONTRA COSTA
+471,3715 Norris Canyon Rd,2.0,3.0,San Ramon,"1,552 sqft","Sep 12, 2013","$692,500",37.766136,-121.98054,CA,Townhouse,692500,"$729,000",94583,,,,Sold,CONTRA COSTA
+472,3296 Casa Grande Dr,2.5,4.0,San Ramon,"2,113 sqft","Sep 12, 2013","$718,000",37.747494,-121.93672,CA,Single-Family Home,718000,"$893,000",94583,,,,Sold,CONTRA COSTA
+473,4190 Canyon Crest Rd W,3.0,3.0,San Ramon,"2,804 sqft","Sep 12, 2013","$970,000",37.790054,-121.9496,CA,Townhouse,970000,"$1,118,000",94582,,,,Sold,CONTRA COSTA
+474,9948 Broadmoor Dr,2.5,4.0,San Ramon,"1,886 sqft","Sep 12, 2013","$755,000",37.750416,-121.94917,CA,Single-Family Home,755000,"$792,000",94583,,,,Sold,CONTRA COSTA
+475,2001 Echo Pl,2.5,3.0,San Ramon,"2,162 sqft","Sep 11, 2013","$781,000",37.786705,-121.94747,CA,Condo,781000,"$924,000",94582,,,,Sold,CONTRA COSTA
+476,419 Fuchsia Ln,2.0,3.0,San Ramon,"1,638 sqft","Sep 11, 2013","$775,000",37.786644,-121.92897,CA,Townhouse,775000,"$866,000",94582,,,,Sold,CONTRA COSTA
+477,6114 Tigerside Way,2.5,4.0,San Ramon,"2,449 sqft","Sep 11, 2013","$1,075,000",37.77556,-121.93243,CA,Townhouse,1075000,"$1,094,000",94582,,,,Sold,CONTRA COSTA
+478,7283 Briza Loop,2.5,2.0,San Ramon,"1,351 sqft","Sep 11, 2013","$555,000",37.77701,-121.928406,CA,Condo,555000,"$677,000",94582,,,,Sold,CONTRA COSTA
+479,538 Adriatic Ct,2.5,4.0,San Ramon,"2,503 sqft","Sep 11, 2013","$892,000",37.764626,-121.88968,CA,Single-Family Home,892000,"$986,000",94582,,,,Sold,CONTRA COSTA
+480,360 Cardona Cir,2.5,4.0,San Ramon,"2,106 sqft","Sep 11, 2013","$750,000",37.760235,-121.96869,CA,Townhouse,750000,"$900,000",94583,,,,Sold,CONTRA COSTA
+481,410 S Overlook Dr #247,1.0,1.0,San Ramon,778 sqft,"Sep 10, 2013","$309,000",37.76642,-121.94474,CA,Condo,309000,"$343,000",94582,,,,Sold,CONTRA COSTA
+482,5238 Fioli Loop,2.5,3.0,San Ramon,"2,140 sqft","Sep 10, 2013","$640,000",37.770374,-121.899994,CA,Condo,640000,"$794,000",94582,,,,Sold,CONTRA COSTA
+483,116 Norris Canyon Pl #B,1.0,2.0,San Ramon,"1,022 sqft","Sep 10, 2013","$413,500",37.77769,-121.96091,CA,Condo,413500,"$399,000",94583,,,,Sold,CONTRA COSTA
+484,615 Vine Hill Ln,3.0,4.0,San Ramon,"3,002 sqft","Sep 10, 2013","$1,000,000",37.737705,-121.919975,CA,Single-Family Home,1000000,"$1,175,000",94582,,,,Sold,CONTRA COSTA
+485,217 Milo Pl,2.0,3.0,San Ramon,"1,530 sqft","Sep 10, 2013","$697,000",37.74551,-121.95061,CA,Single-Family Home,697000,"$739,000",94583,,,,Sold,CONTRA COSTA
+486,2934 Langhorne Dr,3.0,4.0,San Ramon,"2,403 sqft","Sep 10, 2013","$901,000",37.760796,-121.90137,CA,Single-Family Home,901000,"$965,000",94582,,,,Sold,CONTRA COSTA
+487,404 Bridle Ct,3.5,4.0,San Ramon,"4,021 sqft","Sep 9, 2013","$1,450,000",37.739952,-121.92278,CA,Townhouse,1450000,"$1,727,000",94582,,,,Sold,CONTRA COSTA
+488,2560 Toltec Cir,3.0,4.0,San Ramon,"2,158 sqft","Sep 9, 2013","$776,000",37.76439,-121.97817,CA,Townhouse,776000,"$944,000",94583,,,,Sold,CONTRA COSTA
+489,5118 Holborn Way,3.5,4.0,San Ramon,"3,714 sqft","Sep 9, 2013","$1,100,000",37.745926,-121.89153,CA,Single-Family Home,1100000,"$1,245,000",94582,,,,Sold,CONTRA COSTA
+490,3167 Ashbourne Cir,3.5,4.0,San Ramon,"4,007 sqft","Sep 6, 2013","$1,706,000",37.744514,-121.99309,CA,Townhouse,1706000,"$1,764,000",94583,,,,Sold,CONTRA COSTA
+491,3428 Bermuda Ct,2.5,4.0,San Ramon,"2,362 sqft","Sep 6, 2013","$951,000",37.782707,-121.95845,CA,Townhouse,951000,"$1,089,000",94582,,,,Sold,CONTRA COSTA
+492,2165 Watercress Pl,2.5,4.0,San Ramon,"2,224 sqft","Sep 6, 2013","$929,000",37.77286,-121.94271,CA,Townhouse,929000,"$1,031,000",94582,,,,Sold,CONTRA COSTA
+493,2766 Paige Way,3.0,4.0,San Ramon,"3,364 sqft","Sep 6, 2013","$1,080,000",37.75533,-121.89307,CA,Single-Family Home,1080000,"$1,165,000",94582,,,,Sold,CONTRA COSTA
+494,417 Honeysuckle Ln,3.0,4.0,San Ramon,"3,871 sqft","Sep 6, 2013","$1,189,000",37.784225,-121.922226,CA,Single-Family Home,1189000,"$1,397,000",94582,,,,Sold,CONTRA COSTA
+495,2924 Cedarwood Loop,2.5,3.0,San Ramon,"1,433 sqft","Sep 6, 2013","$635,000",37.771896,-121.92098,CA,Condo,635000,"$719,000",94582,,,,Sold,CONTRA COSTA
+496,3355 Chartwell St,3.0,3.0,San Ramon,"1,314 sqft","Sep 6, 2013","$660,000",37.77512,-121.98644,CA,Townhouse,660000,"$738,000",94583,,,,Sold,CONTRA COSTA
+497,3633 Crow Canyon Rd,2.0,2.0,San Ramon,922 sqft,"Sep 6, 2013","$410,000",37.78489,-121.95315,CA,Condo,410000,"$460,000",94582,,,,Sold,CONTRA COSTA
+498,7409 Briza Loop,2.5,3.0,San Ramon,"1,419 sqft","Sep 6, 2013","$504,500",37.77627,-121.93051,CA,Condo,504500,"$680,000",94582,,,,Sold,CONTRA COSTA
+499,5088 Fioli Loop,2.5,3.0,San Ramon,"2,140 sqft","Sep 6, 2013","$647,000",37.771954,-121.90071,CA,Condo,647000,"$830,000",94582,,,,Sold,CONTRA COSTA
+500,1737 Cedarwood Loop,2.5,4.0,San Ramon,"1,659 sqft","Sep 6, 2013","$686,000",37.770752,-121.92034,CA,Condo,686000,"$705,000",94582,,,,Sold,CONTRA COSTA
+501,8105 Briar Oaks Dr,3.0,4.0,San Ramon,"2,542 sqft","Sep 5, 2013","$950,000",37.775036,-121.915016,CA,Single-Family Home,950000,"$1,080,000",94582,,,,Sold,CONTRA COSTA
+502,3925 Sagewood Pl,3.5,3.0,San Ramon,"3,112 sqft","Sep 5, 2013","$1,050,000",37.76652,-121.91875,CA,Townhouse,1050000,"$1,215,000",94582,,,,Sold,CONTRA COSTA
+503,9085 Alcosta Blvd #312,1.0,2.0,San Ramon,952 sqft,"Sep 5, 2013","$261,000",37.72838,-121.93435,CA,Condo,261000,"$344,000",94583,,,,Sold,CONTRA COSTA
+504,3005 Ascot Dr,2.0,3.0,San Ramon,"1,935 sqft","Sep 5, 2013","$755,000",37.753067,-121.95536,CA,Single-Family Home,755000,"$898,000",94583,,,,Sold,CONTRA COSTA
+505,328 Cindy Ct,2.0,3.0,San Ramon,"1,382 sqft","Sep 4, 2013","$575,000",37.74964,-121.95404,CA,Single-Family Home,575000,"$718,000",94583,,,,Sold,CONTRA COSTA
+506,610 Canyon Woods Ct #D,2.0,2.0,San Ramon,"1,042 sqft","Sep 4, 2013","$450,000",37.76461,-121.94927,CA,Condo,450000,"$475,000",94582,,,,Sold,CONTRA COSTA
+507,620 Belem Ct,3.0,4.0,San Ramon,"2,518 sqft","Sep 4, 2013","$1,095,000",37.76359,-121.98505,CA,Townhouse,1095000,"$1,086,000",94583,,,,Sold,CONTRA COSTA
+508,1109 Langton Dr,3.0,3.0,San Ramon,"2,494 sqft","Sep 3, 2013","$888,500",37.76144,-121.90212,CA,Single-Family Home,888500,"$1,045,000",94582,,,,Sold,CONTRA COSTA
+509,2838 Vernon Way,2.5,4.0,San Ramon,"2,715 sqft","Aug 30, 2013","$950,000",37.75524,-121.89606,CA,Single-Family Home,950000,"$1,081,000",94582,,,,Sold,CONTRA COSTA
+510,816 Henley Ct,7.5,6.0,San Ramon,"4,976 sqft","Aug 30, 2013","$1,930,000",37.747776,-121.99432,CA,Townhouse,1930000,"$1,977,000",94583,,,,Sold,CONTRA COSTA
+511,3222 Montevideo Dr,2.0,3.0,San Ramon,"1,838 sqft","Aug 30, 2013","$753,000",37.75366,-121.945656,CA,Single-Family Home,753000,"$847,000",94583,,,,Sold,CONTRA COSTA
+512,6688 Aberdale Cir,3.0,4.0,San Ramon,"2,062 sqft","Aug 30, 2013","$812,000",37.748634,-121.900505,CA,Single-Family Home,812000,"$895,000",94582,,,,Sold,CONTRA COSTA
+513,7812 Stoneleaf Rd,3.0,3.0,San Ramon,"2,158 sqft","Aug 30, 2013","$635,000",37.76751,-121.919655,CA,Condo,635000,"$828,000",94582,,,,Sold,CONTRA COSTA
+514,2475 Paddock Dr,3.0,4.0,San Ramon,"2,539 sqft","Aug 30, 2013","$910,000",37.759777,-121.98585,CA,Townhouse,910000,"$1,025,000",94583,,,,Sold,CONTRA COSTA
+515,5111 Fioli Loop,2.5,3.0,San Ramon,"2,337 sqft","Aug 30, 2013","$725,000",37.771294,-121.90053,CA,Condo,725000,"$876,000",94582,,,,Sold,CONTRA COSTA
+516,405 Heather Ridge Ct,2.5,5.0,San Ramon,"3,058 sqft","Aug 30, 2013","$1,110,000",37.744293,-121.91873,CA,Single-Family Home,1110000,"$1,307,000",94582,,,,Sold,CONTRA COSTA
+517,412 Melrose Ct,3.5,4.0,San Ramon,"2,760 sqft","Aug 30, 2013","$1,125,000",37.77661,-121.91032,CA,Single-Family Home,1125000,"$1,280,000",94582,,,,Sold,CONTRA COSTA
+518,5008 Queensbury Way,4.0,4.0,San Ramon,"2,704 sqft","Aug 30, 2013","$939,000",37.77344,-121.900696,CA,Single-Family Home,939000,"$1,119,000",94582,,,,Sold,CONTRA COSTA
+519,8193 Briar Oaks Dr,3.0,4.0,San Ramon,"2,542 sqft","Aug 30, 2013","$942,500",37.772987,-121.912926,CA,Single-Family Home,942500,"$1,019,000",94582,,,,Sold,CONTRA COSTA
+520,157 Rosario Ct,2.5,4.0,San Ramon,"1,683 sqft","Aug 30, 2013","$580,000",37.761635,-121.97484,CA,Condo,580000,"$732,000",94583,,,,Sold,CONTRA COSTA
+521,510 Marble Canyon Ln,3.0,4.0,San Ramon,"2,824 sqft","Aug 30, 2013","$925,000",37.79098,-121.94585,CA,Townhouse,925000,"$1,114,000",94582,,,,Sold,CONTRA COSTA
+522,262 Canyon Lakes Pl,2.5,4.0,San Ramon,"2,360 sqft","Aug 29, 2013","$900,000",37.779907,-121.955925,CA,Townhouse,900000,"$1,023,000",94582,,,,Sold,CONTRA COSTA
+523,3112 Sweetviolet Dr,,,San Ramon,,"Aug 28, 2013","$1,155,000",37.7671,-121.91886,CA,Unknown,1155000,,94582,,,,Sold,CONTRA COSTA
+524,340 San Simeon Pl,3.0,4.0,San Ramon,"1,957 sqft","Aug 28, 2013","$745,000",37.750607,-121.94292,CA,Single-Family Home,745000,"$821,000",94583,,,,Sold,CONTRA COSTA
+525,85 Jamaica Dr,2.5,3.0,San Ramon,"2,362 sqft","Aug 28, 2013","$835,000",37.784996,-121.95548,CA,Townhouse,835000,"$1,039,000",94582,,,,Sold,CONTRA COSTA
+526,7410 Sedgefield Ave,3.0,4.0,San Ramon,"2,114 sqft","Aug 28, 2013","$730,000",37.734745,-121.93706,CA,Single-Family Home,730000,"$867,000",94583,,,,Sold,CONTRA COSTA
+527,822 Tolley Ct,3.5,4.0,San Ramon,"3,269 sqft","Aug 28, 2013","$1,005,000",37.759747,-121.890724,CA,Single-Family Home,1005000,"$1,137,000",94582,,,,Sold,CONTRA COSTA
+528,108 Boxford Pl,2.0,3.0,San Ramon,"1,319 sqft","Aug 28, 2013","$650,000",37.737976,-121.945564,CA,Single-Family Home,650000,"$689,000",94583,,,,Sold,CONTRA COSTA
+529,520 Ivy Pointe Cir,2.5,4.0,San Ramon,"1,904 sqft","Aug 28, 2013","$646,500",37.783943,-121.92507,CA,Condo,646500,"$764,000",94582,,,,Sold,CONTRA COSTA
+530,156 Paddington Ct,3.0,4.0,San Ramon,"2,619 sqft","Aug 28, 2013","$919,000",37.772034,-121.90189,CA,Single-Family Home,919000,"$1,047,000",94582,,,,Sold,CONTRA COSTA
+531,6057 W Branch Rd,3.0,4.0,San Ramon,"2,222 sqft","Aug 28, 2013","$820,000",37.764088,-121.91769,CA,Townhouse,820000,"$954,000",94582,,,,Sold,CONTRA COSTA
+532,3209 Barons Ln,3.0,4.0,San Ramon,"2,384 sqft","Aug 27, 2013","$825,000",37.749474,-121.896034,CA,Single-Family Home,825000,"$954,000",94582,,,,Sold,CONTRA COSTA
+533,550 Montrose Ct,3.0,4.0,San Ramon,"2,655 sqft","Aug 27, 2013","$935,000",37.74678,-121.89443,CA,Single-Family Home,935000,"$1,019,000",94582,,,,Sold,CONTRA COSTA
+534,9005 Alcosta Blvd #188,2.5,2.0,San Ramon,"1,248 sqft","Aug 27, 2013","$340,000",37.725636,-121.93527,CA,Condo,340000,"$433,000",94583,,,,Sold,CONTRA COSTA
+535,2462 Milford Dr,2.5,3.0,San Ramon,"1,775 sqft","Aug 27, 2013","$740,000",37.759922,-121.904434,CA,Townhouse,740000,"$795,000",94582,,,,Sold,CONTRA COSTA
+536,6139 Yardley Ln,3.0,3.0,San Ramon,"2,141 sqft","Aug 27, 2013","$710,000",37.750256,-121.89851,CA,Condo,710000,"$814,000",94582,,,,Sold,CONTRA COSTA
+537,2836 Bethany Rd,4.5,5.0,San Ramon,"3,707 sqft","Aug 26, 2013","$1,211,000",37.75904,-121.88864,CA,Single-Family Home,1211000,"$1,402,000",94582,,,,Sold,CONTRA COSTA
+538,3000 Amaryllis Cir,2.5,3.0,San Ramon,"1,433 sqft","Aug 26, 2013","$640,000",37.776188,-121.920685,CA,Condo,640000,"$751,000",94582,,,,Sold,CONTRA COSTA
+539,2963 Langhorne Dr,2.5,3.0,San Ramon,"2,085 sqft","Aug 26, 2013","$680,000",37.761353,-121.90046,CA,Single-Family Home,680000,"$887,000",94582,,,,Sold,CONTRA COSTA
+540,1134 Vista Pointe Cir,2.5,3.0,San Ramon,"2,410 sqft","Aug 26, 2013","$785,000",37.77282,-121.94865,CA,Townhouse,785000,"$954,000",94582,,,,Sold,CONTRA COSTA
+541,122 Samoa Ct,2.5,3.0,San Ramon,"2,414 sqft","Aug 23, 2013","$950,000",37.782104,-121.95592,CA,Townhouse,950000,"$1,068,000",94582,,,,Sold,CONTRA COSTA
+542,427 Sprucemoor Ct,,,San Ramon,,"Aug 23, 2013","$1,212,000",37.768597,-121.91627,CA,Unknown,1212000,,94582,,,,Sold,CONTRA COSTA
+543,235 Copper Ridge Rd #77,2.0,2.0,San Ramon,"1,079 sqft","Aug 23, 2013","$420,000",37.76895,-121.94656,CA,Condo,420000,"$498,000",94582,,,,Sold,CONTRA COSTA
+544,2293 Ashbourne Dr,5.5,5.0,San Ramon,"5,951 sqft","Aug 23, 2013","$1,900,000",37.75141,-122.00032,CA,Townhouse,1900000,"$1,968,000",94583,,,,Sold,CONTRA COSTA
+545,23 Westside Ct,3.0,4.0,San Ramon,"2,586 sqft","Aug 23, 2013","$1,015,000",37.744957,-121.961334,CA,Townhouse,1015000,"$1,102,000",94583,,,,Sold,CONTRA COSTA
+546,60 Springhaven Ct,2.5,3.0,San Ramon,"1,720 sqft","Aug 23, 2013","$590,000",37.760704,-121.94838,CA,Townhouse,590000,"$768,000",94583,,,,Sold,CONTRA COSTA
+547,29 Lakeridge Ct,3.0,3.0,San Ramon,"1,488 sqft","Aug 23, 2013","$680,000",37.785202,-121.94981,CA,Townhouse,680000,"$785,000",94582,,,,Sold,CONTRA COSTA
+548,616 Karina Ct,3.5,4.0,San Ramon,"3,269 sqft","Aug 23, 2013","$1,070,000",37.761177,-121.89153,CA,Single-Family Home,1070000,"$1,140,000",94582,,,,Sold,CONTRA COSTA
+549,619 Rock Rose Ln,3.0,4.0,San Ramon,"2,182 sqft","Aug 23, 2013","$950,000",37.78309,-121.921036,CA,Single-Family Home,950000,"$980,000",94582,,,,Sold,CONTRA COSTA
+550,271 Norris Canyon Ter #D,2.0,2.0,San Ramon,"1,179 sqft","Aug 22, 2013","$422,000",37.778553,-121.96123,CA,Condo,422000,"$461,000",94583,,,,Sold,CONTRA COSTA
+551,439 Sprucemoor Ct,,,San Ramon,,"Aug 21, 2013","$1,214,500",37.768616,-121.916245,CA,Single-Family Home,1214500,,94582,,,,Sold,CONTRA COSTA
+552,725 Watson Canyon Ct #114,1.0,1.0,San Ramon,657 sqft,"Aug 21, 2013","$260,000",37.774464,-121.94937,CA,Condo,260000,"$322,000",94582,,,,Sold,CONTRA COSTA
+553,733 Clifton Ct,4.5,5.0,San Ramon,"2,966 sqft","Aug 21, 2013","$1,020,000",37.752647,-121.89879,CA,Single-Family Home,1020000,"$1,066,000",94582,,,,Sold,CONTRA COSTA
+554,2457 Wildhorse Dr,3.0,4.0,San Ramon,"2,339 sqft","Aug 21, 2013","$880,000",37.757156,-121.97703,CA,Townhouse,880000,"$957,000",94583,,,,Sold,CONTRA COSTA
+555,2134 N Donovan Way,3.0,4.0,San Ramon,"2,027 sqft","Aug 20, 2013","$780,000",37.76433,-121.89582,CA,Townhouse,780000,"$878,000",94582,,,,Sold,CONTRA COSTA
+556,2282 Bayleaf Dr,,,San Ramon,,"Aug 20, 2013","$1,087,000",37.76787,-121.91299,CA,Lot/Land,1087000,,94582,,,,Sold,CONTRA COSTA
+557,2205 Britannia Dr,4.0,6.0,San Ramon,"4,558 sqft","Aug 20, 2013","$1,250,000",37.778133,-121.91584,CA,Single-Family Home,1250000,"$1,353,000",94582,,,,Sold,CONTRA COSTA
+558,1905 Lambeth Way,2.5,4.0,San Ramon,"2,194 sqft","Aug 20, 2013","$850,000",37.751278,-121.8933,CA,Single-Family Home,850000,"$932,000",94582,,,,Sold,CONTRA COSTA
+559,5272 Fioli Loop,2.5,3.0,San Ramon,"2,337 sqft","Aug 20, 2013","$715,000",37.7704,-121.89963,CA,Condo,715000,"$862,000",94582,,,,Sold,CONTRA COSTA
+560,2709 Bollinger Canyon Rd,1.5,2.0,San Ramon,"1,102 sqft","Aug 20, 2013","$320,000",37.768494,-121.990845,CA,Condo,320000,"$413,000",94583,,,,Sold,CONTRA COSTA
+561,8339 Saturn Park Dr,2.5,3.0,San Ramon,"2,243 sqft","Aug 19, 2013","$862,500",37.773346,-121.91447,CA,Single-Family Home,862500,"$922,000",94582,,,,Sold,CONTRA COSTA
+562,817 Tolley Ct,4.5,5.0,San Ramon,"3,543 sqft","Aug 19, 2013","$1,070,000",37.7597,-121.890175,CA,Single-Family Home,1070000,"$1,193,000",94582,,,,Sold,CONTRA COSTA
+563,3335 Barons Ln,3.0,4.0,San Ramon,"2,687 sqft","Aug 16, 2013","$1,065,000",37.747334,-121.89548,CA,Single-Family Home,1065000,"$1,078,000",94582,,,,Sold,CONTRA COSTA
+564,714 Jadecrest Ct,5.0,6.0,San Ramon,"3,846 sqft","Aug 16, 2013","$1,430,000",37.779182,-121.94391,CA,Townhouse,1430000,"$1,556,000",94582,,,,Sold,CONTRA COSTA
+565,44 Longhorn Ct,2.0,4.0,San Ramon,"1,822 sqft","Aug 16, 2013","$761,000",37.753857,-121.96402,CA,Townhouse,761000,"$867,000",94583,,,,Sold,CONTRA COSTA
+566,2140 Canyon Lakes Dr,3.0,3.0,San Ramon,"2,362 sqft","Aug 16, 2013","$802,000",37.775696,-121.95235,CA,Townhouse,802000,"$936,000",94582,,,,Sold,CONTRA COSTA
+567,306 Lynnbrook Dr,2.5,3.0,San Ramon,"2,998 sqft","Aug 16, 2013","$1,000,000",37.771168,-121.95584,CA,Single-Family Home,1000000,"$1,147,000",94582,,,,Sold,CONTRA COSTA
+568,111 Pearlgrass Ct,3.0,4.0,San Ramon,"2,633 sqft","Aug 16, 2013","$895,500",37.78708,-121.92685,CA,Townhouse,895500,"$1,092,000",94582,,,,Sold,CONTRA COSTA
+569,2472 Basswood Dr,2.5,3.0,San Ramon,"1,647 sqft","Aug 16, 2013","$695,000",37.770027,-121.914856,CA,Townhouse,695000,"$765,000",94582,,,,Sold,CONTRA COSTA
+570,12020 Harcourt Way,3.0,3.0,San Ramon,"2,140 sqft","Aug 16, 2013","$650,000",37.760014,-121.90759,CA,Condo,650000,"$797,000",94582,,,,Sold,CONTRA COSTA
+571,6350 Byron Ln,3.0,4.0,San Ramon,"2,273 sqft","Aug 16, 2013","$725,000",37.749786,-121.89879,CA,Condo,725000,"$823,000",94582,,,,Sold,CONTRA COSTA
+572,872 Bandol Way,4.0,4.0,San Ramon,"3,472 sqft","Aug 16, 2013","$1,100,000",37.764755,-121.89507,CA,Single-Family Home,1100000,"$1,227,000",94582,,,,Sold,CONTRA COSTA
+573,2375 Magnolia Bridge Dr,2.5,3.0,San Ramon,"2,313 sqft","Aug 16, 2013","$868,000",37.77085,-121.91252,CA,Townhouse,868000,"$944,000",94582,,,,Sold,CONTRA COSTA
+574,545 Van Buren Pl,2.0,4.0,San Ramon,"1,741 sqft","Aug 16, 2013","$665,000",37.743504,-121.94336,CA,Single-Family Home,665000,"$791,000",94583,,,,Sold,CONTRA COSTA
+575,144 Eastridge Dr,1.0,2.0,San Ramon,985 sqft,"Aug 16, 2013","$352,000",37.76855,-121.94075,CA,Condo,352000,"$433,000",94582,,,,Sold,CONTRA COSTA
+576,2762 Canyon Creek Dr,2.0,3.0,San Ramon,"1,812 sqft","Aug 16, 2013","$730,000",37.77357,-121.981804,CA,Single-Family Home,730000,"$870,000",94583,,,,Sold,CONTRA COSTA
+577,45 Lawton Ct,3.0,4.0,San Ramon,"2,260 sqft","Aug 16, 2013","$852,500",37.747124,-121.95997,CA,Single-Family Home,852500,"$902,000",94583,,,,Sold,CONTRA COSTA
+578,509 Lagos Ct,2.0,3.0,San Ramon,"1,552 sqft","Aug 16, 2013","$738,000",37.766376,-121.97924,CA,Townhouse,738000,"$778,000",94583,,,,Sold,CONTRA COSTA
+579,1220 Cedarwood Loop,3.0,4.0,San Ramon,"1,557 sqft","Aug 15, 2013","$644,500",37.769962,-121.92173,CA,Condo,644500,"$773,000",94582,,,,Sold,CONTRA COSTA
+580,6024 Hedgecrest Cir,3.0,5.0,San Ramon,"3,170 sqft","Aug 15, 2013","$1,225,000",37.773888,-121.93388,CA,Townhouse,1225000,"$1,274,000",94582,,,,Sold,CONTRA COSTA
+581,9115 S Gale Ridge Rd,3.0,3.0,San Ramon,"2,717 sqft","Aug 15, 2013","$1,145,000",37.768417,-121.931526,CA,Townhouse,1145000,"$1,242,000",94582,,,,Sold,CONTRA COSTA
+582,2840 Westwood Ave,2.0,4.0,San Ramon,"1,850 sqft","Aug 15, 2013","$738,000",37.73576,-121.94603,CA,Single-Family Home,738000,"$816,000",94583,,,,Sold,CONTRA COSTA
+583,403 Sprucemoor Ct,,,San Ramon,,"Aug 15, 2013","$1,140,500",37.768406,-121.91647,CA,Single-Family Home,1140500,,94582,,,,Sold,CONTRA COSTA
+584,1487 Asterbell Dr,3.0,4.0,San Ramon,"2,790 sqft","Aug 15, 2013","$990,000",37.78171,-121.921165,CA,Single-Family Home,990000,"$1,042,000",94582,,,,Sold,CONTRA COSTA
+585,600 Canyon Woods Ct #D,2.0,2.0,San Ramon,"1,042 sqft","Aug 14, 2013","$450,000",37.76437,-121.94875,CA,Condo,450000,"$527,000",94582,,,,Sold,CONTRA COSTA
+586,113 Rosario Ct,2.5,3.0,San Ramon,"1,790 sqft","Aug 14, 2013","$530,000",37.762253,-121.97532,CA,Condo,530000,"$622,000",94583,,,,Sold,CONTRA COSTA
+587,350 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Aug 13, 2013","$285,000",37.76946,-121.94291,CA,Condo,285000,"$343,000",94582,,,,Sold,CONTRA COSTA
+588,3383 Estero Dr,2.0,3.0,San Ramon,"1,686 sqft","Aug 13, 2013","$680,000",37.747696,-121.93399,CA,Single-Family Home,680000,"$783,000",94583,,,,Sold,CONTRA COSTA
+589,9604 Brockton Ave,2.0,3.0,San Ramon,"1,220 sqft","Aug 13, 2013","$650,000",37.728752,-121.93856,CA,Single-Family Home,650000,"$683,000",94583,,,,Sold,CONTRA COSTA
+590,9522 Velvet Leaf Cir,2.5,4.0,San Ramon,"3,874 sqft","Aug 13, 2013","$1,550,000",37.76827,-121.93375,CA,Townhouse,1550000,"$1,622,000",94582,,,,Sold,CONTRA COSTA
+591,90 Dos Rios Pl,2.5,4.0,San Ramon,"2,075 sqft","Aug 13, 2013","$700,000",37.77031,-121.9854,CA,Single-Family Home,700000,"$926,000",94583,,,,Sold,CONTRA COSTA
+592,7421 Briza Loop,2.5,3.0,San Ramon,"1,462 sqft","Aug 13, 2013","$670,000",37.77619,-121.93069,CA,Condo,670000,"$712,000",94582,,,,Sold,CONTRA COSTA
+593,116 Madora Pl,2.0,3.0,San Ramon,"1,368 sqft","Aug 13, 2013","$650,000",37.72858,-121.93657,CA,Single-Family Home,650000,"$703,000",94583,,,,Sold,CONTRA COSTA
+594,238 Paige Ct,4.5,5.0,San Ramon,"3,686 sqft","Aug 9, 2013","$1,290,000",37.750916,-121.890656,CA,Single-Family Home,1290000,"$1,380,000",94582,,,,Sold,CONTRA COSTA
+595,4271 Astor Hollow St,,,San Ramon,,"Aug 9, 2013","$828,500",37.760914,-121.91488,CA,Lot/Land,828500,,94582,,,,Sold,CONTRA COSTA
+596,201 Westvale Ct,2.0,3.0,San Ramon,"1,360 sqft","Aug 9, 2013","$660,000",37.76703,-121.97426,CA,Townhouse,660000,"$703,000",94583,,,,Sold,CONTRA COSTA
+597,1475 Asterbell Dr,2.0,2.0,San Ramon,"2,065 sqft","Aug 9, 2013","$925,000",37.781235,-121.92162,CA,Single-Family Home,925000,"$940,000",94582,,,,Sold,CONTRA COSTA
+598,5012 Queensbury Way,2.5,3.0,San Ramon,"2,275 sqft","Aug 9, 2013","$900,000",37.7735,-121.90087,CA,Single-Family Home,900000,"$936,000",94582,,,,Sold,CONTRA COSTA
+599,2281 Keats Ln,2.5,4.0,San Ramon,"2,129 sqft","Aug 9, 2013","$820,000",37.752068,-121.891685,CA,Single-Family Home,820000,"$888,000",94582,,,,Sold,CONTRA COSTA
+600,5953 Lantana Way,2.0,2.0,San Ramon,"1,888 sqft","Aug 9, 2013","$798,000",37.778893,-121.92845,CA,Townhouse,798000,"$911,000",94582,,,,Sold,CONTRA COSTA
+601,3318 Amaryllis Cir,3.0,4.0,San Ramon,"1,557 sqft","Aug 8, 2013","$639,000",37.77712,-121.920876,CA,Condo,639000,"$717,000",94582,,,,Sold,CONTRA COSTA
+602,12 Pine Valley Pl,4.5,4.0,San Ramon,"3,908 sqft","Aug 8, 2013","$1,410,000",37.737167,-121.95571,CA,Townhouse,1410000,"$1,650,000",94583,,,,Sold,CONTRA COSTA
+603,3291 Ashbourne Cir,5.5,5.0,San Ramon,"5,312 sqft","Aug 8, 2013","$1,800,000",37.744198,-121.988754,CA,Townhouse,1800000,"$1,935,000",94583,,,,Sold,CONTRA COSTA
+604,550 Fallen Leaf Cir,3.0,4.0,San Ramon,"2,361 sqft","Aug 8, 2013","$799,000",37.75558,-121.94838,CA,Townhouse,799000,"$939,000",94583,,,,Sold,CONTRA COSTA
+605,415 Sprucemoor Ct,,,San Ramon,,"Aug 8, 2013","$1,055,500",37.768406,-121.91647,CA,Single-Family Home,1055500,,94582,,,,Sold,CONTRA COSTA
+606,11 Duncan Hill Ct,4.0,4.0,San Ramon,"3,368 sqft","Aug 8, 2013","$1,128,500",37.741238,-121.958115,CA,Single-Family Home,1128500,"$1,314,000",94583,,,,Sold,CONTRA COSTA
+607,9529 Thunderbird Dr,2.0,3.0,San Ramon,"2,170 sqft","Aug 7, 2013","$815,000",37.738228,-121.92782,CA,Single-Family Home,815000,"$891,000",94583,,,,Sold,CONTRA COSTA
+608,142 Valdivia Cir,3.0,4.0,San Ramon,"1,880 sqft","Aug 7, 2013","$671,500",37.764114,-121.96931,CA,Townhouse,671500,"$808,000",94583,,,,Sold,CONTRA COSTA
+609,737 Quincy Ct,2.5,4.0,San Ramon,"2,540 sqft","Aug 7, 2013","$883,000",37.750202,-121.95292,CA,Single-Family Home,883000,"$926,000",94583,,,,Sold,CONTRA COSTA
+610,1091 Canyon Hills Rd,3.0,4.0,San Ramon,"2,401 sqft","Aug 6, 2013","$821,000",37.76305,-121.94222,CA,Townhouse,821000,"$1,024,000",94582,,,,Sold,CONTRA COSTA
+611,2120 Bent Creek Dr,3.0,4.0,San Ramon,"2,025 sqft","Aug 6, 2013","$770,000",37.731976,-121.91135,CA,Single-Family Home,770000,"$911,000",94582,,,,Sold,CONTRA COSTA
+612,14 Waterbury Pl,2.5,4.0,San Ramon,"1,573 sqft","Aug 5, 2013","$700,000",37.743965,-121.953735,CA,Single-Family Home,700000,"$788,000",94583,,,,Sold,CONTRA COSTA
+613,6206 Lakeview Cir,2.5,3.0,San Ramon,"1,960 sqft","Aug 5, 2013","$463,000",37.78266,-121.94304,CA,Condo,463000,"$737,000",94582,,,,Sold,CONTRA COSTA
+614,8187 Briar Oaks Dr,2.5,3.0,San Ramon,"2,242 sqft","Aug 5, 2013","$820,000",37.773132,-121.91286,CA,Single-Family Home,820000,"$930,000",94582,,,,Sold,CONTRA COSTA
+615,6106 Lakeview Cir,2.5,3.0,San Ramon,"2,648 sqft","Aug 5, 2013","$875,000",37.782345,-121.94674,CA,Townhouse,875000,"$1,016,000",94582,,,,Sold,CONTRA COSTA
+616,5948 Lantana Way,2.5,4.0,San Ramon,"2,449 sqft","Aug 2, 2013","$947,000",37.779053,-121.928925,CA,Townhouse,947000,"$1,041,000",94582,,,,Sold,CONTRA COSTA
+617,14 Almond Orchard Ln,2.5,2.0,San Ramon,"1,626 sqft","Aug 2, 2013","$670,000",37.738106,-121.95289,CA,Townhouse,670000,"$733,000",94583,,,,Sold,CONTRA COSTA
+618,204 Dandelion Ln,3.0,4.0,San Ramon,"2,565 sqft","Aug 2, 2013","$925,000",37.786255,-121.92298,CA,Single-Family Home,925000,"$1,027,000",94582,,,,Sold,CONTRA COSTA
+619,3155 Riviera Way,2.5,5.0,San Ramon,"2,410 sqft","Aug 2, 2013","$752,000",37.74493,-121.9457,CA,Single-Family Home,752000,"$919,000",94583,,,,Sold,CONTRA COSTA
+620,480 Bollinger Canyon Ln #173,1.0,1.0,San Ramon,657 sqft,"Aug 1, 2013","$270,000",37.7732,-121.94426,CA,Condo,270000,"$322,000",94582,,,,Sold,CONTRA COSTA
+621,9120 S Gale Ridge Rd,3.0,4.0,San Ramon,"2,970 sqft","Aug 1, 2013","$1,125,000",37.768513,-121.93222,CA,Townhouse,1125000,"$1,256,000",94582,,,,Sold,CONTRA COSTA
+622,1080 Quartermaster Canyon Rd,3.0,3.0,San Ramon,"2,804 sqft","Aug 1, 2013","$915,000",37.785393,-121.94002,CA,Townhouse,915000,"$1,105,000",94582,,,,Sold,CONTRA COSTA
+623,3634 Cinnamon Ridge Rd,2.5,3.0,San Ramon,"2,501 sqft","Aug 1, 2013","$882,000",37.767094,-121.91722,CA,Townhouse,882000,"$1,066,000",94582,,,,Sold,CONTRA COSTA
+624,4283 Astor Hollow St,,,San Ramon,,"Aug 1, 2013","$903,000",37.76101,-121.91464,CA,Single-Family Home,903000,,94582,,,,Sold,CONTRA COSTA
+625,3674 Cinnamon Ridge Rd,3.5,3.0,San Ramon,"2,932 sqft","Aug 1, 2013","$1,186,000",37.76753,-121.917854,CA,Townhouse,1186000,"$1,167,000",94582,,,,Sold,CONTRA COSTA
+626,3101 Wrangler Rd,3.0,4.0,San Ramon,"2,595 sqft","Jul 31, 2013","$842,000",37.7908,-121.92652,CA,Townhouse,842000,"$984,000",94582,,,,Sold,CONTRA COSTA
+627,2747 Mohawk Cir,3.0,3.0,San Ramon,"2,539 sqft","Jul 31, 2013","$950,000",37.751904,-121.96298,CA,Townhouse,950000,"$1,000,000",94583,,,,Sold,CONTRA COSTA
+628,6208 Lakeview Cir,2.5,3.0,San Ramon,"1,793 sqft","Jul 31, 2013","$614,000",37.782715,-121.942955,CA,Condo,614000,"$733,000",94582,,,,Sold,CONTRA COSTA
+629,4289 Astor Hollow St,,,San Ramon,,"Jul 31, 2013","$907,500",37.76106,-121.91453,CA,Unknown,907500,,94582,,,,Sold,CONTRA COSTA
+630,5017 Fioli Loop,2.5,3.0,San Ramon,"2,140 sqft","Jul 31, 2013","$669,000",37.771633,-121.9004,CA,Condo,669000,"$860,000",94582,,,,Sold,CONTRA COSTA
+631,9158 Tangerine St,2.0,3.0,San Ramon,"1,398 sqft","Jul 31, 2013","$465,000",37.730732,-121.92344,CA,Single-Family Home,465000,"$631,000",94583,,,,Sold,CONTRA COSTA
+632,6277 Byron Ln,2.5,3.0,San Ramon,"2,028 sqft","Jul 31, 2013","$625,000",37.749786,-121.89785,CA,Condo,625000,"$762,000",94582,,,,Sold,CONTRA COSTA
+633,108 Jasper Hill Ct,3.0,4.0,San Ramon,"2,520 sqft","Jul 31, 2013","$850,000",37.76024,-121.90056,CA,Single-Family Home,850000,"$1,075,000",94582,,,,Sold,CONTRA COSTA
+634,1134 S Chanterella Dr,3.0,4.0,San Ramon,"2,811 sqft","Jul 31, 2013","$1,110,000",37.769745,-121.93923,CA,Townhouse,1110000,"$1,195,000",94582,,,,Sold,CONTRA COSTA
+635,3069 Lakemont Dr #4,2.0,3.0,San Ramon,"1,778 sqft","Jul 30, 2013","$670,000",37.78003,-121.95055,CA,Condo,670000,"$683,000",94582,,,,Sold,CONTRA COSTA
+636,120 Fallbury Ct,3.0,4.0,San Ramon,"3,020 sqft","Jul 30, 2013","$895,000",37.75615,-121.94775,CA,Townhouse,895000,"$1,003,000",94583,,,,Sold,CONTRA COSTA
+637,2258 Bayleaf Dr,,,San Ramon,,"Jul 30, 2013","$902,000",37.767567,-121.913704,CA,Unknown,902000,,94582,,,,Sold,CONTRA COSTA
+638,9608 Velvet Leaf Cir,3.0,4.0,San Ramon,"3,039 sqft","Jul 30, 2013","$1,135,000",37.764805,-121.935,CA,Townhouse,1135000,"$1,305,000",94582,,,,Sold,CONTRA COSTA
+639,12235 Toluca Dr,2.0,3.0,San Ramon,"2,112 sqft","Jul 30, 2013","$785,000",37.754417,-121.94302,CA,Single-Family Home,785000,"$990,000",94583,,,,Sold,CONTRA COSTA
+640,9583 Ernwood St,2.5,5.0,San Ramon,"1,711 sqft","Jul 29, 2013","$810,000",37.729313,-121.93743,CA,Single-Family Home,810000,"$871,000",94583,,,,Sold,CONTRA COSTA
+641,9979 Mangos Dr,3.0,4.0,San Ramon,"3,059 sqft","Jul 29, 2013","$955,000",37.7517,-121.94301,CA,Single-Family Home,955000,"$1,041,000",94583,,,,Sold,CONTRA COSTA
+642,504 Haiti Ct,2.5,4.0,San Ramon,"2,362 sqft","Jul 29, 2013","$854,000",37.780926,-121.9615,CA,Townhouse,854000,"$1,045,000",94582,,,,Sold,CONTRA COSTA
+643,148 Maidenhair Ct,2.5,3.0,San Ramon,"1,606 sqft","Jul 29, 2013","$655,000",37.771893,-121.91064,CA,Townhouse,655000,"$774,000",94582,,,,Sold,CONTRA COSTA
+644,54 Tom Ct,2.0,4.0,San Ramon,"1,885 sqft","Jul 26, 2013","$689,000",37.7393,-121.944084,CA,Single-Family Home,689000,"$800,000",94583,,,,Sold,CONTRA COSTA
+645,2947 Sombrero Cir,2.0,3.0,San Ramon,"1,708 sqft","Jul 26, 2013","$591,500",37.75471,-121.96541,CA,Townhouse,591500,"$768,000",94583,,,,Sold,CONTRA COSTA
+646,3318 Browntail Way,3.0,4.0,San Ramon,"2,019 sqft","Jul 26, 2013","$821,000",37.772057,-121.908195,CA,Townhouse,821000,"$897,000",94582,,,,Sold,CONTRA COSTA
+647,4295 Astor Hollow St,,,San Ramon,,"Jul 26, 2013","$761,000",37.761105,-121.91441,CA,Single-Family Home,761000,,94582,,,,Sold,CONTRA COSTA
+648,7 Poppy Hills Ln,2.5,2.0,San Ramon,"1,626 sqft","Jul 26, 2013","$665,000",37.73733,-121.95289,CA,Townhouse,665000,"$726,000",94583,,,,Sold,CONTRA COSTA
+649,70 Lansford Ct,3.5,4.0,San Ramon,"3,292 sqft","Jul 26, 2013","$1,085,000",37.770924,-121.95252,CA,Single-Family Home,1085000,"$1,273,000",94582,,,,Sold,CONTRA COSTA
+650,188 Copper Ridge Rd #59,2.5,2.0,San Ramon,"1,314 sqft","Jul 26, 2013","$442,000",37.76923,-121.94719,CA,Condo,442000,"$558,000",94582,,,,Sold,CONTRA COSTA
+651,440 Bollinger Canyon Ln #297,1.0,1.0,San Ramon,657 sqft,"Jul 26, 2013","$242,000",37.772137,-121.943535,CA,Condo,242000,"$328,000",94582,,,,Sold,CONTRA COSTA
+652,2612 Menorca Ct,2.5,4.0,San Ramon,"2,718 sqft","Jul 26, 2013","$905,000",37.764423,-121.97941,CA,Townhouse,905000,"$957,000",94583,,,,Sold,CONTRA COSTA
+653,513 Columbia Creek Dr,3.5,5.0,San Ramon,"3,672 sqft","Jul 26, 2013","$991,000",37.736126,-121.91643,CA,Single-Family Home,991000,"$1,267,000",94582,,,,Sold,CONTRA COSTA
+654,91 Boxford Pl,2.0,4.0,San Ramon,"1,544 sqft","Jul 26, 2013","$665,000",37.737946,-121.94471,CA,Single-Family Home,665000,"$744,000",94583,,,,Sold,CONTRA COSTA
+655,4335 Canyon Crest Rd W,3.0,4.0,San Ramon,"2,824 sqft","Jul 26, 2013","$911,500",37.78812,-121.94966,CA,Townhouse,911500,"$1,118,000",94582,,,,Sold,CONTRA COSTA
+656,9831 Belladonna Dr,2.5,3.0,San Ramon,"1,436 sqft","Jul 26, 2013","$620,000",37.77458,-121.91869,CA,Townhouse,620000,"$739,000",94582,,,,Sold,CONTRA COSTA
+657,128 Canyon Lakes Way,2.5,4.0,San Ramon,"3,024 sqft","Jul 26, 2013","$945,000",37.77705,-121.95531,CA,Townhouse,945000,"$1,117,000",94582,,,,Sold,CONTRA COSTA
+658,6022 Dalton Way,3.0,4.0,San Ramon,"2,062 sqft","Jul 26, 2013","$826,000",37.75006,-121.89991,CA,Single-Family Home,826000,"$883,000",94582,,,,Sold,CONTRA COSTA
+659,124 Eastridge Dr #169,1.0,2.0,San Ramon,985 sqft,"Jul 25, 2013","$365,000",37.76817,-121.94125,CA,Condo,365000,"$441,000",94582,,,,Sold,CONTRA COSTA
+660,3014 Lakemont Dr #3,2.0,2.0,San Ramon,"1,474 sqft","Jul 25, 2013","$541,000",37.7812,-121.95171,CA,Condo,541000,"$676,000",94582,,,,Sold,CONTRA COSTA
+661,9953 Alcosta Blvd,3.0,6.0,San Ramon,"2,774 sqft","Jul 25, 2013","$860,000",37.748455,-121.93415,CA,Single-Family Home,860000,"$932,000",94583,,,,Sold,CONTRA COSTA
+662,3039 Hastings Way,4.5,5.0,San Ramon,"3,716 sqft","Jul 25, 2013","$1,169,000",37.75288,-121.90469,CA,Single-Family Home,1169000,"$1,213,000",94582,,,,Sold,CONTRA COSTA
+663,3077 Lakemont Dr #2,2.0,2.0,San Ramon,"1,252 sqft","Jul 25, 2013","$558,500",37.780125,-121.950066,CA,Condo,558500,"$585,000",94582,,,,Sold,CONTRA COSTA
+664,420 Summercreek Ln,2.0,3.0,San Ramon,"1,735 sqft","Jul 25, 2013","$752,000",37.756657,-121.94664,CA,Townhouse,752000,"$807,000",94583,,,,Sold,CONTRA COSTA
+665,2062 Mornington Ln,2.5,4.0,San Ramon,"2,715 sqft","Jul 25, 2013","$950,000",37.756233,-121.89559,CA,Single-Family Home,950000,"$1,025,000",94582,,,,Sold,CONTRA COSTA
+666,3216 Browntail Way,3.0,4.0,San Ramon,"1,938 sqft","Jul 25, 2013","$767,000",37.771873,-121.90783,CA,Townhouse,767000,"$879,000",94582,,,,Sold,CONTRA COSTA
+667,3682 Cinnamon Ridge Rd,4.5,4.0,San Ramon,"3,207 sqft","Jul 24, 2013","$1,285,000",37.76753,-121.917854,CA,Townhouse,1285000,"$1,190,000",94582,,,,Sold,CONTRA COSTA
+668,14 Ute Ct,3.0,4.0,San Ramon,"1,905 sqft","Jul 24, 2013","$910,000",37.750343,-121.96323,CA,Townhouse,910000,"$925,000",94583,,,,Sold,CONTRA COSTA
+669,6812 Aberdale Cir,2.5,3.0,San Ramon,"1,675 sqft","Jul 24, 2013","$749,000",37.750008,-121.900566,CA,Single-Family Home,749000,"$789,000",94582,,,,Sold,CONTRA COSTA
+670,909 Regency Ct,2.5,5.0,San Ramon,"3,058 sqft","Jul 24, 2013","$1,230,000",37.740597,-121.920334,CA,Single-Family Home,1230000,"$1,464,000",94582,,,,Sold,CONTRA COSTA
+671,143 Sussex Ct,2.5,4.0,San Ramon,"3,176 sqft","Jul 24, 2013","$1,011,000",37.756927,-121.93878,CA,Townhouse,1011000,"$1,228,000",94582,,,,Sold,CONTRA COSTA
+672,2206 Camino Ramon,,,San Ramon,"5,040 sqft","Jul 24, 2013","$1,400,000",37.777287,-121.96861,CA,Condo,1400000,"$596,000",94583,,,,Sold,CONTRA COSTA
+673,2264 Bayleaf Dr,,,San Ramon,,"Jul 24, 2013","$912,500",37.767754,-121.91326,CA,Single-Family Home,912500,,94582,,,,Sold,CONTRA COSTA
+674,2479 Basswood Dr,2.5,3.0,San Ramon,"2,379 sqft","Jul 24, 2013","$925,000",37.76952,-121.91494,CA,Single-Family Home,925000,"$947,000",94582,,,,Sold,CONTRA COSTA
+675,2522 Tamworth Ln,5.0,4.0,San Ramon,"4,177 sqft","Jul 23, 2013","$1,250,000",37.75882,-121.88674,CA,Single-Family Home,1250000,"$1,374,000",94582,,,,Sold,CONTRA COSTA
+676,3867 Ayers Way,2.5,4.0,San Ramon,"2,503 sqft","Jul 23, 2013","$900,000",37.76377,-121.89092,CA,Single-Family Home,900000,"$986,000",94582,,,,Sold,CONTRA COSTA
+677,3087 Bernard Ave,2.0,3.0,San Ramon,"1,549 sqft","Jul 23, 2013","$685,000",37.743446,-121.94155,CA,Single-Family Home,685000,"$773,000",94583,,,,Sold,CONTRA COSTA
+678,3071 Marble Canyon Pl,2.0,3.0,San Ramon,"2,444 sqft","Jul 22, 2013","$861,000",37.78982,-121.94807,CA,Townhouse,861000,"$1,036,000",94582,,,,Sold,CONTRA COSTA
+679,2719 Salisbury Way,3.0,4.0,San Ramon,"2,953 sqft","Jul 22, 2013","$959,000",37.754803,-121.89604,CA,Single-Family Home,959000,"$1,088,000",94582,,,,Sold,CONTRA COSTA
+680,5208 Kenilworth Way,2.5,3.0,San Ramon,"2,379 sqft","Jul 19, 2013","$899,000",37.773357,-121.908615,CA,Single-Family Home,899000,"$984,000",94582,,,,Sold,CONTRA COSTA
+681,100 Triana Way,2.5,4.0,San Ramon,"1,969 sqft","Jul 19, 2013","$660,000",37.727165,-121.9299,CA,Single-Family Home,660000,"$842,000",94583,,,,Sold,CONTRA COSTA
+682,2690 Deerwood Dr,3.5,3.0,San Ramon,"1,430 sqft","Jul 19, 2013","$710,000",37.775387,-121.98642,CA,Townhouse,710000,"$813,000",94583,,,,Sold,CONTRA COSTA
+683,7247 Briza Loop,3.0,4.0,San Ramon,"1,685 sqft","Jul 19, 2013","$695,000",37.776463,-121.92841,CA,Condo,695000,"$787,000",94582,,,,Sold,CONTRA COSTA
+684,809 Barnwood Dr,2.0,4.0,San Ramon,"1,822 sqft","Jul 19, 2013","$681,000",37.7545,-121.96309,CA,Townhouse,681000,"$826,000",94583,,,,Sold,CONTRA COSTA
+685,9587 Sandpoint Dr,3.0,4.0,San Ramon,"2,495 sqft","Jul 19, 2013","$815,000",37.73042,-121.93767,CA,Single-Family Home,815000,"$893,000",94583,,,,Sold,CONTRA COSTA
+686,227 Silk Hill Ct,4.5,5.0,San Ramon,"4,610 sqft","Jul 19, 2013","$1,200,000",37.761242,-121.894035,CA,Single-Family Home,1200000,"$1,450,000",94582,,,,Sold,CONTRA COSTA
+687,109 Jasper Hill Ct,3.0,4.0,San Ramon,"2,736 sqft","Jul 19, 2013","$905,000",37.760147,-121.90101,CA,Single-Family Home,905000,"$1,006,000",94582,,,,Sold,CONTRA COSTA
+688,3709 Mesa Vista Dr,2.5,3.0,San Ramon,"1,790 sqft","Jul 19, 2013","$565,000",37.764133,-121.97602,CA,Condo,565000,"$637,000",94583,,,,Sold,CONTRA COSTA
+689,4241 Astor Hollow St,,,San Ramon,,"Jul 18, 2013","$895,500",37.76067,-121.91545,CA,Single-Family Home,895500,,94582,,,,Sold,CONTRA COSTA
+690,143 Minerva Way,3.0,5.0,San Ramon,"3,186 sqft","Jul 17, 2013","$1,000,000",37.74243,-121.956154,CA,Single-Family Home,1000000,"$1,148,000",94583,,,,Sold,CONTRA COSTA
+691,214 Bellflower Dr,2.5,3.0,San Ramon,"1,587 sqft","Jul 17, 2013","$680,000",37.78552,-121.92727,CA,Condo,680000,"$717,000",94582,,,,Sold,CONTRA COSTA
+692,1042 Vista Pointe Cir,2.5,3.0,San Ramon,"1,766 sqft","Jul 17, 2013","$758,000",37.773006,-121.95045,CA,Townhouse,758000,"$835,000",94582,,,,Sold,CONTRA COSTA
+693,12232 Toledo Dr,3.0,4.0,San Ramon,"2,694 sqft","Jul 17, 2013","$916,000",37.75493,-121.94541,CA,Single-Family Home,916000,"$973,000",94583,,,,Sold,CONTRA COSTA
+694,3047 Montevideo Dr,2.0,3.0,San Ramon,"1,842 sqft","Jul 17, 2013","$752,000",37.75138,-121.95273,CA,Single-Family Home,752000,"$820,000",94583,,,,Sold,CONTRA COSTA
+695,2227 Amaryllis Cir,2.5,4.0,San Ramon,"1,659 sqft","Jul 17, 2013","$685,000",37.77613,-121.92149,CA,Condo,685000,"$687,000",94582,,,,Sold,CONTRA COSTA
+696,4048 Marblehead Dr,2.5,4.0,San Ramon,"3,184 sqft","Jul 17, 2013","$1,330,000",37.74918,-121.93125,CA,Townhouse,1330000,"$1,359,000",94582,,,,Sold,CONTRA COSTA
+697,160 Maidenhair Ct,3.0,4.0,San Ramon,"1,938 sqft","Jul 17, 2013","$778,000",37.77206,-121.91051,CA,Townhouse,778000,"$865,000",94582,,,,Sold,CONTRA COSTA
+698,136 Woodcrest Dr,2.5,3.0,San Ramon,"2,148 sqft","Jul 17, 2013","$775,000",37.77569,-121.99099,CA,Townhouse,775000,"$867,000",94583,,,,Sold,CONTRA COSTA
+699,3083 Montevideo Dr,3.0,4.0,San Ramon,"2,448 sqft","Jul 16, 2013","$830,000",37.752953,-121.950645,CA,Single-Family Home,830000,"$932,000",94583,,,,Sold,CONTRA COSTA
+700,1284 Andreas Way,2.5,4.0,San Ramon,"3,223 sqft","Jul 16, 2013","$910,000",37.765423,-121.90409,CA,Single-Family Home,910000,"$1,092,000",94582,,,,Sold,CONTRA COSTA
+701,2309 Poppyview Ave,,,San Ramon,,"Jul 16, 2013","$996,000",37.767784,-121.91571,CA,Single-Family Home,996000,,94582,,,,Sold,CONTRA COSTA
+702,2301 Poppyview Ave,,,San Ramon,,"Jul 16, 2013","$961,500",37.76774,-121.91582,CA,Single-Family Home,961500,,94582,,,,Sold,CONTRA COSTA
+703,5115 Canyon Crest Dr,2.0,3.0,San Ramon,"2,290 sqft","Jul 16, 2013","$790,000",37.787464,-121.94221,CA,Townhouse,790000,"$1,021,000",94582,,,,Sold,CONTRA COSTA
+704,2121 Goldenrod Ln,3.0,4.0,San Ramon,"2,761 sqft","Jul 16, 2013","$890,000",37.78994,-121.9259,CA,Townhouse,890000,"$1,147,000",94582,,,,Sold,CONTRA COSTA
+705,2252 Bayleaf Dr,,,San Ramon,,"Jul 16, 2013","$1,061,500",37.767513,-121.91383,CA,Single-Family Home,1061500,,94582,,,,Sold,CONTRA COSTA
+706,148 Cortona Dr,2.0,3.0,San Ramon,"1,885 sqft","Jul 16, 2013","$708,000",37.766262,-121.94045,CA,Townhouse,708000,"$823,000",94582,,,,Sold,CONTRA COSTA
+707,556 Adriatic Ct,3.5,5.0,San Ramon,"2,667 sqft","Jul 16, 2013","$920,000",37.76489,-121.88963,CA,Single-Family Home,920000,"$988,000",94582,,,,Sold,CONTRA COSTA
+708,392 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Jul 16, 2013","$306,000",37.768883,-121.943146,CA,Condo,306000,"$346,000",94582,,,,Sold,CONTRA COSTA
+709,228 Lakeridge Way,2.5,3.0,San Ramon,"2,044 sqft","Jul 15, 2013","$780,000",37.786835,-121.948074,CA,Townhouse,780000,"$871,000",94582,,,,Sold,CONTRA COSTA
+710,133 Minerva Way,4.0,4.0,San Ramon,"3,165 sqft","Jul 15, 2013","$980,000",37.741882,-121.95734,CA,Single-Family Home,980000,"$1,334,000",94583,,,,Sold,CONTRA COSTA
+711,6166 Yardley Ln,2.5,3.0,San Ramon,"1,838 sqft","Jul 15, 2013","$655,000",37.751125,-121.89838,CA,Condo,655000,"$711,000",94582,,,,Sold,CONTRA COSTA
+712,7610 Corrinne Pl,2.0,4.0,San Ramon,"1,542 sqft","Jul 12, 2013","$455,500",37.724503,-121.93964,CA,Single-Family Home,455500,"$734,000",94583,,,,Sold,CONTRA COSTA
+713,5806 Cattleya Way,3.0,4.0,San Ramon,"2,717 sqft","Jul 12, 2013","$1,115,000",37.780434,-121.929695,CA,Townhouse,1115000,"$1,175,000",94582,,,,Sold,CONTRA COSTA
+714,137 Enchanted Way,2.5,4.0,San Ramon,"1,912 sqft","Jul 12, 2013","$720,000",37.77032,-121.992226,CA,Condo,720000,"$735,000",94583,,,,Sold,CONTRA COSTA
+715,2482 Ascension Dr,4.5,5.0,San Ramon,"3,199 sqft","Jul 12, 2013","$1,150,000",37.764477,-121.98615,CA,Townhouse,1150000,"$1,233,000",94583,,,,Sold,CONTRA COSTA
+716,32 Longhorn Ct,2.0,3.0,San Ramon,"1,708 sqft","Jul 12, 2013","$730,000",37.753273,-121.963326,CA,Townhouse,730000,"$773,000",94583,,,,Sold,CONTRA COSTA
+717,2240 Bayleaf Dr,,,San Ramon,,"Jul 12, 2013","$837,000",37.767406,-121.91409,CA,Single-Family Home,837000,,94582,,,,Sold,CONTRA COSTA
+718,2246 Bayleaf Dr,,,San Ramon,,"Jul 12, 2013","$914,000",37.76746,-121.91396,CA,Single-Family Home,914000,,94582,,,,Sold,CONTRA COSTA
+719,3371 El Suyo Dr,2.0,4.0,San Ramon,"1,883 sqft","Jul 12, 2013","$690,000",37.75192,-121.937126,CA,Single-Family Home,690000,"$843,000",94583,,,,Sold,CONTRA COSTA
+720,6232 Murdock Way,3.0,4.0,San Ramon,"3,064 sqft","Jul 12, 2013","$975,000",37.750973,-121.889465,CA,Single-Family Home,975000,"$1,115,000",94582,,,,Sold,CONTRA COSTA
+721,105 Reflections Dr #22,2.0,2.0,San Ramon,949 sqft,"Jul 11, 2013","$360,000",37.76181,-121.94972,CA,Condo,360000,"$433,000",94583,,,,Sold,CONTRA COSTA
+722,2862 Calais Dr,2.0,3.0,San Ramon,"1,647 sqft","Jul 11, 2013","$710,000",37.74066,-121.94744,CA,Single-Family Home,710000,"$746,000",94583,,,,Sold,CONTRA COSTA
+723,1562 Banbury Dr,3.0,4.0,San Ramon,"2,434 sqft","Jul 11, 2013","$875,000",37.754536,-121.89983,CA,Single-Family Home,875000,"$1,040,000",94582,,,,Sold,CONTRA COSTA
+724,2852 Milo Way,2.5,4.0,San Ramon,"1,573 sqft","Jul 10, 2013","$750,000",37.7455,-121.953064,CA,Single-Family Home,750000,"$783,000",94583,,,,Sold,CONTRA COSTA
+725,3060 Marble Canyon Pl,2.0,3.0,San Ramon,"2,444 sqft","Jul 10, 2013","$955,000",37.790257,-121.94807,CA,Townhouse,955000,"$1,057,000",94582,,,,Sold,CONTRA COSTA
+726,409 Pine Ridge Dr #164,2.5,2.0,San Ramon,"1,314 sqft","Jul 10, 2013","$412,000",37.767563,-121.94561,CA,Condo,412000,"$558,000",94582,,,,Sold,CONTRA COSTA
+727,672 Carrington Ct,3.5,4.0,San Ramon,"2,597 sqft","Jul 10, 2013","$910,000",37.75244,-121.89856,CA,Single-Family Home,910000,"$1,010,000",94582,,,,Sold,CONTRA COSTA
+728,3068 Lakemont Dr #2,2.0,2.0,San Ramon,"1,252 sqft","Jul 10, 2013","$575,000",37.78036,-121.95081,CA,Condo,575000,"$587,000",94582,,,,Sold,CONTRA COSTA
+729,400 S Overlook Dr #248,1.0,1.0,San Ramon,778 sqft,"Jul 10, 2013","$300,000",37.76649,-121.94461,CA,Condo,300000,"$343,000",94582,,,,Sold,CONTRA COSTA
+730,2612 Ashwell Ln,2.5,3.0,San Ramon,"2,028 sqft","Jul 9, 2013","$660,000",37.763653,-121.906166,CA,Condo,660000,"$753,000",94582,,,,Sold,CONTRA COSTA
+731,2325 Poppyview Ave,,,San Ramon,,"Jul 9, 2013","$1,040,000",37.767876,-121.91549,CA,Single-Family Home,1040000,,94582,,,,Sold,CONTRA COSTA
+732,235 Lasso Cir,3.0,3.0,San Ramon,"2,539 sqft","Jul 9, 2013","$915,000",37.76054,-121.98092,CA,Townhouse,915000,"$989,000",94583,,,,Sold,CONTRA COSTA
+733,2719 Canyon Creek Dr,2.0,3.0,San Ramon,"1,812 sqft","Jul 9, 2013","$733,000",37.771202,-121.98308,CA,Single-Family Home,733000,"$860,000",94583,,,,Sold,CONTRA COSTA
+734,2317 Poppyview Ave,,,San Ramon,,"Jul 9, 2013","$1,144,000",37.76783,-121.9156,CA,Unknown,1144000,,94582,,,,Sold,CONTRA COSTA
+735,1900 Knollcrest Ct,3.5,4.0,San Ramon,"3,391 sqft","Jul 9, 2013","$1,250,000",37.745125,-121.91909,CA,Single-Family Home,1250000,"$1,391,000",94582,,,,Sold,CONTRA COSTA
+736,311 Andros Dr,2.5,4.0,San Ramon,"2,685 sqft","Jul 9, 2013","$938,000",37.77979,-121.95997,CA,Townhouse,938000,"$1,148,000",94582,,,,Sold,CONTRA COSTA
+737,6032 Hedgecrest Cir,3.0,3.0,San Ramon,"2,716 sqft","Jul 9, 2013","$1,210,000",37.773563,-121.934074,CA,Townhouse,1210000,"$1,194,000",94582,,,,Sold,CONTRA COSTA
+738,9775 Davona Dr,2.0,3.0,San Ramon,"1,248 sqft","Jul 8, 2013","$601,000",37.741566,-121.95196,CA,Single-Family Home,601000,"$677,000",94583,,,,Sold,CONTRA COSTA
+739,205 Aspenwood Ct,2.5,4.0,San Ramon,"2,224 sqft","Jul 8, 2013","$945,000",37.7754,-121.94165,CA,Townhouse,945000,"$1,040,000",94582,,,,Sold,CONTRA COSTA
+740,35 Hidden Canyon Ct,2.0,3.0,San Ramon,"2,290 sqft","Jul 5, 2013","$836,000",37.788452,-121.9457,CA,Townhouse,836000,"$978,000",94582,,,,Sold,CONTRA COSTA
+741,2933 Cedarwood Loop,2.5,4.0,San Ramon,"1,659 sqft","Jul 3, 2013","$695,000",37.771767,-121.920494,CA,Condo,695000,"$745,000",94582,,,,Sold,CONTRA COSTA
+742,801 Pipers Brook Ct,4.0,5.0,San Ramon,"4,013 sqft","Jul 3, 2013","$1,200,000",37.761543,-121.8985,CA,Single-Family Home,1200000,"$1,269,000",94582,,,,Sold,CONTRA COSTA
+743,9022 Craydon Cir,1.0,1.0,San Ramon,612 sqft,"Jul 3, 2013","$140,000",37.728287,-121.92393,CA,Condo,140000,"$220,000",94583,,,,Sold,CONTRA COSTA
+744,6191 Yardley Ln,3.0,4.0,San Ramon,"2,141 sqft","Jul 3, 2013","$755,000",37.7503,-121.898155,CA,Condo,755000,"$759,000",94582,,,,Sold,CONTRA COSTA
+745,2411 Ascension Dr,3.0,4.0,San Ramon,"2,518 sqft","Jul 3, 2013","$910,000",37.764557,-121.991035,CA,Townhouse,910000,"$1,038,000",94583,,,,Sold,CONTRA COSTA
+746,610 Norris Canyon Ter,2.0,2.0,San Ramon,"1,069 sqft","Jul 3, 2013","$410,000",37.778816,-121.961464,CA,Condo,410000,"$468,000",94583,,,,Sold,CONTRA COSTA
+747,507 Destiny Ln,2.5,3.0,San Ramon,"1,378 sqft","Jul 3, 2013","$553,000",37.7789,-121.98714,CA,Condo,553000,"$673,000",94583,,,,Sold,CONTRA COSTA
+748,115 Mavis Pl,2.0,3.0,San Ramon,"1,382 sqft","Jul 2, 2013","$655,500",37.75013,-121.94732,CA,Single-Family Home,655500,"$699,000",94583,,,,Sold,CONTRA COSTA
+749,2532 Kilpatrick Ct,3.0,4.0,San Ramon,"2,113 sqft","Jul 2, 2013","$802,000",37.771984,-121.98651,CA,Single-Family Home,802000,"$972,000",94583,,,,Sold,CONTRA COSTA
+750,3514 Rosincress Dr,2.5,3.0,San Ramon,"2,740 sqft","Jul 2, 2013","$1,310,000",37.777504,-121.94026,CA,Townhouse,1310000,"$1,296,000",94582,,,,Sold,CONTRA COSTA
+751,3589 Rosincress Dr,3.5,4.0,San Ramon,"3,777 sqft","Jul 2, 2013","$1,389,000",37.781094,-121.94208,CA,Townhouse,1389000,"$1,501,000",94582,,,,Sold,CONTRA COSTA
+752,44 Bridlepath Ct,3.0,3.0,San Ramon,"1,972 sqft","Jul 2, 2013","$775,000",37.754753,-121.964584,CA,Townhouse,775000,"$847,000",94583,,,,Sold,CONTRA COSTA
+753,201 Lyndhurst Pl,4.5,6.0,San Ramon,"4,523 sqft","Jul 2, 2013","$1,440,000",37.75548,-122.00105,CA,Townhouse,1440000,"$1,697,000",94583,,,,Sold,CONTRA COSTA
+754,6081 W Branch Rd,2.0,3.0,San Ramon,"1,801 sqft","Jul 1, 2013","$750,000",37.76425,-121.917305,CA,Townhouse,750000,"$889,000",94582,,,,Sold,CONTRA COSTA
+755,7535 Northland Ave,2.0,4.0,San Ramon,"1,878 sqft","Jul 1, 2013","$713,000",37.732063,-121.94185,CA,Single-Family Home,713000,"$831,000",94583,,,,Sold,CONTRA COSTA
+756,2234 Bayleaf Dr,,,San Ramon,,"Jun 28, 2013","$971,500",37.76735,-121.91422,CA,Single-Family Home,971500,,94582,,,,Sold,CONTRA COSTA
+757,512 Riviera Pl,3.0,4.0,San Ramon,"2,448 sqft","Jun 28, 2013","$725,000",37.742542,-121.93177,CA,Single-Family Home,725000,"$933,000",94583,,,,Sold,CONTRA COSTA
+758,6940 Wisteria St,2.0,2.0,San Ramon,960 sqft,"Jun 28, 2013","$270,000",37.73059,-121.92488,CA,Single-Family Home,270000,"$504,000",94583,,,,Sold,CONTRA COSTA
+759,2360 Magnolia Bridge Dr,2.0,3.0,San Ramon,"1,731 sqft","Jun 28, 2013","$685,000",37.770744,-121.91335,CA,Townhouse,685000,"$821,000",94582,,,,Sold,CONTRA COSTA
+760,649 Shellsilver Ct,3.0,4.0,San Ramon,"2,657 sqft","Jun 28, 2013","$975,000",37.771633,-121.90678,CA,Single-Family Home,975000,"$1,177,000",94582,,,,Sold,CONTRA COSTA
+761,2572 Shadow Mountain Ct,3.5,4.0,San Ramon,"2,319 sqft","Jun 28, 2013","$870,000",37.77137,-121.980255,CA,Single-Family Home,870000,"$943,000",94583,,,,Sold,CONTRA COSTA
+762,35 Primrose Way,3.0,4.0,San Ramon,"2,495 sqft","Jun 28, 2013","$985,000",37.785034,-121.9211,CA,Single-Family Home,985000,"$1,157,000",94582,,,,Sold,CONTRA COSTA
+763,2880 Biddleford Dr,2.0,4.0,San Ramon,"1,448 sqft","Jun 28, 2013","$675,000",37.743282,-121.95038,CA,Single-Family Home,675000,"$737,000",94583,,,,Sold,CONTRA COSTA
+764,9701 Thunderbird Dr,2.0,3.0,San Ramon,"1,842 sqft","Jun 28, 2013","$781,000",37.7405,-121.93376,CA,Single-Family Home,781000,"$858,000",94583,,,,Sold,CONTRA COSTA
+765,16 Elmwood Dr,2.5,3.0,San Ramon,"1,411 sqft","Jun 28, 2013","$615,000",37.728436,-121.932304,CA,Townhouse,615000,"$696,000",94583,,,,Sold,CONTRA COSTA
+766,122 Alisma Ct,3.0,4.0,San Ramon,"2,373 sqft","Jun 28, 2013","$970,000",37.770546,-121.94075,CA,Townhouse,970000,"$1,155,000",94582,,,,Sold,CONTRA COSTA
+767,403 Santander Dr,3.0,4.0,San Ramon,"1,880 sqft","Jun 28, 2013","$670,000",37.76243,-121.97152,CA,Townhouse,670000,"$833,000",94583,,,,Sold,CONTRA COSTA
+768,2432 Milford Dr,2.5,3.0,San Ramon,"1,775 sqft","Jun 28, 2013","$760,000",37.760494,-121.90421,CA,Townhouse,760000,"$810,000",94582,,,,Sold,CONTRA COSTA
+769,52 Centennial Way,3.0,4.0,San Ramon,"2,474 sqft","Jun 28, 2013","$935,000",37.74458,-121.9601,CA,Townhouse,935000,"$1,013,000",94583,,,,Sold,CONTRA COSTA
+770,8463 Tiger Lily Dr,3.0,5.0,San Ramon,"2,775 sqft","Jun 27, 2013","$930,000",37.774624,-121.9159,CA,Single-Family Home,930000,"$992,000",94582,,,,Sold,CONTRA COSTA
+771,448 Regal Lily Ln,3.0,4.0,San Ramon,"1,697 sqft","Jun 27, 2013","$665,000",37.787354,-121.92516,CA,Condo,665000,"$742,000",94582,,,,Sold,CONTRA COSTA
+772,1824 Hollyview Dr,4.5,4.0,San Ramon,"2,974 sqft","Jun 27, 2013","$1,026,000",37.77785,-121.91942,CA,Single-Family Home,1026000,"$1,218,000",94582,,,,Sold,CONTRA COSTA
+773,117 Jasper Hill Ct,3.0,4.0,San Ramon,"2,403 sqft","Jun 27, 2013","$890,000",37.76027,-121.90112,CA,Single-Family Home,890000,"$1,006,000",94582,,,,Sold,CONTRA COSTA
+774,4071 Marblehead Dr,3.0,6.0,San Ramon,"3,547 sqft","Jun 27, 2013","$1,265,000",37.75031,-121.930725,CA,Townhouse,1265000,"$1,399,000",94582,,,,Sold,CONTRA COSTA
+775,48 Cuenca Ct,3.0,3.0,San Ramon,"2,585 sqft","Jun 27, 2013","$896,000",37.76612,-121.973206,CA,Townhouse,896000,"$976,000",94583,,,,Sold,CONTRA COSTA
+776,4235 Astor Hollow St,,,San Ramon,,"Jun 27, 2013","$837,500",37.760616,-121.915565,CA,Single-Family Home,837500,,94582,,,,Sold,CONTRA COSTA
+777,407 Deerhill Dr,2.5,3.0,San Ramon,"2,045 sqft","Jun 27, 2013","$785,000",37.77595,-121.99121,CA,Townhouse,785000,"$862,000",94583,,,,Sold,CONTRA COSTA
+778,294 Eastridge Dr,1.0,1.0,San Ramon,730 sqft,"Jun 26, 2013","$279,500",37.76932,-121.9418,CA,Condo,279500,"$327,000",94582,,,,Sold,CONTRA COSTA
+779,2622 Cedarwood Loop,2.5,3.0,San Ramon,"1,433 sqft","Jun 26, 2013","$635,000",37.772835,-121.920654,CA,Condo,635000,"$667,000",94582,,,,Sold,CONTRA COSTA
+780,539 Fallen Leaf Cir,3.0,4.0,San Ramon,"2,658 sqft","Jun 26, 2013","$845,000",37.75537,-121.94785,CA,Townhouse,845000,"$1,009,000",94583,,,,Sold,CONTRA COSTA
+781,74 Sage Cir,3.0,3.0,San Ramon,"2,291 sqft","Jun 26, 2013","$930,000",37.75493,-121.97309,CA,Townhouse,930000,"$1,071,000",94583,,,,Sold,CONTRA COSTA
+782,204 Hat Creek Ct,2.0,3.0,San Ramon,"1,644 sqft","Jun 26, 2013","$765,000",37.73311,-121.91242,CA,Single-Family Home,765000,"$860,000",94582,,,,Sold,CONTRA COSTA
+783,9785 Alcosta Blvd,2.0,4.0,San Ramon,"1,918 sqft","Jun 26, 2013","$675,000",37.74322,-121.93043,CA,Single-Family Home,675000,"$889,000",94583,,,,Sold,CONTRA COSTA
+784,2228 Bayleaf Dr,,,San Ramon,,"Jun 26, 2013","$924,000",37.767174,-121.91464,CA,Single-Family Home,924000,,94582,,,,Sold,CONTRA COSTA
+785,640 Lomond Cir,3.0,4.0,San Ramon,"3,176 sqft","Jun 25, 2013","$900,000",37.754738,-121.952545,CA,Single-Family Home,900000,"$1,076,000",94583,,,,Sold,CONTRA COSTA
+786,132 Claremont Crest Ct,2.5,3.0,San Ramon,"1,839 sqft","Jun 25, 2013","$785,000",37.77586,-121.99635,CA,Townhouse,785000,"$795,000",94583,,,,Sold,CONTRA COSTA
+787,624 Burney Creek Pl,2.0,3.0,San Ramon,"1,644 sqft","Jun 25, 2013","$702,500",37.731003,-121.9108,CA,Single-Family Home,702500,"$856,000",94582,,,,Sold,CONTRA COSTA
+788,6 Sandalwood Ln,2.5,3.0,San Ramon,"1,812 sqft","Jun 25, 2013","$675,000",37.774345,-121.993706,CA,Condo,675000,"$744,000",94583,,,,Sold,CONTRA COSTA
+789,2173 N Donovan Way,2.5,3.0,San Ramon,"1,646 sqft","Jun 25, 2013","$725,000",37.764103,-121.89449,CA,Townhouse,725000,"$779,000",94582,,,,Sold,CONTRA COSTA
+790,2222 Bayleaf Dr,,,San Ramon,,"Jun 25, 2013","$968,000",37.767117,-121.91478,CA,Single-Family Home,968000,,94582,,,,Sold,CONTRA COSTA
+791,5559 Wells Ln,4.0,4.0,San Ramon,"2,877 sqft","Jun 25, 2013","$990,000",37.77638,-121.89906,CA,Single-Family Home,990000,"$1,186,000",94582,,,,Sold,CONTRA COSTA
+792,275 Reflections Dr #16,1.0,1.0,San Ramon,474 sqft,"Jun 25, 2013","$185,000",37.761112,-121.949715,CA,Condo,185000,"$211,000",94583,,,,Sold,CONTRA COSTA
+793,511 Teresa Pl,3.0,4.0,San Ramon,"3,094 sqft","Jun 25, 2013","$930,000",37.755302,-121.9408,CA,Single-Family Home,930000,"$1,064,000",94583,,,,Sold,CONTRA COSTA
+794,131 Lyndhurst Pl,5.5,5.0,San Ramon,"5,034 sqft","Jun 25, 2013","$1,615,000",37.756878,-121.99837,CA,Townhouse,1615000,"$1,727,000",94583,,,,Sold,CONTRA COSTA
+795,2744 Mountain Ash Ln,3.0,4.0,San Ramon,"2,420 sqft","Jun 24, 2013","$981,500",37.770702,-121.91415,CA,Townhouse,981500,"$988,000",94582,,,,Sold,CONTRA COSTA
+796,115 Elegans Ct,4.5,4.0,San Ramon,"2,974 sqft","Jun 24, 2013","$1,050,000",37.778095,-121.92081,CA,Single-Family Home,1050000,"$1,228,000",94582,,,,Sold,CONTRA COSTA
+797,316 Norris Ct,3.0,4.0,San Ramon,"2,344 sqft","Jun 24, 2013","$862,000",37.76851,-121.980515,CA,Single-Family Home,862000,"$948,000",94583,,,,Sold,CONTRA COSTA

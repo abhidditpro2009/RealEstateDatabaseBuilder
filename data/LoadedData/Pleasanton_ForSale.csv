@@ -1,0 +1,128 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94566,4229 Wells St,2,3,Pleasanton,"1,224 sqft",31-Dec-69,$0 ,37.67061,-121.872375,CA,Single-Family Home,529000,,,,72,,For Sale,ALAMEDA
+94566,651 Concord Pl,2,2,Pleasanton,"1,096 sqft",31-Dec-69,$0 ,37.661137,-121.85539,CA,Townhome,399900,,,,52,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave #149,2,3,Pleasanton,"1,400 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,190000,,,,48,,For Sale,ALAMEDA
+94588,5308 Prato Ct,2.5,2,Pleasanton,"1,365 sqft",31-Dec-69,$0 ,37.693195,-121.891045,CA,Single-Family Home,400000,,,,52,,For Sale,ALAMEDA
+94566,3372 Smoketree Commons,2,2,Pleasanton,856 sqft,31-Dec-69,$0 ,37.664352,-121.85486,CA,Apt/Condo/Twnhm,399000,,,,52,,For Sale,ALAMEDA
+94566,456 Montori Ct,3,4,Pleasanton,"2,680 sqft",31-Dec-69,$0 ,37.6423,-121.80123,CA,Single-Family Home,1185000,,,,12,,For Sale,ALAMEDA
+94566,7230 Club House Dr,5.5,6,Pleasanton,"5,223 sqft",31-Dec-69,$0 ,37.62857,-121.85978,CA,Single-Family Home,1879000,,,,11,,For Sale,ALAMEDA
+94566,1056 Sycamore Creek Way,6,4,Pleasanton,"4,974 sqft",31-Dec-69,$0 ,37.64305,-121.86773,CA,Single-Family Home,1975000,,,,31,,For Sale,ALAMEDA
+94588,12 Deer Oaks Dr,4,5,Pleasanton,"4,242 sqft",31-Dec-69,$0 ,37.653748,-121.91023,CA,Single-Family Home,1698000,,,,18,,For Sale,ALAMEDA
+94588,4334 Fairlands Dr,3,3,Pleasanton,"1,596 sqft",31-Dec-69,$0 ,37.69328,-121.876305,CA,Condo,599000,,,,65,,For Sale,ALAMEDA
+94566,4758 Sutter Gate Ave,2,3,Pleasanton,"1,390 sqft",31-Dec-69,$0 ,37.686066,-121.88199,CA,Single-Family Home,749950,,,,52,,For Sale,ALAMEDA
+94566,3301 E Ruby Hill Dr,6.5,6,Pleasanton,"6,234 sqft",31-Dec-69,$0 ,37.64091,-121.801765,CA,Single-Family Home,2598000,,,,6,,For Sale,ALAMEDA
+94588,3636 Virgin Islands Ct,2,4,Pleasanton,"1,660 sqft",31-Dec-69,$0 ,37.67404,-121.90879,CA,Single-Family Home,745000,,,,43,,For Sale,ALAMEDA
+94566,3750 Smallwood Ct,4.5,5,Pleasanton,"4,748 sqft",31-Dec-69,$0 ,37.650177,-121.85024,CA,Single-Family Home,1829000,,,,20,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,2,Pleasanton,,31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,71000,,,,48,,For Sale,ALAMEDA
+94566,308 Adams Way,1,2,Pleasanton,"1,025 sqft",31-Dec-69,$0 ,37.662804,-121.86315,CA,Single-Family Home,899000,,,,51,,For Sale,ALAMEDA
+94566,2286 Camino Brazos,2.5,4,Pleasanton,"2,124 sqft",31-Dec-69,$0 ,37.668316,-121.89499,CA,Single-Family Home,899950,,,,28,,For Sale,ALAMEDA
+94588,5202 Armani Ct,2,3,Pleasanton,"1,719 sqft",31-Dec-69,$0 ,37.691013,-121.8871,CA,Single-Family Home,725000,,,,46,,For Sale,ALAMEDA
+94566,2295 Westbridge Ln,3.5,4,Pleasanton,"3,440 sqft",31-Dec-69,$0 ,37.633686,-121.86575,CA,Single-Family Home,1569000,,,,11,,For Sale,ALAMEDA
+94566,727 Vineyard Ter,5,5,Pleasanton,"4,480 sqft",31-Dec-69,$0 ,37.66478,-121.83728,CA,Single-Family Home,1695000,,,,9,,For Sale,ALAMEDA
+94566,4543 2nd St,3,4,Pleasanton,"2,584 sqft",31-Dec-69,$0 ,37.65893,-121.87366,CA,Single-Family Home,1197000,,,,92,,For Sale,ALAMEDA
+94566,3654 Pontina Ct,5.5,5,Pleasanton,"7,472 sqft",31-Dec-69,$0 ,37.63846,-121.809586,CA,Single-Family Home,2895000,,,,3,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,2,Pleasanton,,31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,139500,,,,43,,For Sale,ALAMEDA
+94588,9480 Blessing Dr,,,Pleasanton,,31-Dec-69,$0 ,37.691586,-121.943535,CA,Lot/Land,4000000,,,,26,,For Sale,ALAMEDA
+94588,4140 Foothill Rd,6.5,5,Pleasanton,"8,590 sqft",31-Dec-69,$0 ,37.670017,-121.928856,CA,Single-Family Home,6900000,,,,12,,For Sale,ALAMEDA
+94566,4198 Remillard Ct,3,5,Pleasanton,"4,000 sqft",31-Dec-69,$0 ,37.650738,-121.85676,CA,Single-Family Home,1590000,,,,17,,For Sale,ALAMEDA
+94566,622 Happy Valley Rd,,,Pleasanton,,31-Dec-69,$0 ,37.63697,-121.87668,CA,Lot/Land,1250000,,,,2,,For Sale,ALAMEDA
+94566,537 Saint Thomas Way,3,3,Pleasanton,"1,540 sqft",31-Dec-69,$0 ,37.66266,-121.855034,CA,Townhome,529000,,,,54,,For Sale,ALAMEDA
+94566,7749 Country Ln,6,5,Pleasanton,"7,916 sqft",31-Dec-69,$0 ,37.628174,-121.89015,CA,Single-Family Home,2799995,,,,0,,For Sale,ALAMEDA
+94566,1324 Hearst Dr,3.5,4,Pleasanton,"3,200 sqft",31-Dec-69,$0 ,37.652725,-121.848976,CA,Single-Family Home,1425000,,,,29,,For Sale,ALAMEDA
+94588,6718 Menlo Ct,2,3,Pleasanton,"1,489 sqft",31-Dec-69,$0 ,37.682507,-121.91129,CA,Single-Family Home,695000,,,,48,,For Sale,ALAMEDA
+94566,2711 Curlew Ct,2,,Pleasanton,"1,808 sqft",31-Dec-69,$0 ,37.680008,-121.889496,CA,Single-Family Home,899000,,,,69,,For Sale,ALAMEDA
+94566,910 Sherman Way,4,4,Pleasanton,"3,016 sqft",31-Dec-69,$0 ,37.6483,-121.87018,CA,Single-Family Home,1350000,,,,45,,For Sale,ALAMEDA
+94566,"3263 Vineyard Ave #, 105",2,3,Pleasanton,,31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,198000,,,,48,,For Sale,ALAMEDA
+94588,7283 Valley View Ct,2.5,3,Pleasanton,"1,928 sqft",31-Dec-69,$0 ,37.68806,-121.919624,CA,Townhome,640000,,,,43,,For Sale,ALAMEDA
+94588,3629 Huff Ct,2.5,4,Pleasanton,"2,489 sqft",31-Dec-69,$0 ,37.69176,-121.86667,CA,Single-Family Home,995000,,,,32,,For Sale,ALAMEDA
+94588,7898 Oak Creek Dr,3,5,Pleasanton,"2,814 sqft",31-Dec-69,$0 ,37.67352,-121.92041,CA,Single-Family Home,949999,,,,45,,For Sale,ALAMEDA
+94588,9426 Blessing Dr,3,5,Pleasanton,"4,000 sqft",31-Dec-69,$0 ,37.69207,-121.94184,CA,Single-Family Home,1900000,,,,22,,For Sale,ALAMEDA
+94588,1375 Briones Ct,4,4,Pleasanton,"3,182 sqft",31-Dec-69,$0 ,37.67972,-121.86466,CA,Single-Family Home,1450000,,,,40,,For Sale,ALAMEDA
+94566,1288 Concord St,3,4,Pleasanton,"2,785 sqft",31-Dec-69,$0 ,37.65408,-121.85322,CA,Single-Family Home,1190000,,,,29,,For Sale,ALAMEDA
+94566,210 E Angela St,,,Pleasanton,,31-Dec-69,$0 ,37.658176,-121.873344,CA,Single-Family Home,898000,,,,88,,For Sale,ALAMEDA
+94588,1505 Elderberry Ct,7,4,Pleasanton,"5,123 sqft",31-Dec-69,$0 ,37.63911,-121.90016,CA,Single-Family Home,2375000,,,,0,,For Sale,ALAMEDA
+94566,959 Mingoia St,4.5,5,Pleasanton,"4,035 sqft",31-Dec-69,$0 ,37.655724,-121.8254,CA,Single-Family Home,1996977,,,,2,,For Sale,ALAMEDA
+94588,7 Twelve Oaks Dr,4,3,Pleasanton,"3,457 sqft",31-Dec-69,$0 ,37.649895,-121.90926,CA,Single-Family Home,1650000,,,,12,,For Sale,ALAMEDA
+94588,8519 Lupine Ct,4,5,Pleasanton,"6,068 sqft",31-Dec-69,$0 ,37.63806,-121.90095,CA,Single-Family Home,3850000,,,,0,,For Sale,ALAMEDA
+94566,1297 Via Di Salerno,6,5,Pleasanton,"6,300 sqft",31-Dec-69,$0 ,37.640556,-121.809875,CA,Single-Family Home,2399000,,,,5,,For Sale,ALAMEDA
+94566,845 Division St #C,1.5,2,Pleasanton,948 sqft,31-Dec-69,$0 ,37.664963,-121.88063,CA,Condo,349000,,,,77,,For Sale,ALAMEDA
+94566,537 Saint Thomas Way,3,3,Pleasanton,"1,540 sqft",31-Dec-69,$0 ,37.66266,-121.855034,CA,Apt/Condo/Twnhm,529000,,,,54,,For Sale,ALAMEDA
+94588,6230 Ruxton Ct,2,4,Pleasanton,"1,756 sqft",31-Dec-69,$0 ,37.683113,-121.90455,CA,Single-Family Home,760000,,,,49,,For Sale,ALAMEDA
+94588,2562 Glen Isle Ave,3,4,Pleasanton,"2,292 sqft",31-Dec-69,$0 ,37.68963,-121.86887,CA,Single-Family Home,775000,,,,43,,For Sale,ALAMEDA
+94588,4334 Fairlands Dr,2,3,Pleasanton,"1,596 sqft",31-Dec-69,$0 ,37.69328,-121.876305,CA,Single-Family Home,599000,,,,65,,For Sale,ALAMEDA
+94566,4656 Inyo Ct,2,3,Pleasanton,"1,100 sqft",31-Dec-69,$0 ,37.682587,-121.88016,CA,Single-Family Home,679900,,,,55,,For Sale,ALAMEDA
+94588,3758 W Las Positas Blvd,3,6,Pleasanton,"2,678 sqft",31-Dec-69,$0 ,37.694546,-121.86634,CA,Single-Family Home,938000,,,,40,,For Sale,ALAMEDA
+94566,651 Concord Pl,1.5,2,Pleasanton,"1,096 sqft",31-Dec-69,$0 ,37.661137,-121.85539,CA,Condo,399900,,,,52,,For Sale,ALAMEDA
+94566,1110 Arak Ct,2.5,4,Pleasanton,"2,003 sqft",31-Dec-69,$0 ,37.655785,-121.853905,CA,Single-Family Home,1085000,,,,43,,For Sale,ALAMEDA
+94566,798 Vineyard Ter,,,Pleasanton,,31-Dec-69,$0 ,37.66299,-121.8335,CA,Lot/Land,1825000,,,,8,,For Sale,ALAMEDA
+94566,5230 Club House Dr,3,4,Pleasanton,"4,750 sqft",31-Dec-69,$0 ,37.63443,-121.86052,CA,Single-Family Home,1995000,,,,6,,For Sale,ALAMEDA
+94566,3231 Vineyard Ave #124,2,2,Pleasanton,,31-Dec-69,$0 ,37.666885,-121.85086,CA,Mobile/Manufactured,79500,,,,42,,For Sale,ALAMEDA
+94588,7666 Flagstone Dr,3,6,Pleasanton,"3,927 sqft",31-Dec-69,$0 ,37.682228,-121.92006,CA,Single-Family Home,1298800,,,,42,,For Sale,ALAMEDA
+94588,1512 Honey Suckle Ct,,,Pleasanton,,31-Dec-69,$0 ,37.637745,-121.90162,CA,Lot/Land,1000000,,,,0,,For Sale,ALAMEDA
+94566,7402 Foothill Rd,2,3,Pleasanton,"2,350 sqft",31-Dec-69,$0 ,37.633358,-121.88777,CA,Single-Family Home,1950000,,,,11,,For Sale,ALAMEDA
+94566,1032 Sycamore Creek Way,6,4,Pleasanton,"4,974 sqft",31-Dec-69,$0 ,37.642773,-121.86846,CA,Single-Family Home,2195000,,,,34,,For Sale,ALAMEDA
+94566,3635 E Ruby Hill Dr,,,Pleasanton,,31-Dec-69,$0 ,37.634735,-121.80316,CA,Lot/Land,925000,,,,2,,For Sale,ALAMEDA
+94566,Happy Valley Rd,,,Pleasanton,,31-Dec-69,$0 ,37.637108,-121.886389,CA,Lot/Land,1200000,,,,,,For Sale,ALAMEDA
+94566,7021 Corte Blanca,3,4,Pleasanton,"2,632 sqft",31-Dec-69,$0 ,37.66779,-121.9076,CA,Single-Family Home,1085000,,,,29,,For Sale,ALAMEDA
+94566,788 Vineyard Ter,7,6,Pleasanton,"6,476 sqft",31-Dec-69,$0 ,37.664352,-121.836205,CA,Single-Family Home,2750000,,,,11,,For Sale,ALAMEDA
+94566,6 Winding Oaks Dr,,,Pleasanton,,31-Dec-69,$0 ,37.65922,-121.83084,CA,Lot/Land,1345000,,,,6,,For Sale,ALAMEDA
+94566,2 Winding Oaks Dr,,,Pleasanton,,31-Dec-69,$0 ,37.659286,-121.83088,CA,Lot/Land,845000,,,,6,,For Sale,ALAMEDA
+94566,3 Winding Oaks Dr,,,Pleasanton,,31-Dec-69,$0 ,37.65921,-121.831215,CA,Lot/Land,895000,,,,6,,For Sale,ALAMEDA
+94566,4105 Parma Ct,6,6,Pleasanton,"7,000 sqft",31-Dec-69,$0 ,37.634163,-121.80716,CA,Single-Family Home,2475000,,,,3,,For Sale,ALAMEDA
+94566,3689 Vine St,,,Pleasanton,,31-Dec-69,$0 ,37.664207,-121.86036,CA,Lot/Land,447000,,,,57,,For Sale,ALAMEDA
+94566,6443 Alisal St,2,5,Pleasanton,"2,082 sqft",31-Dec-69,$0 ,37.636967,-121.87116,CA,Single-Family Home,1200000,,,,12,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,2,Pleasanton,"1,440 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,84750,,,,45,,For Sale,ALAMEDA
+94566,Riesling Plan,3.5,4,Pleasanton,"3,909 sqft",31-Dec-69,$0 ,37.65945,-121.8281,CA,Single-Family Home,1514995,,,,3,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,3,Pleasanton,"1,600 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,299000,,,,45,,For Sale,ALAMEDA
+94588,2303 Gloria Ct,4,5,Pleasanton,"3,991 sqft",31-Dec-69,$0 ,37.64873,-121.90524,CA,Single-Family Home,1399988,,,,9,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,3,Pleasanton,"1,600 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,269750,,,,40,,For Sale,ALAMEDA
+94588,Dublin Canyon Rd,,,Pleasanton,,31-Dec-69,$0 ,37.696833,-121.970113,CA,Lot/Land,3500000,,,,28,,For Sale,ALAMEDA
+94566,1006 Zinfandel Ct,3,5,Pleasanton,"3,506 sqft",31-Dec-69,$0 ,37.658287,-121.846016,CA,Single-Family Home,1295950,,,,26,,For Sale,ALAMEDA
+94588,Yosemite Ct S,2,3,Pleasanton,"1,576 sqft",31-Dec-69,$0 ,37.67726,-121.90897,CA,Single-Family Home,250000,,,,51,,For Sale,ALAMEDA
+94588,3170 Kirkcaldy St,2,3,Pleasanton,"1,536 sqft",31-Dec-69,$0 ,37.700104,-121.85955,CA,Single-Family Home,799950,,,,38,,For Sale,ALAMEDA
+94566,Peregrine Way,,2,Pleasanton,"1,389 sqft",31-Dec-69,$0 ,37.67923,-121.86814,CA,Single-Family Home,70000,,,,62,,For Sale,ALAMEDA
+94588,Ashwood Dr,2,4,Pleasanton,"2,176 sqft",31-Dec-69,$0 ,37.671085,-121.911934,CA,Single-Family Home,423750,,,,38,,For Sale,ALAMEDA
+94588,Ballantyne Dr,2,4,Pleasanton,"2,126 sqft",31-Dec-69,$0 ,37.698544,-121.86025,CA,Single-Family Home,591500,,,,34,,For Sale,ALAMEDA
+94566,Corte Sierra,3,5,Pleasanton,"2,723 sqft",31-Dec-69,$0 ,37.67236,-121.89198,CA,Single-Family Home,600000,,,,49,,For Sale,ALAMEDA
+94588,Appian St,2,4,Pleasanton,"2,247 sqft",31-Dec-69,$0 ,37.693047,-121.88839,CA,Single-Family Home,160765,,,,45,,For Sale,ALAMEDA
+94566,Concord Pl,1,2,Pleasanton,"1,096 sqft",31-Dec-69,$0 ,37.66034,-121.85548,CA,Condo,193500,,,,52,,For Sale,ALAMEDA
+94588,Snowdrop Cir,2,3,Pleasanton,"1,635 sqft",31-Dec-69,$0 ,37.69323,-121.859726,CA,Single-Family Home,702348,,,,31,,For Sale,ALAMEDA
+94588,Driftwood Way,2,5,Pleasanton,"1,810 sqft",31-Dec-69,$0 ,37.679222,-121.91896,CA,Single-Family Home,704000,,,,46,,For Sale,ALAMEDA
+94566,Vineyard Ave #C,2,2,Pleasanton,851 sqft,31-Dec-69,$0 ,37.662987,-121.86385,CA,Condo,284000,,,,62,,For Sale,ALAMEDA
+94588,Arroyo Dr #4,1,2,Pleasanton,810 sqft,31-Dec-69,$0 ,37.6511,-121.905205,CA,Condo,292000,,,,25,,For Sale,ALAMEDA
+94566,Norton Way 1,2,2,Pleasanton,"1,029 sqft",31-Dec-69,$0 ,37.66207,-121.853836,CA,Condo,363979,,,,54,,For Sale,ALAMEDA
+94566,Pipit Ct,3,6,Pleasanton,"2,560 sqft",31-Dec-69,$0 ,37.681595,-121.881294,CA,Single-Family Home,962814,,,,57,,For Sale,ALAMEDA
+94588,Ashwood Dr,2,4,Pleasanton,"1,519 sqft",31-Dec-69,$0 ,37.669956,-121.91276,CA,Single-Family Home,689413,,,,38,,For Sale,ALAMEDA
+94588,Cranwood Ct,3,4,Pleasanton,"1,978 sqft",31-Dec-69,$0 ,37.693565,-121.868614,CA,Single-Family Home,890627,,,,49,,For Sale,ALAMEDA
+94588,Isle Royal Ct,2,4,Pleasanton,"1,562 sqft",31-Dec-69,$0 ,37.67582,-121.903915,CA,Single-Family Home,690233,,,,52,,For Sale,ALAMEDA
+94566,Smoketree Commns Dr,,,Pleasanton,,31-Dec-69,$0 ,37.6645,-121.85509,CA,Unspecified,358000,,,,52,,For Sale,ALAMEDA
+94566,Trotter Way,2,4,Pleasanton,"2,033 sqft",31-Dec-69,$0 ,37.657215,-121.904495,CA,Single-Family Home,67000,,,,35,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,3,Pleasanton,"1,725 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,299000,,,,40,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,3,Pleasanton,"1,725 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,299000,,,,45,,For Sale,ALAMEDA
+94566,3263 Vineyard Ave,2,2,Pleasanton,"1,340 sqft",31-Dec-69,$0 ,37.666653,-121.853485,CA,Mobile/Manufactured,269750,,,,42,,For Sale,ALAMEDA
+94588,Canyon Meadows Cir C,1,1,Pleasanton,790 sqft,31-Dec-69,$0 ,37.695934,-121.948944,CA,Condo,165000,,,,28,,For Sale,ALAMEDA
+94566,Vineyard Ave,2,2,Pleasanton,859 sqft,31-Dec-69,$0 ,37.662987,-121.86385,CA,Condo,136000,,,,60,,For Sale,ALAMEDA
+94588,Segundo Ct,1,2,Pleasanton,903 sqft,31-Dec-69,$0 ,37.65009,-121.90415,CA,Condo,298176,,,,22,,For Sale,ALAMEDA
+94566,Del Sol Ave,,,Pleasanton,"1,699 sqft",31-Dec-69,$0 ,37.658936,-121.86913,CA,Single-Family Home,217000,,,,74,,For Sale,ALAMEDA
+94566,Adams Way,1,3,Pleasanton,"1,390 sqft",31-Dec-69,$0 ,37.66138,-121.86361,CA,Single-Family Home,202000,,,,57,,For Sale,ALAMEDA
+94588,Roslin Ct,2,3,Pleasanton,"2,016 sqft",31-Dec-69,$0 ,37.684082,-121.90456,CA,Single-Family Home,648000,,,,58,,For Sale,ALAMEDA
+94566,Trimingham Dr,2,3,Pleasanton,"1,731 sqft",31-Dec-69,$0 ,37.67749,-121.86951,CA,Condo,322700,,,,71,,For Sale,ALAMEDA
+94566,Vineyard Ave,1,3,Pleasanton,"1,784 sqft",31-Dec-69,$0 ,37.662872,-121.85945,CA,Single-Family Home,400000,,,,57,,For Sale,ALAMEDA
+94566,Donahue Dr,3,4,Pleasanton,"2,922 sqft",31-Dec-69,$0 ,37.678413,-121.86263,CA,Single-Family Home,835000,,,,48,,For Sale,ALAMEDA
+94566,Norton Way 2,2,2,Pleasanton,912 sqft,31-Dec-69,$0 ,37.66142,-121.85395,CA,Townhome,296428,,,,48,,For Sale,ALAMEDA
+94566,Vine St,2,2,Pleasanton,977 sqft,31-Dec-69,$0 ,37.664074,-121.860405,CA,Single-Family Home,311982,,,,57,,For Sale,ALAMEDA
+94588,Herrin Way,2,3,Pleasanton,"1,372 sqft",31-Dec-69,$0 ,37.68952,-121.91199,CA,Single-Family Home,466650,,,,48,,For Sale,ALAMEDA
+94588,Segundo Ct #3,1,2,Pleasanton,903 sqft,31-Dec-69,$0 ,37.65009,-121.90415,CA,Condo,332000,,,,15,,For Sale,ALAMEDA
+94588,Canyon Meadow Cir,2,2,Pleasanton,"1,043 sqft",31-Dec-69,$0 ,37.695934,-121.948944,CA,Condo,418999,,,,25,,For Sale,ALAMEDA
+94566,Trimingham Dr,2,3,Pleasanton,"1,731 sqft",31-Dec-69,$0 ,37.676678,-121.870514,CA,Condo,679878,,,,74,,For Sale,ALAMEDA
+94588,Crater Lake Ct,2,4,Pleasanton,"1,834 sqft",31-Dec-69,$0 ,37.67897,-121.9033,CA,Single-Family Home,628000,,,,63,,For Sale,ALAMEDA
+94588,Yellowstone,2,3,Pleasanton,"1,386 sqft",31-Dec-69,$0 ,37.675186,-121.90744,CA,Single-Family Home,656361,,,,46,,For Sale,ALAMEDA
+94588,Payne Rd,2,4,Pleasanton,"1,489 sqft",31-Dec-69,$0 ,37.68009,-121.909424,CA,Single-Family Home,628000,,,,48,,For Sale,ALAMEDA
+94566,Valley Ave,,,Pleasanton,,31-Dec-69,$0 ,37.67606,-121.86675,CA,Unspecified,57000,,,,77,,For Sale,ALAMEDA
+94566,Fairfield Rd,3,5,Pleasanton,"2,219 sqft",31-Dec-69,$0 ,37.674526,-121.89069,CA,Single-Family Home,880769,,,,52,,For Sale,ALAMEDA
+94566,Tanglewood Ct,2,3,Pleasanton,"1,520 sqft",31-Dec-69,$0 ,37.67127,-121.88398,CA,Single-Family Home,685966,,,,49,,For Sale,ALAMEDA
+94566,Ray St,,,Pleasanton,,31-Dec-69,$0 ,37.663837,-121.87344,CA,Unspecified,352554,,,,85,,For Sale,ALAMEDA
+94588,Gettysburg Ct S,2,3,Pleasanton,,31-Dec-69,$0 ,37.6771,-121.90811,CA,Single-Family Home,477521,,,,52,,For Sale,ALAMEDA
+94588,Canyon Meadow Ir C,,,Pleasanton,,31-Dec-69,$0 ,37.695934,-121.948944,CA,Unspecified,541503,,,,35,,For Sale,ALAMEDA
+94588,Chocolate St,2,4,Pleasanton,"1,990 sqft",31-Dec-69,$0 ,37.692314,-121.857414,CA,Single-Family Home,804601,,,,23,,For Sale,ALAMEDA
+94588,Vermont Pl,2,4,Pleasanton,"2,196 sqft",31-Dec-69,$0 ,37.69465,-121.85695,CA,Single-Family Home,896437,,,,32,,For Sale,ALAMEDA

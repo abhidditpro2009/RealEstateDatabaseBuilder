@@ -1,0 +1,49 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94005,119 San Benito Rd,1,1,Brisbane,640 sqft,20-Feb-14,"$501,000 ",37.680492,-122.403854,CA,Single-Family Home,501000,"$580,000 ",,,,,Sold,SAN MATEO
+94005,425 Sierra Point Rd,2,2,Brisbane,"2,296 sqft",14-Feb-14,"$705,000 ",37.679947,-122.40421,CA,Multi-Family,705000,"$866,000 ",,,,,Sold,SAN MATEO
+94005,347 Klamath St,1,2,Brisbane,660 sqft,12-Feb-14,"$532,000 ",37.68133,-122.40281,CA,Single-Family Home,532000,"$582,000 ",,,,,Sold,SAN MATEO
+94005,62 Mono St,1,2,Brisbane,810 sqft,4-Feb-14,"$250,000 ",37.68144,-122.40526,CA,Single-Family Home,250000,"$559,000 ",,,,,Sold,SAN MATEO
+94005,111 Swallowtail Ct,2,3,Brisbane,"1,633 sqft",30-Jan-14,"$574,500 ",37.692852,-122.41727,CA,Condo,574500,"$710,000 ",,,,,Sold,SAN MATEO
+94005,120 Tulare St,2.5,3,Brisbane,"2,140 sqft",30-Jan-14,"$937,000 ",37.682606,-122.39809,CA,Single-Family Home,937000,"$974,000 ",,,,,Sold,SAN MATEO
+94005,147 Santa Clara St,1,2,Brisbane,960 sqft,21-Jan-14,"$452,500 ",37.683395,-122.39858,CA,Single-Family Home,452500,"$604,000 ",,,,,Sold,SAN MATEO
+94005,205 Alvarado St,4,5,Brisbane,"3,130 sqft",21-Jan-14,"$968,000 ",37.68307,-122.399376,CA,Single-Family Home,968000,"$1,218,000 ",,,,,Sold,SAN MATEO
+94005,460 San Bruno Ave,2,3,Brisbane,"1,440 sqft",15-Jan-14,"$720,000 ",37.681587,-122.39998,CA,Single-Family Home,720000,"$797,000 ",,,,,Sold,SAN MATEO
+94005,113 Rock Wren Ln,2.5,3,Brisbane,"2,273 sqft",10-Jan-14,"$851,000 ",37.69347,-122.40988,CA,Condo,851000,"$869,000 ",,,,,Sold,SAN MATEO
+94005,280 San Benito Rd,1,3,Brisbane,890 sqft,23-Dec-13,"$400,000 ",37.67949,-122.39983,CA,Single-Family Home,400000,"$577,000 ",,,,,Sold,SAN MATEO
+94005,319 Monterey St,1,3,Brisbane,840 sqft,13-Dec-13,"$570,000 ",37.682682,-122.402336,CA,Single-Family Home,570000,"$564,000 ",,,,,Sold,SAN MATEO
+94005,632 Callippe Ct,2,2,Brisbane,"1,242 sqft",12-Dec-13,"$545,000 ",37.694817,-122.419464,CA,Condo,545000,"$576,000 ",,,,,Sold,SAN MATEO
+94005,132 Cliff Swallow Ct,2,2,Brisbane,"1,437 sqft",10-Dec-13,"$600,000 ",37.692066,-122.40776,CA,Condo,600000,"$744,000 ",,,,,Sold,SAN MATEO
+94005,151 Cliff Swallow Ct,2.5,4,Brisbane,"2,718 sqft",19-Nov-13,"$912,500 ",37.692066,-122.40776,CA,Condo,912500,"$1,015,000 ",,,,,Sold,SAN MATEO
+94005,121 Cliff Swallow Ct,2,2,Brisbane,"1,413 sqft",15-Nov-13,"$616,000 ",37.692066,-122.40776,CA,Condo,616000,"$746,000 ",,,,,Sold,SAN MATEO
+94005,249 San Bruno Ave,2,3,Brisbane,"2,500 sqft",14-Nov-13,"$650,000 ",37.683052,-122.400505,CA,Multi-Family,650000,"$997,000 ",,,,,Sold,SAN MATEO
+94005,111 Crescent Ct,2,3,Brisbane,"1,520 sqft",8-Nov-13,"$615,000 ",37.69268,-122.41626,CA,Condo,615000,"$682,000 ",,,,,Sold,SAN MATEO
+94005,113 Warbler Ln,2,2,Brisbane,"1,437 sqft",6-Nov-13,"$688,000 ",37.694233,-122.409454,CA,Condo,688000,"$741,000 ",,,,,Sold,SAN MATEO
+94005,313 Crescent Ct,2,2,Brisbane,"1,070 sqft",31-Oct-13,"$275,000 ",37.692467,-122.416985,CA,Condo,275000,"$459,000 ",,,,,Sold,SAN MATEO
+94005,111 Fox Sparrow Ln,2,2,Brisbane,"1,413 sqft",29-Oct-13,"$599,000 ",37.691017,-122.408646,CA,Condo,599000,"$738,000 ",,,,,Sold,SAN MATEO
+94005,213 Fox Sparrow Ln,2.5,3,Brisbane,"2,363 sqft",29-Oct-13,"$743,000 ",37.691887,-122.411,CA,Condo,743000,"$896,000 ",,,,,Sold,SAN MATEO
+94005,64 Sierra Point Rd,1,2,Brisbane,690 sqft,29-Oct-13,"$420,000 ",37.683975,-122.406006,CA,Single-Family Home,420000,"$539,000 ",,,,,Sold,SAN MATEO
+94005,222 Crescent Ct,2,2,Brisbane,"1,242 sqft",16-Oct-13,"$530,000 ",37.69241,-122.416466,CA,Condo,530000,"$593,000 ",,,,,Sold,SAN MATEO
+94005,812 Swallowtail Ct,2,2,Brisbane,"1,242 sqft",4-Oct-13,"$495,000 ",37.693687,-122.42011,CA,Condo,495000,"$620,000 ",,,,,Sold,SAN MATEO
+94005,28 Inyo St,1,2,Brisbane,910 sqft,25-Sep-13,"$548,000 ",37.684402,-122.403786,CA,Single-Family Home,548000,"$577,000 ",,,,,Sold,SAN MATEO
+94005,236 Klamath St,2,4,Brisbane,"2,690 sqft",17-Sep-13,"$725,000 ",37.681892,-122.4011,CA,Multi-Family,725000,"$751,000 ",,,,,Sold,SAN MATEO
+94005,112 Monterey St,1,2,Brisbane,610 sqft,30-Aug-13,"$438,000 ",37.683857,-122.40029,CA,Single-Family Home,438000,"$527,000 ",,,,,Sold,SAN MATEO
+94005,484 Sierra Point Rd,1,2,Brisbane,720 sqft,29-Aug-13,"$490,000 ",37.679886,-122.40271,CA,Single-Family Home,490000,"$566,000 ",,,,,Sold,SAN MATEO
+94005,43 Lupine Valley Ct,3,5,Brisbane,"3,270 sqft",29-Aug-13,"$1,180,000 ",37.695084,-122.419,CA,Single-Family Home,1180000,"$1,134,000 ",,,,,Sold,SAN MATEO
+94005,250 Humboldt Rd,1,2,Brisbane,"1,040 sqft",27-Aug-13,"$628,000 ",37.68386,-122.407234,CA,Single-Family Home,628000,"$677,000 ",,,,,Sold,SAN MATEO
+94005,72 Golden Aster Ct,4,3,Brisbane,"3,416 sqft",22-Aug-13,"$1,268,000 ",37.69617,-122.4214,CA,Single-Family Home,1268000,"$1,530,000 ",,,,,Sold,SAN MATEO
+94005,266 Humboldt Rd,2,4,Brisbane,"1,770 sqft",16-Aug-13,"$960,000 ",37.683575,-122.40702,CA,Single-Family Home,960000,"$1,048,000 ",,,,,Sold,SAN MATEO
+94005,575 Alvarado St,1.5,2,Brisbane,"1,040 sqft",16-Aug-13,"$728,000 ",37.681084,-122.40468,CA,Single-Family Home,728000,"$661,000 ",,,,,Sold,SAN MATEO
+94005,276 Trinity Rd,1,3,Brisbane,"1,610 sqft",16-Aug-13,"$689,000 ",37.68422,-122.40773,CA,Single-Family Home,689000,"$773,000 ",,,,,Sold,SAN MATEO
+94005,632 Swallowtail Ct,2,2,Brisbane,"1,070 sqft",30-Jul-13,"$508,000 ",37.69317,-122.419365,CA,Condo,508000,"$558,000 ",,,,,Sold,SAN MATEO
+94005,232 Crescent Ct,2,2,Brisbane,"1,242 sqft",30-Jul-13,"$470,000 ",37.69241,-122.416466,CA,Condo,470000,"$597,000 ",,,,,Sold,SAN MATEO
+94005,124 Santa Clara St,2,3,Brisbane,"2,300 sqft",26-Jul-13,"$928,000 ",37.68367,-122.3992,CA,Single-Family Home,928000,"$1,000,000 ",,,,,Sold,SAN MATEO
+94005,205 Santa Clara St,2.5,2,Brisbane,"1,670 sqft",25-Jul-13,"$715,000 ",37.682777,-122.398636,CA,Single-Family Home,715000,"$845,000 ",,,,,Sold,SAN MATEO
+94005,1 San Bruno Ave #B,1,1,Brisbane,774 sqft,23-Jul-13,"$300,000 ",37.68454,-122.40194,CA,Condo,300000,"$401,000 ",,,,,Sold,SAN MATEO
+94005,142 Warbler Ln,2,2,Brisbane,"1,781 sqft",18-Jul-13,"$680,000 ",37.6932,-122.409035,CA,Condo,680000,"$856,000 ",,,,,Sold,SAN MATEO
+94005,6 Lehning Way,2,2,Brisbane,"1,300 sqft",17-Jul-13,"$675,000 ",37.681046,-122.40675,CA,Single-Family Home,675000,"$761,000 ",,,,,Sold,SAN MATEO
+94005,229 Klamath St,2,3,Brisbane,"1,760 sqft",11-Jul-13,"$720,000 ",37.68157,-122.40069,CA,Single-Family Home,720000,"$784,000 ",,,,,Sold,SAN MATEO
+94005,162 Golden Eagle Ln,2,2,Brisbane,"1,437 sqft",9-Jul-13,"$610,000 ",37.69293,-122.40856,CA,Condo,610000,"$642,000 ",,,,,Sold,SAN MATEO
+94005,142 Fox Sparrow Ln,2,2,Brisbane,"1,781 sqft",5-Jul-13,"$655,000 ",37.69101,-122.40981,CA,Condo,655000,"$806,000 ",,,,,Sold,SAN MATEO
+94005,353 Alvarado St,1,1,Brisbane,590 sqft,5-Jul-13,"$585,000 ",37.680798,-122.40078,CA,Single-Family Home,585000,"$598,000 ",,,,,Sold,SAN MATEO
+94005,85 Kings Rd,3.5,4,Brisbane,"2,560 sqft",3-Jul-13,"$825,000 ",37.680416,-122.407486,CA,Single-Family Home,825000,"$1,002,000 ",,,,,Sold,SAN MATEO
+94005,772 Sierra Point Rd,1.5,3,Brisbane,"1,400 sqft",26-Jun-13,"$475,000 ",37.678307,-122.40006,CA,Single-Family Home,475000,"$698,000 ",,,,,Sold,SAN MATEO

@@ -1,0 +1,36 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,538 Ferdinand Ave,2.0,4.0,El Granada,"2,130 sqft","Feb 20, 2014","$696,000",37.502445,-122.46972,CA,Single-Family Home,696000,"$858,000",94018,,,,Sold,SAN MATEO
+2,846 Columbus St,2.0,3.0,El Granada,"2,260 sqft","Feb 19, 2014","$566,000",37.502445,-122.46972,CA,Single-Family Home,566000,"$871,000",94018,,,,Sold,SAN MATEO
+3,807 The Alameda,2.0,4.0,El Granada,"2,080 sqft","Jan 29, 2014","$840,000",37.502445,-122.46972,CA,Single-Family Home,840000,"$940,000",94018,,,,Sold,SAN MATEO
+4,115 Del Monte Rd,2.0,3.0,El Granada,"2,060 sqft","Jan 28, 2014","$935,000",37.502445,-122.46972,CA,Single-Family Home,935000,"$900,000",94018,,,,Sold,SAN MATEO
+5,21 Sunrise Ct,2.0,3.0,El Granada,"1,040 sqft","Jan 28, 2014","$695,000",37.502445,-122.46972,CA,Single-Family Home,695000,"$723,000",94018,,,,Sold,SAN MATEO
+6,477 The Alameda,2.5,4.0,El Granada,"2,350 sqft","Jan 24, 2014","$677,000",37.502445,-122.46972,CA,Single-Family Home,677000,"$986,000",94018,,,,Sold,SAN MATEO
+7,255 Palma St,2.0,3.0,El Granada,"1,200 sqft","Jan 23, 2014","$710,000",37.502445,-122.46972,CA,Single-Family Home,710000,"$747,000",94018,,,,Sold,SAN MATEO
+8,237 Del Monte Rd,4.0,4.0,El Granada,"3,000 sqft","Jan 17, 2014","$1,590,000",37.502445,-122.46972,CA,Single-Family Home,1590000,"$1,578,000",94018,,,,Sold,SAN MATEO
+9,639 San Carlos Ave,2.0,3.0,El Granada,"1,620 sqft","Dec 20, 2013","$750,000",37.50899,-122.47546,CA,Single-Family Home,750000,"$735,000",94018,,,,Sold,SAN MATEO
+10,946 Columbus St,3.5,4.0,El Granada,"2,630 sqft","Dec 10, 2013","$840,000",37.502445,-122.46972,CA,Single-Family Home,840000,"$996,000",94018,,,,Sold,SAN MATEO
+11,307 Ferdinand Ave,1.5,2.0,El Granada,"1,949 sqft","Dec 6, 2013","$825,000",37.502445,-122.46972,CA,Single-Family Home,825000,"$898,000",94018,,,,Sold,SAN MATEO
+12,150 Vallejo St,2.0,2.0,El Granada,890 sqft,"Nov 27, 2013","$617,000",37.502445,-122.46972,CA,Single-Family Home,617000,"$712,000",94018,,,,Sold,SAN MATEO
+13,708 The Alameda,1.0,3.0,El Granada,"1,270 sqft","Nov 26, 2013","$729,000",37.502445,-122.46972,CA,Single-Family Home,729000,"$743,000",94018,,,,Sold,SAN MATEO
+14,276 Avenue Alhambra,,,El Granada,"1,599 sqft","Nov 20, 2013","$1,070,000",37.502445,-122.46972,CA,Multi-Family,1070000,"$926,000",94018,,,,Sold,SAN MATEO
+15,138 Del Monte Rd,3.0,4.0,El Granada,"2,090 sqft","Nov 15, 2013","$891,500",37.502445,-122.46972,CA,Single-Family Home,891500,"$910,000",94018,,,,Sold,SAN MATEO
+16,162 Avenue Balboa,4.0,3.0,El Granada,"2,453 sqft","Oct 10, 2013","$875,000",37.502445,-122.46972,CA,Multi-Family,875000,"$854,000",94018,,,,Sold,SAN MATEO
+17,568 Palma St,2.5,3.0,El Granada,"2,650 sqft","Sep 25, 2013","$811,000",37.502445,-122.46972,CA,Single-Family Home,811000,"$1,031,000",94018,,,,Sold,SAN MATEO
+18,759 The Alameda,2.5,5.0,El Granada,"2,760 sqft","Sep 17, 2013","$765,000",37.502445,-122.46972,CA,Single-Family Home,765000,"$939,000",94018,,,,Sold,SAN MATEO
+19,722 Columbus St,3.0,3.0,El Granada,"2,020 sqft","Sep 6, 2013","$877,000",37.502445,-122.46972,CA,Single-Family Home,877000,"$1,035,000",94018,,,,Sold,SAN MATEO
+20,331 Sonora Ave,2.0,3.0,El Granada,"1,580 sqft","Sep 6, 2013","$702,000",37.502445,-122.46972,CA,Single-Family Home,702000,"$900,000",94018,,,,Sold,SAN MATEO
+21,939 Ferdinand Ave,2.5,3.0,El Granada,"2,490 sqft","Aug 30, 2013","$845,000",37.502445,-122.46972,CA,Single-Family Home,845000,"$1,049,000",94018,,,,Sold,SAN MATEO
+22,938 Ferdinand Ave,2.5,3.0,El Granada,"2,340 sqft","Aug 30, 2013","$820,000",37.502445,-122.46972,CA,Single-Family Home,820000,"$974,000",94018,,,,Sold,SAN MATEO
+23,179 Francisco St,2.0,2.0,El Granada,"1,400 sqft","Aug 27, 2013","$640,000",37.502445,-122.46972,CA,Single-Family Home,640000,"$741,000",94018,,,,Sold,SAN MATEO
+24,11 Sea Crest Ct,2.0,3.0,El Granada,"1,400 sqft","Aug 19, 2013","$699,000",37.502445,-122.46972,CA,Single-Family Home,699000,"$841,000",94018,,,,Sold,SAN MATEO
+25,5 Avenue Alhambra,2.5,3.0,El Granada,"1,680 sqft","Aug 7, 2013","$715,000",37.502445,-122.46972,CA,Single-Family Home,715000,"$889,000",94018,,,,Sold,SAN MATEO
+26,330 Avenue Portola,2.0,3.0,El Granada,"1,180 sqft","Aug 2, 2013","$674,500",37.502445,-122.46972,CA,Single-Family Home,674500,"$722,000",94018,,,,Sold,SAN MATEO
+27,948 Sonora Ave,3.0,5.0,El Granada,"2,670 sqft","Jul 31, 2013","$758,000",37.502445,-122.46972,CA,Single-Family Home,758000,"$978,000",94018,,,,Sold,SAN MATEO
+28,766 Francisco St,1.0,3.0,El Granada,"1,170 sqft","Jul 26, 2013","$640,000",37.502445,-122.46972,CA,Single-Family Home,640000,"$758,000",94018,,,,Sold,SAN MATEO
+29,216 Palma St,1.0,2.0,El Granada,590 sqft,"Jul 19, 2013","$478,000",37.502445,-122.46972,CA,Single-Family Home,478000,"$592,000",94018,,,,Sold,SAN MATEO
+30,914 Columbus St,2.0,4.0,El Granada,"1,700 sqft","Jul 16, 2013","$102,500",37.502445,-122.46972,CA,Single-Family Home,102500,"$765,000",94018,,,,Sold,SAN MATEO
+31,131 Madrid Ave,2.0,3.0,El Granada,"2,000 sqft","Jul 16, 2013","$655,000",37.502445,-122.46972,CA,Single-Family Home,655000,"$832,000",94018,,,,Sold,SAN MATEO
+32,238 San Carlos Ave,2.5,3.0,El Granada,"2,010 sqft","Jul 12, 2013","$740,000",37.502445,-122.46972,CA,Single-Family Home,740000,"$847,000",94018,,,,Sold,SAN MATEO
+33,362 Avenue Del Oro,2.0,3.0,El Granada,"1,420 sqft","Jun 28, 2013","$710,000",37.502445,-122.46972,CA,Single-Family Home,710000,"$814,000",94018,,,,Sold,SAN MATEO
+34,415 The Alameda,2.0,3.0,El Granada,"2,050 sqft","Jun 28, 2013","$745,000",37.502445,-122.46972,CA,Single-Family Home,745000,"$967,000",94018,,,,Sold,SAN MATEO
+35,463 Palma St,2.0,3.0,El Granada,"1,600 sqft","Jun 25, 2013","$680,000",37.502445,-122.46972,CA,Single-Family Home,680000,"$842,000",94018,,,,Sold,SAN MATEO

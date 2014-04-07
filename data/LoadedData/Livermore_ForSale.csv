@@ -1,0 +1,228 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94550,2539 Vintage Ln,4,4,Livermore,"3,940 sqft",31-Dec-69,$0 ,37.66309,-121.76132,CA,Single-Family Home,1250000,,,,31,,For Sale,ALAMEDA
+94550,433 Ontario Dr,2,4,Livermore,"1,679 sqft",31-Dec-69,$0 ,37.665215,-121.79558,CA,Single-Family Home,589000,,,,31,,For Sale,ALAMEDA
+94551,4109 Bristlecone Way,2,3,Livermore,"1,305 sqft",31-Dec-69,$0 ,37.71265,-121.75079,CA,Single-Family Home,499000,,,,18,,For Sale,ALAMEDA
+94550,1357 Pegan Cmn,4,4,Livermore,"3,090 sqft",31-Dec-69,$0 ,37.678837,-121.73813,CA,Single-Family Home,998000,,,,28,,For Sale,ALAMEDA
+94550,705 Via Del Sol,3,4,Livermore,"2,196 sqft",31-Dec-69,$0 ,37.661266,-121.79026,CA,Single-Family Home,829000,,,,38,,For Sale,ALAMEDA
+94550,366 Pestana Pl,2,4,Livermore,"1,654 sqft",31-Dec-69,$0 ,37.68443,-121.75854,CA,Single-Family Home,525000,,,,69,,For Sale,ALAMEDA
+94551,2164 Beech Cmn,2,3,Livermore,"1,526 sqft",31-Dec-69,$0 ,37.723797,-121.72152,CA,Single-Family Home,200000,,,,46,,For Sale,ALAMEDA
+94550,3910 Stanford Way,2,3,Livermore,"1,431 sqft",31-Dec-69,$0 ,37.68309,-121.75113,CA,Single-Family Home,550000,,,,45,,For Sale,ALAMEDA
+94550,397 Lincoln Ave,2,4,Livermore,"1,702 sqft",31-Dec-69,$0 ,37.68456,-121.746475,CA,Single-Family Home,585000,,,,37,,For Sale,ALAMEDA
+94551,207 Heligan Ln #4,2,2,Livermore,"1,138 sqft",31-Dec-69,$0 ,37.707874,-121.80119,CA,Apt/Condo/Twnhm,439900,,,,32,,For Sale,ALAMEDA
+94551,1038 Larkspur Dr,2.5,4,Livermore,"2,125 sqft",31-Dec-69,$0 ,37.706684,-121.7427,CA,Single-Family Home,550000,,,,55,,For Sale,ALAMEDA
+94550,613 Catalina Dr,2,3,Livermore,"1,254 sqft",31-Dec-69,$0 ,37.66708,-121.789955,CA,Single-Family Home,610000,,,,45,,For Sale,ALAMEDA
+94550,1462 Vancouver Way,2,3,Livermore,"1,838 sqft",31-Dec-69,$0 ,37.666817,-121.77602,CA,Single-Family Home,629500,,,,49,,For Sale,ALAMEDA
+94551,3131 Arcadia Cmn #5,3,3,Livermore,"1,322 sqft",31-Dec-69,$0 ,37.70925,-121.805534,CA,Apt/Condo/Twnhm,474900,,,,31,,For Sale,ALAMEDA
+94550,2389 Senger St,3,5,Livermore,"2,897 sqft",31-Dec-69,$0 ,37.67159,-121.723595,CA,Single-Family Home,918000,,,,17,,For Sale,ALAMEDA
+94550,890 Jefferson Ave,2,3,Livermore,"1,307 sqft",31-Dec-69,$0 ,37.680935,-121.743744,CA,Single-Family Home,564500,,,,42,,For Sale,ALAMEDA
+94550,882 Hazel St,3,4,Livermore,"2,068 sqft",31-Dec-69,$0 ,37.687183,-121.728546,CA,Single-Family Home,639000,,,,31,,For Sale,ALAMEDA
+94551,5128 Tulip Ct,2,2,Livermore,"1,515 sqft",31-Dec-69,$0 ,37.71181,-121.740074,CA,Single-Family Home,489950,,,,38,,For Sale,ALAMEDA
+94551,852 Dakota Ct,2,3,Livermore,"1,282 sqft",31-Dec-69,$0 ,37.688206,-121.787895,CA,Single-Family Home,499000,,,,55,,For Sale,ALAMEDA
+94550,2422 Lakeside Cir,4,5,Livermore,"3,405 sqft",31-Dec-69,$0 ,37.652348,-121.792,CA,Single-Family Home,1275000,,,,22,,For Sale,ALAMEDA
+94550,5800 Eagles Run Rd,2.5,3,Livermore,"3,332 sqft",31-Dec-69,$0 ,37.66395,-121.6333,CA,Single-Family Home,1499950,,,,0,,For Sale,ALAMEDA
+94550,20850 Mines Rd,,,Livermore,,31-Dec-69,$0 ,37.5304,-121.55357,CA,Lot/Land,617000,,,,0,,For Sale,ALAMEDA
+94551,1654 Juniper St,2,3,Livermore,"1,584 sqft",31-Dec-69,$0 ,37.69091,-121.780365,CA,Single-Family Home,499950,,,,60,,For Sale,ALAMEDA
+94550,2302 Tapestry Dr,2.5,4,Livermore,"2,878 sqft",31-Dec-69,$0 ,37.660755,-121.764626,CA,Single-Family Home,1129950,,,,29,,For Sale,ALAMEDA
+94551,5571 Goldenrod Dr,3,5,Livermore,"2,610 sqft",31-Dec-69,$0 ,37.713768,-121.72888,CA,Single-Family Home,735000,,,,52,,For Sale,ALAMEDA
+94551,1661 Juniper St,2.5,3,Livermore,"1,914 sqft",31-Dec-69,$0 ,37.690533,-121.78003,CA,Single-Family Home,599888,,,,60,,For Sale,ALAMEDA
+94550,2497 Normandy Cir,2,4,Livermore,"2,500 sqft",31-Dec-69,$0 ,37.658863,-121.7644,CA,Single-Family Home,1150000,,,,28,,For Sale,ALAMEDA
+94550,173 El Caminito,2,3,Livermore,"1,484 sqft",31-Dec-69,$0 ,37.675014,-121.79557,CA,Single-Family Home,550000,,,,34,,For Sale,ALAMEDA
+94551,1502 Corte Reina Cmn,2,3,Livermore,"1,707 sqft",31-Dec-69,$0 ,37.69438,-121.78005,CA,Townhome,549000,,,,46,,For Sale,ALAMEDA
+94550,2150 Mars Rd,2,3,Livermore,"1,239 sqft",31-Dec-69,$0 ,37.65688,-121.78327,CA,Single-Family Home,650000,,,,40,,For Sale,ALAMEDA
+94551,5335 Wisteria Way,1.5,2,Livermore,"1,161 sqft",31-Dec-69,$0 ,37.71111,-121.73247,CA,Single-Family Home,409900,,,,48,,For Sale,ALAMEDA
+94550,1265 S Livermore Ave,3,4,Livermore,"2,394 sqft",31-Dec-69,$0 ,37.67312,-121.75516,CA,Single-Family Home,551900,,,,60,,For Sale,ALAMEDA
+94551,660 N Livermore Ave,2,4,Livermore,"1,292 sqft",31-Dec-69,$0 ,37.689003,-121.771736,CA,Single-Family Home,275000,,,,75,,For Sale,ALAMEDA
+94551,1536 Spring Valley Cmn,2.5,4,Livermore,,31-Dec-69,$0 ,37.708294,-121.74796,CA,Townhome,369900,,,,34,,For Sale,ALAMEDA
+94551,6023 Climbing Rose Cmn,3,3,Livermore,"1,999 sqft",31-Dec-69,$0 ,37.71938,-121.72337,CA,Single-Family Home,649000,,,,62,,For Sale,ALAMEDA
+94550,4008 Hillcrest Cmn,2,3,Livermore,"1,358 sqft",31-Dec-69,$0 ,37.681286,-121.74808,CA,Single-Family Home,435000,,,,42,,For Sale,ALAMEDA
+94550,1080 Eve Ln,3,4,Livermore,"2,055 sqft",31-Dec-69,$0 ,37.682266,-121.735374,CA,Single-Family Home,695000,,,,23,,For Sale,ALAMEDA
+94551,1129 Apache St,2,3,Livermore,"1,437 sqft",31-Dec-69,$0 ,37.68994,-121.784035,CA,Single-Family Home,548888,,,,57,,For Sale,ALAMEDA
+94550,1434 Rebecca Dr,2,3,Livermore,"1,858 sqft",31-Dec-69,$0 ,37.685364,-121.722046,CA,Single-Family Home,725000,,,,31,,For Sale,ALAMEDA
+94550,967 Lynn St,2,4,Livermore,"1,760 sqft",31-Dec-69,$0 ,37.68548,-121.73157,CA,Single-Family Home,639950,,,,28,,For Sale,ALAMEDA
+94551,861 Hagemann Dr,2.5,2,Livermore,"1,337 sqft",31-Dec-69,$0 ,37.68802,-121.80026,CA,Townhome,399000,,,,45,,For Sale,ALAMEDA
+94551,173 Heligan Ln #10,2,2,Livermore,"1,180 sqft",31-Dec-69,$0 ,37.707745,-121.80231,CA,Townhome,449000,,,,37,,For Sale,ALAMEDA
+94550,4316 Guilford Ave,2,4,Livermore,"1,832 sqft",31-Dec-69,$0 ,37.674473,-121.744095,CA,Single-Family Home,715000,,,,34,,For Sale,ALAMEDA
+94550,2566 Old 1st St,,,Livermore,,31-Dec-69,$0 ,37.68418,-121.76592,CA,Unspecified,139000,,,,94,,For Sale,ALAMEDA
+94550,1085 Murrieta Blvd #306,1,1,Livermore,758 sqft,31-Dec-69,$0 ,37.67515,-121.78144,CA,Condo,225000,,,,72,,For Sale,ALAMEDA
+94550,7123 Cedar Mountain Rd,6,4,Livermore,"8,607 sqft",31-Dec-69,$0 ,37.652905,-121.70698,CA,Single-Family Home,3699000,,,,5,,For Sale,ALAMEDA
+94551,6685 Brookdale Ct,2,3,Livermore,"1,415 sqft",31-Dec-69,$0 ,37.71725,-121.715256,CA,Single-Family Home,549000,,,,46,,For Sale,ALAMEDA
+94551,610 Daisyfield Dr,3,4,Livermore,"2,239 sqft",31-Dec-69,$0 ,37.680573,-121.79452,CA,Single-Family Home,764950,,,,48,,For Sale,ALAMEDA
+94551,1220 Bluebell Dr,2,2,Livermore,"1,280 sqft",31-Dec-69,$0 ,37.71158,-121.73568,CA,Single-Family Home,479000,,,,43,,For Sale,ALAMEDA
+94550,944 El Caminito,2,4,Livermore,"1,302 sqft",31-Dec-69,$0 ,37.6673,-121.78424,CA,Single-Family Home,529000,,,,51,,For Sale,ALAMEDA
+94551,313 Kensington Cmn,3,3,Livermore,"1,875 sqft",31-Dec-69,$0 ,37.692574,-121.75147,CA,Townhome,572500,,,,42,,For Sale,ALAMEDA
+94550,434 School St,3,5,Livermore,"2,620 sqft",31-Dec-69,$0 ,37.684044,-121.7603,CA,Multi-Family Home,800000,,,,83,,For Sale,ALAMEDA
+94550,1386 Vancouver Way,3,4,Livermore,"1,973 sqft",31-Dec-69,$0 ,37.666813,-121.77722,CA,Single-Family Home,695000,,,,49,,For Sale,ALAMEDA
+94550,5377 Bianca Way,3,4,Livermore,"2,555 sqft",31-Dec-69,$0 ,37.694324,-121.72668,CA,Single-Family Home,788000,,,,35,,For Sale,ALAMEDA
+94550,1060 Geneva St,3,5,Livermore,"2,311 sqft",31-Dec-69,$0 ,37.669956,-121.772156,CA,Single-Family Home,719900,,,,45,,For Sale,ALAMEDA
+94550,5537 Hopps Ln,4,6,Livermore,"3,547 sqft",31-Dec-69,$0 ,37.677036,-121.72565,CA,Single-Family Home,949000,,,,23,,For Sale,ALAMEDA
+94551,4361 Technology Dr #D,1,4,Livermore,"1,812 sqft",31-Dec-69,$0 ,37.69199,-121.74291,CA,Condo,350000,,,,54,,For Sale,ALAMEDA
+94551,861 Hagemann Dr,2.5,2,Livermore,,31-Dec-69,$0 ,37.68802,-121.80026,CA,Townhome,399000,,,,45,,For Sale,ALAMEDA
+94551,1536 Spring Valley Cmn,2.5,4,Livermore,"1,344 sqft",31-Dec-69,$0 ,37.708294,-121.74796,CA,Townhome,369900,,,,34,,For Sale,ALAMEDA
+94550,1448 Milan Ct,2.5,4,Livermore,"3,003 sqft",31-Dec-69,$0 ,37.660484,-121.77599,CA,Single-Family Home,978000,,,,40,,For Sale,ALAMEDA
+94550,1981 Normandy Way,4,5,Livermore,"3,877 sqft",31-Dec-69,$0 ,37.662636,-121.76048,CA,Single-Family Home,1348000,,,,28,,For Sale,ALAMEDA
+94551,6318 Almaden Way,2.5,3,Livermore,"1,772 sqft",31-Dec-69,$0 ,37.713535,-121.71994,CA,Condo,515000,,,,49,,For Sale,ALAMEDA
+94550,1028 Carrara Way,3,5,Livermore,"2,820 sqft",31-Dec-69,$0 ,37.6494,-121.78719,CA,Single-Family Home,980000,,,,15,,For Sale,ALAMEDA
+94551,6318 Almaden Way,2,3,Livermore,"1,772 sqft",31-Dec-69,$0 ,37.713535,-121.71994,CA,Single-Family Home,515000,,,,49,,For Sale,ALAMEDA
+94551,2923 Kiwi Cmn,3,3,Livermore,"1,600 sqft",31-Dec-69,$0 ,37.70828,-121.800514,CA,Single-Family Home,649000,,,,26,,For Sale,ALAMEDA
+94551,6641 Forget Me Not,3,2,Livermore,"1,225 sqft",31-Dec-69,$0 ,37.71425,-121.723755,CA,Condo,399988,,,,55,,For Sale,ALAMEDA
+94551,1347 Marigold Rd,2,2,Livermore,"1,280 sqft",31-Dec-69,$0 ,37.7119,-121.73787,CA,Single-Family Home,462000,,,,38,,For Sale,ALAMEDA
+94551,5168 Quince Ct,3,4,Livermore,"2,740 sqft",31-Dec-69,$0 ,37.716633,-121.734535,CA,Single-Family Home,779000,,,,43,,For Sale,ALAMEDA
+94551,1224 Spruce St,2,3,Livermore,"1,172 sqft",31-Dec-69,$0 ,37.68946,-121.78271,CA,Single-Family Home,449000,,,,69,,For Sale,ALAMEDA
+94550,649 Mulqueeney St,2,3,Livermore,"1,246 sqft",31-Dec-69,$0 ,37.688583,-121.73528,CA,Unspecified,495000,,,,29,,For Sale,ALAMEDA
+94551,5476 Windflower Dr,2,2,Livermore,"1,161 sqft",31-Dec-69,$0 ,37.70738,-121.73013,CA,Single-Family Home,410000,,,,48,,For Sale,ALAMEDA
+94550,4419 Edgewood Way,4,5,Livermore,"3,571 sqft",31-Dec-69,$0 ,37.674587,-121.74123,CA,Single-Family Home,1095000,,,,,,For Sale,ALAMEDA
+94550,5898 Arlene Way,2,4,Livermore,"1,803 sqft",31-Dec-69,$0 ,37.69359,-121.722534,CA,Single-Family Home,749950,,,,37,,For Sale,ALAMEDA
+94550,454 School St,,,Livermore,,31-Dec-69,$0 ,37.683365,-121.7599,CA,Lot/Land,800000,,,,80,,For Sale,ALAMEDA
+94550,5431 Arlene Way,3,5,Livermore,"2,068 sqft",31-Dec-69,$0 ,37.6854,-121.725555,CA,Single-Family Home,658950,,,,28,,For Sale,ALAMEDA
+94551,334 N Livermore Ave,,,Livermore,,31-Dec-69,$0 ,37.685833,-121.77016,CA,Multi-Family Home,978000,,,,88,,For Sale,ALAMEDA
+94550,Altamont Pass Rd,,,Livermore,,31-Dec-69,$0 ,37.722195,-121.696526,CA,Lot/Land,750000,,,,5,,For Sale,ALAMEDA
+94550,727 Kalthoff Cmn,,,Livermore,,31-Dec-69,$0 ,37.63391,-121.78978,CA,Lot/Land,2099000,,,,2,,For Sale,ALAMEDA
+94551,2164 Beech Cmn,2.5,3,Livermore,"1,526 sqft",31-Dec-69,$0 ,37.723797,-121.72152,CA,Single-Family Home,490000,,,,46,,For Sale,ALAMEDA
+94551,Las Positas Rd,,,Livermore,,31-Dec-69,$0 ,37.698022,-121.771517,CA,Lot/Land,448000,,,,,,For Sale,ALAMEDA
+94551,Las Positas Rd,,,Livermore,,31-Dec-69,$0 ,37.698022,-121.771517,CA,Lot/Land,448000,,,,,,For Sale,ALAMEDA
+94551,Las Positas Rd,,,Livermore,,31-Dec-69,$0 ,37.698022,-121.771517,CA,Lot/Land,448000,,,,,,For Sale,ALAMEDA
+94551,4706 Bel Roma Rd,3,4,Livermore,"3,789 sqft",31-Dec-69,$0 ,37.741035,-121.76458,CA,Single-Family Home,1635000,,,,0,,For Sale,ALAMEDA
+94551,2 - The European Plan,2,2,Livermore,"1,155 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,471000,,,,25,,For Sale,ALAMEDA
+94550,Hansen Rd,,,Livermore,,31-Dec-69,$0 ,37.646833,-121.78356,CA,Lot/Land,599950,,,,,,For Sale,ALAMEDA
+94550,16562 W Grantline Rd,3.5,3,Livermore,"3,154 sqft",31-Dec-69,$0 ,37.75453,-121.55825,CA,Single-Family Home,1200000,,,,2,,For Sale,ALAMEDA
+94551,1 - Arcadia Plan,3,3,Livermore,"1,563 sqft",31-Dec-69,$0 ,37.707516,-121.79894,CA,Single-Family Home,640000,,,,14,,For Sale,ALAMEDA
+94551,3 - Belmont Plan,2.5,3,Livermore,"2,021 sqft",31-Dec-69,$0 ,37.707516,-121.79894,CA,Single-Family Home,724000,,,,14,,For Sale,ALAMEDA
+94551,7800 Collier Canyon Rd,,,Livermore,,31-Dec-69,$0 ,37.764282,-121.82889,CA,Lot/Land,1250000,,,,0,,For Sale,CONTRA COSTA
+94551,3 - St. Helena Plan,2,2,Livermore,"1,635 sqft",31-Dec-69,$0 ,37.707577,-121.796776,CA,Condo,660000,,,,32,,For Sale,ALAMEDA
+94551,1 - The Soho Plan,2,2,Livermore,"1,166 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,472000,,,,35,,For Sale,ALAMEDA
+94551,6 - The Nassau Plan,3.5,3,Livermore,"1,548 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,583000,,,,25,,For Sale,ALAMEDA
+94550,632 Hayes Ave,2,3,Livermore,"2,262 sqft",31-Dec-69,$0 ,37.68152,-121.74489,CA,Single-Family Home,763000,,,,51,,For Sale,ALAMEDA
+94551,2 - The Metro Plan,2,2,Livermore,"1,718 sqft",31-Dec-69,$0 ,37.707577,-121.796776,CA,Condo,570000,,,,22,,For Sale,ALAMEDA
+94551,2 - Carmel Plan,3,3,Livermore,"1,684 sqft",31-Dec-69,$0 ,37.707516,-121.79894,CA,Single-Family Home,657000,,,,14,,For Sale,ALAMEDA
+94551,4 - The Regent Plan,2.5,2,Livermore,"1,379 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,529000,,,,25,,For Sale,ALAMEDA
+94550,19066 Mines Rd,2,3,Livermore,"1,584 sqft",31-Dec-69,$0 ,37.536182,-121.558334,CA,Single-Family Home,899000,,,,0,,For Sale,ALAMEDA
+94550,818 Kalthoff Cmn,4,4,Livermore,"4,000 sqft",31-Dec-69,$0 ,37.6394,-121.79077,CA,Single-Family Home,2885800,,,,3,,For Sale,ALAMEDA
+94550,763 Kalthoff Cmn,,,Livermore,,31-Dec-69,$0 ,37.636814,-121.79043,CA,Lot/Land,2599000,,,,2,,For Sale,ALAMEDA
+94550,Mines Rd,,,Livermore,,31-Dec-69,$0 ,37.689313,-121.742033,CA,Lot/Land,750000,,,,,,For Sale,ALAMEDA
+94550,Oakvillle Ln,,,Livermore,,31-Dec-69,$0 ,37.670982,-121.716065,CA,Lot/Land,1295000,,,,,,For Sale,ALAMEDA
+94550,221 E Vineyard Ave,,,Livermore,,31-Dec-69,$0 ,37.649208,-121.80245,CA,Lot/Land,1799000,,,,25,,For Sale,ALAMEDA
+94551,5 - The Penthouse Plan,2.5,2,Livermore,"1,501 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,539000,,,,25,,For Sale,ALAMEDA
+94551,3 - The Montgomery Plan,2.5,2,Livermore,"1,167 sqft",31-Dec-69,$0 ,37.70776,-121.80385,CA,Condo,490000,,,,25,,For Sale,ALAMEDA
+94551,4 - The Santa Monica Plan,2,2,Livermore,"1,806 sqft",31-Dec-69,$0 ,37.707577,-121.796776,CA,Condo,640000,,,,22,,For Sale,ALAMEDA
+94551,1 - The Eclectic Plan,2,2,Livermore,"1,639 sqft",31-Dec-69,$0 ,37.707577,-121.796776,CA,Condo,570000,,,,22,,For Sale,ALAMEDA
+94550,Hansen Rd,,,Livermore,,31-Dec-69,$0 ,37.646833,-121.78356,CA,Lot/Land,599950,,,,,,For Sale,ALAMEDA
+94551,6130 Springtime Cmn,2,4,Livermore,"1,943 sqft",31-Dec-69,$0 ,37.7187,-121.72312,CA,Single-Family Home,400000,,,,52,,For Sale,ALAMEDA
+94551,1105 Orchid St,,,Livermore,,31-Dec-69,$0 ,37.71392,-121.72504,CA,Lot/Land,312000,,,,55,,For Sale,ALAMEDA
+94551,Hibiscus Way,2,2,Livermore,"1,360 sqft",31-Dec-69,$0 ,37.710114,-121.73773,CA,Single-Family Home,275000,,,,43,,For Sale,ALAMEDA
+94551,Goldenrod Dr,3,4,Livermore,"2,772 sqft",31-Dec-69,$0 ,37.713974,-121.73156,CA,Single-Family Home,762594,,,,54,,For Sale,ALAMEDA
+94550,1231 Notre Dame Ct,3,3,Livermore,"1,395 sqft",31-Dec-69,$0 ,37.676327,-121.746056,CA,Single-Family Home,520000,,,,42,,For Sale,ALAMEDA
+94551,Nightingale St,2,4,Livermore,"1,125 sqft",31-Dec-69,$0 ,37.68565,-121.789406,CA,Single-Family Home,380000,,,,51,,For Sale,ALAMEDA
+94550,Carrigan Cmn,1,2,Livermore,"1,120 sqft",31-Dec-69,$0 ,37.6792,-121.7554,CA,Condo,97500,,,,68,,For Sale,ALAMEDA
+94551,Monterey Dr,2,3,Livermore,"1,274 sqft",31-Dec-69,$0 ,37.712616,-121.748985,CA,Condo,363199,,,,20,,For Sale,ALAMEDA
+94551,Hercules Ct,2,4,Livermore,"2,457 sqft",31-Dec-69,$0 ,37.71629,-121.73851,CA,Single-Family Home,360000,,,,29,,For Sale,ALAMEDA
+94550,Hillcrest Ave,2,3,Livermore,"1,778 sqft",31-Dec-69,$0 ,37.686058,-121.74832,CA,Single-Family Home,50000,,,,42,,For Sale,ALAMEDA
+94550,Silverado Ln,4,5,Livermore,"4,002 sqft",31-Dec-69,$0 ,37.6718,-121.71332,CA,Single-Family Home,717951,,,,9,,For Sale,ALAMEDA
+94551,Sunset Dr,2,3,Livermore,"1,064 sqft",31-Dec-69,$0 ,37.69137,-121.78022,CA,Single-Family Home,277775,,,,55,,For Sale,ALAMEDA
+94550,Stanford Way,2,4,Livermore,"1,600 sqft",31-Dec-69,$0 ,37.682877,-121.75049,CA,Single-Family Home,380000,,,,45,,For Sale,ALAMEDA
+94551,Falcon Way,3,3,Livermore,"1,936 sqft",31-Dec-69,$0 ,37.684025,-121.78758,CA,Single-Family Home,536000,,,,58,,For Sale,ALAMEDA
+94550,Bell Ave,2,3,Livermore,"1,254 sqft",31-Dec-69,$0 ,37.661407,-121.79544,CA,Single-Family Home,353500,,,,32,,For Sale,ALAMEDA
+94550,Lido Dr,2,5,Livermore,"2,292 sqft",31-Dec-69,$0 ,37.66367,-121.79065,CA,Single-Family Home,528000,,,,42,,For Sale,ALAMEDA
+94550,Kingsport Ave,2,4,Livermore,"2,291 sqft",31-Dec-69,$0 ,37.66411,-121.77488,CA,Single-Family Home,576000,,,,31,,For Sale,ALAMEDA
+94551,Lilac Ave,2,4,Livermore,"1,196 sqft",31-Dec-69,$0 ,37.714973,-121.738045,CA,Single-Family Home,371616,,,,29,,For Sale,ALAMEDA
+94550,Kimberley Cmn,2,4,Livermore,"1,890 sqft",31-Dec-69,$0 ,37.69094,-121.73639,CA,Single-Family Home,460000,,,,38,,For Sale,ALAMEDA
+94550,Mayview Way,2,3,Livermore,"1,519 sqft",31-Dec-69,$0 ,37.664062,-121.78838,CA,Single-Family Home,446000,,,,45,,For Sale,ALAMEDA
+94550,Murrieta Blvd #28,1,1,Livermore,690 sqft,31-Dec-69,$0 ,37.675884,-121.785034,CA,Condo,219104,,,,69,,For Sale,ALAMEDA
+94551,Scenic Ave,2,3,Livermore,"1,006 sqft",31-Dec-69,$0 ,37.717037,-121.73206,CA,Single-Family Home,341000,,,,51,,For Sale,ALAMEDA
+94550,Pismo Ct,2,3,Livermore,"1,519 sqft",31-Dec-69,$0 ,37.66684,-121.795105,CA,Single-Family Home,500000,,,,31,,For Sale,ALAMEDA
+94551,Oakmont Cir,2,4,Livermore,"1,288 sqft",31-Dec-69,$0 ,37.721447,-121.73206,CA,Single-Family Home,465930,,,,38,,For Sale,ALAMEDA
+94550,Cornell Way,2,3,Livermore,"1,681 sqft",31-Dec-69,$0 ,37.67754,-121.74418,CA,Single-Family Home,629511,,,,35,,For Sale,ALAMEDA
+94551,Chestnut St,,,Livermore,,31-Dec-69,$0 ,37.686764,-121.767166,CA,Unspecified,100000,,,,80,,For Sale,ALAMEDA
+94550,Warsaw Ave,1,3,Livermore,"1,026 sqft",31-Dec-69,$0 ,37.66386,-121.7718,CA,Single-Family Home,525658,,,,40,,For Sale,ALAMEDA
+94550,Leland Way,2,3,Livermore,"1,500 sqft",31-Dec-69,$0 ,37.665585,-121.78774,CA,Single-Family Home,609382,,,,45,,For Sale,ALAMEDA
+94551,1118 Orchid St,,,Livermore,,31-Dec-69,$0 ,37.71399,-121.72541,CA,Lot/Land,366000,,,,55,,For Sale,ALAMEDA
+94551,Lilac Ave,1,3,Livermore,"1,040 sqft",31-Dec-69,$0 ,37.714783,-121.73589,CA,Single-Family Home,465879,,,,37,,For Sale,ALAMEDA
+94551,Rosemary Cmn,3,4,Livermore,"2,012 sqft",31-Dec-69,$0 ,37.7242,-121.71926,CA,Single-Family Home,623150,,,,46,,For Sale,ALAMEDA
+94550,Robinson Cir,3,4,Livermore,"2,460 sqft",31-Dec-69,$0 ,37.673843,-121.72206,CA,Single-Family Home,845420,,,,15,,For Sale,ALAMEDA
+94551,Starling Ave,2,4,Livermore,"1,787 sqft",31-Dec-69,$0 ,37.684116,-121.79448,CA,Single-Family Home,582483,,,,42,,For Sale,ALAMEDA
+94550,Lido Dr,2,3,Livermore,"1,254 sqft",31-Dec-69,$0 ,37.66394,-121.79093,CA,Single-Family Home,546726,,,,42,,For Sale,ALAMEDA
+94551,Marigold Rd,2,2,Livermore,"1,280 sqft",31-Dec-69,$0 ,37.711735,-121.73807,CA,Single-Family Home,453012,,,,38,,For Sale,ALAMEDA
+94550,Betty Cir,2,4,Livermore,"2,319 sqft",31-Dec-69,$0 ,37.68654,-121.72503,CA,Single-Family Home,700082,,,,28,,For Sale,ALAMEDA
+94551,Orchid Ct,2,4,Livermore,"2,187 sqft",31-Dec-69,$0 ,37.716393,-121.72496,CA,Single-Family Home,662322,,,,58,,For Sale,ALAMEDA
+94550,Jade Pl,2,3,Livermore,"1,689 sqft",31-Dec-69,$0 ,37.668182,-121.80375,CA,Single-Family Home,660855,,,,20,,For Sale,ALAMEDA
+94551,Bear Creek Dr,3,5,Livermore,"2,140 sqft",31-Dec-69,$0 ,37.723537,-121.714134,CA,Single-Family Home,683988,,,,38,,For Sale,ALAMEDA
+94550,Jefferson Ave,3,4,Livermore,"2,110 sqft",31-Dec-69,$0 ,37.682426,-121.744,CA,Single-Family Home,193000,,,,37,,For Sale,ALAMEDA
+94550,Chris Cmn #109,1,1,Livermore,610 sqft,31-Dec-69,$0 ,37.688343,-121.738205,CA,Condo,101700,,,,46,,For Sale,ALAMEDA
+94550,Coronado Way,2,4,Livermore,"1,302 sqft",31-Dec-69,$0 ,37.66418,-121.78134,CA,Single-Family Home,100000,,,,55,,For Sale,ALAMEDA
+94551,Andrews St,1,1,Livermore,638 sqft,31-Dec-69,$0 ,37.683506,-121.782486,CA,Single-Family Home,132000,,,,82,,For Sale,ALAMEDA
+94551,Garden Cmn,2,3,Livermore,"1,519 sqft",31-Dec-69,$0 ,37.688545,-121.79956,CA,Condo,364000,,,,54,,For Sale,ALAMEDA
+94550,Murrieta Blvd,2,3,Livermore,"1,291 sqft",31-Dec-69,$0 ,37.675884,-121.785034,CA,Condo,231934,,,,72,,For Sale,ALAMEDA
+94550,Katrina St,2,4,Livermore,"1,638 sqft",31-Dec-69,$0 ,37.687756,-121.72632,CA,Single-Family Home,365000,,,,31,,For Sale,ALAMEDA
+94550,Wall St,3,8,Livermore,"3,020 sqft",31-Dec-69,$0 ,37.67078,-121.79265,CA,Single-Family Home,687000,,,,34,,For Sale,ALAMEDA
+94551,Peachtree Cmn,2,2,Livermore,944 sqft,31-Dec-69,$0 ,37.709824,-121.74244,CA,Unspecified,265000,,,,54,,For Sale,ALAMEDA
+94550,Murrieta Blvd,1,2,Livermore,855 sqft,31-Dec-69,$0 ,37.67587,-121.78395,CA,Condo,240817,,,,72,,For Sale,ALAMEDA
+94550,Topaz Way,2,3,Livermore,"1,488 sqft",31-Dec-69,$0 ,37.66533,-121.7999,CA,Single-Family Home,399000,,,,26,,For Sale,ALAMEDA
+94550,Kimberly Com,2,3,Livermore,"1,769 sqft",31-Dec-69,$0 ,37.691242,-121.736755,CA,Unspecified,463439,,,,40,,For Sale,ALAMEDA
+94550,S Livermore Ave,4,4,Livermore,"4,479 sqft",31-Dec-69,$0 ,37.68031,-121.7657,CA,Single-Family Home,768750,,,,94,,For Sale,ALAMEDA
+94551,Kennedy St,2,3,Livermore,"2,500 sqft",31-Dec-69,$0 ,37.6905,-121.761345,CA,Single-Family Home,636735,,,,52,,For Sale,ALAMEDA
+94551,Aries Ct,2,4,Livermore,"1,496 sqft",31-Dec-69,$0 ,37.71788,-121.74068,CA,Single-Family Home,417000,,,,20,,For Sale,ALAMEDA
+94550,Verdite St,3,5,Livermore,"2,912 sqft",31-Dec-69,$0 ,37.66177,-121.8019,CA,Single-Family Home,740000,,,,22,,For Sale,ALAMEDA
+94550,Anna Maria St,3,4,Livermore,"1,938 sqft",31-Dec-69,$0 ,37.669514,-121.797134,CA,Single-Family Home,560000,,,,26,,For Sale,ALAMEDA
+94551,Bellflower St,2,3,Livermore,"1,567 sqft",31-Dec-69,$0 ,37.71073,-121.73041,CA,Single-Family Home,484000,,,,49,,For Sale,ALAMEDA
+94550,Madeira Way,2,3,Livermore,"1,419 sqft",31-Dec-69,$0 ,37.686535,-121.753876,CA,Single-Family Home,441111,,,,49,,For Sale,ALAMEDA
+94550,California Way,1,3,Livermore,"1,040 sqft",31-Dec-69,$0 ,37.682148,-121.750206,CA,Single-Family Home,458470,,,,46,,For Sale,ALAMEDA
+94551,Bluebell Dr,2,3,Livermore,"1,280 sqft",31-Dec-69,$0 ,37.712845,-121.73666,CA,Single-Family Home,461692,,,,40,,For Sale,ALAMEDA
+94551,Forget Me Not,2,3,Livermore,"1,401 sqft",31-Dec-69,$0 ,37.713863,-121.72127,CA,Condo,417154,,,,63,,For Sale,ALAMEDA
+94550,Nicol Cmn #112,2,2,Livermore,842 sqft,31-Dec-69,$0 ,37.68883,-121.73732,CA,Condo,297166,,,,35,,For Sale,ALAMEDA
+94551,Windward Cmn #6,3,2,Livermore,"1,213 sqft",31-Dec-69,$0 ,37.71019,-121.80597,CA,Condo,447758,,,,29,,For Sale,ALAMEDA
+94551,Saybrook Rd,2,3,Livermore,"1,427 sqft",31-Dec-69,$0 ,37.69285,-121.79562,CA,Single-Family Home,454053,,,,43,,For Sale,ALAMEDA
+94551,Adelle St,1,3,Livermore,960 sqft,31-Dec-69,$0 ,37.68605,-121.780525,CA,Single-Family Home,390000,,,,83,,For Sale,ALAMEDA
+94551,Macgregor Cmn,2,3,Livermore,"1,094 sqft",31-Dec-69,$0 ,37.693283,-121.75233,CA,Single-Family Home,432286,,,,49,,For Sale,ALAMEDA
+94550,Oregon Way,1,3,Livermore,"1,291 sqft",31-Dec-69,$0 ,37.683117,-121.75752,CA,Single-Family Home,510000,,,,78,,For Sale,ALAMEDA
+94550,Ventura Ave,1,2,Livermore,"1,012 sqft",31-Dec-69,$0 ,37.68143,-121.78187,CA,Single-Family Home,364000,,,,85,,For Sale,ALAMEDA
+94551,Nightingale St,2,4,Livermore,"1,125 sqft",31-Dec-69,$0 ,37.685482,-121.789406,CA,Single-Family Home,430792,,,,60,,For Sale,ALAMEDA
+94551,Spyglass Hills Rd,1,2,Livermore,"1,066 sqft",31-Dec-69,$0 ,37.72638,-121.72509,CA,Single-Family Home,448750,,,,35,,For Sale,ALAMEDA
+94550,Murrieta Blvd,,,Livermore,,31-Dec-69,$0 ,37.675934,-121.78149,CA,Condo,245751,,,,68,,For Sale,ALAMEDA
+94550,First St #1201,,,Livermore,,31-Dec-69,$0 ,37.685143,-121.761894,CA,Condo,253600,,,,88,,For Sale,ALAMEDA
+94550,Lenore Ave,2,4,Livermore,"1,544 sqft",31-Dec-69,$0 ,37.692966,-121.729965,CA,Single-Family Home,620499,,,,35,,For Sale,ALAMEDA
+94551,N P St,2,4,Livermore,"1,302 sqft",31-Dec-69,$0 ,37.69206,-121.781784,CA,Single-Family Home,496056,,,,62,,For Sale,ALAMEDA
+94551,Northwood Cmns,2,3,Livermore,"1,618 sqft",31-Dec-69,$0 ,37.682053,-121.79027,CA,Townhome,583981,,,,58,,For Sale,ALAMEDA
+94551,Forget Me Not Cmn,,,Livermore,,31-Dec-69,$0 ,37.714516,-121.72169,CA,Unspecified,252100,,,,57,,For Sale,ALAMEDA
+94550,Chris Cmn #103,,,Livermore,,31-Dec-69,$0 ,37.68846,-121.73825,CA,Unspecified,101700,,,,46,,For Sale,ALAMEDA
+94550,N Livermore Ave,,,Livermore,,31-Dec-69,$0 ,37.68538,-121.77053,CA,Unspecified,189501,,,,86,,For Sale,ALAMEDA
+94551,Peachtree Cmn,,,Livermore,,31-Dec-69,$0 ,37.709568,-121.74341,CA,Unspecified,267551,,,,43,,For Sale,ALAMEDA
+94550,Murrieta Blvd #77,,,Livermore,,31-Dec-69,$0 ,37.675896,-121.78283,CA,Unspecified,49465,,,,72,,For Sale,ALAMEDA
+94551,Elm St,,,Livermore,,31-Dec-69,$0 ,37.686656,-121.78291,CA,Unspecified,221700,,,,,,For Sale,ALAMEDA
+94551,N Livermore Ave,,,Livermore,,31-Dec-69,$0 ,37.743886,-121.769875,CA,Unspecified,195100,,,,80,,For Sale,ALAMEDA
+94551,Lindberg Ave A,,,Livermore,,31-Dec-69,$0 ,37.697674,-121.80798,CA,Unspecified,111500,,,,54,,For Sale,ALAMEDA
+94551,Wild Rose Cmn #1204,,,Livermore,,31-Dec-69,$0 ,37.709213,-121.80617,CA,Unspecified,215955,,,,23,,For Sale,ALAMEDA
+94551,Idlewild Ave,1,3,Livermore,"1,120 sqft",31-Dec-69,$0 ,37.72206,-121.726265,CA,Single-Family Home,499550,,,,49,,For Sale,ALAMEDA
+94550,Murrteta Blvd #3,,,Livermore,,31-Dec-69,$0 ,37.675884,-121.785034,CA,Unspecified,99000,,,,72,,For Sale,ALAMEDA
+94551,Meritage Cmn #107,2,3,Livermore,"1,514 sqft",31-Dec-69,$0 ,37.709988,-121.80792,CA,Condo,504334,,,,34,,For Sale,ALAMEDA
+94551,Miraloma St,,,Livermore,,31-Dec-69,$0 ,37.718494,-121.73163,CA,Unspecified,403750,,,,49,,For Sale,ALAMEDA
+94551,Corte Reina,3,3,Livermore,"1,752 sqft",31-Dec-69,$0 ,37.69417,-121.77982,CA,Single-Family Home,549557,,,,52,,For Sale,ALAMEDA
+94550,Senger St,3,4,Livermore,"3,003 sqft",31-Dec-69,$0 ,37.67282,-121.723305,CA,Single-Family Home,969816,,,,12,,For Sale,ALAMEDA
+94550,Murrieta Blvd #340,,,Livermore,,31-Dec-69,$0 ,37.67593,-121.78146,CA,Unspecified,229089,,,,72,,For Sale,ALAMEDA
+94550,Hibiscus Way,1,2,Livermore,,31-Dec-69,$0 ,37.709354,-121.73789,CA,Unspecified,477389,,,,51,,For Sale,ALAMEDA
+94550,Mines Rd,,,Livermore,,31-Dec-69,$0 ,37.533947,-121.56146,CA,Lot/Land,547600,,,,0,,For Sale,ALAMEDA
+94550,N P St,,,Livermore,,31-Dec-69,$0 ,37.69006,-121.78107,CA,Unspecified,335361,,,,65,,For Sale,ALAMEDA
+94550,Kimberly Cmn,,,Livermore,,31-Dec-69,$0 ,37.691593,-121.73734,CA,Unspecified,418455,,,,52,,For Sale,ALAMEDA
+94551,Meritage Cmns #105,,,Livermore,,31-Dec-69,$0 ,37.710968,-121.80606,CA,Unspecified,271653,,,,22,,For Sale,ALAMEDA
+94550,San Antonio Valley Rd,,,Livermore,,31-Dec-69,$0 ,37.368694,-121.485176,CA,Single-Family Home,302886,,,,0,,For Sale,SANTA CLARA
+94550,Kimberly Cmn,2,3,Livermore,,31-Dec-69,$0 ,37.691494,-121.73706,CA,Single-Family Home,381000,,,,52,,For Sale,ALAMEDA
+94551,Golden Crest Cmn #3,,,Livermore,,31-Dec-69,$0 ,37.70974,-121.806854,CA,Unspecified,319330,,,,34,,For Sale,ALAMEDA
+94551,N Livermore Ave,,,Livermore,,31-Dec-69,$0 ,37.687645,-121.77143,CA,Unspecified,277365,,,,80,,For Sale,ALAMEDA
+94550,Kimberly Cmn,,,Livermore,,31-Dec-69,$0 ,37.69124,-121.737854,CA,Unspecified,280000,,,,52,,For Sale,ALAMEDA
+94551,N P St,,,Livermore,,31-Dec-69,$0 ,37.686302,-121.77935,CA,Unspecified,325228,,,,75,,For Sale,ALAMEDA
+94550,Florence Rd,,,Livermore,,31-Dec-69,$0 ,37.67047,-121.77526,CA,Unspecified,530795,,,,45,,For Sale,ALAMEDA
+94551,Winward Cmn #1,,,Livermore,,31-Dec-69,$0 ,37.71025,-121.805833,CA,Unspecified,369481,,,,,,For Sale,ALAMEDA
+94551,Summertree Dr,,,Livermore,,31-Dec-69,$0 ,37.67932,-121.793564,CA,Unspecified,489100,,,,52,,For Sale,ALAMEDA
+94550,E Ave,,,Livermore,,31-Dec-69,$0 ,37.679988,-121.764468,CA,Unspecified,601588,,,,60,,For Sale,ALAMEDA
+94550,Brisa St,,,Livermore,,31-Dec-69,$0 ,37.702587,-121.71117,CA,Unspecified,589981,,,,40,,For Sale,ALAMEDA
+94551,Brighton Way,2,3,Livermore,"1,619 sqft",31-Dec-69,$0 ,37.68952,-121.79581,CA,Single-Family Home,557249,,,,49,,For Sale,ALAMEDA
+94551,Norfolk Rd,2,4,Livermore,"1,775 sqft",31-Dec-69,$0 ,37.690365,-121.79026,CA,Single-Family Home,578378,,,,55,,For Sale,ALAMEDA
+94550,Kellogg Loop,3,4,Livermore,"2,790 sqft",31-Dec-69,$0 ,37.669777,-121.725365,CA,Single-Family Home,927986,,,,17,,For Sale,ALAMEDA
+94551,Meadow Ct,3,4,Livermore,"1,817 sqft",31-Dec-69,$0 ,37.719498,-121.71464,CA,Single-Family Home,624000,,,,46,,For Sale,ALAMEDA
+94551,Rhododendron Dr,3,4,Livermore,"1,853 sqft",31-Dec-69,$0 ,37.713036,-121.74483,CA,Single-Family Home,639027,,,,25,,For Sale,ALAMEDA
+94550,Loyola Way,2,4,Livermore,"2,055 sqft",31-Dec-69,$0 ,37.68617,-121.74118,CA,Single-Family Home,761981,,,,45,,For Sale,ALAMEDA
+94550,S Livermore Ave,3,4,Livermore,"2,394 sqft",31-Dec-69,$0 ,37.673393,-121.75494,CA,Single-Family Home,866071,,,,66,,For Sale,ALAMEDA
+94550,Hazel St,,,Livermore,,31-Dec-69,$0 ,37.690403,-121.73119,CA,Unspecified,640000,,,,29,,For Sale,ALAMEDA
+94550,Santa Croce Ct,,,Livermore,,31-Dec-69,$0 ,37.666176,-121.75363,CA,Unspecified,666000,,,,34,,For Sale,ALAMEDA
+94551,Whippoorwill St,,,Livermore,,31-Dec-69,$0 ,37.721558,-121.721016,CA,Unspecified,616000,,,,51,,For Sale,ALAMEDA
+94551,Chaparral Way,,,Livermore,,31-Dec-69,$0 ,37.72095,-121.71274,CA,Unspecified,578576,,,,45,,For Sale,ALAMEDA
+94551,Leisure St,,,Livermore,,31-Dec-69,$0 ,37.71024,-121.71934,CA,Unspecified,712293,,,,57,,For Sale,ALAMEDA
+94551,Leisure St,,,Livermore,,31-Dec-69,$0 ,37.710182,-121.7193,CA,Unspecified,712293,,,,54,,For Sale,ALAMEDA

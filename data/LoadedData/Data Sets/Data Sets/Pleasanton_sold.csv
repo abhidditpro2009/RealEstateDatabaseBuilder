@@ -1,0 +1,605 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,3200 Denton Ct,,,Pleasanton,,"Mar 4, 2014","$882,500",37.679382,-121.858665,CA,Lot/Land,882500,,94566,,,,Sold,ALAMEDA
+2,4105 Morganfield Ct,2.5,4.0,Pleasanton,"1,802 sqft","Mar 4, 2014","$885,000",37.680965,-121.87043,CA,Single-Family Home,885000,"$910,000",94566,,,,Sold,ALAMEDA
+3,3303 Rosada Ct,2.0,2.0,Pleasanton,"1,302 sqft","Mar 4, 2014","$486,000",37.68792,-121.88508,CA,Townhouse,486000,"$572,000",94588,,,,Sold,ALAMEDA
+4,3660 Kirkcaldy Ct,2.5,4.0,Pleasanton,"2,126 sqft","Mar 4, 2014","$805,000",37.700603,-121.86227,CA,Single-Family Home,805000,"$924,000",94588,,,,Sold,ALAMEDA
+5,1969 Paseo Del Cajon,3.0,4.0,Pleasanton,"2,220 sqft","Mar 4, 2014","$935,000",37.66826,-121.88912,CA,Single-Family Home,935000,"$1,016,000",94566,,,,Sold,ALAMEDA
+6,5262 Riverdale Ct,2.0,3.0,Pleasanton,"1,525 sqft","Mar 4, 2014","$565,000",37.689114,-121.92118,CA,Townhouse,565000,"$616,000",94588,,,,Sold,ALAMEDA
+7,717 Bonita Ave,3.0,3.0,Pleasanton,"2,220 sqft","Mar 4, 2014","$908,000",37.656635,-121.8644,CA,Single-Family Home,908000,"$1,025,000",94566,,,,Sold,ALAMEDA
+8,2255 Segundo Ct,1.0,2.0,Pleasanton,903 sqft,"Mar 3, 2014","$265,000",37.650246,-121.90387,CA,Condo,265000,"$338,000",94588,,,,Sold,ALAMEDA
+9,4051 Vineyard Ave,1.0,2.0,Pleasanton,987 sqft,"Feb 28, 2014","$520,000",37.66332,-121.867165,CA,Single-Family Home,520000,"$606,000",94566,,,,Sold,ALAMEDA
+10,897 Sunset Creek Ln,4.0,5.0,Pleasanton,"3,246 sqft","Feb 28, 2014","$1,540,000",37.644276,-121.87247,CA,Single-Family Home,1540000,"$1,588,000",94566,,,,Sold,ALAMEDA
+11,7301 Joshua Cir,3.0,3.0,Pleasanton,"1,499 sqft","Feb 28, 2014","$681,000",37.67316,-121.913284,CA,Single-Family Home,681000,"$880,000",94588,,,,Sold,ALAMEDA
+12,5989 Corte Espada,2.0,4.0,Pleasanton,"1,527 sqft","Feb 28, 2014","$750,000",37.669624,-121.89687,CA,Single-Family Home,750000,"$846,000",94566,,,,Sold,ALAMEDA
+13,1808 Rosetree Ct,2.0,4.0,Pleasanton,"1,716 sqft","Feb 28, 2014","$874,500",37.67478,-121.878914,CA,Single-Family Home,874500,"$923,000",94566,,,,Sold,ALAMEDA
+14,4244 Brindisi Pl,4.5,5.0,Pleasanton,"5,254 sqft","Feb 28, 2014","$1,835,000",37.6317,-121.8057,CA,Single-Family Home,1835000,"$2,289,000",94566,,,,Sold,ALAMEDA
+15,1687 Holly Cir,2.5,4.0,Pleasanton,"1,900 sqft","Feb 28, 2014","$770,000",37.680504,-121.86792,CA,Single-Family Home,770000,"$825,000",94566,,,,Sold,ALAMEDA
+16,3206 Denton Ct,,,Pleasanton,,"Feb 28, 2014","$881,500",37.679382,-121.85865,CA,Lot/Land,881500,,94566,,,,Sold,ALAMEDA
+17,3212 Denton Ct,,,Pleasanton,,"Feb 27, 2014","$1,026,500",37.679382,-121.858635,CA,Lot/Land,1026500,,94566,,,,Sold,ALAMEDA
+18,5970 Knoll Woods Ct,4.0,5.0,Pleasanton,"3,365 sqft","Feb 26, 2014","$1,190,000",37.648186,-121.888275,CA,Single-Family Home,1190000,"$1,496,000",94566,,,,Sold,ALAMEDA
+19,5680 San Antonio St,2.0,4.0,Pleasanton,"1,877 sqft","Feb 25, 2014","$800,000",37.64735,-121.87509,CA,Single-Family Home,800000,"$914,000",94566,,,,Sold,ALAMEDA
+20,589 E Angela St,2.0,3.0,Pleasanton,"1,249 sqft","Feb 25, 2014","$667,500",37.65559,-121.86979,CA,Single-Family Home,667500,"$739,000",94566,,,,Sold,ALAMEDA
+21,4344 Valley Ave #C10,2.0,2.0,Pleasanton,"1,318 sqft","Feb 25, 2014","$514,000",37.674923,-121.87713,CA,Townhouse,514000,"$573,000",94566,,,,Sold,ALAMEDA
+22,4058 Francisco St,2.0,3.0,Pleasanton,"2,024 sqft","Feb 24, 2014","$839,000",37.67498,-121.86986,CA,Single-Family Home,839000,"$935,000",94566,,,,Sold,ALAMEDA
+23,2923 Liberty Dr,2.5,3.0,Pleasanton,"1,558 sqft","Feb 24, 2014","$683,000",37.66655,-121.84658,CA,Single-Family Home,683000,"$791,000",94566,,,,Sold,ALAMEDA
+24,7650 Canyon Meadow Cir #E,2.0,2.0,Pleasanton,"1,043 sqft","Feb 21, 2014","$411,000",37.696518,-121.94896,CA,Condo,411000,"$470,000",94588,,,,Sold,ALAMEDA
+25,4862 Saginaw Cir,1.5,2.0,Pleasanton,988 sqft,"Feb 21, 2014","$380,000",37.690926,-121.881714,CA,Townhouse,380000,"$395,000",94588,,,,Sold,ALAMEDA
+26,3571 Gresham Ct,2.0,3.0,Pleasanton,"2,062 sqft","Feb 20, 2014","$772,500",37.69564,-121.87611,CA,Single-Family Home,772500,"$919,000",94588,,,,Sold,ALAMEDA
+27,7307 Stonedale Dr,2.5,3.0,Pleasanton,"1,454 sqft","Feb 20, 2014","$520,000",37.689114,-121.91901,CA,Townhouse,520000,"$583,000",94588,,,,Sold,ALAMEDA
+28,8170 Mountain View Dr #H,2.0,2.0,Pleasanton,"1,043 sqft","Feb 19, 2014","$410,000",37.696518,-121.94896,CA,Condo,410000,"$466,000",94588,,,,Sold,ALAMEDA
+29,1774 Paseo Del Cajon,3.0,4.0,Pleasanton,"2,358 sqft","Feb 19, 2014","$961,000",37.67029,-121.89037,CA,Single-Family Home,961000,"$1,051,000",94566,,,,Sold,ALAMEDA
+30,1063 Hopkins Way,2.5,3.0,Pleasanton,"2,971 sqft","Feb 19, 2014","$1,276,000",37.64602,-121.8694,CA,Single-Family Home,1276000,"$1,332,000",94566,,,,Sold,ALAMEDA
+31,5083 Porta Rossa Cir,2.0,2.0,Pleasanton,"1,156 sqft","Feb 19, 2014","$636,000",37.69247,-121.88737,CA,Single-Family Home,636000,"$680,000",94588,,,,Sold,ALAMEDA
+32,4379 Diavila Ave,2.5,3.0,Pleasanton,"1,777 sqft","Feb 19, 2014","$769,000",37.688652,-121.87722,CA,Single-Family Home,769000,"$853,000",94588,,,,Sold,ALAMEDA
+33,2113 Cascara Ct,3.5,3.0,Pleasanton,"3,890 sqft","Feb 18, 2014","$1,600,000",37.645905,-121.90323,CA,Single-Family Home,1600000,"$2,322,000",94588,,,,Sold,ALAMEDA
+34,2487 Tanager Dr,2.0,4.0,Pleasanton,"1,909 sqft","Feb 18, 2014","$855,000",37.6833,-121.87773,CA,Single-Family Home,855000,"$957,000",94566,,,,Sold,ALAMEDA
+35,3246 W Las Positas Blvd,2.5,3.0,Pleasanton,"1,473 sqft","Feb 18, 2014","$650,000",37.698425,-121.85762,CA,Single-Family Home,650000,"$738,000",94588,,,,Sold,ALAMEDA
+36,4025 Churchill Dr,2.0,4.0,Pleasanton,"1,584 sqft","Feb 14, 2014","$754,000",37.69781,-121.87095,CA,Single-Family Home,754000,"$799,000",94588,,,,Sold,ALAMEDA
+37,6714 Rancho Ct,2.0,4.0,Pleasanton,"1,689 sqft","Feb 14, 2014","$756,500",37.68122,-121.91053,CA,Single-Family Home,756500,"$795,000",94588,,,,Sold,ALAMEDA
+38,4694 Sutter Gate Ave,3.0,4.0,Pleasanton,"2,449 sqft","Feb 14, 2014","$910,000",37.68523,-121.88097,CA,Single-Family Home,910000,"$1,103,000",94566,,,,Sold,ALAMEDA
+39,4125 Garibaldi Pl,2.5,4.0,Pleasanton,"1,857 sqft","Feb 14, 2014","$762,000",37.654392,-121.85988,CA,Single-Family Home,762000,"$859,000",94566,,,,Sold,ALAMEDA
+40,4057 Alta Ct,2.0,4.0,Pleasanton,"1,372 sqft","Feb 13, 2014","$655,000",37.67907,-121.91024,CA,Single-Family Home,655000,"$694,000",94588,,,,Sold,ALAMEDA
+41,2469 Via Espada,2.0,4.0,Pleasanton,"1,489 sqft","Feb 13, 2014","$692,000",37.66696,-121.89661,CA,Single-Family Home,692000,"$826,000",94566,,,,Sold,ALAMEDA
+42,2197 Arroyo Ct,1.0,2.0,Pleasanton,810 sqft,"Feb 13, 2014","$285,000",37.650246,-121.90387,CA,Condo,285000,"$320,000",94588,,,,Sold,ALAMEDA
+43,820 Sycamore Rd,5.0,6.0,Pleasanton,"6,764 sqft","Feb 13, 2014","$2,150,000",37.642483,-121.87396,CA,Single-Family Home,2150000,"$2,616,000",94566,,,,Sold,ALAMEDA
+44,4009 Jackie Ct,2.0,4.0,Pleasanton,"1,489 sqft","Feb 13, 2014","$630,000",37.681744,-121.90802,CA,Single-Family Home,630000,"$692,000",94588,,,,Sold,ALAMEDA
+45,4474 Bacon Ct,2.0,3.0,Pleasanton,"1,607 sqft","Feb 11, 2014","$710,000",37.689102,-121.90638,CA,Single-Family Home,710000,"$774,000",94588,,,,Sold,ALAMEDA
+46,2161 Eilene Dr,2.5,3.0,Pleasanton,"1,658 sqft","Feb 11, 2014","$740,000",37.687515,-121.869804,CA,Single-Family Home,740000,"$816,000",94588,,,,Sold,ALAMEDA
+47,1549 Calle Santa Anna,1.0,2.0,Pleasanton,941 sqft,"Feb 11, 2014","$465,000",37.667915,-121.88796,CA,Townhouse,465000,"$501,000",94566,,,,Sold,ALAMEDA
+48,7218 Moss Tree Way,4.5,5.0,Pleasanton,"4,792 sqft","Feb 11, 2014","$1,745,000",37.64909,-121.897095,CA,Single-Family Home,1745000,"$1,799,000",94566,,,,Sold,ALAMEDA
+49,524 Neal St,2.0,3.0,Pleasanton,"1,390 sqft","Feb 10, 2014","$690,000",37.65771,-121.86924,CA,Single-Family Home,690000,"$792,000",94566,,,,Sold,ALAMEDA
+50,4177 Georgis Pl,2.5,3.0,Pleasanton,"1,503 sqft","Feb 7, 2014","$621,000",37.695747,-121.890884,CA,Townhouse,621000,"$670,000",94588,,,,Sold,ALAMEDA
+51,752 Saint Michael Cir,2.5,3.0,Pleasanton,"1,520 sqft","Feb 7, 2014","$455,000",37.662056,-121.85457,CA,Townhouse,455000,"$590,000",94566,,,,Sold,ALAMEDA
+52,3713 Vine St,2.5,3.0,Pleasanton,"1,671 sqft","Feb 7, 2014","$695,000",37.664272,-121.861,CA,Single-Family Home,695000,"$796,000",94566,,,,Sold,ALAMEDA
+53,5375 Black Ave #2,2.0,2.0,Pleasanton,"1,345 sqft","Feb 6, 2014","$460,000",37.672558,-121.88992,CA,Condo,460000,"$482,000",94566,,,,Sold,ALAMEDA
+54,5487 Greenfield Way,2.5,4.0,Pleasanton,"2,087 sqft","Feb 5, 2014","$895,000",37.674065,-121.89001,CA,Single-Family Home,895000,"$932,000",94566,,,,Sold,ALAMEDA
+55,5631 Highland Rd,,,Pleasanton,"3,351 sqft","Feb 5, 2014","$1,275,000",37.777298,-121.85616,CA,Farm/Ranch,1275000,"$1,397,000",94588,,,,Sold,CONTRA COSTA
+56,2356 Goldcrest Cir,2.0,3.0,Pleasanton,"1,209 sqft","Jan 31, 2014","$543,000",37.673862,-121.89205,CA,Single-Family Home,543000,"$688,000",94566,,,,Sold,ALAMEDA
+57,3311 Prairie Dr,3.0,4.0,Pleasanton,"3,032 sqft","Jan 31, 2014","$989,000",37.6661,-121.91064,CA,Single-Family Home,989000,"$1,278,000",94588,,,,Sold,ALAMEDA
+58,4672 Carson Ct,2.0,4.0,Pleasanton,"1,489 sqft","Jan 31, 2014","$650,000",37.69048,-121.908195,CA,Single-Family Home,650000,"$748,000",94588,,,,Sold,ALAMEDA
+59,1124 Vintner Way,2.0,4.0,Pleasanton,"2,078 sqft","Jan 30, 2014","$805,000",37.65806,-121.849205,CA,Single-Family Home,805000,"$932,000",94566,,,,Sold,ALAMEDA
+60,180 Monaco Ct,2.0,3.0,Pleasanton,"2,215 sqft","Jan 28, 2014","$1,066,000",37.653587,-121.87737,CA,Single-Family Home,1066000,"$1,056,000",94566,,,,Sold,ALAMEDA
+61,3741 Rose Rock Cir,2.0,3.0,Pleasanton,"1,720 sqft","Jan 28, 2014","$695,000",37.688934,-121.86978,CA,Single-Family Home,695000,"$815,000",94588,,,,Sold,ALAMEDA
+62,2667 Curry St,2.5,4.0,Pleasanton,"2,014 sqft","Jan 24, 2014","$805,000",37.692017,-121.855606,CA,Single-Family Home,805000,"$871,000",94588,,,,Sold,ALAMEDA
+63,4676 Jefferson Ct,2.0,3.0,Pleasanton,"1,816 sqft","Jan 24, 2014","$733,000",37.68584,-121.911964,CA,Single-Family Home,733000,"$812,000",94588,,,,Sold,ALAMEDA
+64,3138 Delicado Ct,2.5,3.0,Pleasanton,"1,761 sqft","Jan 23, 2014","$600,000",37.68614,-121.88884,CA,Townhouse,600000,"$732,000",94588,,,,Sold,ALAMEDA
+65,3679 Canelli Ct,2.0,3.0,Pleasanton,"1,904 sqft","Jan 22, 2014","$850,000",37.660107,-121.857315,CA,Single-Family Home,850000,"$940,000",94566,,,,Sold,ALAMEDA
+66,4219 Payne Rd,2.0,4.0,Pleasanton,"1,603 sqft","Jan 22, 2014","$648,000",37.68222,-121.90999,CA,Single-Family Home,648000,"$739,000",94588,,,,Sold,ALAMEDA
+67,1970 Valdosta Ct,2.0,3.0,Pleasanton,"1,439 sqft","Jan 22, 2014","$691,000",37.67991,-121.87459,CA,Single-Family Home,691000,"$748,000",94566,,,,Sold,ALAMEDA
+68,2396 Woodthrush Way,2.0,4.0,Pleasanton,"1,882 sqft","Jan 22, 2014","$825,000",37.678883,-121.885185,CA,Single-Family Home,825000,"$911,000",94566,,,,Sold,ALAMEDA
+69,1658 Whispering Oaks Way,3.5,5.0,Pleasanton,"3,760 sqft","Jan 21, 2014","$1,188,000",37.65745,-121.894775,CA,Single-Family Home,1188000,"$1,497,000",94566,,,,Sold,ALAMEDA
+70,4 Jay Ct,2.5,3.0,Pleasanton,"1,441 sqft","Jan 21, 2014","$660,000",37.663746,-121.87059,CA,Single-Family Home,660000,"$758,000",94566,,,,Sold,ALAMEDA
+71,1517 Ridgewood Rd,2.5,4.0,Pleasanton,"2,047 sqft","Jan 17, 2014","$845,000",37.671387,-121.879295,CA,Single-Family Home,845000,"$928,000",94566,,,,Sold,ALAMEDA
+72,4166 Hall Ct,3.0,3.0,Pleasanton,"2,042 sqft","Jan 16, 2014","$879,000",37.67682,-121.867516,CA,Single-Family Home,879000,"$1,081,000",94566,,,,Sold,ALAMEDA
+73,6035 Sterling Greens Cir,2.5,3.0,Pleasanton,"2,532 sqft","Jan 15, 2014","$970,000",37.648052,-121.88913,CA,Single-Family Home,970000,"$1,145,000",94566,,,,Sold,ALAMEDA
+74,6875 Vale Ct,2.0,4.0,Pleasanton,"1,489 sqft","Jan 15, 2014","$605,000",37.681534,-121.913895,CA,Single-Family Home,605000,"$735,000",94588,,,,Sold,ALAMEDA
+75,1121 Via Di Salerno,6.5,6.0,Pleasanton,"6,640 sqft","Jan 15, 2014","$2,400,000",37.64397,-121.807945,CA,Single-Family Home,2400000,"$3,030,000",94566,,,,Sold,ALAMEDA
+76,5214 Zaro Ct,2.5,4.0,Pleasanton,"1,929 sqft","Jan 15, 2014","$769,000",37.69224,-121.8893,CA,Single-Family Home,769000,"$883,000",94588,,,,Sold,ALAMEDA
+77,4349 2nd St,1.0,2.0,Pleasanton,"1,282 sqft","Jan 15, 2014","$750,000",37.661156,-121.87121,CA,Single-Family Home,750000,"$804,000",94566,,,,Sold,ALAMEDA
+78,1055 Nolan Ct,3.5,4.0,Pleasanton,"2,746 sqft","Jan 14, 2014","$1,069,000",37.678276,-121.86341,CA,Single-Family Home,1069000,"$1,327,000",94566,,,,Sold,ALAMEDA
+79,2159 Alexander Way,2.5,4.0,Pleasanton,"1,738 sqft","Jan 14, 2014","$702,500",37.68657,-121.8744,CA,Single-Family Home,702500,"$762,000",94588,,,,Sold,ALAMEDA
+80,1865 Via Di Salerno,,,Pleasanton,,"Jan 14, 2014","$1,400,000",37.639153,-121.80217,CA,Unknown,1400000,,94566,,,,Sold,ALAMEDA
+81,213 E Angela St,2.0,4.0,Pleasanton,"2,385 sqft","Jan 14, 2014","$1,206,500",37.657784,-121.87364,CA,Single-Family Home,1206500,"$1,059,000",94566,,,,Sold,ALAMEDA
+82,3546 Helen Dr,2.0,2.0,Pleasanton,"1,459 sqft","Jan 10, 2014","$655,000",37.68577,-121.86933,CA,Single-Family Home,655000,"$726,000",94588,,,,Sold,ALAMEDA
+83,5331 Black Ave #3,2.5,3.0,Pleasanton,"1,690 sqft","Jan 10, 2014","$494,000",37.672558,-121.88992,CA,Condo,494000,"$584,000",94566,,,,Sold,ALAMEDA
+84,3330 Harpers Ferry Ct,2.5,4.0,Pleasanton,"1,891 sqft","Jan 10, 2014","$730,000",37.676006,-121.90336,CA,Single-Family Home,730000,"$788,000",94588,,,,Sold,ALAMEDA
+85,8027 Canyon Creek Cir,3.0,4.0,Pleasanton,"1,996 sqft","Jan 9, 2014","$780,000",37.69725,-121.952774,CA,Single-Family Home,780000,"$1,007,000",94588,,,,Sold,ALAMEDA
+86,4709 Arlene Pl,2.0,3.0,Pleasanton,"2,331 sqft","Jan 9, 2014","$1,110,000",37.65118,-121.86885,CA,Single-Family Home,1110000,"$1,302,000",94566,,,,Sold,ALAMEDA
+87,7268 Tulipwood Cir,2.5,3.0,Pleasanton,"1,937 sqft","Jan 9, 2014","$800,000",37.678394,-121.91528,CA,Single-Family Home,800000,"$995,000",94588,,,,Sold,ALAMEDA
+88,7888 Golden Eagle Way,3.5,4.0,Pleasanton,"4,115 sqft","Jan 8, 2014","$175,000",37.6429,-121.89853,CA,Single-Family Home,175000,"$1,742,000",94588,,,,Sold,ALAMEDA
+89,2593 Gillian Ct,3.5,4.0,Pleasanton,"3,464 sqft","Jan 8, 2014","$1,409,500",37.66444,-121.841705,CA,Single-Family Home,1409500,"$1,618,000",94566,,,,Sold,ALAMEDA
+90,464 Montori Ct,3.0,4.0,Pleasanton,"2,806 sqft","Jan 7, 2014","$1,189,000",37.642338,-121.80101,CA,Single-Family Home,1189000,"$1,321,000",94566,,,,Sold,ALAMEDA
+91,4752 Woodthrush Ct,2.0,3.0,Pleasanton,"1,341 sqft","Jan 3, 2014","$715,000",37.683186,-121.88064,CA,Single-Family Home,715000,"$763,000",94566,,,,Sold,ALAMEDA
+92,1262 Shady Pond Ln,4.0,5.0,Pleasanton,"3,989 sqft","Dec 31, 2013","$1,620,000",37.646126,-121.8974,CA,Single-Family Home,1620000,"$1,656,000",94566,,,,Sold,ALAMEDA
+93,8079 Rockford Pl,4.0,4.0,Pleasanton,"4,019 sqft","Dec 31, 2013","$1,610,000",37.626102,-121.88426,CA,Single-Family Home,1610000,"$2,261,000",94566,,,,Sold,ALAMEDA
+94,3964 Grand Canyon Ct,2.0,3.0,Pleasanton,"1,330 sqft","Dec 31, 2013","$560,000",37.675087,-121.91102,CA,Single-Family Home,560000,"$733,000",94588,,,,Sold,ALAMEDA
+95,1819 Maddalena Ct,,,Pleasanton,,"Dec 31, 2013","$1,240,000",37.633297,-121.81218,CA,Unknown,1240000,,94566,,,,Sold,ALAMEDA
+96,4307 Addison Way,2.0,4.0,Pleasanton,"1,816 sqft","Dec 31, 2013","$682,000",37.688313,-121.90502,CA,Single-Family Home,682000,"$818,000",94588,,,,Sold,ALAMEDA
+97,2315 Sandpiper Way,3.0,5.0,Pleasanton,"2,538 sqft","Dec 31, 2013","$860,000",37.677776,-121.88692,CA,Single-Family Home,860000,"$1,018,000",94566,,,,Sold,ALAMEDA
+98,5222 Riverdale Ct,2.5,3.0,Pleasanton,"1,928 sqft","Dec 30, 2013","$621,500",37.68838,-121.92074,CA,Townhouse,621500,"$697,000",94588,,,,Sold,ALAMEDA
+99,2996 W Ruby Hill Dr,5.5,4.0,Pleasanton,"5,355 sqft","Dec 27, 2013","$2,200,000",37.643654,-121.82089,CA,Single-Family Home,2200000,"$2,486,000",94566,,,,Sold,ALAMEDA
+100,2424 W Ruby Hill Dr,3.5,3.0,Pleasanton,"3,992 sqft","Dec 27, 2013","$2,680,000",37.65227,-121.81515,CA,Single-Family Home,2680000,"$2,217,000",94566,,,,Sold,ALAMEDA
+101,4444 Foothill Rd,2.5,4.0,Pleasanton,"3,507 sqft","Dec 24, 2013","$1,140,000",37.673073,-121.92082,CA,Single-Family Home,1140000,"$1,512,000",94588,,,,Sold,ALAMEDA
+102,2125 Arroyo Ct,1.0,2.0,Pleasanton,903 sqft,"Dec 24, 2013","$285,000",37.650246,-121.90387,CA,Condo,285000,"$338,000",94588,,,,Sold,ALAMEDA
+103,2966 Liberty Dr,2.0,2.0,Pleasanton,"1,135 sqft","Dec 24, 2013","$570,000",37.66724,-121.84656,CA,Single-Family Home,570000,"$603,000",94566,,,,Sold,ALAMEDA
+104,3729 Marlboro Way,1.5,3.0,Pleasanton,"1,291 sqft","Dec 24, 2013","$378,000",37.699795,-121.86733,CA,Townhouse,378000,"$485,000",94588,,,,Sold,ALAMEDA
+105,2830 Cupflower Ct,2.5,4.0,Pleasanton,"2,051 sqft","Dec 24, 2013","$784,000",37.692936,-121.85945,CA,Single-Family Home,784000,"$853,000",94588,,,,Sold,ALAMEDA
+106,1532 Whispering Oaks Way,2.5,4.0,Pleasanton,"2,988 sqft","Dec 24, 2013","$1,040,000",37.656387,-121.89369,CA,Single-Family Home,1040000,"$1,287,000",94566,,,,Sold,ALAMEDA
+107,6861 Paseo Santa Cruz,3.0,5.0,Pleasanton,"2,422 sqft","Dec 23, 2013","$948,000",37.66554,-121.905396,CA,Single-Family Home,948000,"$1,164,000",94566,,,,Sold,ALAMEDA
+108,3003 Briggs Ct,3.5,4.0,Pleasanton,"3,886 sqft","Dec 20, 2013","$1,516,000",37.660076,-121.90981,CA,Single-Family Home,1516000,"$1,822,000",94588,,,,Sold,ALAMEDA
+109,567 Montori Ct,3.0,5.0,Pleasanton,"3,023 sqft","Dec 20, 2013","$960,000",37.64273,-121.800995,CA,Single-Family Home,960000,"$1,362,000",94566,,,,Sold,ALAMEDA
+110,3831 Appian St,2.5,3.0,Pleasanton,"1,726 sqft","Dec 20, 2013","$802,000",37.693497,-121.88882,CA,Single-Family Home,802000,"$857,000",94588,,,,Sold,ALAMEDA
+111,5719 Belleza Dr,2.5,3.0,Pleasanton,"1,611 sqft","Dec 20, 2013","$575,000",37.686584,-121.88742,CA,Townhouse,575000,"$647,000",94588,,,,Sold,ALAMEDA
+112,4127 Francisco St,2.0,4.0,Pleasanton,"1,368 sqft","Dec 19, 2013","$685,000",37.675385,-121.871315,CA,Single-Family Home,685000,"$763,000",94566,,,,Sold,ALAMEDA
+113,1528 Oxsen St,2.5,3.0,Pleasanton,"1,731 sqft","Dec 19, 2013","$676,000",37.677,-121.87026,CA,Single-Family Home,676000,"$802,000",94566,,,,Sold,ALAMEDA
+114,1082 Harvest Cir,3.5,3.0,Pleasanton,"3,329 sqft","Dec 19, 2013","$1,349,000",37.666084,-121.8804,CA,Single-Family Home,1349000,"$1,345,000",94566,,,,Sold,ALAMEDA
+115,8020 Mountain View Dr #D,2.0,2.0,Pleasanton,"1,043 sqft","Dec 19, 2013","$380,000",37.696518,-121.94896,CA,Condo,380000,"$448,000",94588,,,,Sold,ALAMEDA
+116,3616 Nichole Ave,3.0,4.0,Pleasanton,"4,460 sqft","Dec 19, 2013","$1,838,000",37.683243,-121.863335,CA,Single-Family Home,1838000,"$1,685,000",94588,,,,Sold,ALAMEDA
+117,3218 Denton Ct,,,Pleasanton,,"Dec 19, 2013","$958,000",37.67938,-121.85862,CA,Single-Family Home,958000,,94566,,,,Sold,ALAMEDA
+118,5284 Ridgevale Way,3.5,5.0,Pleasanton,"2,712 sqft","Dec 18, 2013","$999,500",37.67317,-121.88794,CA,Single-Family Home,999500,"$1,032,000",94566,,,,Sold,ALAMEDA
+119,355 E Angela St,1.0,3.0,Pleasanton,963 sqft,"Dec 18, 2013","$600,000",37.657146,-121.87271,CA,Single-Family Home,600000,"$669,000",94566,,,,Sold,ALAMEDA
+120,245 Rachael Pl,2.0,2.0,Pleasanton,937 sqft,"Dec 18, 2013","$393,000",37.6671,-121.868614,CA,Condo,393000,"$435,000",94566,,,,Sold,ALAMEDA
+121,3219 Denton Ct,,,Pleasanton,,"Dec 18, 2013","$851,000",37.679108,-121.85867,CA,Single-Family Home,851000,,94566,,,,Sold,ALAMEDA
+122,3405 Norton Way #3,1.5,2.0,Pleasanton,"1,028 sqft","Dec 17, 2013","$275,000",37.661533,-121.8543,CA,Condo,275000,"$366,000",94566,,,,Sold,ALAMEDA
+123,4759 Sutter Gate Ave,2.0,4.0,Pleasanton,"1,766 sqft","Dec 17, 2013","$799,000",37.686615,-121.88187,CA,Single-Family Home,799000,"$886,000",94566,,,,Sold,ALAMEDA
+124,843 Concord St,3.0,4.0,Pleasanton,"2,464 sqft","Dec 17, 2013","$863,000",37.658764,-121.85736,CA,Single-Family Home,863000,"$1,176,000",94566,,,,Sold,ALAMEDA
+125,1492 Chatham Pl,,,Pleasanton,,"Dec 17, 2013","$991,000",37.679787,-121.8581,CA,Lot/Land,991000,,94566,,,,Sold,ALAMEDA
+126,3057 Yuma Way,1.5,3.0,Pleasanton,"1,130 sqft","Dec 17, 2013","$434,000",37.68961,-121.87876,CA,Townhouse,434000,"$463,000",94588,,,,Sold,ALAMEDA
+127,8150 Mountain View Dr #C,1.0,1.0,Pleasanton,790 sqft,"Dec 16, 2013","$300,000",37.696518,-121.94896,CA,Condo,300000,"$380,000",94588,,,,Sold,ALAMEDA
+128,1335 Germano Way,4.5,4.0,Pleasanton,"5,898 sqft","Dec 16, 2013","$2,600,000",37.635036,-121.80636,CA,Single-Family Home,2600000,"$2,803,000",94566,,,,Sold,ALAMEDA
+129,5751 Athenour Ct,2.5,4.0,Pleasanton,"2,131 sqft","Dec 13, 2013","$900,000",37.68296,-121.93554,CA,Single-Family Home,900000,"$971,000",94588,,,,Sold,ALAMEDA
+130,7828 Chestnut Way,2.0,3.0,Pleasanton,"1,495 sqft","Dec 13, 2013","$756,000",37.6875,-121.92713,CA,Single-Family Home,756000,"$842,000",94588,,,,Sold,ALAMEDA
+131,5920 Laurel Creek Dr,3.5,4.0,Pleasanton,"3,721 sqft","Dec 12, 2013","$1,700,000",37.690353,-121.93604,CA,Single-Family Home,1700000,"$1,891,000",94588,,,,Sold,ALAMEDA
+132,2126 Tanager Ct,2.5,4.0,Pleasanton,"2,088 sqft","Dec 12, 2013","$880,000",37.679626,-121.8768,CA,Single-Family Home,880000,"$942,000",94566,,,,Sold,ALAMEDA
+133,4539 Gatetree Cir,2.5,4.0,Pleasanton,"2,088 sqft","Dec 12, 2013","$818,500",37.66852,-121.8786,CA,Single-Family Home,818500,"$970,000",94566,,,,Sold,ALAMEDA
+134,2253 Via Espada,2.5,3.0,Pleasanton,"1,950 sqft","Dec 12, 2013","$860,000",37.66732,-121.89546,CA,Single-Family Home,860000,"$1,010,000",94566,,,,Sold,ALAMEDA
+135,1311 Greenwood Rd,2.0,4.0,Pleasanton,"1,756 sqft","Dec 12, 2013","$817,000",37.669636,-121.88017,CA,Single-Family Home,817000,"$955,000",94566,,,,Sold,ALAMEDA
+136,1131 Mataro Ct,3.0,5.0,Pleasanton,"2,821 sqft","Dec 12, 2013","$1,182,000",37.655605,-121.849,CA,Single-Family Home,1182000,"$1,217,000",94566,,,,Sold,ALAMEDA
+137,3598 Wind Cave Ct,3.5,4.0,Pleasanton,"2,135 sqft","Dec 12, 2013","$910,000",37.675125,-121.9086,CA,Single-Family Home,910000,"$958,000",94588,,,,Sold,ALAMEDA
+138,460 E Angela St,1.0,3.0,Pleasanton,"1,083 sqft","Dec 12, 2013","$543,000",37.657024,-121.8717,CA,Single-Family Home,543000,"$710,000",94566,,,,Sold,ALAMEDA
+139,127 Monaco Ct,3.0,4.0,Pleasanton,"2,717 sqft","Dec 11, 2013","$1,210,000",37.654266,-121.87693,CA,Single-Family Home,1210000,"$1,267,000",94566,,,,Sold,ALAMEDA
+140,343 Christina Ct,2.0,3.0,Pleasanton,"1,187 sqft","Dec 11, 2013","$660,000",37.662056,-121.866554,CA,Single-Family Home,660000,"$728,000",94566,,,,Sold,ALAMEDA
+141,3549 Norton Way,2.5,2.0,Pleasanton,"1,202 sqft","Dec 11, 2013","$470,000",37.660057,-121.854935,CA,Condo,470000,"$496,000",94566,,,,Sold,ALAMEDA
+142,7356 Stonedale Dr,2.5,4.0,Pleasanton,"1,948 sqft","Dec 10, 2013","$550,000",37.688717,-121.91956,CA,Townhouse,550000,"$714,000",94588,,,,Sold,ALAMEDA
+143,2125 Camino Brazos,2.5,5.0,Pleasanton,"2,516 sqft","Dec 10, 2013","$912,000",37.66906,-121.89259,CA,Single-Family Home,912000,"$982,000",94566,,,,Sold,ALAMEDA
+144,6713 Paseo San Leon,2.5,4.0,Pleasanton,"2,489 sqft","Dec 10, 2013","$900,000",37.67333,-121.90398,CA,Single-Family Home,900000,"$1,133,000",94566,,,,Sold,ALAMEDA
+145,6188 Corte Padre,2.0,2.0,Pleasanton,"1,241 sqft","Dec 10, 2013","$595,000",37.67034,-121.900536,CA,Single-Family Home,595000,"$630,000",94566,,,,Sold,ALAMEDA
+146,5102 Angelico Ct,2.5,2.0,Pleasanton,"1,365 sqft","Dec 10, 2013","$640,000",37.6928,-121.889336,CA,Single-Family Home,640000,"$696,000",94588,,,,Sold,ALAMEDA
+147,6609 Amber Ln,3.0,4.0,Pleasanton,"3,750 sqft","Dec 6, 2013","$1,535,000",37.64023,-121.87783,CA,Single-Family Home,1535000,"$1,536,000",94566,,,,Sold,ALAMEDA
+148,7708 Fairbrook Ct,2.0,4.0,Pleasanton,"2,004 sqft","Dec 6, 2013","$730,000",37.682472,-121.92183,CA,Single-Family Home,730000,"$889,000",94588,,,,Sold,ALAMEDA
+149,7835 Canyon Meadow Cir #D,2.0,2.0,Pleasanton,"1,043 sqft","Dec 6, 2013","$425,000",37.696518,-121.94896,CA,Condo,425000,"$485,000",94588,,,,Sold,ALAMEDA
+150,4876 Merganser Ct,2.5,4.0,Pleasanton,"2,087 sqft","Dec 6, 2013","$950,000",37.67956,-121.88213,CA,Single-Family Home,950000,"$1,024,000",94566,,,,Sold,ALAMEDA
+151,3546 Ovella Way #9,,4.0,Pleasanton,"3,989 sqft","Dec 6, 2013","$1,461,000",37.63858,-121.81417,CA,Townhouse,1461000,"$1,673,000",94566,,,,Sold,ALAMEDA
+152,6399 Alvord Way,2.0,3.0,Pleasanton,"1,614 sqft","Dec 6, 2013","$682,000",37.689816,-121.908356,CA,Single-Family Home,682000,"$797,000",94588,,,,Sold,ALAMEDA
+153,2818 Tudor Ct,3.5,4.0,Pleasanton,"4,073 sqft","Dec 6, 2013","$1,523,000",37.659912,-121.9085,CA,Single-Family Home,1523000,"$1,850,000",94588,,,,Sold,ALAMEDA
+154,5938 Hansen Dr,2.0,4.0,Pleasanton,"1,652 sqft","Dec 6, 2013","$750,000",37.66989,-121.89695,CA,Single-Family Home,750000,"$872,000",94566,,,,Sold,ALAMEDA
+155,1931 Valdosta Ct,1.5,4.0,Pleasanton,"1,690 sqft","Dec 5, 2013","$859,000",37.6794,-121.873955,CA,Single-Family Home,859000,"$905,000",94566,,,,Sold,ALAMEDA
+156,4337 Krause St,2.5,4.0,Pleasanton,"1,738 sqft","Dec 3, 2013","$685,000",37.68665,-121.87223,CA,Single-Family Home,685000,"$789,000",94588,,,,Sold,ALAMEDA
+157,4095 Holland Dr,2.0,4.0,Pleasanton,"1,928 sqft","Dec 3, 2013","$730,000",37.679768,-121.91011,CA,Single-Family Home,730000,"$743,000",94588,,,,Sold,ALAMEDA
+158,3565 Helen Dr,2.5,3.0,Pleasanton,"1,795 sqft","Nov 27, 2013","$750,000",37.68641,-121.86886,CA,Single-Family Home,750000,"$871,000",94588,,,,Sold,ALAMEDA
+159,6885 Payne Ct,2.0,4.0,Pleasanton,"1,489 sqft","Nov 27, 2013","$650,000",37.683502,-121.91467,CA,Single-Family Home,650000,"$707,000",94588,,,,Sold,ALAMEDA
+160,1624 Orvieto Ct,3.5,4.0,Pleasanton,"5,098 sqft","Nov 27, 2013","$2,150,000",37.64692,-121.815834,CA,Single-Family Home,2150000,"$2,223,000",94566,,,,Sold,ALAMEDA
+161,1143 Baur Ct,3.5,4.0,Pleasanton,"2,746 sqft","Nov 27, 2013","$1,128,000",37.679665,-121.86246,CA,Single-Family Home,1128000,"$1,382,000",94566,,,,Sold,ALAMEDA
+162,844 Castlewood Pl,6.5,4.0,Pleasanton,"7,634 sqft","Nov 27, 2013","$3,100,000",37.63389,-121.89675,CA,Single-Family Home,3100000,"$2,879,000",94566,,,,Sold,ALAMEDA
+163,3211 Chardonnay Pl,3.0,4.0,Pleasanton,"2,311 sqft","Nov 27, 2013","$877,500",37.66456,-121.850945,CA,Single-Family Home,877500,"$1,067,000",94566,,,,Sold,ALAMEDA
+164,6785 Melody Ct,2.0,4.0,Pleasanton,"1,816 sqft","Nov 27, 2013","$735,000",37.681927,-121.91225,CA,Single-Family Home,735000,"$799,000",94588,,,,Sold,ALAMEDA
+165,4990 Monaco Dr,3.0,4.0,Pleasanton,"3,180 sqft","Nov 26, 2013","$1,225,000",37.654137,-121.876144,CA,Single-Family Home,1225000,"$1,422,000",94566,,,,Sold,ALAMEDA
+166,2134 Arroyo Ct,1.0,2.0,Pleasanton,903 sqft,"Nov 26, 2013","$179,500",37.650246,-121.90387,CA,Condo,179500,"$335,000",94588,,,,Sold,ALAMEDA
+167,3661 Gettysburg Ct S,2.0,3.0,Pleasanton,"1,576 sqft","Nov 26, 2013","$699,000",37.677235,-121.907875,CA,Single-Family Home,699000,"$841,000",94588,,,,Sold,ALAMEDA
+168,3511 Touriga Dr,2.0,3.0,Pleasanton,"1,280 sqft","Nov 26, 2013","$628,000",37.659393,-121.85328,CA,Single-Family Home,628000,"$757,000",94566,,,,Sold,ALAMEDA
+169,4687 Gatetree Cir,3.0,5.0,Pleasanton,"2,560 sqft","Nov 26, 2013","$848,000",37.670628,-121.87909,CA,Single-Family Home,848000,"$1,103,000",94566,,,,Sold,ALAMEDA
+170,664 Rowell Ln,2.5,4.0,Pleasanton,"2,680 sqft","Nov 26, 2013","$975,000",37.659073,-121.85927,CA,Single-Family Home,975000,"$1,198,000",94566,,,,Sold,ALAMEDA
+171,7765 Canyon Meadow Cir #G,2.0,2.0,Pleasanton,"1,043 sqft","Nov 25, 2013","$439,000",37.696518,-121.94896,CA,Condo,439000,"$490,000",94588,,,,Sold,ALAMEDA
+172,3701 Vine St,2.0,3.0,Pleasanton,"1,412 sqft","Nov 22, 2013","$657,000",37.664265,-121.860664,CA,Single-Family Home,657000,"$752,000",94566,,,,Sold,ALAMEDA
+173,6832 Corte Sonada,2.5,3.0,Pleasanton,"2,068 sqft","Nov 22, 2013","$690,000",37.667503,-121.90381,CA,Single-Family Home,690000,"$879,000",94566,,,,Sold,ALAMEDA
+174,4205 Sheldon Cir,2.5,2.0,Pleasanton,"1,190 sqft","Nov 22, 2013","$465,000",37.67603,-121.91489,CA,Townhouse,465000,"$494,000",94588,,,,Sold,ALAMEDA
+175,2257 Goldcrest Cir,1.0,2.0,Pleasanton,"1,171 sqft","Nov 22, 2013","$565,000",37.675117,-121.89132,CA,Single-Family Home,565000,"$641,000",94566,,,,Sold,ALAMEDA
+176,4213 Katie Ln,2.5,4.0,Pleasanton,"1,740 sqft","Nov 22, 2013","$750,000",37.683704,-121.872406,CA,Single-Family Home,750000,"$791,000",94588,,,,Sold,ALAMEDA
+177,4352 Douglas Ct,2.0,3.0,Pleasanton,"1,378 sqft","Nov 22, 2013","$570,000",37.685455,-121.908806,CA,Single-Family Home,570000,"$728,000",94588,,,,Sold,ALAMEDA
+178,858 Castlewood Pl,3.5,4.0,Pleasanton,"5,090 sqft","Nov 22, 2013","$2,100,000",37.635143,-121.897896,CA,Single-Family Home,2100000,"$2,065,000",94566,,,,Sold,ALAMEDA
+179,3852 Keneland Way,1.0,2.0,Pleasanton,897 sqft,"Nov 22, 2013","$315,000",37.700417,-121.86644,CA,Townhouse,315000,"$403,000",94588,,,,Sold,ALAMEDA
+180,6183 Corte Trancas,3.0,3.0,Pleasanton,"1,520 sqft","Nov 22, 2013","$690,000",37.670067,-121.90038,CA,Single-Family Home,690000,"$829,000",94566,,,,Sold,ALAMEDA
+181,2240 Segundo Ct,1.0,2.0,Pleasanton,810 sqft,"Nov 21, 2013","$285,000",37.650246,-121.90387,CA,Condo,285000,"$327,000",94588,,,,Sold,ALAMEDA
+182,2231 Segundo Ct,1.0,2.0,Pleasanton,903 sqft,"Nov 21, 2013","$261,000",37.650246,-121.90387,CA,Condo,261000,"$350,000",94588,,,,Sold,ALAMEDA
+183,1159 Mataro Ct,3.0,5.0,Pleasanton,"3,225 sqft","Nov 21, 2013","$1,030,000",37.654354,-121.84848,CA,Single-Family Home,1030000,"$1,292,000",94566,,,,Sold,ALAMEDA
+184,7400 Johnston Rd,,,Pleasanton,"1,368 sqft","Nov 21, 2013","$2,950,000",37.79013,-121.82884,CA,Farm/Ranch,2950000,"$2,546,000",94588,,,,Sold,CONTRA COSTA
+185,8158 Canyon Creek Cir,2.5,4.0,Pleasanton,"2,279 sqft","Nov 21, 2013","$775,000",37.696693,-121.95238,CA,Single-Family Home,775000,"$1,011,000",94588,,,,Sold,ALAMEDA
+186,8015 Mountain View Dr #A,2.0,2.0,Pleasanton,"1,043 sqft","Nov 21, 2013","$393,500",37.696518,-121.94896,CA,Condo,393500,"$463,000",94588,,,,Sold,ALAMEDA
+187,655 Neal St,2.0,3.0,Pleasanton,"1,379 sqft","Nov 20, 2013","$775,000",37.65642,-121.86669,CA,Single-Family Home,775000,"$867,000",94566,,,,Sold,ALAMEDA
+188,673 Concord Pl,1.5,2.0,Pleasanton,"1,096 sqft","Nov 20, 2013","$387,500",37.66068,-121.85565,CA,Townhouse,387500,"$430,000",94566,,,,Sold,ALAMEDA
+189,5693 Ellis Ct,5.5,4.0,Pleasanton,"4,974 sqft","Nov 20, 2013","$1,975,000",37.644547,-121.86938,CA,Single-Family Home,1975000,"$2,282,000",94566,,,,Sold,ALAMEDA
+190,3480 Guthrie St,2.5,4.0,Pleasanton,"2,142 sqft","Nov 20, 2013","$831,000",37.69726,-121.8617,CA,Single-Family Home,831000,"$906,000",94588,,,,Sold,ALAMEDA
+191,682 Windmill Ln,4.0,3.0,Pleasanton,"2,430 sqft","Nov 19, 2013","$1,185,000",37.653137,-121.869385,CA,Single-Family Home,1185000,"$1,195,000",94566,,,,Sold,ALAMEDA
+192,4453 Comanche Way,1.0,2.0,Pleasanton,884 sqft,"Nov 18, 2013","$309,000",37.69118,-121.87927,CA,Townhouse,309000,"$411,000",94588,,,,Sold,ALAMEDA
+193,3030 Tonopah Cir,2.5,4.0,Pleasanton,"1,474 sqft","Nov 15, 2013","$465,000",37.689186,-121.87941,CA,Townhouse,465000,"$486,000",94588,,,,Sold,ALAMEDA
+194,2303 Sandpiper Way,2.0,4.0,Pleasanton,"1,904 sqft","Nov 15, 2013","$825,000",37.67738,-121.88691,CA,Single-Family Home,825000,"$905,000",94566,,,,Sold,ALAMEDA
+195,20 Cali Ct,2.5,3.0,Pleasanton,"1,441 sqft","Nov 15, 2013","$650,000",37.664337,-121.869934,CA,Single-Family Home,650000,"$764,000",94566,,,,Sold,ALAMEDA
+196,211 Rachael Pl,3.0,3.0,Pleasanton,"1,448 sqft","Nov 15, 2013","$520,000",37.6671,-121.868614,CA,Condo,520000,"$566,000",94566,,,,Sold,ALAMEDA
+197,2365 Foothill Rd,1.0,2.0,Pleasanton,903 sqft,"Nov 15, 2013","$295,000",37.650246,-121.90387,CA,Condo,295000,"$331,000",94588,,,,Sold,ALAMEDA
+198,498 Mavis Dr,1.5,3.0,Pleasanton,"1,518 sqft","Nov 15, 2013","$725,000",37.660816,-121.86018,CA,Single-Family Home,725000,"$802,000",94566,,,,Sold,ALAMEDA
+199,3706 Angus Way,2.0,3.0,Pleasanton,"1,293 sqft","Nov 15, 2013","$694,000",37.690113,-121.86783,CA,Single-Family Home,694000,"$781,000",94588,,,,Sold,ALAMEDA
+200,3313 Sorrel Downs Ct,3.0,4.0,Pleasanton,"3,046 sqft","Nov 14, 2013","$1,260,000",37.666073,-121.912895,CA,Single-Family Home,1260000,"$1,334,000",94588,,,,Sold,ALAMEDA
+201,2027 Greenwood Rd,2.0,4.0,Pleasanton,"1,808 sqft","Nov 14, 2013","$870,000",37.677135,-121.88016,CA,Single-Family Home,870000,"$917,000",94566,,,,Sold,ALAMEDA
+202,809 Sunset Creek Ln,5.0,6.0,Pleasanton,"4,055 sqft","Nov 14, 2013","$1,575,000",37.64513,-121.87313,CA,Single-Family Home,1575000,"$2,121,000",94566,,,,Sold,ALAMEDA
+203,4251 Pleasanton Ave,3.0,4.0,Pleasanton,"2,312 sqft","Nov 14, 2013","$1,030,000",37.664536,-121.879005,CA,Single-Family Home,1030000,"$1,076,000",94566,,,,Sold,ALAMEDA
+204,920 Montevino Dr,3.0,4.0,Pleasanton,"3,439 sqft","Nov 13, 2013","$1,224,000",37.659935,-121.84634,CA,Single-Family Home,1224000,"$1,402,000",94566,,,,Sold,ALAMEDA
+205,7979 Camino Tassajara,,,Pleasanton,"1,878 sqft","Nov 13, 2013","$955,000",37.751812,-121.87041,CA,Farm/Ranch,955000,"$1,429,000",94588,,,,Sold,CONTRA COSTA
+206,4 Grey Eagle Ct,4.5,4.0,Pleasanton,"5,013 sqft","Nov 13, 2013","$1,576,000",37.65742,-121.84205,CA,Single-Family Home,1576000,"$2,262,000",94566,,,,Sold,ALAMEDA
+207,4920 Treewood Ct,2.5,4.0,Pleasanton,"1,810 sqft","Nov 13, 2013","$862,000",37.68104,-121.92289,CA,Single-Family Home,862000,"$862,000",94588,,,,Sold,ALAMEDA
+208,1128 Baur Ct,4.5,5.0,Pleasanton,"3,073 sqft","Nov 12, 2013","$1,160,000",37.679,-121.86255,CA,Single-Family Home,1160000,"$1,385,000",94566,,,,Sold,ALAMEDA
+209,5471 Black Ave #3,2.5,3.0,Pleasanton,"1,690 sqft","Nov 12, 2013","$370,000",37.672558,-121.88992,CA,Condo,370000,"$552,000",94566,,,,Sold,ALAMEDA
+210,4043 Rennellwood Way,,,Pleasanton,"1,245 sqft","Nov 8, 2013","$550,000",37.67934,-121.86969,CA,Single-Family Home,550000,"$717,000",94566,,,,Sold,ALAMEDA
+211,2869 Vizzolini Ct,5.5,6.0,Pleasanton,"5,791 sqft","Nov 8, 2013","$2,300,000",37.64736,-121.813484,CA,Single-Family Home,2300000,"$2,285,000",94566,,,,Sold,ALAMEDA
+212,6941 Corte Madrid,3.0,4.0,Pleasanton,"2,413 sqft","Nov 8, 2013","$849,000",37.66856,-121.90854,CA,Single-Family Home,849000,"$1,112,000",94566,,,,Sold,ALAMEDA
+213,3187 Malvasia Ct,2.5,4.0,Pleasanton,"2,390 sqft","Nov 8, 2013","$1,110,500",37.66177,-121.850075,CA,Single-Family Home,1110500,"$1,147,000",94566,,,,Sold,ALAMEDA
+214,5830 Sterling Greens Cir,2.5,3.0,Pleasanton,"2,401 sqft","Nov 7, 2013","$880,000",37.647755,-121.88634,CA,Single-Family Home,880000,"$1,094,000",94566,,,,Sold,ALAMEDA
+215,5027 Woodthrush Rd,2.5,4.0,Pleasanton,"2,147 sqft","Nov 7, 2013","$900,000",37.681618,-121.88504,CA,Single-Family Home,900000,"$1,068,000",94566,,,,Sold,ALAMEDA
+216,3225 Mandevilla Ct,2.5,4.0,Pleasanton,"2,192 sqft","Nov 6, 2013","$806,000",37.6919,-121.859215,CA,Single-Family Home,806000,"$892,000",94588,,,,Sold,ALAMEDA
+217,1618 Calle Santa Anna,1.0,2.0,Pleasanton,941 sqft,"Nov 6, 2013","$410,000",37.667763,-121.88856,CA,Townhouse,410000,"$456,000",94566,,,,Sold,ALAMEDA
+218,5854 Sterling Greens Cir,2.5,3.0,Pleasanton,"2,401 sqft","Nov 4, 2013","$928,000",37.648212,-121.885956,CA,Single-Family Home,928000,"$1,030,000",94566,,,,Sold,ALAMEDA
+219,5483 Black Ave #2,2.5,3.0,Pleasanton,"1,690 sqft","Nov 4, 2013","$479,000",37.672558,-121.88992,CA,Condo,479000,"$583,000",94566,,,,Sold,ALAMEDA
+220,4131 Moller Dr,2.0,2.0,Pleasanton,"1,345 sqft","Nov 4, 2013","$575,000",37.679047,-121.87269,CA,Single-Family Home,575000,"$647,000",94566,,,,Sold,ALAMEDA
+221,1002 Zinfandel Ct,3.5,4.0,Pleasanton,"3,525 sqft","Nov 1, 2013","$1,410,000",37.658512,-121.845924,CA,Single-Family Home,1410000,"$1,473,000",94566,,,,Sold,ALAMEDA
+222,6811 Vale Ct,2.0,3.0,Pleasanton,"1,915 sqft","Nov 1, 2013","$715,000",37.68175,-121.912964,CA,Single-Family Home,715000,"$806,000",94588,,,,Sold,ALAMEDA
+223,5317 Piazza Ct,2.5,4.0,Pleasanton,"1,929 sqft","Nov 1, 2013","$715,000",37.693684,-121.89171,CA,Single-Family Home,715000,"$846,000",94588,,,,Sold,ALAMEDA
+224,3866 Kamp Dr,2.0,2.0,Pleasanton,"1,478 sqft","Nov 1, 2013","$625,000",37.68755,-121.86927,CA,Single-Family Home,625000,"$691,000",94588,,,,Sold,ALAMEDA
+225,625 Oak Cir,3.0,5.0,Pleasanton,"2,135 sqft","Oct 31, 2013","$694,500",37.65623,-121.86875,CA,Single-Family Home,694500,"$912,000",94566,,,,Sold,ALAMEDA
+226,2651 Trevor Pkwy,2.5,4.0,Pleasanton,"1,974 sqft","Oct 31, 2013","$720,000",37.6919,-121.85693,CA,Single-Family Home,720000,"$837,000",94588,,,,Sold,ALAMEDA
+227,4694 Cochise Ct,2.0,3.0,Pleasanton,"1,220 sqft","Oct 31, 2013","$435,000",37.689754,-121.880615,CA,Townhouse,435000,"$547,000",94588,,,,Sold,ALAMEDA
+228,3306 Smoketree Commons,1.0,1.0,Pleasanton,648 sqft,"Oct 31, 2013","$298,000",37.664375,-121.85431,CA,Condo,298000,"$336,000",94566,,,,Sold,ALAMEDA
+229,2398 Meadowlark Dr,2.5,3.0,Pleasanton,"2,033 sqft","Oct 31, 2013","$840,000",37.659744,-121.90597,CA,Single-Family Home,840000,"$928,000",94566,,,,Sold,ALAMEDA
+230,133 Ray St,2.0,2.0,Pleasanton,"1,262 sqft","Oct 31, 2013","$410,000",37.66384,-121.87124,CA,Condo,410000,"$472,000",94566,,,,Sold,ALAMEDA
+231,3127 Paseo Robles,3.0,4.0,Pleasanton,"2,212 sqft","Oct 31, 2013","$880,000",37.671543,-121.90663,CA,Single-Family Home,880000,"$1,014,000",94566,,,,Sold,ALAMEDA
+232,5868 Tassajara Rd,2.0,3.0,Pleasanton,"1,368 sqft","Oct 31, 2013","$725,000",37.72363,-121.872055,CA,Single-Family Home,725000,"$849,000",94588,,,,Sold,ALAMEDA
+233,3260 Harvey Ct,3.0,4.0,Pleasanton,"2,317 sqft","Oct 30, 2013","$900,000",37.683006,-121.89348,CA,Single-Family Home,900000,"$1,115,000",94588,,,,Sold,ALAMEDA
+234,1533 Rose Ln,4.5,5.0,Pleasanton,"4,157 sqft","Oct 30, 2013","$1,500,000",37.666504,-121.8885,CA,Single-Family Home,1500000,"$1,866,000",94566,,,,Sold,ALAMEDA
+235,3361 Marsh Hawk Ct,3.0,4.0,Pleasanton,"2,660 sqft","Oct 29, 2013","$1,155,000",37.6664,-121.91132,CA,Single-Family Home,1155000,"$1,304,000",94588,,,,Sold,ALAMEDA
+236,1191 Kottinger Dr,3.0,4.0,Pleasanton,"1,951 sqft","Oct 29, 2013","$745,000",37.65646,-121.85609,CA,Single-Family Home,745000,"$944,000",94566,,,,Sold,ALAMEDA
+237,2802 Vizzolini Ct,3.5,3.0,Pleasanton,"3,601 sqft","Oct 29, 2013","$1,460,000",37.646698,-121.81302,CA,Single-Family Home,1460000,"$1,768,000",94566,,,,Sold,ALAMEDA
+238,2326 Willet Way,2.0,4.0,Pleasanton,"1,855 sqft","Oct 29, 2013","$825,000",37.679306,-121.8828,CA,Single-Family Home,825000,"$913,000",94566,,,,Sold,ALAMEDA
+239,314 Amador Ct,1.0,3.0,Pleasanton,"1,103 sqft","Oct 29, 2013","$580,000",37.662655,-121.86453,CA,Single-Family Home,580000,"$717,000",94566,,,,Sold,ALAMEDA
+240,3744 Appian St,2.5,3.0,Pleasanton,"1,726 sqft","Oct 25, 2013","$759,000",37.692116,-121.88746,CA,Single-Family Home,759000,"$874,000",94588,,,,Sold,ALAMEDA
+241,6967 Corte Antonio,2.5,4.0,Pleasanton,"2,257 sqft","Oct 25, 2013","$868,000",37.66719,-121.90606,CA,Single-Family Home,868000,"$1,021,000",94566,,,,Sold,ALAMEDA
+242,2566 Glen Isle Ave,2.5,4.0,Pleasanton,"2,337 sqft","Oct 25, 2013","$750,500",37.689716,-121.86879,CA,Single-Family Home,750500,"$886,000",94588,,,,Sold,ALAMEDA
+243,3681 Virgin Islands Ct,2.5,3.0,Pleasanton,"1,744 sqft","Oct 25, 2013","$670,000",37.6748,-121.90888,CA,Single-Family Home,670000,"$776,000",94588,,,,Sold,ALAMEDA
+244,1441 Via Di Salerno,,,Pleasanton,,"Oct 24, 2013","$2,485,000",37.638252,-121.811646,CA,Single-Family Home,2485000,"$1,288,000",94566,,,,Sold,ALAMEDA
+245,3751 Hawaii Ct N,2.5,4.0,Pleasanton,"1,834 sqft","Oct 24, 2013","$721,000",37.678555,-121.90654,CA,Single-Family Home,721000,"$834,000",94588,,,,Sold,ALAMEDA
+246,1656 W Lagoon Rd,4.0,5.0,Pleasanton,"3,429 sqft","Oct 23, 2013","$1,187,000",37.650948,-121.8979,CA,Single-Family Home,1187000,"$1,502,000",94566,,,,Sold,ALAMEDA
+247,3417 Smoketree Commons,2.0,2.0,Pleasanton,856 sqft,"Oct 23, 2013","$350,000",37.664745,-121.85568,CA,Condo,350000,"$410,000",94566,,,,Sold,ALAMEDA
+248,5960 Sterling Greens Cir,2.5,4.0,Pleasanton,"2,831 sqft","Oct 23, 2013","$955,500",37.64943,-121.889114,CA,Single-Family Home,955500,"$1,214,000",94566,,,,Sold,ALAMEDA
+249,6599 Arlington Dr,2.5,4.0,Pleasanton,"2,634 sqft","Oct 23, 2013","$1,155,000",37.64086,-121.88125,CA,Single-Family Home,1155000,"$1,191,000",94566,,,,Sold,ALAMEDA
+250,3704 Bairn Ct,,,Pleasanton,"1,557 sqft","Oct 23, 2013","$795,000",37.699474,-121.86402,CA,Single-Family Home,795000,"$818,000",94588,,,,Sold,ALAMEDA
+251,1818 Harms Dr,2.5,3.0,Pleasanton,"1,731 sqft","Oct 22, 2013","$670,000",37.67854,-121.87217,CA,Single-Family Home,670000,"$749,000",94566,,,,Sold,ALAMEDA
+252,3962 Fairlands Dr,2.5,5.0,Pleasanton,"2,460 sqft","Oct 22, 2013","$839,000",37.698704,-121.87025,CA,Single-Family Home,839000,"$928,000",94588,,,,Sold,ALAMEDA
+253,3089 Tonopah Cir,1.5,2.0,Pleasanton,988 sqft,"Oct 21, 2013","$338,000",37.689445,-121.88007,CA,Townhouse,338000,"$391,000",94588,,,,Sold,ALAMEDA
+254,5543 Baldwin Way,2.5,3.0,Pleasanton,"1,501 sqft","Oct 21, 2013","$535,000",37.68929,-121.927765,CA,Townhouse,535000,"$658,000",94588,,,,Sold,ALAMEDA
+255,5638 Belleza Dr,2.0,2.0,Pleasanton,"1,381 sqft","Oct 21, 2013","$495,000",37.68778,-121.885796,CA,Townhouse,495000,"$591,000",94588,,,,Sold,ALAMEDA
+256,2708 Spinosa Ct,2.5,3.0,Pleasanton,"1,614 sqft","Oct 21, 2013","$750,000",37.69256,-121.85886,CA,Single-Family Home,750000,"$785,000",94588,,,,Sold,ALAMEDA
+257,4982 Dolores Dr,3.0,4.0,Pleasanton,"2,710 sqft","Oct 21, 2013","$1,240,000",37.652843,-121.87628,CA,Single-Family Home,1240000,"$1,257,000",94566,,,,Sold,ALAMEDA
+258,6040 Corte Montanas,2.0,2.0,Pleasanton,"1,241 sqft","Oct 18, 2013","$577,000",37.671135,-121.9001,CA,Single-Family Home,577000,"$626,000",94566,,,,Sold,ALAMEDA
+259,8040 Mountain View Dr #C,1.0,1.0,Pleasanton,790 sqft,"Oct 18, 2013","$300,000",37.696518,-121.94896,CA,Condo,300000,"$383,000",94588,,,,Sold,ALAMEDA
+260,2572 Sanderling Dr,2.5,4.0,Pleasanton,"2,315 sqft","Oct 18, 2013","$916,500",37.681824,-121.88326,CA,Single-Family Home,916500,"$1,005,000",94566,,,,Sold,ALAMEDA
+261,4774 Del Valle Pkwy,2.5,4.0,Pleasanton,"2,194 sqft","Oct 18, 2013","$882,000",37.668236,-121.88193,CA,Single-Family Home,882000,"$1,018,000",94566,,,,Sold,ALAMEDA
+262,434 Rose Ave,1.5,2.0,Pleasanton,984 sqft,"Oct 17, 2013","$540,000",37.661133,-121.878914,CA,Single-Family Home,540000,"$641,000",94566,,,,Sold,ALAMEDA
+263,4718 Mchenry Gate Way,2.0,4.0,Pleasanton,"1,751 sqft","Oct 17, 2013","$685,000",37.684677,-121.880615,CA,Single-Family Home,685000,"$882,000",94566,,,,Sold,ALAMEDA
+264,4177 Vineyard Ave,1.5,2.0,Pleasanton,967 sqft,"Oct 17, 2013","$538,000",37.663303,-121.86935,CA,Single-Family Home,538000,"$625,000",94566,,,,Sold,ALAMEDA
+265,7441 Maywood Dr,2.5,3.0,Pleasanton,"1,851 sqft","Oct 16, 2013","$574,000",37.68703,-121.92011,CA,Townhouse,574000,"$624,000",94588,,,,Sold,ALAMEDA
+266,5665 Stonecliff Vista Ln,3.0,3.0,Pleasanton,"3,032 sqft","Oct 16, 2013","$1,037,272",37.649864,-121.885086,CA,Single-Family Home,1037272,"$1,293,000",94566,,,,Sold,ALAMEDA
+267,2423 Via De Los Milagros,3.0,5.0,Pleasanton,"2,854 sqft","Oct 16, 2013","$1,185,000",37.67262,-121.89644,CA,Single-Family Home,1185000,"$1,206,000",94566,,,,Sold,ALAMEDA
+268,5249 Genovesio Dr,2.5,3.0,Pleasanton,"1,624 sqft","Oct 16, 2013","$730,000",37.695755,-121.89056,CA,Single-Family Home,730000,"$822,000",94588,,,,Sold,ALAMEDA
+269,5361 Black Ave #4,2.5,3.0,Pleasanton,"1,690 sqft","Oct 14, 2013","$460,000",37.672558,-121.88992,CA,Condo,460000,"$582,000",94566,,,,Sold,ALAMEDA
+270,5004 Hillcrest Way,2.0,3.0,Pleasanton,"1,877 sqft","Oct 11, 2013","$865,000",37.68352,-121.92248,CA,Single-Family Home,865000,"$921,000",94588,,,,Sold,ALAMEDA
+271,4594 Del Valle Pkwy,,,Pleasanton,"1,722 sqft","Oct 11, 2013","$749,000",37.667202,-121.87974,CA,Single-Family Home,749000,"$862,000",94566,,,,Sold,ALAMEDA
+272,7310 Elmwood Cir,2.5,3.0,Pleasanton,"1,667 sqft","Oct 11, 2013","$700,000",37.672333,-121.91304,CA,Single-Family Home,700000,"$820,000",94588,,,,Sold,ALAMEDA
+273,4141 Stanley Blvd,2.5,3.0,Pleasanton,"1,456 sqft","Oct 11, 2013","$565,000",37.66657,-121.871315,CA,Townhouse,565000,"$599,000",94566,,,,Sold,ALAMEDA
+274,2412 Heatherlark Cir,2.0,2.0,Pleasanton,"1,209 sqft","Oct 11, 2013","$568,000",37.673897,-121.89318,CA,Single-Family Home,568000,"$664,000",94566,,,,Sold,ALAMEDA
+275,5266 Crestline Way,2.5,4.0,Pleasanton,"2,047 sqft","Oct 11, 2013","$882,000",37.67526,-121.88613,CA,Single-Family Home,882000,"$951,000",94566,,,,Sold,ALAMEDA
+276,7507 Homewood Ct,2.0,3.0,Pleasanton,"1,488 sqft","Oct 10, 2013","$575,000",37.688713,-121.92282,CA,Townhouse,575000,"$622,000",94588,,,,Sold,ALAMEDA
+277,3541 Norton Way,2.5,2.0,Pleasanton,"1,202 sqft","Oct 10, 2013","$460,000",37.660057,-121.854935,CA,Condo,460000,"$447,000",94566,,,,Sold,ALAMEDA
+278,6535 Singletree Way,2.0,3.0,Pleasanton,"1,560 sqft","Oct 10, 2013","$684,000",37.68117,-121.90963,CA,Single-Family Home,684000,"$763,000",94588,,,,Sold,ALAMEDA
+279,4457 Arbutus Ct,2.5,4.0,Pleasanton,"2,267 sqft","Oct 9, 2013","$860,000",37.674316,-121.92013,CA,Single-Family Home,860000,"$937,000",94588,,,,Sold,ALAMEDA
+280,900 Manoir Ln,,,Pleasanton,,"Oct 9, 2013","$1,679,000",37.659714,-121.828835,CA,Single-Family Home,1679000,,94566,,,,Sold,ALAMEDA
+281,5269 Northway Rd,2.5,4.0,Pleasanton,"2,047 sqft","Oct 9, 2013","$860,000",37.67498,-121.88734,CA,Single-Family Home,860000,"$917,000",94566,,,,Sold,ALAMEDA
+282,3721 Smallwood Ct,3.5,6.0,Pleasanton,"3,960 sqft","Oct 9, 2013","$1,547,500",37.650654,-121.852394,CA,Single-Family Home,1547500,"$1,798,000",94566,,,,Sold,ALAMEDA
+283,3385 Smoketree Commons,2.0,2.0,Pleasanton,856 sqft,"Oct 9, 2013","$347,000",37.664745,-121.85568,CA,Condo,347000,"$410,000",94566,,,,Sold,ALAMEDA
+284,4269 Chapman Way,2.0,4.0,Pleasanton,"1,434 sqft","Oct 9, 2013","$715,000",37.686005,-121.9061,CA,Single-Family Home,715000,"$721,000",94588,,,,Sold,ALAMEDA
+285,3735 Reflections Dr,2.5,4.0,Pleasanton,"1,620 sqft","Oct 9, 2013","$690,000",37.6688,-121.864624,CA,Single-Family Home,690000,"$825,000",94566,,,,Sold,ALAMEDA
+286,6209 Robin Ct,4.0,6.0,Pleasanton,"2,920 sqft","Oct 8, 2013","$1,040,000",37.684948,-121.90426,CA,Single-Family Home,1040000,"$1,164,000",94588,,,,Sold,ALAMEDA
+287,7825 Paseo Santa Cruz,3.0,5.0,Pleasanton,"2,311 sqft","Oct 8, 2013","$891,000",37.674244,-121.90182,CA,Single-Family Home,891000,"$982,000",94566,,,,Sold,ALAMEDA
+288,7741 Fairoaks Dr,2.0,3.0,Pleasanton,"1,357 sqft","Oct 8, 2013","$682,000",37.68716,-121.92539,CA,Single-Family Home,682000,"$726,000",94588,,,,Sold,ALAMEDA
+289,7025 Corte Blanca,2.5,4.0,Pleasanton,"3,121 sqft","Oct 7, 2013","$1,016,000",37.66785,-121.90786,CA,Single-Family Home,1016000,"$1,172,000",94566,,,,Sold,ALAMEDA
+290,1265 Shady Pond Ln,6.0,6.0,Pleasanton,"5,096 sqft","Oct 4, 2013","$1,800,000",37.646675,-121.89734,CA,Single-Family Home,1800000,"$1,989,000",94566,,,,Sold,ALAMEDA
+291,2621 Sanderling Way,2.5,4.0,Pleasanton,"2,147 sqft","Oct 4, 2013","$870,000",37.682785,-121.88347,CA,Single-Family Home,870000,"$1,050,000",94566,,,,Sold,ALAMEDA
+292,5526 Paseo Navarro,3.0,5.0,Pleasanton,"2,612 sqft","Oct 4, 2013","$844,000",37.671383,-121.891525,CA,Single-Family Home,844000,"$1,057,000",94566,,,,Sold,ALAMEDA
+293,5168 Independence Dr,3.0,4.0,Pleasanton,"3,179 sqft","Oct 4, 2013","$1,120,000",37.647297,-121.8691,CA,Single-Family Home,1120000,"$1,473,000",94566,,,,Sold,ALAMEDA
+294,3420 Stacey Way,2.0,4.0,Pleasanton,"1,780 sqft","Oct 4, 2013","$715,000",37.69903,-121.861275,CA,Single-Family Home,715000,"$812,000",94588,,,,Sold,ALAMEDA
+295,4342 Fairlands Dr,2.5,3.0,Pleasanton,"1,596 sqft","Oct 4, 2013","$564,000",37.693176,-121.87584,CA,Townhouse,564000,"$644,000",94588,,,,Sold,ALAMEDA
+296,4159 Lethram Ct,2.5,2.0,Pleasanton,"1,314 sqft","Oct 4, 2013","$590,000",37.685226,-121.87082,CA,Single-Family Home,590000,"$666,000",94588,,,,Sold,ALAMEDA
+297,2103 Raven Rd,2.5,4.0,Pleasanton,"2,538 sqft","Oct 4, 2013","$1,010,000",37.677704,-121.88189,CA,Single-Family Home,1010000,"$1,163,000",94566,,,,Sold,ALAMEDA
+298,1901 Buckeye Ct,6.0,5.0,Pleasanton,"6,451 sqft","Oct 3, 2013","$2,685,000",37.64286,-121.903915,CA,Single-Family Home,2685000,"$3,497,000",94588,,,,Sold,ALAMEDA
+299,4431 Seminole Way,1.5,3.0,Pleasanton,"1,130 sqft","Oct 3, 2013","$420,000",37.691723,-121.879074,CA,Townhouse,420000,"$474,000",94588,,,,Sold,ALAMEDA
+300,551 Montori Ct,3.0,4.0,Pleasanton,"2,680 sqft","Oct 3, 2013","$1,155,000",37.642616,-121.80145,CA,Single-Family Home,1155000,"$1,332,000",94566,,,,Sold,ALAMEDA
+301,2606 Sanderling Way,2.5,4.0,Pleasanton,"2,164 sqft","Oct 2, 2013","$905,000",37.682304,-121.883705,CA,Single-Family Home,905000,"$1,013,000",94566,,,,Sold,ALAMEDA
+302,5703 Athenour Ct,2.5,3.0,Pleasanton,"2,056 sqft","Oct 2, 2013","$888,000",37.68341,-121.936226,CA,Single-Family Home,888000,"$974,000",94588,,,,Sold,ALAMEDA
+303,272 Rachael Pl,3.0,3.0,Pleasanton,"1,446 sqft","Oct 1, 2013","$525,000",37.6671,-121.868614,CA,Condo,525000,"$639,000",94566,,,,Sold,ALAMEDA
+304,550 Montori Ct,3.0,4.0,Pleasanton,"2,680 sqft","Oct 1, 2013","$1,085,000",37.643055,-121.80184,CA,Single-Family Home,1085000,"$1,337,000",94566,,,,Sold,ALAMEDA
+305,7750 Canyon Meadow Cir #D,1.0,1.0,Pleasanton,790 sqft,"Sep 30, 2013","$310,000",37.696518,-121.94896,CA,Condo,310000,"$387,000",94588,,,,Sold,ALAMEDA
+306,672 Concord Pl,1.5,2.0,Pleasanton,"1,100 sqft","Sep 30, 2013","$225,000",37.66039,-121.85514,CA,Townhouse,225000,"$435,000",94566,,,,Sold,ALAMEDA
+307,510 Santel Ct,4.5,5.0,Pleasanton,"4,288 sqft","Sep 30, 2013","$1,825,000",37.649136,-121.80894,CA,Single-Family Home,1825000,"$2,093,000",94566,,,,Sold,ALAMEDA
+308,1737 Via Di Salerno,5.0,6.0,Pleasanton,"6,374 sqft","Sep 30, 2013","$2,450,000",37.637035,-121.80507,CA,Single-Family Home,2450000,"$2,410,000",94566,,,,Sold,ALAMEDA
+309,7765 Canyon Meadow Cir #E,2.0,2.0,Pleasanton,"1,043 sqft","Sep 30, 2013","$394,000",37.696518,-121.94896,CA,Condo,394000,"$462,000",94588,,,,Sold,ALAMEDA
+310,4861 Saginaw Cir,1.5,2.0,Pleasanton,988 sqft,"Sep 27, 2013","$365,000",37.690723,-121.88146,CA,Townhouse,365000,"$408,000",94588,,,,Sold,ALAMEDA
+311,3698 Chillingham Ct,2.0,4.0,Pleasanton,"1,933 sqft","Sep 27, 2013","$950,000",37.696968,-121.87373,CA,Single-Family Home,950000,"$1,001,000",94588,,,,Sold,ALAMEDA
+312,1889 Via Di Salerno,,,Pleasanton,,"Sep 27, 2013","$830,000",37.63954,-121.80293,CA,Unknown,830000,,94566,,,,Sold,ALAMEDA
+313,3251 Anastacia Ct,2.0,3.0,Pleasanton,"2,064 sqft","Sep 27, 2013","$890,000",37.684395,-121.890656,CA,Single-Family Home,890000,"$917,000",94588,,,,Sold,ALAMEDA
+314,7808 La Quinta Ct,3.0,3.0,Pleasanton,"2,493 sqft","Sep 26, 2013","$975,000",37.647655,-121.90022,CA,Single-Family Home,975000,"$1,223,000",94588,,,,Sold,ALAMEDA
+315,1185 Laguna Creek Ln,5.5,5.0,Pleasanton,"5,329 sqft","Sep 26, 2013","$1,897,500",37.64532,-121.89693,CA,Single-Family Home,1897500,"$2,111,000",94566,,,,Sold,ALAMEDA
+316,3615 Baker Dr,2.5,3.0,Pleasanton,"1,644 sqft","Sep 25, 2013","$737,000",37.678104,-121.86444,CA,Single-Family Home,737000,"$862,000",94566,,,,Sold,ALAMEDA
+317,5827 Stonecliff Vista Ln,2.5,3.0,Pleasanton,"2,532 sqft","Sep 24, 2013","$948,000",37.649666,-121.88692,CA,Single-Family Home,948000,"$1,144,000",94566,,,,Sold,ALAMEDA
+318,2112 Tanager Ct,3.0,6.0,Pleasanton,"2,590 sqft","Sep 24, 2013","$999,000",37.679733,-121.87655,CA,Single-Family Home,999000,"$1,107,000",94566,,,,Sold,ALAMEDA
+319,5682 San Juan Way,2.0,4.0,Pleasanton,"1,655 sqft","Sep 24, 2013","$677,000",37.647392,-121.87598,CA,Single-Family Home,677000,"$843,000",94566,,,,Sold,ALAMEDA
+320,8040 Mountain View Dr #H,2.0,2.0,Pleasanton,"1,043 sqft","Sep 24, 2013","$395,000",37.696518,-121.94896,CA,Condo,395000,"$479,000",94588,,,,Sold,ALAMEDA
+321,6534 Stanton Ct,2.0,3.0,Pleasanton,"2,045 sqft","Sep 24, 2013","$785,000",37.641422,-121.87852,CA,Single-Family Home,785000,"$961,000",94566,,,,Sold,ALAMEDA
+322,4769 Peaceful Ln,2.5,3.0,Pleasanton,"2,643 sqft","Sep 24, 2013","$1,180,000",37.65454,-121.87141,CA,Single-Family Home,1180000,"$1,120,000",94566,,,,Sold,ALAMEDA
+323,6723 Alisal St,2.0,4.0,Pleasanton,"2,347 sqft","Sep 20, 2013","$1,000,000",37.633423,-121.87094,CA,Single-Family Home,1000000,"$1,182,000",94566,,,,Sold,ALAMEDA
+324,2422 Crestline Rd,2.5,4.0,Pleasanton,"2,024 sqft","Sep 20, 2013","$750,000",37.677956,-121.88836,CA,Single-Family Home,750000,"$945,000",94566,,,,Sold,ALAMEDA
+325,323 Neal St,2.5,4.0,Pleasanton,"2,500 sqft","Sep 20, 2013","$1,380,000",37.657604,-121.87166,CA,Single-Family Home,1380000,"$1,228,000",94566,,,,Sold,ALAMEDA
+326,3318 Smoketree Commons,2.0,2.0,Pleasanton,938 sqft,"Sep 20, 2013","$365,000",37.664375,-121.85431,CA,Condo,365000,"$423,000",94566,,,,Sold,ALAMEDA
+327,988 Sunset Creek Ln,5.0,6.0,Pleasanton,"4,455 sqft","Sep 20, 2013","$1,782,000",37.6446,-121.87114,CA,Single-Family Home,1782000,"$2,153,000",94566,,,,Sold,ALAMEDA
+328,2389 Foothill Rd,1.0,2.0,Pleasanton,903 sqft,"Sep 20, 2013","$250,000",37.650246,-121.90387,CA,Condo,250000,"$338,000",94588,,,,Sold,ALAMEDA
+329,883 Chateau Heights Ct,4.5,5.0,Pleasanton,"4,183 sqft","Sep 20, 2013","$1,705,000",37.660774,-121.831604,CA,Single-Family Home,1705000,"$1,861,000",94566,,,,Sold,ALAMEDA
+330,7750 Canyon Meadow Cir #H,2.0,2.0,Pleasanton,"1,043 sqft","Sep 20, 2013","$133,000",37.696518,-121.94896,CA,Condo,133000,"$408,000",94588,,,,Sold,ALAMEDA
+331,7783 Capewood Pl,2.0,3.0,Pleasanton,"1,255 sqft","Sep 19, 2013","$675,000",37.681175,-121.92218,CA,Single-Family Home,675000,"$746,000",94588,,,,Sold,ALAMEDA
+332,1689 Calle Santiago,1.0,2.0,Pleasanton,941 sqft,"Sep 19, 2013","$445,000",37.669617,-121.88738,CA,Townhouse,445000,"$470,000",94566,,,,Sold,ALAMEDA
+333,1771 Greenwood Rd,2.0,4.0,Pleasanton,"1,882 sqft","Sep 19, 2013","$838,000",37.674194,-121.88016,CA,Single-Family Home,838000,"$923,000",94566,,,,Sold,ALAMEDA
+334,3661 Pimlico Dr,,,Pleasanton,"1,973 sqft","Sep 19, 2013","$750,000",37.699535,-121.86258,CA,Single-Family Home,750000,"$840,000",94588,,,,Sold,ALAMEDA
+335,4241 Bevilacqua Ct,3.0,5.0,Pleasanton,"2,253 sqft","Sep 19, 2013","$840,000",37.659714,-121.86788,CA,Single-Family Home,840000,"$949,000",94566,,,,Sold,ALAMEDA
+336,4288 W Ruby Hill Dr,4.5,4.0,Pleasanton,"4,640 sqft","Sep 18, 2013","$1,700,000",37.63025,-121.806984,CA,Single-Family Home,1700000,"$2,378,000",94566,,,,Sold,ALAMEDA
+337,1451 Ridgewood Rd,2.0,3.0,Pleasanton,"1,696 sqft","Sep 18, 2013","$755,000",37.670853,-121.879295,CA,Single-Family Home,755000,"$841,000",94566,,,,Sold,ALAMEDA
+338,4255 Tamur Ct,2.5,3.0,Pleasanton,"2,460 sqft","Sep 18, 2013","$975,000",37.65797,-121.86353,CA,Single-Family Home,975000,"$1,020,000",94566,,,,Sold,ALAMEDA
+339,6059 Sycamore Ter,,,Pleasanton,,"Sep 18, 2013","$1,520,000",37.644768,-121.87881,CA,Single-Family Home,1520000,,94566,,,,Sold,ALAMEDA
+340,3126 Lansdown Ct,3.0,3.0,Pleasanton,"2,002 sqft","Sep 17, 2013","$750,500",37.694893,-121.8678,CA,Single-Family Home,750500,"$917,000",94588,,,,Sold,ALAMEDA
+341,240 Napier Ct,4.5,5.0,Pleasanton,"3,367 sqft","Sep 17, 2013","$1,400,000",37.639324,-121.88302,CA,Single-Family Home,1400000,"$1,730,000",94566,,,,Sold,ALAMEDA
+342,806 E Angela St,2.0,3.0,Pleasanton,"1,664 sqft","Sep 16, 2013","$710,000",37.654705,-121.86417,CA,Single-Family Home,710000,"$829,000",94566,,,,Sold,ALAMEDA
+343,3368 Smoketree Commons,2.0,2.0,Pleasanton,856 sqft,"Sep 13, 2013","$365,000",37.664352,-121.85486,CA,Condo,365000,"$393,000",94566,,,,Sold,ALAMEDA
+344,4002 Sutherland Ct,3.0,3.0,Pleasanton,"1,586 sqft","Sep 13, 2013","$665,000",37.68549,-121.87008,CA,Single-Family Home,665000,"$837,000",94588,,,,Sold,ALAMEDA
+345,7926 Hillsboro Ct,2.0,4.0,Pleasanton,"2,009 sqft","Sep 13, 2013","$810,000",37.684784,-121.92792,CA,Single-Family Home,810000,"$869,000",94588,,,,Sold,ALAMEDA
+346,6805 Payne Ct,2.0,3.0,Pleasanton,"1,372 sqft","Sep 13, 2013","$661,000",37.68377,-121.91355,CA,Single-Family Home,661000,"$731,000",94588,,,,Sold,ALAMEDA
+347,2954 Liberty Dr,2.0,2.0,Pleasanton,"1,135 sqft","Sep 13, 2013","$560,000",37.66736,-121.84617,CA,Single-Family Home,560000,"$607,000",94566,,,,Sold,ALAMEDA
+348,6315 Inglewood Dr,2.0,4.0,Pleasanton,"1,489 sqft","Sep 13, 2013","$640,000",37.687977,-121.90709,CA,Single-Family Home,640000,"$753,000",94588,,,,Sold,ALAMEDA
+349,670 Peters Ave,2.0,2.0,Pleasanton,964 sqft,"Sep 12, 2013","$332,000",37.662605,-121.87665,CA,Condo,332000,"$382,000",94566,,,,Sold,ALAMEDA
+350,3739 Appian St,2.5,3.0,Pleasanton,"1,726 sqft","Sep 12, 2013","$739,000",37.692265,-121.887085,CA,Single-Family Home,739000,"$867,000",94588,,,,Sold,ALAMEDA
+351,831 Sunset Creek Ln,3.0,4.0,Pleasanton,"3,230 sqft","Sep 12, 2013","$1,540,000",37.64487,-121.873116,CA,Single-Family Home,1540000,"$1,723,000",94566,,,,Sold,ALAMEDA
+352,4192 Cristobal Way,3.0,4.0,Pleasanton,"2,022 sqft","Sep 12, 2013","$718,500",37.674202,-121.87265,CA,Single-Family Home,718500,"$862,000",94566,,,,Sold,ALAMEDA
+353,3785 Smallwood Ct,5.5,5.0,Pleasanton,"5,800 sqft","Sep 10, 2013","$2,270,500",37.64884,-121.85004,CA,Single-Family Home,2270500,"$2,317,000",94566,,,,Sold,ALAMEDA
+354,3253 Verde Ct,2.5,3.0,Pleasanton,"1,761 sqft","Sep 10, 2013","$591,000",37.687008,-121.88754,CA,Townhouse,591000,"$670,000",94588,,,,Sold,ALAMEDA
+355,3673 Touriga Dr,2.0,4.0,Pleasanton,"1,549 sqft","Sep 9, 2013","$818,000",37.655235,-121.85341,CA,Single-Family Home,818000,"$906,000",94566,,,,Sold,ALAMEDA
+356,2450 Tapestry Way,2.5,4.0,Pleasanton,"1,838 sqft","Sep 9, 2013","$785,000",37.657127,-121.90388,CA,Single-Family Home,785000,"$907,000",94566,,,,Sold,ALAMEDA
+357,3732 Thistle Way,1.5,3.0,Pleasanton,"1,291 sqft","Sep 6, 2013","$436,000",37.699986,-121.865875,CA,Townhouse,436000,"$516,000",94588,,,,Sold,ALAMEDA
+358,1921 Fiorio Cir,2.5,3.0,Pleasanton,"1,731 sqft","Sep 6, 2013","$675,000",37.67825,-121.87405,CA,Single-Family Home,675000,"$814,000",94566,,,,Sold,ALAMEDA
+359,4457 Linda Way,2.0,3.0,Pleasanton,"1,379 sqft","Sep 6, 2013","$852,000",37.656384,-121.86729,CA,Single-Family Home,852000,"$898,000",94566,,,,Sold,ALAMEDA
+360,7322 Elmwood Cir,3.0,3.0,Pleasanton,"1,507 sqft","Sep 6, 2013","$679,000",37.672432,-121.912636,CA,Single-Family Home,679000,"$874,000",94588,,,,Sold,ALAMEDA
+361,82 Castlewood Dr,4.5,3.0,Pleasanton,"3,000 sqft","Sep 6, 2013","$1,615,000",37.633,-121.8993,CA,Single-Family Home,1615000,"$1,802,000",94566,,,,Sold,ALAMEDA
+362,2594 Glen Isle Ave,2.5,4.0,Pleasanton,"2,292 sqft","Sep 6, 2013","$690,000",37.690308,-121.86826,CA,Single-Family Home,690000,"$828,000",94588,,,,Sold,ALAMEDA
+363,7988 Applewood Ct,2.5,5.0,Pleasanton,"2,030 sqft","Sep 5, 2013","$865,000",37.67604,-121.92105,CA,Single-Family Home,865000,"$944,000",94588,,,,Sold,ALAMEDA
+364,1867 Sannita Ct,6.0,5.0,Pleasanton,"7,340 sqft","Sep 5, 2013","$2,710,000",37.63308,-121.807304,CA,Single-Family Home,2710000,"$3,166,000",94566,,,,Sold,ALAMEDA
+365,1513 Trimingham Dr,2.0,2.0,Pleasanton,"1,345 sqft","Sep 5, 2013","$620,000",37.67651,-121.87029,CA,Single-Family Home,620000,"$640,000",94566,,,,Sold,ALAMEDA
+366,4366 Campinia Pl,3.5,5.0,Pleasanton,"3,969 sqft","Sep 5, 2013","$1,436,000",37.62992,-121.80304,CA,Single-Family Home,1436000,"$1,827,000",94566,,,,Sold,ALAMEDA
+367,4161 Churchill Dr,2.0,5.0,Pleasanton,"1,933 sqft","Sep 4, 2013","$725,000",37.69563,-121.87323,CA,Single-Family Home,725000,"$796,000",94588,,,,Sold,ALAMEDA
+368,8318 Moller Ranch Dr,3.0,5.0,Pleasanton,"3,650 sqft","Sep 4, 2013","$1,269,500",37.68295,-121.93415,CA,Single-Family Home,1269500,"$1,626,000",94588,,,,Sold,ALAMEDA
+369,6080 Corte Montanas,2.0,2.0,Pleasanton,"1,025 sqft","Sep 4, 2013","$597,000",37.67109,-121.900734,CA,Single-Family Home,597000,"$640,000",94566,,,,Sold,ALAMEDA
+370,257 Rachael Pl,2.0,2.0,Pleasanton,937 sqft,"Sep 4, 2013","$340,500",37.6671,-121.868614,CA,Condo,340500,"$428,000",94566,,,,Sold,ALAMEDA
+371,3488 Smoketree Commons,2.0,2.0,Pleasanton,856 sqft,"Sep 4, 2013","$305,000",37.663372,-121.85594,CA,Condo,305000,"$391,000",94566,,,,Sold,ALAMEDA
+372,5766 San Juan Way,2.0,5.0,Pleasanton,"1,955 sqft","Sep 4, 2013","$805,000",37.646645,-121.87607,CA,Single-Family Home,805000,"$866,000",94566,,,,Sold,ALAMEDA
+373,2537 Glen Isle Ave,2.5,4.0,Pleasanton,"2,330 sqft","Sep 4, 2013","$730,000",37.688892,-121.86837,CA,Single-Family Home,730000,"$888,000",94588,,,,Sold,ALAMEDA
+374,1883 Zenato Pl,4.5,5.0,Pleasanton,"6,114 sqft","Sep 4, 2013","$2,250,000",37.644413,-121.82293,CA,Single-Family Home,2250000,"$2,356,000",94566,,,,Sold,ALAMEDA
+375,5081 Carducci Dr,2.5,3.0,Pleasanton,"1,726 sqft","Sep 3, 2013","$770,000",37.69319,-121.88835,CA,Single-Family Home,770000,"$846,000",94588,,,,Sold,ALAMEDA
+376,4310 Campinia Pl,4.0,6.0,Pleasanton,"4,291 sqft","Sep 3, 2013","$1,780,000",37.6323,-121.80352,CA,Single-Family Home,1780000,"$2,146,000",94566,,,,Sold,ALAMEDA
+377,5732 Hansen Dr,2.0,3.0,Pleasanton,"1,520 sqft","Aug 30, 2013","$724,000",37.67184,-121.89431,CA,Single-Family Home,724000,"$798,000",94566,,,,Sold,ALAMEDA
+378,1512 Maple Leaf Dr,3.0,4.0,Pleasanton,"2,788 sqft","Aug 30, 2013","$930,000",37.680138,-121.86623,CA,Single-Family Home,930000,"$1,161,000",94588,,,,Sold,ALAMEDA
+379,1509 Whispering Oaks Way,2.5,3.0,Pleasanton,"2,592 sqft","Aug 30, 2013","$925,000",37.65663,-121.89321,CA,Single-Family Home,925000,"$1,118,000",94566,,,,Sold,ALAMEDA
+380,3186 Berkshire Ct,2.0,4.0,Pleasanton,"1,956 sqft","Aug 30, 2013","$752,000",37.692646,-121.8702,CA,Single-Family Home,752000,"$842,000",94588,,,,Sold,ALAMEDA
+381,5550 Corte Sonora,3.0,4.0,Pleasanton,"2,197 sqft","Aug 30, 2013","$899,000",37.66966,-121.889915,CA,Single-Family Home,899000,"$1,001,000",94566,,,,Sold,ALAMEDA
+382,4596 Winter Ct,2.0,4.0,Pleasanton,"2,242 sqft","Aug 30, 2013","$932,000",37.666275,-121.87972,CA,Single-Family Home,932000,"$1,038,000",94566,,,,Sold,ALAMEDA
+383,6876 Rayland Ct,2.0,3.0,Pleasanton,"1,372 sqft","Aug 30, 2013","$665,000",37.688503,-121.91271,CA,Single-Family Home,665000,"$730,000",94588,,,,Sold,ALAMEDA
+384,4380 Fairlands Dr,2.5,2.0,Pleasanton,"1,549 sqft","Aug 30, 2013","$430,000",37.69235,-121.87676,CA,Townhouse,430000,"$562,000",94588,,,,Sold,ALAMEDA
+385,4472 Bowen St,2.5,2.0,Pleasanton,"1,230 sqft","Aug 30, 2013","$425,000",37.686424,-121.875046,CA,Single-Family Home,425000,"$578,000",94588,,,,Sold,ALAMEDA
+386,2320 Redberry Ct,2.5,4.0,Pleasanton,"2,451 sqft","Aug 30, 2013","$920,000",37.676273,-121.888596,CA,Single-Family Home,920000,"$1,061,000",94566,,,,Sold,ALAMEDA
+387,3273 Novara Way,5.0,4.0,Pleasanton,"6,378 sqft","Aug 30, 2013","$2,100,000",37.642723,-121.81448,CA,Single-Family Home,2100000,"$2,432,000",94566,,,,Sold,ALAMEDA
+388,6237 Wade Ct,2.0,3.0,Pleasanton,"1,560 sqft","Aug 30, 2013","$733,000",37.681576,-121.906296,CA,Single-Family Home,733000,"$773,000",94588,,,,Sold,ALAMEDA
+389,4723 Fair St,2.0,3.0,Pleasanton,"1,200 sqft","Aug 30, 2013","$729,000",37.666744,-121.88342,CA,Single-Family Home,729000,"$733,000",94566,,,,Sold,ALAMEDA
+390,4275 Dundalk Ct,1.5,3.0,Pleasanton,"1,452 sqft","Aug 30, 2013","$735,000",37.680843,-121.87494,CA,Single-Family Home,735000,"$803,000",94566,,,,Sold,ALAMEDA
+391,4245 Sheldon Cir,2.0,2.0,Pleasanton,"1,118 sqft","Aug 30, 2013","$350,000",37.676926,-121.91554,CA,Townhouse,350000,"$468,000",94588,,,,Sold,ALAMEDA
+392,1684 Tanglewood Ct,2.0,4.0,Pleasanton,"1,716 sqft","Aug 29, 2013","$830,000",37.67176,-121.88427,CA,Single-Family Home,830000,"$936,000",94566,,,,Sold,ALAMEDA
+393,1943 Fiorio Cir,2.0,2.0,Pleasanton,"1,345 sqft","Aug 29, 2013","$476,000",37.6781,-121.87281,CA,Single-Family Home,476000,"$684,000",94566,,,,Sold,ALAMEDA
+394,3815 Vine St,2.5,2.0,Pleasanton,"1,221 sqft","Aug 28, 2013","$435,000",37.664326,-121.864136,CA,Townhouse,435000,"$487,000",94566,,,,Sold,ALAMEDA
+395,3402 Stacey Way,2.5,4.0,Pleasanton,"2,142 sqft","Aug 28, 2013","$765,000",37.699738,-121.85992,CA,Single-Family Home,765000,"$910,000",94588,,,,Sold,ALAMEDA
+396,20 Golf Rd,2.0,2.0,Pleasanton,"1,947 sqft","Aug 28, 2013","$850,000",37.629887,-121.89306,CA,Single-Family Home,850000,"$970,000",94566,,,,Sold,ALAMEDA
+397,3845 Vineyard Ave #K,1.0,1.0,Pleasanton,623 sqft,"Aug 27, 2013","$195,000",37.66491,-121.86381,CA,Condo,195000,"$271,000",94566,,,,Sold,ALAMEDA
+398,51 Golf Rd,2.5,3.0,Pleasanton,"2,005 sqft","Aug 27, 2013","$900,000",37.63164,-121.89822,CA,Single-Family Home,900000,"$1,267,000",94566,,,,Sold,ALAMEDA
+399,2226 Kamp Ct,3.5,4.0,Pleasanton,"3,099 sqft","Aug 27, 2013","$1,280,000",37.687737,-121.868416,CA,Single-Family Home,1280000,"$1,360,000",94588,,,,Sold,ALAMEDA
+400,2304 Redberry Ct,2.0,4.0,Pleasanton,"1,854 sqft","Aug 27, 2013","$770,000",37.67642,-121.88878,CA,Single-Family Home,770000,"$905,000",94566,,,,Sold,ALAMEDA
+401,4280 Garibaldi Pl,2.0,3.0,Pleasanton,"1,498 sqft","Aug 27, 2013","$600,000",37.65384,-121.85941,CA,Single-Family Home,600000,"$821,000",94566,,,,Sold,ALAMEDA
+402,4972 Muirwood Dr,2.5,3.0,Pleasanton,"2,144 sqft","Aug 26, 2013","$912,000",37.68425,-121.92096,CA,Single-Family Home,912000,"$940,000",94588,,,,Sold,ALAMEDA
+403,2115 Raven Rd,3.0,5.0,Pleasanton,"2,538 sqft","Aug 26, 2013","$940,000",37.677807,-121.88212,CA,Single-Family Home,940000,"$1,019,000",94566,,,,Sold,ALAMEDA
+404,4067 Rennellwood Way,2.0,2.0,Pleasanton,"1,368 sqft","Aug 26, 2013","$500,000",37.67968,-121.86929,CA,Single-Family Home,500000,"$649,000",94566,,,,Sold,ALAMEDA
+405,4182 Peregrine Way,2.5,3.0,Pleasanton,"1,614 sqft","Aug 26, 2013","$572,500",37.678616,-121.86955,CA,Single-Family Home,572500,"$740,000",94566,,,,Sold,ALAMEDA
+406,1944 Brooktree Way,2.0,3.0,Pleasanton,"1,696 sqft","Aug 23, 2013","$700,000",37.676018,-121.87748,CA,Single-Family Home,700000,"$854,000",94566,,,,Sold,ALAMEDA
+407,6797 Paseo Catalina,3.0,4.0,Pleasanton,"2,302 sqft","Aug 23, 2013","$882,000",37.67268,-121.90517,CA,Single-Family Home,882000,"$1,049,000",94566,,,,Sold,ALAMEDA
+408,9509 Macdonald Ct,3.5,4.0,Pleasanton,"3,592 sqft","Aug 23, 2013","$1,550,000",37.689518,-121.94369,CA,Single-Family Home,1550000,"$1,559,000",94588,,,,Sold,ALAMEDA
+409,7923 Hillsboro Ct,2.0,3.0,Pleasanton,"1,677 sqft","Aug 23, 2013","$825,000",37.685246,-121.92792,CA,Single-Family Home,825000,"$817,000",94588,,,,Sold,ALAMEDA
+410,2392 Willet Way,2.0,4.0,Pleasanton,"2,186 sqft","Aug 23, 2013","$770,000",37.67844,-121.88108,CA,Single-Family Home,770000,"$988,000",94566,,,,Sold,ALAMEDA
+411,2810 Foothill Oaks Dr,4.0,3.0,Pleasanton,"4,562 sqft","Aug 23, 2013","$1,775,000",37.656265,-121.90962,CA,Single-Family Home,1775000,"$1,814,000",94588,,,,Sold,ALAMEDA
+412,6374 Paseo Santa Maria,3.0,4.0,Pleasanton,"3,100 sqft","Aug 23, 2013","$1,075,000",37.669086,-121.90393,CA,Single-Family Home,1075000,"$1,288,000",94566,,,,Sold,ALAMEDA
+413,7467 Stonedale Dr,2.5,2.0,Pleasanton,"1,502 sqft","Aug 23, 2013","$545,000",37.690163,-121.92098,CA,Townhouse,545000,"$582,000",94588,,,,Sold,ALAMEDA
+414,5948 Sterling Greens Cir,2.5,3.0,Pleasanton,"2,532 sqft","Aug 23, 2013","$905,000",37.649464,-121.88877,CA,Single-Family Home,905000,"$1,108,000",94566,,,,Sold,ALAMEDA
+415,8107 Arroyo Dr,1.0,2.0,Pleasanton,798 sqft,"Aug 22, 2013","$285,000",37.650833,-121.904625,CA,Condo,285000,"$319,000",94588,,,,Sold,ALAMEDA
+416,229 Wild Flower Ct,2.0,3.0,Pleasanton,"1,421 sqft","Aug 22, 2013","$605,000",37.663574,-121.86005,CA,Single-Family Home,605000,"$788,000",94566,,,,Sold,ALAMEDA
+417,4541 Las Lomitas Dr,2.0,3.0,Pleasanton,"1,249 sqft","Aug 22, 2013","$600,000",37.65669,-121.869484,CA,Single-Family Home,600000,"$746,000",94566,,,,Sold,ALAMEDA
+418,1939 Foxswallow Cir,2.5,5.0,Pleasanton,"2,691 sqft","Aug 22, 2013","$980,000",37.67694,-121.87811,CA,Single-Family Home,980000,"$1,025,000",94566,,,,Sold,ALAMEDA
+419,7996 Fairoaks Ct,2.0,3.0,Pleasanton,"1,813 sqft","Aug 22, 2013","$816,000",37.685802,-121.92853,CA,Single-Family Home,816000,"$888,000",94588,,,,Sold,ALAMEDA
+420,5120 Blackbird Dr,2.0,4.0,Pleasanton,"1,812 sqft","Aug 21, 2013","$851,000",37.67958,-121.88591,CA,Single-Family Home,851000,"$944,000",94566,,,,Sold,ALAMEDA
+421,3928 W Las Positas Blvd,3.0,4.0,Pleasanton,"1,978 sqft","Aug 21, 2013","$830,000",37.693348,-121.869064,CA,Single-Family Home,830000,"$867,000",94588,,,,Sold,ALAMEDA
+422,3777 Marlboro Way,1.5,3.0,Pleasanton,"1,242 sqft","Aug 21, 2013","$423,500",37.700092,-121.86708,CA,Townhouse,423500,"$450,000",94588,,,,Sold,ALAMEDA
+423,2106 Palmer Dr,3.0,5.0,Pleasanton,"3,369 sqft","Aug 21, 2013","$1,300,000",37.686848,-121.86765,CA,Single-Family Home,1300000,"$1,494,000",94588,,,,Sold,ALAMEDA
+424,3375 Norton Way #18,1.5,2.0,Pleasanton,"1,120 sqft","Aug 21, 2013","$315,000",37.66208,-121.854195,CA,Condo,315000,"$391,000",94566,,,,Sold,ALAMEDA
+425,2573 Corte Rivera,2.5,4.0,Pleasanton,"1,956 sqft","Aug 20, 2013","$840,000",37.665615,-121.899994,CA,Single-Family Home,840000,"$898,000",94566,,,,Sold,ALAMEDA
+426,2256 Oakland Ave,2.0,2.0,Pleasanton,930 sqft,"Aug 20, 2013","$480,000",37.685566,-121.87136,CA,Single-Family Home,480000,"$599,000",94588,,,,Sold,ALAMEDA
+427,3190 Zuni Way,1.5,3.0,Pleasanton,"1,130 sqft","Aug 20, 2013","$402,000",37.690285,-121.87985,CA,Townhouse,402000,"$462,000",94588,,,,Sold,ALAMEDA
+428,3237 Arbor Dr,2.5,4.0,Pleasanton,"2,329 sqft","Aug 20, 2013","$980,000",37.657192,-121.84681,CA,Single-Family Home,980000,"$1,026,000",94566,,,,Sold,ALAMEDA
+429,8057 Rockford Pl,5.0,7.0,Pleasanton,"4,400 sqft","Aug 20, 2013","$1,850,000",37.625732,-121.88407,CA,Single-Family Home,1850000,"$1,893,000",94566,,,,Sold,ALAMEDA
+430,5799 Athenour Ct,2.5,3.0,Pleasanton,"2,056 sqft","Aug 20, 2013","$860,000",37.68259,-121.934814,CA,Single-Family Home,860000,"$975,000",94588,,,,Sold,ALAMEDA
+431,3515 Bernal Ave,6.0,8.0,Pleasanton,"4,993 sqft","Aug 20, 2013","$1,200,000",37.662548,-121.85718,CA,Multi-Family,1200000,,94566,,,,Sold,ALAMEDA
+432,1586 Germano Way,4.5,5.0,Pleasanton,"6,178 sqft","Aug 19, 2013","$2,085,000",37.633232,-121.80877,CA,Single-Family Home,2085000,"$2,598,000",94566,,,,Sold,ALAMEDA
+433,2139 Goldcrest Cir,2.0,2.0,Pleasanton,"1,209 sqft","Aug 16, 2013","$550,000",37.673378,-121.89132,CA,Single-Family Home,550000,"$654,000",94566,,,,Sold,ALAMEDA
+434,2723 Huff Dr,2.0,3.0,Pleasanton,"1,574 sqft","Aug 16, 2013","$730,000",37.693157,-121.86318,CA,Single-Family Home,730000,"$886,000",94588,,,,Sold,ALAMEDA
+435,445 Kottinger Dr,2.0,2.0,Pleasanton,"1,077 sqft","Aug 16, 2013","$618,000",37.660282,-121.86732,CA,Single-Family Home,618000,"$637,000",94566,,,,Sold,ALAMEDA
+436,2761 Sanderling Way,4.5,4.0,Pleasanton,"2,747 sqft","Aug 16, 2013","$1,072,000",37.683125,-121.88335,CA,Single-Family Home,1072000,"$1,325,000",94566,,,,Sold,ALAMEDA
+437,55 E Creek Ct,2.5,3.0,Pleasanton,"2,401 sqft","Aug 16, 2013","$940,000",37.649036,-121.8853,CA,Single-Family Home,940000,"$1,073,000",94566,,,,Sold,ALAMEDA
+438,3833 Kamp Dr,2.5,3.0,Pleasanton,"1,658 sqft","Aug 16, 2013","$725,000",37.687218,-121.86827,CA,Single-Family Home,725000,"$826,000",94588,,,,Sold,ALAMEDA
+439,2015 Alexander Ct,2.5,2.0,Pleasanton,"1,230 sqft","Aug 16, 2013","$480,000",37.68395,-121.87164,CA,Townhouse,480000,"$533,000",94588,,,,Sold,ALAMEDA
+440,3851 Belmont Way,1.0,2.0,Pleasanton,897 sqft,"Aug 16, 2013","$260,000",37.70042,-121.867256,CA,Townhouse,260000,"$379,000",94588,,,,Sold,ALAMEDA
+441,4383 Bristolwood Rd,2.0,4.0,Pleasanton,"1,682 sqft","Aug 15, 2013","$750,000",37.678703,-121.91699,CA,Single-Family Home,750000,"$778,000",94588,,,,Sold,ALAMEDA
+442,4893 Canary Dr,2.0,4.0,Pleasanton,"2,167 sqft","Aug 15, 2013","$830,000",37.678593,-121.88256,CA,Single-Family Home,830000,"$982,000",94566,,,,Sold,ALAMEDA
+443,2969 Martin Ave,2.0,4.0,Pleasanton,"1,873 sqft","Aug 14, 2013","$785,000",37.69507,-121.861694,CA,Single-Family Home,785000,"$854,000",94588,,,,Sold,ALAMEDA
+444,3405 Norton Way #1,2.0,2.0,Pleasanton,912 sqft,"Aug 14, 2013","$180,000",37.661533,-121.8543,CA,Condo,180000,"$343,000",94566,,,,Sold,ALAMEDA
+445,8130 Mountain View Dr #C,2.0,2.0,Pleasanton,"1,043 sqft","Aug 13, 2013","$303,000",37.696518,-121.94896,CA,Condo,303000,"$472,000",94588,,,,Sold,ALAMEDA
+446,2773 Glen Isle Ct,3.0,4.0,Pleasanton,"1,945 sqft","Aug 13, 2013","$860,000",37.690876,-121.86692,CA,Single-Family Home,860000,"$1,017,000",94588,,,,Sold,ALAMEDA
+447,3446 Smoketree Commons,2.0,2.0,Pleasanton,938 sqft,"Aug 13, 2013","$378,000",37.663864,-121.85574,CA,Condo,378000,"$410,000",94566,,,,Sold,ALAMEDA
+448,23 Deer Oaks Ct,4.0,5.0,Pleasanton,"5,120 sqft","Aug 12, 2013","$1,710,000",37.655426,-121.911476,CA,Single-Family Home,1710000,"$2,028,000",94588,,,,Sold,ALAMEDA
+449,2538 Larrikeet Ct,2.0,3.0,Pleasanton,"1,722 sqft","Aug 12, 2013","$800,000",37.680405,-121.88828,CA,Single-Family Home,800000,"$920,000",94566,,,,Sold,ALAMEDA
+450,920 Pamela Pl,3.5,4.0,Pleasanton,"3,609 sqft","Aug 12, 2013","$1,215,000",37.653305,-121.861374,CA,Single-Family Home,1215000,"$1,639,000",94566,,,,Sold,ALAMEDA
+451,3485 Bernal Ave,2.0,2.0,Pleasanton,"1,636 sqft","Aug 9, 2013","$615,000",37.663143,-121.85696,CA,Single-Family Home,615000,"$748,000",94566,,,,Sold,ALAMEDA
+452,1924 Palmer Dr,3.0,5.0,Pleasanton,"3,369 sqft","Aug 9, 2013","$1,180,000",37.68347,-121.86784,CA,Single-Family Home,1180000,"$1,534,000",94588,,,,Sold,ALAMEDA
+453,1774 Spumante Pl,3.5,4.0,Pleasanton,"4,035 sqft","Aug 9, 2013","$1,650,000",37.643265,-121.81752,CA,Single-Family Home,1650000,"$2,162,000",94566,,,,Sold,ALAMEDA
+454,3290 Novara Way,4.5,4.0,Pleasanton,"4,813 sqft","Aug 8, 2013","$2,050,000",37.64233,-121.814316,CA,Single-Family Home,2050000,"$2,097,000",94566,,,,Sold,ALAMEDA
+455,16 Castledown Rd,3.5,3.0,Pleasanton,"3,201 sqft","Aug 8, 2013","$1,250,000",37.63773,-121.89319,CA,Single-Family Home,1250000,"$1,550,000",94566,,,,Sold,ALAMEDA
+456,1819 Sannita Ct,4.5,5.0,Pleasanton,"6,054 sqft","Aug 8, 2013","$2,251,000",37.631603,-121.808,CA,Single-Family Home,2251000,"$2,696,000",94566,,,,Sold,ALAMEDA
+457,2652 Lin Gate Ct,2.0,4.0,Pleasanton,"1,738 sqft","Aug 8, 2013","$860,500",37.68709,-121.88063,CA,Single-Family Home,860500,"$910,000",94566,,,,Sold,ALAMEDA
+458,1825 Tanglewood Way,3.0,5.0,Pleasanton,"2,538 sqft","Aug 7, 2013","$950,000",37.67376,-121.88373,CA,Single-Family Home,950000,"$1,026,000",94566,,,,Sold,ALAMEDA
+459,3840 Appian St,3.0,4.0,Pleasanton,"2,321 sqft","Aug 7, 2013","$870,000",37.693348,-121.8894,CA,Single-Family Home,870000,"$1,039,000",94588,,,,Sold,ALAMEDA
+460,22 Castlewood Dr,4.0,5.0,Pleasanton,"5,217 sqft","Aug 7, 2013","$1,500,000",37.633457,-121.89151,CA,Single-Family Home,1500000,"$1,870,000",94566,,,,Sold,ALAMEDA
+461,5279 Ridgevale Way,2.0,4.0,Pleasanton,"1,854 sqft","Aug 7, 2013","$850,000",37.673576,-121.88771,CA,Single-Family Home,850000,"$920,000",94566,,,,Sold,ALAMEDA
+462,7690 Canyon Meadow Cir #C,1.0,1.0,Pleasanton,790 sqft,"Aug 7, 2013","$300,000",37.696518,-121.94896,CA,Condo,300000,"$394,000",94588,,,,Sold,ALAMEDA
+463,3181 Tonopah Ct,1.5,3.0,Pleasanton,"1,132 sqft","Aug 7, 2013","$410,000",37.689644,-121.88086,CA,Townhouse,410000,"$480,000",94588,,,,Sold,ALAMEDA
+464,3645 Virgin Islands Ct,2.0,4.0,Pleasanton,"1,626 sqft","Aug 7, 2013","$615,000",37.67436,-121.90848,CA,Single-Family Home,615000,"$714,000",94588,,,,Sold,ALAMEDA
+465,6650 Johnston Rd,,,Pleasanton,"3,808 sqft","Aug 7, 2013","$1,350,000",37.789787,-121.83778,CA,Farm/Ranch,1350000,"$1,287,000",94588,,,,Sold,CONTRA COSTA
+466,4646 Klamath Ct,2.0,4.0,Pleasanton,"1,512 sqft","Aug 7, 2013","$683,000",37.68217,-121.87903,CA,Single-Family Home,683000,"$844,000",94566,,,,Sold,ALAMEDA
+467,3849 Vineyard Ave #D,2.0,2.0,Pleasanton,846 sqft,"Aug 6, 2013","$280,000",37.66368,-121.86383,CA,Condo,280000,"$333,000",94566,,,,Sold,ALAMEDA
+468,5930 Sterling Greens Cir,3.5,5.0,Pleasanton,"2,901 sqft","Aug 6, 2013","$1,035,000",37.64952,-121.88826,CA,Single-Family Home,1035000,"$1,252,000",94566,,,,Sold,ALAMEDA
+469,258 Mavis Dr,2.5,2.0,Pleasanton,977 sqft,"Aug 6, 2013","$405,000",37.664326,-121.8603,CA,Single-Family Home,405000,"$538,000",94566,,,,Sold,ALAMEDA
+470,8080 Canyon Creek Cir,2.5,3.0,Pleasanton,"1,650 sqft","Aug 6, 2013","$705,000",37.697655,-121.95211,CA,Single-Family Home,705000,"$814,000",94588,,,,Sold,ALAMEDA
+471,2645 Maria St,2.5,4.0,Pleasanton,"2,014 sqft","Aug 6, 2013","$795,000",37.691803,-121.85494,CA,Single-Family Home,795000,"$865,000",94588,,,,Sold,ALAMEDA
+472,2121 Rheem Dr,2.5,3.0,Pleasanton,"1,329 sqft","Aug 5, 2013","$515,000",37.68502,-121.87329,CA,Townhouse,515000,"$593,000",94588,,,,Sold,ALAMEDA
+473,1129 Lund Ranch Rd,3.0,4.0,Pleasanton,"2,988 sqft","Aug 2, 2013","$1,200,000",37.64607,-121.86734,CA,Single-Family Home,1200000,"$1,478,000",94566,,,,Sold,ALAMEDA
+474,3448 Palmer Pl,2.5,3.0,Pleasanton,"2,624 sqft","Aug 2, 2013","$1,110,000",37.68318,-121.86702,CA,Single-Family Home,1110000,"$1,272,000",94588,,,,Sold,ALAMEDA
+475,3579 Whitehall Ct,2.0,4.0,Pleasanton,"1,879 sqft","Aug 2, 2013","$800,000",37.698723,-121.86641,CA,Single-Family Home,800000,"$932,000",94588,,,,Sold,ALAMEDA
+476,537 Saint Thomas Way,2.5,3.0,Pleasanton,"1,540 sqft","Aug 2, 2013","$475,000",37.66266,-121.855034,CA,Townhouse,475000,"$586,000",94566,,,,Sold,ALAMEDA
+477,2115 Alexander Way,2.5,3.0,Pleasanton,"1,480 sqft","Aug 2, 2013","$707,500",37.685402,-121.87282,CA,Single-Family Home,707500,"$725,000",94588,,,,Sold,ALAMEDA
+478,1036 Rhine Way,3.0,4.0,Pleasanton,"3,016 sqft","Aug 1, 2013","$1,041,500",37.65713,-121.84361,CA,Single-Family Home,1041500,"$1,452,000",94566,,,,Sold,ALAMEDA
+479,567 Bonita Ave,2.0,3.0,Pleasanton,"1,571 sqft","Aug 1, 2013","$803,000",37.657375,-121.86732,CA,Single-Family Home,803000,"$877,000",94566,,,,Sold,ALAMEDA
+480,1287 Greenwood Rd,2.0,3.0,Pleasanton,"1,933 sqft","Aug 1, 2013","$850,000",37.669434,-121.88019,CA,Single-Family Home,850000,"$972,000",94566,,,,Sold,ALAMEDA
+481,3837 Stone Pointe Way,2.5,4.0,Pleasanton,"2,415 sqft","Jul 31, 2013","$780,000",37.690533,-121.86947,CA,Single-Family Home,780000,"$916,000",94588,,,,Sold,ALAMEDA
+482,286 Birch Creek Dr,2.0,2.0,Pleasanton,860 sqft,"Jul 31, 2013","$365,000",37.6634,-121.864426,CA,Townhouse,365000,"$443,000",94566,,,,Sold,ALAMEDA
+483,8005 Regency Dr,3.0,3.0,Pleasanton,"3,291 sqft","Jul 31, 2013","$1,468,000",37.65757,-121.90684,CA,Single-Family Home,1468000,"$1,758,000",94588,,,,Sold,ALAMEDA
+484,5327 Springdale Ave,2.5,4.0,Pleasanton,"1,884 sqft","Jul 31, 2013","$525,000",37.688023,-121.92322,CA,Townhouse,525000,"$619,000",94588,,,,Sold,ALAMEDA
+485,1736 Magnolia Cir,2.5,3.0,Pleasanton,"1,484 sqft","Jul 31, 2013","$620,000",37.68067,-121.86876,CA,Single-Family Home,620000,"$730,000",94566,,,,Sold,ALAMEDA
+486,6925 Calle Altamira,3.0,5.0,Pleasanton,"2,408 sqft","Jul 31, 2013","$1,035,000",37.66478,-121.904884,CA,Single-Family Home,1035000,"$1,049,000",94566,,,,Sold,ALAMEDA
+487,2690 Sanderling Way,,,Pleasanton,"2,164 sqft","Jul 31, 2013","$850,000",37.68348,-121.88411,CA,Single-Family Home,850000,"$930,000",94566,,,,Sold,ALAMEDA
+488,7973 Paragon Cir,3.5,4.0,Pleasanton,"3,183 sqft","Jul 31, 2013","$1,418,000",37.65612,-121.906425,CA,Single-Family Home,1418000,"$1,572,000",94588,,,,Sold,ALAMEDA
+489,6826 Via Quito,2.0,4.0,Pleasanton,"1,489 sqft","Jul 31, 2013","$750,000",37.66573,-121.903275,CA,Single-Family Home,750000,"$848,000",94566,,,,Sold,ALAMEDA
+490,6209 Garner Ct,2.0,3.0,Pleasanton,"1,555 sqft","Jul 31, 2013","$730,000",37.687664,-121.90422,CA,Single-Family Home,730000,"$779,000",94588,,,,Sold,ALAMEDA
+491,3632 Portsmouth Ct,2.0,4.0,Pleasanton,"2,150 sqft","Jul 31, 2013","$833,000",37.69641,-121.86479,CA,Single-Family Home,833000,"$897,000",94588,,,,Sold,ALAMEDA
+492,4613 Mirador Dr,4.0,3.0,Pleasanton,"2,812 sqft","Jul 30, 2013","$1,387,500",37.65304,-121.86794,CA,Single-Family Home,1387500,"$1,479,000",94566,,,,Sold,ALAMEDA
+493,2516 Raven Rd,2.0,4.0,Pleasanton,"2,156 sqft","Jul 30, 2013","$840,000",37.68077,-121.8818,CA,Single-Family Home,840000,"$989,000",94566,,,,Sold,ALAMEDA
+494,7880 Canyon Meadow Cir #D,1.0,1.0,Pleasanton,790 sqft,"Jul 30, 2013","$310,000",37.696518,-121.94896,CA,Condo,310000,"$382,000",94588,,,,Sold,ALAMEDA
+495,5285 Springdale Ave,2.5,3.0,Pleasanton,"1,609 sqft","Jul 30, 2013","$587,000",37.687565,-121.92268,CA,Townhouse,587000,"$617,000",94588,,,,Sold,ALAMEDA
+496,4595 Gatetree Cir,3.0,3.0,Pleasanton,"2,146 sqft","Jul 26, 2013","$861,000",37.670475,-121.87747,CA,Single-Family Home,861000,"$1,019,000",94566,,,,Sold,ALAMEDA
+497,8132 Ensenada Dr,1.0,2.0,Pleasanton,903 sqft,"Jul 26, 2013","$307,500",37.650833,-121.904625,CA,Condo,307500,"$347,000",94588,,,,Sold,ALAMEDA
+498,3714 Thistle Way,2.0,3.0,Pleasanton,"1,160 sqft","Jul 26, 2013","$330,000",37.69977,-121.865906,CA,Townhouse,330000,"$486,000",94588,,,,Sold,ALAMEDA
+499,8110 Mountain View Dr #A,2.0,2.0,Pleasanton,"1,043 sqft","Jul 26, 2013","$402,000",37.696518,-121.94896,CA,Condo,402000,"$454,000",94588,,,,Sold,ALAMEDA
+500,3672 Canelli Ct,2.0,3.0,Pleasanton,"2,197 sqft","Jul 25, 2013","$900,000",37.659946,-121.8576,CA,Single-Family Home,900000,"$948,000",94566,,,,Sold,ALAMEDA
+501,1037 Sunset Creek Ln,5.5,4.0,Pleasanton,"4,974 sqft","Jul 25, 2013","$2,050,000",37.64398,-121.870384,CA,Single-Family Home,2050000,"$2,380,000",94566,,,,Sold,ALAMEDA
+502,2716 Camino Segura,3.0,4.0,Pleasanton,"2,709 sqft","Jul 25, 2013","$969,000",37.67018,-121.90094,CA,Single-Family Home,969000,"$1,265,000",94566,,,,Sold,ALAMEDA
+503,6951 Corte Antonio,3.0,4.0,Pleasanton,"2,813 sqft","Jul 25, 2013","$1,080,000",37.66725,-121.90578,CA,Single-Family Home,1080000,"$1,212,000",94566,,,,Sold,ALAMEDA
+504,7474 Stonedale Dr,2.5,3.0,Pleasanton,"1,928 sqft","Jul 25, 2013","$562,500",37.689594,-121.92149,CA,Townhouse,562500,"$692,000",94588,,,,Sold,ALAMEDA
+505,4091 Nevis St,2.0,3.0,Pleasanton,"1,243 sqft","Jul 24, 2013","$622,000",37.671413,-121.87072,CA,Single-Family Home,622000,"$725,000",94566,,,,Sold,ALAMEDA
+506,6981 Corte Mercado,2.0,2.0,Pleasanton,"1,931 sqft","Jul 24, 2013","$824,000",37.666306,-121.906204,CA,Single-Family Home,824000,"$887,000",94566,,,,Sold,ALAMEDA
+507,7249 Stonedale Dr,2.0,4.0,Pleasanton,"1,560 sqft","Jul 24, 2013","$689,000",37.685993,-121.91801,CA,Single-Family Home,689000,"$770,000",94588,,,,Sold,ALAMEDA
+508,1429 Calle Enrique,2.0,3.0,Pleasanton,"1,147 sqft","Jul 24, 2013","$425,000",37.66822,-121.886566,CA,Townhouse,425000,"$646,000",94566,,,,Sold,ALAMEDA
+509,30 Golf Rd,3.0,4.0,Pleasanton,"4,253 sqft","Jul 24, 2013","$1,750,000",37.629047,-121.89505,CA,Single-Family Home,1750000,"$1,576,000",94566,,,,Sold,ALAMEDA
+510,2606 Glen Isle Ave,2.0,3.0,Pleasanton,"1,720 sqft","Jul 24, 2013","$660,000",37.69053,-121.86794,CA,Single-Family Home,660000,"$848,000",94588,,,,Sold,ALAMEDA
+511,2117 Alexander Way,2.5,4.0,Pleasanton,"1,738 sqft","Jul 24, 2013","$702,000",37.685474,-121.872925,CA,Single-Family Home,702000,"$779,000",94588,,,,Sold,ALAMEDA
+512,2670 Calle Alegre,3.0,4.0,Pleasanton,"2,854 sqft","Jul 24, 2013","$1,325,000",37.67164,-121.89574,CA,Single-Family Home,1325000,"$1,366,000",94566,,,,Sold,ALAMEDA
+513,541 Rose Ave,2.0,2.0,Pleasanton,829 sqft,"Jul 23, 2013","$419,000",37.662304,-121.88011,CA,Condo,419000,"$429,000",94566,,,,Sold,ALAMEDA
+514,1817 Spumante Pl,5.0,5.0,Pleasanton,"6,374 sqft","Jul 23, 2013","$2,400,000",37.642345,-121.81836,CA,Single-Family Home,2400000,"$2,545,000",94566,,,,Sold,ALAMEDA
+515,735 Saint John Cir,3.0,4.0,Pleasanton,"2,380 sqft","Jul 23, 2013","$958,000",37.665043,-121.87947,CA,Single-Family Home,958000,"$1,236,000",94566,,,,Sold,ALAMEDA
+516,3439 Gravina Pl,3.0,5.0,Pleasanton,"3,851 sqft","Jul 23, 2013","$1,415,000",37.640244,-121.82005,CA,Single-Family Home,1415000,"$1,644,000",94566,,,,Sold,ALAMEDA
+517,2919 Calle De La Mesa,3.0,4.0,Pleasanton,"2,239 sqft","Jul 23, 2013","$930,000",37.66986,-121.90583,CA,Single-Family Home,930000,"$1,019,000",94566,,,,Sold,ALAMEDA
+518,2599 Skimmer Ct,2.5,4.0,Pleasanton,"2,147 sqft","Jul 22, 2013","$1,050,000",37.681747,-121.88741,CA,Single-Family Home,1050000,"$1,187,000",94566,,,,Sold,ALAMEDA
+519,5634 Belleza Dr,3.0,4.0,Pleasanton,"1,928 sqft","Jul 22, 2013","$602,000",37.687912,-121.88545,CA,Townhouse,602000,"$763,000",94588,,,,Sold,ALAMEDA
+520,194 Peters Ave #D,2.0,2.0,Pleasanton,878 sqft,"Jul 22, 2013","$547,500",37.659664,-121.87807,CA,Condo,547500,"$432,000",94566,,,,Sold,ALAMEDA
+521,1124 Piemonte Dr,5.0,5.0,Pleasanton,"5,715 sqft","Jul 22, 2013","$2,353,000",37.64606,-121.812744,CA,Single-Family Home,2353000,"$2,574,000",94566,,,,Sold,ALAMEDA
+522,4073 Churchill Dr,2.0,4.0,Pleasanton,"1,584 sqft","Jul 19, 2013","$620,000",37.696747,-121.87157,CA,Single-Family Home,620000,"$770,000",94588,,,,Sold,ALAMEDA
+523,223 Rachael Pl,2.0,2.0,Pleasanton,937 sqft,"Jul 19, 2013","$303,500",37.6671,-121.868614,CA,Condo,303500,"$413,000",94566,,,,Sold,ALAMEDA
+524,1536 Oxsen St,3.0,3.0,Pleasanton,"1,609 sqft","Jul 19, 2013","$650,000",37.677082,-121.870255,CA,Single-Family Home,650000,"$825,000",94566,,,,Sold,ALAMEDA
+525,5332 Brookside Ct,2.5,4.0,Pleasanton,"2,119 sqft","Jul 19, 2013","$650,000",37.68946,-121.92269,CA,Townhouse,650000,"$784,000",94588,,,,Sold,ALAMEDA
+526,234 Mavis Dr,2.5,3.0,Pleasanton,"1,249 sqft","Jul 19, 2013","$550,000",37.66483,-121.86039,CA,Single-Family Home,550000,"$633,000",94566,,,,Sold,ALAMEDA
+527,15 Fairway Ln,2.5,4.0,Pleasanton,"3,700 sqft","Jul 19, 2013","$1,900,000",37.63429,-121.89906,CA,Single-Family Home,1900000,"$1,724,000",94566,,,,Sold,ALAMEDA
+528,3710 Smallwood Ct,4.5,5.0,Pleasanton,"4,026 sqft","Jul 19, 2013","$1,464,500",37.651066,-121.85204,CA,Single-Family Home,1464500,"$1,833,000",94566,,,,Sold,ALAMEDA
+529,5868 Northway Rd,2.0,2.0,Pleasanton,"1,421 sqft","Jul 19, 2013","$565,000",37.67639,-121.893845,CA,Single-Family Home,565000,"$681,000",94566,,,,Sold,ALAMEDA
+530,6592 Arlington Dr,2.0,2.0,Pleasanton,"2,044 sqft","Jul 19, 2013","$820,000",37.64082,-121.88057,CA,Single-Family Home,820000,"$889,000",94566,,,,Sold,ALAMEDA
+531,4100 Veneto Ct,2.0,2.0,Pleasanton,"1,064 sqft","Jul 19, 2013","$470,000",37.694824,-121.89203,CA,Townhouse,470000,"$501,000",94588,,,,Sold,ALAMEDA
+532,4975 Middleton Pl,3.0,4.0,Pleasanton,"2,953 sqft","Jul 19, 2013","$1,330,000",37.648308,-121.86424,CA,Single-Family Home,1330000,"$1,465,000",94566,,,,Sold,ALAMEDA
+533,5746 Belleza Dr,2.0,2.0,Pleasanton,"1,381 sqft","Jul 18, 2013","$520,000",37.68681,-121.88848,CA,Townhouse,520000,"$627,000",94588,,,,Sold,ALAMEDA
+534,4972 Mohr Ave,,,Pleasanton,"2,103 sqft","Jul 18, 2013","$835,000",37.685802,-121.88433,CA,Single-Family Home,835000,"$902,000",94566,,,,Sold,ALAMEDA
+535,7465 Muirwood Ct,2.0,3.0,Pleasanton,"1,677 sqft","Jul 18, 2013","$840,000",37.68346,-121.920006,CA,Single-Family Home,840000,"$772,000",94588,,,,Sold,ALAMEDA
+536,3601 Pontina Ct,4.5,5.0,Pleasanton,"4,919 sqft","Jul 18, 2013","$2,000,000",37.639656,-121.8107,CA,Single-Family Home,2000000,"$2,536,000",94566,,,,Sold,ALAMEDA
+537,1521 Oxsen St,2.5,3.0,Pleasanton,"1,731 sqft","Jul 17, 2013","$612,000",37.676937,-121.86983,CA,Single-Family Home,612000,"$791,000",94566,,,,Sold,ALAMEDA
+538,2117 Rheem Dr,2.0,2.0,Pleasanton,"1,071 sqft","Jul 17, 2013","$481,000",37.68491,-121.87314,CA,Single-Family Home,481000,"$570,000",94588,,,,Sold,ALAMEDA
+539,1582 Calle Santiago,2.0,3.0,Pleasanton,"1,147 sqft","Jul 17, 2013","$430,000",37.66863,-121.886856,CA,Townhouse,430000,"$552,000",94566,,,,Sold,ALAMEDA
+540,6796 Paseo San Leon,3.0,3.0,Pleasanton,"2,634 sqft","Jul 17, 2013","$930,000",37.673717,-121.90317,CA,Single-Family Home,930000,"$1,142,000",94566,,,,Sold,ALAMEDA
+541,2134 Goldcrest Cir,1.5,2.0,Pleasanton,874 sqft,"Jul 17, 2013","$435,000",37.673286,-121.89178,CA,Single-Family Home,435000,"$555,000",94566,,,,Sold,ALAMEDA
+542,8013 Regency Dr,3.5,5.0,Pleasanton,"3,384 sqft","Jul 16, 2013","$1,508,000",37.658092,-121.90703,CA,Single-Family Home,1508000,"$1,660,000",94588,,,,Sold,ALAMEDA
+543,3586 Wind Cave Ct,2.5,4.0,Pleasanton,"1,835 sqft","Jul 16, 2013","$580,000",37.674927,-121.90864,CA,Single-Family Home,580000,"$787,000",94588,,,,Sold,ALAMEDA
+544,1512 Oak Vista Way,2.5,4.0,Pleasanton,"2,780 sqft","Jul 12, 2013","$1,036,000",37.657227,-121.89308,CA,Single-Family Home,1036000,"$1,207,000",94566,,,,Sold,ALAMEDA
+545,3861 Brockton Dr,1.5,3.0,Pleasanton,"1,242 sqft","Jul 12, 2013","$405,000",37.700653,-121.86818,CA,Townhouse,405000,"$450,000",94588,,,,Sold,ALAMEDA
+546,456 Cabonia Ct,3.0,4.0,Pleasanton,"2,806 sqft","Jul 12, 2013","$1,260,000",37.641613,-121.80011,CA,Single-Family Home,1260000,"$1,398,000",94566,,,,Sold,ALAMEDA
+547,1901 Via Di Salerno,5.5,5.0,Pleasanton,"5,524 sqft","Jul 12, 2013","$2,200,000",37.639767,-121.803276,CA,Single-Family Home,2200000,"$2,307,000",94566,,,,Sold,ALAMEDA
+548,965 Hopkins Way,3.0,4.0,Pleasanton,"3,179 sqft","Jul 12, 2013","$1,330,000",37.646107,-121.871506,CA,Single-Family Home,1330000,"$1,487,000",94566,,,,Sold,ALAMEDA
+549,141 Sylvia Cir,2.5,3.0,Pleasanton,"1,641 sqft","Jul 12, 2013","$700,000",37.664722,-121.86116,CA,Single-Family Home,700000,"$806,000",94566,,,,Sold,ALAMEDA
+550,4308 Camellia Ct,2.0,3.0,Pleasanton,"1,814 sqft","Jul 12, 2013","$762,500",37.67404,-121.91964,CA,Single-Family Home,762500,"$860,000",94588,,,,Sold,ALAMEDA
+551,2937 Garden Creek Cir,2.0,3.0,Pleasanton,"1,388 sqft","Jul 12, 2013","$575,000",37.690617,-121.87013,CA,Single-Family Home,575000,"$743,000",94588,,,,Sold,ALAMEDA
+552,3631 Ashwood Dr,2.0,3.0,Pleasanton,"1,397 sqft","Jul 11, 2013","$677,000",37.66972,-121.912926,CA,Single-Family Home,677000,"$703,000",94588,,,,Sold,ALAMEDA
+553,3102 Half Dome Dr,2.5,3.0,Pleasanton,"1,651 sqft","Jul 11, 2013","$735,000",37.666035,-121.84797,CA,Single-Family Home,735000,"$833,000",94566,,,,Sold,ALAMEDA
+554,4159 Amberwood Cir,2.5,3.0,Pleasanton,"1,418 sqft","Jul 10, 2013","$500,000",37.675827,-121.91415,CA,Townhouse,500000,"$584,000",94588,,,,Sold,ALAMEDA
+555,3496 Smoketree Commons,2.0,2.0,Pleasanton,856 sqft,"Jul 10, 2013","$335,000",37.663372,-121.85594,CA,Condo,335000,"$391,000",94566,,,,Sold,ALAMEDA
+556,1062 Vintner Way,2.0,4.0,Pleasanton,"2,078 sqft","Jul 10, 2013","$820,000",37.658413,-121.848236,CA,Single-Family Home,820000,"$973,000",94566,,,,Sold,ALAMEDA
+557,7710 Canyon Meadow Cir #E,1.0,1.0,Pleasanton,790 sqft,"Jul 10, 2013","$300,000",37.696518,-121.94896,CA,Condo,300000,"$380,000",94588,,,,Sold,ALAMEDA
+558,2104 Armstrong Dr,2.5,4.0,Pleasanton,"1,698 sqft","Jul 10, 2013","$712,000",37.68539,-121.87236,CA,Single-Family Home,712000,"$775,000",94588,,,,Sold,ALAMEDA
+559,7683 Cottonwood Ln,2.5,3.0,Pleasanton,"1,707 sqft","Jul 10, 2013","$787,500",37.678757,-121.91934,CA,Single-Family Home,787500,"$855,000",94588,,,,Sold,ALAMEDA
+560,5721 San Antonio St,2.0,3.0,Pleasanton,"1,500 sqft","Jul 10, 2013","$752,000",37.646957,-121.87567,CA,Single-Family Home,752000,"$822,000",94566,,,,Sold,ALAMEDA
+561,2219 Oakland Ave,2.5,3.0,Pleasanton,"1,548 sqft","Jul 10, 2013","$685,000",37.684242,-121.87086,CA,Single-Family Home,685000,"$777,000",94588,,,,Sold,ALAMEDA
+562,1541 Trimingham Dr,2.5,3.0,Pleasanton,"1,731 sqft","Jul 9, 2013","$582,000",37.67695,-121.86902,CA,Single-Family Home,582000,"$786,000",94566,,,,Sold,ALAMEDA
+563,6798 Paseo Catalina,3.0,4.0,Pleasanton,"2,624 sqft","Jul 9, 2013","$960,000",37.672787,-121.90468,CA,Single-Family Home,960000,"$1,126,000",94566,,,,Sold,ALAMEDA
+564,3552 Capella Ct,2.5,3.0,Pleasanton,"1,372 sqft","Jul 9, 2013","$630,000",37.69171,-121.88755,CA,Single-Family Home,630000,"$751,000",94588,,,,Sold,ALAMEDA
+565,1046 Vintner Way,3.0,4.0,Pleasanton,"1,942 sqft","Jul 9, 2013","$900,000",37.658607,-121.848206,CA,Single-Family Home,900000,"$981,000",94566,,,,Sold,ALAMEDA
+566,1055 Kolln St,2.0,3.0,Pleasanton,"1,236 sqft","Jul 9, 2013","$636,500",37.671818,-121.86855,CA,Single-Family Home,636500,"$729,000",94566,,,,Sold,ALAMEDA
+567,1135 Mataro Ct,3.0,4.0,Pleasanton,"2,689 sqft","Jul 9, 2013","$1,000,000",37.655396,-121.84902,CA,Single-Family Home,1000000,"$1,206,000",94566,,,,Sold,ALAMEDA
+568,5734 Belleza Dr,2.0,2.0,Pleasanton,"1,381 sqft","Jul 8, 2013","$526,000",37.686928,-121.888016,CA,Townhouse,526000,"$639,000",94588,,,,Sold,ALAMEDA
+569,5461 Greenfield Way,2.0,4.0,Pleasanton,"1,882 sqft","Jul 8, 2013","$775,000",37.674065,-121.88952,CA,Single-Family Home,775000,"$949,000",94566,,,,Sold,ALAMEDA
+570,3110 Half Dome Dr,2.5,3.0,Pleasanton,"1,651 sqft","Jul 8, 2013","$645,000",37.666145,-121.84826,CA,Single-Family Home,645000,"$785,000",94566,,,,Sold,ALAMEDA
+571,2878 Garden Creek Cir,2.0,3.0,Pleasanton,"1,720 sqft","Jul 5, 2013","$680,000",37.690243,-121.87099,CA,Single-Family Home,680000,"$822,000",94588,,,,Sold,ALAMEDA
+572,5597 Serenity Ter,6.5,6.0,Pleasanton,"6,735 sqft","Jul 5, 2013","$2,230,000",37.683823,-121.930725,CA,Single-Family Home,2230000,"$2,445,000",94588,,,,Sold,ALAMEDA
+573,2556 Wilde Ave,5.0,5.0,Pleasanton,"3,976 sqft","Jul 5, 2013","$1,665,000",37.688946,-121.865875,CA,Single-Family Home,1665000,"$1,832,000",94588,,,,Sold,ALAMEDA
+574,4746 Mchenry Gate Way,3.0,4.0,Pleasanton,"2,050 sqft","Jul 5, 2013","$875,000",37.685177,-121.88215,CA,Single-Family Home,875000,"$1,037,000",94566,,,,Sold,ALAMEDA
+575,3232 Flemington Ct,3.0,6.0,Pleasanton,"1,988 sqft","Jul 3, 2013","$850,000",37.6949,-121.86867,CA,Single-Family Home,850000,"$1,034,000",94588,,,,Sold,ALAMEDA
+576,3486 Smoketree Commons,2.0,2.0,Pleasanton,938 sqft,"Jul 3, 2013","$360,000",37.663372,-121.85594,CA,Condo,360000,"$409,000",94566,,,,Sold,ALAMEDA
+577,4432 Del Valle Pkwy,,,Pleasanton,"1,280 sqft","Jul 3, 2013","$425,000",37.666443,-121.87812,CA,Townhouse,425000,"$548,000",94566,,,,Sold,ALAMEDA
+578,7755 Country Ln,5.0,4.0,Pleasanton,"4,496 sqft","Jul 3, 2013","$1,800,000",37.62868,-121.88769,CA,Single-Family Home,1800000,"$1,936,000",94566,,,,Sold,ALAMEDA
+579,5877 San Juan Way,3.5,4.0,Pleasanton,"2,572 sqft","Jul 1, 2013","$1,095,000",37.646416,-121.877625,CA,Single-Family Home,1095000,"$1,165,000",94566,,,,Sold,ALAMEDA
+580,5040 Rigatti Cir,2.5,3.0,Pleasanton,"1,726 sqft","Jul 1, 2013","$775,000",37.694065,-121.8882,CA,Single-Family Home,775000,"$839,000",94588,,,,Sold,ALAMEDA
+581,825 Abbie St,2.5,4.0,Pleasanton,"2,506 sqft","Jun 28, 2013","$950,000",37.653084,-121.86601,CA,Single-Family Home,950000,"$1,133,000",94566,,,,Sold,ALAMEDA
+582,1516 Poppybank Ct,3.5,3.0,Pleasanton,"1,900 sqft","Jun 28, 2013","$660,000",37.679626,-121.86688,CA,Single-Family Home,660000,"$916,000",94566,,,,Sold,ALAMEDA
+583,3096 Bolero Ct,2.0,2.0,Pleasanton,"1,302 sqft","Jun 28, 2013","$454,000",37.6872,-121.88554,CA,Townhouse,454000,"$555,000",94588,,,,Sold,ALAMEDA
+584,6828 Corte Salcedo,2.0,4.0,Pleasanton,"1,928 sqft","Jun 28, 2013","$795,500",37.66635,-121.903625,CA,Single-Family Home,795500,"$953,000",94566,,,,Sold,ALAMEDA
+585,496 Bunker Ln,3.5,4.0,Pleasanton,"3,606 sqft","Jun 28, 2013","$1,580,000",37.63406,-121.88973,CA,Single-Family Home,1580000,"$1,707,000",94566,,,,Sold,ALAMEDA
+586,3903 Vine St,2.0,2.0,Pleasanton,860 sqft,"Jun 28, 2013","$330,000",37.66517,-121.8647,CA,Townhouse,330000,"$456,000",94566,,,,Sold,ALAMEDA
+587,4322 Fairlands Dr,2.5,2.0,Pleasanton,"1,526 sqft","Jun 28, 2013","$522,500",37.693424,-121.876526,CA,Townhouse,522500,"$573,000",94588,,,,Sold,ALAMEDA
+588,5630 Belleza Dr,2.0,2.0,Pleasanton,"1,302 sqft","Jun 28, 2013","$460,000",37.687782,-121.88548,CA,Townhouse,460000,"$571,000",94588,,,,Sold,ALAMEDA
+589,6324 Inspiration Ter,5.5,5.0,Pleasanton,"7,420 sqft","Jun 28, 2013","$2,550,000",37.628708,-121.86958,CA,Single-Family Home,2550000,"$3,000,000",94566,,,,Sold,ALAMEDA
+590,5612 Belleza Dr,3.0,4.0,Pleasanton,"1,928 sqft","Jun 28, 2013","$635,000",37.68788,-121.88426,CA,Townhouse,635000,"$770,000",94588,,,,Sold,ALAMEDA
+591,3128 Devereux Ct,3.5,4.0,Pleasanton,"3,853 sqft","Jun 28, 2013","$1,513,000",37.662357,-121.909424,CA,Single-Family Home,1513000,"$1,735,000",94588,,,,Sold,ALAMEDA
+592,1840 Sinclair Dr,2.0,2.0,Pleasanton,"1,478 sqft","Jun 28, 2013","$668,000",37.68337,-121.87091,CA,Single-Family Home,668000,"$689,000",94588,,,,Sold,ALAMEDA
+593,1153 Via Di Salerno,5.5,5.0,Pleasanton,"6,565 sqft","Jun 28, 2013","$2,250,000",37.643364,-121.808365,CA,Single-Family Home,2250000,"$2,435,000",94566,,,,Sold,ALAMEDA
+594,6586 Inglewood Dr,2.0,4.0,Pleasanton,"1,489 sqft","Jun 28, 2013","$700,000",37.687435,-121.91112,CA,Single-Family Home,700000,"$748,000",94588,,,,Sold,ALAMEDA
+595,1798 Paseo Del Cajon,2.5,5.0,Pleasanton,"1,886 sqft","Jun 28, 2013","$775,000",37.669857,-121.89081,CA,Single-Family Home,775000,"$842,000",94566,,,,Sold,ALAMEDA
+596,2683 Lin Gate Ct,2.5,4.0,Pleasanton,"1,882 sqft","Jun 28, 2013","$790,000",37.68776,-121.88055,CA,Single-Family Home,790000,"$976,000",94566,,,,Sold,ALAMEDA
+597,488 Bunker Ln,4.5,5.0,Pleasanton,"3,889 sqft","Jun 27, 2013","$1,650,000",37.63429,-121.88995,CA,Single-Family Home,1650000,"$1,829,000",94566,,,,Sold,ALAMEDA
+598,3082 Paseo Granada,2.5,3.0,Pleasanton,"3,039 sqft","Jun 27, 2013","$1,010,000",37.669765,-121.90392,CA,Single-Family Home,1010000,"$1,280,000",94566,,,,Sold,ALAMEDA
+599,2740 Laramie Gate Cir,3.0,4.0,Pleasanton,"1,897 sqft","Jun 26, 2013","$860,000",37.686028,-121.87996,CA,Single-Family Home,860000,"$1,021,000",94566,,,,Sold,ALAMEDA
+600,3934 Vineyard Ave,2.0,3.0,Pleasanton,"1,520 sqft","Jun 26, 2013","$501,000",37.66285,-121.86527,CA,Single-Family Home,501000,"$811,000",94566,,,,Sold,ALAMEDA
+601,4009 San Giorgio Ct,2.0,2.0,Pleasanton,"1,064 sqft","Jun 26, 2013","$462,000",37.694218,-121.89201,CA,Townhouse,462000,"$538,000",94588,,,,Sold,ALAMEDA
+602,3108 Tokay Ct,3.0,5.0,Pleasanton,"2,830 sqft","Jun 25, 2013","$1,200,000",37.65753,-121.844284,CA,Single-Family Home,1200000,"$1,209,000",94566,,,,Sold,ALAMEDA
+603,1772 Zenato Pl,4.0,4.0,Pleasanton,"3,843 sqft","Jun 25, 2013","$1,675,000",37.64764,-121.82145,CA,Single-Family Home,1675000,"$1,921,000",94566,,,,Sold,ALAMEDA
+604,4149 Cristobal Way,2.0,3.0,Pleasanton,"1,159 sqft","Jun 24, 2013","$648,000",37.67471,-121.87183,CA,Single-Family Home,648000,"$723,000",94566,,,,Sold,ALAMEDA

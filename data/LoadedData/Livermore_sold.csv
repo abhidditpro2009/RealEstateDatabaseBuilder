@@ -1,0 +1,877 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94551,825 Dakota Ct,2,4,Livermore,"1,872 sqft",4-Mar-14,"$620,000 ",37.68762,-121.7873,CA,Single-Family Home,620000,"$637,000 ",,,,,Sold,ALAMEDA
+94550,748 Lido Dr,2,3,Livermore,"1,651 sqft",4-Mar-14,"$650,000 ",37.66287,-121.78883,CA,Single-Family Home,650000,"$622,000 ",,,,,Sold,ALAMEDA
+94550,4935 Candy Ct,2,3,Livermore,"1,842 sqft",4-Mar-14,"$698,000 ",37.693733,-121.73457,CA,Single-Family Home,698000,"$749,000 ",,,,,Sold,ALAMEDA
+94551,564 Everglades Ln,2,3,Livermore,"1,450 sqft",3-Mar-14,"$605,000 ",37.68492,-121.80296,CA,Single-Family Home,605000,"$634,000 ",,,,,Sold,ALAMEDA
+94551,760 N N St,1,2,Livermore,794 sqft,28-Feb-14,"$400,000 ",37.68851,-121.77711,CA,Single-Family Home,400000,"$426,000 ",,,,,Sold,ALAMEDA
+94551,1468 Wilton Rd,2,3,Livermore,"1,366 sqft",28-Feb-14,"$600,000 ",37.694252,-121.79523,CA,Single-Family Home,600000,"$596,000 ",,,,,Sold,ALAMEDA
+94550,5289 Kisa Ct,2,4,Livermore,"1,758 sqft",28-Feb-14,"$615,000 ",37.68525,-121.72917,CA,Single-Family Home,615000,"$667,000 ",,,,,Sold,ALAMEDA
+94550,1977 Altair Ave,2.5,4,Livermore,"3,092 sqft",28-Feb-14,"$1,099,000 ",37.65762,-121.7956,CA,Single-Family Home,1099000,"$1,060,000 ",,,,,Sold,ALAMEDA
+94550,67 Medina St,2,4,Livermore,"1,798 sqft",28-Feb-14,"$640,000 ",37.691597,-121.74104,CA,Single-Family Home,640000,"$765,000 ",,,,,Sold,ALAMEDA
+94550,2834 Carmen Ave,2,3,Livermore,"1,223 sqft",28-Feb-14,"$630,000 ",37.67582,-121.75972,CA,Single-Family Home,630000,"$656,000 ",,,,,Sold,ALAMEDA
+94550,879 Tolentino Ct,5.5,6,Livermore,"5,589 sqft",28-Feb-14,"$1,600,000 ",37.646053,-121.7845,CA,Single-Family Home,1600000,"$1,737,000 ",,,,,Sold,ALAMEDA
+94550,1008 Redondo Way,2,3,Livermore,"1,148 sqft",28-Feb-14,"$475,000 ",37.66656,-121.783295,CA,Single-Family Home,475000,"$531,000 ",,,,,Sold,ALAMEDA
+94551,3088 Bridle Ct,2.5,4,Livermore,"1,856 sqft",28-Feb-14,"$643,500 ",37.7304,-121.732765,CA,Single-Family Home,643500,"$696,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,28-Feb-14,"$482,500 ",37.70817,-121.803925,CA,Unknown,482500,,,,,,Sold,ALAMEDA
+94550,1120 Wynn Cir,2,3,Livermore,"1,536 sqft",28-Feb-14,"$674,000 ",37.681557,-121.73583,CA,Single-Family Home,674000,"$715,000 ",,,,,Sold,ALAMEDA
+94550,2493 4th St,1,2,Livermore,893 sqft,28-Feb-14,"$350,000 ",37.680634,-121.76461,CA,Single-Family Home,350000,"$505,000 ",,,,,Sold,ALAMEDA
+94550,223 Sonia Way,,,Livermore,,27-Feb-14,"$769,000 ",37.687866,-121.74803,CA,Lot/Land,769000,,,,,,Sold,ALAMEDA
+94551,4023 Emerson Dr,2.5,4,Livermore,"2,483 sqft",27-Feb-14,"$811,000 ",37.695763,-121.749176,CA,Single-Family Home,811000,"$853,000 ",,,,,Sold,ALAMEDA
+94551,1210 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",27-Feb-14,"$350,000 ",37.706795,-121.74454,CA,Townhouse,350000,"$421,000 ",,,,,Sold,ALAMEDA
+94551,829 Olivina Ave,2,4,Livermore,"1,300 sqft",27-Feb-14,"$495,000 ",37.68269,-121.78594,CA,Single-Family Home,495000,"$516,000 ",,,,,Sold,ALAMEDA
+94550,2311 Vintage Ln,4.5,5,Livermore,"4,226 sqft",27-Feb-14,"$1,510,000 ",37.663235,-121.7646,CA,Single-Family Home,1510000,"$1,561,000 ",,,,,Sold,ALAMEDA
+94551,2194 Elsa Cmn,2.5,3,Livermore,"1,911 sqft",26-Feb-14,"$585,000 ",37.69421,-121.77418,CA,Single-Family Home,585000,"$691,000 ",,,,,Sold,ALAMEDA
+94550,1832 Railroad Ave #100,,,Livermore,,26-Feb-14,"$485,000 ",37.682156,-121.77436,CA,Unknown,485000,,,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,26-Feb-14,"$466,000 ",37.70817,-121.803925,CA,Unknown,466000,,,,,,Sold,ALAMEDA
+94550,5349 Lenore Ave,2,2,Livermore,967 sqft,26-Feb-14,"$425,000 ",37.69189,-121.72756,CA,Single-Family Home,425000,"$497,000 ",,,,,Sold,ALAMEDA
+94550,2823 Bresso Ct,3,4,Livermore,"2,890 sqft",26-Feb-14,"$1,015,000 ",37.650806,-121.78409,CA,Single-Family Home,1015000,"$1,074,000 ",,,,,Sold,ALAMEDA
+94550,1869 3rd St,2,2,Livermore,995 sqft,25-Feb-14,"$500,000 ",37.678738,-121.77206,CA,Single-Family Home,500000,"$507,000 ",,,,,Sold,ALAMEDA
+94551,479 Hummingbird Ln,2,4,Livermore,"1,536 sqft",25-Feb-14,"$580,000 ",37.68034,-121.79686,CA,Single-Family Home,580000,"$654,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,25-Feb-14,"$467,500 ",37.70817,-121.803925,CA,Unknown,467500,,,,,,Sold,ALAMEDA
+94551,1072 Bluebell Dr,,,Livermore,"2,072 sqft",25-Feb-14,"$550,000 ",37.708115,-121.73582,CA,Multi-Family,550000,"$581,000 ",,,,,Sold,ALAMEDA
+94550,1225 Hansen Rd,3,4,Livermore,"2,957 sqft",24-Feb-14,"$1,200,000 ",37.64656,-121.78053,CA,Single-Family Home,1200000,"$1,208,000 ",,,,,Sold,ALAMEDA
+94550,742 Debra St,2.5,4,Livermore,"1,907 sqft",24-Feb-14,"$475,000 ",37.68878,-121.73004,CA,Single-Family Home,475000,"$594,000 ",,,,,Sold,ALAMEDA
+94551,244 Selby Ln,,,Livermore,,21-Feb-14,"$679,000 ",37.708942,-121.801155,CA,Lot/Land,679000,,,,,,Sold,ALAMEDA
+94550,788 S Livermore Ave,1,3,Livermore,"1,222 sqft",21-Feb-14,"$565,000 ",37.677856,-121.7614,CA,Single-Family Home,565000,"$556,000 ",,,,,Sold,ALAMEDA
+94550,1373 Buckhorn Creek Rd,2.5,4,Livermore,"2,578 sqft",21-Feb-14,"$824,500 ",37.669647,-121.764755,CA,Single-Family Home,824500,"$928,000 ",,,,,Sold,ALAMEDA
+94551,660 Splitrail Ct,2,3,Livermore,"1,348 sqft",21-Feb-14,"$590,000 ",37.69885,-121.79181,CA,Single-Family Home,590000,"$641,000 ",,,,,Sold,ALAMEDA
+94550,3927 Princeton Way,2,3,Livermore,"1,371 sqft",21-Feb-14,"$560,500 ",37.68121,-121.75026,CA,Single-Family Home,560500,"$580,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,21-Feb-14,"$556,500 ",37.70817,-121.803925,CA,Unknown,556500,,,,,,Sold,ALAMEDA
+94551,4757 Bel Roma Rd,2,3,Livermore,"3,084 sqft",20-Feb-14,"$949,000 ",37.743755,-121.76202,CA,Farm/Ranch,949000,"$1,291,000 ",,,,,Sold,ALAMEDA
+94551,187 Wildrose Cmn #1203,2.5,3,Livermore,"1,322 sqft",20-Feb-14,"$460,000 ",37.7093,-121.806305,CA,Condo,460000,"$504,000 ",,,,,Sold,ALAMEDA
+94550,3832 Princeton Way,1,3,Livermore,"1,112 sqft",20-Feb-14,"$475,000 ",37.68167,-121.75405,CA,Single-Family Home,475000,"$497,000 ",,,,,Sold,ALAMEDA
+94551,2201 Del Monte St,,,Livermore,"1,781 sqft",20-Feb-14,"$565,000 ",37.72305,-121.724724,CA,Single-Family Home,565000,"$699,000 ",,,,,Sold,ALAMEDA
+94550,1930 Depot Dr #110,2.5,3,Livermore,"1,734 sqft",20-Feb-14,"$490,000 ",37.68323,-121.773415,CA,Condo,490000,"$589,000 ",,,,,Sold,ALAMEDA
+94550,590 Regulus Rd,3,4,Livermore,"2,958 sqft",19-Feb-14,"$1,111,500 ",37.659252,-121.79127,CA,Single-Family Home,1111500,"$1,191,000 ",,,,,Sold,ALAMEDA
+94551,1284 Marigold Rd,2,2,Livermore,"1,280 sqft",19-Feb-14,"$415,000 ",37.711254,-121.737755,CA,Single-Family Home,415000,"$504,000 ",,,,,Sold,ALAMEDA
+94551,4293 Bellmawr Dr,2.5,4,Livermore,"2,483 sqft",19-Feb-14,"$815,500 ",37.69753,-121.7457,CA,Single-Family Home,815500,"$919,000 ",,,,,Sold,ALAMEDA
+94550,1324 Chateau Cmn #204,2,2,Livermore,918 sqft,19-Feb-14,"$316,000 ",37.671688,-121.75475,CA,Condo,316000,"$337,000 ",,,,,Sold,ALAMEDA
+94551,620 Swallow Dr,2,4,Livermore,"1,462 sqft",19-Feb-14,"$620,000 ",37.684376,-121.79746,CA,Single-Family Home,620000,"$610,000 ",,,,,Sold,ALAMEDA
+94550,3990 Princeton Way,2,3,Livermore,"1,508 sqft",19-Feb-14,"$483,500 ",37.681587,-121.74862,CA,Single-Family Home,483500,"$554,000 ",,,,,Sold,ALAMEDA
+94550,1874 Railroad Ave #102,3.5,3,Livermore,"1,780 sqft",19-Feb-14,"$525,000 ",37.68231,-121.77381,CA,Condo,525000,"$546,000 ",,,,,Sold,ALAMEDA
+94551,1467 Portola Meadows Rd,3,3,Livermore,"1,752 sqft",18-Feb-14,"$575,000 ",37.694916,-121.776855,CA,Townhouse,575000,"$607,000 ",,,,,Sold,ALAMEDA
+94551,1858 Corte Cava,2.5,3,Livermore,"1,840 sqft",18-Feb-14,"$595,000 ",37.693405,-121.776306,CA,Townhouse,595000,"$609,000 ",,,,,Sold,ALAMEDA
+94550,1947 6th St,3.5,3,Livermore,"2,018 sqft",14-Feb-14,"$719,000 ",37.676624,-121.76998,CA,Multi-Family,719000,,,,,,Sold,ALAMEDA
+94551,1790 Elm St,1,2,Livermore,"1,837 sqft",14-Feb-14,"$400,000 ",37.68807,-121.77761,CA,Single-Family Home,400000,"$584,000 ",,,,,Sold,ALAMEDA
+94550,768 Adams Ave,2,5,Livermore,"2,436 sqft",14-Feb-14,"$549,000 ",37.682735,-121.74239,CA,Single-Family Home,549000,"$712,000 ",,,,,Sold,ALAMEDA
+94551,250 Selby Ln,,,Livermore,,14-Feb-14,"$754,500 ",37.70884,-121.80113,CA,Lot/Land,754500,,,,,,Sold,ALAMEDA
+94551,2075 Ponderosa Dr,2,3,Livermore,"1,110 sqft",14-Feb-14,"$460,000 ",37.714184,-121.75085,CA,Single-Family Home,460000,"$486,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,14-Feb-14,"$570,500 ",37.70817,-121.803925,CA,Unknown,570500,,,,,,Sold,ALAMEDA
+94551,2924 Sage Cmn,3,3,Livermore,"1,742 sqft",14-Feb-14,"$650,000 ",37.70843,-121.79931,CA,Single-Family Home,650000,"$704,000 ",,,,,Sold,ALAMEDA
+94550,2448 Lakeside Cir,3.5,4,Livermore,"3,405 sqft",13-Feb-14,"$1,150,500 ",37.651485,-121.79193,CA,Single-Family Home,1150500,"$1,204,000 ",,,,,Sold,ALAMEDA
+94550,342 Chris Cmn #101,1,1,Livermore,610 sqft,13-Feb-14,"$225,000 ",37.68832,-121.73793,CA,Condo,225000,"$243,000 ",,,,,Sold,ALAMEDA
+94550,770 Grace St,2,3,Livermore,"1,200 sqft",13-Feb-14,"$511,500 ",37.669746,-121.78841,CA,Single-Family Home,511500,"$542,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,13-Feb-14,"$560,000 ",37.70817,-121.803925,CA,Unknown,560000,,,,,,Sold,ALAMEDA
+94550,3520 Madeira Way,2,3,Livermore,"1,037 sqft",11-Feb-14,"$487,000 ",37.685425,-121.75845,CA,Single-Family Home,487000,"$503,000 ",,,,,Sold,ALAMEDA
+94550,4945 Erica Way,2,2,Livermore,"1,146 sqft",11-Feb-14,"$470,000 ",37.692883,-121.734505,CA,Single-Family Home,470000,"$547,000 ",,,,,Sold,ALAMEDA
+94551,238 Selby Ln,,,Livermore,,10-Feb-14,"$628,490 ",37.709023,-121.80117,CA,Lot/Land,628490,,,,,,Sold,ALAMEDA
+94551,2063 Ponderosa Dr,2,3,Livermore,"1,305 sqft",7-Feb-14,"$471,000 ",37.71405,-121.750854,CA,Single-Family Home,471000,"$519,000 ",,,,,Sold,ALAMEDA
+94551,5537 Crestmont Ave,2,4,Livermore,"1,520 sqft",7-Feb-14,"$490,000 ",37.71989,-121.73181,CA,Single-Family Home,490000,"$560,000 ",,,,,Sold,ALAMEDA
+94551,226 Selby Ln,,,Livermore,,7-Feb-14,"$716,500 ",37.70897,-121.80145,CA,Lot/Land,716500,,,,,,Sold,ALAMEDA
+94550,667 Sonoma Ave,2,3,Livermore,"1,404 sqft",7-Feb-14,"$555,000 ",37.672947,-121.79108,CA,Single-Family Home,555000,"$576,000 ",,,,,Sold,ALAMEDA
+94551,333 Michell St,2,3,Livermore,"1,080 sqft",7-Feb-14,"$450,000 ",37.68998,-121.76017,CA,Single-Family Home,450000,"$504,000 ",,,,,Sold,ALAMEDA
+94551,698 Austen Way,2.5,4,Livermore,"2,975 sqft",7-Feb-14,"$855,000 ",37.69682,-121.74953,CA,Single-Family Home,855000,"$1,020,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,7-Feb-14,"$560,500 ",37.70817,-121.803925,CA,Unknown,560500,,,,,,Sold,ALAMEDA
+94551,1016 Bellflower St,2.5,4,Livermore,"1,924 sqft",6-Feb-14,"$565,000 ",37.71078,-121.73261,CA,Single-Family Home,565000,"$614,000 ",,,,,Sold,ALAMEDA
+94550,5319 Charlotte Way,2,3,Livermore,"1,588 sqft",6-Feb-14,"$533,500 ",37.6858,-121.72846,CA,Single-Family Home,533500,"$616,000 ",,,,,Sold,ALAMEDA
+94551,1532 Olivina Ave,1,3,Livermore,"1,120 sqft",6-Feb-14,"$401,000 ",37.683247,-121.77898,CA,Single-Family Home,401000,"$440,000 ",,,,,Sold,ALAMEDA
+94551,2123 Rapallo Cmn,2.5,4,Livermore,"2,061 sqft",5-Feb-14,"$629,000 ",37.69393,-121.773605,CA,Single-Family Home,629000,"$740,000 ",,,,,Sold,ALAMEDA
+94551,187 Selby Ln,2.5,2,Livermore,"1,379 sqft",4-Feb-14,"$483,000 ",37.708378,-121.801834,CA,Single-Family Home,483000,"$557,000 ",,,,,Sold,ALAMEDA
+94551,762 Hanover St,2,5,Livermore,"1,743 sqft",4-Feb-14,"$565,000 ",37.69342,-121.79121,CA,Single-Family Home,565000,"$655,000 ",,,,,Sold,ALAMEDA
+94550,1272 Deep Creek Rd,2.5,4,Livermore,"2,485 sqft",4-Feb-14,"$770,000 ",37.669647,-121.765305,CA,Single-Family Home,770000,"$919,000 ",,,,,Sold,ALAMEDA
+94551,1699 Peachtree Cmn,2,2,Livermore,944 sqft,4-Feb-14,"$325,000 ",37.70955,-121.74249,CA,Townhouse,325000,"$405,000 ",,,,,Sold,ALAMEDA
+94551,1476 Maplewood Dr,2.5,3,Livermore,"1,655 sqft",3-Feb-14,"$585,000 ",37.719215,-121.72258,CA,Single-Family Home,585000,"$623,000 ",,,,,Sold,ALAMEDA
+94550,231 Prato Way,4.5,6,Livermore,"3,532 sqft",31-Jan-14,"$1,135,000 ",37.659794,-121.801926,CA,Single-Family Home,1135000,"$1,270,000 ",,,,,Sold,ALAMEDA
+94551,1798 Mira Loma St,2,3,Livermore,"1,494 sqft",31-Jan-14,"$465,000 ",37.718494,-121.73192,CA,Single-Family Home,465000,"$570,000 ",,,,,Sold,ALAMEDA
+94551,498 Colusa Way,2,3,Livermore,"1,290 sqft",31-Jan-14,"$510,000 ",37.69701,-121.795,CA,Single-Family Home,510000,"$606,000 ",,,,,Sold,ALAMEDA
+94550,2352 8th St,2,3,Livermore,"2,507 sqft",31-Jan-14,"$785,000 ",37.676704,-121.76423,CA,Single-Family Home,785000,"$828,000 ",,,,,Sold,ALAMEDA
+94550,1148 Arroyo Rd,,,Livermore,,31-Jan-14,"$2,585,000 ",37.671413,-121.767555,CA,Multi-Family,2585000,,,,,,Sold,ALAMEDA
+94550,4671 Laurie Cmn #105,2,2,Livermore,871 sqft,31-Jan-14,"$285,000 ",37.689045,-121.73791,CA,Condo,285000,"$317,000 ",,,,,Sold,ALAMEDA
+94551,839 Seminole Dr,2,3,Livermore,"1,282 sqft",30-Jan-14,"$525,000 ",37.688946,-121.787865,CA,Single-Family Home,525000,"$554,000 ",,,,,Sold,ALAMEDA
+94551,6153 Saint Andrews Way,2.5,4,Livermore,"1,677 sqft",29-Jan-14,"$483,000 ",37.71468,-121.72213,CA,Single-Family Home,483000,"$598,000 ",,,,,Sold,ALAMEDA
+94551,375 Summertree Dr,3,4,Livermore,"2,239 sqft",29-Jan-14,"$685,000 ",37.67826,-121.79819,CA,Single-Family Home,685000,"$804,000 ",,,,,Sold,ALAMEDA
+94550,273 Hillcrest Ave,2,3,Livermore,"1,204 sqft",29-Jan-14,"$440,000 ",37.686005,-121.74862,CA,Single-Family Home,440000,"$530,000 ",,,,,Sold,ALAMEDA
+94550,5496 Theresa Way,2,3,Livermore,"1,588 sqft",29-Jan-14,"$602,000 ",37.686882,-121.72786,CA,Single-Family Home,602000,"$621,000 ",,,,,Sold,ALAMEDA
+94551,2850 Hoya Cmn,3,3,Livermore,"1,600 sqft",28-Jan-14,"$594,000 ",37.707703,-121.80055,CA,Single-Family Home,594000,"$633,000 ",,,,,Sold,ALAMEDA
+94551,612 Andrews St,1,3,Livermore,"1,065 sqft",27-Jan-14,"$430,000 ",37.685795,-121.78216,CA,Single-Family Home,430000,"$427,000 ",,,,,Sold,ALAMEDA
+94551,654 Colusa Way,2,3,Livermore,"1,427 sqft",27-Jan-14,"$505,000 ",37.696175,-121.791794,CA,Single-Family Home,505000,"$606,000 ",,,,,Sold,ALAMEDA
+94551,6023 Climbing Rose Cmn,2.5,3,Livermore,"1,999 sqft",27-Jan-14,"$525,000 ",37.71938,-121.72337,CA,Single-Family Home,525000,"$691,000 ",,,,,Sold,ALAMEDA
+94550,944 Lisbon Ave,2,4,Livermore,"1,591 sqft",24-Jan-14,"$549,000 ",37.67141,-121.78344,CA,Single-Family Home,549000,"$628,000 ",,,,,Sold,ALAMEDA
+94551,232 Selby Ln,,,Livermore,,24-Jan-14,"$656,000 ",37.709106,-121.801186,CA,Lot/Land,656000,,,,,,Sold,ALAMEDA
+94551,2094 Pinon Ct,2,3,Livermore,"1,305 sqft",24-Jan-14,"$530,000 ",37.71435,-121.7496,CA,Single-Family Home,530000,"$555,000 ",,,,,Sold,ALAMEDA
+94550,185 Barber St,2,4,Livermore,"1,477 sqft",24-Jan-14,"$530,000 ",37.687485,-121.74908,CA,Single-Family Home,530000,"$621,000 ",,,,,Sold,ALAMEDA
+94550,973 Lisbon Ave,2,3,Livermore,"1,645 sqft",24-Jan-14,"$500,000 ",37.670807,-121.78355,CA,Single-Family Home,500000,"$648,000 ",,,,,Sold,ALAMEDA
+94551,2053 Rapallo Cmn,2.5,3,Livermore,"1,911 sqft",23-Jan-14,"$610,000 ",37.69351,-121.774796,CA,Single-Family Home,610000,"$680,000 ",,,,,Sold,ALAMEDA
+94551,2805 Hoya Cmn,3,3,Livermore,"1,603 sqft",23-Jan-14,"$610,000 ",37.70749,-121.80021,CA,Single-Family Home,610000,"$664,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,23-Jan-14,"$517,000 ",37.70817,-121.803925,CA,Condo,517000,,,,,,Sold,ALAMEDA
+94550,422 Robert Way,2,3,Livermore,"1,593 sqft",23-Jan-14,"$515,000 ",37.676777,-121.797,CA,Single-Family Home,515000,"$600,000 ",,,,,Sold,ALAMEDA
+94550,1001 Murrieta Blvd #14,1.5,2,Livermore,947 sqft,22-Jan-14,"$226,000 ",37.675262,-121.783936,CA,Condo,226000,"$265,000 ",,,,,Sold,ALAMEDA
+94551,850 Lucerne St,2.5,4,Livermore,"2,421 sqft",22-Jan-14,"$805,000 ",37.687447,-121.79423,CA,Single-Family Home,805000,"$833,000 ",,,,,Sold,ALAMEDA
+94551,2918 Kiwi Cmn,3,3,Livermore,"1,603 sqft",22-Jan-14,"$585,000 ",37.708126,-121.80078,CA,Single-Family Home,585000,"$649,000 ",,,,,Sold,ALAMEDA
+94550,1566 Melanie Way,2.5,3,Livermore,"2,704 sqft",22-Jan-14,"$795,000 ",37.685017,-121.719055,CA,Single-Family Home,795000,"$918,000 ",,,,,Sold,ALAMEDA
+94551,2890 Kew Ave,,,Livermore,,22-Jan-14,"$518,500 ",37.70817,-121.803925,CA,Unknown,518500,,,,,,Sold,ALAMEDA
+94550,333 Lincoln Ave,2,4,Livermore,"1,759 sqft",22-Jan-14,"$620,000 ",37.686436,-121.745575,CA,Single-Family Home,620000,"$643,000 ",,,,,Sold,ALAMEDA
+94550,1874 Valley Of The Moon Rd,3,5,Livermore,"3,141 sqft",21-Jan-14,"$1,025,000 ",37.657192,-121.79621,CA,Single-Family Home,1025000,"$1,180,000 ",,,,,Sold,ALAMEDA
+94551,6420 Forget Me Not,2.5,2,Livermore,"1,225 sqft",21-Jan-14,"$380,000 ",37.714287,-121.72141,CA,Condo,380000,"$418,000 ",,,,,Sold,ALAMEDA
+94551,545 Heligan Ln #4,2,3,Livermore,"1,806 sqft",17-Jan-14,"$565,000 ",37.707905,-121.7983,CA,Single-Family Home,565000,"$636,000 ",,,,,Sold,ALAMEDA
+94550,588 Tyler Ave,2,4,Livermore,"1,826 sqft",17-Jan-14,"$565,000 ",37.684944,-121.74332,CA,Single-Family Home,565000,"$668,000 ",,,,,Sold,ALAMEDA
+94550,1265 College Ave,2,3,Livermore,"1,230 sqft",17-Jan-14,"$445,000 ",37.67583,-121.778725,CA,Single-Family Home,445000,"$587,000 ",,,,,Sold,ALAMEDA
+94551,5203 Lilac Ave,2,3,Livermore,"1,392 sqft",17-Jan-14,"$435,000 ",37.71409,-121.73859,CA,Single-Family Home,435000,"$543,000 ",,,,,Sold,ALAMEDA
+94551,1372 Spring Valley Cmn,2.5,4,Livermore,"1,344 sqft",17-Jan-14,"$340,000 ",37.707676,-121.74601,CA,Townhouse,340000,"$430,000 ",,,,,Sold,ALAMEDA
+94551,4715 Apple Tree Cmn,2,2,Livermore,944 sqft,17-Jan-14,"$373,000 ",37.70879,-121.74289,CA,Townhouse,373000,"$425,000 ",,,,,Sold,ALAMEDA
+94550,788 Marcella St,2,4,Livermore,"1,899 sqft",17-Jan-14,"$645,500 ",37.686474,-121.73586,CA,Single-Family Home,645500,"$788,000 ",,,,,Sold,ALAMEDA
+94550,2987 Lerida Ct,2.5,3,Livermore,"3,062 sqft",15-Jan-14,"$1,075,000 ",37.649162,-121.77115,CA,Single-Family Home,1075000,"$1,179,000 ",,,,,Sold,ALAMEDA
+94550,488 Bell Ave,2.5,3,Livermore,"2,066 sqft",15-Jan-14,"$690,000 ",37.66143,-121.7943,CA,Single-Family Home,690000,"$688,000 ",,,,,Sold,ALAMEDA
+94550,1569 De Soto Way,2,4,Livermore,"2,024 sqft",15-Jan-14,"$780,000 ",37.66749,-121.773056,CA,Single-Family Home,780000,"$769,000 ",,,,,Sold,ALAMEDA
+94550,341 Marie Cmn,2.5,3,Livermore,"1,516 sqft",15-Jan-14,"$482,000 ",37.690495,-121.73744,CA,Single-Family Home,482000,"$545,000 ",,,,,Sold,ALAMEDA
+94550,1047 Montclair Ct,3,5,Livermore,"2,396 sqft",15-Jan-14,"$775,000 ",37.679226,-121.74964,CA,Single-Family Home,775000,"$812,000 ",,,,,Sold,ALAMEDA
+94550,772 Polaris Way,2,5,Livermore,"2,300 sqft",15-Jan-14,"$820,000 ",37.658817,-121.78752,CA,Single-Family Home,820000,"$838,000 ",,,,,Sold,ALAMEDA
+94550,3841 Dartmouth Way,1,3,Livermore,"1,437 sqft",15-Jan-14,"$450,000 ",37.684803,-121.753685,CA,Single-Family Home,450000,"$538,000 ",,,,,Sold,ALAMEDA
+94551,1142 Riviera Ct,2.5,3,Livermore,"1,795 sqft",15-Jan-14,"$630,000 ",37.716343,-121.722015,CA,Single-Family Home,630000,"$650,000 ",,,,,Sold,ALAMEDA
+94551,6605 Forget Me Not,2.5,2,Livermore,"1,225 sqft",14-Jan-14,"$388,000 ",37.714485,-121.723755,CA,Condo,388000,"$429,000 ",,,,,Sold,ALAMEDA
+94551,5945 Running Hills Ave,2,4,Livermore,"1,258 sqft",13-Jan-14,"$430,000 ",37.72119,-121.725296,CA,Single-Family Home,430000,"$506,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,10-Jan-14,"$530,000 ",37.70831,-121.803635,CA,Condo,530000,,,,,,Sold,ALAMEDA
+94550,658 Mcleod St,1,2,Livermore,"1,050 sqft",10-Jan-14,"$660,000 ",37.679523,-121.76181,CA,Single-Family Home,660000,"$631,000 ",,,,,Sold,ALAMEDA
+94551,1844 Elm St,2,4,Livermore,"2,256 sqft",10-Jan-14,"$600,000 ",37.688313,-121.77675,CA,Multi-Family,600000,,,,,,Sold,ALAMEDA
+94550,104 Diamond Dr,2,3,Livermore,"1,356 sqft",10-Jan-14,"$162,500 ",37.667423,-121.8011,CA,Single-Family Home,162500,"$635,000 ",,,,,Sold,ALAMEDA
+94551,1458 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",9-Jan-14,"$335,500 ",37.70797,-121.74692,CA,Townhouse,335500,"$437,000 ",,,,,Sold,ALAMEDA
+94550,2270 Chardonnay Way,3,4,Livermore,"3,828 sqft",8-Jan-14,"$1,475,000 ",37.66535,-121.76511,CA,Single-Family Home,1475000,"$1,379,000 ",,,,,Sold,ALAMEDA
+94551,5221 Wisteria Way,2,3,Livermore,"1,712 sqft",7-Jan-14,"$500,000 ",37.710552,-121.734604,CA,Single-Family Home,500000,"$605,000 ",,,,,Sold,ALAMEDA
+94550,972 Coronado Way,2,5,Livermore,"1,676 sqft",7-Jan-14,"$580,000 ",37.664417,-121.78332,CA,Single-Family Home,580000,"$654,000 ",,,,,Sold,ALAMEDA
+94551,2155 Shetland Rd,2,3,Livermore,"1,477 sqft",7-Jan-14,"$505,000 ",37.720573,-121.744225,CA,Single-Family Home,505000,"$554,000 ",,,,,Sold,ALAMEDA
+94551,6810 Brookview Ct,3,5,Livermore,"2,787 sqft",3-Jan-14,"$688,500 ",37.727795,-121.71424,CA,Single-Family Home,688500,"$880,000 ",,,,,Sold,ALAMEDA
+94550,374 Church St,2,3,Livermore,"1,448 sqft",3-Jan-14,"$262,000 ",37.68298,-121.76316,CA,Single-Family Home,262000,"$612,000 ",,,,,Sold,ALAMEDA
+94551,5340 Hillflower Dr,2.5,3,Livermore,"1,567 sqft",3-Jan-14,"$525,000 ",37.71021,-121.73183,CA,Single-Family Home,525000,"$584,000 ",,,,,Sold,ALAMEDA
+94550,697 Sonoma Ave,1.5,3,Livermore,"1,408 sqft",2-Jan-14,"$485,000 ",37.672943,-121.79023,CA,Single-Family Home,485000,"$577,000 ",,,,,Sold,ALAMEDA
+94551,2157 Palomino Rd,2,3,Livermore,"1,225 sqft",2-Jan-14,"$420,000 ",37.72023,-121.74505,CA,Single-Family Home,420000,"$526,000 ",,,,,Sold,ALAMEDA
+94551,1498 Columbine Way,3,6,Livermore,"3,156 sqft",2-Jan-14,"$825,000 ",37.715855,-121.73304,CA,Single-Family Home,825000,"$961,000 ",,,,,Sold,ALAMEDA
+94550,715 Polaris Way,2.5,4,Livermore,"2,291 sqft",31-Dec-13,"$741,000 ",37.659145,-121.789,CA,Single-Family Home,741000,"$851,000 ",,,,,Sold,ALAMEDA
+94550,657 Hazel St,2,4,Livermore,"1,396 sqft",31-Dec-13,"$552,000 ",37.68955,-121.73155,CA,Single-Family Home,552000,"$612,000 ",,,,,Sold,ALAMEDA
+94551,1191 Bannock St,2,3,Livermore,"1,520 sqft",31-Dec-13,"$585,000 ",37.691143,-121.784904,CA,Single-Family Home,585000,"$561,000 ",,,,,Sold,ALAMEDA
+94550,3984 Devon Pl,3,4,Livermore,"2,614 sqft",31-Dec-13,"$870,000 ",37.67414,-121.75078,CA,Single-Family Home,870000,"$987,000 ",,,,,Sold,ALAMEDA
+94550,5252 Norma Way,3,5,Livermore,"2,266 sqft",31-Dec-13,"$622,500 ",37.68138,-121.729164,CA,Multi-Family,622500,"$799,000 ",,,,,Sold,ALAMEDA
+94551,542 N L St,1,3,Livermore,974 sqft,31-Dec-13,"$367,000 ",37.687138,-121.77375,CA,Single-Family Home,367000,"$423,000 ",,,,,Sold,ALAMEDA
+94550,1370 Roselli Dr,2,4,Livermore,"1,676 sqft",31-Dec-13,"$640,000 ",37.66547,-121.7856,CA,Single-Family Home,640000,"$628,000 ",,,,,Sold,ALAMEDA
+94550,2391 Wood Hollow Dr,3,4,Livermore,"3,396 sqft",30-Dec-13,"$900,000 ",37.65413,-121.79147,CA,Single-Family Home,900000,"$1,266,000 ",,,,,Sold,ALAMEDA
+94550,2884 Tahoe Dr,2,5,Livermore,"2,300 sqft",30-Dec-13,"$934,000 ",37.650158,-121.77386,CA,Single-Family Home,934000,"$939,000 ",,,,,Sold,ALAMEDA
+94550,1852 San Felice Dr,,,Livermore,,30-Dec-13,"$902,000 ",37.666115,-121.75641,CA,Single-Family Home,902000,,,,,,Sold,ALAMEDA
+94551,4669 Golf Dr,1,2,Livermore,830 sqft,30-Dec-13,"$385,000 ",37.7136,-121.74436,CA,Single-Family Home,385000,"$433,000 ",,,,,Sold,ALAMEDA
+94551,717 Oriole Ave,2,3,Livermore,"1,366 sqft",27-Dec-13,"$474,000 ",37.68667,-121.79004,CA,Single-Family Home,474000,"$515,000 ",,,,,Sold,ALAMEDA
+94551,758 N L St,1,2,Livermore,956 sqft,27-Dec-13,"$650,000 ",37.68924,-121.77465,CA,Multi-Family,650000,,,,,,Sold,ALAMEDA
+94550,1874 San Felice Dr,,,Livermore,,27-Dec-13,"$888,500 ",37.66603,-121.75641,CA,Multi-Family,888500,,,,,,Sold,ALAMEDA
+94551,4947 Hercules Ct,2,4,Livermore,"1,985 sqft",27-Dec-13,"$474,000 ",37.71654,-121.73799,CA,Single-Family Home,474000,"$667,000 ",,,,,Sold,ALAMEDA
+94551,5832 Lobelia Way,3,4,Livermore,"2,271 sqft",27-Dec-13,"$660,000 ",37.714863,-121.725685,CA,Single-Family Home,660000,"$744,000 ",,,,,Sold,ALAMEDA
+94550,370 Pearl Dr,2,3,Livermore,"1,271 sqft",27-Dec-13,"$610,000 ",37.672264,-121.80211,CA,Single-Family Home,610000,"$642,000 ",,,,,Sold,ALAMEDA
+94550,622 Lido Dr,2,3,Livermore,"1,665 sqft",27-Dec-13,"$530,000 ",37.66456,-121.79196,CA,Single-Family Home,530000,"$662,000 ",,,,,Sold,ALAMEDA
+94551,1829 Carnation Cir,2,3,Livermore,"1,240 sqft",26-Dec-13,"$471,000 ",37.71345,-121.746994,CA,Single-Family Home,471000,"$494,000 ",,,,,Sold,ALAMEDA
+94551,1627 Pinehurst Ct,3,4,Livermore,"2,158 sqft",24-Dec-13,"$600,000 ",37.716476,-121.73109,CA,Single-Family Home,600000,"$653,000 ",,,,,Sold,ALAMEDA
+94551,864 Everglades Ln,,,Livermore,"1,524 sqft",24-Dec-13,"$500,000 ",37.687965,-121.80189,CA,Single-Family Home,500000,"$658,000 ",,,,,Sold,ALAMEDA
+94550,918 Elaine Ave,2,3,Livermore,"1,352 sqft",24-Dec-13,"$520,000 ",37.66983,-121.78457,CA,Single-Family Home,520000,"$591,000 ",,,,,Sold,ALAMEDA
+94551,1432 Aster Ln,2,3,Livermore,"1,006 sqft",24-Dec-13,"$451,500 ",37.710796,-121.74283,CA,Single-Family Home,451500,"$479,000 ",,,,,Sold,ALAMEDA
+94551,3834 Inverness Way,2,3,Livermore,"1,232 sqft",24-Dec-13,"$452,000 ",37.692677,-121.752975,CA,Single-Family Home,452000,"$503,000 ",,,,,Sold,ALAMEDA
+94550,3903 Silver Oaks Way,2,3,Livermore,"1,167 sqft",24-Dec-13,"$490,000 ",37.687496,-121.75255,CA,Single-Family Home,490000,"$567,000 ",,,,,Sold,ALAMEDA
+94550,1329 Wagoner Dr,2,3,Livermore,"1,148 sqft",24-Dec-13,"$520,000 ",37.666027,-121.785385,CA,Single-Family Home,520000,"$602,000 ",,,,,Sold,ALAMEDA
+94550,1828 San Felice Dr,,,Livermore,,23-Dec-13,"$835,000 ",37.666206,-121.75641,CA,Single-Family Home,835000,,,,,,Sold,ALAMEDA
+94551,76 Meritage Cmn #102,2,2,Livermore,"1,231 sqft",23-Dec-13,"$445,000 ",37.709496,-121.808395,CA,Condo,445000,"$503,000 ",,,,,Sold,ALAMEDA
+94551,684 Alameda Dr,2.5,5,Livermore,"2,525 sqft",23-Dec-13,"$750,000 ",37.694088,-121.78997,CA,Single-Family Home,750000,"$797,000 ",,,,,Sold,ALAMEDA
+94551,102 Windward Cmn,2.5,3,Livermore,"1,385 sqft",23-Dec-13,"$467,500 ",37.709858,-121.806145,CA,Condo,467500,"$525,000 ",,,,,Sold,ALAMEDA
+94551,1312 Hillview Dr,2,4,Livermore,"1,444 sqft",23-Dec-13,"$470,000 ",37.6927,-121.781364,CA,Single-Family Home,470000,"$524,000 ",,,,,Sold,ALAMEDA
+94551,523 Andrews St,1,3,Livermore,"1,464 sqft",20-Dec-13,"$430,000 ",37.685226,-121.78278,CA,Single-Family Home,430000,"$518,000 ",,,,,Sold,ALAMEDA
+94551,925 Waverly Cmn,2.5,3,Livermore,"1,949 sqft",20-Dec-13,"$560,000 ",37.696243,-121.76164,CA,Townhouse,560000,"$614,000 ",,,,,Sold,ALAMEDA
+94551,6137 Saint Andrews Way,2.5,4,Livermore,"1,677 sqft",20-Dec-13,"$485,000 ",37.71468,-121.72252,CA,Single-Family Home,485000,"$615,000 ",,,,,Sold,ALAMEDA
+94551,165 Glacier Dr,,,Livermore,"1,582 sqft",20-Dec-13,"$535,000 ",37.682014,-121.80265,CA,Single-Family Home,535000,"$670,000 ",,,,,Sold,ALAMEDA
+94551,2865 Lemon Cmn,2.5,3,Livermore,"2,031 sqft",20-Dec-13,"$671,500 ",37.708023,-121.79898,CA,Single-Family Home,671500,"$710,000 ",,,,,Sold,ALAMEDA
+94550,1141 Geneva St,2,4,Livermore,"2,024 sqft",20-Dec-13,"$782,500 ",37.668243,-121.7727,CA,Single-Family Home,782500,"$810,000 ",,,,,Sold,ALAMEDA
+94551,5643 Haggin Oaks Ave,,,Livermore,"1,564 sqft",20-Dec-13,"$535,000 ",37.726154,-121.72997,CA,Single-Family Home,535000,"$665,000 ",,,,,Sold,ALAMEDA
+94550,1770 Hansen Rd,5.5,6,Livermore,"5,007 sqft",20-Dec-13,"$1,450,000 ",37.646748,-121.771255,CA,Single-Family Home,1450000,"$1,602,000 ",,,,,Sold,ALAMEDA
+94550,2397 Rock Point Pl,3,4,Livermore,"3,633 sqft",20-Dec-13,"$1,220,000 ",37.654152,-121.79357,CA,Single-Family Home,1220000,"$1,262,000 ",,,,,Sold,ALAMEDA
+94550,544 El Caminito,2,4,Livermore,"1,496 sqft",19-Dec-13,"$500,000 ",37.669014,-121.79255,CA,Single-Family Home,500000,"$589,000 ",,,,,Sold,ALAMEDA
+94550,4827 Maureen Cir,2.5,3,Livermore,"2,126 sqft",19-Dec-13,"$730,000 ",37.693516,-121.7366,CA,Single-Family Home,730000,"$816,000 ",,,,,Sold,ALAMEDA
+94551,1219 Locust St,2,3,Livermore,"1,412 sqft",18-Dec-13,"$465,000 ",37.687218,-121.781975,CA,Single-Family Home,465000,"$536,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,18-Dec-13,"$447,500 ",37.70831,-121.803635,CA,Condo,447500,,,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,17-Dec-13,"$418,500 ",37.70831,-121.803635,CA,Condo,418500,,,,,,Sold,ALAMEDA
+94550,1171 Pesaro Way,3,4,Livermore,"2,820 sqft",17-Dec-13,"$980,000 ",37.65238,-121.78437,CA,Single-Family Home,980000,"$1,087,000 ",,,,,Sold,ALAMEDA
+94550,5721 Victoria Ln,3,4,Livermore,"4,606 sqft",17-Dec-13,"$1,517,000 ",37.65423,-121.6657,CA,Farm/Ranch,1517000,"$3,102,000 ",,,,,Sold,ALAMEDA
+94550,5402 Felicia Ave,2.5,4,Livermore,"1,775 sqft",17-Dec-13,"$615,000 ",37.69148,-121.726295,CA,Single-Family Home,615000,"$684,000 ",,,,,Sold,ALAMEDA
+94550,769 Wall St,2,3,Livermore,"1,484 sqft",16-Dec-13,"$520,000 ",37.67161,-121.791595,CA,Single-Family Home,520000,"$594,000 ",,,,,Sold,ALAMEDA
+94550,4331 Findlay Way,2,4,Livermore,"1,721 sqft",16-Dec-13,"$645,000 ",37.674805,-121.74381,CA,Single-Family Home,645000,"$648,000 ",,,,,Sold,ALAMEDA
+94551,5524 Oakmont Cir,2.5,5,Livermore,"1,649 sqft",16-Dec-13,"$540,000 ",37.720963,-121.73134,CA,Single-Family Home,540000,"$576,000 ",,,,,Sold,ALAMEDA
+94550,35 Raccolio Way,2.5,3,Livermore,"2,834 sqft",16-Dec-13,"$970,000 ",37.65652,-121.80385,CA,Single-Family Home,970000,"$979,000 ",,,,,Sold,ALAMEDA
+94550,1054 Essex St,2.5,3,Livermore,"2,160 sqft",13-Dec-13,"$615,000 ",37.6696,-121.77593,CA,Single-Family Home,615000,"$739,000 ",,,,,Sold,ALAMEDA
+94551,5487 Treeflower Dr,2.5,2,Livermore,"1,389 sqft",13-Dec-13,"$376,000 ",37.71195,-121.73085,CA,Single-Family Home,376000,"$510,000 ",,,,,Sold,ALAMEDA
+94550,2262 Ryan St,2.5,4,Livermore,"2,748 sqft",13-Dec-13,"$900,000 ",37.658047,-121.77101,CA,Single-Family Home,900000,"$1,202,000 ",,,,,Sold,ALAMEDA
+94551,1386 Arlington Rd,2,2,Livermore,"1,487 sqft",13-Dec-13,"$500,000 ",37.693092,-121.79703,CA,Single-Family Home,500000,"$601,000 ",,,,,Sold,ALAMEDA
+94551,6602 Village Dr,2,3,Livermore,"1,226 sqft",12-Dec-13,"$550,000 ",37.719578,-121.71599,CA,Single-Family Home,550000,"$598,000 ",,,,,Sold,ALAMEDA
+94551,295 Northwood Commons,2.5,3,Livermore,"1,260 sqft",12-Dec-13,"$373,000 ",37.682137,-121.7905,CA,Townhouse,373000,"$456,000 ",,,,,Sold,ALAMEDA
+94551,2885 Quarryhill Ave,,,Livermore,,12-Dec-13,"$645,000 ",37.707977,-121.79678,CA,Condo,645000,,,,,,Sold,ALAMEDA
+94551,1390 Arlington Rd,2,3,Livermore,"1,130 sqft",12-Dec-13,"$485,000 ",37.693268,-121.79703,CA,Single-Family Home,485000,"$552,000 ",,,,,Sold,ALAMEDA
+94551,1826 Meadow Glen Dr,3,4,Livermore,"2,222 sqft",12-Dec-13,"$590,000 ",37.725285,-121.71128,CA,Single-Family Home,590000,"$736,000 ",,,,,Sold,ALAMEDA
+94551,769 Partridge Cmn,1.5,2,Livermore,836 sqft,11-Dec-13,"$320,000 ",37.687508,-121.78981,CA,Townhouse,320000,"$372,000 ",,,,,Sold,ALAMEDA
+94550,1391 Anza Way,2,3,Livermore,"1,554 sqft",11-Dec-13,"$610,000 ",37.671116,-121.77731,CA,Single-Family Home,610000,"$658,000 ",,,,,Sold,ALAMEDA
+94550,4687 Nicol Cmn #104,2,2,Livermore,841 sqft,11-Dec-13,"$295,000 ",37.68832,-121.73793,CA,Condo,295000,"$329,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,11-Dec-13,"$411,500 ",37.70831,-121.803635,CA,Condo,411500,,,,,,Sold,ALAMEDA
+94550,1080 Via Madrid,2,3,Livermore,"1,133 sqft",11-Dec-13,"$519,500 ",37.670555,-121.7819,CA,Single-Family Home,519500,"$528,000 ",,,,,Sold,ALAMEDA
+94551,1853 Monterey Dr,1,2,Livermore,850 sqft,10-Dec-13,"$303,000 ",37.712605,-121.748726,CA,Townhouse,303000,"$371,000 ",,,,,Sold,ALAMEDA
+94550,2991 Bresso Dr,3,5,Livermore,"2,890 sqft",10-Dec-13,"$985,000 ",37.648396,-121.78455,CA,Single-Family Home,985000,"$1,126,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,10-Dec-13,"$472,000 ",37.70831,-121.803635,CA,Condo,472000,,,,,,Sold,ALAMEDA
+94550,4623 Nicol Cmn #111,1,1,Livermore,629 sqft,10-Dec-13,"$234,000 ",37.688442,-121.73906,CA,Condo,234000,"$269,000 ",,,,,Sold,ALAMEDA
+94551,307 Bernal Ave,2,3,Livermore,"1,314 sqft",10-Dec-13,"$390,000 ",37.6831,-121.78463,CA,Single-Family Home,390000,"$488,000 ",,,,,Sold,ALAMEDA
+94551,1807 Paseo Laguna Seco,1.5,2,Livermore,"1,062 sqft",9-Dec-13,"$240,000 ",37.69633,-121.78123,CA,Condo,240000,"$317,000 ",,,,,Sold,ALAMEDA
+94550,1476 Windsor Way,2,3,Livermore,"1,466 sqft",6-Dec-13,"$660,000 ",37.652203,-121.77663,CA,Single-Family Home,660000,"$683,000 ",,,,,Sold,ALAMEDA
+94551,6404 Forget Me Not,2,2,Livermore,"1,023 sqft",6-Dec-13,"$290,000 ",37.714287,-121.72141,CA,Condo,290000,"$392,000 ",,,,,Sold,ALAMEDA
+94550,747 Catalina Dr,2,3,Livermore,"1,748 sqft",6-Dec-13,"$600,000 ",37.663296,-121.78924,CA,Single-Family Home,600000,"$633,000 ",,,,,Sold,ALAMEDA
+94551,7 Meritage Cmn #103,2,2,Livermore,"1,231 sqft",5-Dec-13,"$450,000 ",37.711113,-121.806145,CA,Condo,450000,"$499,000 ",,,,,Sold,ALAMEDA
+94550,247 Burgess St,2,3,Livermore,"1,164 sqft",5-Dec-13,"$495,000 ",37.686184,-121.74951,CA,Single-Family Home,495000,"$510,000 ",,,,,Sold,ALAMEDA
+94551,1434 Bluebell Dr,2,2,Livermore,866 sqft,5-Dec-13,"$400,000 ",37.71303,-121.73755,CA,Single-Family Home,400000,"$431,000 ",,,,,Sold,ALAMEDA
+94551,1675 Paseo Laguna Seco,2.5,3,Livermore,"1,379 sqft",5-Dec-13,"$390,000 ",37.69688,-121.78217,CA,Townhouse,390000,"$488,000 ",,,,,Sold,ALAMEDA
+94550,606 Shelley St,2,3,Livermore,"1,544 sqft",4-Dec-13,"$600,000 ",37.69343,-121.72474,CA,Single-Family Home,600000,"$648,000 ",,,,,Sold,ALAMEDA
+94551,681 Selby Ln #1,2,2,Livermore,"1,639 sqft",4-Dec-13,"$510,000 ",37.708706,-121.79612,CA,Single-Family Home,510000,"$566,000 ",,,,,Sold,ALAMEDA
+94550,2574 Bess Ave,2.5,3,Livermore,"2,622 sqft",4-Dec-13,"$975,000 ",37.66273,-121.7609,CA,Single-Family Home,975000,"$1,102,000 ",,,,,Sold,ALAMEDA
+94551,1165 Lambaren Ave,1,3,Livermore,982 sqft,3-Dec-13,"$370,000 ",37.68197,-121.782135,CA,Single-Family Home,370000,"$446,000 ",,,,,Sold,ALAMEDA
+94550,679 S L St,1.5,3,Livermore,"1,278 sqft",3-Dec-13,"$622,500 ",37.676193,-121.76943,CA,Single-Family Home,622500,"$712,000 ",,,,,Sold,ALAMEDA
+94550,71 Raccolio Way,2.5,3,Livermore,"2,834 sqft",2-Dec-13,"$949,000 ",37.65652,-121.80296,CA,Single-Family Home,949000,"$1,045,000 ",,,,,Sold,ALAMEDA
+94550,4906 Hollice Ct,3,4,Livermore,"2,300 sqft",2-Dec-13,"$690,000 ",37.6837,-121.73438,CA,Single-Family Home,690000,"$828,000 ",,,,,Sold,ALAMEDA
+94551,2659 Pickfair Ln,2,4,Livermore,"1,952 sqft",27-Nov-13,"$570,000 ",37.69252,-121.76666,CA,Single-Family Home,570000,"$719,000 ",,,,,Sold,ALAMEDA
+94550,1466 Lido Ct,2,4,Livermore,"1,987 sqft",27-Nov-13,"$585,000 ",37.664806,-121.791,CA,Single-Family Home,585000,"$719,000 ",,,,,Sold,ALAMEDA
+94550,59 Riverstone Cmn,2.5,4,Livermore,"2,035 sqft",27-Nov-13,"$600,000 ",37.675785,-121.80013,CA,Single-Family Home,600000,"$766,000 ",,,,,Sold,ALAMEDA
+94550,10011 Tesla Rd,2,4,Livermore,"1,875 sqft",27-Nov-13,"$1,930,000 ",37.654568,-121.67685,CA,Farm/Ranch,1930000,"$1,639,000 ",,,,,Sold,ALAMEDA
+94550,157 Zephyr Pl #107,2.5,3,Livermore,"1,734 sqft",27-Nov-13,"$499,000 ",37.682632,-121.774155,CA,Single-Family Home,499000,"$566,000 ",,,,,Sold,ALAMEDA
+94551,472 James St,2,4,Livermore,"1,170 sqft",27-Nov-13,"$412,000 ",37.68453,-121.7812,CA,Single-Family Home,412000,"$493,000 ",,,,,Sold,ALAMEDA
+94550,235 Lloyd St,2.5,6,Livermore,"2,112 sqft",26-Nov-13,"$585,000 ",37.675613,-121.79466,CA,Single-Family Home,585000,"$691,000 ",,,,,Sold,ALAMEDA
+94551,915 Ventura Ave,2,3,Livermore,"1,626 sqft",26-Nov-13,"$452,000 ",37.68128,-121.78556,CA,Single-Family Home,452000,"$543,000 ",,,,,Sold,ALAMEDA
+94550,4926 Candy Ct,2.5,3,Livermore,"2,126 sqft",26-Nov-13,"$675,000 ",37.694145,-121.735,CA,Single-Family Home,675000,"$793,000 ",,,,,Sold,ALAMEDA
+94550,1539 3rd St,3,3,Livermore,"2,782 sqft",26-Nov-13,"$860,000 ",37.677544,-121.776054,CA,Single-Family Home,860000,"$921,000 ",,,,,Sold,ALAMEDA
+94550,656 Canterbury Ave,2,3,Livermore,"1,519 sqft",26-Nov-13,"$579,000 ",37.663105,-121.79092,CA,Single-Family Home,579000,"$611,000 ",,,,,Sold,ALAMEDA
+94551,6165 Augusta Way,3,4,Livermore,"2,141 sqft",26-Nov-13,"$630,000 ",37.715347,-121.72227,CA,Single-Family Home,630000,"$682,000 ",,,,,Sold,ALAMEDA
+94550,1847 Keeler St,2,4,Livermore,"2,275 sqft",26-Nov-13,"$849,000 ",37.677246,-121.72738,CA,Single-Family Home,849000,"$936,000 ",,,,,Sold,ALAMEDA
+94551,2172 Rapallo Cmn,2.5,4,Livermore,"2,061 sqft",26-Nov-13,"$613,000 ",37.694256,-121.77398,CA,Single-Family Home,613000,"$697,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,26-Nov-13,"$504,000 ",37.70831,-121.803635,CA,Unknown,504000,,,,,,Sold,ALAMEDA
+94550,144 Diamond Dr,2,3,Livermore,"1,276 sqft",26-Nov-13,"$615,000 ",37.66829,-121.79943,CA,Single-Family Home,615000,"$606,000 ",,,,,Sold,ALAMEDA
+94551,10 Meritage Cmn #200,2,2,Livermore,"1,019 sqft",26-Nov-13,"$398,000 ",37.71059,-121.80627,CA,Condo,398000,"$462,000 ",,,,,Sold,ALAMEDA
+94550,5412 Charlotte Way,2.5,4,Livermore,"2,028 sqft",25-Nov-13,"$430,000 ",37.685547,-121.72648,CA,Single-Family Home,430000,"$601,000 ",,,,,Sold,ALAMEDA
+94550,453 Leona Dr,2,4,Livermore,"1,704 sqft",25-Nov-13,"$605,000 ",37.67091,-121.79844,CA,Single-Family Home,605000,"$688,000 ",,,,,Sold,ALAMEDA
+94551,1850 Sunset Dr,2,3,Livermore,"1,172 sqft",22-Nov-13,"$390,000 ",37.690086,-121.77855,CA,Single-Family Home,390000,"$492,000 ",,,,,Sold,ALAMEDA
+94551,3116 Salisbury Ct,3,4,Livermore,"2,714 sqft",22-Nov-13,"$770,000 ",37.691856,-121.762596,CA,Single-Family Home,770000,"$904,000 ",,,,,Sold,ALAMEDA
+94550,5324 Sandra Way,2,3,Livermore,"2,229 sqft",22-Nov-13,"$682,000 ",37.68277,-121.72798,CA,Single-Family Home,682000,"$764,000 ",,,,,Sold,ALAMEDA
+94551,574 Dovecote Ln #4,2,3,Livermore,"1,806 sqft",22-Nov-13,"$570,000 ",37.7076,-121.79757,CA,Single-Family Home,570000,"$600,000 ",,,,,Sold,ALAMEDA
+94551,46 Meritage Cmn #106,2.5,3,Livermore,"1,514 sqft",22-Nov-13,"$468,000 ",37.710022,-121.80727,CA,Condo,468000,"$524,000 ",,,,,Sold,ALAMEDA
+94551,4147 Bishop Pine Way,2,3,Livermore,"1,110 sqft",22-Nov-13,"$445,000 ",37.71193,-121.7501,CA,Single-Family Home,445000,"$502,000 ",,,,,Sold,ALAMEDA
+94551,436 Selby Ln,,,Livermore,,22-Nov-13,"$630,500 ",37.70906,-121.799934,CA,Single-Family Home,630500,,,,,,Sold,ALAMEDA
+94550,170 N N St #116,3.5,3,Livermore,"1,780 sqft",22-Nov-13,"$475,000 ",37.682487,-121.77467,CA,Single-Family Home,475000,"$560,000 ",,,,,Sold,ALAMEDA
+94551,5376 Hillflower Dr,2.5,3,Livermore,"1,787 sqft",21-Nov-13,"$538,000 ",37.71025,-121.730865,CA,Single-Family Home,538000,"$604,000 ",,,,,Sold,ALAMEDA
+94550,3077 Rodeo Ln,3.5,4,Livermore,"2,913 sqft",21-Nov-13,"$949,500 ",37.672665,-121.75601,CA,Single-Family Home,949500,"$1,144,000 ",,,,,Sold,ALAMEDA
+94550,3815 Silver Oaks Way,2,3,Livermore,"1,167 sqft",21-Nov-13,"$440,000 ",37.686855,-121.75469,CA,Single-Family Home,440000,"$553,000 ",,,,,Sold,ALAMEDA
+94551,430 Selby Ln,,,Livermore,,21-Nov-13,"$679,000 ",37.708977,-121.79992,CA,Single-Family Home,679000,,,,,,Sold,ALAMEDA
+94550,1875 Niagara Dr,2.5,4,Livermore,"2,297 sqft",21-Nov-13,"$650,000 ",37.66103,-121.78691,CA,Single-Family Home,650000,"$734,000 ",,,,,Sold,ALAMEDA
+94551,479 Hanover St,3,4,Livermore,"1,820 sqft",20-Nov-13,"$619,000 ",37.691868,-121.79527,CA,Single-Family Home,619000,"$626,000 ",,,,,Sold,ALAMEDA
+94551,5646 Firestone Rd,2,4,Livermore,"1,532 sqft",20-Nov-13,"$495,000 ",37.723,-121.72905,CA,Single-Family Home,495000,"$567,000 ",,,,,Sold,ALAMEDA
+94550,5444 Evelyn Way,2.5,3,Livermore,"2,014 sqft",20-Nov-13,"$722,000 ",37.689445,-121.72473,CA,Single-Family Home,722000,"$732,000 ",,,,,Sold,ALAMEDA
+94551,315 Garden Cmn,2.5,3,Livermore,"1,337 sqft",20-Nov-13,"$385,000 ",37.688774,-121.79964,CA,Townhouse,385000,"$445,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,20-Nov-13,"$453,500 ",37.70831,-121.803635,CA,Condo,453500,,,,,,Sold,ALAMEDA
+94551,688 Yorkshire Ct,3,5,Livermore,"3,412 sqft",19-Nov-13,"$830,000 ",37.692955,-121.76173,CA,Single-Family Home,830000,"$1,027,000 ",,,,,Sold,ALAMEDA
+94551,3701 Hillside Ave,2.5,3,Livermore,"2,553 sqft",19-Nov-13,"$765,000 ",37.69516,-121.75371,CA,Single-Family Home,765000,"$810,000 ",,,,,Sold,ALAMEDA
+94550,1182 Sherry Way,3.5,4,Livermore,"2,948 sqft",19-Nov-13,"$840,000 ",37.673473,-121.76077,CA,Single-Family Home,840000,"$1,003,000 ",,,,,Sold,ALAMEDA
+94551,486 Kent Ct,3,4,Livermore,"2,143 sqft",19-Nov-13,"$629,000 ",37.691555,-121.79477,CA,Single-Family Home,629000,"$691,000 ",,,,,Sold,ALAMEDA
+94551,5414 Windflower Dr,2.5,3,Livermore,"1,389 sqft",19-Nov-13,"$465,000 ",37.70801,-121.730095,CA,Single-Family Home,465000,"$518,000 ",,,,,Sold,ALAMEDA
+94550,1242 Murdell Ln,2,3,Livermore,"1,271 sqft",19-Nov-13,"$505,000 ",37.665844,-121.797935,CA,Single-Family Home,505000,"$594,000 ",,,,,Sold,ALAMEDA
+94551,2125 Walnut St,,,Livermore,"1,376 sqft",19-Nov-13,"$352,000 ",37.686935,-121.772156,CA,Multi-Family,352000,"$457,000 ",,,,,Sold,ALAMEDA
+94551,4756 Scenic Ave,2,4,Livermore,"1,409 sqft",19-Nov-13,"$502,500 ",37.716923,-121.74047,CA,Single-Family Home,502500,"$534,000 ",,,,,Sold,ALAMEDA
+94551,6955 Sunridge Dr,2,3,Livermore,"1,226 sqft",19-Nov-13,"$547,000 ",37.717705,-121.71118,CA,Single-Family Home,547000,"$604,000 ",,,,,Sold,ALAMEDA
+94550,2287 Palm Ave,2.5,3,Livermore,"2,070 sqft",18-Nov-13,"$799,000 ",37.674885,-121.764626,CA,Single-Family Home,799000,"$738,000 ",,,,,Sold,ALAMEDA
+94550,1642 Vancouver Way,2,4,Livermore,"2,128 sqft",18-Nov-13,"$687,000 ",37.66634,-121.772156,CA,Single-Family Home,687000,"$784,000 ",,,,,Sold,ALAMEDA
+94550,2992 Lagiss Dr,4.5,5,Livermore,"4,119 sqft",18-Nov-13,"$1,365,000 ",37.647495,-121.77625,CA,Single-Family Home,1365000,"$1,487,000 ",,,,,Sold,ALAMEDA
+94550,3884 East Ave,2,3,Livermore,"1,393 sqft",15-Nov-13,"$507,000 ",37.68018,-121.752495,CA,Single-Family Home,507000,"$566,000 ",,,,,Sold,ALAMEDA
+94550,4282 Azores Ct,2,4,Livermore,"2,061 sqft",15-Nov-13,"$755,000 ",37.688663,-121.74232,CA,Single-Family Home,755000,"$840,000 ",,,,,Sold,ALAMEDA
+94551,3809 Hillside Ave,3,4,Livermore,"2,641 sqft",15-Nov-13,"$785,000 ",37.695023,-121.75267,CA,Single-Family Home,785000,"$946,000 ",,,,,Sold,ALAMEDA
+94551,265 Northwood Commons,2.5,3,Livermore,"1,260 sqft",15-Nov-13,"$395,000 ",37.681507,-121.79051,CA,Townhouse,395000,"$477,000 ",,,,,Sold,ALAMEDA
+94550,4206 Azores Ct,3,5,Livermore,"2,727 sqft",15-Nov-13,"$840,000 ",37.68857,-121.743195,CA,Single-Family Home,840000,"$885,000 ",,,,,Sold,ALAMEDA
+94550,1158 Hillcrest Ave,3,3,Livermore,"2,144 sqft",15-Nov-13,"$811,000 ",37.67804,-121.74801,CA,Single-Family Home,811000,"$739,000 ",,,,,Sold,ALAMEDA
+94550,336 Joyce St,2.5,4,Livermore,"1,758 sqft",15-Nov-13,"$625,000 ",37.692745,-121.73186,CA,Single-Family Home,625000,"$695,000 ",,,,,Sold,ALAMEDA
+94550,1506 Carnelian Ln,3,5,Livermore,"2,856 sqft",15-Nov-13,"$880,000 ",37.663185,-121.80001,CA,Single-Family Home,880000,"$1,062,000 ",,,,,Sold,ALAMEDA
+94551,1150 Bluebell Dr,2,3,Livermore,"1,554 sqft",15-Nov-13,"$485,000 ",37.7101,-121.735176,CA,Single-Family Home,485000,"$595,000 ",,,,,Sold,ALAMEDA
+94550,535 Lorren Way,2,4,Livermore,"1,944 sqft",15-Nov-13,"$453,500 ",37.67348,-121.792915,CA,Single-Family Home,453500,"$663,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,15-Nov-13,"$442,000 ",37.70831,-121.803635,CA,Condo,442000,,,,,,Sold,ALAMEDA
+94551,454 Selby Ln,,,Livermore,,15-Nov-13,"$650,500 ",37.709007,-121.79963,CA,Single-Family Home,650500,,,,,,Sold,ALAMEDA
+94550,1820 De Vaca Way,1.5,3,Livermore,"1,192 sqft",15-Nov-13,"$405,500 ",37.67029,-121.77014,CA,Single-Family Home,405500,"$501,000 ",,,,,Sold,ALAMEDA
+94550,4687 Nicol Cmn #109,1,1,Livermore,610 sqft,15-Nov-13,"$234,000 ",37.68832,-121.73793,CA,Condo,234000,"$259,000 ",,,,,Sold,ALAMEDA
+94551,5814 Woodrose Way,2.5,4,Livermore,"2,187 sqft",15-Nov-13,"$660,000 ",37.716232,-121.72601,CA,Single-Family Home,660000,"$722,000 ",,,,,Sold,ALAMEDA
+94551,1566 Bluebell Dr,2,2,Livermore,"1,036 sqft",15-Nov-13,"$377,000 ",37.713997,-121.73931,CA,Single-Family Home,377000,"$469,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,14-Nov-13,"$400,000 ",37.70831,-121.803635,CA,Unknown,400000,,,,,,Sold,ALAMEDA
+94550,2677 Vernazza Dr,3,3,Livermore,"2,730 sqft",14-Nov-13,"$900,000 ",37.66599,-121.758125,CA,Single-Family Home,900000,"$1,058,000 ",,,,,Sold,ALAMEDA
+94550,1009 Murrieta Blvd,1,2,Livermore,790 sqft,14-Nov-13,"$220,000 ",37.6753,-121.782814,CA,Condo,220000,"$253,000 ",,,,,Sold,ALAMEDA
+94550,716 Los Alamos Ave,2,3,Livermore,"1,796 sqft",13-Nov-13,"$616,000 ",37.66927,-121.78949,CA,Single-Family Home,616000,"$650,000 ",,,,,Sold,ALAMEDA
+94551,847 Lucerne St,2.5,4,Livermore,"2,421 sqft",13-Nov-13,"$820,000 ",37.68751,-121.79361,CA,Single-Family Home,820000,"$825,000 ",,,,,Sold,ALAMEDA
+94551,4101 Torrey Pine Way,2,3,Livermore,"1,224 sqft",13-Nov-13,"$463,000 ",37.710327,-121.751,CA,Single-Family Home,463000,"$519,000 ",,,,,Sold,ALAMEDA
+94551,110 Heligan Ln,,,Livermore,,13-Nov-13,"$434,000 ",37.70831,-121.803635,CA,Condo,434000,,,,,,Sold,ALAMEDA
+94550,848 Old Oak Rd,3,3,Livermore,"2,821 sqft",13-Nov-13,"$1,085,000 ",37.652306,-121.79301,CA,Single-Family Home,1085000,"$1,338,000 ",,,,,Sold,ALAMEDA
+94551,1165 Marigold Rd,2,3,Livermore,"1,344 sqft",13-Nov-13,"$462,500 ",37.709984,-121.73655,CA,Single-Family Home,462500,"$521,000 ",,,,,Sold,ALAMEDA
+94551,95 Windward Cmn,2.5,3,Livermore,"1,322 sqft",12-Nov-13,"$463,000 ",37.710354,-121.80595,CA,Condo,463000,"$500,000 ",,,,,Sold,ALAMEDA
+94551,442 Selby Ln,,,Livermore,,12-Nov-13,"$685,500 ",37.70924,-121.79997,CA,Single-Family Home,685500,,,,,,Sold,ALAMEDA
+94550,255 Cambridge Way,2,3,Livermore,"1,555 sqft",12-Nov-13,"$513,000 ",37.686382,-121.74772,CA,Single-Family Home,513000,"$589,000 ",,,,,Sold,ALAMEDA
+94550,4250 Azores Ct,3,5,Livermore,"2,727 sqft",12-Nov-13,"$795,000 ",37.688717,-121.74264,CA,Single-Family Home,795000,"$924,000 ",,,,,Sold,ALAMEDA
+94551,547 Humboldt Way,2,3,Livermore,"1,130 sqft",8-Nov-13,"$500,000 ",37.695835,-121.79306,CA,Single-Family Home,500000,"$528,000 ",,,,,Sold,ALAMEDA
+94551,46 Meritage Cmn #202,2,3,Livermore,"1,280 sqft",8-Nov-13,"$431,000 ",37.710022,-121.80727,CA,Condo,431000,"$479,000 ",,,,,Sold,ALAMEDA
+94550,1015 Via Madrid,2,3,Livermore,"1,352 sqft",8-Nov-13,"$444,000 ",37.670105,-121.78393,CA,Single-Family Home,444000,"$579,000 ",,,,,Sold,ALAMEDA
+94550,1479 Melanie Way,3,4,Livermore,"2,515 sqft",8-Nov-13,"$800,000 ",37.68671,-121.71974,CA,Single-Family Home,800000,"$941,000 ",,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #337,1,1,Livermore,758 sqft,8-Nov-13,"$210,000 ",37.67515,-121.78144,CA,Condo,210000,"$228,000 ",,,,,Sold,ALAMEDA
+94551,5388 Hillflower Dr,2.5,3,Livermore,"1,787 sqft",8-Nov-13,"$550,000 ",37.71025,-121.73053,CA,Single-Family Home,550000,"$609,000 ",,,,,Sold,ALAMEDA
+94550,469 Jensen St,4.5,4,Livermore,"3,069 sqft",8-Nov-13,"$599,000 ",37.68346,-121.75551,CA,Single-Family Home,599000,"$863,000 ",,,,,Sold,ALAMEDA
+94550,384 Virginia Dr,2,3,Livermore,"1,156 sqft",8-Nov-13,"$478,000 ",37.674404,-121.797516,CA,Single-Family Home,478000,"$546,000 ",,,,,Sold,ALAMEDA
+94550,2460 Lakeside Cir,3,4,Livermore,"2,738 sqft",8-Nov-13,"$980,000 ",37.65118,-121.79241,CA,Single-Family Home,980000,"$1,122,000 ",,,,,Sold,ALAMEDA
+94550,4772 Nicol Cmn #104,2,2,Livermore,842 sqft,8-Nov-13,"$273,000 ",37.68883,-121.73731,CA,Condo,273000,"$330,000 ",,,,,Sold,ALAMEDA
+94551,873 Saddleback Cir,2.5,4,Livermore,"1,683 sqft",7-Nov-13,"$610,000 ",37.698948,-121.792854,CA,Single-Family Home,610000,"$679,000 ",,,,,Sold,ALAMEDA
+94550,303 Charlotte Cmn,2.5,4,Livermore,"1,890 sqft",7-Nov-13,"$557,500 ",37.69025,-121.73849,CA,Single-Family Home,557500,"$613,000 ",,,,,Sold,ALAMEDA
+94550,4763 Nicol Cmn #112,2,2,Livermore,842 sqft,7-Nov-13,"$269,000 ",37.68883,-121.73731,CA,Condo,269000,"$333,000 ",,,,,Sold,ALAMEDA
+94551,438 Selby Ln,,,Livermore,,7-Nov-13,"$628,500 ",37.70914,-121.79995,CA,Single-Family Home,628500,,,,,,Sold,ALAMEDA
+94550,547 Rhea Way,3,5,Livermore,"3,202 sqft",6-Nov-13,"$1,100,000 ",37.659664,-121.7931,CA,Single-Family Home,1100000,"$1,121,000 ",,,,,Sold,ALAMEDA
+94550,725 Avalon Way,2,5,Livermore,"1,576 sqft",6-Nov-13,"$555,000 ",37.66627,-121.78925,CA,Single-Family Home,555000,"$631,000 ",,,,,Sold,ALAMEDA
+94551,187 Selby Ln,2.5,2,Livermore,"1,501 sqft",5-Nov-13,"$512,000 ",37.708378,-121.801834,CA,Single-Family Home,512000,"$566,000 ",,,,,Sold,ALAMEDA
+94550,2318 Pendolino Ln,5.5,5,Livermore,"4,676 sqft",5-Nov-13,"$1,389,500 ",37.651554,-121.763855,CA,Single-Family Home,1389500,"$1,595,000 ",,,,,Sold,ALAMEDA
+94551,26 Bellington Cmn #1503,2.5,3,Livermore,"1,322 sqft",5-Nov-13,"$300,000 ",37.708748,-121.80553,CA,Condo,300000,"$500,000 ",,,,,Sold,ALAMEDA
+94551,2324 Del Monte St,2,3,Livermore,"1,475 sqft",1-Nov-13,"$498,000 ",37.72255,-121.72625,CA,Single-Family Home,498000,"$584,000 ",,,,,Sold,ALAMEDA
+94551,1425 Spring Valley Cmn,1,2,Livermore,850 sqft,1-Nov-13,"$289,000 ",37.70821,-121.74633,CA,Townhouse,289000,"$357,000 ",,,,,Sold,ALAMEDA
+94551,448 Selby Ln,,,Livermore,,1-Nov-13,"$651,500 ",37.70919,-121.79967,CA,Unknown,651500,,,,,,Sold,ALAMEDA
+94551,3673 Montrose Pl,3,4,Livermore,"2,912 sqft",1-Nov-13,"$728,000 ",37.696842,-121.75409,CA,Single-Family Home,728000,"$889,000 ",,,,,Sold,ALAMEDA
+94551,725 Central Ave,2.5,4,Livermore,"2,473 sqft",31-Oct-13,"$601,000 ",37.708576,-121.72677,CA,Single-Family Home,601000,"$777,000 ",,,,,Sold,ALAMEDA
+94551,470 Selby Ln,,,Livermore,,31-Oct-13,"$557,000 ",37.709232,-121.79946,CA,Unknown,557000,,,,,,Sold,ALAMEDA
+94550,443 Covellite Ln,2,4,Livermore,"1,785 sqft",31-Oct-13,"$650,000 ",37.672024,-121.80371,CA,Single-Family Home,650000,"$717,000 ",,,,,Sold,ALAMEDA
+94551,690 Daisyfield Dr,3,4,Livermore,"2,239 sqft",31-Oct-13,"$750,000 ",37.68058,-121.79355,CA,Single-Family Home,750000,"$830,000 ",,,,,Sold,ALAMEDA
+94551,1548 Calle Del Rey,3,3,Livermore,"1,752 sqft",31-Oct-13,"$565,000 ",37.69509,-121.779854,CA,Townhouse,565000,"$607,000 ",,,,,Sold,ALAMEDA
+94551,546 Dovecote Ln #4,2,3,Livermore,"1,806 sqft",31-Oct-13,"$580,000 ",37.707603,-121.79831,CA,Single-Family Home,580000,"$629,000 ",,,,,Sold,ALAMEDA
+94551,5904 Crestmont Ave,1.5,4,Livermore,"1,258 sqft",31-Oct-13,"$470,000 ",37.720287,-121.726265,CA,Single-Family Home,470000,"$501,000 ",,,,,Sold,ALAMEDA
+94550,3952 California Way,2,4,Livermore,"1,440 sqft",31-Oct-13,"$550,000 ",37.682373,-121.75,CA,Single-Family Home,550000,"$571,000 ",,,,,Sold,ALAMEDA
+94551,708 Newbury St,3,3,Livermore,"2,694 sqft",31-Oct-13,"$780,000 ",37.696716,-121.75049,CA,Single-Family Home,780000,"$953,000 ",,,,,Sold,ALAMEDA
+94551,5605 Oakmont Cir,2,3,Livermore,"1,508 sqft",31-Oct-13,"$320,000 ",37.721188,-121.72865,CA,Single-Family Home,320000,"$563,000 ",,,,,Sold,ALAMEDA
+94551,446 Selby Ln,,,Livermore,,31-Oct-13,"$615,000 ",37.709293,-121.79969,CA,Single-Family Home,615000,,,,,,Sold,ALAMEDA
+94551,1661 Pinehurst Ct,2,3,Livermore,"1,272 sqft",31-Oct-13,"$463,000 ",37.716843,-121.73094,CA,Single-Family Home,463000,"$560,000 ",,,,,Sold,ALAMEDA
+94551,1324 Hibiscus Way,1,2,Livermore,866 sqft,31-Oct-13,"$405,000 ",37.71094,-121.73862,CA,Single-Family Home,405000,"$436,000 ",,,,,Sold,ALAMEDA
+94551,1025 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",31-Oct-13,"$335,000 ",37.70579,-121.74275,CA,Townhouse,335000,"$422,000 ",,,,,Sold,ALAMEDA
+94550,5567 Carnegie Loop,2,4,Livermore,"2,276 sqft",31-Oct-13,"$829,000 ",37.67595,-121.72971,CA,Single-Family Home,829000,"$870,000 ",,,,,Sold,ALAMEDA
+94551,309 N Livermore Ave,1,3,Livermore,"1,452 sqft",31-Oct-13,"$349,000 ",37.685486,-121.77083,CA,Single-Family Home,349000,"$541,000 ",,,,,Sold,ALAMEDA
+94550,572 Leona Dr,3,5,Livermore,"2,277 sqft",30-Oct-13,"$645,000 ",37.67047,-121.796844,CA,Single-Family Home,645000,"$732,000 ",,,,,Sold,ALAMEDA
+94551,6106 Saint Andrews Way,2.5,4,Livermore,"1,940 sqft",30-Oct-13,"$515,000 ",37.71512,-121.72313,CA,Single-Family Home,515000,"$653,000 ",,,,,Sold,ALAMEDA
+94550,2163 Kara Pl,4,4,Livermore,"4,069 sqft",30-Oct-13,"$1,395,000 ",37.658207,-121.77273,CA,Single-Family Home,1395000,"$1,481,000 ",,,,,Sold,ALAMEDA
+94550,1464 Windsor Way,2,3,Livermore,"1,410 sqft",30-Oct-13,"$545,000 ",37.652058,-121.77683,CA,Single-Family Home,545000,"$675,000 ",,,,,Sold,ALAMEDA
+94551,32 Meritage Cmn #204,2,2,Livermore,"1,019 sqft",30-Oct-13,"$398,000 ",37.710175,-121.806946,CA,Condo,398000,"$440,000 ",,,,,Sold,ALAMEDA
+94551,812 Ventura Ave,2,3,Livermore,"1,129 sqft",30-Oct-13,"$475,000 ",37.6817,-121.78655,CA,Single-Family Home,475000,"$498,000 ",,,,,Sold,ALAMEDA
+94551,550 Ridgecrest Cir,2.5,3,Livermore,"1,966 sqft",29-Oct-13,"$129,000 ",37.689934,-121.7563,CA,Single-Family Home,129000,"$773,000 ",,,,,Sold,ALAMEDA
+94551,561 Windermere Cir,3,5,Livermore,"3,107 sqft",28-Oct-13,"$830,000 ",37.69224,-121.758354,CA,Single-Family Home,830000,"$967,000 ",,,,,Sold,ALAMEDA
+94551,1544 Olivina Ave,2,3,Livermore,"1,120 sqft",28-Oct-13,"$387,000 ",37.68325,-121.778786,CA,Single-Family Home,387000,"$486,000 ",,,,,Sold,ALAMEDA
+94551,1566 Olivina Ave,3,4,Livermore,"1,582 sqft",25-Oct-13,"$422,000 ",37.68317,-121.778435,CA,Single-Family Home,422000,"$529,000 ",,,,,Sold,ALAMEDA
+94551,2952 Calico Cmn,2.5,3,Livermore,"2,012 sqft",25-Oct-13,"$730,000 ",37.70825,-121.80131,CA,Single-Family Home,730000,"$732,000 ",,,,,Sold,ALAMEDA
+94550,417 Vista Ct,1,3,Livermore,"1,068 sqft",25-Oct-13,"$462,000 ",37.683937,-121.75644,CA,Single-Family Home,462000,"$512,000 ",,,,,Sold,ALAMEDA
+94550,3842 Madeira Way,1,3,Livermore,"1,001 sqft",25-Oct-13,"$435,000 ",37.68686,-121.75367,CA,Single-Family Home,435000,"$506,000 ",,,,,Sold,ALAMEDA
+94551,3179 Calimanco Cmn #4,2.5,3,Livermore,947 sqft,25-Oct-13,"$403,000 ",37.709206,-121.807625,CA,Condo,403000,"$430,000 ",,,,,Sold,ALAMEDA
+94551,27 Meritage Cmn #103,2,2,Livermore,"1,231 sqft",25-Oct-13,"$405,000 ",37.7107,-121.80693,CA,Condo,405000,"$443,000 ",,,,,Sold,ALAMEDA
+94551,1406 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",25-Oct-13,"$340,000 ",37.7078,-121.7464,CA,Townhouse,340000,"$404,000 ",,,,,Sold,ALAMEDA
+94550,794 Grace St,2,3,Livermore,"1,520 sqft",25-Oct-13,"$570,000 ",37.669907,-121.78803,CA,Single-Family Home,570000,"$606,000 ",,,,,Sold,ALAMEDA
+94551,468 Selby Ln,,,Livermore,,25-Oct-13,"$546,000 ",37.70915,-121.799446,CA,Single-Family Home,546000,,,,,,Sold,ALAMEDA
+94551,574 Morgan Cmn,1.5,3,Livermore,"1,321 sqft",25-Oct-13,"$370,000 ",37.688557,-121.767975,CA,Townhouse,370000,"$412,000 ",,,,,Sold,ALAMEDA
+94550,2264 Stonebridge Rd,2,3,Livermore,"1,755 sqft",25-Oct-13,"$640,000 ",37.65497,-121.78042,CA,Single-Family Home,640000,"$753,000 ",,,,,Sold,ALAMEDA
+94551,462 Selby Ln,,,Livermore,,24-Oct-13,"$612,000 ",37.70905,-121.79943,CA,Single-Family Home,612000,,,,,,Sold,ALAMEDA
+94550,936 Lisbon Ave,2,3,Livermore,"1,186 sqft",24-Oct-13,"$450,000 ",37.671574,-121.78351,CA,Single-Family Home,450000,"$539,000 ",,,,,Sold,ALAMEDA
+94550,580 S L St,1.5,3,Livermore,"2,075 sqft",24-Oct-13,"$815,000 ",37.677353,-121.76923,CA,Single-Family Home,815000,"$856,000 ",,,,,Sold,ALAMEDA
+94551,1453 Saybrook Rd,2,3,Livermore,"1,130 sqft",24-Oct-13,"$465,000 ",37.69409,-121.79557,CA,Single-Family Home,465000,"$554,000 ",,,,,Sold,ALAMEDA
+94550,2433 College Ave,,,Livermore,"2,117 sqft",24-Oct-13,"$687,000 ",37.674175,-121.76232,CA,Single-Family Home,687000,"$755,000 ",,,,,Sold,ALAMEDA
+94550,1212 Vienna St,1.5,3,Livermore,"1,026 sqft",24-Oct-13,"$510,000 ",37.66788,-121.77033,CA,Single-Family Home,510000,"$529,000 ",,,,,Sold,ALAMEDA
+94551,1744 Park St,1,3,Livermore,"1,014 sqft",24-Oct-13,"$403,000 ",37.684937,-121.77664,CA,Single-Family Home,403000,"$411,000 ",,,,,Sold,ALAMEDA
+94551,635 Hanover St,2,3,Livermore,"1,366 sqft",23-Oct-13,"$500,000 ",37.691856,-121.79243,CA,Single-Family Home,500000,"$597,000 ",,,,,Sold,ALAMEDA
+94551,6191 Saint Andrews Way,2.5,4,Livermore,"1,677 sqft",23-Oct-13,"$473,500 ",37.714676,-121.72135,CA,Single-Family Home,473500,"$596,000 ",,,,,Sold,ALAMEDA
+94551,2168 Fernbrook Cmn,2.5,3,Livermore,"1,526 sqft",23-Oct-13,"$440,000 ",37.723793,-121.72103,CA,Single-Family Home,440000,"$592,000 ",,,,,Sold,ALAMEDA
+94550,5477 Carnegie Loop,2,4,Livermore,"2,276 sqft",22-Oct-13,"$832,000 ",37.675945,-121.72821,CA,Single-Family Home,832000,"$884,000 ",,,,,Sold,ALAMEDA
+94551,253 Bellington Cmn #4,2,2,Livermore,947 sqft,22-Oct-13,"$365,000 ",37.70823,-121.806885,CA,Condo,365000,"$428,000 ",,,,,Sold,ALAMEDA
+94550,1169 Canton Ave,2,3,Livermore,"1,508 sqft",21-Oct-13,"$570,000 ",37.66856,-121.778275,CA,Single-Family Home,570000,"$645,000 ",,,,,Sold,ALAMEDA
+94550,374 Alice Way,2,3,Livermore,"1,200 sqft",21-Oct-13,"$495,000 ",37.67228,-121.79746,CA,Single-Family Home,495000,"$553,000 ",,,,,Sold,ALAMEDA
+94551,1129 Ventura Ave,1,2,Livermore,770 sqft,18-Oct-13,"$320,000 ",37.681194,-121.78237,CA,Single-Family Home,320000,"$364,000 ",,,,,Sold,ALAMEDA
+94551,388 James St,3,5,Livermore,"1,546 sqft",18-Oct-13,"$435,000 ",37.683846,-121.781204,CA,Single-Family Home,435000,"$531,000 ",,,,,Sold,ALAMEDA
+94551,486 Selby Ln,,,Livermore,,18-Oct-13,"$570,500 ",37.70907,-121.79914,CA,Single-Family Home,570500,,,,,,Sold,ALAMEDA
+94550,644 Canterbury Ave,2,3,Livermore,"1,512 sqft",18-Oct-13,"$590,000 ",37.66324,-121.79107,CA,Single-Family Home,590000,"$608,000 ",,,,,Sold,ALAMEDA
+94550,1146 Essex St,2,3,Livermore,"1,440 sqft",17-Oct-13,"$555,000 ",37.668583,-121.775925,CA,Single-Family Home,555000,"$630,000 ",,,,,Sold,ALAMEDA
+94551,1549 Sunset Dr,2,3,Livermore,"1,064 sqft",17-Oct-13,"$450,000 ",37.691154,-121.78099,CA,Single-Family Home,450000,"$489,000 ",,,,,Sold,ALAMEDA
+94550,2117 Hampton Rd,2,5,Livermore,"2,300 sqft",17-Oct-13,"$720,000 ",37.656414,-121.78236,CA,Single-Family Home,720000,"$860,000 ",,,,,Sold,ALAMEDA
+94551,484 Selby Ln,,,Livermore,,17-Oct-13,"$592,500 ",37.709152,-121.79916,CA,Single-Family Home,592500,,,,,,Sold,ALAMEDA
+94550,1430 Calvary Ln,2,4,Livermore,"2,224 sqft",16-Oct-13,"$885,000 ",37.67827,-121.73387,CA,Farm/Ranch,885000,"$864,000 ",,,,,Sold,ALAMEDA
+94551,1784 Altamar Way,2,3,Livermore,"1,506 sqft",16-Oct-13,"$475,500 ",37.721756,-121.72225,CA,Single-Family Home,475500,"$621,000 ",,,,,Sold,ALAMEDA
+94551,6130 Forget Me Not,2.5,2,Livermore,"1,225 sqft",16-Oct-13,"$378,000 ",37.714,-121.72308,CA,Condo,378000,"$424,000 ",,,,,Sold,ALAMEDA
+94551,490 N O St,3,3,Livermore,"1,606 sqft",16-Oct-13,"$469,000 ",37.685444,-121.77715,CA,Single-Family Home,469000,"$508,000 ",,,,,Sold,ALAMEDA
+94550,220 Wood St #603,2.5,2,Livermore,"1,420 sqft",16-Oct-13,"$146,500 ",37.68419,-121.763084,CA,Condo,146500,"$466,000 ",,,,,Sold,ALAMEDA
+94550,2278 Robinson Cir,3,4,Livermore,"2,537 sqft",16-Oct-13,"$822,000 ",37.674034,-121.722466,CA,Single-Family Home,822000,"$951,000 ",,,,,Sold,ALAMEDA
+94551,525 Selby Ln #3,,,Livermore,,16-Oct-13,"$611,000 ",37.70873,-121.79855,CA,Condo,611000,,,,,,Sold,ALAMEDA
+94550,2927 Bresso Dr,3,5,Livermore,"2,820 sqft",16-Oct-13,"$925,000 ",37.649384,-121.78404,CA,Single-Family Home,925000,"$1,126,000 ",,,,,Sold,ALAMEDA
+94551,1384 Tulip Way,2,3,Livermore,"1,717 sqft",16-Oct-13,"$562,000 ",37.71062,-121.73946,CA,Single-Family Home,562000,"$588,000 ",,,,,Sold,ALAMEDA
+94551,2114 Ponderosa Dr,2,3,Livermore,"1,224 sqft",16-Oct-13,"$475,000 ",37.714462,-121.751396,CA,Single-Family Home,475000,"$536,000 ",,,,,Sold,ALAMEDA
+94551,634 Stetson Ct,2,3,Livermore,"1,254 sqft",15-Oct-13,"$500,000 ",37.697475,-121.79162,CA,Single-Family Home,500000,"$631,000 ",,,,,Sold,ALAMEDA
+94551,152 Heligan Ln,,,Livermore,,15-Oct-13,"$370,500 ",37.708363,-121.80299,CA,Condo,370500,,,,,,Sold,ALAMEDA
+94551,224 Martin Ave,2,3,Livermore,"1,400 sqft",14-Oct-13,"$530,000 ",37.688457,-121.76053,CA,Single-Family Home,530000,"$533,000 ",,,,,Sold,ALAMEDA
+94551,3650 Glasgow Cir,3,4,Livermore,"3,061 sqft",14-Oct-13,"$830,000 ",37.693882,-121.755646,CA,Single-Family Home,830000,"$959,000 ",,,,,Sold,ALAMEDA
+94550,2441 3rd St,1,4,Livermore,"1,530 sqft",11-Oct-13,"$570,000 ",37.68178,-121.765015,CA,Single-Family Home,570000,"$651,000 ",,,,,Sold,ALAMEDA
+94550,738 Moraga Dr,2,4,Livermore,"2,206 sqft",11-Oct-13,"$539,000 ",37.67166,-121.789665,CA,Single-Family Home,539000,"$715,000 ",,,,,Sold,ALAMEDA
+94551,285 Bellington Cmn #2,2.5,3,Livermore,"1,322 sqft",11-Oct-13,"$460,000 ",37.708115,-121.807205,CA,Condo,460000,"$490,000 ",,,,,Sold,ALAMEDA
+94551,474 Selby Ln,,,Livermore,,11-Oct-13,"$529,500 ",37.709316,-121.799484,CA,Single-Family Home,529500,,,,,,Sold,ALAMEDA
+94551,525 Selby Ln #2,,,Livermore,,11-Oct-13,"$557,500 ",37.70873,-121.79855,CA,Condo,557500,,,,,,Sold,ALAMEDA
+94550,1354 Lexington Way,2,3,Livermore,"1,664 sqft",11-Oct-13,"$686,500 ",37.653587,-121.778336,CA,Single-Family Home,686500,"$744,000 ",,,,,Sold,ALAMEDA
+94550,1667 2nd St,1,2,Livermore,956 sqft,11-Oct-13,"$477,500 ",37.678726,-121.77485,CA,Single-Family Home,477500,"$536,000 ",,,,,Sold,ALAMEDA
+94550,277 Mcleod St,3,5,Livermore,"2,324 sqft",11-Oct-13,"$750,000 ",37.681595,-121.76624,CA,Multi-Family,750000,,,,,,Sold,ALAMEDA
+94550,943 Miranda Way,2,4,Livermore,"1,652 sqft",10-Oct-13,"$559,000 ",37.66469,-121.78373,CA,Single-Family Home,559000,"$603,000 ",,,,,Sold,ALAMEDA
+94550,1149 Miranda Way,2,4,Livermore,"1,302 sqft",10-Oct-13,"$550,000 ",37.6647,-121.781456,CA,Single-Family Home,550000,"$555,000 ",,,,,Sold,ALAMEDA
+94550,3920 Princeton Way,1,2,Livermore,"1,434 sqft",10-Oct-13,"$425,000 ",37.68166,-121.75054,CA,Single-Family Home,425000,"$559,000 ",,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #340,1,1,Livermore,758 sqft,10-Oct-13,"$197,000 ",37.67515,-121.78144,CA,Condo,197000,"$226,000 ",,,,,Sold,ALAMEDA
+94550,353 Marie Cmn,2,3,Livermore,"1,249 sqft",10-Oct-13,"$420,000 ",37.690346,-121.737236,CA,Single-Family Home,420000,"$518,000 ",,,,,Sold,ALAMEDA
+94550,4885 Julie St,2,4,Livermore,"1,834 sqft",9-Oct-13,"$700,000 ",37.687027,-121.7351,CA,Single-Family Home,700000,"$785,000 ",,,,,Sold,ALAMEDA
+94551,1565 Hollyhock St,2,2,Livermore,"1,280 sqft",9-Oct-13,"$440,000 ",37.71314,-121.741585,CA,Single-Family Home,440000,"$504,000 ",,,,,Sold,ALAMEDA
+94551,325 Yosemite Dr,2,4,Livermore,"1,561 sqft",9-Oct-13,"$575,000 ",37.682404,-121.80189,CA,Single-Family Home,575000,"$631,000 ",,,,,Sold,ALAMEDA
+94551,1339 Maplewood Dr,2.5,4,Livermore,"1,839 sqft",8-Oct-13,"$608,000 ",37.717834,-121.72211,CA,Single-Family Home,608000,"$651,000 ",,,,,Sold,ALAMEDA
+94551,2065 Galloway Cmn,2.5,4,Livermore,"1,487 sqft",8-Oct-13,"$450,000 ",37.717464,-121.746765,CA,Townhouse,450000,"$466,000 ",,,,,Sold,ALAMEDA
+94551,5371 Windflower Dr,2.5,2,Livermore,"1,389 sqft",8-Oct-13,"$433,000 ",37.70781,-121.73106,CA,Single-Family Home,433000,"$520,000 ",,,,,Sold,ALAMEDA
+94551,525 Selby Ln #1,,,Livermore,,8-Oct-13,"$561,000 ",37.70873,-121.79855,CA,Condo,561000,,,,,,Sold,ALAMEDA
+94551,1812 Blackwood Cmn,2.5,3,Livermore,"1,581 sqft",8-Oct-13,"$540,000 ",37.691654,-121.777275,CA,Single-Family Home,540000,"$623,000 ",,,,,Sold,ALAMEDA
+94550,820 Saturn Way,3,5,Livermore,"1,920 sqft",7-Oct-13,"$635,000 ",37.66048,-121.787186,CA,Single-Family Home,635000,"$763,000 ",,,,,Sold,ALAMEDA
+94550,3022 Danielle Ln,4,4,Livermore,"3,482 sqft",7-Oct-13,"$1,310,000 ",37.649162,-121.75796,CA,Single-Family Home,1310000,"$1,303,000 ",,,,,Sold,ALAMEDA
+94550,2840 Superior Dr,2,5,Livermore,"2,300 sqft",4-Oct-13,"$725,000 ",37.651646,-121.77442,CA,Single-Family Home,725000,"$864,000 ",,,,,Sold,ALAMEDA
+94550,1961 Evans St,2,5,Livermore,"2,300 sqft",4-Oct-13,"$600,000 ",37.659424,-121.779396,CA,Single-Family Home,600000,"$869,000 ",,,,,Sold,ALAMEDA
+94551,1727 Calle Del Rey,3,3,Livermore,"1,752 sqft",4-Oct-13,"$526,000 ",37.694447,-121.777855,CA,Townhouse,526000,"$621,000 ",,,,,Sold,ALAMEDA
+94551,6480 Half Dome Ct,2.5,3,Livermore,"1,593 sqft",4-Oct-13,"$490,000 ",37.715763,-121.71874,CA,Single-Family Home,490000,"$609,000 ",,,,,Sold,ALAMEDA
+94551,545 Heligan Ln #3,2,3,Livermore,"1,635 sqft",4-Oct-13,"$575,000 ",37.707905,-121.7983,CA,Single-Family Home,575000,"$626,000 ",,,,,Sold,ALAMEDA
+94551,102 Windward Cmn,2.5,2,Livermore,"1,213 sqft",4-Oct-13,"$388,000 ",37.709858,-121.806145,CA,Condo,388000,"$474,000 ",,,,,Sold,ALAMEDA
+94551,1743 Paseo Laguna Seco,1.5,2,Livermore,"1,062 sqft",4-Oct-13,"$238,000 ",37.69633,-121.78123,CA,Condo,238000,"$310,000 ",,,,,Sold,ALAMEDA
+94551,5510 Idlewild Ave,2,3,Livermore,"1,461 sqft",4-Oct-13,"$480,000 ",37.72229,-121.73201,CA,Single-Family Home,480000,"$573,000 ",,,,,Sold,ALAMEDA
+94550,2658 Lucca Ct,3,3,Livermore,"2,906 sqft",4-Oct-13,"$920,000 ",37.66687,-121.75813,CA,Single-Family Home,920000,"$1,124,000 ",,,,,Sold,ALAMEDA
+94551,482 Selby Ln,,,Livermore,,4-Oct-13,"$636,000 ",37.70925,-121.79918,CA,Single-Family Home,636000,,,,,,Sold,ALAMEDA
+94550,1009 Murrieta Blvd,1,2,Livermore,861 sqft,4-Oct-13,"$229,000 ",37.6753,-121.782814,CA,Condo,229000,"$264,000 ",,,,,Sold,ALAMEDA
+94550,2933 1st St #1002,2.5,2,Livermore,"1,420 sqft",3-Oct-13,"$405,000 ",37.68467,-121.76251,CA,Condo,405000,"$449,000 ",,,,,Sold,ALAMEDA
+94551,1639 Portola Ave,,,Livermore,"2,382 sqft",3-Oct-13,"$695,000 ",37.69272,-121.77982,CA,Multi-Family,695000,,,,,,Sold,ALAMEDA
+94551,478 Selby Ln,,,Livermore,,3-Oct-13,"$589,500 ",37.709354,-121.799194,CA,Single-Family Home,589500,,,,,,Sold,ALAMEDA
+94550,5558 Agatha Way,3,4,Livermore,"2,268 sqft",3-Oct-13,"$790,000 ",37.684643,-121.72272,CA,Single-Family Home,790000,"$835,000 ",,,,,Sold,ALAMEDA
+94550,626 S L St,2,3,Livermore,"1,648 sqft",3-Oct-13,"$762,000 ",37.676876,-121.76889,CA,Single-Family Home,762000,"$682,000 ",,,,,Sold,ALAMEDA
+94550,483 Estates St,1,3,Livermore,"1,283 sqft",3-Oct-13,"$432,500 ",37.683098,-121.7519,CA,Single-Family Home,432500,"$519,000 ",,,,,Sold,ALAMEDA
+94550,5583 Stacy Ct,3,4,Livermore,"2,137 sqft",3-Oct-13,"$760,000 ",37.69436,-121.72416,CA,Single-Family Home,760000,"$873,000 ",,,,,Sold,ALAMEDA
+94550,2535 Kellogg Loop,4,5,Livermore,"3,287 sqft",2-Oct-13,"$975,000 ",37.670403,-121.72566,CA,Single-Family Home,975000,"$1,008,000 ",,,,,Sold,ALAMEDA
+94550,550 Escondido Cir,2,3,Livermore,"1,866 sqft",2-Oct-13,"$715,000 ",37.667072,-121.791,CA,Single-Family Home,715000,"$686,000 ",,,,,Sold,ALAMEDA
+94550,792 S I St,1.5,3,Livermore,"1,444 sqft",2-Oct-13,"$595,000 ",37.676476,-121.7645,CA,Single-Family Home,595000,"$609,000 ",,,,,Sold,ALAMEDA
+94550,829 Orion Way,2,3,Livermore,"1,324 sqft",2-Oct-13,"$600,000 ",37.656616,-121.78594,CA,Single-Family Home,600000,"$619,000 ",,,,,Sold,ALAMEDA
+94551,2228 Shetland Rd,2,3,Livermore,"1,549 sqft",2-Oct-13,"$362,500 ",37.721176,-121.744774,CA,Single-Family Home,362500,"$569,000 ",,,,,Sold,ALAMEDA
+94551,4807 Capriconus Ave,2,4,Livermore,"1,434 sqft",1-Oct-13,"$525,000 ",37.71739,-121.739845,CA,Single-Family Home,525000,"$518,000 ",,,,,Sold,ALAMEDA
+94551,58 Sparrow St,2,3,Livermore,"1,838 sqft",1-Oct-13,"$735,000 ",37.678234,-121.8026,CA,Single-Family Home,735000,"$775,000 ",,,,,Sold,ALAMEDA
+94551,265 Windward Cmn #7,2.5,3,Livermore,"1,385 sqft",1-Oct-13,"$470,000 ",37.709396,-121.80725,CA,Condo,470000,"$503,000 ",,,,,Sold,ALAMEDA
+94550,2077 Rivers Bend Cir,2.5,3,Livermore,"3,074 sqft",30-Sep-13,"$1,164,000 ",37.669193,-121.76722,CA,Single-Family Home,1164000,"$1,293,000 ",,,,,Sold,ALAMEDA
+94551,12540 Doubletree Ln,,,Livermore,"2,603 sqft",30-Sep-13,"$1,149,000 ",37.77317,-121.78295,CA,Farm/Ranch,1149000,"$1,248,000 ",,,,,Sold,CONTRA COSTA
+94550,1163 Innsbruck St,2,4,Livermore,"2,024 sqft",30-Sep-13,"$740,000 ",37.667397,-121.771805,CA,Single-Family Home,740000,"$820,000 ",,,,,Sold,ALAMEDA
+94550,374 Charlotte Cmn,2.5,3,Livermore,"1,514 sqft",30-Sep-13,"$459,000 ",37.69002,-121.737366,CA,Townhouse,459000,"$531,000 ",,,,,Sold,ALAMEDA
+94551,662 Heligan Ln #4,2,3,Livermore,"1,806 sqft",30-Sep-13,"$596,000 ",37.708405,-121.796364,CA,Single-Family Home,596000,"$658,000 ",,,,,Sold,ALAMEDA
+94551,1929 Linden St,2,4,Livermore,"1,620 sqft",30-Sep-13,"$480,000 ",37.687115,-121.77505,CA,Multi-Family,480000,"$488,000 ",,,,,Sold,ALAMEDA
+94550,988 Loyola Way,2.5,4,Livermore,"2,098 sqft",30-Sep-13,"$675,000 ",37.68185,-121.73861,CA,Single-Family Home,675000,"$759,000 ",,,,,Sold,ALAMEDA
+94550,4078 Stanford Way,2,3,Livermore,"1,497 sqft",30-Sep-13,"$560,000 ",37.683002,-121.74677,CA,Single-Family Home,560000,"$588,000 ",,,,,Sold,ALAMEDA
+94550,2265 Jeffrey St,3.5,4,Livermore,"3,784 sqft",27-Sep-13,"$249,500 ",37.658283,-121.77057,CA,Single-Family Home,249500,"$1,388,000 ",,,,,Sold,ALAMEDA
+94551,439 Oriole Ave,2,4,Livermore,"1,436 sqft",27-Sep-13,"$525,000 ",37.68324,-121.79014,CA,Single-Family Home,525000,"$560,000 ",,,,,Sold,ALAMEDA
+94550,391 Lincoln Ave,2,4,Livermore,"1,702 sqft",27-Sep-13,"$557,000 ",37.68474,-121.74648,CA,Single-Family Home,557000,"$635,000 ",,,,,Sold,ALAMEDA
+94550,1604 Peridot Dr,2,4,Livermore,"2,158 sqft",27-Sep-13,"$840,000 ",37.66416,-121.80298,CA,Single-Family Home,840000,"$886,000 ",,,,,Sold,ALAMEDA
+94550,672 Hazel St,1.5,3,Livermore,"1,400 sqft",27-Sep-13,"$505,000 ",37.6892,-121.731,CA,Single-Family Home,505000,"$570,000 ",,,,,Sold,ALAMEDA
+94550,1108 Megan Rd,2.5,4,Livermore,"2,230 sqft",27-Sep-13,"$705,000 ",37.68237,-121.73447,CA,Single-Family Home,705000,"$805,000 ",,,,,Sold,ALAMEDA
+94550,5446 Betty Cir,2.5,3,Livermore,"2,237 sqft",27-Sep-13,"$525,000 ",37.68662,-121.72476,CA,Single-Family Home,525000,"$658,000 ",,,,,Sold,ALAMEDA
+94551,4154 Torrey Pine Way,2,3,Livermore,"1,110 sqft",27-Sep-13,"$450,000 ",37.71084,-121.7501,CA,Single-Family Home,450000,"$483,000 ",,,,,Sold,ALAMEDA
+94551,733 Sandpiper Cmn,1.5,3,Livermore,"1,182 sqft",27-Sep-13,"$365,000 ",37.687798,-121.78989,CA,Townhouse,365000,"$404,000 ",,,,,Sold,ALAMEDA
+94551,449 Hummingbird Ln,2,3,Livermore,"1,366 sqft",27-Sep-13,"$590,000 ",37.680336,-121.79779,CA,Single-Family Home,590000,"$614,000 ",,,,,Sold,ALAMEDA
+94551,1134 Bluebell Dr,2,3,Livermore,"1,545 sqft",27-Sep-13,"$475,000 ",37.70953,-121.73518,CA,Single-Family Home,475000,"$562,000 ",,,,,Sold,ALAMEDA
+94551,1009 Spring Valley Cmn,1,2,Livermore,850 sqft,27-Sep-13,"$295,000 ",37.70568,-121.74258,CA,Townhouse,295000,"$375,000 ",,,,,Sold,ALAMEDA
+94550,894 Alexander St,2,4,Livermore,"1,518 sqft",26-Sep-13,"$550,000 ",37.672775,-121.78647,CA,Single-Family Home,550000,"$634,000 ",,,,,Sold,ALAMEDA
+94551,982 Waverly Cmn,2,3,Livermore,"1,733 sqft",26-Sep-13,"$567,000 ",37.69529,-121.762245,CA,Townhouse,567000,"$609,000 ",,,,,Sold,ALAMEDA
+94551,1722 Pine St,2,3,Livermore,"1,584 sqft",26-Sep-13,"$430,000 ",37.68968,-121.779434,CA,Single-Family Home,430000,"$560,000 ",,,,,Sold,ALAMEDA
+94550,3917 California Way,2,3,Livermore,"1,779 sqft",26-Sep-13,"$445,000 ",37.68194,-121.75112,CA,Single-Family Home,445000,"$621,000 ",,,,,Sold,ALAMEDA
+94551,3845 Dagnino Rd,2,4,Livermore,"3,508 sqft",26-Sep-13,"$900,000 ",37.735916,-121.7445,CA,Farm/Ranch,900000,"$1,262,000 ",,,,,Sold,ALAMEDA
+94550,846 Via Granada,2,3,Livermore,"1,174 sqft",26-Sep-13,"$485,000 ",37.671707,-121.78075,CA,Single-Family Home,485000,"$573,000 ",,,,,Sold,ALAMEDA
+94550,5492 Arlene Way,3,4,Livermore,"2,268 sqft",26-Sep-13,"$585,000 ",37.68598,-121.724205,CA,Single-Family Home,585000,"$841,000 ",,,,,Sold,ALAMEDA
+94551,1856 Blackwood Cmn,2,3,Livermore,"1,340 sqft",25-Sep-13,"$465,000 ",37.69115,-121.777664,CA,Single-Family Home,465000,"$623,000 ",,,,,Sold,ALAMEDA
+94551,1429 Winding Stream Dr,3,4,Livermore,"1,983 sqft",25-Sep-13,"$411,000 ",37.72082,-121.713425,CA,Single-Family Home,411000,"$720,000 ",,,,,Sold,ALAMEDA
+94550,743 Canterbury Ave,2,4,Livermore,"1,662 sqft",25-Sep-13,"$570,000 ",37.661816,-121.78944,CA,Single-Family Home,570000,"$621,000 ",,,,,Sold,ALAMEDA
+94550,462 Hillcrest Ave,3,4,Livermore,"1,665 sqft",25-Sep-13,"$515,000 ",37.683388,-121.74805,CA,Single-Family Home,515000,"$572,000 ",,,,,Sold,ALAMEDA
+94550,1499 Frankfurt Way,2,3,Livermore,"1,408 sqft",25-Sep-13,"$600,000 ",37.66491,-121.77332,CA,Single-Family Home,600000,"$657,000 ",,,,,Sold,ALAMEDA
+94550,342 Chris Cmn #107,1,1,Livermore,610 sqft,25-Sep-13,"$229,000 ",37.68832,-121.73793,CA,Condo,229000,"$257,000 ",,,,,Sold,ALAMEDA
+94551,5498 Treeflower Dr,1,2,Livermore,972 sqft,25-Sep-13,"$370,000 ",37.712353,-121.73055,CA,Single-Family Home,370000,"$438,000 ",,,,,Sold,ALAMEDA
+94550,1233 Murdell Ln,2,4,Livermore,"1,785 sqft",24-Sep-13,"$629,000 ",37.66615,-121.79853,CA,Single-Family Home,629000,"$698,000 ",,,,,Sold,ALAMEDA
+94551,420 N I St,1,3,Livermore,"1,424 sqft",24-Sep-13,"$445,000 ",37.687176,-121.76935,CA,Single-Family Home,445000,"$491,000 ",,,,,Sold,ALAMEDA
+94551,1286 Lambaren Ave,1,3,Livermore,982 sqft,24-Sep-13,"$340,000 ",37.68247,-121.78136,CA,Single-Family Home,340000,"$433,000 ",,,,,Sold,ALAMEDA
+94550,1783 Prima Dr,5,5,Livermore,"3,837 sqft",24-Sep-13,"$1,155,000 ",37.657177,-121.80283,CA,Single-Family Home,1155000,"$1,332,000 ",,,,,Sold,ALAMEDA
+94550,2811 San Minete Dr,3.5,4,Livermore,"3,687 sqft",24-Sep-13,"$968,000 ",37.663837,-121.75641,CA,Single-Family Home,968000,"$1,327,000 ",,,,,Sold,ALAMEDA
+94550,2112 Tuscany Cir,2.5,4,Livermore,"2,622 sqft",24-Sep-13,"$1,045,000 ",37.660995,-121.76009,CA,Single-Family Home,1045000,"$1,258,000 ",,,,,Sold,ALAMEDA
+94551,523 Heligan Ln #1,2,2,Livermore,"1,639 sqft",20-Sep-13,"$520,000 ",37.707916,-121.79856,CA,Single-Family Home,520000,"$584,000 ",,,,,Sold,ALAMEDA
+94551,549 Selby Ln #3,,,Livermore,,20-Sep-13,"$584,500 ",37.708717,-121.798294,CA,Condo,584500,,,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #350,2,2,Livermore,955 sqft,20-Sep-13,"$251,000 ",37.67515,-121.78144,CA,Condo,251000,"$280,000 ",,,,,Sold,ALAMEDA
+94551,1789 Corte Sueno,2.5,3,Livermore,"1,840 sqft",20-Sep-13,"$545,000 ",37.69366,-121.77745,CA,Townhouse,545000,"$634,000 ",,,,,Sold,ALAMEDA
+94550,2238 4th St,2,3,Livermore,"1,392 sqft",20-Sep-13,"$499,000 ",37.679855,-121.767334,CA,Multi-Family,499000,,,,,,Sold,ALAMEDA
+94550,3659 Carrigan Cmn,1.5,3,Livermore,"1,242 sqft",19-Sep-13,"$329,000 ",37.67823,-121.75516,CA,Townhouse,329000,"$413,000 ",,,,,Sold,ALAMEDA
+94550,2144 Roundhill Pl,3,5,Livermore,"3,944 sqft",19-Sep-13,"$1,435,000 ",37.655334,-121.79203,CA,Single-Family Home,1435000,"$1,565,000 ",,,,,Sold,ALAMEDA
+94550,288 Kyle Cmn,2.5,3,Livermore,"2,454 sqft",19-Sep-13,"$765,000 ",37.689507,-121.74047,CA,Single-Family Home,765000,"$894,000 ",,,,,Sold,ALAMEDA
+94551,6420 Rosemary Cmn,2.5,4,Livermore,"1,747 sqft",19-Sep-13,"$559,000 ",37.7242,-121.71941,CA,Single-Family Home,559000,"$611,000 ",,,,,Sold,ALAMEDA
+94550,238 Garnet Dr,2.5,4,Livermore,"2,004 sqft",19-Sep-13,"$620,000 ",37.668888,-121.79984,CA,Single-Family Home,620000,"$691,000 ",,,,,Sold,ALAMEDA
+94551,1403 Aspen Ct,2.5,4,Livermore,"2,187 sqft",19-Sep-13,"$650,000 ",37.716427,-121.72913,CA,Single-Family Home,650000,"$674,000 ",,,,,Sold,ALAMEDA
+94550,3066 Olivoro Ct,4.5,5,Livermore,"4,370 sqft",18-Sep-13,"$1,350,000 ",37.647457,-121.77165,CA,Single-Family Home,1350000,"$1,485,000 ",,,,,Sold,ALAMEDA
+94550,928 Jessica Dr,2,4,Livermore,"1,736 sqft",18-Sep-13,"$675,000 ",37.689617,-121.72382,CA,Single-Family Home,675000,"$788,000 ",,,,,Sold,ALAMEDA
+94551,164 Heligan Ln,,,Livermore,,18-Sep-13,"$485,000 ",37.708416,-121.80259,CA,Condo,485000,,,,,,Sold,ALAMEDA
+94551,5688 Crestmont Ave,2,3,Livermore,"1,006 sqft",18-Sep-13,"$422,000 ",37.720295,-121.72861,CA,Single-Family Home,422000,"$485,000 ",,,,,Sold,ALAMEDA
+94551,6401 Dove Ct,2,4,Livermore,"1,703 sqft",18-Sep-13,"$634,000 ",37.720695,-121.71874,CA,Single-Family Home,634000,"$675,000 ",,,,,Sold,ALAMEDA
+94551,2390 Harewood Dr,2,3,Livermore,"1,372 sqft",18-Sep-13,"$560,000 ",37.69213,-121.77166,CA,Single-Family Home,560000,"$580,000 ",,,,,Sold,ALAMEDA
+94550,368 Hillcrest Ave,2,3,Livermore,"1,346 sqft",18-Sep-13,"$427,500 ",37.68428,-121.748055,CA,Single-Family Home,427500,"$550,000 ",,,,,Sold,ALAMEDA
+94551,4001 Emerson Dr,2.5,4,Livermore,"2,223 sqft",17-Sep-13,"$755,000 ",37.69571,-121.75004,CA,Single-Family Home,755000,"$838,000 ",,,,,Sold,ALAMEDA
+94551,1721 Morning Glory Rd,,,Livermore,"1,556 sqft",17-Sep-13,"$550,000 ",37.712765,-121.74542,CA,Single-Family Home,550000,"$667,000 ",,,,,Sold,ALAMEDA
+94550,2487 Pienza St,3,4,Livermore,"2,820 sqft",17-Sep-13,"$949,000 ",37.652935,-121.78567,CA,Single-Family Home,949000,"$1,110,000 ",,,,,Sold,ALAMEDA
+94550,1598 Carnelian Ln,3,5,Livermore,"2,837 sqft",17-Sep-13,"$926,000 ",37.662155,-121.80008,CA,Single-Family Home,926000,"$1,060,000 ",,,,,Sold,ALAMEDA
+94550,778 Vivian Dr,2,3,Livermore,"1,504 sqft",17-Sep-13,"$580,000 ",37.691895,-121.722984,CA,Single-Family Home,580000,"$694,000 ",,,,,Sold,ALAMEDA
+94551,1759 Mallard Ct,2.5,4,Livermore,"2,377 sqft",17-Sep-13,"$718,000 ",37.72209,-121.718605,CA,Single-Family Home,718000,"$764,000 ",,,,,Sold,ALAMEDA
+94551,1130 Orchid St,,,Livermore,,17-Sep-13,"$345,000 ",37.714222,-121.725426,CA,Single-Family Home,345000,,,,,,Sold,ALAMEDA
+94550,406 Andrea Cir,2,3,Livermore,"1,963 sqft",16-Sep-13,"$556,000 ",37.691795,-121.73431,CA,Single-Family Home,556000,"$722,000 ",,,,,Sold,ALAMEDA
+94551,1146 Bluebell Dr,2,3,Livermore,"1,752 sqft",13-Sep-13,"$525,000 ",37.70991,-121.73517,CA,Single-Family Home,525000,"$591,000 ",,,,,Sold,ALAMEDA
+94550,1162 Batavia Ave,3.5,4,Livermore,"2,134 sqft",13-Sep-13,"$660,000 ",37.668617,-121.77862,CA,Single-Family Home,660000,"$782,000 ",,,,,Sold,ALAMEDA
+94551,795 Pine St,1.5,3,Livermore,"1,182 sqft",13-Sep-13,"$361,000 ",37.688168,-121.78924,CA,Townhouse,361000,"$388,000 ",,,,,Sold,ALAMEDA
+94550,363 Burgess St,2,3,Livermore,"1,192 sqft",13-Sep-13,"$475,000 ",37.684643,-121.74951,CA,Single-Family Home,475000,"$511,000 ",,,,,Sold,ALAMEDA
+94550,619 Jade Pl,2,3,Livermore,"1,852 sqft",13-Sep-13,"$650,000 ",37.668488,-121.80383,CA,Single-Family Home,650000,"$690,000 ",,,,,Sold,ALAMEDA
+94550,1126 Marlys Cmn,2.5,3,Livermore,"1,625 sqft",13-Sep-13,"$479,000 ",37.674904,-121.75975,CA,Townhouse,479000,"$606,000 ",,,,,Sold,ALAMEDA
+94550,342 Chris Cmn #110,2,2,Livermore,841 sqft,13-Sep-13,"$210,000 ",37.68832,-121.73793,CA,Condo,210000,"$279,000 ",,,,,Sold,ALAMEDA
+94551,1253 Heather Ln,1.5,3,Livermore,"1,040 sqft",13-Sep-13,"$340,000 ",37.7115,-121.734055,CA,Single-Family Home,340000,"$455,000 ",,,,,Sold,ALAMEDA
+94551,2828 Lemon Cmn,3,3,Livermore,"1,786 sqft",12-Sep-13,"$598,000 ",37.707855,-121.79927,CA,Single-Family Home,598000,"$635,000 ",,,,,Sold,ALAMEDA
+94550,335 Beverly St,2,4,Livermore,"1,986 sqft",12-Sep-13,"$660,000 ",37.687843,-121.74195,CA,Single-Family Home,660000,"$792,000 ",,,,,Sold,ALAMEDA
+94550,4772 Nicol Cmn #106,2,2,Livermore,842 sqft,12-Sep-13,"$227,000 ",37.68883,-121.73731,CA,Condo,227000,"$316,000 ",,,,,Sold,ALAMEDA
+94551,529 Humboldt Way,2,3,Livermore,"1,640 sqft",12-Sep-13,"$519,000 ",37.69585,-121.79369,CA,Single-Family Home,519000,"$602,000 ",,,,,Sold,ALAMEDA
+94551,442 N I St,1,2,Livermore,770 sqft,12-Sep-13,"$305,000 ",37.687305,-121.76945,CA,Single-Family Home,305000,"$407,000 ",,,,,Sold,ALAMEDA
+94550,2878 4th St #1403,2.5,2,Livermore,"1,420 sqft",11-Sep-13,"$425,000 ",37.68444,-121.761955,CA,Condo,425000,"$491,000 ",,,,,Sold,ALAMEDA
+94551,849 Hanover St,3,5,Livermore,"2,033 sqft",11-Sep-13,"$607,000 ",37.69456,-121.79162,CA,Single-Family Home,607000,"$648,000 ",,,,,Sold,ALAMEDA
+94551,5414 Starflower Way,2.5,3,Livermore,"1,787 sqft",10-Sep-13,"$555,000 ",37.709362,-121.73008,CA,Single-Family Home,555000,"$601,000 ",,,,,Sold,ALAMEDA
+94551,6860 Garaventa Ranch Rd,2.5,3,Livermore,"2,132 sqft",10-Sep-13,"$625,000 ",37.718197,-121.71718,CA,Single-Family Home,625000,"$723,000 ",,,,,Sold,ALAMEDA
+94550,1911 De Vaca Way,1.5,3,Livermore,"1,192 sqft",10-Sep-13,"$415,000 ",37.67024,-121.76845,CA,Single-Family Home,415000,"$534,000 ",,,,,Sold,ALAMEDA
+94551,194 Selby Ln,2,2,Livermore,"1,138 sqft",10-Sep-13,"$419,000 ",37.708893,-121.80179,CA,Single-Family Home,419000,"$541,000 ",,,,,Sold,ALAMEDA
+94551,2833 Alnwick Ave,2.5,2,Livermore,"1,505 sqft",10-Sep-13,"$488,000 ",37.707745,-121.80291,CA,Single-Family Home,488000,"$588,000 ",,,,,Sold,ALAMEDA
+94551,1475 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",10-Sep-13,"$335,000 ",37.70838,-121.746864,CA,Townhouse,335000,"$415,000 ",,,,,Sold,ALAMEDA
+94550,486 Andrea Cir,2.5,4,Livermore,"1,499 sqft",9-Sep-13,"$517,500 ",37.690407,-121.73368,CA,Single-Family Home,517500,"$598,000 ",,,,,Sold,ALAMEDA
+94550,1166 Hillcrest Ave,2,3,Livermore,"1,510 sqft",9-Sep-13,"$565,000 ",37.677834,-121.74801,CA,Single-Family Home,565000,"$618,000 ",,,,,Sold,ALAMEDA
+94551,1723 Elm St,2,3,Livermore,"1,442 sqft",6-Sep-13,"$465,000 ",37.687355,-121.77797,CA,Single-Family Home,465000,"$544,000 ",,,,,Sold,ALAMEDA
+94551,844 Placenza St,2.5,4,Livermore,"2,428 sqft",6-Sep-13,"$720,000 ",37.68712,-121.79191,CA,Single-Family Home,720000,"$827,000 ",,,,,Sold,ALAMEDA
+94551,753 Pine St,1.5,3,Livermore,"1,182 sqft",6-Sep-13,"$291,000 ",37.68817,-121.78999,CA,Townhouse,291000,"$394,000 ",,,,,Sold,ALAMEDA
+94550,1102 Dana Cir,3.5,4,Livermore,"2,618 sqft",6-Sep-13,"$735,000 ",37.68092,-121.73648,CA,Single-Family Home,735000,"$901,000 ",,,,,Sold,ALAMEDA
+94550,705 Hazel St,1.5,3,Livermore,"1,498 sqft",5-Sep-13,"$535,000 ",37.68905,-121.73155,CA,Single-Family Home,535000,"$625,000 ",,,,,Sold,ALAMEDA
+94551,6422 Half Dome Way,2.5,3,Livermore,"1,593 sqft",5-Sep-13,"$552,000 ",37.715767,-121.71947,CA,Single-Family Home,552000,"$627,000 ",,,,,Sold,ALAMEDA
+94550,794 Dana Cir,2.5,3,Livermore,"1,784 sqft",4-Sep-13,"$515,000 ",37.68407,-121.73691,CA,Single-Family Home,515000,"$661,000 ",,,,,Sold,ALAMEDA
+94551,556 Morgan Cmn,1.5,3,Livermore,"1,321 sqft",4-Sep-13,"$375,000 ",37.688652,-121.768295,CA,Townhouse,375000,"$423,000 ",,,,,Sold,ALAMEDA
+94551,874 Hanover St,3,3,Livermore,"1,854 sqft",4-Sep-13,"$580,000 ",37.694363,-121.792366,CA,Single-Family Home,580000,"$656,000 ",,,,,Sold,ALAMEDA
+94550,5536 Stockton Loop,5,5,Livermore,"4,199 sqft",4-Sep-13,"$1,135,000 ",37.671925,-121.72938,CA,Single-Family Home,1135000,"$1,379,000 ",,,,,Sold,ALAMEDA
+94551,778 Cardinal Dr,2,3,Livermore,"1,209 sqft",3-Sep-13,"$475,000 ",37.6806,-121.78778,CA,Single-Family Home,475000,"$505,000 ",,,,,Sold,ALAMEDA
+94550,2758 Cellars Ct,3.5,4,Livermore,"3,681 sqft",3-Sep-13,"$1,230,000 ",37.649345,-121.77753,CA,Single-Family Home,1230000,"$1,236,000 ",,,,,Sold,ALAMEDA
+94550,2329 Treadwell St,2,3,Livermore,"2,190 sqft",30-Aug-13,"$828,000 ",37.673054,-121.725685,CA,Single-Family Home,828000,"$946,000 ",,,,,Sold,ALAMEDA
+94550,1923 De Vaca Way,1,2,Livermore,858 sqft,30-Aug-13,"$360,000 ",37.67047,-121.76844,CA,Single-Family Home,360000,"$477,000 ",,,,,Sold,ALAMEDA
+94551,4184 Torrey Pine Way,1,2,Livermore,959 sqft,30-Aug-13,"$350,000 ",37.711006,-121.7494,CA,Single-Family Home,350000,"$435,000 ",,,,,Sold,ALAMEDA
+94550,616 Carla St,2,3,Livermore,"1,318 sqft",30-Aug-13,"$525,000 ",37.690422,-121.72917,CA,Single-Family Home,525000,"$570,000 ",,,,,Sold,ALAMEDA
+94550,5719 Arlene Way,2,3,Livermore,"1,858 sqft",30-Aug-13,"$635,000 ",37.689205,-121.72126,CA,Single-Family Home,635000,"$765,000 ",,,,,Sold,ALAMEDA
+94550,3135 Chateau Way #105,1,1,Livermore,694 sqft,30-Aug-13,"$235,000 ",37.671688,-121.75475,CA,Condo,235000,"$258,000 ",,,,,Sold,ALAMEDA
+94551,3016 Kennedy St,3.5,4,Livermore,"2,205 sqft",30-Aug-13,"$350,000 ",37.69078,-121.762375,CA,Multi-Family,350000,,,,,,Sold,ALAMEDA
+94551,1419 Saybrook Rd,2,3,Livermore,"1,130 sqft",30-Aug-13,"$482,000 ",37.693584,-121.795586,CA,Single-Family Home,482000,"$563,000 ",,,,,Sold,ALAMEDA
+94551,5233 Peony Dr,2,2,Livermore,"1,280 sqft",30-Aug-13,"$435,000 ",37.714348,-121.74076,CA,Single-Family Home,435000,"$521,000 ",,,,,Sold,ALAMEDA
+94551,324 Yosemite Dr,2,4,Livermore,"1,561 sqft",30-Aug-13,"$586,000 ",37.682144,-121.80234,CA,Single-Family Home,586000,"$639,000 ",,,,,Sold,ALAMEDA
+94550,1735 Dawn St,2,3,Livermore,"1,545 sqft",30-Aug-13,"$556,000 ",37.681572,-121.72385,CA,Single-Family Home,556000,"$654,000 ",,,,,Sold,ALAMEDA
+94551,1389 N P St,2,3,Livermore,"1,404 sqft",30-Aug-13,"$375,000 ",37.69385,-121.78203,CA,Single-Family Home,375000,"$517,000 ",,,,,Sold,ALAMEDA
+94550,1407 Rebecca Dr,3,4,Livermore,"2,515 sqft",30-Aug-13,"$765,000 ",37.685993,-121.72217,CA,Single-Family Home,765000,"$854,000 ",,,,,Sold,ALAMEDA
+94550,3829 Yale Way,2,2,Livermore,"1,200 sqft",30-Aug-13,"$430,000 ",37.683376,-121.7544,CA,Single-Family Home,430000,"$526,000 ",,,,,Sold,ALAMEDA
+94550,367 Estates St,2,3,Livermore,"1,608 sqft",30-Aug-13,"$565,000 ",37.684525,-121.7519,CA,Single-Family Home,565000,"$597,000 ",,,,,Sold,ALAMEDA
+94551,1341 Wilton Rd,2,4,Livermore,"1,918 sqft",30-Aug-13,"$575,000 ",37.693462,-121.79447,CA,Single-Family Home,575000,"$615,000 ",,,,,Sold,ALAMEDA
+94550,3836 Yale Way,2,3,Livermore,"1,224 sqft",30-Aug-13,"$403,500 ",37.683807,-121.75386,CA,Single-Family Home,403500,"$529,000 ",,,,,Sold,ALAMEDA
+94551,4086 Loch Lomand Way,3,4,Livermore,"2,861 sqft",30-Aug-13,"$750,000 ",37.6952,-121.74946,CA,Single-Family Home,750000,"$824,000 ",,,,,Sold,ALAMEDA
+94551,45 Cascade Ave,2,4,Livermore,"1,536 sqft",30-Aug-13,"$562,500 ",37.683403,-121.803535,CA,Single-Family Home,562500,"$637,000 ",,,,,Sold,ALAMEDA
+94551,1866 Corte Cava,3,3,Livermore,"1,752 sqft",29-Aug-13,"$510,000 ",37.693417,-121.77621,CA,Townhouse,510000,"$614,000 ",,,,,Sold,ALAMEDA
+94551,1144 Apache St,2,3,Livermore,"1,200 sqft",29-Aug-13,"$486,500 ",37.690247,-121.78459,CA,Single-Family Home,486500,"$527,000 ",,,,,Sold,ALAMEDA
+94551,2602 Wellingham Dr,2,3,Livermore,"1,372 sqft",29-Aug-13,"$355,000 ",37.693123,-121.76816,CA,Single-Family Home,355000,"$574,000 ",,,,,Sold,ALAMEDA
+94551,524 Dovecote Ln #1,2,2,Livermore,"1,639 sqft",29-Aug-13,"$526,000 ",37.7076,-121.79857,CA,Single-Family Home,526000,"$594,000 ",,,,,Sold,ALAMEDA
+94550,1873 De Vaca Way,1.5,3,Livermore,"1,192 sqft",29-Aug-13,"$365,000 ",37.669888,-121.76913,CA,Single-Family Home,365000,"$488,000 ",,,,,Sold,ALAMEDA
+94551,1312 Maplewood Dr,2.5,4,Livermore,"1,839 sqft",29-Aug-13,"$586,000 ",37.71763,-121.722626,CA,Single-Family Home,586000,"$658,000 ",,,,,Sold,ALAMEDA
+94550,4154 Sonia St,1,,Livermore,685 sqft,29-Aug-13,"$815,000 ",37.688858,-121.744316,CA,Single-Family Home,815000,"$833,000 ",,,,,Sold,ALAMEDA
+94550,2651 Crescent Ct,3,4,Livermore,"3,478 sqft",28-Aug-13,"$1,134,000 ",37.665543,-121.760765,CA,Single-Family Home,1134000,"$1,370,000 ",,,,,Sold,ALAMEDA
+94551,569 Cedar Dr,2,3,Livermore,"1,402 sqft",28-Aug-13,"$510,000 ",37.685658,-121.79334,CA,Single-Family Home,510000,"$587,000 ",,,,,Sold,ALAMEDA
+94551,188 Heligan Ln,3.5,3,Livermore,"1,548 sqft",28-Aug-13,"$535,000 ",37.708065,-121.80217,CA,Single-Family Home,535000,"$598,000 ",,,,,Sold,ALAMEDA
+94551,411 Falcon Way,2,3,Livermore,"1,257 sqft",28-Aug-13,"$465,000 ",37.68307,-121.78735,CA,Single-Family Home,465000,"$513,000 ",,,,,Sold,ALAMEDA
+94551,5659 Bridgeport Cir,2,3,Livermore,"1,524 sqft",27-Aug-13,"$510,000 ",37.72455,-121.731544,CA,Single-Family Home,510000,"$566,000 ",,,,,Sold,ALAMEDA
+94550,170 N N St #102,3.5,3,Livermore,"1,780 sqft",27-Aug-13,"$497,000 ",37.682487,-121.77467,CA,Single-Family Home,497000,"$560,000 ",,,,,Sold,ALAMEDA
+94551,349 Hummingbird Ln,2,4,Livermore,"1,561 sqft",27-Aug-13,"$586,000 ",37.681232,-121.80011,CA,Single-Family Home,586000,"$633,000 ",,,,,Sold,ALAMEDA
+94550,863 Camelia Dr,2,3,Livermore,"1,200 sqft",27-Aug-13,"$400,000 ",37.671078,-121.786705,CA,Single-Family Home,400000,"$563,000 ",,,,,Sold,ALAMEDA
+94550,951 Orion Way,2,3,Livermore,"1,664 sqft",27-Aug-13,"$705,000 ",37.65659,-121.78338,CA,Single-Family Home,705000,"$739,000 ",,,,,Sold,ALAMEDA
+94550,311 Fontonett Ave,3,4,Livermore,"3,282 sqft",27-Aug-13,"$831,000 ",37.661495,-121.797905,CA,Single-Family Home,831000,"$1,056,000 ",,,,,Sold,ALAMEDA
+94550,1342 Fairview Ct,2.5,4,Livermore,"1,928 sqft",27-Aug-13,"$665,000 ",37.665253,-121.78645,CA,Single-Family Home,665000,"$709,000 ",,,,,Sold,ALAMEDA
+94550,1112 Crystal Cir,2,3,Livermore,"1,351 sqft",26-Aug-13,"$605,000 ",37.666397,-121.80446,CA,Single-Family Home,605000,"$639,000 ",,,,,Sold,ALAMEDA
+94550,1235 Lomitas Ave,2,5,Livermore,"2,300 sqft",26-Aug-13,"$750,000 ",37.658733,-121.7798,CA,Single-Family Home,750000,"$876,000 ",,,,,Sold,ALAMEDA
+94550,2709 Lucca Ct,3,4,Livermore,"3,211 sqft",26-Aug-13,"$980,000 ",37.666344,-121.75763,CA,Single-Family Home,980000,"$1,122,000 ",,,,,Sold,ALAMEDA
+94550,646 Murdell Ln,2,3,Livermore,"1,592 sqft",26-Aug-13,"$440,000 ",37.670536,-121.79878,CA,Single-Family Home,440000,"$614,000 ",,,,,Sold,ALAMEDA
+94550,216 Sonia Way,,,Livermore,,26-Aug-13,"$790,000 ",37.687843,-121.74769,CA,Single-Family Home,790000,,,,,,Sold,ALAMEDA
+94550,258 Sonia Way,,,Livermore,,23-Aug-13,"$798,000 ",37.68787,-121.74769,CA,Lot/Land,798000,,,,,,Sold,ALAMEDA
+94550,2389 3rd St,3,6,Livermore,"2,943 sqft",23-Aug-13,"$875,000 ",37.6813,-121.76567,CA,Multi-Family,875000,,,,,,Sold,ALAMEDA
+94551,1775 Rose Gate Cmn,2.5,3,Livermore,"2,233 sqft",23-Aug-13,"$605,000 ",37.719524,-121.72285,CA,Single-Family Home,605000,"$700,000 ",,,,,Sold,ALAMEDA
+94551,7 Meritage Cmn #201,2,2,Livermore,"1,019 sqft",23-Aug-13,"$385,000 ",37.711113,-121.806145,CA,Condo,385000,"$464,000 ",,,,,Sold,ALAMEDA
+94550,2470 Tapestry Ct,3.5,3,Livermore,"4,158 sqft",23-Aug-13,"$1,225,000 ",37.660763,-121.76286,CA,Single-Family Home,1225000,"$1,545,000 ",,,,,Sold,ALAMEDA
+94551,577 Summertree Dr,2,3,Livermore,"1,838 sqft",23-Aug-13,"$700,000 ",37.678577,-121.79514,CA,Single-Family Home,700000,"$756,000 ",,,,,Sold,ALAMEDA
+94551,1518 Portola Ave,1.5,2,Livermore,982 sqft,23-Aug-13,"$250,000 ",37.69493,-121.78109,CA,Condo,250000,"$337,000 ",,,,,Sold,ALAMEDA
+94550,2686 Chablis Way,3,3,Livermore,"3,153 sqft",23-Aug-13,"$906,000 ",37.672783,-121.759995,CA,Single-Family Home,906000,"$1,031,000 ",,,,,Sold,ALAMEDA
+94550,1945 Heidelberg Dr,2,5,Livermore,"2,300 sqft",23-Aug-13,"$720,000 ",37.664505,-121.770256,CA,Single-Family Home,720000,"$813,000 ",,,,,Sold,ALAMEDA
+94550,439 Mulqueeney St,2,3,Livermore,"1,166 sqft",23-Aug-13,"$475,000 ",37.690727,-121.73535,CA,Single-Family Home,475000,"$578,000 ",,,,,Sold,ALAMEDA
+94551,276 Wildrose Cmn #1,2,2,Livermore,947 sqft,23-Aug-13,"$393,000 ",37.70856,-121.806984,CA,Condo,393000,"$419,000 ",,,,,Sold,ALAMEDA
+94551,1121 Orchid St,,,Livermore,,23-Aug-13,"$316,000 ",37.713875,-121.724655,CA,Unknown,316000,,,,,,Sold,ALAMEDA
+94550,2150 Cabernet Way,3.5,5,Livermore,"3,565 sqft",23-Aug-13,"$1,210,000 ",37.668648,-121.76624,CA,Single-Family Home,1210000,"$1,333,000 ",,,,,Sold,ALAMEDA
+94551,4120 Pinon Way,2,3,Livermore,"1,308 sqft",23-Aug-13,"$471,000 ",37.713894,-121.750465,CA,Single-Family Home,471000,"$518,000 ",,,,,Sold,ALAMEDA
+94550,3958 Yale Way,1,3,Livermore,"1,040 sqft",23-Aug-13,"$435,000 ",37.683804,-121.74992,CA,Single-Family Home,435000,"$501,000 ",,,,,Sold,ALAMEDA
+94550,2830 College Ave,2.5,3,Livermore,"1,492 sqft",23-Aug-13,"$445,000 ",37.674656,-121.75786,CA,Townhouse,445000,"$551,000 ",,,,,Sold,ALAMEDA
+94551,1855 Calle Del Sueno,2.5,3,Livermore,"1,840 sqft",23-Aug-13,"$535,000 ",37.693684,-121.77615,CA,Townhouse,535000,"$609,000 ",,,,,Sold,ALAMEDA
+94551,1418 Heather Ln,2,2,Livermore,"1,486 sqft",22-Aug-13,"$420,000 ",37.71371,-121.7343,CA,Single-Family Home,420000,"$547,000 ",,,,,Sold,ALAMEDA
+94550,559 Ruth Way,2,3,Livermore,"1,800 sqft",22-Aug-13,"$500,000 ",37.676655,-121.79369,CA,Single-Family Home,500000,"$659,000 ",,,,,Sold,ALAMEDA
+94550,574 Escondido Cir,3.5,5,Livermore,"3,071 sqft",22-Aug-13,"$804,000 ",37.665783,-121.79186,CA,Single-Family Home,804000,"$918,000 ",,,,,Sold,ALAMEDA
+94550,2376 Avon Pl,2.5,4,Livermore,"2,291 sqft",22-Aug-13,"$725,000 ",37.65257,-121.78168,CA,Single-Family Home,725000,"$776,000 ",,,,,Sold,ALAMEDA
+94551,1402 Rose Gate Cmn,2.5,3,Livermore,"1,999 sqft",22-Aug-13,"$575,000 ",37.717636,-121.72328,CA,Single-Family Home,575000,"$680,000 ",,,,,Sold,ALAMEDA
+94551,1693 Paseo Laguna Seco,1,1,Livermore,825 sqft,22-Aug-13,"$150,000 ",37.69633,-121.78123,CA,Condo,150000,"$244,000 ",,,,,Sold,ALAMEDA
+94550,2475 College Ave,1,3,Livermore,"1,216 sqft",21-Aug-13,"$507,500 ",37.674107,-121.76198,CA,Single-Family Home,507500,"$508,000 ",,,,,Sold,ALAMEDA
+94551,318 Knottingham Cir,2,4,Livermore,"2,015 sqft",21-Aug-13,"$649,000 ",37.692493,-121.75744,CA,Single-Family Home,649000,"$732,000 ",,,,,Sold,ALAMEDA
+94550,1060 Andalucia St,2,4,Livermore,"1,721 sqft",21-Aug-13,"$530,000 ",37.668316,-121.79022,CA,Single-Family Home,530000,"$632,000 ",,,,,Sold,ALAMEDA
+94551,5630 Rainflower Dr,2,3,Livermore,"1,365 sqft",21-Aug-13,"$506,000 ",37.709236,-121.729095,CA,Single-Family Home,506000,"$538,000 ",,,,,Sold,ALAMEDA
+94551,747 Yolo Way,2,3,Livermore,"1,636 sqft",21-Aug-13,"$540,000 ",37.693615,-121.78904,CA,Single-Family Home,540000,"$611,000 ",,,,,Sold,ALAMEDA
+94550,4763 Nicol Cmn #104,2,2,Livermore,842 sqft,21-Aug-13,"$275,000 ",37.68883,-121.73731,CA,Condo,275000,"$321,000 ",,,,,Sold,ALAMEDA
+94550,534 Hillcrest Ave,1,3,Livermore,"1,026 sqft",21-Aug-13,"$415,000 ",37.6825,-121.74806,CA,Single-Family Home,415000,"$483,000 ",,,,,Sold,ALAMEDA
+94550,2794 Tahoe Dr,2,5,Livermore,"2,300 sqft",21-Aug-13,"$845,000 ",37.649986,-121.77186,CA,Single-Family Home,845000,"$941,000 ",,,,,Sold,ALAMEDA
+94550,652 Hillcrest Ave,1,2,Livermore,"1,084 sqft",21-Aug-13,"$450,000 ",37.681652,-121.7481,CA,Single-Family Home,450000,"$520,000 ",,,,,Sold,ALAMEDA
+94550,940 Redondo Way,3,4,Livermore,"1,914 sqft",20-Aug-13,"$610,000 ",37.666553,-121.78434,CA,Single-Family Home,610000,"$711,000 ",,,,,Sold,ALAMEDA
+94550,674 Mcleod St,1,3,Livermore,"1,108 sqft",20-Aug-13,"$380,000 ",37.67944,-121.76167,CA,Single-Family Home,380000,"$481,000 ",,,,,Sold,ALAMEDA
+94550,2456 Marbury Rd,2,5,Livermore,"2,300 sqft",20-Aug-13,"$680,000 ",37.65173,-121.77559,CA,Single-Family Home,680000,"$877,000 ",,,,,Sold,ALAMEDA
+94551,1014 Baltusrol Rd,2.5,3,Livermore,"1,350 sqft",20-Aug-13,"$415,000 ",37.714874,-121.72386,CA,Single-Family Home,415000,"$536,000 ",,,,,Sold,ALAMEDA
+94551,492 Rincon Ave,1,3,Livermore,"1,060 sqft",20-Aug-13,"$360,000 ",37.68466,-121.783134,CA,Single-Family Home,360000,"$441,000 ",,,,,Sold,ALAMEDA
+94550,1067 Hollice Ln,2.5,3,Livermore,"1,889 sqft",20-Aug-13,"$620,000 ",37.6843,-121.73339,CA,Single-Family Home,620000,"$708,000 ",,,,,Sold,ALAMEDA
+94550,2281 Mezzamonte Dr,3,3,Livermore,"2,730 sqft",20-Aug-13,"$960,000 ",37.66377,-121.75287,CA,Single-Family Home,960000,"$1,079,000 ",,,,,Sold,ALAMEDA
+94551,1040 Iroquois Ave,2,4,Livermore,"2,004 sqft",20-Aug-13,"$551,000 ",37.690372,-121.78966,CA,Single-Family Home,551000,"$654,000 ",,,,,Sold,ALAMEDA
+94551,1217 Echo Summit St,2,3,Livermore,"1,486 sqft",20-Aug-13,"$589,000 ",37.717644,-121.7191,CA,Single-Family Home,589000,"$609,000 ",,,,,Sold,ALAMEDA
+94550,2138 Latour Ave,2,4,Livermore,"2,225 sqft",20-Aug-13,"$960,000 ",37.658813,-121.76649,CA,Single-Family Home,960000,"$986,000 ",,,,,Sold,ALAMEDA
+94551,3188 Calimanco Cmn #3,2.5,2,Livermore,"1,213 sqft",19-Aug-13,"$425,000 ",37.70908,-121.80789,CA,Condo,425000,"$464,000 ",,,,,Sold,ALAMEDA
+94550,1707 4th St,2.5,3,Livermore,"1,966 sqft",16-Aug-13,"$625,000 ",37.67746,-121.77358,CA,Single-Family Home,625000,"$763,000 ",,,,,Sold,ALAMEDA
+94551,6285 Indigo Cmn,2,3,Livermore,"1,352 sqft",16-Aug-13,"$477,000 ",37.72363,-121.72231,CA,Single-Family Home,477000,"$583,000 ",,,,,Sold,ALAMEDA
+94551,912 Waverly Cmn,2,3,Livermore,"1,733 sqft",16-Aug-13,"$565,000 ",37.69588,-121.76161,CA,Townhouse,565000,"$609,000 ",,,,,Sold,ALAMEDA
+94551,1833 Meadow Glen Dr,3,4,Livermore,"2,161 sqft",16-Aug-13,"$662,000 ",37.72581,-121.71128,CA,Single-Family Home,662000,"$766,000 ",,,,,Sold,ALAMEDA
+94550,1563 Kingsport Ave,2.5,4,Livermore,"2,291 sqft",16-Aug-13,"$720,000 ",37.66378,-121.77406,CA,Single-Family Home,720000,"$815,000 ",,,,,Sold,ALAMEDA
+94550,257 Lloyd St,2.5,6,Livermore,"2,112 sqft",16-Aug-13,"$638,000 ",37.675285,-121.79466,CA,Single-Family Home,638000,"$719,000 ",,,,,Sold,ALAMEDA
+94551,6843 Ridge Ct,2.5,4,Livermore,"1,870 sqft",16-Aug-13,"$550,000 ",37.72071,-121.71238,CA,Single-Family Home,550000,"$650,000 ",,,,,Sold,ALAMEDA
+94551,5549 Bridgeport Cir,2,4,Livermore,"1,564 sqft",15-Aug-13,"$537,000 ",37.723434,-121.73091,CA,Single-Family Home,537000,"$630,000 ",,,,,Sold,ALAMEDA
+94551,2862 Waverly Way,2.5,4,Livermore,"2,053 sqft",15-Aug-13,"$685,000 ",37.694393,-121.76321,CA,Single-Family Home,685000,"$666,000 ",,,,,Sold,ALAMEDA
+94551,6789 Bear Creek Dr,2,4,Livermore,"1,633 sqft",15-Aug-13,"$500,000 ",37.72314,-121.71323,CA,Single-Family Home,500000,"$644,000 ",,,,,Sold,ALAMEDA
+94550,755 Mojave Ave,1.5,3,Livermore,"1,120 sqft",15-Aug-13,"$450,000 ",37.67057,-121.78909,CA,Single-Family Home,450000,"$507,000 ",,,,,Sold,ALAMEDA
+94550,5978 Greenwood Cmn,2.5,3,Livermore,"1,751 sqft",15-Aug-13,"$520,000 ",37.681072,-121.71925,CA,Single-Family Home,520000,"$677,000 ",,,,,Sold,ALAMEDA
+94551,1780 Honeysuckle Rd,2,3,Livermore,"1,178 sqft",15-Aug-13,"$525,000 ",37.71216,-121.74763,CA,Single-Family Home,525000,"$552,000 ",,,,,Sold,ALAMEDA
+94551,5513 Haggin Oaks Ave,2,3,Livermore,"1,524 sqft",15-Aug-13,"$531,500 ",37.726116,-121.73201,CA,Single-Family Home,531500,"$598,000 ",,,,,Sold,ALAMEDA
+94551,4116 Loch Lomand Way,3,3,Livermore,"2,872 sqft",14-Aug-13,"$805,000 ",37.69517,-121.74867,CA,Single-Family Home,805000,"$866,000 ",,,,,Sold,ALAMEDA
+94550,1775 Old Tower Rd,3,4,Livermore,"3,145 sqft",14-Aug-13,"$875,000 ",37.673138,-121.77204,CA,Single-Family Home,875000,"$1,054,000 ",,,,,Sold,ALAMEDA
+94551,1360 Wilton Rd,2,3,Livermore,"1,427 sqft",14-Aug-13,"$545,000 ",37.693554,-121.795204,CA,Single-Family Home,545000,"$608,000 ",,,,,Sold,ALAMEDA
+94551,1440 Calle De Las Granvas,2.5,3,Livermore,"1,840 sqft",14-Aug-13,"$465,000 ",37.694984,-121.776535,CA,Townhouse,465000,"$637,000 ",,,,,Sold,ALAMEDA
+94551,954 Bellflower St,2.5,4,Livermore,"1,924 sqft",14-Aug-13,"$555,000 ",37.70989,-121.73305,CA,Single-Family Home,555000,"$638,000 ",,,,,Sold,ALAMEDA
+94550,2209 Ryan St,2.5,3,Livermore,"2,748 sqft",13-Aug-13,"$979,000 ",37.658836,-121.77146,CA,Single-Family Home,979000,"$1,181,000 ",,,,,Sold,ALAMEDA
+94551,357 Northwood Commons,2.5,3,Livermore,"1,618 sqft",13-Aug-13,"$413,000 ",37.68181,-121.79013,CA,Townhouse,413000,"$512,000 ",,,,,Sold,ALAMEDA
+94551,1693 Calle Del Rey,2.5,3,Livermore,"1,840 sqft",13-Aug-13,"$550,000 ",37.694477,-121.778076,CA,Townhouse,550000,"$667,000 ",,,,,Sold,ALAMEDA
+94551,361 Garden Cmn,2.5,4,Livermore,"1,775 sqft",13-Aug-13,"$448,000 ",37.688538,-121.8004,CA,Townhouse,448000,"$531,000 ",,,,,Sold,ALAMEDA
+94551,236 Donner Ave,2,3,Livermore,"1,674 sqft",13-Aug-13,"$481,000 ",37.681267,-121.788765,CA,Single-Family Home,481000,"$568,000 ",,,,,Sold,ALAMEDA
+94551,660 N Livermore Ave,1.5,3,Livermore,"1,292 sqft",12-Aug-13,"$290,000 ",37.689003,-121.771736,CA,Single-Family Home,290000,"$449,000 ",,,,,Sold,ALAMEDA
+94551,764 Sunset Dr,2,3,Livermore,"1,144 sqft",12-Aug-13,"$511,000 ",37.69156,-121.78956,CA,Single-Family Home,511000,"$524,000 ",,,,,Sold,ALAMEDA
+94551,1373 Pine St,2,3,Livermore,"1,534 sqft",12-Aug-13,"$460,000 ",37.688423,-121.78162,CA,Single-Family Home,460000,"$558,000 ",,,,,Sold,ALAMEDA
+94550,2324 Rock Point Pl,3,4,Livermore,"3,405 sqft",9-Aug-13,"$1,205,000 ",37.654873,-121.793,CA,Single-Family Home,1205000,"$1,301,000 ",,,,,Sold,ALAMEDA
+94550,170 N N St #118,2.5,2,Livermore,"1,287 sqft",9-Aug-13,"$405,000 ",37.682487,-121.77467,CA,Single-Family Home,405000,"$485,000 ",,,,,Sold,ALAMEDA
+94550,1213 Jessica Dr,2.5,4,Livermore,"2,704 sqft",9-Aug-13,"$778,000 ",37.687172,-121.724304,CA,Single-Family Home,778000,"$1,029,000 ",,,,,Sold,ALAMEDA
+94550,261 Sonia Way,,,Livermore,,9-Aug-13,"$785,000 ",37.68789,-121.74803,CA,Unknown,785000,,,,,,Sold,ALAMEDA
+94551,1470 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",9-Aug-13,"$335,000 ",37.70801,-121.74705,CA,Townhouse,335000,"$429,000 ",,,,,Sold,ALAMEDA
+94551,790 N N St,1,2,Livermore,794 sqft,9-Aug-13,"$358,000 ",37.688656,-121.77737,CA,Single-Family Home,358000,"$411,000 ",,,,,Sold,ALAMEDA
+94551,6535 Green Hills Ct,3,3,Livermore,"1,700 sqft",9-Aug-13,"$607,500 ",37.717533,-121.71718,CA,Single-Family Home,607500,"$665,000 ",,,,,Sold,ALAMEDA
+94550,40 Cassady Ct,2.5,3,Livermore,"2,126 sqft",9-Aug-13,"$600,000 ",37.693207,-121.73685,CA,Single-Family Home,600000,"$794,000 ",,,,,Sold,ALAMEDA
+94551,803 Seminole Dr,1,3,Livermore,910 sqft,9-Aug-13,"$360,000 ",37.688946,-121.78916,CA,Single-Family Home,360000,"$430,000 ",,,,,Sold,ALAMEDA
+94550,5053 Tesla Rd,2.5,3,Livermore,"1,658 sqft",9-Aug-13,"$810,000 ",37.664158,-121.73222,CA,Farm/Ranch,810000,"$1,262,000 ",,,,,Sold,ALAMEDA
+94551,6154 Poinsettia Cmn,2.5,3,Livermore,"1,526 sqft",9-Aug-13,"$525,500 ",37.723434,-121.72256,CA,Single-Family Home,525500,"$576,000 ",,,,,Sold,ALAMEDA
+94550,2012 Westbrook Ln,2,5,Livermore,"2,300 sqft",9-Aug-13,"$750,000 ",37.658783,-121.77928,CA,Single-Family Home,750000,"$835,000 ",,,,,Sold,ALAMEDA
+94550,1171 Hillcrest Ct,2.5,4,Livermore,"2,027 sqft",9-Aug-13,"$530,000 ",37.67765,-121.74962,CA,Single-Family Home,530000,"$693,000 ",,,,,Sold,ALAMEDA
+94551,495 Adelle St,2,3,Livermore,"1,076 sqft",8-Aug-13,"$340,000 ",37.68461,-121.78059,CA,Single-Family Home,340000,"$476,000 ",,,,,Sold,ALAMEDA
+94550,829 Arbor Ct,2.5,4,Livermore,"2,071 sqft",8-Aug-13,"$531,500 ",37.67886,-121.759224,CA,Single-Family Home,531500,"$692,000 ",,,,,Sold,ALAMEDA
+94550,1001 Murrieta Blvd,1.5,2,Livermore,894 sqft,8-Aug-13,"$220,000 ",37.675262,-121.783936,CA,Condo,220000,"$245,000 ",,,,,Sold,ALAMEDA
+94550,5462 Carnegie Loop,3,4,Livermore,"2,845 sqft",7-Aug-13,"$859,000 ",37.67546,-121.72788,CA,Single-Family Home,859000,"$1,052,000 ",,,,,Sold,ALAMEDA
+94551,980 Iroquois Ave,2,3,Livermore,"1,282 sqft",7-Aug-13,"$456,000 ",37.68986,-121.78966,CA,Single-Family Home,456000,"$537,000 ",,,,,Sold,ALAMEDA
+94550,168 Ponte Ct,3,4,Livermore,"3,023 sqft",7-Aug-13,"$1,100,000 ",37.65709,-121.801346,CA,Single-Family Home,1100000,"$1,114,000 ",,,,,Sold,ALAMEDA
+94550,467 Encino Dr,2,3,Livermore,"1,519 sqft",7-Aug-13,"$491,000 ",37.668682,-121.79455,CA,Single-Family Home,491000,"$601,000 ",,,,,Sold,ALAMEDA
+94551,2632 Kelly St,3,4,Livermore,"1,575 sqft",7-Aug-13,"$470,000 ",37.69005,-121.76758,CA,Single-Family Home,470000,"$557,000 ",,,,,Sold,ALAMEDA
+94551,1194 Central Ave,2,4,Livermore,"1,761 sqft",7-Aug-13,"$570,000 ",37.715572,-121.7276,CA,Single-Family Home,570000,"$670,000 ",,,,,Sold,ALAMEDA
+94550,1009 Murrieta Blvd,1.5,2,Livermore,980 sqft,7-Aug-13,"$210,000 ",37.6753,-121.782814,CA,Condo,210000,"$285,000 ",,,,,Sold,ALAMEDA
+94550,2755 Rivers Bend Cir,2.5,4,Livermore,"2,878 sqft",6-Aug-13,"$860,000 ",37.670856,-121.7652,CA,Single-Family Home,860000,"$1,037,000 ",,,,,Sold,ALAMEDA
+94550,1663 Heidelberg Dr,3,4,Livermore,"2,412 sqft",6-Aug-13,"$680,000 ",37.6612,-121.77211,CA,Single-Family Home,680000,"$850,000 ",,,,,Sold,ALAMEDA
+94550,298 White Fang Way,3,4,Livermore,"2,904 sqft",6-Aug-13,"$880,000 ",37.658123,-121.79882,CA,Single-Family Home,880000,"$1,294,000 ",,,,,Sold,ALAMEDA
+94551,95 Windward Cmn,2,3,Livermore,"1,385 sqft",6-Aug-13,"$480,000 ",37.710354,-121.80595,CA,Condo,480000,"$514,000 ",,,,,Sold,ALAMEDA
+94550,784 Alexander St,1.5,3,Livermore,"1,120 sqft",6-Aug-13,"$476,000 ",37.67275,-121.78799,CA,Single-Family Home,476000,"$512,000 ",,,,,Sold,ALAMEDA
+94550,1546 3rd St,1,2,Livermore,"1,399 sqft",6-Aug-13,"$572,000 ",37.678005,-121.776276,CA,Single-Family Home,572000,"$624,000 ",,,,,Sold,ALAMEDA
+94550,1004 Alison Cir,3,4,Livermore,"2,696 sqft",5-Aug-13,"$700,000 ",37.692696,-121.71903,CA,Single-Family Home,700000,"$892,000 ",,,,,Sold,ALAMEDA
+94550,330 Leslie Cmn #110,2,2,Livermore,871 sqft,5-Aug-13,"$278,000 ",37.68883,-121.738754,CA,Condo,278000,"$325,000 ",,,,,Sold,ALAMEDA
+94551,1655 Calle Del Rey,3,3,Livermore,"1,752 sqft",2-Aug-13,"$535,000 ",37.69445,-121.77852,CA,Townhouse,535000,"$628,000 ",,,,,Sold,ALAMEDA
+94550,327 Ontario Dr,2,4,Livermore,"2,016 sqft",2-Aug-13,"$655,000 ",37.667862,-121.79662,CA,Single-Family Home,655000,"$780,000 ",,,,,Sold,ALAMEDA
+94551,937 Central Ave,2.5,3,Livermore,"1,616 sqft",2-Aug-13,"$490,000 ",37.71129,-121.72697,CA,Single-Family Home,490000,"$619,000 ",,,,,Sold,ALAMEDA
+94551,3319 Hampstead Ct,3,4,Livermore,"2,947 sqft",2-Aug-13,"$775,000 ",37.691425,-121.76038,CA,Single-Family Home,775000,"$924,000 ",,,,,Sold,ALAMEDA
+94550,1242 Glenwood St,2,4,Livermore,"1,467 sqft",1-Aug-13,"$477,000 ",37.676918,-121.77979,CA,Single-Family Home,477000,"$651,000 ",,,,,Sold,ALAMEDA
+94550,232 Kyle Cmn,3,3,Livermore,"2,890 sqft",1-Aug-13,"$820,000 ",37.68954,-121.74065,CA,Single-Family Home,820000,"$975,000 ",,,,,Sold,ALAMEDA
+94551,5573 Idlewild Ave,2,3,Livermore,"1,770 sqft",1-Aug-13,"$500,000 ",37.721874,-121.7306,CA,Single-Family Home,500000,"$596,000 ",,,,,Sold,ALAMEDA
+94551,4755 Lantana Ave,2,3,Livermore,"1,006 sqft",1-Aug-13,"$452,500 ",37.708035,-121.74251,CA,Single-Family Home,452500,"$479,000 ",,,,,Sold,ALAMEDA
+94551,1673 Paseo Laguna Seco,2.5,3,Livermore,"1,379 sqft",1-Aug-13,"$355,000 ",37.69693,-121.78214,CA,Townhouse,355000,"$482,000 ",,,,,Sold,ALAMEDA
+94550,3210 Arbor Ave,2,3,Livermore,"1,354 sqft",31-Jul-13,"$468,000 ",37.679413,-121.75835,CA,Single-Family Home,468000,"$574,000 ",,,,,Sold,ALAMEDA
+94550,5757 Arlene Way,2,3,Livermore,"1,933 sqft",31-Jul-13,"$650,000 ",37.69012,-121.72103,CA,Single-Family Home,650000,"$851,000 ",,,,,Sold,ALAMEDA
+94550,1001 Murrieta Blvd #68,1,1,Livermore,669 sqft,31-Jul-13,"$127,000 ",37.675262,-121.783936,CA,Condo,127000,"$229,000 ",,,,,Sold,ALAMEDA
+94551,481 Humboldt Way,2,3,Livermore,"1,427 sqft",31-Jul-13,"$550,000 ",37.695854,-121.79498,CA,Single-Family Home,550000,"$596,000 ",,,,,Sold,ALAMEDA
+94550,18 Cascata Ct,2.5,4,Livermore,"3,328 sqft",31-Jul-13,"$780,000 ",37.65834,-121.80501,CA,Single-Family Home,780000,"$1,048,000 ",,,,,Sold,ALAMEDA
+94551,2035 Monterey Dr,2,3,Livermore,"1,110 sqft",31-Jul-13,"$420,000 ",37.71508,-121.74908,CA,Single-Family Home,420000,"$474,000 ",,,,,Sold,ALAMEDA
+94551,506 Selby Ln,,,Livermore,,31-Jul-13,"$518,500 ",37.70922,-121.79892,CA,Unknown,518500,,,,,,Sold,ALAMEDA
+94551,557 Selby Ln #3,,,Livermore,,31-Jul-13,"$561,500 ",37.708717,-121.79805,CA,Condo,561500,,,,,,Sold,ALAMEDA
+94551,577 Selby Ln #1,,,Livermore,,31-Jul-13,"$515,000 ",37.708714,-121.79756,CA,Condo,515000,,,,,,Sold,ALAMEDA
+94550,5154 Lenore Ave,2,3,Livermore,"1,262 sqft",31-Jul-13,"$561,000 ",37.69337,-121.72981,CA,Single-Family Home,561000,"$592,000 ",,,,,Sold,ALAMEDA
+94550,253 Coleen St,2,3,Livermore,"1,296 sqft",30-Jul-13,"$450,000 ",37.6757,-121.791176,CA,Single-Family Home,450000,"$558,000 ",,,,,Sold,ALAMEDA
+94550,2988 Lusitana Ct,3.5,4,Livermore,"3,776 sqft",30-Jul-13,"$1,099,000 ",37.649143,-121.77511,CA,Single-Family Home,1099000,"$1,392,000 ",,,,,Sold,ALAMEDA
+94550,2534 Tapestry Dr,3,4,Livermore,"2,506 sqft",30-Jul-13,"$1,037,000 ",37.659782,-121.76235,CA,Single-Family Home,1037000,"$1,163,000 ",,,,,Sold,ALAMEDA
+94551,666 Buckeye Dr,2,2,Livermore,"1,350 sqft",30-Jul-13,"$455,000 ",37.6852,-121.79178,CA,Single-Family Home,455000,"$592,000 ",,,,,Sold,ALAMEDA
+94550,994 Old Oak Rd,3,3,Livermore,"2,821 sqft",30-Jul-13,"$980,000 ",37.654057,-121.797005,CA,Single-Family Home,980000,"$1,186,000 ",,,,,Sold,ALAMEDA
+94550,5542 Felicia Ave,3,3,Livermore,"2,346 sqft",30-Jul-13,"$703,000 ",37.69148,-121.72443,CA,Single-Family Home,703000,"$903,000 ",,,,,Sold,ALAMEDA
+94551,2160 Linden St,2,3,Livermore,"1,328 sqft",30-Jul-13,"$449,000 ",37.688408,-121.772484,CA,Single-Family Home,449000,"$504,000 ",,,,,Sold,ALAMEDA
+94551,557 Selby Ln #1,,,Livermore,,30-Jul-13,"$512,500 ",37.708717,-121.79805,CA,Condo,512500,,,,,,Sold,ALAMEDA
+94551,557 Selby Ln #4,,,Livermore,,30-Jul-13,"$537,000 ",37.708717,-121.79805,CA,Unknown,537000,,,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #234,2,2,Livermore,955 sqft,29-Jul-13,"$215,000 ",37.67515,-121.78144,CA,Condo,215000,"$274,000 ",,,,,Sold,ALAMEDA
+94551,214 Windward Cmn,2.5,3,Livermore,"1,322 sqft",29-Jul-13,"$455,000 ",37.70952,-121.806526,CA,Condo,455000,"$505,000 ",,,,,Sold,ALAMEDA
+94551,62 Rainier Ave,2,3,Livermore,"1,130 sqft",29-Jul-13,"$410,000 ",37.68078,-121.8031,CA,Single-Family Home,410000,"$551,000 ",,,,,Sold,ALAMEDA
+94551,6296 Scenic Ave,2.5,4,Livermore,"1,986 sqft",26-Jul-13,"$503,000 ",37.717266,-121.7209,CA,Single-Family Home,503000,"$662,000 ",,,,,Sold,ALAMEDA
+94551,906 Turino St,2.5,4,Livermore,"2,421 sqft",26-Jul-13,"$765,000 ",37.688515,-121.79372,CA,Single-Family Home,765000,"$871,000 ",,,,,Sold,ALAMEDA
+94550,1180 Crystal Cir,2,4,Livermore,"1,785 sqft",26-Jul-13,"$579,000 ",37.667347,-121.80246,CA,Single-Family Home,579000,"$677,000 ",,,,,Sold,ALAMEDA
+94550,1376 Anza Way,2,3,Livermore,"1,603 sqft",26-Jul-13,"$537,000 ",37.67167,-121.77745,CA,Single-Family Home,537000,"$695,000 ",,,,,Sold,ALAMEDA
+94550,1149 Murdell Ln,2,4,Livermore,"1,785 sqft",26-Jul-13,"$600,000 ",37.66745,-121.79852,CA,Single-Family Home,600000,"$656,000 ",,,,,Sold,ALAMEDA
+94550,1477 Chateau Cmn,2.5,4,Livermore,"1,487 sqft",26-Jul-13,"$450,000 ",37.672035,-121.754105,CA,Townhouse,450000,"$586,000 ",,,,,Sold,ALAMEDA
+94550,1322 Chelsea Way,2,5,Livermore,"2,300 sqft",26-Jul-13,"$750,000 ",37.65063,-121.77931,CA,Single-Family Home,750000,"$865,000 ",,,,,Sold,ALAMEDA
+94551,538 Selby Ln,,,Livermore,,26-Jul-13,"$575,500 ",37.709103,-121.79864,CA,Single-Family Home,575500,,,,,,Sold,ALAMEDA
+94550,878 Old Oak Rd,2.5,4,Livermore,"2,532 sqft",25-Jul-13,"$950,000 ",37.65282,-121.79462,CA,Single-Family Home,950000,"$1,021,000 ",,,,,Sold,ALAMEDA
+94550,336 Ontario Dr,2,3,Livermore,"1,270 sqft",25-Jul-13,"$540,000 ",37.667526,-121.79606,CA,Single-Family Home,540000,"$651,000 ",,,,,Sold,ALAMEDA
+94551,1249 Hollyhock St,2,2,Livermore,"1,036 sqft",25-Jul-13,"$457,000 ",37.710182,-121.73956,CA,Single-Family Home,457000,"$470,000 ",,,,,Sold,ALAMEDA
+94550,315 Burgess St,2,3,Livermore,"1,232 sqft",25-Jul-13,"$420,000 ",37.68533,-121.74951,CA,Single-Family Home,420000,"$536,000 ",,,,,Sold,ALAMEDA
+94551,1578 Morning Glory Cir,2.5,4,Livermore,"1,568 sqft",25-Jul-13,"$425,000 ",37.71144,-121.74549,CA,Single-Family Home,425000,"$545,000 ",,,,,Sold,ALAMEDA
+94551,1288 Lakeland Dr,2,3,Livermore,"1,694 sqft",25-Jul-13,"$565,000 ",37.7192,-121.71212,CA,Single-Family Home,565000,"$679,000 ",,,,,Sold,ALAMEDA
+94550,4230 Sonia St,,,Livermore,,24-Jul-13,"$695,000 ",37.68899,-121.743095,CA,Single-Family Home,695000,,,,,,Sold,ALAMEDA
+94551,286 Michell St,2,4,Livermore,"1,673 sqft",24-Jul-13,"$568,500 ",37.689083,-121.76019,CA,Single-Family Home,568500,"$566,000 ",,,,,Sold,ALAMEDA
+94550,1001 Murrieta Blvd,1,1,Livermore,669 sqft,24-Jul-13,"$179,000 ",37.675262,-121.783936,CA,Condo,179000,"$219,000 ",,,,,Sold,ALAMEDA
+94551,385 Holladay Ct,2,3,Livermore,"1,344 sqft",24-Jul-13,"$370,000 ",37.684193,-121.7788,CA,Mobile/Manufactured,370000,"$393,000 ",,,,,Sold,ALAMEDA
+94550,367 Encino Dr,2,4,Livermore,"1,536 sqft",24-Jul-13,"$611,000 ",37.668568,-121.79687,CA,Single-Family Home,611000,"$664,000 ",,,,,Sold,ALAMEDA
+94551,842 Cortland Way,2,3,Livermore,"1,130 sqft",23-Jul-13,"$435,000 ",37.693928,-121.79076,CA,Single-Family Home,435000,"$519,000 ",,,,,Sold,ALAMEDA
+94550,32 Alden Ln,2.5,4,Livermore,"3,328 sqft",23-Jul-13,"$996,000 ",37.656223,-121.804436,CA,Single-Family Home,996000,"$1,101,000 ",,,,,Sold,ALAMEDA
+94551,357 Holladay Ct,1,3,Livermore,"1,354 sqft",23-Jul-13,"$419,000 ",37.683815,-121.77915,CA,Single-Family Home,419000,"$493,000 ",,,,,Sold,ALAMEDA
+94551,1125 Orchid St,,,Livermore,,22-Jul-13,"$923,000 ",37.714176,-121.724655,CA,Single-Family Home,923000,,,,,,Sold,ALAMEDA
+94550,4547 Lee Ann Cir,2.5,4,Livermore,"2,263 sqft",19-Jul-13,"$760,000 ",37.685616,-121.73975,CA,Single-Family Home,760000,"$803,000 ",,,,,Sold,ALAMEDA
+94551,726 Saddleback Cir,2,3,Livermore,"1,348 sqft",19-Jul-13,"$400,000 ",37.69775,-121.79162,CA,Single-Family Home,400000,"$635,000 ",,,,,Sold,ALAMEDA
+94550,345 Jensen St,2.5,4,Livermore,"2,248 sqft",19-Jul-13,"$600,000 ",37.684746,-121.7555,CA,Single-Family Home,600000,"$667,000 ",,,,,Sold,ALAMEDA
+94551,518 Selby Ln,,,Livermore,,19-Jul-13,"$542,000 ",37.7093,-121.79892,CA,Single-Family Home,542000,,,,,,Sold,ALAMEDA
+94551,984 Waverly Cmn,2.5,3,Livermore,"1,949 sqft",19-Jul-13,"$550,000 ",37.695236,-121.76214,CA,Townhouse,550000,"$592,000 ",,,,,Sold,ALAMEDA
+94550,5188 Theresa Way,2,3,Livermore,"1,318 sqft",19-Jul-13,"$470,000 ",37.691696,-121.73044,CA,Single-Family Home,470000,"$571,000 ",,,,,Sold,ALAMEDA
+94550,4559 Country Ln,5.5,6,Livermore,"5,440 sqft",19-Jul-13,"$1,585,000 ",37.67279,-121.74067,CA,Single-Family Home,1585000,"$1,618,000 ",,,,,Sold,ALAMEDA
+94550,175 Medina St,2.5,3,Livermore,"2,246 sqft",19-Jul-13,"$731,000 ",37.69087,-121.74062,CA,Single-Family Home,731000,"$803,000 ",,,,,Sold,ALAMEDA
+94550,4422 Edgewood Way,2.5,4,Livermore,"2,713 sqft",19-Jul-13,"$915,000 ",37.67464,-121.74185,CA,Single-Family Home,915000,"$935,000 ",,,,,Sold,ALAMEDA
+94550,2257 Mezzamonte Dr,2.5,3,Livermore,"2,906 sqft",19-Jul-13,"$890,000 ",37.66396,-121.75287,CA,Single-Family Home,890000,"$1,027,000 ",,,,,Sold,ALAMEDA
+94551,826 Ventura Ave,2,3,Livermore,"1,129 sqft",19-Jul-13,"$375,000 ",37.6817,-121.78635,CA,Single-Family Home,375000,"$498,000 ",,,,,Sold,ALAMEDA
+94551,2455 Westminster Way,2,3,Livermore,"1,582 sqft",19-Jul-13,"$561,500 ",37.693962,-121.77035,CA,Single-Family Home,561500,"$639,000 ",,,,,Sold,ALAMEDA
+94551,5625 Haggin Oaks Ave,2,3,Livermore,"1,524 sqft",19-Jul-13,"$517,000 ",37.72612,-121.73022,CA,Single-Family Home,517000,"$598,000 ",,,,,Sold,ALAMEDA
+94550,1045 El Dorado Dr,2,4,Livermore,"2,050 sqft",19-Jul-13,"$600,000 ",37.669437,-121.782196,CA,Single-Family Home,600000,"$677,000 ",,,,,Sold,ALAMEDA
+94551,1470 Elm St,1,3,Livermore,960 sqft,19-Jul-13,"$368,000 ",37.68698,-121.78075,CA,Single-Family Home,368000,"$428,000 ",,,,,Sold,ALAMEDA
+94551,4896 Libra Ct,2.5,4,Livermore,"1,496 sqft",19-Jul-13,"$505,000 ",37.717937,-121.73926,CA,Single-Family Home,505000,"$585,000 ",,,,,Sold,ALAMEDA
+94550,1310 Buckhorn Creek Rd,2.5,4,Livermore,"2,878 sqft",19-Jul-13,"$838,000 ",37.670345,-121.764084,CA,Single-Family Home,838000,"$970,000 ",,,,,Sold,ALAMEDA
+94550,2755 Chateau Way,2,3,Livermore,"2,146 sqft",19-Jul-13,"$760,000 ",37.671196,-121.75923,CA,Single-Family Home,760000,"$849,000 ",,,,,Sold,ALAMEDA
+94551,846 Seminole Dr,3,4,Livermore,"1,848 sqft",19-Jul-13,"$557,000 ",37.689396,-121.78765,CA,Single-Family Home,557000,"$602,000 ",,,,,Sold,ALAMEDA
+94551,825 N P St,2,3,Livermore,720 sqft,18-Jul-13,"$341,000 ",37.688293,-121.78057,CA,Single-Family Home,341000,"$402,000 ",,,,,Sold,ALAMEDA
+94551,534 Selby Ln,,,Livermore,,18-Jul-13,"$610,000 ",37.709206,-121.79863,CA,Single-Family Home,610000,,,,,,Sold,ALAMEDA
+94550,2502 Kellogg Loop,3,4,Livermore,"3,008 sqft",18-Jul-13,"$1,020,000 ",37.670654,-121.72502,CA,Single-Family Home,1020000,"$1,113,000 ",,,,,Sold,ALAMEDA
+94550,2975 San Minete Dr,3.5,4,Livermore,"3,343 sqft",18-Jul-13,"$969,000 ",37.66387,-121.7554,CA,Single-Family Home,969000,"$1,144,000 ",,,,,Sold,ALAMEDA
+94550,2621 Covey Way,2,4,Livermore,"3,446 sqft",17-Jul-13,"$1,375,000 ",37.66601,-121.760666,CA,Single-Family Home,1375000,"$1,651,000 ",,,,,Sold,ALAMEDA
+94550,1136 Crystal Ct,3,4,Livermore,"2,320 sqft",17-Jul-13,"$770,000 ",37.667492,-121.8043,CA,Single-Family Home,770000,"$844,000 ",,,,,Sold,ALAMEDA
+94551,5822 Idlewild Ave,2,3,Livermore,"1,417 sqft",17-Jul-13,"$500,000 ",37.72228,-121.72747,CA,Single-Family Home,500000,"$519,000 ",,,,,Sold,ALAMEDA
+94551,2021 Broadmoor St,2,4,Livermore,"1,520 sqft",17-Jul-13,"$485,000 ",37.720966,-121.7323,CA,Single-Family Home,485000,"$562,000 ",,,,,Sold,ALAMEDA
+94551,6477 Pheasant Ct,2.5,4,Livermore,"2,377 sqft",17-Jul-13,"$725,000 ",37.72148,-121.71828,CA,Single-Family Home,725000,"$782,000 ",,,,,Sold,ALAMEDA
+94551,1441 Winding Stream Dr,3,5,Livermore,"2,140 sqft",17-Jul-13,"$650,000 ",37.720985,-121.713425,CA,Single-Family Home,650000,"$759,000 ",,,,,Sold,ALAMEDA
+94551,32 Mosswood Ct,3,4,Livermore,"2,496 sqft",17-Jul-13,"$777,000 ",37.678787,-121.798904,CA,Single-Family Home,777000,"$852,000 ",,,,,Sold,ALAMEDA
+94550,124 Anna Maria St,2,4,Livermore,"1,704 sqft",16-Jul-13,"$590,000 ",37.67643,-121.79605,CA,Single-Family Home,590000,"$632,000 ",,,,,Sold,ALAMEDA
+94551,637 Yorkshire Ct,3,4,Livermore,"2,279 sqft",16-Jul-13,"$735,000 ",37.692314,-121.76207,CA,Single-Family Home,735000,"$777,000 ",,,,,Sold,ALAMEDA
+94551,889 Del Norte Dr,1.5,4,Livermore,"1,706 sqft",16-Jul-13,"$625,000 ",37.695732,-121.78782,CA,Single-Family Home,625000,"$679,000 ",,,,,Sold,ALAMEDA
+94550,1135 Vintner Pl,2.5,3,Livermore,"2,348 sqft",16-Jul-13,"$704,000 ",37.67396,-121.757965,CA,Single-Family Home,704000,"$843,000 ",,,,,Sold,ALAMEDA
+94551,483 Colusa Way,1.5,3,Livermore,"1,269 sqft",16-Jul-13,"$460,000 ",37.69657,-121.79524,CA,Single-Family Home,460000,"$548,000 ",,,,,Sold,ALAMEDA
+94550,5436 Desiree Ave,2,3,Livermore,"1,262 sqft",16-Jul-13,"$555,000 ",37.69307,-121.72601,CA,Single-Family Home,555000,"$593,000 ",,,,,Sold,ALAMEDA
+94551,731 Sandpiper Cmn,1.5,3,Livermore,"1,182 sqft",15-Jul-13,"$325,000 ",37.687737,-121.789925,CA,Townhouse,325000,"$408,000 ",,,,,Sold,ALAMEDA
+94551,816 Seminole Dr,2,3,Livermore,"1,144 sqft",12-Jul-13,"$375,000 ",37.6894,-121.78872,CA,Single-Family Home,375000,"$528,000 ",,,,,Sold,ALAMEDA
+94551,563 Selby Ln #2,,,Livermore,,12-Jul-13,"$495,500 ",37.708714,-121.797806,CA,Condo,495500,,,,,,Sold,ALAMEDA
+94550,2871 1st St #904,2.5,2,Livermore,"1,420 sqft",12-Jul-13,"$290,000 ",37.684494,-121.76275,CA,Condo,290000,"$442,000 ",,,,,Sold,ALAMEDA
+94551,590 James St,2,4,Livermore,"1,311 sqft",12-Jul-13,"$429,000 ",37.685665,-121.78119,CA,Single-Family Home,429000,"$533,000 ",,,,,Sold,ALAMEDA
+94551,1620 Rhododendron Dr,2,3,Livermore,"1,574 sqft",12-Jul-13,"$516,000 ",37.712193,-121.74474,CA,Single-Family Home,516000,"$612,000 ",,,,,Sold,ALAMEDA
+94550,3196 Churchill Downs Ln,3.5,3,Livermore,"3,169 sqft",12-Jul-13,"$1,275,000 ",37.647728,-121.76262,CA,Single-Family Home,1275000,"$1,275,000 ",,,,,Sold,ALAMEDA
+94550,138 Tourmaline Ave,3,5,Livermore,"2,912 sqft",12-Jul-13,"$950,000 ",37.66222,-121.802185,CA,Single-Family Home,950000,"$1,076,000 ",,,,,Sold,ALAMEDA
+94550,2632 Elston St,3,5,Livermore,"2,898 sqft",12-Jul-13,"$859,000 ",37.673096,-121.72,CA,Single-Family Home,859000,"$939,000 ",,,,,Sold,ALAMEDA
+94550,3027 Bertolli Dr,3.5,4,Livermore,"4,370 sqft",12-Jul-13,"$1,255,000 ",37.64846,-121.774605,CA,Single-Family Home,1255000,"$1,570,000 ",,,,,Sold,ALAMEDA
+94550,4138 Stanford Way,2,4,Livermore,"1,386 sqft",12-Jul-13,"$475,000 ",37.68267,-121.74565,CA,Single-Family Home,475000,"$566,000 ",,,,,Sold,ALAMEDA
+94551,1367 Marigold Rd,2,2,Livermore,"1,036 sqft",12-Jul-13,"$420,000 ",37.712074,-121.73823,CA,Single-Family Home,420000,"$470,000 ",,,,,Sold,ALAMEDA
+94550,3121 Faltings Dr,3.5,4,Livermore,"3,343 sqft",12-Jul-13,"$1,010,000 ",37.66303,-121.75343,CA,Single-Family Home,1010000,"$1,193,000 ",,,,,Sold,ALAMEDA
+94550,4667 Laurie Cmn #108,1,1,Livermore,629 sqft,12-Jul-13,"$230,000 ",37.689224,-121.73844,CA,Condo,230000,"$263,000 ",,,,,Sold,ALAMEDA
+94550,2343 5th St,2,3,Livermore,"1,344 sqft",11-Jul-13,"$590,000 ",37.679054,-121.76554,CA,Single-Family Home,590000,"$615,000 ",,,,,Sold,ALAMEDA
+94550,2087 Calibria Ct,3.5,4,Livermore,"3,732 sqft",11-Jul-13,"$1,175,000 ",37.663185,-121.75868,CA,Single-Family Home,1175000,"$1,363,000 ",,,,,Sold,ALAMEDA
+94551,563 Selby Ln #1,,,Livermore,,11-Jul-13,"$500,000 ",37.708714,-121.797806,CA,Condo,500000,,,,,,Sold,ALAMEDA
+94551,522 Selby Ln,,,Livermore,,10-Jul-13,"$527,000 ",37.709393,-121.79891,CA,Single-Family Home,527000,,,,,,Sold,ALAMEDA
+94551,1598 Bluebell Dr,2,2,Livermore,"1,280 sqft",10-Jul-13,"$432,000 ",37.714108,-121.73946,CA,Single-Family Home,432000,"$494,000 ",,,,,Sold,ALAMEDA
+94550,2136 Santa Croce Dr,3,4,Livermore,"2,906 sqft",10-Jul-13,"$960,000 ",37.664364,-121.753296,CA,Single-Family Home,960000,"$1,061,000 ",,,,,Sold,ALAMEDA
+94550,2579 Chateau Way,3,4,Livermore,"3,385 sqft",10-Jul-13,"$300,000 ",37.67137,-121.76156,CA,Single-Family Home,300000,"$1,087,000 ",,,,,Sold,ALAMEDA
+94550,2499 Merlot Ln,2.5,3,Livermore,"2,755 sqft",10-Jul-13,"$1,090,000 ",37.661404,-121.76224,CA,Single-Family Home,1090000,"$1,133,000 ",,,,,Sold,ALAMEDA
+94550,2913 Bresso Dr,3,4,Livermore,"2,890 sqft",10-Jul-13,"$920,000 ",37.649586,-121.78404,CA,Single-Family Home,920000,"$1,059,000 ",,,,,Sold,ALAMEDA
+94551,500 Selby Ln,,,Livermore,,9-Jul-13,"$625,000 ",37.709114,-121.79893,CA,Single-Family Home,625000,,,,,,Sold,ALAMEDA
+94551,1650 Linden St,2.5,3,Livermore,"1,608 sqft",9-Jul-13,"$450,000 ",37.68665,-121.77862,CA,Multi-Family,450000,,,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #243,1,1,Livermore,758 sqft,9-Jul-13,"$197,000 ",37.67515,-121.78144,CA,Condo,197000,"$219,000 ",,,,,Sold,ALAMEDA
+94550,1045 S Livermore Ave,2,3,Livermore,"1,202 sqft",9-Jul-13,"$444,000 ",37.67506,-121.75799,CA,Single-Family Home,444000,"$636,000 ",,,,,Sold,ALAMEDA
+94550,2211 Jeffrey St,3.5,4,Livermore,"3,649 sqft",9-Jul-13,"$1,140,000 ",37.658848,-121.77057,CA,Single-Family Home,1140000,"$1,337,000 ",,,,,Sold,ALAMEDA
+94550,998 Madrone Way,2,3,Livermore,"1,148 sqft",9-Jul-13,"$505,000 ",37.665844,-121.78346,CA,Single-Family Home,505000,"$552,000 ",,,,,Sold,ALAMEDA
+94551,6121 Saint Andrews Way,2.5,4,Livermore,"1,677 sqft",8-Jul-13,"$410,000 ",37.714684,-121.722916,CA,Single-Family Home,410000,"$584,000 ",,,,,Sold,ALAMEDA
+94550,1680 Almond Ave,,,Livermore,"1,914 sqft",8-Jul-13,"$775,000 ",37.675385,-121.73861,CA,Farm/Ranch,775000,"$731,000 ",,,,,Sold,ALAMEDA
+94550,2865 Rutherford Ct,4.5,4,Livermore,"3,770 sqft",8-Jul-13,"$886,500 ",37.667587,-121.71666,CA,Single-Family Home,886500,"$1,290,000 ",,,,,Sold,ALAMEDA
+94551,2648 Kelly St,2,3,Livermore,"1,209 sqft",5-Jul-13,"$376,000 ",37.690052,-121.76722,CA,Single-Family Home,376000,"$494,000 ",,,,,Sold,ALAMEDA
+94550,1821 Klondike Rd,3,5,Livermore,"3,230 sqft",5-Jul-13,"$1,125,000 ",37.658165,-121.80092,CA,Single-Family Home,1125000,"$1,248,000 ",,,,,Sold,ALAMEDA
+94550,629 Lido Dr,2,3,Livermore,"1,542 sqft",3-Jul-13,"$450,000 ",37.664047,-121.79167,CA,Single-Family Home,450000,"$629,000 ",,,,,Sold,ALAMEDA
+94551,5685 Oakmont Cir,2,3,Livermore,"1,046 sqft",3-Jul-13,"$460,000 ",37.72163,-121.73157,CA,Single-Family Home,460000,"$500,000 ",,,,,Sold,ALAMEDA
+94551,577 Selby Ln #3,,,Livermore,,3-Jul-13,"$570,000 ",37.708714,-121.79756,CA,Condo,570000,,,,,,Sold,ALAMEDA
+94551,1758 Broadmoor St,,,Livermore,,3-Jul-13,"$577,000 ",37.718212,-121.73304,CA,Single-Family Home,577000,,,,,,Sold,ALAMEDA
+94551,6159 Forget Me Not,2.5,3,Livermore,"1,501 sqft",3-Jul-13,"$355,000 ",37.713734,-121.72274,CA,Condo,355000,"$474,000 ",,,,,Sold,ALAMEDA
+94550,4667 Laurie Cmn #103,2,2,Livermore,871 sqft,3-Jul-13,"$268,000 ",37.689224,-121.73844,CA,Condo,268000,"$321,000 ",,,,,Sold,ALAMEDA
+94551,440 Meadowlark St,2,3,Livermore,"1,573 sqft",3-Jul-13,"$485,000 ",37.683384,-121.788795,CA,Single-Family Home,485000,"$536,000 ",,,,,Sold,ALAMEDA
+94550,901 Wynn Cir,2,4,Livermore,"1,899 sqft",3-Jul-13,"$672,000 ",37.6841,-121.736206,CA,Single-Family Home,672000,"$810,000 ",,,,,Sold,ALAMEDA
+94551,1075 Victorine Rd,,,Livermore,"2,360 sqft",3-Jul-13,"$1,499,000 ",37.774826,-121.79882,CA,Single-Family Home,1499000,"$1,188,000 ",,,,,Sold,CONTRA COSTA
+94550,361 Mulqueeney St,2.5,3,Livermore,"1,769 sqft",3-Jul-13,"$550,000 ",37.691303,-121.735916,CA,Single-Family Home,550000,"$606,000 ",,,,,Sold,ALAMEDA
+94551,172 Albatross Ave,2,3,Livermore,"1,222 sqft",3-Jul-13,"$390,000 ",37.681065,-121.786476,CA,Single-Family Home,390000,"$521,000 ",,,,,Sold,ALAMEDA
+94550,662 Catalina Dr,2,3,Livermore,"1,254 sqft",2-Jul-13,"$494,000 ",37.66564,-121.790115,CA,Single-Family Home,494000,"$551,000 ",,,,,Sold,ALAMEDA
+94550,4384 East Ave,2,3,Livermore,"1,616 sqft",2-Jul-13,"$505,000 ",37.680195,-121.74231,CA,Single-Family Home,505000,"$617,000 ",,,,,Sold,ALAMEDA
+94551,577 Selby Ln #4,,,Livermore,,2-Jul-13,"$521,500 ",37.708714,-121.79756,CA,Condo,521500,,,,,,Sold,ALAMEDA
+94550,1630 Frankfurt Way,2,4,Livermore,"1,879 sqft",2-Jul-13,"$655,000 ",37.663353,-121.77308,CA,Single-Family Home,655000,"$750,000 ",,,,,Sold,ALAMEDA
+94550,1321 Rebecca Dr,3,4,Livermore,"2,268 sqft",2-Jul-13,"$755,000 ",37.686752,-121.7217,CA,Single-Family Home,755000,"$856,000 ",,,,,Sold,ALAMEDA
+94551,3136 Four Hill Cmn #3,2.5,2,Livermore,"1,213 sqft",2-Jul-13,"$421,500 ",37.709106,-121.80713,CA,Condo,421500,"$487,000 ",,,,,Sold,ALAMEDA
+94550,2965 Danielle Ln,4.5,4,Livermore,"4,451 sqft",2-Jul-13,"$1,250,000 ",37.64837,-121.75764,CA,Single-Family Home,1250000,"$1,443,000 ",,,,,Sold,ALAMEDA
+94551,1182 Hibiscus Way,2,2,Livermore,"1,036 sqft",1-Jul-13,"$385,000 ",37.709618,-121.738045,CA,Single-Family Home,385000,"$474,000 ",,,,,Sold,ALAMEDA
+94551,2143 Shetland Rd,2,3,Livermore,"1,225 sqft",1-Jul-13,"$480,000 ",37.720375,-121.744225,CA,Single-Family Home,480000,"$505,000 ",,,,,Sold,ALAMEDA
+94550,2383 Peregrine St,4,5,Livermore,"3,287 sqft",1-Jul-13,"$875,000 ",37.67196,-121.72467,CA,Single-Family Home,875000,"$1,016,000 ",,,,,Sold,ALAMEDA
+94550,162 Zephyr Pl #112,3.5,3,Livermore,"1,780 sqft",28-Jun-13,"$480,000 ",37.68255,-121.77445,CA,Single-Family Home,480000,"$560,000 ",,,,,Sold,ALAMEDA
+94550,158 Turquoise Way,2,4,Livermore,"1,536 sqft",28-Jun-13,"$487,500 ",37.664852,-121.800545,CA,Single-Family Home,487500,"$648,000 ",,,,,Sold,ALAMEDA
+94550,5372 Charlotte Way,2.5,4,Livermore,"1,947 sqft",28-Jun-13,"$565,000 ",37.685875,-121.72729,CA,Single-Family Home,565000,"$624,000 ",,,,,Sold,ALAMEDA
+94550,1087 Murrieta Blvd #140,1,1,Livermore,758 sqft,28-Jun-13,"$197,500 ",37.67515,-121.78144,CA,Condo,197500,"$232,000 ",,,,,Sold,ALAMEDA
+94551,530 Selby Ln,,,Livermore,,28-Jun-13,"$493,500 ",37.7093,-121.79863,CA,Unknown,493500,,,,,,Sold,ALAMEDA
+94550,779 Ruby Rd,2,3,Livermore,"1,488 sqft",28-Jun-13,"$570,000 ",37.66725,-121.80169,CA,Single-Family Home,570000,"$598,000 ",,,,,Sold,ALAMEDA
+94551,24 Meritage Cmn #1403,2.5,3,Livermore,"1,514 sqft",28-Jun-13,"$425,000 ",37.71036,-121.80664,CA,Condo,425000,"$502,000 ",,,,,Sold,ALAMEDA
+94550,1085 Murrieta Blvd #242,1,1,Livermore,758 sqft,28-Jun-13,"$190,000 ",37.67515,-121.78144,CA,Condo,190000,"$214,000 ",,,,,Sold,ALAMEDA
+94550,832 Wall St,2,3,Livermore,"1,484 sqft",27-Jun-13,"$545,000 ",37.670773,-121.79214,CA,Single-Family Home,545000,"$600,000 ",,,,,Sold,ALAMEDA
+94551,598 Falcon Way,2,3,Livermore,"1,257 sqft",27-Jun-13,"$450,000 ",37.68482,-121.78787,CA,Single-Family Home,450000,"$529,000 ",,,,,Sold,ALAMEDA
+94550,1242 Gonzaga Ct,2,3,Livermore,"1,347 sqft",27-Jun-13,"$515,000 ",37.676163,-121.7473,CA,Single-Family Home,515000,"$554,000 ",,,,,Sold,ALAMEDA
+94551,526 Selby Ln,,,Livermore,,27-Jun-13,"$607,000 ",37.7094,-121.79863,CA,Single-Family Home,607000,,,,,,Sold,ALAMEDA
+94550,2278 Lawson Cir,3,5,Livermore,"3,036 sqft",27-Jun-13,"$885,000 ",37.67519,-121.728424,CA,Single-Family Home,885000,"$1,067,000 ",,,,,Sold,ALAMEDA
+94550,1315 Lexington Way,2,5,Livermore,"2,300 sqft",27-Jun-13,"$775,500 ",37.652695,-121.779686,CA,Single-Family Home,775500,"$855,000 ",,,,,Sold,ALAMEDA
+94550,5424 Felicia Ave,2,4,Livermore,"1,544 sqft",26-Jun-13,"$560,000 ",37.69148,-121.72604,CA,Single-Family Home,560000,"$667,000 ",,,,,Sold,ALAMEDA
+94551,1844 Chestnut St,1,2,Livermore,"1,062 sqft",26-Jun-13,"$311,000 ",37.684376,-121.77479,CA,Single-Family Home,311000,"$469,000 ",,,,,Sold,ALAMEDA
+94550,2682 St Helena Ct,4,5,Livermore,"4,002 sqft",26-Jun-13,"$1,100,000 ",37.671436,-121.71655,CA,Single-Family Home,1100000,"$1,264,000 ",,,,,Sold,ALAMEDA
+94551,1375 Winding Stream Dr,2,3,Livermore,"1,226 sqft",26-Jun-13,"$506,000 ",37.719887,-121.71342,CA,Single-Family Home,506000,"$566,000 ",,,,,Sold,ALAMEDA
+94551,4232 Milton Way,2.5,4,Livermore,"2,223 sqft",26-Jun-13,"$715,000 ",37.69729,-121.74643,CA,Single-Family Home,715000,"$909,000 ",,,,,Sold,ALAMEDA
+94551,1053 Spring Valley Cmn,2.5,3,Livermore,"1,274 sqft",26-Jun-13,"$285,000 ",37.705975,-121.74303,CA,Townhouse,285000,"$412,000 ",,,,,Sold,ALAMEDA
+94550,943 Laguna St,2,3,Livermore,"1,545 sqft",26-Jun-13,"$545,000 ",37.66934,-121.7957,CA,Single-Family Home,545000,"$652,000 ",,,,,Sold,ALAMEDA
+94551,577 Selby Ln #2,,,Livermore,,26-Jun-13,"$486,000 ",37.708714,-121.79756,CA,Unknown,486000,,,,,,Sold,ALAMEDA
+94550,810 El Caminito,4,4,Livermore,"3,263 sqft",26-Jun-13,"$685,000 ",37.667294,-121.787186,CA,Single-Family Home,685000,"$832,000 ",,,,,Sold,ALAMEDA
+94550,1827 Helsinki Way,2,4,Livermore,"1,732 sqft",25-Jun-13,"$635,000 ",37.664368,-121.76909,CA,Single-Family Home,635000,"$698,000 ",,,,,Sold,ALAMEDA
+94550,1401 Columbus Ave,2,3,Livermore,"1,574 sqft",25-Jun-13,"$630,000 ",37.6678,-121.77697,CA,Single-Family Home,630000,"$654,000 ",,,,,Sold,ALAMEDA
+94550,5102 Bianca Way,2.5,4,Livermore,"1,775 sqft",25-Jun-13,"$625,000 ",37.694096,-121.7312,CA,Single-Family Home,625000,"$687,000 ",,,,,Sold,ALAMEDA
+94551,5324 Treeflower Dr,1,2,Livermore,972 sqft,25-Jun-13,"$341,000 ",37.71161,-121.733055,CA,Single-Family Home,341000,"$456,000 ",,,,,Sold,ALAMEDA
+94551,1365 Spruce St,2,3,Livermore,"1,452 sqft",25-Jun-13,"$472,000 ",37.68928,-121.78174,CA,Single-Family Home,472000,"$543,000 ",,,,,Sold,ALAMEDA
+94551,427 Oriole Ave,2,4,Livermore,"1,427 sqft",24-Jun-13,"$505,000 ",37.683056,-121.79014,CA,Single-Family Home,505000,"$571,000 ",,,,,Sold,ALAMEDA
+94550,1610 El Dorado Ct,2,4,Livermore,"1,302 sqft",24-Jun-13,"$505,000 ",37.66417,-121.78061,CA,Single-Family Home,505000,"$578,000 ",,,,,Sold,ALAMEDA
+94550,1412 Ardmore Pl,2,3,Livermore,"1,649 sqft",24-Jun-13,"$670,000 ",37.652546,-121.77767,CA,Single-Family Home,670000,"$774,000 ",,,,,Sold,ALAMEDA
+94550,1860 Warsaw Ave,2,4,Livermore,"1,844 sqft",24-Jun-13,"$570,000 ",37.66359,-121.771576,CA,Single-Family Home,570000,"$724,000 ",,,,,Sold,ALAMEDA
+94550,1930 Depot Dr #102,3.5,3,Livermore,"1,780 sqft",24-Jun-13,"$479,500 ",37.68323,-121.773415,CA,Condo,479500,"$541,000 ",,,,,Sold,ALAMEDA

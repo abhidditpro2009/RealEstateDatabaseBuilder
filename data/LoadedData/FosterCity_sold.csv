@@ -1,0 +1,197 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94404,728 Chebec Ln,2.5,4,Foster City,"1,790 sqft",20-Feb-14,"$955,000 ",37.559937,-122.26444,CA,Single-Family Home,955000,"$1,019,000 ",,,,,Sold,SAN MATEO
+94404,1151 Compass Ln #341,2,2,Foster City,"1,286 sqft",13-Feb-14,"$602,000 ",37.549683,-122.254036,CA,Condo,602000,"$652,000 ",,,,,Sold,SAN MATEO
+94404,904 Beach Park Blvd #123,2,2,Foster City,"1,060 sqft",13-Feb-14,"$700,000 ",37.547977,-122.258965,CA,Condo,700000,"$669,000 ",,,,,Sold,SAN MATEO
+94404,875 Ursa Ln,2.5,2,Foster City,"1,546 sqft",12-Feb-14,"$825,000 ",37.54635,-122.272125,CA,Condo,825000,"$867,000 ",,,,,Sold,SAN MATEO
+94404,1371 Ribbon St,2,3,Foster City,"1,860 sqft",11-Feb-14,"$1,018,000 ",37.563126,-122.25138,CA,Single-Family Home,1018000,"$1,122,000 ",,,,,Sold,SAN MATEO
+94404,20 Port Royal Ave,2.5,3,Foster City,"1,890 sqft",5-Feb-14,"$1,048,500 ",37.53606,-122.272,CA,Single-Family Home,1048500,"$1,363,000 ",,,,,Sold,SAN MATEO
+94404,922 Beach Park Blvd #28,2,2,Foster City,"1,060 sqft",4-Feb-14,"$620,000 ",37.547977,-122.258965,CA,Condo,620000,"$667,000 ",,,,,Sold,SAN MATEO
+94404,921 Laguna Cir,3,4,Foster City,"2,360 sqft",4-Feb-14,"$1,460,000 ",37.54454,-122.2739,CA,Single-Family Home,1460000,"$1,820,000 ",,,,,Sold,SAN MATEO
+94404,100 Flying Cloud Isle,3,3,Foster City,"2,510 sqft",4-Feb-14,"$1,360,000 ",37.565178,-122.26535,CA,Single-Family Home,1360000,"$1,766,000 ",,,,,Sold,SAN MATEO
+94404,503 Emerald Bay Ln,2.5,2,Foster City,"1,530 sqft",31-Jan-14,"$785,000 ",37.55473,-122.280754,CA,Condo,785000,"$815,000 ",,Town Center,,,Sold,SAN MATEO
+94404,1004 Windjammer Cir,2,4,Foster City,"2,250 sqft",30-Jan-14,"$1,358,000 ",37.55202,-122.26251,CA,Single-Family Home,1358000,"$1,387,000 ",,,,,Sold,SAN MATEO
+94404,913 Laguna Cir,3,4,Foster City,"2,720 sqft",28-Jan-14,"$1,698,000 ",37.54433,-122.27429,CA,Single-Family Home,1698000,"$1,687,000 ",,,,,Sold,SAN MATEO
+94404,157 Albacore Ln,2.5,3,Foster City,"1,630 sqft",28-Jan-14,"$813,000 ",37.559483,-122.25045,CA,Single-Family Home,813000,"$948,000 ",,,,,Sold,SAN MATEO
+94404,600 Saint Croix Ln,3,3,Foster City,"1,470 sqft",21-Jan-14,"$1,030,000 ",37.539146,-122.26197,CA,Single-Family Home,1030000,"$1,277,000 ",,,,,Sold,SAN MATEO
+94404,7210 Admiralty Ln,1.5,2,Foster City,998 sqft,17-Jan-14,"$380,000 ",37.561436,-122.26721,CA,Condo,380000,"$488,000 ",,,,,Sold,SAN MATEO
+94404,66 E Court Ln,2.5,2,Foster City,"1,530 sqft",16-Jan-14,"$740,000 ",37.559395,-122.27337,CA,Single-Family Home,740000,"$846,000 ",,Town Center,,,Sold,SAN MATEO
+94404,1041 Rudder Ln,2.5,2,Foster City,"1,440 sqft",10-Jan-14,"$700,000 ",37.546055,-122.255135,CA,Single-Family Home,700000,"$887,000 ",,,,,Sold,SAN MATEO
+94404,761 Coronado Ln,2,3,Foster City,"2,250 sqft",10-Jan-14,"$1,090,000 ",37.549114,-122.269775,CA,Single-Family Home,1090000,"$1,368,000 ",,,,,Sold,SAN MATEO
+94404,6108 Admiralty Ln,1,1,Foster City,748 sqft,10-Jan-14,"$340,000 ",37.561436,-122.26721,CA,Condo,340000,"$404,000 ",,,,,Sold,SAN MATEO
+94404,303 Catamaran St,2.5,3,Foster City,"1,600 sqft",9-Jan-14,"$880,000 ",37.54852,-122.26643,CA,Single-Family Home,880000,"$1,043,000 ",,,,,Sold,SAN MATEO
+94404,928 Lurline Dr,3,4,Foster City,"2,160 sqft",8-Jan-14,"$1,280,000 ",37.557095,-122.25872,CA,Single-Family Home,1280000,"$1,435,000 ",,,,,Sold,SAN MATEO
+94404,926 Beach Park Blvd #1,2,2,Foster City,"1,060 sqft",3-Jan-14,"$555,500 ",37.547977,-122.258965,CA,Condo,555500,"$628,000 ",,,,,Sold,SAN MATEO
+94404,1171 Compass Ln #294,2,2,Foster City,"1,286 sqft",31-Dec-13,"$580,000 ",37.549683,-122.254036,CA,Condo,580000,"$683,000 ",,,,,Sold,SAN MATEO
+94404,248 Shearwater Isle,3,4,Foster City,"2,180 sqft",27-Dec-13,"$1,300,000 ",37.56463,-122.25773,CA,Single-Family Home,1300000,"$1,394,000 ",,,,,Sold,SAN MATEO
+94404,840 Sea Spray Ln #104,2,2,Foster City,"1,233 sqft",20-Dec-13,"$645,000 ",37.553253,-122.28123,CA,Condo,645000,"$710,000 ",,,,,Sold,SAN MATEO
+94404,140 E Court Ln,2.5,2,Foster City,"1,410 sqft",20-Dec-13,"$780,000 ",37.559048,-122.27369,CA,Single-Family Home,780000,"$857,000 ",,Town Center,,,Sold,SAN MATEO
+94404,508 Gibraltar Ln,2.5,3,Foster City,"2,010 sqft",20-Dec-13,"$1,240,000 ",37.53951,-122.26693,CA,Single-Family Home,1240000,"$1,370,000 ",,,,,Sold,SAN MATEO
+94404,245 Bonita Ln,2.5,3,Foster City,"1,630 sqft",20-Dec-13,"$800,000 ",37.559334,-122.25017,CA,Single-Family Home,800000,"$985,000 ",,,,,Sold,SAN MATEO
+94404,229 Bonita Ln,2,2,Foster City,"1,050 sqft",16-Dec-13,"$600,000 ",37.559605,-122.250145,CA,Condo,600000,"$680,000 ",,,,,Sold,SAN MATEO
+94404,152 Beach Park Blvd,1.5,2,Foster City,"1,270 sqft",12-Dec-13,"$672,000 ",37.547245,-122.27941,CA,Single-Family Home,672000,"$833,000 ",,,,,Sold,SAN MATEO
+94404,1131 Compass Ln #111,2,2,Foster City,"1,349 sqft",11-Dec-13,"$615,000 ",37.55157,-122.25375,CA,Condo,615000,"$659,000 ",,,,,Sold,SAN MATEO
+94404,872 Gull Ave,2,4,Foster City,"1,810 sqft",10-Dec-13,"$1,100,000 ",37.566486,-122.25856,CA,Single-Family Home,1100000,"$1,212,000 ",,,,,Sold,SAN MATEO
+94404,109 Goldhunter Ct,2,3,Foster City,"1,300 sqft",10-Dec-13,"$888,000 ",37.56489,-122.26762,CA,Single-Family Home,888000,"$994,000 ",,,,,Sold,SAN MATEO
+94404,810 Prowshead Ln,3,3,Foster City,"2,710 sqft",6-Dec-13,"$1,535,000 ",37.541992,-122.25713,CA,Single-Family Home,1535000,"$1,685,000 ",,,,,Sold,SAN MATEO
+94404,780 Sea Spray Ln #113,2,2,Foster City,"1,235 sqft",4-Dec-13,"$607,000 ",37.55204,-122.28113,CA,Condo,607000,"$717,000 ",,,,,Sold,SAN MATEO
+94404,856 Canis Ln,2.5,2,Foster City,"1,546 sqft",3-Dec-13,"$762,000 ",37.549374,-122.27189,CA,Condo,762000,"$898,000 ",,,,,Sold,SAN MATEO
+94404,951 Flying Fish St,2.5,4,Foster City,"2,160 sqft",3-Dec-13,"$1,270,000 ",37.565212,-122.25705,CA,Single-Family Home,1270000,"$1,303,000 ",,,,,Sold,SAN MATEO
+94404,700 Promontory Point Ln #1308,2.5,2,Foster City,"2,224 sqft",2-Dec-13,"$829,000 ",37.55003,-122.283516,CA,Condo,829000,"$1,002,000 ",,,,,Sold,SAN MATEO
+94404,1131 Compass Ln #301,1,1,Foster City,990 sqft,27-Nov-13,"$460,000 ",37.55157,-122.25375,CA,Condo,460000,"$533,000 ",,,,,Sold,SAN MATEO
+94404,815 Sea Spray Ln #110,2,2,Foster City,"1,213 sqft",27-Nov-13,"$605,000 ",37.553253,-122.28123,CA,Condo,605000,"$689,000 ",,,,,Sold,SAN MATEO
+94404,970 Diaz Ln,2,2,Foster City,"1,260 sqft",27-Nov-13,"$725,000 ",37.551453,-122.26727,CA,Single-Family Home,725000,"$821,000 ",,,,,Sold,SAN MATEO
+94404,760 Pinta Ln,2.5,3,Foster City,"1,670 sqft",27-Nov-13,"$850,000 ",37.561127,-122.262726,CA,Single-Family Home,850000,"$919,000 ",,,,,Sold,SAN MATEO
+94404,1213 Admiralty Ln,2.5,3,Foster City,"1,505 sqft",26-Nov-13,"$520,000 ",37.561436,-122.26721,CA,Condo,520000,"$632,000 ",,,,,Sold,SAN MATEO
+94404,720 Promontory Point Ln #2109,2.5,3,Foster City,"2,264 sqft",26-Nov-13,"$790,000 ",37.55003,-122.283516,CA,Condo,790000,"$1,009,000 ",,,,,Sold,SAN MATEO
+94404,6208 Admiralty Ln,1.5,2,Foster City,998 sqft,26-Nov-13,"$385,000 ",37.561436,-122.26721,CA,Condo,385000,"$449,000 ",,,,,Sold,SAN MATEO
+94404,1044 Galley Ln,2.5,3,Foster City,"1,530 sqft",22-Nov-13,"$873,000 ",37.547466,-122.255196,CA,Single-Family Home,873000,"$904,000 ",,,,,Sold,SAN MATEO
+94404,1911 Beach Park Blvd,2,5,Foster City,"2,010 sqft",21-Nov-13,"$965,000 ",37.57117,-122.26221,CA,Single-Family Home,965000,"$1,232,000 ",,,,,Sold,SAN MATEO
+94404,916 Beach Park Blvd #68,1,1,Foster City,810 sqft,19-Nov-13,"$410,250 ",37.547977,-122.258965,CA,Condo,410250,"$520,000 ",,,,,Sold,SAN MATEO
+94404,815 Sea Spray Ln #209,1,1,Foster City,941 sqft,18-Nov-13,"$450,000 ",37.553253,-122.28123,CA,Condo,450000,"$554,000 ",,,,,Sold,SAN MATEO
+94404,1051 Beach Park Blvd #236,2,2,Foster City,"1,349 sqft",15-Nov-13,"$575,000 ",37.549683,-122.254036,CA,Condo,575000,"$649,000 ",,,,,Sold,SAN MATEO
+94404,137 Albacore Ln,2.5,2,Foster City,"1,370 sqft",15-Nov-13,"$830,000 ",37.55875,-122.250465,CA,Single-Family Home,830000,"$844,000 ",,,,,Sold,SAN MATEO
+94404,349 Catamaran St,2.5,3,Foster City,"1,340 sqft",14-Nov-13,"$800,000 ",37.54903,-122.26814,CA,Single-Family Home,800000,"$920,000 ",,,,,Sold,SAN MATEO
+94404,806 Volans Ln,2.5,3,Foster City,"1,618 sqft",14-Nov-13,"$850,000 ",37.54761,-122.27305,CA,Condo,850000,"$908,000 ",,,,,Sold,SAN MATEO
+94404,924 Beach Park Blvd #23,2,3,Foster City,"1,337 sqft",13-Nov-13,"$620,000 ",37.547977,-122.258965,CA,Condo,620000,"$696,000 ",,,,,Sold,SAN MATEO
+94404,273 Killdeer Ct,3,5,Foster City,"2,540 sqft",13-Nov-13,"$1,295,000 ",37.568123,-122.25953,CA,Single-Family Home,1295000,"$1,332,000 ",,,,,Sold,SAN MATEO
+94404,889 Balboa Ln,2,2,Foster City,"1,395 sqft",12-Nov-13,"$775,000 ",37.552814,-122.27079,CA,Condo,775000,"$819,000 ",,,,,Sold,SAN MATEO
+94404,1131 Compass Ln #103,2,2,Foster City,"1,286 sqft",8-Nov-13,"$575,000 ",37.55157,-122.25375,CA,Condo,575000,"$666,000 ",,,,,Sold,SAN MATEO
+94404,13 Williams Ln,2.5,3,Foster City,"1,550 sqft",8-Nov-13,"$985,000 ",37.535576,-122.2701,CA,Single-Family Home,985000,"$1,110,000 ",,,,,Sold,SAN MATEO
+94404,1111 Compass Ln #103,2,2,Foster City,"1,349 sqft",7-Nov-13,"$592,000 ",37.551567,-122.25371,CA,Condo,592000,"$665,000 ",,,,,Sold,SAN MATEO
+94404,808 Volans Ln,2.5,3,Foster City,"1,618 sqft",7-Nov-13,"$876,000 ",37.54761,-122.27305,CA,Condo,876000,"$915,000 ",,,,,Sold,SAN MATEO
+94404,1158 Dover Ln,2.5,3,Foster City,"1,940 sqft",5-Nov-13,"$1,305,000 ",37.544453,-122.266975,CA,Single-Family Home,1305000,"$1,233,000 ",,,,,Sold,SAN MATEO
+94404,230 Bonita Ln,1,1,Foster City,700 sqft,4-Nov-13,"$470,000 ",37.559765,-122.2497,CA,Condo,470000,"$515,000 ",,,,,Sold,SAN MATEO
+94404,4105 Admiralty Ln,2,2,Foster City,"1,247 sqft",4-Nov-13,"$400,500 ",37.561436,-122.26721,CA,Condo,400500,"$574,000 ",,,,,Sold,SAN MATEO
+94404,1109 Blythe St,2,3,Foster City,"2,030 sqft",4-Nov-13,"$1,231,000 ",37.547215,-122.26469,CA,Single-Family Home,1231000,"$1,327,000 ",,,,,Sold,SAN MATEO
+94404,815 Sea Spray Ln #315,2,3,Foster City,"1,546 sqft",1-Nov-13,"$800,000 ",37.553253,-122.28123,CA,Condo,800000,"$817,000 ",,,,,Sold,SAN MATEO
+94404,1061 Beach Park Blvd #110,2,2,Foster City,"1,349 sqft",29-Oct-13,"$590,000 ",37.551567,-122.25371,CA,Condo,590000,"$696,000 ",,,,,Sold,SAN MATEO
+94404,390 Winchester Ct,2,4,Foster City,"1,440 sqft",29-Oct-13,"$1,080,000 ",37.54,-122.27492,CA,Single-Family Home,1080000,"$1,174,000 ",,,,,Sold,SAN MATEO
+94404,602 Celestial Ln,1.5,2,Foster City,"1,270 sqft",25-Oct-13,"$712,000 ",37.55057,-122.27915,CA,Single-Family Home,712000,"$828,000 ",,,,,Sold,SAN MATEO
+94404,910 Beach Park Blvd #100,2,2,Foster City,"1,060 sqft",25-Oct-13,"$550,000 ",37.547977,-122.258965,CA,Condo,550000,"$625,000 ",,,,,Sold,SAN MATEO
+94404,22 Binnacle Ln,2.5,3,Foster City,"1,860 sqft",24-Oct-13,"$900,000 ",37.535133,-122.264755,CA,Single-Family Home,900000,"$1,062,000 ",,,,,Sold,SAN MATEO
+94404,1051 Beach Park Blvd #256,2,2,Foster City,"1,349 sqft",24-Oct-13,"$615,000 ",37.549683,-122.254036,CA,Condo,615000,"$691,000 ",,,,,Sold,SAN MATEO
+94404,910 Beach Park Blvd #102,2,2,Foster City,"1,060 sqft",22-Oct-13,"$572,000 ",37.547977,-122.258965,CA,Condo,572000,"$621,000 ",,,,,Sold,SAN MATEO
+94404,1115 Sprague Ln,2,3,Foster City,"1,530 sqft",22-Oct-13,"$830,000 ",37.54788,-122.260735,CA,Single-Family Home,830000,"$868,000 ",,,,,Sold,SAN MATEO
+94404,1082 Sanderling St,2,3,Foster City,"1,840 sqft",18-Oct-13,"$1,103,500 ",37.568222,-122.25452,CA,Single-Family Home,1103500,"$1,182,000 ",,,,,Sold,SAN MATEO
+94404,564 Trinidad Ln,3,4,Foster City,"2,180 sqft",18-Oct-13,"$1,283,000 ",37.540234,-122.26554,CA,Single-Family Home,1283000,"$1,520,000 ",,,,,Sold,SAN MATEO
+94404,756 Orion Ln,2.5,4,Foster City,"1,700 sqft",16-Oct-13,"$873,000 ",37.550827,-122.27537,CA,Single-Family Home,873000,"$1,050,000 ",,,,,Sold,SAN MATEO
+94404,880 Meridian Bay Ln #217,2,2,Foster City,"1,350 sqft",16-Oct-13,"$628,500 ",37.55425,-122.27893,CA,Condo,628500,"$774,000 ",,Town Center,,,Sold,SAN MATEO
+94404,320 Foresail Ct,2,3,Foster City,"1,600 sqft",15-Oct-13,"$1,114,000 ",37.549316,-122.2614,CA,Single-Family Home,1114000,"$1,161,000 ",,,,,Sold,SAN MATEO
+94404,1067 Shell Blvd #2,2,2,Foster City,994 sqft,11-Oct-13,"$490,000 ",37.54981,-122.263176,CA,Condo,490000,"$651,000 ",,,,,Sold,SAN MATEO
+94404,1129 Forrestal Ln,2,3,Foster City,"1,530 sqft",11-Oct-13,"$915,000 ",37.54772,-122.26214,CA,Single-Family Home,915000,"$997,000 ",,,,,Sold,SAN MATEO
+94404,847 Columba Ln,2.5,2,Foster City,"1,546 sqft",9-Oct-13,"$930,000 ",37.549374,-122.27189,CA,Condo,930000,"$951,000 ",,,,,Sold,SAN MATEO
+94404,1123 Farragut Blvd,3,4,Foster City,"2,790 sqft",8-Oct-13,"$1,560,000 ",37.545074,-122.26715,CA,Single-Family Home,1560000,"$1,653,000 ",,,,,Sold,SAN MATEO
+94404,621 Gloucester Ln,4,4,Foster City,"3,258 sqft",8-Oct-13,"$2,010,000 ",37.54179,-122.265274,CA,Single-Family Home,2010000,"$2,004,000 ",,,,,Sold,SAN MATEO
+94404,630 Pilgrim Dr,2,4,Foster City,"1,780 sqft",8-Oct-13,"$1,125,000 ",37.563396,-122.26592,CA,Single-Family Home,1125000,"$1,179,000 ",,,,,Sold,SAN MATEO
+94404,191 Winchester Ct,2,3,Foster City,"2,031 sqft",4-Oct-13,"$1,128,000 ",37.53769,-122.27648,CA,Single-Family Home,1128000,"$1,306,000 ",,,,,Sold,SAN MATEO
+94404,1022 Avalon Ave,2.5,3,Foster City,"1,970 sqft",4-Oct-13,"$1,185,000 ",37.539413,-122.27057,CA,Single-Family Home,1185000,"$1,266,000 ",,,,,Sold,SAN MATEO
+94404,398 Grunion Ct,3,6,Foster City,"2,775 sqft",3-Oct-13,"$1,260,000 ",37.55407,-122.25224,CA,Single-Family Home,1260000,"$1,396,000 ",,,,,Sold,SAN MATEO
+94404,1010 Lark Ln,2.5,3,Foster City,"1,610 sqft",3-Oct-13,"$779,000 ",37.564022,-122.25452,CA,Single-Family Home,779000,"$991,000 ",,,,,Sold,SAN MATEO
+94404,701 Baffin St,2.5,4,Foster City,"2,270 sqft",3-Oct-13,"$1,305,000 ",37.540844,-122.26091,CA,Single-Family Home,1305000,"$1,303,000 ",,,,,Sold,SAN MATEO
+94404,1411 Saint Kitts Ln,2.5,4,Foster City,"2,070 sqft",3-Oct-13,"$1,300,000 ",37.53822,-122.2634,CA,Single-Family Home,1300000,"$1,391,000 ",,,,,Sold,SAN MATEO
+94404,925 Flying Fish St,3.5,5,Foster City,"3,350 sqft",1-Oct-13,"$1,397,500 ",37.565926,-122.25811,CA,Single-Family Home,1397500,"$1,589,000 ",,,,,Sold,SAN MATEO
+94404,664 Scorpio Ln,2,3,Foster City,"1,370 sqft",1-Oct-13,"$825,000 ",37.550034,-122.27964,CA,Single-Family Home,825000,"$989,000 ",,,,,Sold,SAN MATEO
+94404,1084 Tiller Ln,2.5,2,Foster City,"1,420 sqft",1-Oct-13,"$800,000 ",37.548244,-122.25471,CA,Single-Family Home,800000,"$839,000 ",,,,,Sold,SAN MATEO
+94404,3217 Admiralty Ln,1.5,2,Foster City,998 sqft,30-Sep-13,"$388,000 ",37.561436,-122.26721,CA,Condo,388000,"$483,000 ",,,,,Sold,SAN MATEO
+94404,647 Pegasus Ln,2.5,4,Foster City,"1,600 sqft",27-Sep-13,"$830,000 ",37.550945,-122.27825,CA,Single-Family Home,830000,"$1,010,000 ",,,,,Sold,SAN MATEO
+94404,922 Beach Park Blvd #34,2,2,Foster City,"1,060 sqft",26-Sep-13,"$499,000 ",37.547977,-122.258965,CA,Condo,499000,"$629,000 ",,,,,Sold,SAN MATEO
+94404,416 Thatcher Ln,2.5,3,Foster City,"2,390 sqft",20-Sep-13,"$1,410,000 ",37.53765,-122.26746,CA,Single-Family Home,1410000,"$1,555,000 ",,,,,Sold,SAN MATEO
+94404,1483 Marlin Ave,1.5,2,Foster City,960 sqft,19-Sep-13,"$610,000 ",37.563847,-122.25124,CA,Single-Family Home,610000,"$751,000 ",,,,,Sold,SAN MATEO
+94404,335 Menhaden Ct,2.5,4,Foster City,"2,300 sqft",17-Sep-13,"$1,280,000 ",37.555317,-122.24955,CA,Single-Family Home,1280000,"$1,377,000 ",,,,,Sold,SAN MATEO
+94404,1036 Galley Ln,2.5,3,Foster City,"1,530 sqft",17-Sep-13,"$855,000 ",37.547504,-122.255516,CA,Single-Family Home,855000,"$894,000 ",,,,,Sold,SAN MATEO
+94404,32 Binnacle Ln,2.5,2,Foster City,"1,730 sqft",13-Sep-13,"$825,000 ",37.53486,-122.26513,CA,Single-Family Home,825000,"$981,000 ",,,,,Sold,SAN MATEO
+94404,642 Greenwich Ln,2.5,4,Foster City,"2,240 sqft",12-Sep-13,"$1,808,000 ",37.54315,-122.26858,CA,Single-Family Home,1808000,"$1,785,000 ",,,,,Sold,SAN MATEO
+94404,742 Pinta Ln,2.5,3,Foster City,"1,610 sqft",12-Sep-13,"$865,000 ",37.56105,-122.26326,CA,Single-Family Home,865000,"$954,000 ",,,,,Sold,SAN MATEO
+94404,519 Trinidad Ln,3,4,Foster City,"2,180 sqft",12-Sep-13,"$1,300,000 ",37.54009,-122.268845,CA,Single-Family Home,1300000,"$1,554,000 ",,,,,Sold,SAN MATEO
+94404,198 Shooting Star Isle,3,5,Foster City,"4,340 sqft",10-Sep-13,"$2,250,000 ",37.55639,-122.25768,CA,Single-Family Home,2250000,"$2,202,000 ",,,,,Sold,SAN MATEO
+94404,840 Sea Spray Ln #308,2,2,Foster City,"1,233 sqft",10-Sep-13,"$710,500 ",37.553253,-122.28123,CA,Condo,710500,"$710,000 ",,,,,Sold,SAN MATEO
+94404,843 Juno Ln,2.5,3,Foster City,"1,330 sqft",10-Sep-13,"$685,000 ",37.549618,-122.27352,CA,Condo,685000,"$803,000 ",,,,,Sold,SAN MATEO
+94404,954 Flying Fish St,2.5,5,Foster City,"2,540 sqft",9-Sep-13,"$1,450,000 ",37.564762,-122.25727,CA,Single-Family Home,1450000,"$1,565,000 ",,,,,Sold,SAN MATEO
+94404,1151 Compass Ln #363,2,2,Foster City,"1,349 sqft",6-Sep-13,"$615,000 ",37.549683,-122.254036,CA,Condo,615000,"$720,000 ",,,,,Sold,SAN MATEO
+94404,1110 Burke Ln,2.5,3,Foster City,"1,700 sqft",6-Sep-13,"$800,000 ",37.546486,-122.263435,CA,Single-Family Home,800000,"$1,023,000 ",,,,,Sold,SAN MATEO
+94404,1108 Burke Ln,2,3,Foster City,"1,530 sqft",4-Sep-13,"$840,000 ",37.546535,-122.26351,CA,Single-Family Home,840000,"$1,011,000 ",,,,,Sold,SAN MATEO
+94404,1715 Beach Park Blvd,2.5,4,Foster City,"2,200 sqft",3-Sep-13,"$1,400,000 ",37.568756,-122.2552,CA,Single-Family Home,1400000,"$1,385,000 ",,,,,Sold,SAN MATEO
+94404,58 Pleasant Ct,2,4,Foster City,"2,040 sqft",30-Aug-13,"$1,280,000 ",37.53575,-122.2763,CA,Single-Family Home,1280000,"$1,332,000 ",,,,,Sold,SAN MATEO
+94404,239 Stilt Ct,2,5,Foster City,"2,010 sqft",30-Aug-13,"$900,000 ",37.568615,-122.25934,CA,Single-Family Home,900000,"$1,141,000 ",,,,,Sold,SAN MATEO
+94404,384 Port Royal Ave,2,3,Foster City,"1,820 sqft",30-Aug-13,"$1,242,000 ",37.54287,-122.27553,CA,Single-Family Home,1242000,"$1,261,000 ",,,,,Sold,SAN MATEO
+94404,207 Commons Ln,2,2,Foster City,"1,230 sqft",30-Aug-13,"$689,000 ",37.556576,-122.27853,CA,Single-Family Home,689000,"$783,000 ",,Town Center,,,Sold,SAN MATEO
+94404,351 Topsail Ct,3,4,Foster City,"2,670 sqft",28-Aug-13,"$1,400,000 ",37.54884,-122.25785,CA,Single-Family Home,1400000,"$1,549,000 ",,,,,Sold,SAN MATEO
+94404,1025 Lido Ln,2,2,Foster City,"1,395 sqft",28-Aug-13,"$775,000 ",37.554043,-122.26822,CA,Condo,775000,"$803,000 ",,,,,Sold,SAN MATEO
+94404,1070 Tiller Ln,2.5,2,Foster City,"1,440 sqft",27-Aug-13,"$800,000 ",37.54779,-122.2549,CA,Single-Family Home,800000,"$842,000 ",,,,,Sold,SAN MATEO
+94404,872 Ursa Ln,2.5,2,Foster City,"1,546 sqft",26-Aug-13,"$785,000 ",37.54635,-122.272125,CA,Condo,785000,"$827,000 ",,,,,Sold,SAN MATEO
+94404,1083 Shell Blvd #7,1,1,Foster City,760 sqft,26-Aug-13,"$385,000 ",37.54981,-122.263176,CA,Condo,385000,"$499,000 ",,,,,Sold,SAN MATEO
+94404,756 Coronado Ln,3,4,Foster City,"2,568 sqft",23-Aug-13,"$1,650,000 ",37.549076,-122.270226,CA,Single-Family Home,1650000,"$1,678,000 ",,,,,Sold,SAN MATEO
+94404,712 Comet Dr,2.5,2,Foster City,"1,290 sqft",23-Aug-13,"$721,500 ",37.56022,-122.26428,CA,Single-Family Home,721500,"$827,000 ",,,,,Sold,SAN MATEO
+94404,167 Albacore Ln,2,2,Foster City,"1,116 sqft",23-Aug-13,"$585,000 ",37.559883,-122.25049,CA,Condo,585000,"$690,000 ",,,,,Sold,SAN MATEO
+94404,6 Dory Ln,2.5,2,Foster City,"1,620 sqft",22-Aug-13,"$851,000 ",37.536346,-122.265915,CA,Single-Family Home,851000,"$907,000 ",,,,,Sold,SAN MATEO
+94404,912 Beach Park Blvd #90,2,2,Foster City,"1,087 sqft",22-Aug-13,"$558,000 ",37.547977,-122.258965,CA,Condo,558000,"$649,000 ",,,,,Sold,SAN MATEO
+94404,321 Cutter St,3,4,Foster City,"2,450 sqft",21-Aug-13,"$1,273,000 ",37.54924,-122.25588,CA,Single-Family Home,1273000,"$1,499,000 ",,,,,Sold,SAN MATEO
+94404,848 Polaris Ave,2.5,5,Foster City,"2,680 sqft",21-Aug-13,"$1,380,000 ",37.546818,-122.27578,CA,Single-Family Home,1380000,"$1,458,000 ",,,,,Sold,SAN MATEO
+94404,800 Sea Spray Ln #217,1,1,Foster City,"1,053 sqft",21-Aug-13,"$430,000 ",37.552803,-122.28066,CA,Condo,430000,"$534,000 ",,,,,Sold,SAN MATEO
+94404,1151 Compass Ln #360,2,3,Foster City,"1,593 sqft",20-Aug-13,"$660,000 ",37.549683,-122.254036,CA,Condo,660000,"$763,000 ",,,,,Sold,SAN MATEO
+94404,1061 Pizarro Ln,3,4,Foster City,"2,360 sqft",19-Aug-13,"$1,350,000 ",37.553196,-122.266815,CA,Single-Family Home,1350000,"$1,479,000 ",,,,,Sold,SAN MATEO
+94404,476 Chesapeake Ave,2,4,Foster City,"1,470 sqft",16-Aug-13,"$1,100,000 ",37.53644,-122.27121,CA,Single-Family Home,1100000,"$1,167,000 ",,,,,Sold,SAN MATEO
+94404,1955 Beach Park Blvd,3,4,Foster City,"2,250 sqft",16-Aug-13,"$1,145,000 ",37.57037,-122.26374,CA,Single-Family Home,1145000,"$1,302,000 ",,,,,Sold,SAN MATEO
+94404,27 Binnacle Ln,2.5,3,Foster City,"1,860 sqft",16-Aug-13,"$860,000 ",37.534813,-122.26458,CA,Single-Family Home,860000,"$1,108,000 ",,,,,Sold,SAN MATEO
+94404,759 Crane Ave,3,4,Foster City,"2,450 sqft",15-Aug-13,"$1,240,000 ",37.569828,-122.25915,CA,Single-Family Home,1240000,"$1,357,000 ",,,,,Sold,SAN MATEO
+94404,1061 Beach Park Blvd #204,2,2,Foster City,"1,349 sqft",13-Aug-13,"$555,000 ",37.551567,-122.25371,CA,Condo,555000,"$666,000 ",,,,,Sold,SAN MATEO
+94404,700 Bahama Ln,2.5,3,Foster City,"2,300 sqft",12-Aug-13,"$1,400,000 ",37.54246,-122.2589,CA,Single-Family Home,1400000,"$1,548,000 ",,,,,Sold,SAN MATEO
+94404,880 Meridian Bay Ln #307,2,2,Foster City,"1,350 sqft",12-Aug-13,"$669,500 ",37.55425,-122.27893,CA,Condo,669500,"$758,000 ",,Town Center,,,Sold,SAN MATEO
+94404,1127 Polynesia Dr,2.5,3,Foster City,"1,670 sqft",12-Aug-13,"$856,000 ",37.560318,-122.26219,CA,Single-Family Home,856000,"$960,000 ",,,,,Sold,SAN MATEO
+94404,706 Celestial Ln,2.5,3,Foster City,"1,430 sqft",9-Aug-13,"$827,500 ",37.549026,-122.281395,CA,Single-Family Home,827500,"$972,000 ",,,,,Sold,SAN MATEO
+94404,1191 Compass Ln #270,2,3,Foster City,"1,593 sqft",9-Aug-13,"$638,000 ",37.549683,-122.254036,CA,Condo,638000,"$828,000 ",,,,,Sold,SAN MATEO
+94404,750 Neptune Ln,2.5,3,Foster City,"1,470 sqft",8-Aug-13,"$800,000 ",37.55087,-122.27749,CA,Single-Family Home,800000,"$938,000 ",,,,,Sold,SAN MATEO
+94404,1170 Foster City Blvd #201,1,1,Foster City,990 sqft,8-Aug-13,"$424,000 ",37.551567,-122.25371,CA,Condo,424000,"$531,000 ",,,,,Sold,SAN MATEO
+94404,6216 Admiralty Ln,1.5,2,Foster City,998 sqft,7-Aug-13,"$410,000 ",37.561436,-122.26721,CA,Condo,410000,"$486,000 ",,,,,Sold,SAN MATEO
+94404,1131 Compass Ln #114,2,2,Foster City,"1,349 sqft",7-Aug-13,"$588,000 ",37.55157,-122.25375,CA,Condo,588000,"$696,000 ",,,,,Sold,SAN MATEO
+94404,780 Sea Spray Ln #310,2,2,Foster City,"1,499 sqft",5-Aug-13,"$646,000 ",37.55204,-122.28113,CA,Condo,646000,"$769,000 ",,,,,Sold,SAN MATEO
+94404,1191 Compass Ln #263,2,2,Foster City,"1,349 sqft",1-Aug-13,"$525,000 ",37.549683,-122.254036,CA,Condo,525000,"$730,000 ",,,,,Sold,SAN MATEO
+94404,111 Cityhomes Ln,2,2,Foster City,"1,230 sqft",31-Jul-13,"$686,000 ",37.55561,-122.27886,CA,Single-Family Home,686000,"$773,000 ",,Town Center,,,Sold,SAN MATEO
+94404,815 Sea Spray Ln #213,2,2,Foster City,"1,213 sqft",31-Jul-13,"$665,000 ",37.553253,-122.28123,CA,Condo,665000,"$732,000 ",,,,,Sold,SAN MATEO
+94404,1037 Lido Ln,2,2,Foster City,"1,395 sqft",31-Jul-13,"$898,000 ",37.554043,-122.26822,CA,Condo,898000,"$983,000 ",,,,,Sold,SAN MATEO
+94404,781 Coronado Ln,2,3,Foster City,"2,110 sqft",31-Jul-13,"$1,020,000 ",37.548332,-122.26935,CA,Single-Family Home,1020000,"$1,183,000 ",,,,,Sold,SAN MATEO
+94404,110 Cityhomes Ln,2.5,2,Foster City,"1,530 sqft",31-Jul-13,"$680,000 ",37.55567,-122.27887,CA,Single-Family Home,680000,"$884,000 ",,Town Center,,,Sold,SAN MATEO
+94404,308 Shad Ct,4,5,Foster City,"3,140 sqft",31-Jul-13,"$1,450,000 ",37.560738,-122.25204,CA,Single-Family Home,1450000,"$1,574,000 ",,,,,Sold,SAN MATEO
+94404,980 Gull Ave,3,4,Foster City,"2,250 sqft",30-Jul-13,"$1,200,000 ",37.56429,-122.25483,CA,Single-Family Home,1200000,"$1,349,000 ",,,,,Sold,SAN MATEO
+94404,340 Pompano Cir,3,4,Foster City,"2,450 sqft",30-Jul-13,"$1,250,000 ",37.558414,-122.25119,CA,Single-Family Home,1250000,"$1,319,000 ",,,,,Sold,SAN MATEO
+94404,840 Sea Spray Ln #202,2,2,Foster City,"1,500 sqft",29-Jul-13,"$625,000 ",37.553253,-122.28123,CA,Condo,625000,"$774,000 ",,,,,Sold,SAN MATEO
+94404,2209 Admiralty Ln,2.5,3,Foster City,"1,505 sqft",26-Jul-13,"$510,000 ",37.561436,-122.26721,CA,Condo,510000,"$614,000 ",,,,,Sold,SAN MATEO
+94404,652 Scorpio Ln,2.5,3,Foster City,"1,430 sqft",26-Jul-13,"$685,000 ",37.550335,-122.28012,CA,Single-Family Home,685000,"$902,000 ",,,,,Sold,SAN MATEO
+94404,223 Puffin Ct,3.5,4,Foster City,"2,945 sqft",26-Jul-13,"$1,278,000 ",37.571156,-122.26008,CA,Single-Family Home,1278000,"$1,514,000 ",,,,,Sold,SAN MATEO
+94404,57 E Court Ln,2,2,Foster City,"1,230 sqft",26-Jul-13,"$660,000 ",37.55903,-122.27326,CA,Single-Family Home,660000,"$767,000 ",,Town Center,,,Sold,SAN MATEO
+94404,624 Mystic Ln,2.5,3,Foster City,"1,940 sqft",26-Jul-13,"$1,210,000 ",37.544434,-122.26752,CA,Single-Family Home,1210000,"$1,233,000 ",,,,,Sold,SAN MATEO
+94404,1214 Moonsail Ln,1.5,2,Foster City,"1,350 sqft",26-Jul-13,"$636,000 ",37.553177,-122.25163,CA,Single-Family Home,636000,"$792,000 ",,,,,Sold,SAN MATEO
+94404,850 Pollux Ct,2,4,Foster City,"1,470 sqft",25-Jul-13,"$952,000 ",37.545044,-122.275536,CA,Single-Family Home,952000,"$1,166,000 ",,,,,Sold,SAN MATEO
+94404,1416 Dominica Ln,3,5,Foster City,"2,300 sqft",24-Jul-13,"$1,550,000 ",37.538197,-122.262794,CA,Single-Family Home,1550000,"$1,749,000 ",,,,,Sold,SAN MATEO
+94404,876 Carina Ln,2.5,3,Foster City,"1,618 sqft",23-Jul-13,"$828,000 ",37.54658,-122.27139,CA,Condo,828000,"$922,000 ",,,,,Sold,SAN MATEO
+94404,1052 Galley Ln,2.5,2,Foster City,"1,440 sqft",23-Jul-13,"$828,000 ",37.547497,-122.254974,CA,Single-Family Home,828000,"$846,000 ",,,,,Sold,SAN MATEO
+94404,880 Meridian Bay Ln #310,2,2,Foster City,"1,350 sqft",22-Jul-13,"$650,000 ",37.55425,-122.27893,CA,Condo,650000,"$810,000 ",,Town Center,,,Sold,SAN MATEO
+94404,1131 Compass Ln #217,1,1,Foster City,800 sqft,19-Jul-13,"$405,000 ",37.55157,-122.25375,CA,Condo,405000,"$502,000 ",,,,,Sold,SAN MATEO
+94404,1051 Beach Park Blvd #234,1,1,Foster City,990 sqft,19-Jul-13,"$450,000 ",37.549683,-122.254036,CA,Condo,450000,"$518,000 ",,,,,Sold,SAN MATEO
+94404,1151 Compass Ln #351,1,1,Foster City,990 sqft,19-Jul-13,"$421,500 ",37.549683,-122.254036,CA,Condo,421500,"$557,000 ",,,,,Sold,SAN MATEO
+94404,904 Beach Park Blvd #122,2,2,Foster City,"1,060 sqft",16-Jul-13,"$493,000 ",37.547977,-122.258965,CA,Condo,493000,"$643,000 ",,,,,Sold,SAN MATEO
+94404,24 Binnacle Ln,2.5,3,Foster City,"1,930 sqft",15-Jul-13,"$855,000 ",37.535084,-122.264824,CA,Single-Family Home,855000,"$1,127,000 ",,,,,Sold,SAN MATEO
+94404,807 Cortez Ln,2.5,4,Foster City,"2,030 sqft",15-Jul-13,"$970,000 ",37.552666,-122.26652,CA,Single-Family Home,970000,"$1,195,000 ",,,,,Sold,SAN MATEO
+94404,1155 Rickover Ln,2.5,3,Foster City,"1,700 sqft",15-Jul-13,"$790,000 ",37.54457,-122.26318,CA,Single-Family Home,790000,"$1,040,000 ",,,,,Sold,SAN MATEO
+94404,310 Trysail Ct,3,5,Foster City,"2,560 sqft",12-Jul-13,"$1,368,000 ",37.54964,-122.2624,CA,Single-Family Home,1368000,"$1,453,000 ",,,,,Sold,SAN MATEO
+94404,610 Gloucester Ln,2.5,3,Foster City,"2,050 sqft",12-Jul-13,"$1,252,000 ",37.542614,-122.265335,CA,Single-Family Home,1252000,"$1,342,000 ",,,,,Sold,SAN MATEO
+94404,910 Beach Park Blvd #106,2,2,Foster City,"1,060 sqft",12-Jul-13,"$540,000 ",37.547977,-122.258965,CA,Condo,540000,"$621,000 ",,,,,Sold,SAN MATEO
+94404,637 Bainbridge St,2.5,4,Foster City,"2,120 sqft",10-Jul-13,"$1,275,000 ",37.548393,-122.26451,CA,Single-Family Home,1275000,"$1,390,000 ",,,,,Sold,SAN MATEO
+94404,965 De Soto Ln,3,4,Foster City,"2,360 sqft",10-Jul-13,"$1,240,000 ",37.55164,-122.269005,CA,Single-Family Home,1240000,"$1,435,000 ",,,,,Sold,SAN MATEO
+94404,828 Columba Ln,2.5,3,Foster City,"1,618 sqft",10-Jul-13,"$700,000 ",37.549374,-122.27189,CA,Condo,700000,"$891,000 ",,,,,Sold,SAN MATEO
+94404,1052 Hull Ln,2.5,2,Foster City,"1,510 sqft",8-Jul-13,"$730,000 ",37.548054,-122.255424,CA,Single-Family Home,730000,"$840,000 ",,,,,Sold,SAN MATEO
+94404,7204 Admiralty Ln,1.5,2,Foster City,998 sqft,3-Jul-13,"$400,000 ",37.561436,-122.26721,CA,Condo,400000,"$489,000 ",,,,,Sold,SAN MATEO
+94404,670 Sandy Hook Ct,2,3,Foster City,"1,820 sqft",3-Jul-13,"$1,115,000 ",37.53933,-122.271385,CA,Single-Family Home,1115000,"$1,253,000 ",,,,,Sold,SAN MATEO
+94404,706 Nina Ln,2.5,3,Foster City,"1,670 sqft",2-Jul-13,"$765,000 ",37.561123,-122.26409,CA,Single-Family Home,765000,"$952,000 ",,,,,Sold,SAN MATEO
+94404,840 Sea Spray Ln #302,2,2,Foster City,"1,500 sqft",2-Jul-13,"$650,000 ",37.553253,-122.28123,CA,Condo,650000,"$759,000 ",,,,,Sold,SAN MATEO
+94404,851 Spruance Ln,2.5,4,Foster City,"1,880 sqft",2-Jul-13,"$760,000 ",37.548374,-122.26128,CA,Single-Family Home,760000,"$989,000 ",,,,,Sold,SAN MATEO
+94404,1771 Beach Park Blvd,2.5,4,Foster City,"2,200 sqft",2-Jul-13,"$1,400,000 ",37.56945,-122.256454,CA,Single-Family Home,1400000,"$1,393,000 ",,,,,Sold,SAN MATEO
+94404,4108 Admiralty Ln,2,3,Foster City,"1,496 sqft",2-Jul-13,"$547,500 ",37.561436,-122.26721,CA,Condo,547500,"$580,000 ",,,,,Sold,SAN MATEO
+94404,62 Williams Ln,2.5,3,Foster City,"1,550 sqft",1-Jul-13,"$950,000 ",37.535744,-122.26826,CA,Single-Family Home,950000,"$1,084,000 ",,,,,Sold,SAN MATEO
+94404,6106 Admiralty Ln,1,1,Foster City,748 sqft,1-Jul-13,"$300,000 ",37.561436,-122.26721,CA,Condo,300000,"$396,000 ",,,,,Sold,SAN MATEO
+94404,902 Beach Park Blvd #133,2,2,Foster City,"1,060 sqft",28-Jun-13,"$562,000 ",37.547977,-122.258965,CA,Condo,562000,"$638,000 ",,,,,Sold,SAN MATEO
+94404,1081 Beach Park Blvd #304,1,1,Foster City,990 sqft,28-Jun-13,"$435,000 ",37.551567,-122.25371,CA,Condo,435000,"$512,000 ",,,,,Sold,SAN MATEO
+94404,389 Tampa Ct,2,3,Foster City,"1,420 sqft",28-Jun-13,"$1,550,000 ",37.542736,-122.27518,CA,Single-Family Home,1550000,"$1,463,000 ",,,,,Sold,SAN MATEO
+94404,611 Portofino Ln,2,2,Foster City,"1,395 sqft",28-Jun-13,"$625,000 ",37.55235,-122.27197,CA,Condo,625000,"$831,000 ",,,,,Sold,SAN MATEO
+94404,918 Beach Park Blvd #54,2,2,Foster City,"1,060 sqft",26-Jun-13,"$551,500 ",37.547977,-122.258965,CA,Condo,551500,"$659,000 ",,,,,Sold,SAN MATEO
+94404,1131 Compass Ln #207,2,2,Foster City,"1,286 sqft",25-Jun-13,"$517,000 ",37.55157,-122.25375,CA,Condo,517000,"$633,000 ",,,,,Sold,SAN MATEO

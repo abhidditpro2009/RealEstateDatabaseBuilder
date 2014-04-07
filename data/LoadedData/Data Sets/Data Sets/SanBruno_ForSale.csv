@@ -1,0 +1,106 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,669 3rd Ave,1.0,2.0,San Bruno,740 sqft,"Dec 31, 1969",$0,37.62799,-122.40839,CA,Single-Family Home,508000,,94066,,69,,For Sale,SAN MATEO
+2,7150 Shelter Creek Ln,,,San Bruno,490 sqft,"Dec 31, 1969",$0,37.622875,-122.427986,CA,Condo,240000,,94066,,52,,For Sale,SAN MATEO
+3,405 Piccadilly Pl #17,1.0,1.0,San Bruno,540 sqft,"Dec 31, 1969",$0,37.630783,-122.43196,CA,Condo,289000,,94066,,51,,For Sale,SAN MATEO
+4,761 Easton Ave,2.0,3.0,San Bruno,"1,460 sqft","Dec 31, 1969",$0,37.628796,-122.414154,CA,Single-Family Home,639000,,94066,,83,,For Sale,SAN MATEO
+5,2220 Shelter Creek Ln,1.0,,San Bruno,490 sqft,"Dec 31, 1969",$0,37.619843,-122.42837,CA,Condo,213000,,94066,,46,,For Sale,SAN MATEO
+6,186 Lake Dr,3.0,4.0,San Bruno,"1,580 sqft","Dec 31, 1969",$0,37.62098,-122.451614,CA,Single-Family Home,799000,,94066,,18,,For Sale,SAN MATEO
+7,1591 Monterey Dr,3.0,4.0,San Bruno,"2,000 sqft","Dec 31, 1969",$0,37.621635,-122.45207,CA,Single-Family Home,818000,,94066,,22,,For Sale,SAN MATEO
+8,2300 Rosewood Dr,2.0,4.0,San Bruno,"1,840 sqft","Dec 31, 1969",$0,37.615414,-122.43094,CA,Single-Family Home,828000,,94066,,31,,For Sale,SAN MATEO
+9,217 San Luis Ave,2.0,3.0,San Bruno,"2,030 sqft","Dec 31, 1969",$0,37.61839,-122.40594,CA,Single-Family Home,650000,,94066,,66,,For Sale,SAN MATEO
+10,635 Walnut St,3.0,3.0,SAN BRUNO,,"Dec 31, 1969",$0,37.632923,-122.40734,CA,Single-Family Home,628000,,94066,,60,,For Sale,SAN MATEO
+11,3161 Susan Dr,2.0,3.0,San Bruno,"1,190 sqft","Dec 31, 1969",$0,37.634247,-122.45841,CA,Single-Family Home,739988,,94066,,38,,For Sale,SAN MATEO
+12,235 Merced Dr,3.0,4.0,San Bruno,"2,000 sqft","Dec 31, 1969",$0,37.62228,-122.45294,CA,Single-Family Home,750000,,94066,,23,,For Sale,SAN MATEO
+13,5139 Shelter Creek Ln,2.0,2.0,San Bruno,"1,030 sqft","Dec 31, 1969",$0,37.619843,-122.42837,CA,Apt/Condo/Twnhm,399000,,94066,,46,,For Sale,SAN MATEO
+14,5142 Shelter Creek Ln,2.0,2.0,San Bruno,"1,090 sqft","Dec 31, 1969",$0,37.619843,-122.42837,CA,Condo,392600,,94066,,46,,For Sale,SAN MATEO
+15,4221 Shelter Creek Ln,1.0,,San Bruno,490 sqft,"Dec 31, 1969",$0,37.619843,-122.42837,CA,Condo,275000,,94066,,46,,For Sale,SAN MATEO
+16,8343 Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.623222,-122.42897,CA,Apt/Condo/Twnhm,299000,,94066,,52,,For Sale,SAN MATEO
+17,212 Linden Ave,,,San Bruno,"2,297 sqft","Dec 31, 1969",$0,37.617928,-122.40959,CA,Multi-Family Home,748000,,94066,,66,,For Sale,SAN MATEO
+18,160 Keefe Ct,2.0,4.0,San Bruno,"1,750 sqft","Dec 31, 1969",$0,37.616184,-122.429054,CA,Single-Family Home,849000,,94066,,29,,For Sale,SAN MATEO
+19,1031 Cherry Ave,1.0,1.0,San Bruno,830 sqft,"Dec 31, 1969",$0,37.63021,-122.42834,CA,Condo,369000,,94066,,58,,For Sale,SAN MATEO
+20,918 Green Ave,,,San Bruno,"3,541 sqft","Dec 31, 1969",$0,37.631706,-122.416214,CA,Multi-Family Home,875000,,94066,,71,,For Sale,SAN MATEO
+21,652 2nd Ave,1.0,2.0,San Bruno,940 sqft,"Dec 31, 1969",$0,37.62769,-122.40859,CA,Single-Family Home,525000,,94066,,69,,For Sale,SAN MATEO
+22,178 Linden Ave,2.0,4.0,San Bruno,"1,830 sqft","Dec 31, 1969",$0,37.616875,-122.40866,CA,Single-Family Home,749000,,94066,,63,,For Sale,SAN MATEO
+23,4111 Shelter Creek Ln,1.0,,San Bruno,490 sqft,"Dec 31, 1969",$0,37.619843,-122.42837,CA,Condo,225000,,94066,,46,,For Sale,SAN MATEO
+24,5308 Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.619843,-122.42837,CA,Condo,309800,,94066,,46,,For Sale,SAN MATEO
+25,744 Green Ave,1.0,2.0,San Bruno,"1,020 sqft","Dec 31, 1969",$0,37.628426,-122.41432,CA,Single-Family Home,578800,,94066,,69,,For Sale,SAN MATEO
+26,1253 Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.619843,-122.42837,CA,Apt/Condo/Twnhm,325000,,94066,,46,,For Sale,SAN MATEO
+27,2595 Princeton Dr,2.0,3.0,San Bruno,"1,300 sqft","Dec 31, 1969",$0,37.618614,-122.4371,CA,Single-Family Home,888000,,94066,,35,,For Sale,SAN MATEO
+28,2270 Rosewood Dr,3.0,3.0,San Bruno,"2,070 sqft","Dec 31, 1969",$0,37.615887,-122.43027,CA,Single-Family Home,895000,,94066,,35,,For Sale,SAN MATEO
+29,2580 Turnberry Dr,2.0,3.0,San Bruno,"1,440 sqft","Dec 31, 1969",$0,37.636887,-122.45395,CA,Single-Family Home,1200000,,94066,,55,,For Sale,SAN MATEO
+30,3049 Susan Dr,2.0,3.0,San Bruno,,"Dec 31, 1969",$0,37.633263,-122.45679,CA,Single-Family Home,599000,,94066,,40,,For Sale,SAN MATEO
+31,3824 Adriatic Way,3.5,5.0,San Bruno,"2,587 sqft","Dec 31, 1969",$0,37.633453,-122.46329,CA,Single-Family Home,1089000,,94066,,35,,For Sale,SAN MATEO
+32,Hamilton Ave,2.0,3.0,San Bruno,"1,320 sqft","Dec 31, 1969",$0,37.622,-122.43242,CA,Single-Family Home,210000,,94066,,43,,For Sale,SAN MATEO
+33,San Marco Ave,2.0,3.0,San Bruno,"2,349 sqft","Dec 31, 1969",$0,37.61767,-122.404724,CA,Multi-Family Home,648000,,94066,,62,,For Sale,SAN MATEO
+34,Linden Ave,1.0,2.0,San Bruno,"2,280 sqft","Dec 31, 1969",$0,37.61867,-122.41051,CA,Single-Family Home,600000,,94066,,68,,For Sale,SAN MATEO
+35,3rd Ave,2.0,3.0,San Bruno,"1,900 sqft","Dec 31, 1969",$0,37.629787,-122.40912,CA,Single-Family Home,564457,,94066,,65,,For Sale,SAN MATEO
+36,Claremont Dr,2.0,3.0,San Bruno,"1,500 sqft","Dec 31, 1969",$0,37.623543,-122.43919,CA,Single-Family Home,480000,,94066,,34,,For Sale,SAN MATEO
+37,Heather Ln,2.0,4.0,San Bruno,"1,630 sqft","Dec 31, 1969",$0,37.62865,-122.44373,CA,Single-Family Home,630000,,94066,,37,,For Sale,SAN MATEO
+38,Euclid Ave,2.0,4.0,San Bruno,"1,280 sqft","Dec 31, 1969",$0,37.631073,-122.41663,CA,Single-Family Home,647149,,94066,,72,,For Sale,SAN MATEO
+39,Chestnut Ave,3.0,3.0,San Bruno,"1,910 sqft","Dec 31, 1969",$0,37.6179,-122.41801,CA,Single-Family Home,868362,,94066,,54,,For Sale,SAN MATEO
+40,Cherry Ave #111,1.0,1.0,San Bruno,540 sqft,"Dec 31, 1969",$0,37.6317,-122.42771,CA,Condo,202000,,94066,,58,,For Sale,SAN MATEO
+41,Colby Way,2.0,3.0,San Bruno,"1,160 sqft","Dec 31, 1969",$0,37.63325,-122.46658,CA,Single-Family Home,612000,,94066,,37,,For Sale,SAN MATEO
+42,San Marco Ave,,,San Bruno,,"Dec 31, 1969",$0,37.61767,-122.404724,CA,Single-Family Home,648000,,94066,,62,,For Sale,SAN MATEO
+43,Valleywood Dr,2.0,3.0,San Bruno,"1,140 sqft","Dec 31, 1969",$0,37.635643,-122.44098,CA,Single-Family Home,685392,,94066,,29,,For Sale,SAN MATEO
+44,Valleywood Dr,2.0,3.0,San Bruno,"1,888 sqft","Dec 31, 1969",$0,37.631916,-122.44627,CA,Single-Family Home,811014,,94066,,28,,For Sale,SAN MATEO
+45,Fleetwood Dr,3.0,5.0,San Bruno,"1,440 sqft","Dec 31, 1969",$0,37.63581,-122.457085,CA,Single-Family Home,655000,,94066,,51,,For Sale,SAN MATEO
+46,Fasman Dr,2.0,3.0,San Bruno,"1,190 sqft","Dec 31, 1969",$0,37.63393,-122.460495,CA,Single-Family Home,480000,,94066,,49,,For Sale,SAN MATEO
+47,Acacia Ave,1.0,3.0,San Bruno,"1,230 sqft","Dec 31, 1969",$0,37.61917,-122.41395,CA,Single-Family Home,500000,,94066,,71,,For Sale,SAN MATEO
+48,Atlantic Ave,1.0,2.0,San Bruno,730 sqft,"Dec 31, 1969",$0,37.638386,-122.4151,CA,Single-Family Home,495000,,94066,,83,,For Sale,SAN MATEO
+49,Green Ave,2.0,2.0,San Bruno,"1,010 sqft","Dec 31, 1969",$0,37.632137,-122.41673,CA,Single-Family Home,547893,,94066,,71,,For Sale,SAN MATEO
+50,Rollingwood Dr,2.0,3.0,San Bruno,"1,110 sqft","Dec 31, 1969",$0,37.630253,-122.44251,CA,Single-Family Home,615212,,94066,,34,,For Sale,SAN MATEO
+51,Niles Ave,2.0,3.0,San Bruno,"1,360 sqft","Dec 31, 1969",$0,37.617363,-122.41792,CA,Single-Family Home,705000,,94066,,57,,For Sale,SAN MATEO
+52,Longview Dr,2.0,3.0,San Bruno,"1,430 sqft","Dec 31, 1969",$0,37.63041,-122.45408,CA,Single-Family Home,788256,,94066,,35,,For Sale,SAN MATEO
+53,Susan Dr,2.0,4.0,San Bruno,"1,680 sqft","Dec 31, 1969",$0,37.635315,-122.45986,CA,Single-Family Home,791504,,94066,,45,,For Sale,SAN MATEO
+54,Boardwalk Ave,1.0,1.0,San Bruno,650 sqft,"Dec 31, 1969",$0,37.630074,-122.43144,CA,Condo,124200,,94066,,66,,For Sale,SAN MATEO
+55,Claremont Dr,2.0,3.0,San Bruno,"1,340 sqft","Dec 31, 1969",$0,37.62196,-122.4394,CA,Single-Family Home,275000,,94066,,38,,For Sale,SAN MATEO
+56,Milton Ave,2.0,3.0,San Bruno,"1,610 sqft","Dec 31, 1969",$0,37.622955,-122.408646,CA,Single-Family Home,300000,,94066,,91,,For Sale,SAN MATEO
+57,Masson Ave,2.0,4.0,San Bruno,"2,920 sqft","Dec 31, 1969",$0,37.62977,-122.41346,CA,Single-Family Home,682972,,94066,,82,,For Sale,SAN MATEO
+58,Easton Ave,1.0,2.0,San Bruno,"1,010 sqft","Dec 31, 1969",$0,37.625687,-122.41206,CA,Single-Family Home,282000,,94066,,91,,For Sale,SAN MATEO
+59,Rosewood Dr,3.0,5.0,San Bruno,"2,390 sqft","Dec 31, 1969",$0,37.616596,-122.428825,CA,Single-Family Home,720000,,94066,,31,,For Sale,SAN MATEO
+60,Fasman Dr,2.0,3.0,San Bruno,"1,190 sqft","Dec 31, 1969",$0,37.633907,-122.46045,CA,Single-Family Home,322700,,94066,,35,,For Sale,SAN MATEO
+61,Lake Dr,2.0,4.0,San Bruno,"2,390 sqft","Dec 31, 1969",$0,37.61992,-122.45195,CA,Single-Family Home,822616,,94066,,17,,For Sale,SAN MATEO
+62,Shelter Crk L,1.0,,San Bruno,490 sqft,"Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,196087,,94066,,69,,For Sale,SAN MATEO
+63,Sunset Dr,2.0,3.0,San Bruno,"1,160 sqft","Dec 31, 1969",$0,37.633076,-122.4715,CA,Single-Family Home,455950,,94066,,29,,For Sale,SAN MATEO
+64,Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,327894,,94066,,52,,For Sale,SAN MATEO
+65,Boardwalk Ave #10,1.0,,San Bruno,450 sqft,"Dec 31, 1969",$0,37.630074,-122.431496,CA,Condo,250460,,94066,,63,,For Sale,SAN MATEO
+66,Shelter Creek Ln,2.0,2.0,San Bruno,"1,030 sqft","Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,476487,,94066,,65,,For Sale,SAN MATEO
+67,Shelter Creek Ln,2.0,2.0,San Bruno,"1,000 sqft","Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,445778,,94066,,65,,For Sale,SAN MATEO
+68,Cherry Ave #3,1.0,1.0,San Bruno,832 sqft,"Dec 31, 1969",$0,37.630787,-122.42732,CA,Condo,363335,,94066,,62,,For Sale,SAN MATEO
+69,Boardwalk Ave #20,1.0,1.0,San Bruno,650 sqft,"Dec 31, 1969",$0,37.630177,-122.43149,CA,Townhome,294346,,94066,,51,,For Sale,SAN MATEO
+70,Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,294213,,94066,,69,,For Sale,SAN MATEO
+71,Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,298176,,94066,,69,,For Sale,SAN MATEO
+72,Piccadilly Pl,1.0,,San Bruno,450 sqft,"Dec 31, 1969",$0,37.632427,-122.4286,CA,Condo,251564,,94066,,74,,For Sale,SAN MATEO
+73,Boardwalk Ave,1.0,1.0,San Bruno,650 sqft,"Dec 31, 1969",$0,37.631004,-122.43005,CA,Condo,312824,,94066,,68,,For Sale,SAN MATEO
+74,Diamond St,1.0,2.0,San Bruno,700 sqft,"Dec 31, 1969",$0,37.63558,-122.413574,CA,Single-Family Home,435020,,94066,,78,,For Sale,SAN MATEO
+75,Florida Ave,1.0,2.0,San Bruno,790 sqft,"Dec 31, 1969",$0,37.62194,-122.40897,CA,Single-Family Home,470000,,94066,,89,,For Sale,SAN MATEO
+76,Pine St,2.0,3.0,San Bruno,880 sqft,"Dec 31, 1969",$0,37.628696,-122.40807,CA,Single-Family Home,450000,,94066,,75,,For Sale,SAN MATEO
+77,Mastick Ave,1.0,2.0,San Bruno,770 sqft,"Dec 31, 1969",$0,37.62528,-122.41034,CA,Single-Family Home,473738,,94066,,89,,For Sale,SAN MATEO
+78,1st Ave,1.0,2.0,San Bruno,810 sqft,"Dec 31, 1969",$0,37.626785,-122.409225,CA,Single-Family Home,455707,,94066,,82,,For Sale,SAN MATEO
+79,4th Ave,2.0,4.0,San Bruno,"1,440 sqft","Dec 31, 1969",$0,37.630318,-122.40842,CA,Single-Family Home,574777,,94066,,74,,For Sale,SAN MATEO
+80,San Anselmo Ave N,2.0,4.0,San Bruno,"1,730 sqft","Dec 31, 1969",$0,37.619446,-122.407166,CA,Single-Family Home,615000,,94066,,80,,For Sale,SAN MATEO
+81,Sneath Ln,2.0,4.0,San Bruno,"2,080 sqft","Dec 31, 1969",$0,37.626812,-122.451126,CA,Single-Family Home,791200,,94066,,25,,For Sale,SAN MATEO
+82,2nd Ave,1.0,2.0,San Bruno,"1,380 sqft","Dec 31, 1969",$0,37.62648,-122.40818,CA,Single-Family Home,540000,,94066,,88,,For Sale,SAN MATEO
+83,Shelter Creek Ln,1.0,1.0,San Bruno,680 sqft,"Dec 31, 1969",$0,37.620865,-122.426796,CA,Condo,313035,,94066,,49,,For Sale,SAN MATEO
+84,Easton Ave,1.0,2.0,San Bruno,810 sqft,"Dec 31, 1969",$0,37.632233,-122.41584,CA,Single-Family Home,425430,,94066,,71,,For Sale,SAN MATEO
+85,Herman St,1.0,2.0,San Bruno,800 sqft,"Dec 31, 1969",$0,37.63853,-122.4133,CA,Single-Family Home,446231,,94066,,78,,For Sale,SAN MATEO
+86,6th Ave,1.0,2.0,San Bruno,720 sqft,"Dec 31, 1969",$0,37.632282,-122.40678,CA,Single-Family Home,410716,,94066,,55,,For Sale,SAN MATEO
+87,2nd Ave,,,San Bruno,,"Dec 31, 1969",$0,37.626877,-122.40835,CA,Unspecified,544185,,94066,,82,,For Sale,SAN MATEO
+88,Valleywood Dr,2.0,3.0,San Bruno,"1,110 sqft","Dec 31, 1969",$0,37.632008,-122.44612,CA,Single-Family Home,721572,,94066,,28,,For Sale,SAN MATEO
+89,Trenton Dr,2.0,4.0,San Bruno,"1,975 sqft","Dec 31, 1969",$0,37.620888,-122.43158,CA,Single-Family Home,914284,,94066,,48,,For Sale,SAN MATEO
+90,Shelter Creek Ln,,1.0,San Bruno,,"Dec 31, 1969",$0,37.62084,-122.42678,CA,Condo,265485,,94066,,57,,For Sale,SAN MATEO
+91,Parkview Ct,2.0,3.0,San Bruno,"1,400 sqft","Dec 31, 1969",$0,37.6117,-122.41799,CA,Single-Family Home,560000,,94066,,49,,For Sale,SAN MATEO
+92,Bennington Dr,,,San Bruno,,"Dec 31, 1969",$0,37.61357,-122.43476,CA,Unspecified,200000,,94066,,32,,For Sale,SAN MATEO
+93,Picadilly Pl #20,,,San Bruno,,"Dec 31, 1969",$0,37.631252,-122.428456,CA,Unspecified,214646,,94066,,,,For Sale,SAN MATEO
+94,Shelter Creek Ln #1151,,,San Bruno,,"Dec 31, 1969",$0,37.620983,-122.42692,CA,Unspecified,306539,,94066,,52,,For Sale,SAN MATEO
+95,Boardwalk 16,,,San Bruno,,"Dec 31, 1969",$0,37.630066,-122.43048,CA,Unspecified,293846,,94066,,60,,For Sale,SAN MATEO
+96,St Cloud Dr,,,San Bruno,,"Dec 31, 1969",$0,37.636787,-122.45249,CA,Unspecified,449000,,94066,,52,,For Sale,SAN MATEO
+97,Shelter Crk L,,,San Bruno,,"Dec 31, 1969",$0,37.62098,-122.42692,CA,Unspecified,357572,,94066,,35,,For Sale,SAN MATEO
+98,Piccadilly Pl,,,San Bruno,,"Dec 31, 1969",$0,37.632362,-122.43019,CA,Unspecified,269100,,94066,,65,,For Sale,SAN MATEO
+99,Hensley Ave,1.0,2.0,San Bruno,"1,170 sqft","Dec 31, 1969",$0,37.632084,-122.417656,CA,Single-Family Home,592000,,94066,,85,,For Sale,SAN MATEO
+100,Colby Way,2.0,3.0,San Bruno,"1,460 sqft","Dec 31, 1969",$0,37.63381,-122.466965,CA,Single-Family Home,680000,,94066,,31,,For Sale,SAN MATEO
+101,Willow Way,,,San Bruno,,"Dec 31, 1969",$0,37.631176,-122.450714,CA,Unspecified,583598,,94066,,35,,For Sale,SAN MATEO
+102,Hazel Ave,,,San Bruno,,"Dec 31, 1969",$0,37.61837,-122.415276,CA,Unspecified,616052,,94066,,77,,For Sale,SAN MATEO
+103,Elm Ave,,,San Bruno,,"Dec 31, 1969",$0,37.62175,-122.414734,CA,Single-Family Home,812000,,94066,,78,,For Sale,SAN MATEO
+104,Elm Ave,,,San Bruno,,"Dec 31, 1969",$0,37.621803,-122.41477,CA,Single-Family Home,812000,,94066,,78,,For Sale,SAN MATEO
+105,Elm Ave,,,San Bruno,,"Dec 31, 1969",$0,37.621777,-122.41476,CA,Single-Family Home,812000,,94066,,78,,For Sale,SAN MATEO

@@ -1,0 +1,252 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,119 Chesham Ave,2.0,3.0,San Carlos,"1,230 sqft","Feb 19, 2014","$1,200,000",37.495934,-122.28021,CA,Single-Family Home,1200000,"$1,223,000",94070,,,,Sold,SAN MATEO
+2,135 Dale Ave,1.0,1.0,San Carlos,720 sqft,"Feb 19, 2014","$708,000",37.50041,-122.27284,CA,Single-Family Home,708000,"$831,000",94070,,,,Sold,SAN MATEO
+3,1 Elm St #200,2.0,2.0,San Carlos,"1,180 sqft","Feb 18, 2014","$655,000",37.51245,-122.26942,CA,Condo,655000,"$719,000",94070,,,,Sold,SAN MATEO
+4,126 Manor Dr,2.0,2.0,San Carlos,"1,030 sqft","Feb 18, 2014","$1,010,000",37.500744,-122.27443,CA,Single-Family Home,1010000,"$1,139,000",94070,,,,Sold,SAN MATEO
+5,57 Elm St,2.0,4.0,San Carlos,"2,419 sqft","Feb 14, 2014","$880,000",37.511784,-122.26831,CA,Multi-Family,880000,"$1,495,000",94070,,,,Sold,SAN MATEO
+6,3335 La Mesa Dr #8,2.0,2.0,San Carlos,"1,040 sqft","Feb 14, 2014","$630,000",37.48035,-122.282845,CA,Condo,630000,"$687,000",94070,,,,Sold,SAN MATEO
+7,3348 La Mesa Dr #14,2.0,2.0,San Carlos,"1,040 sqft","Feb 12, 2014","$652,000",37.479496,-122.284256,CA,Condo,652000,"$682,000",94070,,,,Sold,SAN MATEO
+8,416 Portofino Dr #5,2.5,2.0,San Carlos,"1,310 sqft","Feb 10, 2014","$630,000",37.49028,-122.27743,CA,Condo,630000,"$813,000",94070,,,,Sold,SAN MATEO
+9,2 Elm St #201,2.0,2.0,San Carlos,"1,050 sqft","Feb 5, 2014","$620,000",37.512966,-122.268616,CA,Condo,620000,"$735,000",94070,,,,Sold,SAN MATEO
+10,243 Hillcrest Rd,1.0,2.0,San Carlos,890 sqft,"Jan 31, 2014","$1,058,000",37.50548,-122.26976,CA,Single-Family Home,1058000,"$1,109,000",94070,,,,Sold,SAN MATEO
+11,5 Poppy Ln,2.5,2.0,San Carlos,"2,200 sqft","Jan 29, 2014","$1,315,000",37.496895,-122.29436,CA,Condo,1315000,"$1,224,000",94070,,,,Sold,SAN MATEO
+12,2730 San Miguel Way,2.5,4.0,San Carlos,"1,660 sqft","Jan 28, 2014","$1,450,000",37.48872,-122.26985,CA,Single-Family Home,1450000,"$1,484,000",94070,,,,Sold,SAN MATEO
+13,23 Vine St,1.0,2.0,San Carlos,"1,190 sqft","Jan 24, 2014","$985,000",37.51029,-122.27169,CA,Single-Family Home,985000,"$1,125,000",94070,,,,Sold,SAN MATEO
+14,1005 Hall St,1.0,2.0,San Carlos,910 sqft,"Jan 23, 2014","$775,000",37.50719,-122.25611,CA,Single-Family Home,775000,"$814,000",94070,,,,Sold,SAN MATEO
+15,1333 Elm St,1.0,2.0,San Carlos,"1,390 sqft","Jan 22, 2014","$1,000,000",37.49675,-122.251945,CA,Single-Family Home,1000000,"$1,109,000",94070,,,,Sold,SAN MATEO
+16,2727 Clifford Ave,4.0,4.0,San Carlos,"2,920 sqft","Jan 21, 2014","$2,555,000",37.483257,-122.26232,CA,Single-Family Home,2555000,"$2,778,000",94070,,,,Sold,SAN MATEO
+17,2424 Saint Francis Way,1.0,3.0,San Carlos,"1,320 sqft","Jan 21, 2014","$1,180,000",37.485455,-122.258446,CA,Single-Family Home,1180000,"$1,256,000",94070,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+18,3392 Brittan Ave #7,2.0,2.0,San Carlos,"1,040 sqft","Jan 17, 2014","$594,000",37.483284,-122.28713,CA,Condo,594000,"$681,000",94070,,,,Sold,SAN MATEO
+19,1036 Hewitt Dr,2.0,3.0,San Carlos,"1,870 sqft","Jan 16, 2014","$1,300,000",37.492123,-122.2726,CA,Single-Family Home,1300000,"$1,439,000",94070,,,,Sold,SAN MATEO
+20,11 Buttercup Ln,2.5,2.0,San Carlos,"1,793 sqft","Jan 13, 2014","$950,000",37.497986,-122.29913,CA,Condo,950000,"$1,135,000",94070,,,,Sold,SAN MATEO
+21,15 Sorrel Ln,,,San Carlos,,"Jan 10, 2014","$785,000",37.497986,-122.29913,CA,Condo,785000,,94070,,,,Sold,SAN MATEO
+22,1 Laurel St #102,2.0,2.0,San Carlos,"1,030 sqft","Jan 10, 2014","$579,000",37.51245,-122.26942,CA,Condo,579000,"$693,000",94070,,,,Sold,SAN MATEO
+23,30 Dover Ct,2.0,3.0,San Carlos,"1,750 sqft","Jan 9, 2014","$1,610,000",37.494896,-122.28289,CA,Single-Family Home,1610000,"$1,466,000",94070,,,,Sold,SAN MATEO
+24,878 Heather Dr,2.0,3.0,San Carlos,"1,680 sqft","Jan 8, 2014","$1,175,000",37.492313,-122.27133,CA,Single-Family Home,1175000,"$1,340,000",94070,,,,Sold,SAN MATEO
+25,1532 Greenwood Ave,1.0,1.0,San Carlos,920 sqft,"Jan 8, 2014","$1,975,000",37.497303,-122.25518,CA,Single-Family Home,1975000,"$986,000",94070,,,,Sold,SAN MATEO
+26,8 Portofino Ct,2.5,4.0,San Carlos,"1,950 sqft","Jan 7, 2014","$1,584,000",37.49324,-122.279175,CA,Single-Family Home,1584000,"$1,737,000",94070,,,,Sold,SAN MATEO
+27,650 Wellington Dr,3.5,4.0,San Carlos,"2,600 sqft","Jan 3, 2014","$2,270,000",37.50885,-122.28331,CA,Single-Family Home,2270000,"$1,835,000",94070,,,,Sold,SAN MATEO
+28,818 Cordilleras Ave,2.0,3.0,San Carlos,"1,510 sqft","Jan 3, 2014","$1,307,000",37.497486,-122.26588,CA,Single-Family Home,1307000,"$1,379,000",94070,,,,Sold,SAN MATEO
+29,193 Glasgow Ln,3.0,4.0,San Carlos,"2,510 sqft","Dec 31, 2013","$750,000",37.496258,-122.273,CA,Single-Family Home,750000,"$2,123,000",94070,,,,Sold,SAN MATEO
+30,2708 Eaton Ave,2.0,3.0,San Carlos,"1,470 sqft","Dec 31, 2013","$1,075,000",37.48475,-122.26325,CA,Single-Family Home,1075000,"$1,247,000",94070,,,,Sold,SAN MATEO
+31,1081 Hewitt Dr,2.0,3.0,San Carlos,"1,440 sqft","Dec 30, 2013","$1,050,000",37.48983,-122.27062,CA,Single-Family Home,1050000,"$1,287,000",94070,,,,Sold,SAN MATEO
+32,2119 Greenwood Ave,1.5,3.0,San Carlos,"1,450 sqft","Dec 30, 2013","$1,381,000",37.49311,-122.26029,CA,Single-Family Home,1381000,"$1,362,000",94070,,,,Sold,SAN MATEO
+33,1001 Laurel St #201,2.0,2.0,San Carlos,"1,094 sqft","Dec 24, 2013","$820,000",37.501335,-122.25409,CA,Condo,820000,"$820,000",94070,,,,Sold,SAN MATEO
+34,60 Wessex Way,2.0,3.0,San Carlos,"1,860 sqft","Dec 24, 2013","$1,650,000",37.504593,-122.27859,CA,Single-Family Home,1650000,"$1,548,000",94070,,,,Sold,SAN MATEO
+35,3 Poppy Ln,2.5,3.0,San Carlos,"2,100 sqft","Dec 24, 2013","$1,106,000",37.496895,-122.29436,CA,Condo,1106000,"$1,157,000",94070,,,,Sold,SAN MATEO
+36,45 Shelford Ave,2.0,3.0,San Carlos,"1,440 sqft","Dec 23, 2013","$970,000",37.507477,-122.27938,CA,Single-Family Home,970000,"$1,130,000",94070,,,,Sold,SAN MATEO
+37,2819 Eaton Ave,3.5,4.0,San Carlos,"3,800 sqft","Dec 20, 2013","$2,810,000",37.48349,-122.265114,CA,Single-Family Home,2810000,"$2,395,000",94070,,,,Sold,SAN MATEO
+38,2516 San Carlos Ave,2.0,3.0,San Carlos,"1,270 sqft","Dec 20, 2013","$890,000",37.50541,-122.28045,CA,Single-Family Home,890000,"$1,156,000",94070,,,,Sold,SAN MATEO
+39,1409 Cordilleras Ave,1.0,2.0,San Carlos,"1,670 sqft","Dec 20, 2013","$1,900,000",37.491116,-122.25688,CA,Single-Family Home,1900000,"$1,412,000",94070,,,,Sold,SAN MATEO
+40,633 Elm St #203,2.0,2.0,San Carlos,"1,096 sqft","Dec 19, 2013","$300,000",37.504868,-122.262054,CA,Condo,300000,"$800,000",94070,,,,Sold,SAN MATEO
+41,38 Club Dr,2.5,3.0,San Carlos,"2,720 sqft","Dec 19, 2013","$1,650,000",37.504654,-122.28595,CA,Single-Family Home,1650000,"$1,672,000",94070,,,,Sold,SAN MATEO
+42,1924 Eaton Ave,2.5,3.0,San Carlos,"1,870 sqft","Dec 19, 2013","$1,300,000",37.488182,-122.250145,CA,Single-Family Home,1300000,"$1,568,000",94070,,,,Sold,SAN MATEO
+43,602 Cedar St #5,2.0,2.0,San Carlos,"1,320 sqft","Dec 18, 2013","$649,000",37.503407,-122.26491,CA,Condo,649000,"$809,000",94070,,,,Sold,SAN MATEO
+44,1044 Hewitt Dr,3.0,3.0,San Carlos,"1,690 sqft","Dec 17, 2013","$1,280,000",37.49171,-122.27262,CA,Single-Family Home,1280000,"$1,407,000",94070,,,,Sold,SAN MATEO
+45,2087 Belle Ave,2.0,4.0,San Carlos,"1,750 sqft","Dec 17, 2013","$1,220,000",37.495262,-122.26469,CA,Single-Family Home,1220000,"$1,410,000",94070,,,,Sold,SAN MATEO
+46,1374 Alameda,2.0,3.0,San Carlos,"1,740 sqft","Dec 12, 2013","$905,000",37.48809,-122.26236,CA,Single-Family Home,905000,"$1,279,000",94070,,,,Sold,SAN MATEO
+47,220 Winding Way,1.0,1.0,San Carlos,760 sqft,"Dec 11, 2013","$704,000",37.494267,-122.28022,CA,Single-Family Home,704000,"$889,000",94070,,,,Sold,SAN MATEO
+48,184 Ruby Ave,2.0,2.0,San Carlos,"1,430 sqft","Dec 11, 2013","$1,300,000",37.486835,-122.257034,CA,Single-Family Home,1300000,"$1,385,000",94070,,,,Sold,SAN MATEO
+49,121 Beverly Dr,3.0,4.0,San Carlos,"2,410 sqft","Dec 10, 2013","$1,450,000",37.50084,-122.27976,CA,Single-Family Home,1450000,"$1,531,000",94070,,,,Sold,SAN MATEO
+50,973 Alameda,1.5,3.0,San Carlos,"1,050 sqft","Dec 10, 2013","$824,000",37.492416,-122.26606,CA,Single-Family Home,824000,"$1,085,000",94070,,,,Sold,SAN MATEO
+51,1036 San Remo Way,2.0,3.0,San Carlos,"1,670 sqft","Dec 9, 2013","$1,100,000",37.489693,-122.27285,CA,Single-Family Home,1100000,"$1,252,000",94070,,,,Sold,SAN MATEO
+52,2641 San Carlos Ave,1.0,2.0,San Carlos,"1,010 sqft","Dec 9, 2013","$750,000",37.50691,-122.2827,CA,Single-Family Home,750000,"$962,000",94070,,,,Sold,SAN MATEO
+53,9 Devonshire Blvd,2.0,3.0,San Carlos,"1,640 sqft","Dec 6, 2013","$1,049,000",37.501522,-122.27604,CA,Single-Family Home,1049000,"$1,312,000",94070,,,,Sold,SAN MATEO
+54,315 Wellington Dr,2.5,3.0,San Carlos,"2,360 sqft","Dec 6, 2013","$1,175,000",37.50588,-122.2789,CA,Single-Family Home,1175000,"$1,498,000",94070,,,,Sold,SAN MATEO
+55,1384 Chestnut St,1.5,3.0,San Carlos,"1,150 sqft","Dec 6, 2013","$1,200,000",37.494038,-122.25462,CA,Single-Family Home,1200000,"$1,194,000",94070,,,,Sold,SAN MATEO
+56,61 Devonshire Cir,2.0,2.0,San Carlos,"1,740 sqft","Dec 6, 2013","$1,505,000",37.49747,-122.28347,CA,Single-Family Home,1505000,"$1,510,000",94070,,,,Sold,SAN MATEO
+57,1322 Eaton Ave,1.0,2.0,San Carlos,"1,340 sqft","Dec 3, 2013","$1,300,000",37.492477,-122.24644,CA,Single-Family Home,1300000,"$1,331,000",94070,,,,Sold,SAN MATEO
+58,75 Hartford Ave,3.5,5.0,San Carlos,"4,490 sqft","Dec 3, 2013","$2,100,000",37.511993,-122.27638,CA,Single-Family Home,2100000,"$2,237,000",94070,,,,Sold,SAN MATEO
+59,3142 La Mesa Dr,3.0,5.0,San Carlos,"2,660 sqft","Dec 3, 2013","$1,535,000",37.482006,-122.276215,CA,Single-Family Home,1535000,"$1,748,000",94070,,,,Sold,SAN MATEO
+60,153 Palm Ave,2.0,3.0,San Carlos,"1,430 sqft","Nov 27, 2013","$1,005,000",37.502914,-122.272194,CA,Single-Family Home,1005000,"$1,277,000",94070,,,,Sold,SAN MATEO
+61,3327 La Mesa Dr #4,2.0,2.0,San Carlos,"1,040 sqft","Nov 27, 2013","$560,000",37.48035,-122.282845,CA,Condo,560000,"$685,000",94070,,,,Sold,SAN MATEO
+62,753 Walnut St,2.0,4.0,San Carlos,"1,470 sqft","Nov 27, 2013","$1,000,000",37.503998,-122.259544,CA,Single-Family Home,1000000,"$1,239,000",94070,,,,Sold,SAN MATEO
+63,868 Hemlock St,2.0,5.0,San Carlos,"1,580 sqft","Nov 27, 2013","$1,550,000",37.498005,-122.263275,CA,Single-Family Home,1550000,"$1,451,000",94070,,,,Sold,SAN MATEO
+64,222 Laurel St #209,1.0,1.0,San Carlos,702 sqft,"Nov 26, 2013","$360,000",37.510372,-122.266014,CA,Condo,360000,"$458,000",94070,,,,Sold,SAN MATEO
+65,299 Club Dr,5.0,3.0,San Carlos,"4,900 sqft","Nov 26, 2013","$2,200,000",37.49759,-122.29081,CA,Single-Family Home,2200000,"$2,800,000",94070,,,,Sold,SAN MATEO
+66,185 Cedar St,2.0,3.0,San Carlos,"1,450 sqft","Nov 26, 2013","$1,170,000",37.50845,-122.26902,CA,Single-Family Home,1170000,"$1,338,000",94070,,,,Sold,SAN MATEO
+67,315 Old County Rd,1.0,2.0,San Carlos,820 sqft,"Nov 26, 2013","$707,000",37.511303,-122.26346,CA,Single-Family Home,707000,"$799,000",94070,,,,Sold,SAN MATEO
+68,323 Chesham Ave,2.5,3.0,San Carlos,"2,400 sqft","Nov 25, 2013","$1,350,000",37.495457,-122.284805,CA,Single-Family Home,1350000,"$1,583,000",94070,,,,Sold,SAN MATEO
+69,3319 La Mesa Dr #3,2.0,2.0,San Carlos,"1,040 sqft","Nov 22, 2013","$668,000",37.48035,-122.282845,CA,Condo,668000,"$696,000",94070,,,,Sold,SAN MATEO
+70,108 Glasgow Ln,2.0,3.0,San Carlos,"1,850 sqft","Nov 20, 2013","$1,350,000",37.49471,-122.2728,CA,Single-Family Home,1350000,"$1,466,000",94070,,,,Sold,SAN MATEO
+71,3332 La Mesa Dr #10,2.0,2.0,San Carlos,"1,040 sqft","Nov 19, 2013","$620,000",37.48085,-122.28544,CA,Condo,620000,"$706,000",94070,,,,Sold,SAN MATEO
+72,6 Honeysuckle Ln,2.5,2.0,San Carlos,"2,200 sqft","Nov 18, 2013","$1,055,000",37.496895,-122.29436,CA,Condo,1055000,"$1,174,000",94070,,,,Sold,SAN MATEO
+73,1500 Saint Francis Way,2.0,3.0,San Carlos,"1,790 sqft","Nov 15, 2013","$1,525,000",37.492657,-122.24916,CA,Single-Family Home,1525000,"$1,541,000",94070,,,,Sold,SAN MATEO
+74,1001 Laurel St #305,2.0,2.0,San Carlos,"1,094 sqft","Nov 13, 2013","$806,000",37.501335,-122.25409,CA,Condo,806000,"$820,000",94070,,,,Sold,SAN MATEO
+75,34 Stanford Ln,1.0,2.0,San Carlos,"1,170 sqft","Nov 12, 2013","$1,030,000",37.49058,-122.24923,CA,Single-Family Home,1030000,"$1,307,000",94070,,,,Sold,SAN MATEO
+76,1089 Porto Marino Dr,2.5,3.0,San Carlos,"2,080 sqft","Nov 8, 2013","$1,302,000",37.488045,-122.275375,CA,Single-Family Home,1302000,"$1,524,000",94070,,,,Sold,SAN MATEO
+77,2987 Melendy Dr #902,1.0,2.0,San Carlos,"1,570 sqft","Nov 8, 2013","$629,000",37.49095,-122.277824,CA,Condo,629000,"$792,000",94070,,,,Sold,SAN MATEO
+78,209 Devonshire Blvd,2.0,4.0,San Carlos,"1,980 sqft","Nov 8, 2013","$1,600,000",37.498455,-122.28005,CA,Single-Family Home,1600000,"$1,674,000",94070,,,,Sold,SAN MATEO
+79,1137 Woodland Ave,1.0,2.0,San Carlos,"1,350 sqft","Nov 8, 2013","$1,112,000",37.49755,-122.25565,CA,Single-Family Home,1112000,"$1,082,000",94070,,,,Sold,SAN MATEO
+80,19 Winding Way,2.0,2.0,San Carlos,"1,370 sqft","Nov 8, 2013","$875,000",37.49471,-122.27771,CA,Single-Family Home,875000,"$1,226,000",94070,,,,Sold,SAN MATEO
+81,222 Laurel St #307,1.0,1.0,San Carlos,702 sqft,"Nov 7, 2013","$378,500",37.510372,-122.266014,CA,Condo,378500,"$478,000",94070,,,,Sold,SAN MATEO
+82,1100 Orange Ave,1.0,2.0,San Carlos,"1,100 sqft","Nov 6, 2013","$929,000",37.495464,-122.25926,CA,Single-Family Home,929000,"$1,169,000",94070,,,,Sold,SAN MATEO
+83,1518 Eaton Ave,2.0,3.0,San Carlos,"1,290 sqft","Nov 5, 2013","$1,345,000",37.491394,-122.24811,CA,Single-Family Home,1345000,"$1,344,000",94070,,,,Sold,SAN MATEO
+84,1224 Howard Ave,1.0,2.0,San Carlos,"1,030 sqft","Nov 5, 2013","$905,000",37.498028,-122.25175,CA,Single-Family Home,905000,"$995,000",94070,,,,Sold,SAN MATEO
+85,1338 Holly St,5.5,4.0,San Carlos,"3,390 sqft","Nov 5, 2013","$1,510,000",37.506855,-122.26447,CA,Unknown,1510000,,94070,,,,Sold,SAN MATEO
+86,124 Chesham Ave,2.5,2.0,San Carlos,"2,730 sqft","Nov 4, 2013","$1,642,000",37.496315,-122.28066,CA,Single-Family Home,1642000,"$1,643,000",94070,,,,Sold,SAN MATEO
+87,2349 Eaton Ave,2.0,3.0,San Carlos,"1,530 sqft","Nov 1, 2013","$1,100,000",37.484196,-122.25632,CA,Single-Family Home,1100000,"$1,530,000",94070,,,,Sold,SAN MATEO
+88,11 El Sereno Dr,3.0,4.0,San Carlos,"2,140 sqft","Nov 1, 2013","$2,155,000",37.49246,-122.25027,CA,Single-Family Home,2155000,"$2,224,000",94070,,,,Sold,SAN MATEO
+89,840 Crestview Dr,3.5,5.0,San Carlos,"3,990 sqft","Oct 31, 2013","$2,050,000",37.48701,-122.28863,CA,Single-Family Home,2050000,"$2,292,000",94070,,,,Sold,SAN MATEO
+90,3272 Brittan Ave,2.5,4.0,San Carlos,"2,360 sqft","Oct 30, 2013","$1,000,000",37.483032,-122.28324,CA,Single-Family Home,1000000,"$1,417,000",94070,,,,Sold,SAN MATEO
+91,3327 La Mesa Dr #12,2.0,2.0,San Carlos,"1,040 sqft","Oct 29, 2013","$675,000",37.48035,-122.282845,CA,Condo,675000,"$743,000",94070,,,,Sold,SAN MATEO
+92,11 Chicory Ln,2.5,2.0,San Carlos,"1,793 sqft","Oct 29, 2013","$790,000",37.49495,-122.29737,CA,Condo,790000,"$976,000",94070,,,,Sold,SAN MATEO
+93,3145 La Mesa Dr,2.0,4.0,San Carlos,"1,900 sqft","Oct 28, 2013","$1,448,000",37.481503,-122.276024,CA,Single-Family Home,1448000,"$1,698,000",94070,,,,Sold,SAN MATEO
+94,2425 Melendy Dr,3.0,3.0,San Carlos,"2,110 sqft","Oct 25, 2013","$1,520,000",37.492878,-122.26881,CA,Single-Family Home,1520000,"$1,533,000",94070,,,,Sold,SAN MATEO
+95,1001 Laurel St #412,2.0,2.0,San Carlos,"1,094 sqft","Oct 25, 2013","$800,000",37.501335,-122.25409,CA,Condo,800000,"$820,000",94070,,,,Sold,SAN MATEO
+96,2204 San Carlos Ave,1.0,3.0,San Carlos,"1,610 sqft","Oct 24, 2013","$1,050,000",37.50248,-122.276535,CA,Single-Family Home,1050000,"$1,275,000",94070,,,,Sold,SAN MATEO
+97,25 Chicory Ln,2.5,3.0,San Carlos,"2,031 sqft","Oct 24, 2013","$894,000",37.49495,-122.29737,CA,Condo,894000,"$971,000",94070,,,,Sold,SAN MATEO
+98,723 Orange Ave,2.0,3.0,San Carlos,"1,750 sqft","Oct 24, 2013","$1,352,000",37.50128,-122.26285,CA,Single-Family Home,1352000,"$1,394,000",94070,,,,Sold,SAN MATEO
+99,1040 Sylvan Dr,1.0,2.0,San Carlos,820 sqft,"Oct 24, 2013","$787,000",37.511066,-122.262,CA,Single-Family Home,787000,"$807,000",94070,,,,Sold,SAN MATEO
+100,2800 Roland Ave,2.0,3.0,San Carlos,"2,000 sqft","Oct 24, 2013","$1,275,000",37.484592,-122.26655,CA,Single-Family Home,1275000,"$1,415,000",94070,,,,Sold,SAN MATEO
+101,320 Cedar St,2.0,3.0,San Carlos,"1,410 sqft","Oct 24, 2013","$1,250,000",37.506607,-122.2684,CA,Single-Family Home,1250000,"$1,271,000",94070,,,,Sold,SAN MATEO
+102,55 Shelford Ave,2.5,3.0,San Carlos,"1,990 sqft","Oct 18, 2013","$1,237,500",37.507645,-122.27937,CA,Single-Family Home,1237500,"$1,357,000",94070,,,,Sold,SAN MATEO
+103,262 Cedar St,1.5,3.0,San Carlos,"1,500 sqft","Oct 18, 2013","$1,269,000",37.50775,-122.26918,CA,Single-Family Home,1269000,"$1,263,000",94070,,,,Sold,SAN MATEO
+104,903 Hall St,1.5,4.0,San Carlos,"1,490 sqft","Oct 17, 2013","$825,000",37.508884,-122.25378,CA,Single-Family Home,825000,"$1,037,000",94070,,,,Sold,SAN MATEO
+105,20 Barbara Ln,2.0,2.0,San Carlos,"1,530 sqft","Oct 17, 2013","$1,140,000",37.4971,-122.28476,CA,Single-Family Home,1140000,"$1,313,000",94070,,,,Sold,SAN MATEO
+106,40 Hartford Ave,2.0,3.0,San Carlos,"1,870 sqft","Oct 16, 2013","$1,305,000",37.512104,-122.27745,CA,Single-Family Home,1305000,"$1,331,000",94070,,,,Sold,SAN MATEO
+107,602 De Anza Ave,2.0,3.0,San Carlos,"1,900 sqft","Oct 15, 2013","$1,090,000",37.48675,-122.26627,CA,Single-Family Home,1090000,"$1,396,000",94070,,,,Sold,SAN MATEO
+108,76 Bay View Dr,3.0,4.0,San Carlos,"3,710 sqft","Oct 15, 2013","$1,770,000",37.503044,-122.28254,CA,Single-Family Home,1770000,"$2,279,000",94070,,,,Sold,SAN MATEO
+109,1119 Royal Ln,2.5,3.0,San Carlos,"2,880 sqft","Oct 15, 2013","$1,200,000",37.481014,-122.28373,CA,Single-Family Home,1200000,"$1,452,000",94070,,,,Sold,SAN MATEO
+110,1201 Oak St,2.0,3.0,San Carlos,"1,950 sqft","Oct 11, 2013","$1,000,000",37.509743,-122.26547,CA,Single-Family Home,1000000,"$1,308,000",94070,,,,Sold,SAN MATEO
+111,1028 Northwood Dr,1.0,2.0,San Carlos,820 sqft,"Oct 10, 2013","$725,000",37.51294,-122.26325,CA,Single-Family Home,725000,"$822,000",94070,,,,Sold,SAN MATEO
+112,300 De Anza Ave,2.0,4.0,San Carlos,"1,818 sqft","Oct 9, 2013","$1,210,000",37.486336,-122.26026,CA,Single-Family Home,1210000,"$1,400,000",94070,,,,Sold,SAN MATEO
+113,95 Elm St,2.0,4.0,San Carlos,"2,379 sqft","Oct 7, 2013","$990,000",37.511295,-122.26765,CA,Multi-Family,990000,"$1,203,000",94070,,,,Sold,SAN MATEO
+114,10 Graceland Ln,2.0,3.0,San Carlos,"1,360 sqft","Oct 7, 2013","$1,305,000",37.489597,-122.26703,CA,Single-Family Home,1305000,"$1,295,000",94070,,,,Sold,SAN MATEO
+115,346 Cedar St,2.0,4.0,San Carlos,"1,560 sqft","Oct 4, 2013","$1,022,500",37.506218,-122.268234,CA,Single-Family Home,1022500,"$1,311,000",94070,,,,Sold,SAN MATEO
+116,2704 Eaton Ave,2.0,3.0,San Carlos,"1,500 sqft","Oct 4, 2013","$960,000",37.484737,-122.26308,CA,Single-Family Home,960000,"$1,236,000",94070,,,,Sold,SAN MATEO
+117,3352 La Mesa Dr #18,2.0,3.0,San Carlos,"1,239 sqft","Oct 3, 2013","$711,000",37.479496,-122.284256,CA,Condo,711000,"$809,000",94070,,,,Sold,SAN MATEO
+118,33 Chestnut St,1.5,3.0,San Carlos,"1,430 sqft","Oct 2, 2013","$901,000",37.51164,-122.2696,CA,Single-Family Home,901000,"$1,229,000",94070,,,,Sold,SAN MATEO
+119,641 Cedar St #101,2.0,2.0,San Carlos,945 sqft,"Oct 2, 2013","$244,000",37.50318,-122.263756,CA,Condo,244000,"$614,000",94070,,,,Sold,SAN MATEO
+120,245 Manor Dr,2.0,3.0,San Carlos,"1,430 sqft","Oct 1, 2013","$1,275,000",37.499454,-122.27729,CA,Single-Family Home,1275000,"$1,285,000",94070,,,,Sold,SAN MATEO
+121,985 Hall St,1.0,2.0,San Carlos,860 sqft,"Sep 30, 2013","$635,500",37.507553,-122.25561,CA,Single-Family Home,635500,"$801,000",94070,,,,Sold,SAN MATEO
+122,1005 Orange Ave,2.0,4.0,San Carlos,"1,880 sqft","Sep 30, 2013","$1,423,000",37.49694,-122.25996,CA,Single-Family Home,1423000,"$1,504,000",94070,,,,Sold,SAN MATEO
+123,260 Beverly Dr,1.0,2.0,San Carlos,900 sqft,"Sep 27, 2013","$1,015,500",37.500347,-122.28235,CA,Single-Family Home,1015500,"$1,122,000",94070,,,,Sold,SAN MATEO
+124,170 Hillcrest Rd,2.0,2.0,San Carlos,"1,390 sqft","Sep 27, 2013","$1,280,000",37.5069,-122.27244,CA,Single-Family Home,1280000,"$1,391,000",94070,,,,Sold,SAN MATEO
+125,1434 Cordilleras Ave,1.0,2.0,San Carlos,"1,200 sqft","Sep 27, 2013","$850,000",37.490433,-122.25764,CA,Single-Family Home,850000,"$1,226,000",94070,,,,Sold,SAN MATEO
+126,92 Bay View Dr,2.5,3.0,San Carlos,"1,560 sqft","Sep 27, 2013","$1,303,000",37.502457,-122.28245,CA,Single-Family Home,1303000,"$1,362,000",94070,,,,Sold,SAN MATEO
+127,333 Hill Way,1.0,2.0,San Carlos,"1,020 sqft","Sep 24, 2013","$800,000",37.48682,-122.2619,CA,Single-Family Home,800000,"$1,035,000",94070,,,,Sold,SAN MATEO
+128,294 Devonshire Blvd,1.5,1.0,San Carlos,"1,190 sqft","Sep 24, 2013","$1,630,000",37.496902,-122.28345,CA,Single-Family Home,1630000,"$1,244,000",94070,,,,Sold,SAN MATEO
+129,188 Exbourne Ave,3.0,5.0,San Carlos,"2,710 sqft","Sep 20, 2013","$995,000",37.509426,-122.281555,CA,Single-Family Home,995000,"$1,288,000",94070,,,,Sold,SAN MATEO
+130,4 Tulip Ln,2.5,2.0,San Carlos,"2,040 sqft","Sep 18, 2013","$955,000",37.492245,-122.29134,CA,Single-Family Home,955000,"$1,225,000",94070,,,,Sold,SAN MATEO
+131,2640 Howard Ave,2.5,4.0,San Carlos,"1,580 sqft","Sep 17, 2013","$1,185,000",37.487286,-122.26525,CA,Single-Family Home,1185000,"$1,357,000",94070,,,,Sold,SAN MATEO
+132,1002 Holly St,1.0,2.0,San Carlos,930 sqft,"Sep 17, 2013","$684,000",37.510567,-122.26011,CA,Single-Family Home,684000,"$799,000",94070,,,,Sold,SAN MATEO
+133,216 Exeter Ave,2.5,4.0,San Carlos,"2,620 sqft","Sep 13, 2013","$1,576,000",37.501602,-122.2812,CA,Single-Family Home,1576000,"$1,685,000",94070,,,,Sold,SAN MATEO
+134,248 Club Dr,3.0,4.0,San Carlos,"2,450 sqft","Sep 13, 2013","$1,525,000",37.49899,-122.288055,CA,Single-Family Home,1525000,"$1,920,000",94070,,,,Sold,SAN MATEO
+135,1320 Cedar St,2.5,2.0,San Carlos,"1,960 sqft","Sep 13, 2013","$810,000",37.494392,-122.256325,CA,Single-Family Home,810000,"$1,174,000",94070,,,,Sold,SAN MATEO
+136,148 Vine St,1.0,3.0,San Carlos,"1,320 sqft","Sep 13, 2013","$1,150,000",37.508163,-122.27047,CA,Single-Family Home,1150000,"$1,332,000",94070,,,,Sold,SAN MATEO
+137,1724 Greenwood Ave,2.0,3.0,San Carlos,"1,620 sqft","Sep 12, 2013","$1,290,000",37.49672,-122.256645,CA,Single-Family Home,1290000,"$1,341,000",94070,,,,Sold,SAN MATEO
+138,19 Trillium Ln,2.5,2.0,San Carlos,"1,709 sqft","Sep 12, 2013","$960,000",37.497986,-122.29913,CA,Condo,960000,"$1,133,000",94070,,,,Sold,SAN MATEO
+139,237 Alberta Ave,1.5,3.0,San Carlos,"1,440 sqft","Sep 12, 2013","$920,000",37.48853,-122.25478,CA,Single-Family Home,920000,"$1,363,000",94070,,,,Sold,SAN MATEO
+140,3003 Melendy Dr #2,1.0,2.0,San Carlos,"1,570 sqft","Sep 12, 2013","$660,000",37.49095,-122.277824,CA,Condo,660000,"$805,000",94070,,,,Sold,SAN MATEO
+141,1701 San Carlos Ave #5,2.0,2.0,San Carlos,"1,010 sqft","Sep 11, 2013","$530,000",37.502632,-122.2657,CA,Condo,530000,"$651,000",94070,,,,Sold,SAN MATEO
+142,1671 Belmont Ave,1.0,3.0,San Carlos,"1,500 sqft","Sep 11, 2013","$1,200,000",37.494072,-122.25316,CA,Single-Family Home,1200000,"$1,331,000",94070,,,,Sold,SAN MATEO
+143,835 Orange Ave,1.0,3.0,San Carlos,"1,310 sqft","Sep 11, 2013","$1,500,000",37.498703,-122.26201,CA,Single-Family Home,1500000,"$1,487,000",94070,,,,Sold,SAN MATEO
+144,1390 Cedar St,3.0,4.0,San Carlos,"2,561 sqft","Sep 11, 2013","$800,000",37.493385,-122.25512,CA,Single-Family Home,800000,"$1,392,000",94070,,,,Sold,SAN MATEO
+145,222 Laurel St #207,1.0,1.0,San Carlos,702 sqft,"Sep 10, 2013","$321,000",37.510372,-122.266014,CA,Condo,321000,"$430,000",94070,,,,Sold,SAN MATEO
+146,355 Phelps Rd,2.0,3.0,San Carlos,"2,190 sqft","Sep 10, 2013","$1,408,000",37.50433,-122.27391,CA,Single-Family Home,1408000,"$1,454,000",94070,,,,Sold,SAN MATEO
+147,1001 Laurel St #104,2.0,2.0,San Carlos,"1,094 sqft","Sep 10, 2013","$745,000",37.501335,-122.25409,CA,Condo,745000,"$955,000",94070,,,,Sold,SAN MATEO
+148,339 Cedar St,1.0,2.0,San Carlos,870 sqft,"Sep 10, 2013","$825,000",37.50649,-122.26777,CA,Single-Family Home,825000,"$966,000",94070,,,,Sold,SAN MATEO
+149,1125 Crestview Dr #3,2.0,2.0,San Carlos,"1,040 sqft","Sep 10, 2013","$649,000",37.48183,-122.28289,CA,Condo,649000,"$759,000",94070,,,,Sold,SAN MATEO
+150,618 Walnut St #307,1.0,1.0,San Carlos,774 sqft,"Sep 9, 2013","$645,000",37.504868,-122.262054,CA,Condo,645000,"$619,000",94070,,,,Sold,SAN MATEO
+151,148 Vine St,1.0,3.0,San Carlos,"1,320 sqft","Sep 13, 2013","$1,150,000",37.508163,-122.27047,CA,Single-Family Home,1150000,"$1,332,000",94070,,,,Sold,SAN MATEO
+152,1724 Greenwood Ave,2.0,3.0,San Carlos,"1,620 sqft","Sep 12, 2013","$1,290,000",37.49672,-122.256645,CA,Single-Family Home,1290000,"$1,341,000",94070,,,,Sold,SAN MATEO
+153,19 Trillium Ln,2.5,2.0,San Carlos,"1,709 sqft","Sep 12, 2013","$960,000",37.497986,-122.29913,CA,Condo,960000,"$1,133,000",94070,,,,Sold,SAN MATEO
+154,237 Alberta Ave,1.5,3.0,San Carlos,"1,440 sqft","Sep 12, 2013","$920,000",37.48853,-122.25478,CA,Single-Family Home,920000,"$1,363,000",94070,,,,Sold,SAN MATEO
+155,3003 Melendy Dr #2,1.0,2.0,San Carlos,"1,570 sqft","Sep 12, 2013","$660,000",37.49095,-122.277824,CA,Condo,660000,"$805,000",94070,,,,Sold,SAN MATEO
+156,1701 San Carlos Ave #5,2.0,2.0,San Carlos,"1,010 sqft","Sep 11, 2013","$530,000",37.502632,-122.2657,CA,Condo,530000,"$651,000",94070,,,,Sold,SAN MATEO
+157,1671 Belmont Ave,1.0,3.0,San Carlos,"1,500 sqft","Sep 11, 2013","$1,200,000",37.494072,-122.25316,CA,Single-Family Home,1200000,"$1,331,000",94070,,,,Sold,SAN MATEO
+158,835 Orange Ave,1.0,3.0,San Carlos,"1,310 sqft","Sep 11, 2013","$1,500,000",37.498703,-122.26201,CA,Single-Family Home,1500000,"$1,487,000",94070,,,,Sold,SAN MATEO
+159,1390 Cedar St,3.0,4.0,San Carlos,"2,561 sqft","Sep 11, 2013","$800,000",37.493385,-122.25512,CA,Single-Family Home,800000,"$1,392,000",94070,,,,Sold,SAN MATEO
+160,222 Laurel St #207,1.0,1.0,San Carlos,702 sqft,"Sep 10, 2013","$321,000",37.510372,-122.266014,CA,Condo,321000,"$430,000",94070,,,,Sold,SAN MATEO
+161,355 Phelps Rd,2.0,3.0,San Carlos,"2,190 sqft","Sep 10, 2013","$1,408,000",37.50433,-122.27391,CA,Single-Family Home,1408000,"$1,454,000",94070,,,,Sold,SAN MATEO
+162,1001 Laurel St #104,2.0,2.0,San Carlos,"1,094 sqft","Sep 10, 2013","$745,000",37.501335,-122.25409,CA,Condo,745000,"$955,000",94070,,,,Sold,SAN MATEO
+163,339 Cedar St,1.0,2.0,San Carlos,870 sqft,"Sep 10, 2013","$825,000",37.50649,-122.26777,CA,Single-Family Home,825000,"$966,000",94070,,,,Sold,SAN MATEO
+164,1125 Crestview Dr #3,2.0,2.0,San Carlos,"1,040 sqft","Sep 10, 2013","$649,000",37.48183,-122.28289,CA,Condo,649000,"$759,000",94070,,,,Sold,SAN MATEO
+165,618 Walnut St #307,1.0,1.0,San Carlos,774 sqft,"Sep 9, 2013","$645,000",37.504868,-122.262054,CA,Condo,645000,"$619,000",94070,,,,Sold,SAN MATEO
+166,30 Vine St,1.0,3.0,San Carlos,"1,180 sqft","Aug 23, 2013","$880,000",37.509933,-122.271996,CA,Single-Family Home,880000,"$1,132,000",94070,,,,Sold,SAN MATEO
+167,2460 San Carlos Ave,1.0,3.0,San Carlos,"1,030 sqft","Aug 22, 2013","$850,000",37.504765,-122.27994,CA,Single-Family Home,850000,"$1,087,000",94070,,,,Sold,SAN MATEO
+168,810 Buckland Ave,2.0,3.0,San Carlos,"1,550 sqft","Aug 21, 2013","$1,260,000",37.5121,-122.27851,CA,Single-Family Home,1260000,"$1,272,000",94070,,,,Sold,SAN MATEO
+169,757 Elm St #207,2.0,2.0,San Carlos,"1,000 sqft","Aug 20, 2013","$540,000",37.503296,-122.26036,CA,Condo,540000,"$654,000",94070,,,,Sold,SAN MATEO
+170,74 Vine St,2.5,4.0,San Carlos,"1,670 sqft","Aug 20, 2013","$1,100,000",37.50938,-122.271355,CA,Single-Family Home,1100000,"$1,366,000",94070,,,,Sold,SAN MATEO
+171,242 Park Ave,2.0,2.0,San Carlos,"1,190 sqft","Aug 20, 2013","$960,000",37.49106,-122.25554,CA,Single-Family Home,960000,"$1,301,000",94070,,,,Sold,SAN MATEO
+172,1324 Oakhurst Ave,1.0,3.0,San Carlos,"1,290 sqft","Aug 19, 2013","$1,551,000",37.492973,-122.257996,CA,Single-Family Home,1551000,"$1,266,000",94070,,,,Sold,SAN MATEO
+173,2813 Brittan Ave,2.0,3.0,San Carlos,"2,100 sqft","Aug 16, 2013","$1,190,000",37.487385,-122.27117,CA,Single-Family Home,1190000,"$1,460,000",94070,,,,Sold,SAN MATEO
+174,160 Palm Ave,2.0,3.0,San Carlos,"1,250 sqft","Aug 16, 2013","$960,000",37.5034,-122.27243,CA,Single-Family Home,960000,"$1,142,000",94070,,,,Sold,SAN MATEO
+175,2079 Arroyo Ave,1.0,2.0,San Carlos,"1,060 sqft","Aug 16, 2013","$1,012,000",37.494926,-122.2638,CA,Single-Family Home,1012000,"$1,057,000",94070,,,,Sold,SAN MATEO
+176,2421 San Carlos Ave,1.0,3.0,San Carlos,"1,020 sqft","Aug 13, 2013","$1,170,000",37.50326,-122.27989,CA,Single-Family Home,1170000,"$1,105,000",94070,,,,Sold,SAN MATEO
+177,775 Chestnut St #30,2.0,2.0,San Carlos,"1,290 sqft","Aug 12, 2013","$710,000",37.502384,-122.26102,CA,Condo,710000,"$785,000",94070,,,,Sold,SAN MATEO
+178,860 Regent Ct,3.0,5.0,San Carlos,"2,710 sqft","Aug 12, 2013","$1,610,000",37.48658,-122.2858,CA,Single-Family Home,1610000,"$1,741,000",94070,,,,Sold,SAN MATEO
+179,108 Wildwood Ave,3.5,5.0,San Carlos,"3,000 sqft","Aug 9, 2013","$2,210,000",37.49082,-122.261955,CA,Single-Family Home,2210000,"$2,267,000",94070,,,,Sold,SAN MATEO
+180,1010 Cherry St,2.0,3.0,San Carlos,"1,400 sqft","Aug 9, 2013","$800,000",37.507885,-122.25716,CA,Single-Family Home,800000,"$1,014,000",94070,,,,Sold,SAN MATEO
+181,1104 Royal Ln,2.5,3.0,San Carlos,"2,590 sqft","Aug 8, 2013","$1,172,000",37.481956,-122.28434,CA,Single-Family Home,1172000,"$1,455,000",94070,,,,Sold,SAN MATEO
+182,3310 Brittan Ave #6,2.0,3.0,San Carlos,"1,239 sqft","Aug 8, 2013","$625,000",37.482616,-122.285416,CA,Condo,625000,"$727,000",94070,,,,Sold,SAN MATEO
+183,1544 School St,2.0,3.0,San Carlos,"1,820 sqft","Aug 8, 2013","$1,100,000",37.50174,-122.26001,CA,Single-Family Home,1100000,"$1,398,000",94070,,,,Sold,SAN MATEO
+184,1008 Springfield Dr,3.0,4.0,San Carlos,"1,700 sqft","Aug 7, 2013","$1,022,000",37.511314,-122.26041,CA,Single-Family Home,1022000,"$1,252,000",94070,,,,Sold,SAN MATEO
+185,1351 Arroyo Ave,2.0,4.0,San Carlos,"1,590 sqft","Aug 7, 2013","$1,300,000",37.501762,-122.25778,CA,Single-Family Home,1300000,"$1,265,000",94070,,,,Sold,SAN MATEO
+186,448 Emerald Ave,1.0,3.0,San Carlos,"1,200 sqft","Aug 6, 2013","$1,100,000",37.48701,-122.258026,CA,Single-Family Home,1100000,"$1,363,000",94070,,,,Sold,SAN MATEO
+187,1510 Cherry St #3,1.0,2.0,San Carlos,992 sqft,"Aug 6, 2013","$465,000",37.503094,-122.26279,CA,Condo,465000,"$615,000",94070,,,,Sold,SAN MATEO
+188,55 Sequoia Ct,2.5,4.0,San Carlos,"2,610 sqft","Aug 6, 2013","$1,425,000",37.504063,-122.284004,CA,Single-Family Home,1425000,"$1,640,000",94070,,,,Sold,SAN MATEO
+189,248 Edgehill Dr,3.0,4.0,San Carlos,"2,180 sqft","Aug 6, 2013","$1,130,000",37.489544,-122.26153,CA,Single-Family Home,1130000,"$1,662,000",94070,,,,Sold,SAN MATEO
+190,2217 Brittan Ave,2.0,3.0,San Carlos,"1,580 sqft","Aug 2, 2013","$1,100,000",37.49224,-122.2635,CA,Single-Family Home,1100000,"$1,398,000",94070,,,,Sold,SAN MATEO
+191,541 Emerald Ave,2.0,3.0,San Carlos,"1,980 sqft","Aug 2, 2013","$1,485,000",37.485676,-122.256256,CA,Single-Family Home,1485000,"$1,541,000",94070,,,,Sold,SAN MATEO
+192,1039 Hewitt Dr,2.0,3.0,San Carlos,"2,180 sqft","Aug 2, 2013","$1,705,000",37.492184,-122.271935,CA,Single-Family Home,1705000,"$1,552,000",94070,,,,Sold,SAN MATEO
+193,248 Devonshire Blvd,2.0,3.0,San Carlos,"1,600 sqft","Aug 2, 2013","$1,350,000",37.4978,-122.282036,CA,Single-Family Home,1350000,"$1,312,000",94070,,,,Sold,SAN MATEO
+194,32 Oak Creek Ln,,,San Carlos,,"Aug 2, 2013","$1,115,000",37.483986,-122.26877,CA,Unknown,1115000,,94070,,,,Sold,SAN MATEO
+195,1719 White Oak Way,2.0,3.0,San Carlos,"1,670 sqft","Aug 1, 2013","$1,475,000",37.49286,-122.25195,CA,Single-Family Home,1475000,"$1,484,000",94070,,,,Sold,SAN MATEO
+196,12 Lilly Ln,2.5,2.0,San Carlos,"1,709 sqft","Jul 31, 2013","$801,000",37.491554,-122.292725,CA,Condo,801000,"$1,054,000",94070,,,,Sold,SAN MATEO
+197,278 Dartmouth Ave,2.0,3.0,San Carlos,"1,810 sqft","Jul 31, 2013","$325,000",37.50826,-122.27833,CA,Single-Family Home,325000,"$1,525,000",94070,,,,Sold,SAN MATEO
+198,870 Cabot Ct,2.5,3.0,San Carlos,"2,430 sqft","Jul 31, 2013","$1,400,000",37.486588,-122.282425,CA,Single-Family Home,1400000,"$1,396,000",94070,,,,Sold,SAN MATEO
+199,883 Cedar St,1.0,3.0,San Carlos,"1,340 sqft","Jul 31, 2013","$1,500,000",37.498634,-122.26075,CA,Single-Family Home,1500000,"$1,391,000",94070,,,,Sold,SAN MATEO
+200,2429 San Carlos Ave,2.0,3.0,San Carlos,"1,320 sqft","Jul 30, 2013","$985,000",37.503513,-122.28003,CA,Single-Family Home,985000,"$1,139,000",94070,,,,Sold,SAN MATEO
+201,728 Elm St,2.5,2.0,San Carlos,"1,615 sqft","Jul 30, 2013","$610,000",37.502937,-122.26095,CA,Multi-Family,610000,,94070,,,,Sold,SAN MATEO
+202,501 Chestnut St,1.5,3.0,San Carlos,"1,290 sqft","Jul 26, 2013","$1,111,000",37.505497,-122.26538,CA,Single-Family Home,1111000,"$1,175,000",94070,,,,Sold,SAN MATEO
+203,1027 Sylvan Dr,1.0,2.0,San Carlos,820 sqft,"Jul 25, 2013","$718,000",37.511044,-122.26127,CA,Single-Family Home,718000,"$822,000",94070,,,,Sold,SAN MATEO
+204,785 Buckland Ave,3.0,4.0,San Carlos,"2,400 sqft","Jul 23, 2013","$1,675,000",37.512684,-122.27852,CA,Single-Family Home,1675000,"$1,831,000",94070,,,,Sold,SAN MATEO
+205,166 Fleetwood Dr,2.0,3.0,San Carlos,"2,450 sqft","Jul 23, 2013","$1,575,000",37.475075,-122.27831,CA,Single-Family Home,1575000,"$1,815,000",94070,,,,Sold,SAN MATEO
+206,511 De Anza Ave,2.5,4.0,San Carlos,"2,410 sqft","Jul 23, 2013","$2,050,000",37.48634,-122.26546,CA,Single-Family Home,2050000,"$1,831,000",94070,,,,Sold,SAN MATEO
+207,1959 Belle Ave,,,San Carlos,,"Jul 23, 2013","$2,250,000",37.496944,-122.26244,CA,Single-Family Home,2250000,"$709,000",94070,,,,Sold,SAN MATEO
+208,381 Dartmouth Ave,2.5,4.0,San Carlos,"2,240 sqft","Jul 19, 2013","$1,150,000",37.508896,-122.27988,CA,Single-Family Home,1150000,"$1,473,000",94070,,,,Sold,SAN MATEO
+209,2015 Birch Ave,2.0,3.0,San Carlos,"1,860 sqft","Jul 19, 2013","$1,550,000",37.495094,-122.26229,CA,Single-Family Home,1550000,"$1,456,000",94070,,,,Sold,SAN MATEO
+210,2230 Eaton Ave,2.5,4.0,San Carlos,"1,980 sqft","Jul 19, 2013","$1,300,000",37.484936,-122.25526,CA,Single-Family Home,1300000,"$1,622,000",94070,,,,Sold,SAN MATEO
+211,275 Club Dr,2.0,2.0,San Carlos,"1,390 sqft","Jul 18, 2013","$1,210,000",37.498466,-122.28925,CA,Single-Family Home,1210000,"$1,328,000",94070,,,,Sold,SAN MATEO
+212,2615 Graceland Ave,3.5,4.0,San Carlos,"2,710 sqft","Jul 18, 2013","$1,800,000",37.48755,-122.268005,CA,Single-Family Home,1800000,"$2,053,000",94070,,,,Sold,SAN MATEO
+213,255 Beverly Dr,2.5,3.0,San Carlos,"2,750 sqft","Jul 17, 2013","$1,499,000",37.49996,-122.28276,CA,Single-Family Home,1499000,"$1,650,000",94070,,,,Sold,SAN MATEO
+214,1180 Alameda,4.0,4.0,San Carlos,"2,350 sqft","Jul 16, 2013","$1,201,000",37.490406,-122.26505,CA,Single-Family Home,1201000,"$2,172,000",94070,,,,Sold,SAN MATEO
+215,140 Hillcrest Rd,2.0,3.0,San Carlos,"1,250 sqft","Jul 16, 2013","$975,000",37.50768,-122.272736,CA,Single-Family Home,975000,"$1,240,000",94070,,,,Sold,SAN MATEO
+216,23 Tulip Ln,2.5,3.0,San Carlos,"2,510 sqft","Jul 16, 2013","$1,230,000",37.49299,-122.29184,CA,Single-Family Home,1230000,"$1,361,000",94070,,,,Sold,SAN MATEO
+217,1500 Cordilleras Ave,1.0,2.0,San Carlos,"1,000 sqft","Jul 16, 2013","$1,005,000",37.489243,-122.25797,CA,Single-Family Home,1005000,"$1,145,000",94070,,,,Sold,SAN MATEO
+218,244 Timothy Dr,2.0,3.0,San Carlos,"2,260 sqft","Jul 15, 2013","$1,411,000",37.48269,-122.26178,CA,Single-Family Home,1411000,"$1,429,000",94070,,,,Sold,SAN MATEO
+219,1009 Holly St,1.0,2.0,San Carlos,840 sqft,"Jul 15, 2013","$620,000",37.510117,-122.25981,CA,Single-Family Home,620000,"$740,000",94070,,,,Sold,SAN MATEO
+220,2226 Carmelita Dr,2.0,2.0,San Carlos,"3,030 sqft","Jul 15, 2013","$1,800,000",37.501347,-122.27503,CA,Single-Family Home,1800000,"$1,965,000",94070,,,,Sold,SAN MATEO
+221,850 Orange Ave,1.0,2.0,San Carlos,"1,040 sqft","Jul 12, 2013","$2,000,000",37.498257,-122.26225,CA,Single-Family Home,2000000,"$1,366,000",94070,,,,Sold,SAN MATEO
+222,3332 La Mesa Dr #2,2.0,2.0,San Carlos,"1,040 sqft","Jul 12, 2013","$550,000",37.48085,-122.28544,CA,Condo,550000,"$665,000",94070,,,,Sold,SAN MATEO
+223,1016 Walnut St,2.0,2.0,San Carlos,"1,570 sqft","Jul 12, 2013","$1,035,000",37.50004,-122.25519,CA,Single-Family Home,1035000,"$1,151,000",94070,,,,Sold,SAN MATEO
+224,2036 Saint Francis Way,2.0,3.0,San Carlos,"1,810 sqft","Jul 12, 2013","$1,250,000",37.4883,-122.254524,CA,Single-Family Home,1250000,"$1,370,000",94070,,,,Sold,SAN MATEO
+225,744 Tamarack Ave,2.0,3.0,San Carlos,"1,707 sqft","Jul 11, 2013","$1,020,000",37.499134,-122.26849,CA,Single-Family Home,1020000,"$1,291,000",94070,,,,Sold,SAN MATEO
+226,4 Geranium Ln,2.5,2.0,San Carlos,"2,200 sqft","Jul 11, 2013","$1,220,000",37.496895,-122.29436,CA,Condo,1220000,"$1,323,000",94070,,,,Sold,SAN MATEO
+227,1265 Eaton Ave,2.5,3.0,San Carlos,"1,470 sqft","Jul 10, 2013","$1,300,000",37.492558,-122.24573,CA,Single-Family Home,1300000,"$1,548,000",94070,,,,Sold,SAN MATEO
+228,131 Alberta Ave,2.5,2.0,San Carlos,"1,440 sqft","Jul 10, 2013","$1,235,000",37.49014,-122.25241,CA,Single-Family Home,1235000,"$1,392,000",94070,,,,Sold,SAN MATEO
+229,438 De Anza Ave,2.0,2.0,San Carlos,"1,290 sqft","Jul 10, 2013","$920,000",37.486755,-122.264595,CA,Single-Family Home,920000,"$1,262,000",94070,,,,Sold,SAN MATEO
+230,11 Pyrola Ln,2.5,2.0,San Carlos,"1,793 sqft","Jul 10, 2013","$800,000",37.491554,-122.292725,CA,Condo,800000,"$1,007,000",94070,,,,Sold,SAN MATEO
+231,21 Calypso Ln,2.5,2.0,San Carlos,"1,709 sqft","Jul 10, 2013","$779,000",37.492374,-122.29453,CA,Condo,779000,"$981,000",94070,,,,Sold,SAN MATEO
+232,430 Erlin Dr,2.5,3.0,San Carlos,"2,060 sqft","Jul 9, 2013","$1,070,000",37.51084,-122.275246,CA,Single-Family Home,1070000,"$1,343,000",94070,,,,Sold,SAN MATEO
+233,641 Cedar St #205,2.0,2.0,San Carlos,"1,085 sqft","Jul 9, 2013","$680,000",37.50318,-122.263756,CA,Condo,680000,"$804,000",94070,,,,Sold,SAN MATEO
+234,3312 Brittan Ave #3,2.0,2.0,San Carlos,"1,040 sqft","Jul 9, 2013","$545,000",37.482616,-122.285416,CA,Condo,545000,"$682,000",94070,,,,Sold,SAN MATEO
+235,793 Elm St #5,2.0,2.0,San Carlos,"1,519 sqft","Jul 9, 2013","$650,000",37.5028,-122.25981,CA,Condo,650000,"$793,000",94070,,,,Sold,SAN MATEO
+236,1383 Chestnut St,1.0,3.0,San Carlos,"1,120 sqft","Jul 9, 2013","$1,160,000",37.494373,-122.25428,CA,Single-Family Home,1160000,"$1,091,000",94070,,,,Sold,SAN MATEO
+237,1641 Hull Dr,1.0,3.0,San Carlos,"1,330 sqft","Jul 9, 2013","$1,100,000",37.50836,-122.27087,CA,Single-Family Home,1100000,"$1,342,000",94070,,,,Sold,SAN MATEO
+238,233 Devonshire Blvd,2.0,3.0,San Carlos,"1,960 sqft","Jul 3, 2013","$1,402,000",37.497936,-122.280846,CA,Single-Family Home,1402000,"$1,453,000",94070,,,,Sold,SAN MATEO
+239,1627 Chestnut St,1.0,2.0,San Carlos,"1,350 sqft","Jul 3, 2013","$1,500,000",37.491844,-122.25118,CA,Single-Family Home,1500000,"$1,453,000",94070,,,,Sold,SAN MATEO
+240,372 Beverly Dr,3.5,3.0,San Carlos,"1,970 sqft","Jul 3, 2013","$1,250,000",37.50111,-122.282906,CA,Single-Family Home,1250000,"$1,549,000",94070,,,,Sold,SAN MATEO
+241,142 Exbourne Ave,3.0,3.0,San Carlos,"1,350 sqft","Jul 2, 2013","$990,000",37.510532,-122.28063,CA,Single-Family Home,990000,"$1,428,000",94070,,,,Sold,SAN MATEO
+242,204 Clifton Ave,2.0,3.0,San Carlos,"1,910 sqft","Jul 2, 2013","$1,205,000",37.503273,-122.2765,CA,Single-Family Home,1205000,"$1,476,000",94070,,,,Sold,SAN MATEO
+243,1925 Howard Ave,1.5,2.0,San Carlos,"1,140 sqft","Jul 1, 2013","$1,068,000",37.494034,-122.25705,CA,Single-Family Home,1068000,"$1,166,000",94070,,,,Sold,SAN MATEO
+244,2202 Carmelita Dr,2.0,2.0,San Carlos,"1,570 sqft","Jun 28, 2013","$1,225,000",37.501595,-122.27392,CA,Single-Family Home,1225000,"$1,322,000",94070,,,,Sold,SAN MATEO
+245,10 Valley Rd,2.0,4.0,San Carlos,"1,810 sqft","Jun 28, 2013","$1,450,000",37.507854,-122.27049,CA,Single-Family Home,1450000,"$1,463,000",94070,,,,Sold,SAN MATEO
+246,9 Bellflower Ln,2.5,3.0,San Carlos,"2,100 sqft","Jun 28, 2013","$992,000",37.496895,-122.29436,CA,Condo,992000,"$1,151,000",94070,,,,Sold,SAN MATEO
+247,10 Curry Ct,2.0,4.0,San Carlos,"2,150 sqft","Jun 27, 2013","$1,325,000",37.505558,-122.28369,CA,Single-Family Home,1325000,"$1,556,000",94070,,,,Sold,SAN MATEO
+248,24 Coronado Ave,2.0,4.0,San Carlos,"1,760 sqft","Jun 26, 2013","$1,230,000",37.498943,-122.27283,CA,Single-Family Home,1230000,"$1,246,000",94070,,,,Sold,SAN MATEO
+249,3331 Brittan Ave #11,2.0,2.0,San Carlos,"1,040 sqft","Jun 25, 2013","$638,000",37.482487,-122.287025,CA,Condo,638000,"$728,000",94070,,,,Sold,SAN MATEO
+250,469 Wellington Dr,2.0,3.0,San Carlos,"1,200 sqft","Jun 25, 2013","$1,060,000",37.507828,-122.28044,CA,Single-Family Home,1060000,"$1,098,000",94070,,,,Sold,SAN MATEO
+251,19 Willow Glen Way,2.0,3.0,San Carlos,"1,410 sqft","Jun 24, 2013","$1,018,000",37.49945,-122.27815,CA,Single-Family Home,1018000,"$1,139,000",94070,,,,Sold,SAN MATEO

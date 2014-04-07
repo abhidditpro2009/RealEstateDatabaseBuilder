@@ -1,0 +1,433 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94501,27 Courageous Ct #F62,2,2,Alameda,"1,608 sqft",4-Mar-14,"$700,000 ",37.783524,-122.268906,CA,Condo,700000,"$607,000 ",,,,,Sold,ALAMEDA
+94502,1125 Bismarck Ln,2.5,3,Alameda,"1,639 sqft",4-Mar-14,"$580,000 ",37.731724,-122.24091,CA,Townhouse,580000,"$556,000 ",,,,,Sold,ALAMEDA
+94501,1700 Cornell Dr,1,3,Alameda,"1,585 sqft",4-Mar-14,"$900,000 ",37.76185,-122.228806,CA,Single-Family Home,900000,"$922,000 ",,,,,Sold,ALAMEDA
+94501,1064 Central Ave,1,2,Alameda,"1,124 sqft",3-Mar-14,"$615,000 ",37.77092,-122.266205,CA,Single-Family Home,615000,"$634,000 ",,,,,Sold,ALAMEDA
+94501,1035 San Antonio Ave,2,3,Alameda,"1,392 sqft",3-Mar-14,"$850,000 ",37.76951,-122.2671,CA,Single-Family Home,850000,"$781,000 ",,,,,Sold,ALAMEDA
+94501,535 Pacific Ave,1,1,Alameda,645 sqft,3-Mar-14,"$315,000 ",37.776623,-122.28063,CA,Multi-Family,315000,,,,,,Sold,ALAMEDA
+94501,2065 Encinal Ave #B,1,2,Alameda,618 sqft,28-Feb-14,"$260,000 ",37.765865,-122.25105,CA,Condo,260000,"$330,000 ",,,,,Sold,ALAMEDA
+94501,639 Santa Clara Ave,2,4,Alameda,"2,412 sqft",28-Feb-14,"$116,500 ",37.773643,-122.27762,CA,Multi-Family,116500,"$802,000 ",,,,,Sold,ALAMEDA
+94502,126 Jervis Bay,2.5,4,Alameda,"1,972 sqft",28-Feb-14,"$880,000 ",37.739784,-122.25036,CA,Single-Family Home,880000,"$1,011,000 ",,,,,Sold,ALAMEDA
+94501,3282 Madison St,2,3,Alameda,"1,673 sqft",28-Feb-14,"$730,000 ",37.753536,-122.23219,CA,Single-Family Home,730000,"$780,000 ",,,,,Sold,ALAMEDA
+94501,1312 Versailles Ave,1,2,Alameda,751 sqft,27-Feb-14,"$450,000 ",37.75949,-122.23798,CA,Single-Family Home,450000,"$543,000 ",,,,,Sold,ALAMEDA
+94502,415 Maitland Dr,1,3,Alameda,"1,104 sqft",26-Feb-14,"$550,000 ",37.730408,-122.23096,CA,Single-Family Home,550000,"$606,000 ",,,,,Sold,ALAMEDA
+94501,2115 Central Ave #8,1.5,2,Alameda,"1,120 sqft",25-Feb-14,"$400,000 ",37.76734,-122.24902,CA,Condo,400000,"$431,000 ",,,,,Sold,ALAMEDA
+94502,122 Purcell Dr,2.5,3,Alameda,"2,370 sqft",25-Feb-14,"$899,000 ",37.745373,-122.240585,CA,Single-Family Home,899000,"$1,035,000 ",,,,,Sold,ALAMEDA
+94501,2139 Pacific Ave,4.5,9,Alameda,"4,330 sqft",21-Feb-14,"$1,100,000 ",37.770115,-122.24594,CA,Multi-Family,1100000,,,,,,Sold,ALAMEDA
+94502,3181 Phoenix Ln,2.5,3,Alameda,"1,673 sqft",21-Feb-14,"$570,000 ",37.73297,-122.24431,CA,Townhouse,570000,"$630,000 ",,,,,Sold,ALAMEDA
+94502,1033 Holly St,2,3,Alameda,"1,623 sqft",21-Feb-14,"$691,000 ",37.733784,-122.237915,CA,Single-Family Home,691000,"$725,000 ",,,,,Sold,ALAMEDA
+94501,1612 Sherman St,,,Alameda,"1,847 sqft",19-Feb-14,"$765,000 ",37.77523,-122.262924,CA,Multi-Family,765000,,,,,,Sold,ALAMEDA
+94502,122 Shepardson Ln,2,2,Alameda,"1,419 sqft",19-Feb-14,"$545,000 ",37.746857,-122.242744,CA,Condo,545000,"$597,000 ",,,,,Sold,ALAMEDA
+94501,2166 Buena Vista Ave,2,3,Alameda,"1,438 sqft",19-Feb-14,"$516,000 ",37.77005,-122.24457,CA,Multi-Family,516000,"$607,000 ",,,,,Sold,ALAMEDA
+94501,2152 San Jose Ave,1,3,Alameda,"1,229 sqft",14-Feb-14,"$755,000 ",37.762608,-122.25031,CA,Single-Family Home,755000,"$779,000 ",,,,,Sold,ALAMEDA
+94502,98 Steuben Bay,2.5,4,Alameda,"2,310 sqft",14-Feb-14,"$1,350,000 ",37.74094,-122.241035,CA,Single-Family Home,1350000,"$1,206,000 ",,,,,Sold,ALAMEDA
+94502,255 Beach Rd,1,2,Alameda,"1,088 sqft",14-Feb-14,"$579,500 ",37.734474,-122.23315,CA,Single-Family Home,579500,"$618,000 ",,,,,Sold,ALAMEDA
+94501,2017 San Antonio Ave,,,Alameda,"4,395 sqft",11-Feb-14,"$1,082,500 ",37.765877,-122.253555,CA,Multi-Family,1082500,,,,,,Sold,ALAMEDA
+94501,1361 Court St,,,Alameda,"2,169 sqft",11-Feb-14,"$985,000 ",37.75908,-122.234146,CA,Single-Family Home,985000,"$1,006,000 ",,,,,Sold,ALAMEDA
+94501,1224 Ballena Blvd,2.5,3,Alameda,"1,652 sqft",10-Feb-14,"$595,000 ",37.768894,-122.28724,CA,Condo,595000,"$672,000 ",,,,,Sold,ALAMEDA
+94501,2865 Santa Clara Ave,2,4,Alameda,"2,300 sqft",10-Feb-14,"$835,000 ",37.760944,-122.23326,CA,Single-Family Home,835000,"$990,000 ",,,,,Sold,ALAMEDA
+94501,1912 Stanford St,1.5,2,Alameda,"2,312 sqft",7-Feb-14,"$610,000 ",37.77316,-122.24736,CA,Single-Family Home,610000,"$908,000 ",,,,,Sold,ALAMEDA
+94501,422 Taylor Ave,,,Alameda,"3,830 sqft",7-Feb-14,"$925,000 ",37.77229,-122.28496,CA,Multi-Family,925000,,,,,,Sold,ALAMEDA
+94502,202 Cumberland Ct,,,Alameda,"1,563 sqft",5-Feb-14,"$726,000 ",37.743977,-122.2482,CA,Single-Family Home,726000,"$844,000 ",,,,,Sold,ALAMEDA
+94501,2801 Santa Clara Ave,3,4,Alameda,"2,318 sqft",3-Feb-14,"$1,101,000 ",37.76224,-122.235565,CA,Single-Family Home,1101000,"$1,137,000 ",,,,,Sold,ALAMEDA
+94502,3508 Savana Ln,1.5,3,Alameda,"1,312 sqft",31-Jan-14,"$520,000 ",37.732033,-122.23483,CA,Townhouse,520000,"$1,029,000 ",,,,,Sold,ALAMEDA
+94501,891 Cedar St,,,Alameda,"3,672 sqft",31-Jan-14,"$1,200,000 ",37.761124,-122.249374,CA,Multi-Family,1200000,,,,,,Sold,ALAMEDA
+94501,1333 Webster St #A101,1,1,Alameda,690 sqft,31-Jan-14,"$189,000 ",37.770466,-122.27718,CA,Condo,189000,"$329,000 ",,,,,Sold,ALAMEDA
+94501,1436 Bay St,1,3,Alameda,"1,432 sqft",31-Jan-14,"$550,000 ",37.772194,-122.264275,CA,Single-Family Home,550000,"$708,000 ",,,,,Sold,ALAMEDA
+94501,569 Country Isle,,,Alameda,"2,587 sqft",31-Jan-14,"$725,000 ",37.76458,-122.269424,CA,Single-Family Home,725000,"$914,000 ",,,,,Sold,ALAMEDA
+94501,933 Shoreline Dr #407,2,2,Alameda,"1,360 sqft",31-Jan-14,"$474,000 ",37.76213,-122.2703,CA,Condo,474000,"$546,000 ",,,,,Sold,ALAMEDA
+94501,1521 Minturn St,2,3,Alameda,"1,321 sqft",30-Jan-14,"$539,500 ",37.771877,-122.25503,CA,Single-Family Home,539500,"$700,000 ",,,,,Sold,ALAMEDA
+94501,1152 Rosewood Way,3,5,Alameda,"1,688 sqft",29-Jan-14,"$615,000 ",37.76335,-122.2658,CA,Single-Family Home,615000,"$776,000 ",,,,,Sold,ALAMEDA
+94502,44 Kara Rd,3,4,Alameda,"2,051 sqft",29-Jan-14,"$905,000 ",37.744675,-122.2531,CA,Single-Family Home,905000,"$1,029,000 ",,,,,Sold,ALAMEDA
+94501,2710 Clay St,2.5,4,Alameda,"2,500 sqft",28-Jan-14,"$930,000 ",37.755028,-122.24259,CA,Single-Family Home,930000,"$988,000 ",,,,,Sold,ALAMEDA
+94501,3273 Encinal Ave,1,2,Alameda,763 sqft,28-Jan-14,"$590,000 ",37.754707,-122.23128,CA,Single-Family Home,590000,"$639,000 ",,,,,Sold,ALAMEDA
+94502,9 Shepardson Ln,2.5,2,Alameda,"1,658 sqft",28-Jan-14,"$580,000 ",37.74727,-122.24212,CA,Single-Family Home,580000,"$753,000 ",,,,,Sold,ALAMEDA
+94502,3203 Fiji Ln,1.5,2,Alameda,"1,261 sqft",28-Jan-14,"$470,000 ",37.73184,-122.24394,CA,Townhouse,470000,"$459,000 ",,,,,Sold,ALAMEDA
+94501,1200 Saint Charles St,5.5,6,Alameda,"5,071 sqft",28-Jan-14,"$3,400,000 ",37.766754,-122.26563,CA,Single-Family Home,3400000,"$2,335,000 ",,,,,Sold,ALAMEDA
+94502,230 Sweet Rd,3,5,Alameda,"2,648 sqft",24-Jan-14,"$840,000 ",37.739563,-122.25855,CA,Single-Family Home,840000,"$1,277,000 ",,,,,Sold,ALAMEDA
+94501,1349 Eastshore Dr,2,2,Alameda,"1,536 sqft",24-Jan-14,"$700,000 ",37.754063,-122.228745,CA,Single-Family Home,700000,"$829,000 ",,,,,Sold,ALAMEDA
+94502,1320 Pyne Ln,2.5,3,Alameda,"1,356 sqft",22-Jan-14,"$573,000 ",37.728283,-122.23779,CA,Single-Family Home,573000,"$702,000 ",,,,,Sold,ALAMEDA
+94501,1001 Shoreline Dr #201,2,2,Alameda,"1,360 sqft",22-Jan-14,"$520,000 ",37.76186,-122.26957,CA,Condo,520000,"$541,000 ",,,,,Sold,ALAMEDA
+94501,239 Hollister Ave,3,4,Alameda,"2,539 sqft",21-Jan-14,"$875,000 ",37.780636,-122.289215,CA,Single-Family Home,875000,"$953,000 ",,,,,Sold,ALAMEDA
+94501,1010 Taylor Ave,1,2,Alameda,"1,101 sqft",17-Jan-14,"$407,500 ",37.772,-122.267525,CA,Single-Family Home,407500,"$614,000 ",,,,,Sold,ALAMEDA
+94501,231 Kingfisher Ave,2.5,3,Alameda,"2,361 sqft",17-Jan-14,"$830,000 ",37.782673,-122.28952,CA,Single-Family Home,830000,"$908,000 ",,,,,Sold,ALAMEDA
+94501,3119 Fernside Blvd,1,2,Alameda,"1,246 sqft",17-Jan-14,"$625,000 ",37.764065,-122.22671,CA,Single-Family Home,625000,"$793,000 ",,,,,Sold,ALAMEDA
+94501,1014 Taylor Ave,3,3,Alameda,"2,499 sqft",17-Jan-14,"$407,500 ",37.77187,-122.26743,CA,Multi-Family,407500,,,,,,Sold,ALAMEDA
+94501,950 Shorepoint Ct #208,2,2,Alameda,"1,092 sqft",15-Jan-14,"$343,000 ",37.762737,-122.270035,CA,Condo,343000,"$432,000 ",,,,,Sold,ALAMEDA
+94501,3317 Central Ave,2,2,Alameda,"1,570 sqft",14-Jan-14,"$865,000 ",37.755665,-122.22781,CA,Single-Family Home,865000,"$840,000 ",,,,,Sold,ALAMEDA
+94501,1701 Central Ave #S,2,2,Alameda,"1,176 sqft",14-Jan-14,"$399,000 ",37.770462,-122.25643,CA,Condo,399000,"$438,000 ",,,,,Sold,ALAMEDA
+94501,3258 Fairview Ave,3,4,Alameda,"2,348 sqft",10-Jan-14,"$1,055,000 ",37.759823,-122.22662,CA,Single-Family Home,1055000,"$1,044,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #228,2.5,3,Alameda,"1,485 sqft",10-Jan-14,"$530,000 ",37.75709,-122.25539,CA,Condo,530000,"$639,000 ",,,,,Sold,ALAMEDA
+94501,2523 Lincoln Ave,2,2,Alameda,920 sqft,8-Jan-14,"$490,000 ",37.765457,-122.23787,CA,Single-Family Home,490000,"$590,000 ",,,,,Sold,ALAMEDA
+94502,3544 Mcsherry Way,2.5,3,Alameda,"1,361 sqft",8-Jan-14,"$675,000 ",37.72969,-122.23552,CA,Single-Family Home,675000,"$740,000 ",,,,,Sold,ALAMEDA
+94501,1523 Fountain St,2.5,3,Alameda,"1,825 sqft",7-Jan-14,"$800,000 ",37.760387,-122.23133,CA,Single-Family Home,800000,"$888,000 ",,,,,Sold,ALAMEDA
+94502,3418 Brithorn Ln,3,4,Alameda,"1,716 sqft",3-Jan-14,"$560,000 ",37.73297,-122.23732,CA,Townhouse,560000,"$723,000 ",,,,,Sold,ALAMEDA
+94501,321 Robert Louis Stevenson Ave,3.5,4,Alameda,"3,743 sqft",31-Dec-13,"$885,000 ",37.783306,-122.28679,CA,Single-Family Home,885000,"$1,126,000 ",,,,,Sold,ALAMEDA
+94502,31 Orr Ct,2.5,3,Alameda,"1,616 sqft",31-Dec-13,"$730,000 ",37.73686,-122.25269,CA,Single-Family Home,730000,"$804,000 ",,,,,Sold,ALAMEDA
+94501,955 Shorepoint Ct #112,1,1,Alameda,773 sqft,31-Dec-13,"$256,000 ",37.762802,-122.26896,CA,Condo,256000,"$322,000 ",,,,,Sold,ALAMEDA
+94501,2412 Roosevelt Dr,1,1,Alameda,"1,021 sqft",31-Dec-13,"$131,500 ",37.756496,-122.24869,CA,Single-Family Home,131500,"$561,000 ",,,,,Sold,ALAMEDA
+94501,1822 Union St,2,3,Alameda,"2,145 sqft",24-Dec-13,"$720,000 ",37.774197,-122.25181,CA,Multi-Family,720000,"$729,000 ",,,,,Sold,ALAMEDA
+94502,3187 Phoenix Ln,2,2,Alameda,"1,274 sqft",23-Dec-13,"$492,000 ",37.73289,-122.244095,CA,Townhouse,492000,"$507,000 ",,,,,Sold,ALAMEDA
+94502,86 Vista Rd,3,4,Alameda,"2,070 sqft",20-Dec-13,"$1,200,000 ",37.74515,-122.256195,CA,Single-Family Home,1200000,"$992,000 ",,,,,Sold,ALAMEDA
+94501,1807 Elm St,1.5,3,Alameda,"1,208 sqft",20-Dec-13,"$850,000 ",37.77009,-122.24334,CA,Single-Family Home,850000,"$801,000 ",,,,,Sold,ALAMEDA
+94501,1434 Sherman St,,,Alameda,"3,074 sqft",20-Dec-13,"$743,000 ",37.772312,-122.26302,CA,Multi-Family,743000,,,,,,Sold,ALAMEDA
+94501,3257 Fillmore St,2,3,Alameda,"1,434 sqft",20-Dec-13,"$649,000 ",37.752323,-122.23507,CA,Single-Family Home,649000,"$764,000 ",,,,,Sold,ALAMEDA
+94502,3344 Fir Ave,2.5,4,Alameda,"1,730 sqft",19-Dec-13,"$575,000 ",37.731873,-122.23961,CA,Townhouse,575000,"$613,000 ",,,,,Sold,ALAMEDA
+94501,755 Santa Clara Ave,3.5,3,Alameda,"2,092 sqft",19-Dec-13,"$645,000 ",37.773895,-122.27288,CA,Single-Family Home,645000,"$919,000 ",,,,,Sold,ALAMEDA
+94502,151 Capetown Dr,2.5,4,Alameda,"2,172 sqft",17-Dec-13,"$859,000 ",37.74288,-122.248726,CA,Single-Family Home,859000,"$978,000 ",,,,,Sold,ALAMEDA
+94501,1902 Ohlone St,2.5,3,Alameda,"2,401 sqft",17-Dec-13,"$838,000 ",37.77643,-122.255585,CA,Single-Family Home,838000,"$1,005,000 ",,,,,Sold,ALAMEDA
+94501,1424 Sherman St,2,2,Alameda,"1,709 sqft",17-Dec-13,"$504,000 ",37.77202,-122.26303,CA,Single-Family Home,504000,"$775,000 ",,,,,Sold,ALAMEDA
+94501,1611 Lea Ct,1,1,Alameda,864 sqft,17-Dec-13,"$485,000 ",37.76802,-122.24331,CA,Single-Family Home,485000,"$516,000 ",,,,,Sold,ALAMEDA
+94502,229 Sheffield Rd,3,4,Alameda,"2,663 sqft",16-Dec-13,"$1,175,000 ",37.74483,-122.24992,CA,Single-Family Home,1175000,"$1,185,000 ",,,,,Sold,ALAMEDA
+94502,406 Ironwood Rd,2.5,2,Alameda,"1,534 sqft",13-Dec-13,"$510,000 ",37.7383,-122.24411,CA,Townhouse,510000,"$590,000 ",,,,,Sold,ALAMEDA
+94501,3007 Madison St,1,3,Alameda,"1,347 sqft",13-Dec-13,"$830,000 ",37.756645,-122.23578,CA,Single-Family Home,830000,"$740,000 ",,,,,Sold,ALAMEDA
+94501,2115 Central Ave #2,2,3,Alameda,"1,120 sqft",13-Dec-13,"$395,000 ",37.76734,-122.24902,CA,Condo,395000,"$453,000 ",,,,,Sold,ALAMEDA
+94501,2133 Santa Clara Ave,2,2,Alameda,"1,060 sqft",13-Dec-13,"$282,000 ",37.768204,-122.247406,CA,Condo,282000,"$380,000 ",,,,,Sold,ALAMEDA
+94501,1312 Broadway,1,3,Alameda,"1,325 sqft",13-Dec-13,"$825,000 ",37.760757,-122.240166,CA,Single-Family Home,825000,"$769,000 ",,,,,Sold,ALAMEDA
+94502,1108 Verdemar Dr,,,Alameda,"1,628 sqft",12-Dec-13,"$545,000 ",37.734467,-122.24581,CA,Townhouse,545000,"$657,000 ",,,,,Sold,ALAMEDA
+94501,1803 San Antonio Ave,2,5,Alameda,"3,189 sqft",12-Dec-13,"$1,103,000 ",37.76702,-122.25674,CA,Single-Family Home,1103000,"$1,048,000 ",,,,,Sold,ALAMEDA
+94501,1501 Alameda Ave,2,2,Alameda,"1,449 sqft",11-Dec-13,"$465,000 ",37.770786,-122.26004,CA,Condo,465000,"$527,000 ",,,,,Sold,ALAMEDA
+94501,1420 Page St,1,2,Alameda,996 sqft,11-Dec-13,"$442,000 ",37.772076,-122.274734,CA,Single-Family Home,442000,"$555,000 ",,,,,Sold,ALAMEDA
+94501,2611 Saint Margaret Ct,1,2,Alameda,915 sqft,11-Dec-13,"$510,000 ",37.764175,-122.23691,CA,Single-Family Home,510000,"$622,000 ",,,,,Sold,ALAMEDA
+94501,955 Shorepoint Ct #307,1.5,1,Alameda,773 sqft,11-Dec-13,"$280,000 ",37.762802,-122.26896,CA,Condo,280000,"$313,000 ",,,,,Sold,ALAMEDA
+94502,3217 Fir Ave,2,2,Alameda,"1,274 sqft",11-Dec-13,"$460,500 ",37.73368,-122.24229,CA,Townhouse,460500,"$491,000 ",,,,,Sold,ALAMEDA
+94502,118 Roxburg Ln,2,3,Alameda,"1,503 sqft",10-Dec-13,"$690,000 ",37.745705,-122.245125,CA,Single-Family Home,690000,"$814,000 ",,,,,Sold,ALAMEDA
+94501,1081 Independence Dr,2,2,Alameda,"1,330 sqft",9-Dec-13,"$598,000 ",37.78191,-122.26576,CA,Condo,598000,"$640,000 ",,,,,Sold,ALAMEDA
+94501,2937 Fernside Blvd,2,2,Alameda,"1,116 sqft",9-Dec-13,"$740,000 ",37.76566,-122.22898,CA,Single-Family Home,740000,"$759,000 ",,,,,Sold,ALAMEDA
+94501,3 Heron Ct,2.5,4,Alameda,"1,679 sqft",9-Dec-13,"$615,000 ",37.778255,-122.27823,CA,Single-Family Home,615000,"$790,000 ",,,,,Sold,ALAMEDA
+94501,1422 Sherman St,3,3,Alameda,"1,878 sqft",6-Dec-13,"$625,000 ",37.77191,-122.26303,CA,Multi-Family,625000,,,,,,Sold,ALAMEDA
+94501,842 Cedar St,,,Alameda,"4,482 sqft",6-Dec-13,"$815,000 ",37.75969,-122.24977,CA,Multi-Family,815000,,,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #462,1.5,2,Alameda,"1,335 sqft",6-Dec-13,"$395,000 ",37.75709,-122.25539,CA,Condo,395000,"$501,000 ",,,,,Sold,ALAMEDA
+94501,1200 High St,1,2,Alameda,"1,084 sqft",6-Dec-13,"$597,000 ",37.755066,-122.23508,CA,Single-Family Home,597000,"$660,000 ",,,,,Sold,ALAMEDA
+94501,1628 Broadway,1,2,Alameda,"1,106 sqft",6-Dec-13,"$600,000 ",37.765377,-122.23634,CA,Single-Family Home,600000,"$681,000 ",,,,,Sold,ALAMEDA
+94501,1533 Gibbons Dr,2,3,Alameda,"2,288 sqft",5-Dec-13,"$901,000 ",37.7627,-122.23453,CA,Single-Family Home,901000,"$1,121,000 ",,,,,Sold,ALAMEDA
+94502,204 Brighton Ct,2,3,Alameda,"1,503 sqft",5-Dec-13,"$740,000 ",37.744343,-122.24438,CA,Single-Family Home,740000,"$800,000 ",,,,,Sold,ALAMEDA
+94501,1910 Union St,3.5,6,Alameda,"3,565 sqft",4-Dec-13,"$820,000 ",37.774857,-122.251305,CA,Multi-Family,820000,"$950,000 ",,,,,Sold,ALAMEDA
+94501,339 Broadway,2,2,Alameda,"1,163 sqft",4-Dec-13,"$399,000 ",37.754204,-122.2469,CA,Condo,399000,"$475,000 ",,,,,Sold,ALAMEDA
+94501,1005 Santa Clara Ave,6,6,Alameda,"4,255 sqft",4-Dec-13,"$1,100,000 ",37.773357,-122.26816,CA,Multi-Family,1100000,,,,,,Sold,ALAMEDA
+94501,3206 Ravens Cove Ln,1.5,2,Alameda,"1,321 sqft",3-Dec-13,"$560,000 ",37.751026,-122.239525,CA,Townhouse,560000,"$586,000 ",,,,,Sold,ALAMEDA
+94501,3006 Gibbons Dr,2.5,3,Alameda,"2,449 sqft",3-Dec-13,"$865,000 ",37.763367,-122.229485,CA,Single-Family Home,865000,"$1,146,000 ",,,,,Sold,ALAMEDA
+94501,524 Buena Vista Ave,,,Alameda,"7,592 sqft",2-Dec-13,"$1,605,000 ",37.777042,-122.28096,CA,Multi-Family,1605000,,,,,,Sold,ALAMEDA
+94501,927 Taylor Ave,2,3,Alameda,"1,509 sqft",27-Nov-13,"$650,000 ",37.772472,-122.2691,CA,Single-Family Home,650000,"$804,000 ",,,,,Sold,ALAMEDA
+94501,2351 Glenview St,2.5,3,Alameda,"2,361 sqft",27-Nov-13,"$825,000 ",37.783234,-122.29066,CA,Single-Family Home,825000,"$904,000 ",,,,,Sold,ALAMEDA
+94502,1140 Marianas Ln,1.5,3,Alameda,"1,340 sqft",27-Nov-13,"$390,000 ",37.73297,-122.245186,CA,Townhouse,390000,"$476,000 ",,,,,Sold,ALAMEDA
+94501,516 Buena Vista Ave,,,Alameda,"7,592 sqft",27-Nov-13,"$1,725,000 ",37.777058,-122.28161,CA,Multi-Family,1725000,,,,,,Sold,ALAMEDA
+94502,905 Ironwood Rd,,,Alameda,"1,725 sqft",26-Nov-13,"$660,000 ",37.739796,-122.24356,CA,Townhouse,660000,"$697,000 ",,,,,Sold,ALAMEDA
+94502,2992 Via Bahia,2.5,4,Alameda,"1,628 sqft",26-Nov-13,"$575,000 ",37.73645,-122.24778,CA,Townhouse,575000,"$667,000 ",,,,,Sold,ALAMEDA
+94501,439 Santa Clara Ave,1,3,Alameda,"1,478 sqft",26-Nov-13,"$660,000 ",37.773777,-122.28411,CA,Single-Family Home,660000,"$712,000 ",,,,,Sold,ALAMEDA
+94501,304 Laguna Vis,2.5,3,Alameda,"1,780 sqft",26-Nov-13,"$646,000 ",37.753365,-122.244606,CA,Single-Family Home,646000,"$823,000 ",,,,,Sold,ALAMEDA
+94502,606 Lagunaria Ln,,,Alameda,"2,018 sqft",26-Nov-13,"$690,000 ",37.738194,-122.24285,CA,Townhouse,690000,"$724,000 ",,,,,Sold,ALAMEDA
+94501,2121 Alameda Ave,1,4,Alameda,"1,786 sqft",26-Nov-13,"$885,000 ",37.76626,-122.24939,CA,Single-Family Home,885000,"$818,000 ",,,,,Sold,ALAMEDA
+94501,10 Cornelius Sq,3.5,3,Alameda,"3,423 sqft",25-Nov-13,"$1,075,000 ",37.78296,-122.28982,CA,Single-Family Home,1075000,"$1,150,000 ",,,,,Sold,ALAMEDA
+94501,1617 Willow St,2,4,Alameda,"2,186 sqft",22-Nov-13,"$695,000 ",37.770313,-122.24803,CA,Multi-Family,695000,"$750,000 ",,,,,Sold,ALAMEDA
+94501,325 Kitty Hawk Rd #102,1.5,2,Alameda,854 sqft,22-Nov-13,"$299,000 ",37.759315,-122.26086,CA,Condo,299000,"$414,000 ",,,,,Sold,ALAMEDA
+94501,615 Arlington Isle,2,4,Alameda,"1,451 sqft",22-Nov-13,"$698,000 ",37.76457,-122.26467,CA,Single-Family Home,698000,"$776,000 ",,,,,Sold,ALAMEDA
+94502,58 Justin Cir,3,4,Alameda,"2,077 sqft",22-Nov-13,"$935,000 ",37.745247,-122.25162,CA,Single-Family Home,935000,"$1,050,000 ",,,,,Sold,ALAMEDA
+94501,2149 Pacific Ave,3,5,Alameda,"1,800 sqft",22-Nov-13,"$690,000 ",37.769917,-122.24548,CA,Single-Family Home,690000,"$890,000 ",,,,,Sold,ALAMEDA
+94501,1518 Sherman St,1.5,3,Alameda,"1,529 sqft",21-Nov-13,"$758,000 ",37.77368,-122.26297,CA,Single-Family Home,758000,"$774,000 ",,,,,Sold,ALAMEDA
+94501,933 Shoreline Dr #409,2,2,Alameda,"1,360 sqft",21-Nov-13,"$455,000 ",37.76213,-122.2703,CA,Condo,455000,"$529,000 ",,,,,Sold,ALAMEDA
+94502,3037 Linda Vis,2.5,3,Alameda,"1,628 sqft",21-Nov-13,"$543,000 ",37.733963,-122.24714,CA,Townhouse,543000,"$537,000 ",,,,,Sold,ALAMEDA
+94501,1736 Cornell Dr,2.5,3,Alameda,"2,330 sqft",21-Nov-13,"$1,120,000 ",37.763,-122.228355,CA,Single-Family Home,1120000,"$1,132,000 ",,,,,Sold,ALAMEDA
+94502,40 Kara Rd,3,3,Alameda,"1,736 sqft",20-Nov-13,"$715,000 ",37.744797,-122.25316,CA,Single-Family Home,715000,"$889,000 ",,,,,Sold,ALAMEDA
+94501,1815 Saint Charles St,1,2,Alameda,679 sqft,20-Nov-13,"$458,000 ",37.77747,-122.26607,CA,Single-Family Home,458000,"$539,000 ",,,,,Sold,ALAMEDA
+94501,320 Lina Ave,3,4,Alameda,"2,539 sqft",20-Nov-13,"$836,000 ",37.78359,-122.287,CA,Single-Family Home,836000,"$947,000 ",,,,,Sold,ALAMEDA
+94501,1446 6th St,1,2,Alameda,949 sqft,20-Nov-13,"$526,000 ",37.77303,-122.279205,CA,Single-Family Home,526000,"$555,000 ",,,,,Sold,ALAMEDA
+94502,3156 Bali Ln,2.5,4,Alameda,"1,730 sqft",19-Nov-13,"$593,000 ",37.735664,-122.24285,CA,Townhouse,593000,"$604,000 ",,,,,Sold,ALAMEDA
+94501,624 Haight Ave #A,1,1,Alameda,664 sqft,19-Nov-13,"$295,000 ",37.773968,-122.27829,CA,Single-Family Home,295000,"$405,000 ",,,,,Sold,ALAMEDA
+94502,414 Lagunaria Ln,2.5,2,Alameda,"1,534 sqft",19-Nov-13,"$540,000 ",37.737747,-122.242935,CA,Townhouse,540000,"$532,000 ",,,,,Sold,ALAMEDA
+94501,1819 Sherman St,1.5,3,Alameda,"2,780 sqft",19-Nov-13,"$537,000 ",37.777615,-122.26345,CA,Multi-Family,537000,"$866,000 ",,,,,Sold,ALAMEDA
+94501,907 Paru St,4.5,3,Alameda,"2,382 sqft",18-Nov-13,"$1,137,500 ",37.76716,-122.26185,CA,Single-Family Home,1137500,"$1,137,000 ",,,,,Sold,ALAMEDA
+94501,1321 Webster St #D305,1,1,Alameda,701 sqft,18-Nov-13,"$240,000 ",37.769863,-122.277695,CA,Condo,240000,"$281,000 ",,,,,Sold,ALAMEDA
+94501,9 Hercules Ct,2.5,4,Alameda,"2,171 sqft",18-Nov-13,"$760,000 ",37.78025,-122.2745,CA,Single-Family Home,760000,"$931,000 ",,,,,Sold,ALAMEDA
+94501,1937 Sandcreek Way,2,3,Alameda,"1,463 sqft",18-Nov-13,"$745,000 ",37.76141,-122.257484,CA,Single-Family Home,745000,"$815,000 ",,,,,Sold,ALAMEDA
+94502,663 Centre Ct,2.5,2,Alameda,"1,664 sqft",18-Nov-13,"$510,000 ",37.746155,-122.23695,CA,Condo,510000,"$636,000 ",,,,,Sold,ALAMEDA
+94501,2043 Whitehall Pl,2,3,Alameda,"1,578 sqft",15-Nov-13,"$750,000 ",37.760197,-122.25627,CA,Single-Family Home,750000,"$834,000 ",,,,,Sold,ALAMEDA
+94501,409 Sunset Rd,2,3,Alameda,"1,243 sqft",15-Nov-13,"$620,000 ",37.761314,-122.26436,CA,Single-Family Home,620000,"$705,000 ",,,,,Sold,ALAMEDA
+94501,332 Tideway Dr,2,3,Alameda,"1,665 sqft",15-Nov-13,"$569,000 ",37.769844,-122.28735,CA,Townhouse,569000,"$644,000 ",,,,,Sold,ALAMEDA
+94501,1234 Caroline St,2.5,4,Alameda,"3,569 sqft",15-Nov-13,"$1,280,000 ",37.76774,-122.26802,CA,Single-Family Home,1280000,"$1,295,000 ",,,,,Sold,ALAMEDA
+94501,2117 San Antonio Ave,,,Alameda,"2,244 sqft",15-Nov-13,"$910,000 ",37.764584,-122.25074,CA,Single-Family Home,910000,"$941,000 ",,,,,Sold,ALAMEDA
+94501,351 Bryant Ave,3.5,4,Alameda,"3,743 sqft",15-Nov-13,"$1,100,000 ",37.78127,-122.28597,CA,Single-Family Home,1100000,"$1,169,000 ",,,,,Sold,ALAMEDA
+94501,2 Avocet Ct,2.5,4,Alameda,"1,679 sqft",15-Nov-13,"$606,500 ",37.77753,-122.28053,CA,Single-Family Home,606500,"$719,000 ",,,,,Sold,ALAMEDA
+94501,3266 Cape Cod Ct,1.5,3,Alameda,"1,321 sqft",14-Nov-13,"$500,000 ",37.751293,-122.23913,CA,Townhouse,500000,"$547,000 ",,,,,Sold,ALAMEDA
+94501,3260 Central Ave,2,3,Alameda,"1,781 sqft",14-Nov-13,"$690,000 ",37.756607,-122.230156,CA,Single-Family Home,690000,"$866,000 ",,,,,Sold,ALAMEDA
+94501,1305 Webster St #C104,1,1,Alameda,701 sqft,14-Nov-13,"$249,000 ",37.77053,-122.27657,CA,Condo,249000,"$297,000 ",,,,,Sold,ALAMEDA
+94501,3224 Briggs Ave,,,Alameda,"4,933 sqft",13-Nov-13,"$1,090,000 ",37.756184,-122.23258,CA,Multi-Family,1090000,,,,,,Sold,ALAMEDA
+94501,1028 Eagle Ave,3.5,6,Alameda,"2,502 sqft",13-Nov-13,"$625,000 ",37.77767,-122.26667,CA,Multi-Family,625000,"$781,000 ",,,,,Sold,ALAMEDA
+94501,1625 Oak St,1,3,Alameda,"1,080 sqft",13-Nov-13,"$412,000 ",37.76799,-122.24216,CA,Single-Family Home,412000,"$699,000 ",,,,,Sold,ALAMEDA
+94501,898 Union St,1,4,Alameda,"1,651 sqft",13-Nov-13,"$852,000 ",37.765,-122.258026,CA,Single-Family Home,852000,"$906,000 ",,,,,Sold,ALAMEDA
+94501,1508 Verdi St,1,2,Alameda,"1,171 sqft",12-Nov-13,"$557,000 ",37.77339,-122.267,CA,Single-Family Home,557000,"$615,000 ",,,,,Sold,ALAMEDA
+94501,1801 Yale Dr,1.5,2,Alameda,"1,547 sqft",8-Nov-13,"$792,000 ",37.763893,-122.22953,CA,Single-Family Home,792000,"$887,000 ",,,,,Sold,ALAMEDA
+94501,2133 Santa Clara Ave,2,2,Alameda,"1,212 sqft",8-Nov-13,"$272,000 ",37.768204,-122.247406,CA,Condo,272000,"$419,000 ",,,,,Sold,ALAMEDA
+94501,8 Killdeer Ct,2.5,4,Alameda,"1,679 sqft",8-Nov-13,"$619,500 ",37.777496,-122.27902,CA,Single-Family Home,619500,"$783,000 ",,,,,Sold,ALAMEDA
+94501,2621 Lincoln Ave,5,2,Alameda,"1,123 sqft",8-Nov-13,"$625,000 ",37.764423,-122.2361,CA,Single-Family Home,625000,"$789,000 ",,,,,Sold,ALAMEDA
+94501,810 Haight Ave,2,3,Alameda,"1,445 sqft",8-Nov-13,"$495,000 ",37.773876,-122.27218,CA,Single-Family Home,495000,"$741,000 ",,,,,Sold,ALAMEDA
+94501,1825 Shoreline Dr #210,1,2,Alameda,871 sqft,8-Nov-13,"$420,000 ",37.75881,-122.261154,CA,Condo,420000,"$479,000 ",,,,,Sold,ALAMEDA
+94501,428 Fair Haven Rd,2,4,Alameda,"1,653 sqft",7-Nov-13,"$683,500 ",37.762947,-122.266716,CA,Single-Family Home,683500,"$807,000 ",,,,,Sold,ALAMEDA
+94501,950 Shorepoint Ct #103,2,2,Alameda,960 sqft,7-Nov-13,"$310,000 ",37.762737,-122.270035,CA,Condo,310000,"$384,000 ",,,,,Sold,ALAMEDA
+94501,2719 Otis Dr,2.5,4,Alameda,"2,025 sqft",6-Nov-13,"$711,000 ",37.75462,-122.24244,CA,Single-Family Home,711000,"$896,000 ",,,,,Sold,ALAMEDA
+94501,3109 Bayo Vista Ave,2,3,Alameda,"1,535 sqft",6-Nov-13,"$930,000 ",37.762966,-122.22804,CA,Single-Family Home,930000,"$973,000 ",,,,,Sold,ALAMEDA
+94501,2517 Otis Dr,1,5,Alameda,"1,150 sqft",5-Nov-13,"$645,000 ",37.756077,-122.24528,CA,Single-Family Home,645000,"$646,000 ",,,,,Sold,ALAMEDA
+94502,1121 Camino Del Valle,2.5,3,Alameda,"1,584 sqft",5-Nov-13,"$519,000 ",37.733845,-122.245186,CA,Townhouse,519000,"$610,000 ",,,,,Sold,ALAMEDA
+94502,1073 Jost Ln,2.5,3,Alameda,"1,664 sqft",5-Nov-13,"$475,000 ",37.732334,-122.237404,CA,Townhouse,475000,"$630,000 ",,,,,Sold,ALAMEDA
+94501,2065 Encinal Ave #F,2,2,Alameda,902 sqft,5-Nov-13,"$357,000 ",37.765865,-122.25105,CA,Condo,357000,"$406,000 ",,,,,Sold,ALAMEDA
+94502,3334 Cook Ln,2,2,Alameda,"1,274 sqft",5-Nov-13,"$489,000 ",37.730778,-122.241745,CA,Townhouse,489000,"$501,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #479,1.5,2,Alameda,"1,015 sqft",5-Nov-13,"$438,000 ",37.75709,-122.25539,CA,Condo,438000,"$460,000 ",,,,,Sold,ALAMEDA
+94501,965 Shorepoint Ct #301,2,2,Alameda,980 sqft,4-Nov-13,"$330,000 ",37.762802,-122.26896,CA,Condo,330000,"$406,000 ",,,,,Sold,ALAMEDA
+94501,466 Haight Ave,2,3,Alameda,"1,168 sqft",1-Nov-13,"$500,000 ",37.77412,-122.28287,CA,Single-Family Home,500000,"$652,000 ",,,,,Sold,ALAMEDA
+94501,2904 San Jose Ave,2,3,Alameda,"1,968 sqft",1-Nov-13,"$885,000 ",37.756397,-122.23765,CA,Single-Family Home,885000,"$855,000 ",,,,,Sold,ALAMEDA
+94501,933 Shoreline Dr #204,2,2,Alameda,"1,360 sqft",31-Oct-13,"$411,000 ",37.76213,-122.2703,CA,Condo,411000,"$509,000 ",,,,,Sold,ALAMEDA
+94502,1153 Bismarck Ln,1.5,2,Alameda,"1,261 sqft",31-Oct-13,"$470,000 ",37.73109,-122.2415,CA,Townhouse,470000,"$455,000 ",,,,,Sold,ALAMEDA
+94501,2209 Otis Dr #M,1,1,Alameda,656 sqft,31-Oct-13,"$225,000 ",37.759785,-122.25123,CA,Condo,225000,"$304,000 ",,,,,Sold,ALAMEDA
+94501,1400 Grove St,2.5,5,Alameda,"2,920 sqft",30-Oct-13,"$1,235,000 ",37.760647,-122.235,CA,Single-Family Home,1235000,"$1,243,000 ",,,,,Sold,ALAMEDA
+94501,315 Balboa Ct,2.5,3,Alameda,"1,706 sqft",30-Oct-13,"$700,000 ",37.753716,-122.24535,CA,Single-Family Home,700000,"$812,000 ",,,,,Sold,ALAMEDA
+94501,1911 Everett St,3,3,Alameda,"2,510 sqft",30-Oct-13,"$411,000 ",37.76929,-122.23644,CA,Single-Family Home,411000,"$1,108,000 ",,,,,Sold,ALAMEDA
+94501,2941 Northwood Dr,1.5,4,Alameda,"2,770 sqft",30-Oct-13,"$969,000 ",37.764053,-122.23264,CA,Single-Family Home,969000,"$1,230,000 ",,,,,Sold,ALAMEDA
+94502,3455 Hazel Ln,1.5,3,Alameda,"1,334 sqft",30-Oct-13,"$515,000 ",37.731564,-122.23716,CA,Townhouse,515000,"$480,000 ",,,,,Sold,ALAMEDA
+94501,1521 Broadway,1.5,4,Alameda,"2,487 sqft",30-Oct-13,"$908,000 ",37.764317,-122.23808,CA,Single-Family Home,908000,"$1,049,000 ",,,,,Sold,ALAMEDA
+94502,17 Avondale Lndg,2,3,Alameda,"1,694 sqft",29-Oct-13,"$780,000 ",37.74109,-122.2423,CA,Single-Family Home,780000,"$871,000 ",,,,,Sold,ALAMEDA
+94501,452 Haight Ave,1,2,Alameda,"1,333 sqft",25-Oct-13,"$460,000 ",37.77414,-122.28359,CA,Single-Family Home,460000,"$639,000 ",,,,,Sold,ALAMEDA
+94501,2230 Buena Vista Ave,3,4,Alameda,"1,500 sqft",25-Oct-13,"$800,000 ",37.769302,-122.24302,CA,Single-Family Home,800000,"$842,000 ",,,,,Sold,ALAMEDA
+94501,2944 Northwood Dr,2.5,2,Alameda,"2,484 sqft",25-Oct-13,"$1,045,000 ",37.7639,-122.23204,CA,Single-Family Home,1045000,"$1,241,000 ",,,,,Sold,ALAMEDA
+94501,3208 Ravens Cove Ln,2,3,Alameda,"1,392 sqft",25-Oct-13,"$550,000 ",37.75098,-122.23946,CA,Townhouse,550000,"$631,000 ",,,,,Sold,ALAMEDA
+94502,115 Bay Park Ter #23D,2,2,Alameda,"1,419 sqft",24-Oct-13,"$555,000 ",37.74764,-122.24209,CA,Condo,555000,"$597,000 ",,,,,Sold,ALAMEDA
+94501,1426 Mound St,2,4,Alameda,"2,160 sqft",23-Oct-13,"$765,000 ",37.760353,-122.23337,CA,Single-Family Home,765000,"$962,000 ",,,,,Sold,ALAMEDA
+94502,3013 Flora Vis,1.5,2,Alameda,"1,180 sqft",22-Oct-13,"$417,000 ",37.735016,-122.24749,CA,Townhouse,417000,"$502,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #477,1.5,2,Alameda,"1,015 sqft",22-Oct-13,"$435,000 ",37.75709,-122.25539,CA,Condo,435000,"$478,000 ",,,,,Sold,ALAMEDA
+94501,1235 Broadway,2,2,Alameda,"1,485 sqft",22-Oct-13,"$359,500 ",37.760063,-122.24161,CA,Multi-Family,359500,"$503,000 ",,,,,Sold,ALAMEDA
+94501,2251 Lincoln Ave,1,2,Alameda,996 sqft,22-Oct-13,"$490,000 ",37.767708,-122.24327,CA,Single-Family Home,490000,"$623,000 ",,,,,Sold,ALAMEDA
+94501,2829 Clay St,1,2,Alameda,"1,470 sqft",22-Oct-13,"$665,000 ",37.75434,-122.24071,CA,Single-Family Home,665000,"$696,000 ",,,,,Sold,ALAMEDA
+94501,1731 Clinton Ave,3,4,Alameda,"2,359 sqft",22-Oct-13,"$1,180,000 ",37.765724,-122.25855,CA,Single-Family Home,1180000,"$1,026,000 ",,,,,Sold,ALAMEDA
+94501,2128 Chipman St,2.5,4,Alameda,"2,219 sqft",21-Oct-13,"$768,000 ",37.78077,-122.28253,CA,Single-Family Home,768000,"$897,000 ",,,,,Sold,ALAMEDA
+94501,1627 Union St,1,2,Alameda,843 sqft,18-Oct-13,"$508,000 ",37.77281,-122.25328,CA,Single-Family Home,508000,"$550,000 ",,,,,Sold,ALAMEDA
+94502,29 Brehaut Ct,2.5,2,Alameda,"1,198 sqft",18-Oct-13,"$575,000 ",37.736343,-122.25168,CA,Single-Family Home,575000,"$652,000 ",,,,,Sold,ALAMEDA
+94501,3224 Bayo Vista Ave,1,1,Alameda,"1,460 sqft",18-Oct-13,"$675,000 ",37.76186,-122.22681,CA,Single-Family Home,675000,"$723,000 ",,,,,Sold,ALAMEDA
+94501,3115 Marina Dr,1,2,Alameda,920 sqft,18-Oct-13,"$726,000 ",37.764736,-122.22602,CA,Single-Family Home,726000,"$736,000 ",,,,,Sold,ALAMEDA
+94501,400 Marion Ct,,,Alameda,982 sqft,18-Oct-13,"$4,100,000 ",37.773956,-122.28533,CA,Multi-Family,4100000,,,,,,Sold,ALAMEDA
+94501,2800 Bayview Dr,2.5,4,Alameda,"1,980 sqft",18-Oct-13,"$945,000 ",37.75234,-122.24411,CA,Single-Family Home,945000,"$913,000 ",,,,,Sold,ALAMEDA
+94501,42 Invincible Ct #A21,2,2,Alameda,"1,204 sqft",17-Oct-13,"$625,000 ",37.78405,-122.26923,CA,Condo,625000,"$621,000 ",,,,,Sold,ALAMEDA
+94501,212 Lincoln Ave,1,2,Alameda,"1,196 sqft",16-Oct-13,"$610,000 ",37.774853,-122.28925,CA,Single-Family Home,610000,"$690,000 ",,,,,Sold,ALAMEDA
+94501,207 Santa Clara Ave,1,2,Alameda,"1,242 sqft",15-Oct-13,"$644,000 ",37.77445,-122.28933,CA,Single-Family Home,644000,"$705,000 ",,,,,Sold,ALAMEDA
+94502,1112 Marianas Ln,2,2,Alameda,"1,274 sqft",15-Oct-13,"$470,000 ",37.733814,-122.24466,CA,Townhouse,470000,"$556,000 ",,,,,Sold,ALAMEDA
+94501,636 Sandalwood Isle,2.5,3,Alameda,"2,039 sqft",15-Oct-13,"$988,000 ",37.76356,-122.257324,CA,Single-Family Home,988000,"$1,089,000 ",,,,,Sold,ALAMEDA
+94501,1607 Santa Clara Ave,,,Alameda,"4,303 sqft",11-Oct-13,"$1,150,000 ",37.77241,-122.25735,CA,Multi-Family,1150000,,,,,,Sold,ALAMEDA
+94502,3447 Hazel Ln,2.5,4,Alameda,"1,716 sqft",11-Oct-13,"$525,000 ",37.731625,-122.23729,CA,Townhouse,525000,"$601,000 ",,,,,Sold,ALAMEDA
+94501,1335 Caroline St,2,4,Alameda,"2,055 sqft",11-Oct-13,"$757,000 ",37.770542,-122.26842,CA,Single-Family Home,757000,"$980,000 ",,,,,Sold,ALAMEDA
+94502,3338 Solomon Ln,2.5,3,Alameda,"1,639 sqft",11-Oct-13,"$537,000 ",37.731136,-122.24063,CA,Townhouse,537000,"$555,000 ",,,,,Sold,ALAMEDA
+94501,2709 Central Ave,2,2,Alameda,"1,051 sqft",11-Oct-13,"$350,000 ",37.761833,-122.23695,CA,Condo,350000,"$468,000 ",,,,,Sold,ALAMEDA
+94501,2422 Otis Dr,1,3,Alameda,"1,258 sqft",11-Oct-13,"$569,000 ",37.756805,-122.247765,CA,Single-Family Home,569000,"$689,000 ",,,,,Sold,ALAMEDA
+94501,1 Invincible Ct #C1,2,2,Alameda,"1,247 sqft",11-Oct-13,"$617,500 ",37.784348,-122.27037,CA,Condo,617500,"$621,000 ",,,,,Sold,ALAMEDA
+94502,510 Lagunaria Ln,2.5,3,Alameda,"1,725 sqft",11-Oct-13,"$662,000 ",37.738377,-122.24352,CA,Townhouse,662000,"$618,000 ",,,,,Sold,ALAMEDA
+94501,1601 China Clipper Ln,3.5,4,Alameda,"2,373 sqft",11-Oct-13,"$858,000 ",37.778202,-122.25367,CA,Single-Family Home,858000,"$1,077,000 ",,,,,Sold,ALAMEDA
+94501,1216 Eagle Ave,1,3,Alameda,"1,626 sqft",11-Oct-13,"$580,000 ",37.77755,-122.26376,CA,Single-Family Home,580000,"$750,000 ",,,,,Sold,ALAMEDA
+94501,3104 Fernside Blvd,1.5,2,Alameda,"1,569 sqft",10-Oct-13,"$610,000 ",37.76395,-122.22754,CA,Single-Family Home,610000,"$885,000 ",,,,,Sold,ALAMEDA
+94502,3435 Hazel Ln,2,2,Alameda,"1,247 sqft",10-Oct-13,"$525,000 ",37.731724,-122.237495,CA,Townhouse,525000,"$506,000 ",,,,,Sold,ALAMEDA
+94501,2137 Otis Dr #313,1,1,Alameda,762 sqft,8-Oct-13,"$235,000 ",37.760857,-122.252464,CA,Condo,235000,"$331,000 ",,,,,Sold,ALAMEDA
+94501,2101 Mosley Ave,2.5,4,Alameda,"2,219 sqft",8-Oct-13,"$850,000 ",37.7806,-122.28816,CA,Single-Family Home,850000,"$907,000 ",,,,,Sold,ALAMEDA
+94501,389 Driftwood Ln,2.5,3,Alameda,"1,472 sqft",4-Oct-13,"$540,000 ",37.75076,-122.237724,CA,Townhouse,540000,"$530,000 ",,,,,Sold,ALAMEDA
+94502,1115 Holly St,2,2,Alameda,"1,274 sqft",4-Oct-13,"$480,000 ",37.73163,-122.23977,CA,Townhouse,480000,"$499,000 ",,,,,Sold,ALAMEDA
+94501,1433 Morton St #A,2,3,Alameda,"1,100 sqft",4-Oct-13,"$410,000 ",37.772324,-122.26251,CA,Condo,410000,"$472,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #224,1.5,2,Alameda,"1,145 sqft",4-Oct-13,"$396,000 ",37.75709,-122.25539,CA,Condo,396000,"$470,000 ",,,,,Sold,ALAMEDA
+94501,965 Shorepoint Ct #118,2,2,Alameda,995 sqft,4-Oct-13,"$360,000 ",37.762802,-122.26896,CA,Condo,360000,"$406,000 ",,,,,Sold,ALAMEDA
+94501,305 Grand St,2,4,Alameda,"1,411 sqft",4-Oct-13,"$621,000 ",37.75989,-122.26422,CA,Single-Family Home,621000,"$753,000 ",,,,,Sold,ALAMEDA
+94502,141 Stanbridge Ln,3,5,Alameda,"2,694 sqft",3-Oct-13,"$1,100,000 ",37.74477,-122.24944,CA,Single-Family Home,1100000,"$1,243,000 ",,,,,Sold,ALAMEDA
+94501,1717 8th St,1,3,Alameda,"1,800 sqft",3-Oct-13,"$730,000 ",37.7767,-122.27293,CA,Single-Family Home,730000,"$803,000 ",,,,,Sold,ALAMEDA
+94502,1126 Fontana Dr,2.5,3,Alameda,"1,584 sqft",2-Oct-13,"$516,000 ",37.734608,-122.24813,CA,Townhouse,516000,"$620,000 ",,,,,Sold,ALAMEDA
+94502,16 Sunny Cove Cir,2.5,3,Alameda,"2,209 sqft",1-Oct-13,"$905,000 ",37.74611,-122.24152,CA,Single-Family Home,905000,"$971,000 ",,,,,Sold,ALAMEDA
+94501,3260 Madison St,2,3,Alameda,"1,296 sqft",1-Oct-13,"$640,000 ",37.754086,-122.232834,CA,Single-Family Home,640000,"$695,000 ",,,,,Sold,ALAMEDA
+94501,1616 Lafayette St,1,3,Alameda,"2,010 sqft",1-Oct-13,"$760,000 ",37.77164,-122.25135,CA,Single-Family Home,760000,"$927,000 ",,,,,Sold,ALAMEDA
+94502,486 Mcdonnel Rd,2.5,2,Alameda,"1,519 sqft",30-Sep-13,"$595,000 ",37.737564,-122.25644,CA,Single-Family Home,595000,"$787,000 ",,,,,Sold,ALAMEDA
+94501,617 Pacific Ave #F,1,2,Alameda,802 sqft,30-Sep-13,"$370,000 ",37.77671,-122.27867,CA,Single-Family Home,370000,"$496,000 ",,,,,Sold,ALAMEDA
+94502,332 Oleander Ave,2,3,Alameda,"1,389 sqft",27-Sep-13,"$617,500 ",37.729904,-122.23465,CA,Single-Family Home,617500,"$679,000 ",,,,,Sold,ALAMEDA
+94501,1026 Doris Ct,1,2,Alameda,"1,082 sqft",27-Sep-13,"$605,000 ",37.7569,-122.24249,CA,Single-Family Home,605000,"$622,000 ",,,,,Sold,ALAMEDA
+94501,2140 Encinal Ave,1,1,Alameda,642 sqft,27-Sep-13,"$402,000 ",37.764557,-122.24962,CA,Single-Family Home,402000,"$413,000 ",,,,,Sold,ALAMEDA
+94501,1738 Cambridge Dr,2,4,Alameda,"2,576 sqft",27-Sep-13,"$1,101,000 ",37.764923,-122.23129,CA,Single-Family Home,1101000,"$1,206,000 ",,,,,Sold,ALAMEDA
+94501,1311 Webster St #E310,1,1,Alameda,701 sqft,27-Sep-13,"$212,000 ",37.77015,-122.276306,CA,Condo,212000,"$298,000 ",,,,,Sold,ALAMEDA
+94501,1825 Shoreline Dr #201,2,2,Alameda,979 sqft,27-Sep-13,"$442,000 ",37.75881,-122.261154,CA,Condo,442000,"$524,000 ",,,,,Sold,ALAMEDA
+94501,1735 Union St,1,2,Alameda,992 sqft,27-Sep-13,"$488,000 ",37.77367,-122.252686,CA,Single-Family Home,488000,"$583,000 ",,,,,Sold,ALAMEDA
+94502,14 Berkshire Rd,2.5,4,Alameda,"2,463 sqft",26-Sep-13,"$915,000 ",37.7455,-122.24794,CA,Single-Family Home,915000,"$1,111,000 ",,,,,Sold,ALAMEDA
+94501,1035 Central Ave,1,3,Alameda,"1,880 sqft",26-Sep-13,"$750,000 ",37.771473,-122.266426,CA,Single-Family Home,750000,"$832,000 ",,,,,Sold,ALAMEDA
+94501,1825 Shoreline Dr #217,1,2,Alameda,743 sqft,25-Sep-13,"$395,000 ",37.75881,-122.261154,CA,Condo,395000,"$474,000 ",,,,,Sold,ALAMEDA
+94501,1178 Park Ave,2.5,4,Alameda,"1,791 sqft",25-Sep-13,"$720,000 ",37.759537,-122.24446,CA,Single-Family Home,720000,"$848,000 ",,,,,Sold,ALAMEDA
+94502,175 Orr Rd,2.5,3,Alameda,"1,616 sqft",24-Sep-13,"$740,000 ",37.73571,-122.25242,CA,Single-Family Home,740000,"$813,000 ",,,,,Sold,ALAMEDA
+94501,2532 Lincoln Ave,1,2,Alameda,837 sqft,24-Sep-13,"$710,000 ",37.764843,-122.238,CA,Single-Family Home,710000,"$609,000 ",,,,,Sold,ALAMEDA
+94501,1541 Eastshore Dr,1.5,2,Alameda,"2,122 sqft",20-Sep-13,"$850,000 ",37.757133,-122.22622,CA,Single-Family Home,850000,"$977,000 ",,,,,Sold,ALAMEDA
+94502,1100 Bismarck Ln,2,2,Alameda,"1,274 sqft",20-Sep-13,"$530,000 ",37.73218,-122.2402,CA,Townhouse,530000,"$555,000 ",,,,,Sold,ALAMEDA
+94502,1029 Verdemar Dr,1.5,3,Alameda,"1,280 sqft",20-Sep-13,"$508,000 ",37.735928,-122.245605,CA,Townhouse,508000,"$496,000 ",,,,,Sold,ALAMEDA
+94501,255 Lina Ave,2.5,3,Alameda,"3,173 sqft",20-Sep-13,"$960,000 ",37.78398,-122.288765,CA,Single-Family Home,960000,"$1,073,000 ",,,,,Sold,ALAMEDA
+94501,1701 Central Ave #W,2,2,Alameda,"1,148 sqft",20-Sep-13,"$399,000 ",37.770462,-122.25643,CA,Condo,399000,"$438,000 ",,,,,Sold,ALAMEDA
+94501,1606 Broadway,1.5,2,Alameda,"1,260 sqft",19-Sep-13,"$500,000 ",37.764915,-122.23676,CA,Single-Family Home,500000,"$758,000 ",,,,,Sold,ALAMEDA
+94501,933 Shoreline Dr #205,2,2,Alameda,"1,360 sqft",17-Sep-13,"$428,000 ",37.76213,-122.2703,CA,Condo,428000,"$523,000 ",,,,,Sold,ALAMEDA
+94501,2051 Otis Dr,1,2,Alameda,930 sqft,17-Sep-13,"$360,000 ",37.761566,-122.25456,CA,Condo,360000,"$468,000 ",,,,,Sold,ALAMEDA
+94501,1550 Eastshore Dr,2,3,Alameda,"1,782 sqft",17-Sep-13,"$825,000 ",37.757683,-122.22604,CA,Single-Family Home,825000,"$994,000 ",,,,,Sold,ALAMEDA
+94502,1133 Island Dr,2.5,3,Alameda,"1,649 sqft",17-Sep-13,"$555,000 ",37.732445,-122.242615,CA,Townhouse,555000,"$630,000 ",,,,,Sold,ALAMEDA
+94502,29 Smith Ct,3,5,Alameda,"2,648 sqft",17-Sep-13,"$1,080,000 ",37.74027,-122.256714,CA,Single-Family Home,1080000,"$1,146,000 ",,,,,Sold,ALAMEDA
+94502,180 Sea Brg,2.5,3,Alameda,"1,962 sqft",17-Sep-13,"$725,000 ",37.74286,-122.23808,CA,Single-Family Home,725000,"$901,000 ",,,,,Sold,ALAMEDA
+94501,1338 Saint Charles St,3,3,Alameda,"2,316 sqft",17-Sep-13,"$1,315,000 ",37.770634,-122.26557,CA,Single-Family Home,1315000,"$1,244,000 ",,,,,Sold,ALAMEDA
+94502,205 Ratto Rd,3,4,Alameda,"2,325 sqft",17-Sep-13,"$917,000 ",37.73265,-122.247505,CA,Single-Family Home,917000,"$1,025,000 ",,,,,Sold,ALAMEDA
+94501,2022 High St #E,2,2,Alameda,"1,450 sqft",17-Sep-13,"$540,000 ",37.763824,-122.225426,CA,Condo,540000,"$557,000 ",,,,,Sold,ALAMEDA
+94502,246 Bannister Ct,2.5,2,Alameda,"1,519 sqft",16-Sep-13,"$630,000 ",37.73684,-122.253044,CA,Single-Family Home,630000,"$715,000 ",,,,,Sold,ALAMEDA
+94501,2853 Van Buren St,1,2,Alameda,"1,279 sqft",13-Sep-13,"$591,000 ",37.759636,-122.23516,CA,Single-Family Home,591000,"$727,000 ",,,,,Sold,ALAMEDA
+94502,121 Fundy Bay,2.5,3,Alameda,"1,972 sqft",13-Sep-13,"$805,000 ",37.738583,-122.248665,CA,Single-Family Home,805000,"$841,000 ",,,,,Sold,ALAMEDA
+94501,2627 Washington St,1,3,Alameda,"1,382 sqft",13-Sep-13,"$765,000 ",37.757412,-122.24168,CA,Single-Family Home,765000,"$783,000 ",,,,,Sold,ALAMEDA
+94502,392 Channing Way,2.5,4,Alameda,"2,344 sqft",13-Sep-13,"$1,211,000 ",37.74052,-122.24976,CA,Single-Family Home,1211000,"$1,091,000 ",,,,,Sold,ALAMEDA
+94501,2920 Windsor Dr,2,2,Alameda,"1,409 sqft",12-Sep-13,"$710,000 ",37.766193,-122.22937,CA,Single-Family Home,710000,"$791,000 ",,,,,Sold,ALAMEDA
+94501,763 Haight Ave,1,2,Alameda,834 sqft,12-Sep-13,"$550,000 ",37.774426,-122.27381,CA,Multi-Family,550000,,,,,,Sold,ALAMEDA
+94501,1642 Broadway,1,2,Alameda,"1,097 sqft",12-Sep-13,"$544,000 ",37.765747,-122.23608,CA,Single-Family Home,544000,"$702,000 ",,,,,Sold,ALAMEDA
+94501,2906 Encinal Ave,2,4,Alameda,"2,290 sqft",12-Sep-13,"$760,000 ",37.757404,-122.236374,CA,Single-Family Home,760000,"$940,000 ",,,,,Sold,ALAMEDA
+94501,3251 Thompson Ave,2,3,Alameda,"2,145 sqft",11-Sep-13,"$876,500 ",37.759693,-122.227135,CA,Single-Family Home,876500,"$1,035,000 ",,,,,Sold,ALAMEDA
+94501,2604 Bayview Dr,2,2,Alameda,"1,307 sqft",11-Sep-13,"$477,500 ",37.753113,-122.246315,CA,Single-Family Home,477500,"$621,000 ",,,,,Sold,ALAMEDA
+94502,116 Weymouth Ct,2,3,Alameda,"1,503 sqft",10-Sep-13,"$719,000 ",37.74556,-122.24448,CA,Single-Family Home,719000,"$747,000 ",,,,,Sold,ALAMEDA
+94501,1223 Saint Charles St,2,2,Alameda,"2,441 sqft",6-Sep-13,"$728,000 ",37.76756,-122.26639,CA,Single-Family Home,728000,"$1,068,000 ",,,,,Sold,ALAMEDA
+94501,2137 Otis Dr #301,2,2,Alameda,"1,187 sqft",6-Sep-13,"$320,500 ",37.760857,-122.252464,CA,Condo,320500,"$421,000 ",,,,,Sold,ALAMEDA
+94501,949 Eagle Ave,1,3,Alameda,"1,003 sqft",6-Sep-13,"$490,000 ",37.77824,-122.267975,CA,Single-Family Home,490000,"$650,000 ",,,,,Sold,ALAMEDA
+94501,312 Haight Ave,1,3,Alameda,"1,458 sqft",6-Sep-13,"$655,000 ",37.774216,-122.28736,CA,Single-Family Home,655000,"$736,000 ",,,,,Sold,ALAMEDA
+94501,537 Pacific Ave,,,Alameda,"4,522 sqft",6-Sep-13,"$914,000 ",37.77662,-122.280495,CA,Multi-Family,914000,,,,,,Sold,ALAMEDA
+94501,3222 Central Ave,2,4,Alameda,"2,120 sqft",5-Sep-13,"$925,000 ",37.75742,-122.23132,CA,Single-Family Home,925000,"$986,000 ",,,,,Sold,ALAMEDA
+94501,2137 Otis Dr #322,2,2,Alameda,"1,056 sqft",4-Sep-13,"$320,000 ",37.760857,-122.252464,CA,Condo,320000,"$429,000 ",,,,,Sold,ALAMEDA
+94501,1449 6th St,1,3,Alameda,"1,458 sqft",4-Sep-13,"$688,000 ",37.773136,-122.2797,CA,Single-Family Home,688000,"$715,000 ",,,,,Sold,ALAMEDA
+94501,2045 Buena Vista Ave,2,4,Alameda,"2,275 sqft",4-Sep-13,"$1,050,000 ",37.772125,-122.24795,CA,Single-Family Home,1050000,"$1,082,000 ",,,,,Sold,ALAMEDA
+94501,2828 Encinal Ave,1,2,Alameda,858 sqft,3-Sep-13,"$550,000 ",37.75829,-122.23755,CA,Single-Family Home,550000,"$582,000 ",,,,,Sold,ALAMEDA
+94502,3340 Fir Ave,1.5,3,Alameda,"1,320 sqft",30-Aug-13,"$368,000 ",37.731934,-122.23974,CA,Townhouse,368000,"$525,000 ",,,,,Sold,ALAMEDA
+94502,241 Riddell Ln,2,2,Alameda,"1,419 sqft",30-Aug-13,"$503,000 ",37.745556,-122.24287,CA,Condo,503000,"$599,000 ",,,,,Sold,ALAMEDA
+94501,2388 Mosley Ave,3.5,3,Alameda,"3,453 sqft",30-Aug-13,"$950,000 ",37.783627,-122.287964,CA,Single-Family Home,950000,"$1,189,000 ",,,,,Sold,ALAMEDA
+94502,222 Ratto Rd,2.5,3,Alameda,"2,028 sqft",30-Aug-13,"$839,000 ",37.73212,-122.24761,CA,Single-Family Home,839000,"$933,000 ",,,,,Sold,ALAMEDA
+94501,615 Willow St #B,1,2,Alameda,858 sqft,30-Aug-13,"$305,000 ",37.761566,-122.25456,CA,Condo,305000,"$408,000 ",,,,,Sold,ALAMEDA
+94501,1419 Caroline St,1,2,Alameda,"1,100 sqft",30-Aug-13,"$580,000 ",37.77187,-122.268425,CA,Single-Family Home,580000,"$609,000 ",,,,,Sold,ALAMEDA
+94501,2331 Haile St,2.5,4,Alameda,"2,219 sqft",30-Aug-13,"$765,000 ",37.783024,-122.28333,CA,Single-Family Home,765000,"$890,000 ",,,,,Sold,ALAMEDA
+94501,1001 Shoreline Dr #408,2,2,Alameda,"1,360 sqft",30-Aug-13,"$450,000 ",37.76186,-122.26957,CA,Condo,450000,"$509,000 ",,,,,Sold,ALAMEDA
+94501,1170 9th St #13,1,1,Alameda,577 sqft,29-Aug-13,"$187,000 ",37.768623,-122.270096,CA,Condo,187000,"$289,000 ",,,,,Sold,ALAMEDA
+94501,1197 9th St,1.5,3,Alameda,"1,189 sqft",29-Aug-13,"$620,000 ",37.76923,-122.270966,CA,Single-Family Home,620000,"$701,000 ",,,,,Sold,ALAMEDA
+94501,239 Jack London Ave,3.5,3,Alameda,"3,453 sqft",28-Aug-13,"$1,010,000 ",37.781986,-122.28916,CA,Single-Family Home,1010000,"$1,122,000 ",,,,,Sold,ALAMEDA
+94501,1327 Webster St #B311,1,2,Alameda,843 sqft,28-Aug-13,"$295,000 ",37.770317,-122.277985,CA,Condo,295000,"$368,000 ",,,,,Sold,ALAMEDA
+94501,617 Pacific Ave #D,1,2,Alameda,830 sqft,28-Aug-13,"$364,000 ",37.77686,-122.27844,CA,Single-Family Home,364000,"$485,000 ",,,,,Sold,ALAMEDA
+94502,1017 Kingston Ln,2.5,4,Alameda,"1,716 sqft",28-Aug-13,"$575,000 ",37.731464,-122.234886,CA,Townhouse,575000,"$611,000 ",,,,,Sold,ALAMEDA
+94501,1825 Shoreline Dr #214,2,2,Alameda,979 sqft,27-Aug-13,"$406,000 ",37.75881,-122.261154,CA,Condo,406000,"$480,000 ",,,,,Sold,ALAMEDA
+94501,2914 Bayview Dr,2,3,Alameda,"1,716 sqft",27-Aug-13,"$770,000 ",37.751713,-122.24211,CA,Single-Family Home,770000,"$861,000 ",,,,,Sold,ALAMEDA
+94501,2904 Johnson Ave,2,3,Alameda,"1,300 sqft",26-Aug-13,"$715,000 ",37.761402,-122.233345,CA,Single-Family Home,715000,"$760,000 ",,,,,Sold,ALAMEDA
+94501,1568 Pacific Ave,,,Alameda,"1,591 sqft",26-Aug-13,"$480,000 ",37.774696,-122.257996,CA,Multi-Family,480000,"$638,000 ",,,,,Sold,ALAMEDA
+94501,1608 Lafayette St,1,3,Alameda,"1,712 sqft",23-Aug-13,"$40,000 ",37.771454,-122.25147,CA,Single-Family Home,40000,"$872,000 ",,,,,Sold,ALAMEDA
+94501,609 Glenwood Isle,2,3,Alameda,"2,092 sqft",23-Aug-13,"$828,000 ",37.762165,-122.25617,CA,Single-Family Home,828000,"$993,000 ",,,,,Sold,ALAMEDA
+94501,1519 Central Ave #D,2,2,Alameda,"1,106 sqft",22-Aug-13,"$395,000 ",37.771305,-122.25991,CA,Condo,395000,"$482,000 ",,,,,Sold,ALAMEDA
+94501,1800 Nason St,1.5,2,Alameda,"1,598 sqft",21-Aug-13,"$635,000 ",37.777256,-122.271164,CA,Single-Family Home,635000,"$671,000 ",,,,,Sold,ALAMEDA
+94501,421 Grand St,2,3,Alameda,"1,508 sqft",20-Aug-13,"$653,000 ",37.761375,-122.26334,CA,Single-Family Home,653000,"$764,000 ",,,,,Sold,ALAMEDA
+94501,1305 Mound St,2,3,Alameda,"1,249 sqft",20-Aug-13,"$740,000 ",37.758156,-122.23649,CA,Single-Family Home,740000,"$728,000 ",,,,,Sold,ALAMEDA
+94501,1321 Webster St #D100,1,2,Alameda,843 sqft,19-Aug-13,"$322,000 ",37.769863,-122.277695,CA,Condo,322000,"$371,000 ",,,,,Sold,ALAMEDA
+94501,916 Paru St,1,4,Alameda,"2,431 sqft",16-Aug-13,"$1,331,000 ",37.767105,-122.26102,CA,Single-Family Home,1331000,"$1,023,000 ",,,,,Sold,ALAMEDA
+94502,3031 Alta Vis,2.5,3,Alameda,"1,584 sqft",16-Aug-13,"$525,000 ",37.736652,-122.24575,CA,Townhouse,525000,"$556,000 ",,,,,Sold,ALAMEDA
+94501,960 Shorepoint Ct #208,1,1,Alameda,798 sqft,16-Aug-13,"$300,000 ",37.762737,-122.270035,CA,Condo,300000,"$341,000 ",,,,,Sold,ALAMEDA
+94501,1701 Central Ave #H,2,2,Alameda,"1,176 sqft",16-Aug-13,"$412,000 ",37.770462,-122.25643,CA,Condo,412000,"$457,000 ",,,,,Sold,ALAMEDA
+94502,1037 Camino Del Valle,3,4,Alameda,"1,628 sqft",16-Aug-13,"$560,000 ",37.735462,-122.244194,CA,Townhouse,560000,"$617,000 ",,,,,Sold,ALAMEDA
+94502,1107 Fontana Dr,2.5,3,Alameda,"1,584 sqft",16-Aug-13,"$480,000 ",37.73505,-122.24851,CA,Townhouse,480000,"$620,000 ",,,,,Sold,ALAMEDA
+94502,418 Mcdonnel Rd,2.5,3,Alameda,"1,625 sqft",15-Aug-13,"$675,000 ",37.736988,-122.25576,CA,Single-Family Home,675000,"$797,000 ",,,,,Sold,ALAMEDA
+94501,2527 Lincoln Ave,2,5,Alameda,"1,794 sqft",15-Aug-13,"$605,000 ",37.765263,-122.23771,CA,Multi-Family,605000,,,,,,Sold,ALAMEDA
+94502,214 Diapian Bay,2.5,3,Alameda,"1,972 sqft",15-Aug-13,"$810,000 ",37.739296,-122.247795,CA,Single-Family Home,810000,"$846,000 ",,,,,Sold,ALAMEDA
+94501,2138 Santa Clara Ave,2,4,Alameda,"2,623 sqft",14-Aug-13,"$862,000 ",37.767452,-122.247795,CA,Single-Family Home,862000,"$1,017,000 ",,,,,Sold,ALAMEDA
+94502,1075 Mangrove Ln,2.5,3,Alameda,"1,642 sqft",14-Aug-13,"$550,000 ",37.73068,-122.23501,CA,Townhouse,550000,"$568,000 ",,,,,Sold,ALAMEDA
+94501,2612 Encinal Ave,1,2,Alameda,806 sqft,14-Aug-13,"$450,000 ",37.760098,-122.24037,CA,Single-Family Home,450000,"$566,000 ",,,,,Sold,ALAMEDA
+94501,1518 Paru St,1,2,Alameda,"1,352 sqft",13-Aug-13,"$560,000 ",37.77275,-122.25718,CA,Single-Family Home,560000,"$700,000 ",,,,,Sold,ALAMEDA
+94501,1038 Central Ave,1,2,Alameda,"1,074 sqft",9-Aug-13,"$605,000 ",37.7709,-122.26752,CA,Single-Family Home,605000,"$610,000 ",,,,,Sold,ALAMEDA
+94502,602 Ironwood Rd,,,Alameda,"1,534 sqft",9-Aug-13,"$518,000 ",37.739105,-122.24458,CA,Townhouse,518000,"$671,000 ",,,,,Sold,ALAMEDA
+94501,1500 Alameda Ave #B,1,1,Alameda,752 sqft,9-Aug-13,"$215,000 ",37.770596,-122.26089,CA,Condo,215000,"$323,000 ",,,,,Sold,ALAMEDA
+94502,301 Maitland Dr,2,4,Alameda,"1,500 sqft",9-Aug-13,"$613,000 ",37.732937,-122.23303,CA,Multi-Family,613000,"$705,000 ",,,,,Sold,ALAMEDA
+94501,900 Otis Dr,4,5,Alameda,"4,358 sqft",9-Aug-13,"$1,000,000 ",37.765938,-122.27124,CA,Single-Family Home,1000000,"$1,232,000 ",,,,,Sold,ALAMEDA
+94501,1522 High St,1,2,Alameda,"1,446 sqft",9-Aug-13,"$650,000 ",37.759537,-122.23015,CA,Single-Family Home,650000,"$775,000 ",,,,,Sold,ALAMEDA
+94501,960 Shorepoint Ct #113,2,2,Alameda,937 sqft,8-Aug-13,"$320,000 ",37.762737,-122.270035,CA,Condo,320000,"$381,000 ",,,,,Sold,ALAMEDA
+94502,3514 Savana Ln,1.5,3,Alameda,"1,334 sqft",7-Aug-13,"$500,000 ",37.73194,-122.23464,CA,Townhouse,500000,"$549,000 ",,,,,Sold,ALAMEDA
+94501,1607 Bay St,4.5,6,Alameda,"3,500 sqft",6-Aug-13,"$765,000 ",37.77517,-122.26484,CA,Multi-Family,765000,,,,,,Sold,ALAMEDA
+94501,1803 Lincoln Ave,2,4,Alameda,"1,856 sqft",6-Aug-13,"$545,000 ",37.772167,-122.25332,CA,Multi-Family,545000,"$697,000 ",,,,,Sold,ALAMEDA
+94502,3170 Fir Ave,2,2,Alameda,"1,274 sqft",5-Aug-13,"$481,000 ",37.733604,-122.243385,CA,Townhouse,481000,"$509,000 ",,,,,Sold,ALAMEDA
+94501,1263 Hawthorne St,1.5,2,Alameda,"1,492 sqft",5-Aug-13,"$700,000 ",37.76895,-122.26738,CA,Single-Family Home,700000,"$720,000 ",,,,,Sold,ALAMEDA
+94501,2146 San Jose Ave,2,3,Alameda,"1,350 sqft",2-Aug-13,"$800,000 ",37.762745,-122.25062,CA,Single-Family Home,800000,"$779,000 ",,,,,Sold,ALAMEDA
+94501,955 Shorepoint Ct #308,2,2,Alameda,995 sqft,2-Aug-13,"$400,000 ",37.762802,-122.26896,CA,Condo,400000,"$422,000 ",,,,,Sold,ALAMEDA
+94502,7 Castlebar Pl,4.5,4,Alameda,"4,958 sqft",1-Aug-13,"$1,310,000 ",37.74614,-122.25428,CA,Single-Family Home,1310000,"$1,619,000 ",,,,,Sold,ALAMEDA
+94501,1105 Pacific Ave,1,3,Alameda,"1,081 sqft",1-Aug-13,"$440,000 ",37.776184,-122.26545,CA,Single-Family Home,440000,"$645,000 ",,,,,Sold,ALAMEDA
+94502,1082 Jost Ln,1.5,2,Alameda,"1,254 sqft",1-Aug-13,"$455,000 ",37.73195,-122.23725,CA,Townhouse,455000,"$500,000 ",,,,,Sold,ALAMEDA
+94501,749 Santa Clara Ave,4,6,Alameda,"3,058 sqft",31-Jul-13,"$833,000 ",37.77353,-122.2746,CA,Multi-Family,833000,,,,,,Sold,ALAMEDA
+94501,1022 Otis Dr,,,Alameda,"2,842 sqft",31-Jul-13,"$800,000 ",37.76519,-122.26867,CA,Single-Family Home,800000,"$920,000 ",,,,,Sold,ALAMEDA
+94502,2820 Burgner Ave,2.5,2,Alameda,"1,198 sqft",31-Jul-13,"$560,000 ",37.735004,-122.24964,CA,Single-Family Home,560000,"$666,000 ",,,,,Sold,ALAMEDA
+94501,1917 Paru St,2.5,3,Alameda,"2,185 sqft",31-Jul-13,"$739,000 ",37.776688,-122.25509,CA,Single-Family Home,739000,"$947,000 ",,,,,Sold,ALAMEDA
+94502,910 Ironwood Rd,,,Alameda,"2,018 sqft",31-Jul-13,"$625,000 ",37.739746,-122.2438,CA,Townhouse,625000,"$721,000 ",,,,,Sold,ALAMEDA
+94502,135 Parfait Ln,2,2,Alameda,"1,419 sqft",31-Jul-13,"$550,000 ",37.745472,-122.24235,CA,Condo,550000,"$596,000 ",,,,,Sold,ALAMEDA
+94502,245 Creedon Cir,4.5,6,Alameda,"3,461 sqft",31-Jul-13,"$1,700,000 ",37.742462,-122.26071,CA,Single-Family Home,1700000,"$1,717,000 ",,,,,Sold,ALAMEDA
+94501,887 Oak St,2,3,Alameda,"2,184 sqft",31-Jul-13,"$640,000 ",37.760136,-122.24768,CA,Single-Family Home,640000,"$805,000 ",,,,,Sold,ALAMEDA
+94502,31 Coleport Lndg,2.5,4,Alameda,"2,536 sqft",31-Jul-13,"$1,000,000 ",37.742203,-122.24053,CA,Single-Family Home,1000000,"$1,210,000 ",,,,,Sold,ALAMEDA
+94501,2381 Mosley Ave,3.5,4,Alameda,"3,743 sqft",30-Jul-13,"$1,025,000 ",37.783634,-122.28849,CA,Single-Family Home,1025000,"$1,229,000 ",,,,,Sold,ALAMEDA
+94501,2035 Otis Dr #E,1,2,Alameda,835 sqft,30-Jul-13,"$334,000 ",37.761566,-122.25456,CA,Condo,334000,"$404,000 ",,,,,Sold,ALAMEDA
+94501,2262 San Jose Ave #A,1,1,Alameda,572 sqft,30-Jul-13,"$380,000 ",37.761196,-122.24707,CA,Single-Family Home,380000,"$419,000 ",,,,,Sold,ALAMEDA
+94501,814 Lincoln Ave,1,2,Alameda,"1,118 sqft",29-Jul-13,"$415,000 ",37.774757,-122.27182,CA,Single-Family Home,415000,"$615,000 ",,,,,Sold,ALAMEDA
+94501,1106 Oak St,3.5,4,Alameda,"2,682 sqft",26-Jul-13,"$800,000 ",37.762295,-122.24556,CA,Single-Family Home,800000,"$1,087,000 ",,,,,Sold,ALAMEDA
+94501,308 Santa Clara Ave,2,3,Alameda,"1,300 sqft",26-Jul-13,"$625,000 ",37.773304,-122.28766,CA,Single-Family Home,625000,"$719,000 ",,,,,Sold,ALAMEDA
+94501,420 Kitty Hawk Rd,2,3,Alameda,"1,569 sqft",26-Jul-13,"$641,000 ",37.760376,-122.25943,CA,Single-Family Home,641000,"$825,000 ",,,,,Sold,ALAMEDA
+94501,421 Cola Ballena,2.5,4,Alameda,"2,662 sqft",26-Jul-13,"$775,500 ",37.768787,-122.28502,CA,Townhouse,775500,"$834,000 ",,,,,Sold,ALAMEDA
+94502,806 Flower Ln,1.5,3,Alameda,"1,098 sqft",26-Jul-13,"$530,000 ",37.73548,-122.23642,CA,Single-Family Home,530000,"$579,000 ",,,,,Sold,ALAMEDA
+94501,1010 San Antonio Ave,1,2,Alameda,"1,504 sqft",25-Jul-13,"$725,000 ",37.769176,-122.2684,CA,Single-Family Home,725000,"$695,000 ",,,,,Sold,ALAMEDA
+94501,2904 Otis Dr,2.5,3,Alameda,"1,879 sqft",24-Jul-13,"$649,000 ",37.753098,-122.24115,CA,Single-Family Home,649000,"$897,000 ",,,,,Sold,ALAMEDA
+94501,1733 San Jose Ave,1.5,4,Alameda,"2,596 sqft",24-Jul-13,"$910,000 ",37.766453,-122.2579,CA,Single-Family Home,910000,"$1,020,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #446,1.5,2,Alameda,"1,015 sqft",24-Jul-13,"$425,000 ",37.75709,-122.25539,CA,Condo,425000,"$460,000 ",,,,,Sold,ALAMEDA
+94501,2067 Whitehall Pl,2.5,2,Alameda,"1,550 sqft",24-Jul-13,"$440,000 ",37.760048,-122.255394,CA,Condo,440000,"$604,000 ",,,,,Sold,ALAMEDA
+94501,1531 Walnut St,1.5,2,Alameda,"1,240 sqft",23-Jul-13,"$350,000 ",37.768154,-122.24582,CA,Single-Family Home,350000,"$648,000 ",,,,,Sold,ALAMEDA
+94501,1722 Everett St,1,2,Alameda,"1,597 sqft",23-Jul-13,"$469,000 ",37.767548,-122.23718,CA,Single-Family Home,469000,"$822,000 ",,,,,Sold,ALAMEDA
+94501,401 Camden Rd,2,3,Alameda,"1,705 sqft",23-Jul-13,"$764,000 ",37.759,-122.25792,CA,Single-Family Home,764000,"$860,000 ",,,,,Sold,ALAMEDA
+94501,1020 Broadway,2,3,Alameda,"2,117 sqft",23-Jul-13,"$633,000 ",37.755985,-122.244064,CA,Single-Family Home,633000,"$870,000 ",,,,,Sold,ALAMEDA
+94502,101 Orr Rd,2.5,3,Alameda,"1,458 sqft",23-Jul-13,"$653,000 ",37.736675,-122.25271,CA,Single-Family Home,653000,"$752,000 ",,,,,Sold,ALAMEDA
+94501,728 Lincoln Ave,1,3,Alameda,"1,223 sqft",19-Jul-13,"$515,000 ",37.774876,-122.27527,CA,Single-Family Home,515000,"$642,000 ",,,,,Sold,ALAMEDA
+94502,1077 Camellia Dr,2,3,Alameda,"1,597 sqft",19-Jul-13,"$495,000 ",37.73267,-122.23986,CA,Single-Family Home,495000,"$719,000 ",,,,,Sold,ALAMEDA
+94502,704 Harbor Rd,,,Alameda,"1,197 sqft",17-Jul-13,"$472,000 ",37.747063,-122.25118,CA,Townhouse,472000,"$584,000 ",,,,,Sold,ALAMEDA
+94501,1107 Oak St #A,2,3,Alameda,"3,042 sqft",16-Jul-13,"$720,000 ",37.762566,-122.245964,CA,Multi-Family,720000,"$826,000 ",,,,,Sold,ALAMEDA
+94502,11 Ulster Pl,2.5,4,Alameda,"1,736 sqft",16-Jul-13,"$840,000 ",37.74387,-122.253685,CA,Single-Family Home,840000,"$948,000 ",,,,,Sold,ALAMEDA
+94501,1830 9th St,1,3,Alameda,"1,264 sqft",16-Jul-13,"$608,000 ",37.77806,-122.27004,CA,Single-Family Home,608000,"$629,000 ",,,,,Sold,ALAMEDA
+94501,2011 Encinal Ave,1,2,Alameda,"1,237 sqft",16-Jul-13,"$520,000 ",37.766808,-122.25321,CA,Single-Family Home,520000,"$645,000 ",,,,,Sold,ALAMEDA
+94502,3120 El Portal,1.5,2,Alameda,"1,188 sqft",16-Jul-13,"$400,000 ",37.73595,-122.24421,CA,Townhouse,400000,"$503,000 ",,,,,Sold,ALAMEDA
+94501,2040 San Antonio Ave,2,3,Alameda,"1,488 sqft",15-Jul-13,"$835,000 ",37.764923,-122.25303,CA,Single-Family Home,835000,"$834,000 ",,,,,Sold,ALAMEDA
+94502,38 Argus Ct,2.5,3,Alameda,"1,616 sqft",15-Jul-13,"$735,000 ",37.735783,-122.2527,CA,Single-Family Home,735000,"$809,000 ",,,,,Sold,ALAMEDA
+94501,1221 Otis Dr,2,3,Alameda,"1,243 sqft",12-Jul-13,"$680,000 ",37.76382,-122.26354,CA,Single-Family Home,680000,"$712,000 ",,,,,Sold,ALAMEDA
+94501,2801 Buena Vista Ave,1,3,Alameda,"1,836 sqft",12-Jul-13,"$850,000 ",37.76481,-122.23347,CA,Single-Family Home,850000,"$1,014,000 ",,,,,Sold,ALAMEDA
+94501,1809 Versailles Ave,3,4,Alameda,"2,424 sqft",12-Jul-13,"$1,160,000 ",37.7662,-122.233055,CA,Single-Family Home,1160000,"$1,211,000 ",,,,,Sold,ALAMEDA
+94502,3027 Flora Vis,2.5,3,Alameda,"1,584 sqft",12-Jul-13,"$551,500 ",37.73478,-122.24705,CA,Townhouse,551500,"$620,000 ",,,,,Sold,ALAMEDA
+94501,2529 Noble Ave,1,2,Alameda,"1,146 sqft",12-Jul-13,"$650,000 ",37.76606,-122.23717,CA,Single-Family Home,650000,"$687,000 ",,,,,Sold,ALAMEDA
+94501,1406 Santa Clara Ave,2,3,Alameda,"2,112 sqft",12-Jul-13,"$1,111,000 ",37.772575,-122.2617,CA,Single-Family Home,1111000,"$1,038,000 ",,,,,Sold,ALAMEDA
+94502,1124 Fontana Dr,1.5,3,Alameda,"1,280 sqft",12-Jul-13,"$510,000 ",37.73466,-122.2481,CA,Townhouse,510000,"$481,000 ",,,,,Sold,ALAMEDA
+94502,160 Mecartney Rd,1,4,Alameda,"1,589 sqft",11-Jul-13,"$620,000 ",37.73385,-122.23487,CA,Single-Family Home,620000,"$734,000 ",,,,,Sold,ALAMEDA
+94501,1434 Paru St,1,2,Alameda,966 sqft,11-Jul-13,"$550,000 ",37.771816,-122.25785,CA,Single-Family Home,550000,"$641,000 ",,,,,Sold,ALAMEDA
+94501,1439 Eastshore Dr,3.5,4,Alameda,"2,401 sqft",11-Jul-13,"$900,000 ",37.755642,-122.2269,CA,Single-Family Home,900000,"$1,009,000 ",,,,,Sold,ALAMEDA
+94501,1305 Webster St #C311,1,2,Alameda,843 sqft,10-Jul-13,"$285,000 ",37.77053,-122.27657,CA,Condo,285000,"$386,000 ",,,,,Sold,ALAMEDA
+94501,3021 Lincoln Ave,1.5,3,Alameda,"2,082 sqft",10-Jul-13,"$875,000 ",37.761078,-122.23029,CA,Single-Family Home,875000,"$894,000 ",,,,,Sold,ALAMEDA
+94501,325 Kitty Hawk Rd #216,1,2,Alameda,771 sqft,10-Jul-13,"$290,000 ",37.759315,-122.26086,CA,Condo,290000,"$393,000 ",,,,,Sold,ALAMEDA
+94501,1610 High St,1,2,Alameda,"1,274 sqft",10-Jul-13,"$817,500 ",37.76049,-122.22923,CA,Single-Family Home,817500,"$748,000 ",,,,,Sold,ALAMEDA
+94501,1604 Fernside Blvd,1.5,2,Alameda,"1,972 sqft",10-Jul-13,"$840,000 ",37.757812,-122.22624,CA,Single-Family Home,840000,"$925,000 ",,,,,Sold,ALAMEDA
+94502,1073 Holly St,2.5,5,Alameda,"2,207 sqft",9-Jul-13,"$750,000 ",37.73251,-122.238914,CA,Single-Family Home,750000,"$845,000 ",,,,,Sold,ALAMEDA
+94501,1825 Shoreline Dr #211,1,1,Alameda,621 sqft,9-Jul-13,"$261,500 ",37.75881,-122.261154,CA,Condo,261500,"$353,000 ",,,,,Sold,ALAMEDA
+94501,2626 Encinal Ave,4,5,Alameda,"3,154 sqft",9-Jul-13,"$840,000 ",37.759766,-122.23977,CA,Multi-Family,840000,"$946,000 ",,,,,Sold,ALAMEDA
+94501,926 Pearl St,1.5,3,Alameda,"1,447 sqft",9-Jul-13,"$777,000 ",37.754505,-122.24347,CA,Single-Family Home,777000,"$825,000 ",,,,,Sold,ALAMEDA
+94501,1804 9th St,2,3,Alameda,"1,351 sqft",8-Jul-13,"$720,000 ",37.77736,-122.27007,CA,Single-Family Home,720000,"$697,000 ",,,,,Sold,ALAMEDA
+94502,3 Dwinelle Ct,2.5,3,Alameda,"1,371 sqft",5-Jul-13,"$600,000 ",37.72919,-122.23665,CA,Single-Family Home,600000,"$750,000 ",,,,,Sold,ALAMEDA
+94502,2988 Via Bahia,2.5,4,Alameda,"1,628 sqft",5-Jul-13,"$542,000 ",37.736504,-122.24791,CA,Townhouse,542000,"$604,000 ",,,,,Sold,ALAMEDA
+94501,624 Tarryton Isle,2,4,Alameda,"1,841 sqft",3-Jul-13,"$810,000 ",37.766502,-122.26886,CA,Single-Family Home,810000,"$855,000 ",,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #262,1.5,2,Alameda,"1,145 sqft",3-Jul-13,"$385,000 ",37.75709,-122.25539,CA,Condo,385000,"$473,000 ",,,,,Sold,ALAMEDA
+94501,2137 Otis Dr #216,1,1,Alameda,778 sqft,3-Jul-13,"$275,000 ",37.760857,-122.252464,CA,Condo,275000,"$334,000 ",,,,,Sold,ALAMEDA
+94501,2211 Chipman St,3,3,Alameda,"3,179 sqft",3-Jul-13,"$900,000 ",37.781372,-122.282974,CA,Single-Family Home,900000,"$1,210,000 ",,,,,Sold,ALAMEDA
+94501,2155 Encinal Ave,4,3,Alameda,"2,616 sqft",3-Jul-13,"$739,000 ",37.764874,-122.24877,CA,Multi-Family,739000,,,,,,Sold,ALAMEDA
+94501,1525 Saint Charles St,2.5,5,Alameda,"3,082 sqft",3-Jul-13,"$912,000 ",37.77379,-122.26625,CA,Multi-Family,912000,,,,,,Sold,ALAMEDA
+94501,2101 Shoreline Dr #471,1.5,2,Alameda,"1,015 sqft",3-Jul-13,"$422,500 ",37.75709,-122.25539,CA,Condo,422500,"$464,000 ",,,,,Sold,ALAMEDA
+94501,1735 Broadway,1,2,Alameda,"1,231 sqft",2-Jul-13,"$626,000 ",37.767014,-122.23566,CA,Single-Family Home,626000,"$725,000 ",,,,,Sold,ALAMEDA
+94501,415 Cola Ballena,2,4,Alameda,"2,662 sqft",2-Jul-13,"$889,000 ",37.76895,-122.28522,CA,Townhouse,889000,"$820,000 ",,,,,Sold,ALAMEDA
+94501,960 Shorepoint Ct #200,2,2,Alameda,944 sqft,2-Jul-13,"$350,000 ",37.762737,-122.270035,CA,Condo,350000,"$415,000 ",,,,,Sold,ALAMEDA
+94502,3151 Santa Cruz Ln,2,2,Alameda,"1,274 sqft",2-Jul-13,"$450,000 ",37.73359,-122.24425,CA,Townhouse,450000,"$556,000 ",,,,,Sold,ALAMEDA
+94502,1022 Trellis Ln,2,2,Alameda,"1,247 sqft",1-Jul-13,"$515,000 ",37.733765,-122.23616,CA,Townhouse,515000,"$553,000 ",,,,,Sold,ALAMEDA
+94501,1034 Taylor Ave,,,Alameda,"1,916 sqft",1-Jul-13,"$475,000 ",37.771877,-122.26651,CA,Multi-Family,475000,"$611,000 ",,,,,Sold,ALAMEDA
+94502,75 Sea Brg,2.5,4,Alameda,"2,325 sqft",1-Jul-13,"$815,000 ",37.744003,-122.23995,CA,Single-Family Home,815000,"$1,042,000 ",,,,,Sold,ALAMEDA
+94501,1030 Broadway,1,2,Alameda,"1,010 sqft",28-Jun-13,"$681,000 ",37.75626,-122.243835,CA,Single-Family Home,681000,"$540,000 ",,,,,Sold,ALAMEDA
+94501,2417 Marti Rae Ct,1,1,Alameda,798 sqft,28-Jun-13,"$456,000 ",37.762623,-122.243065,CA,Single-Family Home,456000,"$509,000 ",,,,,Sold,ALAMEDA
+94501,1522 Willow St,2,2,Alameda,"1,196 sqft",28-Jun-13,"$630,000 ",37.769005,-122.24828,CA,Single-Family Home,630000,"$605,000 ",,,,,Sold,ALAMEDA
+94501,1626 Alameda Ave,5,4,Alameda,"4,416 sqft",28-Jun-13,"$935,000 ",37.769516,-122.25823,CA,Multi-Family,935000,"$1,125,000 ",,,,,Sold,ALAMEDA
+94501,2015 Otis Dr,2,3,Alameda,"1,607 sqft",27-Jun-13,"$799,000 ",37.761627,-122.25571,CA,Single-Family Home,799000,"$872,000 ",,,,,Sold,ALAMEDA
+94501,1008 Pearl St,1,2,Alameda,"1,184 sqft",26-Jun-13,"$640,000 ",37.75616,-122.24207,CA,Single-Family Home,640000,"$631,000 ",,,,,Sold,ALAMEDA
+94501,911 Taylor Ave,2,4,Alameda,"1,705 sqft",26-Jun-13,"$738,500 ",37.772514,-122.269936,CA,Multi-Family,738500,"$927,000 ",,,,,Sold,ALAMEDA
+94501,1514 Pacific Ave,1.5,3,Alameda,"1,804 sqft",26-Jun-13,"$509,000 ",37.775352,-122.26001,CA,Single-Family Home,509000,"$790,000 ",,,,,Sold,ALAMEDA
+94501,3231 Sterling Ave,1,3,Alameda,"1,330 sqft",26-Jun-13,"$750,000 ",37.757084,-122.23132,CA,Single-Family Home,750000,"$753,000 ",,,,,Sold,ALAMEDA
+94501,1024 Santa Clara Ave,,,Alameda,"2,571 sqft",26-Jun-13,"$683,000 ",37.772762,-122.26681,CA,Multi-Family,683000,"$706,000 ",,,,,Sold,ALAMEDA
+94501,960 Shorepoint Ct #310,1,1,Alameda,640 sqft,25-Jun-13,"$175,000 ",37.762737,-122.270035,CA,Condo,175000,"$291,000 ",,,,,Sold,ALAMEDA
+94501,311 Hollister Ave,2.5,3,Alameda,"3,173 sqft",25-Jun-13,"$910,000 ",37.78062,-122.28726,CA,Single-Family Home,910000,"$1,027,000 ",,,,,Sold,ALAMEDA
+94501,1311 Webster St #E205,1,1,Alameda,701 sqft,24-Jun-13,"$225,000 ",37.77015,-122.276306,CA,Condo,225000,"$298,000 ",,,,,Sold,ALAMEDA
+94501,2717 Santa Clara Ave,1,3,Alameda,"1,688 sqft",24-Jun-13,"$800,000 ",37.76257,-122.23587,CA,Single-Family Home,800000,"$881,000 ",,,,,Sold,ALAMEDA
+94501,2901 Madison St,1.5,2,Alameda,"1,172 sqft",24-Jun-13,"$635,000 ",37.757324,-122.23681,CA,Single-Family Home,635000,"$681,000 ",,,,,Sold,ALAMEDA

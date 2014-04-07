@@ -1,0 +1,69 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94303,2653 Fordham St,1,3,East Palo Alto,"1,010 sqft",7-Feb-14,"$370,000 ",37.47738,-122.137535,CA,Single-Family Home,370000,"$442,000 ",,,,,Sold,SAN MATEO
+94303,1220 Westminster Ave,2,4,East Palo Alto,"1,690 sqft",5-Feb-14,"$521,500 ",37.47277,-122.15228,CA,Single-Family Home,521500,"$619,000 ",,,,,Sold,SAN MATEO
+94303,172 Jasmine Way,2,4,East Palo Alto,"2,300 sqft",31-Jan-14,"$630,000 ",37.45652,-122.12352,CA,Single-Family Home,630000,"$641,000 ",,,,,Sold,SAN MATEO
+94303,2146 Oakwood Dr,1,2,East Palo Alto,920 sqft,30-Jan-14,"$415,000 ",37.465755,-122.14732,CA,Single-Family Home,415000,"$416,000 ",,,,,Sold,SAN MATEO
+94303,2768 Gonzaga St,1,3,East Palo Alto,"1,010 sqft",30-Jan-14,"$410,000 ",37.47923,-122.135056,CA,Single-Family Home,410000,"$446,000 ",,,,,Sold,SAN MATEO
+94303,2578 Gonzaga St,1,3,East Palo Alto,"1,010 sqft",30-Jan-14,"$327,000 ",37.475494,-122.136024,CA,Single-Family Home,327000,"$441,000 ",,,,,Sold,SAN MATEO
+94303,2164 Poplar Ave,1,1,East Palo Alto,480 sqft,24-Jan-14,"$288,000 ",37.466595,-122.14972,CA,Single-Family Home,288000,"$422,000 ",,,,,Sold,SAN MATEO
+94303,2544 Hazelwood Way,2,3,East Palo Alto,"1,100 sqft",24-Jan-14,"$475,000 ",37.473907,-122.14256,CA,Single-Family Home,475000,"$478,000 ",,,,,Sold,SAN MATEO
+94303,2201 Addison Ave,3,5,East Palo Alto,"2,490 sqft",23-Jan-14,"$490,000 ",37.467472,-122.14829,CA,Single-Family Home,490000,"$743,000 ",,,,,Sold,SAN MATEO
+94303,223 Wisteria Dr,1,3,East Palo Alto,"1,110 sqft",21-Jan-14,"$283,000 ",37.45794,-122.12536,CA,Single-Family Home,283000,"$412,000 ",,,,,Sold,SAN MATEO
+94303,2341 Oakwood Dr,1,2,East Palo Alto,920 sqft,17-Jan-14,"$425,000 ",37.46925,-122.147095,CA,Single-Family Home,425000,"$402,000 ",,,,,Sold,SAN MATEO
+94303,1982 W Bayshore Rd #138,2,2,East Palo Alto,"1,157 sqft",17-Jan-14,"$520,000 ",37.452503,-122.12884,CA,Condo,520000,"$555,000 ",,Duveneck-St. Francis,,,Sold,SAN MATEO
+94303,251 Azalia Dr,1,3,East Palo Alto,"1,110 sqft",24-Dec-13,"$438,500 ",37.459644,-122.12939,CA,Single-Family Home,438500,"$471,000 ",,,,,Sold,SAN MATEO
+94303,2543 Emmett Way,2,3,East Palo Alto,"1,100 sqft",19-Dec-13,"$460,000 ",37.47435,-122.14037,CA,Single-Family Home,460000,"$536,000 ",,,,,Sold,SAN MATEO
+94303,2180 Pulgas Ave,1,2,East Palo Alto,"1,430 sqft",19-Dec-13,"$474,000 ",37.464867,-122.1299,CA,Single-Family Home,474000,"$492,000 ",,,,,Sold,SAN MATEO
+94303,1352 Camellia Dr,1,2,East Palo Alto,840 sqft,13-Dec-13,"$350,000 ",37.458572,-122.12425,CA,Single-Family Home,350000,"$466,000 ",,,,,Sold,SAN MATEO
+94303,451 Larkspur Dr,1,3,East Palo Alto,"1,020 sqft",11-Dec-13,"$395,000 ",37.46282,-122.12777,CA,Single-Family Home,395000,"$466,000 ",,,,,Sold,SAN MATEO
+94303,2140 Oakwood Dr,1,4,East Palo Alto,"1,350 sqft",11-Dec-13,"$495,000 ",37.46562,-122.14735,CA,Single-Family Home,495000,"$512,000 ",,,,,Sold,SAN MATEO
+94303,453 E Okeefe St #203,1,1,East Palo Alto,800 sqft,10-Dec-13,"$139,000 ",37.46218,-122.1453,CA,Condo,139000,"$251,000 ",,,,,Sold,SAN MATEO
+94303,1515 Ursula Way,2,3,East Palo Alto,"1,150 sqft",3-Dec-13,"$430,000 ",37.47327,-122.142334,CA,Single-Family Home,430000,"$497,000 ",,,,,Sold,SAN MATEO
+94303,2133 Capitol Ave,2,2,East Palo Alto,"1,320 sqft",21-Nov-13,"$418,000 ",37.463642,-122.140785,CA,Single-Family Home,418000,"$542,000 ",,,,,Sold,SAN MATEO
+94303,1045 Garden St,1,3,East Palo Alto,"1,220 sqft",20-Nov-13,"$470,000 ",37.46717,-122.13172,CA,Single-Family Home,470000,"$488,000 ",,,,,Sold,SAN MATEO
+94303,2272 Poplar Ave,2,3,East Palo Alto,"1,380 sqft",12-Nov-13,"$423,000 ",37.469265,-122.14911,CA,Single-Family Home,423000,"$526,000 ",,,,,Sold,SAN MATEO
+94303,2315 Clarke Ave,1,3,East Palo Alto,"1,230 sqft",8-Nov-13,"$530,000 ",37.46902,-122.13518,CA,Single-Family Home,530000,"$541,000 ",,,,,Sold,SAN MATEO
+94303,1546 Bay Rd,1,3,East Palo Alto,"1,140 sqft",8-Nov-13,"$450,000 ",37.471184,-122.1417,CA,Single-Family Home,450000,"$494,000 ",,,,,Sold,SAN MATEO
+94303,1030 Bradley Way,1,2,East Palo Alto,810 sqft,7-Nov-13,"$460,000 ",37.46919,-122.15104,CA,Single-Family Home,460000,"$388,000 ",,,,,Sold,SAN MATEO
+94303,423 Larkspur Dr,2,3,East Palo Alto,"1,030 sqft",7-Nov-13,"$435,000 ",37.461826,-122.12773,CA,Single-Family Home,435000,"$480,000 ",,,,,Sold,SAN MATEO
+94303,453 E Okeefe St #208,2,2,East Palo Alto,"1,093 sqft",4-Nov-13,"$325,000 ",37.46218,-122.1453,CA,Condo,325000,"$395,000 ",,,,,Sold,SAN MATEO
+94303,812 Bell St,2,3,East Palo Alto,"1,580 sqft",31-Oct-13,"$200,000 ",37.465294,-122.13671,CA,Single-Family Home,200000,"$688,000 ",,,,,Sold,SAN MATEO
+94303,1169 Jervis Ave,1,2,East Palo Alto,990 sqft,31-Oct-13,"$310,000 ",37.47138,-122.152565,CA,Single-Family Home,310000,"$416,000 ",,,,,Sold,SAN MATEO
+94303,1982 W Bayshore Rd #324,1,1,East Palo Alto,776 sqft,29-Oct-13,"$381,000 ",37.452503,-122.12884,CA,Condo,381000,"$409,000 ",,Duveneck-St. Francis,,,Sold,SAN MATEO
+94303,164 Gardenia Way,3,4,East Palo Alto,"1,920 sqft",25-Oct-13,"$465,000 ",37.45827,-122.127045,CA,Single-Family Home,465000,"$703,000 ",,,,,Sold,SAN MATEO
+94303,512 Weeks St,1,2,East Palo Alto,840 sqft,25-Oct-13,"$417,000 ",37.47042,-122.14244,CA,Single-Family Home,417000,"$431,000 ",,,,,Sold,SAN MATEO
+94303,1058 Weeks St,2.5,4,East Palo Alto,"2,160 sqft",24-Oct-13,"$589,000 ",37.47005,-122.1316,CA,Single-Family Home,589000,"$752,000 ",,,,,Sold,SAN MATEO
+94303,196 Jasmine Way,1,2,East Palo Alto,920 sqft,23-Oct-13,"$368,000 ",37.45731,-122.12406,CA,Single-Family Home,368000,"$386,000 ",,,,,Sold,SAN MATEO
+94303,2191 Dumbarton Ave,1,2,East Palo Alto,860 sqft,16-Oct-13,"$425,000 ",37.465977,-122.14692,CA,Single-Family Home,425000,"$385,000 ",,,,,Sold,SAN MATEO
+94303,2124 Addison Ave,1,2,East Palo Alto,930 sqft,15-Oct-13,"$340,000 ",37.465775,-122.14816,CA,Single-Family Home,340000,"$395,000 ",,,,,Sold,SAN MATEO
+94303,2315 Glen Way,1,2,East Palo Alto,"1,370 sqft",11-Oct-13,"$400,000 ",37.469193,-122.14393,CA,Single-Family Home,400000,"$459,000 ",,,,,Sold,SAN MATEO
+94303,1982 W Bayshore Rd #233,1,1,East Palo Alto,776 sqft,9-Oct-13,"$380,000 ",37.452503,-122.12884,CA,Condo,380000,"$409,000 ",,Duveneck-St. Francis,,,Sold,SAN MATEO
+94303,7 Kirkwood Ct,2,3,East Palo Alto,"1,150 sqft",4-Oct-13,"$410,000 ",37.47492,-122.145615,CA,Single-Family Home,410000,"$534,000 ",,,,,Sold,SAN MATEO
+94303,1982 W Bayshore Rd #135,1,1,East Palo Alto,823 sqft,4-Oct-13,"$388,000 ",37.452503,-122.12884,CA,Condo,388000,"$499,000 ",,Duveneck-St. Francis,,,Sold,SAN MATEO
+94303,2068 Pulgas Ave,1,3,East Palo Alto,"1,110 sqft",30-Sep-13,"$340,000 ",37.4634,-122.12986,CA,Single-Family Home,340000,"$492,000 ",,,,,Sold,SAN MATEO
+94303,1484 Kavanaugh Dr,2,3,East Palo Alto,"1,150 sqft",19-Sep-13,"$425,000 ",37.47511,-122.14325,CA,Single-Family Home,425000,"$495,000 ",,,,,Sold,SAN MATEO
+94303,1982 W Bayshore Rd #224,1,1,East Palo Alto,776 sqft,18-Sep-13,"$375,000 ",37.452503,-122.12884,CA,Condo,375000,"$409,000 ",,Duveneck-St. Francis,,,Sold,SAN MATEO
+94303,644 Bell St,1,2,East Palo Alto,830 sqft,17-Sep-13,"$245,000 ",37.46535,-122.14061,CA,Single-Family Home,245000,"$414,000 ",,,,,Sold,SAN MATEO
+94303,224 Daphne Way,1,3,East Palo Alto,"1,560 sqft",17-Sep-13,"$385,000 ",37.454586,-122.12565,CA,Single-Family Home,385000,"$564,000 ",,,,,Sold,SAN MATEO
+94303,2320 Clarke Ave,3.5,4,East Palo Alto,"2,820 sqft",13-Sep-13,"$650,000 ",37.469032,-122.13456,CA,Single-Family Home,650000,"$927,000 ",,,,,Sold,SAN MATEO
+94303,165 E Okeefe St #16,1.5,2,East Palo Alto,"1,182 sqft",29-Aug-13,"$375,000 ",37.462334,-122.14976,CA,Condo,375000,"$507,000 ",,,,,Sold,SAN MATEO
+94303,1761 Tulane Ave,1,3,East Palo Alto,"1,030 sqft",27-Aug-13,"$375,000 ",37.48209,-122.13604,CA,Single-Family Home,375000,"$415,000 ",,,,,Sold,SAN MATEO
+94303,15 Shorebreeze Ct,2.5,4,East Palo Alto,"2,350 sqft",23-Aug-13,"$740,000 ",37.464386,-122.1287,CA,Single-Family Home,740000,"$856,000 ",,,,,Sold,SAN MATEO
+94303,2150 Oakwood Dr,2,3,East Palo Alto,"1,130 sqft",22-Aug-13,"$339,500 ",37.46589,-122.147285,CA,Single-Family Home,339500,"$487,000 ",,,,,Sold,SAN MATEO
+94303,363 Garden St,,,East Palo Alto,,21-Aug-13,"$195,000 ",37.46746,-122.14543,CA,Single-Family Home,195000,,,,,,Sold,SAN MATEO
+94303,22 Shorebreeze Ct,2.5,4,East Palo Alto,"2,350 sqft",20-Aug-13,"$715,000 ",37.464413,-122.12812,CA,Single-Family Home,715000,"$844,000 ",,,,,Sold,SAN MATEO
+94303,240 Wisteria Dr,1,3,East Palo Alto,"1,110 sqft",16-Aug-13,"$250,000 ",37.458675,-122.125435,CA,Single-Family Home,250000,"$412,000 ",,,,,Sold,SAN MATEO
+94303,171 Wisteria Dr,1,3,East Palo Alto,890 sqft,16-Aug-13,"$350,000 ",37.45606,-122.124886,CA,Single-Family Home,350000,"$417,000 ",,,,,Sold,SAN MATEO
+94303,926 Garden St,1,2,East Palo Alto,830 sqft,31-Jul-13,"$399,000 ",37.466686,-122.134315,CA,Single-Family Home,399000,"$408,000 ",,,,,Sold,SAN MATEO
+94303,119 Mission Dr,2.5,2,East Palo Alto,"1,557 sqft",31-Jul-13,"$475,000 ",37.456043,-122.13533,CA,Condo,475000,"$540,000 ",,,,,Sold,SAN MATEO
+94303,2350 Ralmar Ave,1,3,East Palo Alto,"1,010 sqft",29-Jul-13,"$365,000 ",37.47225,-122.14716,CA,Single-Family Home,365000,"$489,000 ",,,,,Sold,SAN MATEO
+94303,86 Buchanan Ct,3,3,East Palo Alto,"2,760 sqft",29-Jul-13,"$373,000 ",37.46909,-122.132225,CA,Unknown,373000,,,,,,Sold,SAN MATEO
+94303,419 Wisteria Dr,1,3,East Palo Alto,"1,110 sqft",26-Jul-13,"$430,000 ",37.461693,-122.12859,CA,Single-Family Home,430000,"$465,000 ",,,,,Sold,SAN MATEO
+94303,143 Wisteria Dr,1,3,East Palo Alto,"1,060 sqft",26-Jul-13,"$400,000 ",37.455044,-122.124504,CA,Single-Family Home,400000,"$438,000 ",,,,,Sold,SAN MATEO
+94303,115 Wisteria Dr,2,4,East Palo Alto,"1,460 sqft",24-Jul-13,"$505,000 ",37.454105,-122.12423,CA,Single-Family Home,505000,"$564,000 ",,,,,Sold,SAN MATEO
+94303,2341 Ralmar Ave,1,2,East Palo Alto,770 sqft,19-Jul-13,"$308,000 ",37.47208,-122.1478,CA,Single-Family Home,308000,"$394,000 ",,,,,Sold,SAN MATEO
+94303,155 Gardenia Way,1,3,East Palo Alto,"1,110 sqft",19-Jul-13,"$415,000 ",37.458252,-122.1276,CA,Single-Family Home,415000,"$455,000 ",,,,,Sold,SAN MATEO
+94303,255 Azalia Dr,1,3,East Palo Alto,"1,110 sqft",16-Jul-13,"$450,000 ",37.45979,-122.12941,CA,Single-Family Home,450000,"$475,000 ",,,,,Sold,SAN MATEO
+94303,2523 Hazelwood Way,2,3,East Palo Alto,"1,100 sqft",8-Jul-13,"$377,500 ",37.47314,-122.14328,CA,Single-Family Home,377500,"$539,000 ",,,,,Sold,SAN MATEO
+94303,480 E Okeefe St #216,1,1,East Palo Alto,622 sqft,8-Jul-13,"$270,000 ",37.461193,-122.14515,CA,Condo,270000,"$321,000 ",,,,,Sold,SAN MATEO
+94303,2285 Tuscany Ct,2.5,4,East Palo Alto,"1,792 sqft",3-Jul-13,"$661,000 ",37.46819,-122.13577,CA,Single-Family Home,661000,"$744,000 ",,,,,Sold,SAN MATEO

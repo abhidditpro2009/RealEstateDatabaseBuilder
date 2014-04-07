@@ -1,0 +1,58 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94025,1303 Crane St,2.5,2,Menlo Park,,31-Dec-69,$0 ,37.452217,-122.1884,CA,Townhome,1248000,,,Downtown Menlo Park,75,,For Sale,SAN MATEO
+94025,1038 Menlo Oaks Dr,1,2,Menlo Park,"1,060 sqft",31-Dec-69,$0 ,37.472225,-122.16458,CA,Single-Family Home,899000,,,Suburban Park-Lorelei Manor-Flood Park T,37,,For Sale,SAN MATEO
+94025,25 Amherst Ct,3,3,Menlo Park,"1,500 sqft",31-Dec-69,$0 ,37.46782,-122.207214,CA,Single-Family Home,1000000,,,,62,,For Sale,SAN MATEO
+94025,1275 Santa Cruz Ave,6,5,Menlo Park,"4,300 sqft",31-Dec-69,$0 ,37.443207,-122.190956,CA,Single-Family Home,5895000,,,,40,,For Sale,SAN MATEO
+94025,140 Royal Oaks Ct,4.5,5,Menlo Park,"5,824 sqft",31-Dec-69,$0 ,37.42699,-122.194725,CA,Single-Family Home,3888000,,,Sharon Height,62,,For Sale,SAN MATEO
+94025,131 Seminary Dr,4,4,Menlo Park,"3,690 sqft",31-Dec-69,$0 ,37.460735,-122.16956,CA,Single-Family Home,3498000,,,South of Seminary-Vintage Oaks,42,,For Sale,SAN MATEO
+94025,1101 Hobart St,2,3,Menlo Park,"2,378 sqft",31-Dec-69,$0 ,37.441307,-122.193436,CA,Single-Family Home,2349000,,,,35,,For Sale,SAN MATEO
+94025,1080 Klamath Dr,5,4,Menlo Park,"4,243 sqft",31-Dec-69,$0 ,37.425335,-122.21185,CA,Single-Family Home,4498000,,,Sharon Height,37,,For Sale,SAN MATEO
+94025,740 Windsor Dr,5.5,6,Menlo Park,"5,500 sqft",31-Dec-69,$0 ,37.443882,-122.1862,CA,Single-Family Home,5495000,,,,58,,For Sale,SAN MATEO
+94025,43 Sneckner Ct,6,4,Menlo Park,"6,414 sqft",31-Dec-69,$0 ,37.415462,-122.1875,CA,Single-Family Home,3950000,,,,25,,For Sale,SAN MATEO
+94025,2312 Loma Prieta Ln,7,6,Menlo Park,"7,583 sqft",31-Dec-69,$0 ,37.42625,-122.20404,CA,Single-Family Home,4349000,,,Sharon Height,63,,For Sale,SAN MATEO
+94025,1325 Hobart St,3,3,Menlo Park,"2,226 sqft",31-Dec-69,$0 ,37.443428,-122.19609,CA,Single-Family Home,2195000,,,,35,,For Sale,SAN MATEO
+94025,340 San Mateo Dr,2,3,Menlo Park,"1,600 sqft",31-Dec-69,$0 ,37.441372,-122.18259,CA,Single-Family Home,2198000,,,,,,For Sale,SAN MATEO
+94025,3531 Middlefield Rd,4,4,Menlo Park,"2,610 sqft",31-Dec-69,$0 ,37.470543,-122.200195,CA,Single-Family Home,1299000,,,Fair Oaks,72,,For Sale,SAN MATEO
+94025,1027 Henderson Ave,2,3,Menlo Park,"1,320 sqft",31-Dec-69,$0 ,37.471592,-122.16217,CA,Single-Family Home,1089000,,,Suburban Park-Lorelei Manor-Flood Park T,48,,For Sale,SAN MATEO
+94025,1119 Del Norte Ave,,,Menlo Park,"1,961 sqft",31-Dec-69,$0 ,37.477715,-122.16769,CA,Multi-Family Home,599000,,,Belle Haven,45,,For Sale,SAN MATEO
+94025,431 Vine St,2,3,Menlo Park,"2,350 sqft",31-Dec-69,$0 ,37.429955,-122.19361,CA,Single-Family Home,1999000,,,University Heights,54,,For Sale,SAN MATEO
+94025,446 8th Ave,1,2,Menlo Park,970 sqft,31-Dec-69,$0 ,37.472897,-122.200294,CA,Single-Family Home,458000,,,Fair Oaks,77,,For Sale,SAN MATEO
+94025,Alameda de Las Pulgas and Ashton Avenue,4,4,Menlo Park,"2,648 sqft",31-Dec-69,$0 ,37.431946,-122.20348,CA,Single-Family Home,2750000,,,University Heights,45,,For Sale,SAN MATEO
+94025,522 Palmer Ln,5,7,Menlo Park,,31-Dec-69,$0 ,37.471626,-122.1934,CA,Single-Family Home,3399000,,,Fair Oaks,45,,For Sale,SAN MATEO
+94025,1081 Sierra Dr,3,3,Menlo Park,"2,120 sqft",31-Dec-69,$0 ,37.429348,-122.2109,CA,Single-Family Home,2499000,,,Sharon Height,29,,For Sale,SAN MATEO
+94025,1401 Sage St,3,4,Menlo Park,"2,010 sqft",31-Dec-69,$0 ,37.478745,-122.16007,CA,Single-Family Home,975000,,,Belle Haven,48,,For Sale,SAN MATEO
+94025,190 Amherst Ave,,,Menlo Park,"2,910 sqft",31-Dec-69,$0 ,37.468826,-122.205185,CA,Multi-Family Home,1049000,,,,65,,For Sale,SAN MATEO
+94025,675 Sharon Park Dr,2,3,Menlo Park,"1,411 sqft",31-Dec-69,$0 ,37.422405,-122.200905,CA,Single-Family Home,1050000,,,Sharon Height,63,,For Sale,SAN MATEO
+94025,150 Alma St,2,2,Menlo Park,"1,199 sqft",31-Dec-69,$0 ,37.448746,-122.17148,CA,Condo,799950,,,Linfield Oaks,66,,For Sale,SAN MATEO
+94025,675 Sharon Park Dr #134,2,3,Menlo Park,"1,411 sqft",31-Dec-69,$0 ,37.422405,-122.200905,CA,Condo,1050000,,,Sharon Height,63,,For Sale,SAN MATEO
+94025,50 Cornell Rd,1,3,Menlo Park,"1,350 sqft",31-Dec-69,$0 ,37.445602,-122.17417,CA,Unspecified,1398000,,,Allied Arts,68,,For Sale,SAN MATEO
+94025,564 University Dr,,,Menlo Park,"4,551 sqft",31-Dec-69,$0 ,37.447105,-122.181404,CA,Income/Investment,3800000,,,Downtown Menlo Park,78,,For Sale,SAN MATEO
+94025,1431 San Antonio Ave,3,3,Menlo Park,"1,670 sqft",31-Dec-69,$0 ,37.456863,-122.187584,CA,Single-Family Home,1100000,,,,72,,For Sale,SAN MATEO
+94025,1100 Ringwood Ave,4,8,Menlo Park,"3,000 sqft",31-Dec-69,$0 ,37.4755,-122.16514,CA,Single-Family Home,1250000,,,Belle Haven,37,,For Sale,SAN MATEO
+94025,1335 Almanor Ave,3,4,Menlo Park,"1,570 sqft",31-Dec-69,$0 ,37.47734,-122.16265,CA,Single-Family Home,650000,,,Belle Haven,42,,For Sale,SAN MATEO
+94025,629 Harvard Ave,3,3,Menlo Park,"2,290 sqft",31-Dec-69,$0 ,37.44704,-122.17336,CA,Single-Family Home,2390000,,,Allied Arts,78,,For Sale,SAN MATEO
+94025,Sterling Ave,2,3,Menlo Park,"1,530 sqft",31-Dec-69,$0 ,37.432533,-122.20584,CA,Single-Family Home,289500,,,University Heights,42,,For Sale,SAN MATEO
+94025,Almanor Ave,3,4,Menlo Park,"1,570 sqft",31-Dec-69,$0 ,37.4774,-122.16247,CA,Single-Family Home,400000,,,Belle Haven,42,,For Sale,SAN MATEO
+94025,Sevier Ave,2,3,Menlo Park,"1,090 sqft",31-Dec-69,$0 ,37.47314,-122.157906,CA,Single-Family Home,430919,,,Belle Haven,49,,For Sale,SAN MATEO
+94025,Henderson Pl,1,3,Menlo Park,"1,050 sqft",31-Dec-69,$0 ,37.477917,-122.15951,CA,Single-Family Home,537278,,,Belle Haven,48,,For Sale,SAN MATEO
+94025,Henderson Ave,1,3,Menlo Park,"1,130 sqft",31-Dec-69,$0 ,37.47749,-122.15883,CA,Single-Family Home,575297,,,Belle Haven,52,,For Sale,SAN MATEO
+94025,Terminal Ave,1,2,Menlo Park,890 sqft,31-Dec-69,$0 ,37.478355,-122.16632,CA,Single-Family Home,406250,,,Belle Haven,42,,For Sale,SAN MATEO
+94025,San Benito Ave,2,3,Menlo Park,"1,250 sqft",31-Dec-69,$0 ,37.47485,-122.194115,CA,Single-Family Home,520000,,,Fair Oaks,62,,For Sale,SAN MATEO
+94025,7th Ave,1,2,Menlo Park,830 sqft,31-Dec-69,$0 ,37.47296,-122.20165,CA,Single-Family Home,445303,,,Fair Oaks,78,,For Sale,SAN MATEO
+94025,Henderson Ave,3,5,Menlo Park,"2,892 sqft",31-Dec-69,$0 ,37.478138,-122.1585,CA,Single-Family Home,125000,,,Belle Haven,58,,For Sale,SAN MATEO
+94025,Hallmark Cir,2,2,Menlo Park,"2,510 sqft",31-Dec-69,$0 ,37.431583,-122.21265,CA,Single-Family Home,58000,,,Sharon Height,28,,For Sale,SAN MATEO
+94025,Camino A Los Cerros,4,5,Menlo Park,"2,824 sqft",31-Dec-69,$0 ,37.435116,-122.21117,CA,Single-Family Home,300000,,,University Heights,37,,For Sale,SAN MATEO
+94025,Loyola Ave,2,3,Menlo Park,"1,200 sqft",31-Dec-69,$0 ,37.468285,-122.20429,CA,Single-Family Home,200000,,,,65,,For Sale,SAN MATEO
+94025,Dunne Ct,3,4,Menlo Park,"2,580 sqft",31-Dec-69,$0 ,37.4747,-122.19784,CA,Single-Family Home,857000,,,Fair Oaks,68,,For Sale,SAN MATEO
+94025,Madera Ave,1,2,Menlo Park,"1,460 sqft",31-Dec-69,$0 ,37.47158,-122.15765,CA,Single-Family Home,480000,,,Belle Haven,54,,For Sale,SAN MATEO
+94025,Sevier Ave,1,3,Menlo Park,"1,040 sqft",31-Dec-69,$0 ,37.474186,-122.15737,CA,Single-Family Home,409500,,,Belle Haven,55,,For Sale,SAN MATEO
+94025,Santa Cruz Ave,2,3,Menlo Park,"1,810 sqft",31-Dec-69,$0 ,37.448402,-122.18717,CA,Condo,729000,,,Downtown Menlo Park,86,,For Sale,SAN MATEO
+94025,Madera Ave,1,3,Menlo Park,"1,110 sqft",31-Dec-69,$0 ,37.471832,-122.157524,CA,Single-Family Home,451038,,,Belle Haven,46,,For Sale,SAN MATEO
+94025,Gilbert Ave,1,2,Menlo Park,"1,175 sqft",31-Dec-69,$0 ,37.460384,-122.16158,CA,Condo,762594,,,South of Seminary-Vintage Oaks,54,,For Sale,SAN MATEO
+94025,6th Ave,1,2,Menlo Park,840 sqft,31-Dec-69,$0 ,37.47216,-122.2033,CA,Single-Family Home,454500,,,Fair Oaks,78,,For Sale,SAN MATEO
+94025,Hollyburne Ave,2,2,Menlo Park,"1,100 sqft",31-Dec-69,$0 ,37.474606,-122.1582,CA,Single-Family Home,630326,,,Belle Haven,51,,For Sale,SAN MATEO
+94025,Lorelei Ln,2,3,Menlo Park,"1,120 sqft",31-Dec-69,$0 ,37.47789,-122.18124,CA,Single-Family Home,946918,,,Suburban Park-Lorelei Manor-Flood Park T,46,,For Sale,SAN MATEO
+94025,Ivy Dr,,,Menlo Park,,31-Dec-69,$0 ,37.476044,-122.15809,CA,Unspecified,255000,,,Belle Haven,55,,For Sale,SAN MATEO
+94025,San Antonio St,,,Menlo Park,,31-Dec-69,$0 ,37.457825,-122.18905,CA,Unspecified,545000,,,,71,,For Sale,SAN MATEO
+94025,E Okeefe St #14,,,Menlo Park,,31-Dec-69,$0 ,37.462763,-122.151322,CA,Unspecified,359589,,,,,,For Sale,SAN MATEO
+94025,Pierce Rd,,,Menlo Park,,31-Dec-69,$0 ,37.47242,-122.1606,CA,Unspecified,335440,,,Belle Haven,49,,For Sale,SAN MATEO

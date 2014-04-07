@@ -1,0 +1,12 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,7540 La Honda Rd,,,La Honda,750 sqft,"Jan 23, 2014","$325,000",37.313057,-122.28511,CA,Single-Family Home,325000,"$699,000",94020,,,,Sold,SAN MATEO
+2,221 Back Rd,,,La Honda,,"Dec 24, 2013","$134,000",37.260242,-122.20301,CA,Single-Family Home,134000,"$347,000",94020,,,,Sold,SAN MATEO
+3,480 Woodland Vis,1.0,2.0,La Honda,710 sqft,"Nov 5, 2013","$430,000",37.319492,-122.26343,CA,Single-Family Home,430000,"$433,000",94020,,,,Sold,SAN MATEO
+4,7405 Alpine Rd,,,La Honda,"3,160 sqft","Oct 25, 2013","$1,725,000",37.29102,-122.2117,CA,Single-Family Home,1725000,"$1,672,000",94020,,,,Sold,SAN MATEO
+5,7085 La Honda Rd,,,La Honda,"2,550 sqft","Oct 15, 2013","$810,000",37.31581,-122.29173,CA,Single-Family Home,810000,"$1,159,000",94020,,,,Sold,SAN MATEO
+6,217 Redwood Dr,1.0,2.0,La Honda,780 sqft,"Sep 18, 2013","$699,000",37.312973,-122.27388,CA,Single-Family Home,699000,"$483,000",94020,,,,Sold,SAN MATEO
+7,21 Recreation Dr,2.5,4.0,La Honda,"2,980 sqft","Sep 6, 2013","$630,000",37.318184,-122.26736,CA,Single-Family Home,630000,"$1,063,000",94020,,,,Sold,SAN MATEO
+8,63 Sylvan Way,1.0,2.0,La Honda,710 sqft,"Aug 9, 2013","$422,000",37.314022,-122.29461,CA,Single-Family Home,422000,"$428,000",94020,,,,Sold,SAN MATEO
+9,235 Redwood Dr,,,La Honda,,"Aug 9, 2013","$90,000",37.3118,-122.27471,CA,Unknown,90000,,94020,,,,Sold,SAN MATEO
+10,125 Cuesta Real,2.0,2.0,La Honda,"1,536 sqft","Jul 31, 2013","$670,000",37.32177,-122.2723,CA,Single-Family Home,670000,"$785,000",94020,,,,Sold,SAN MATEO
+11,302 Scenic Dr,2.0,2.0,La Honda,"1,190 sqft","Jun 28, 2013","$455,000",37.31826,-122.265656,CA,Single-Family Home,455000,"$550,000",94020,,,,Sold,SAN MATEO

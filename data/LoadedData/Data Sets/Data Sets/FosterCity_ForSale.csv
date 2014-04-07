@@ -1,0 +1,26 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,780 Sea Spray Ln #108,2.0,2.0,Foster City,"1,235 sqft","Dec 31, 1969",$0,37.552032,-122.28108,CA,Condo,608000,,94404,,55,,For Sale,SAN MATEO
+2,1111 Compass Ln #108,2.0,2.0,Foster City,"1,286 sqft","Dec 31, 1969",$0,37.551567,-122.25371,CA,Condo,599000,,94404,,40,,For Sale,SAN MATEO
+3,840 Sea Spray Ln #113,2.0,2.0,Foster City,"1,213 sqft","Dec 31, 1969",$0,37.553253,-122.28123,CA,Condo,678888,,94404,,54,,For Sale,SAN MATEO
+4,150 Sloop Ct,2.0,3.0,Foster City,"1,890 sqft","Dec 31, 1969",$0,37.551254,-122.25731,CA,Single-Family Home,1100000,,94404,,48,,For Sale,SAN MATEO
+5,749 Celestial Ln,2.5,3.0,Foster City,"1,430 sqft","Dec 31, 1969",$0,37.550602,-122.28066,CA,Townhome,799000,,94404,,49,,For Sale,SAN MATEO
+6,859 Arcturus Cir,2.0,3.0,Foster City,"1,820 sqft","Dec 31, 1969",$0,37.546417,-122.276436,CA,Single-Family Home,1199980,,94404,,,,For Sale,SAN MATEO
+7,1214 Admiralty Ln,3.0,3.0,Foster City,"1,505 sqft","Dec 31, 1969",$0,37.561436,-122.26721,CA,Apt/Condo/Twnhm,499000,,94404,,58,,For Sale,SAN MATEO
+8,249 Curlew Ct,4.0,4.0,Foster City,"2,250 sqft","Dec 31, 1969",$0,37.570312,-122.26337,CA,Single-Family Home,1168000,,94404,,31,,For Sale,SAN MATEO
+9,7207 Admiralty Ln,1.5,2.0,Foster City,998 sqft,"Dec 31, 1969",$0,37.561436,-122.26721,CA,Townhome,399000,,94404,,58,,For Sale,SAN MATEO
+10,780 Sea Spray Ln #107,1.0,1.0,Foster City,997 sqft,"Dec 31, 1969",$0,37.552032,-122.28108,CA,Condo,450000,,94404,,55,,For Sale,SAN MATEO
+11,252 Bonita Ln,1.0,1.0,Foster City,724 sqft,"Dec 31, 1969",$0,37.55904,-122.249916,CA,Townhome,480000,,94404,,14,,For Sale,SAN MATEO
+12,1120 Galveston St,3.0,4.0,Foster City,"2,200 sqft","Dec 31, 1969",$0,37.538548,-122.27419,CA,Single-Family Home,1325000,,94404,,48,,For Sale,SAN MATEO
+13,1131 Compass Ln #203,2.0,2.0,Foster City,"1,286 sqft","Dec 31, 1969",$0,37.551567,-122.25371,CA,Condo,600000,,94404,,40,,For Sale,SAN MATEO
+14,701 Foster City Blvd,2.5,2.0,Foster City,,"Dec 31, 1969",$0,37.559772,-122.26527,CA,Townhome,753000,,94404,,48,,For Sale,SAN MATEO
+15,863 Carina Ln,3.0,2.0,Foster City,"1,546 sqft","Dec 31, 1969",$0,37.547363,-122.272064,CA,Townhome,848888,,94404,,62,,For Sale,SAN MATEO
+16,107 Flying Cloud Isle,3.0,3.0,Foster City,"2,280 sqft","Dec 31, 1969",$0,37.56544,-122.26487,CA,Single-Family Home,1699000,,94404,,49,,For Sale,SAN MATEO
+17,Cumberland Ct,2.0,4.0,Foster City,"1,470 sqft","Dec 31, 1969",$0,37.542904,-122.276306,CA,Single-Family Home,161615,,94404,,49,,For Sale,SAN MATEO
+18,Marquette Ln,2.0,2.0,Foster City,"1,260 sqft","Dec 31, 1969",$0,37.54884,-122.26583,CA,Single-Family Home,749098,,94404,,55,,For Sale,SAN MATEO
+19,Beach Park Blvd #81,2.0,2.0,Foster City,"1,087 sqft","Dec 31, 1969",$0,37.54858,-122.258965,CA,Condo,291000,,94404,,40,,For Sale,SAN MATEO
+20,Admiralty Ln,1.0,2.0,Foster City,998 sqft,"Dec 31, 1969",$0,37.56171,-122.26772,CA,Condo,803653,,94404,,62,,For Sale,SAN MATEO
+21,Admiralty Ln,1.0,2.0,Foster City,998 sqft,"Dec 31, 1969",$0,37.56171,-122.26772,CA,Condo,344000,,94404,,71,,For Sale,SAN MATEO
+22,Puffin Ct,2.0,3.0,Foster City,"1,840 sqft","Dec 31, 1969",$0,37.570545,-122.25946,CA,Single-Family Home,592000,,94404,,25,,For Sale,SAN MATEO
+23,Beach Park Blvd,2.0,2.0,Foster City,"1,349 sqft","Dec 31, 1969",$0,37.550373,-122.25224,CA,Condo,606537,,94404,,43,,For Sale,SAN MATEO
+24,Winchester Ct,2.0,4.0,Foster City,"1,720 sqft","Dec 31, 1969",$0,37.537666,-122.27618,CA,Single-Family Home,722000,,94404,,35,,For Sale,SAN MATEO
+25,Comet Dr,2.0,3.0,Foster City,"1,710 sqft","Dec 31, 1969",$0,37.563282,-122.267365,CA,Single-Family Home,754000,,94404,,65,,For Sale,SAN MATEO

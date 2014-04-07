@@ -1,0 +1,109 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,23 Alameda Ave,3.0,5.0,Half Moon Bay,"2,650 sqft","Feb 20, 2014","$1,320,000",37.493023,-122.45685,CA,Single-Family Home,1320000,"$1,325,000",94019,,,,Sold,SAN MATEO
+2,140 Amesport Lndg,2.0,2.0,Half Moon Bay,950 sqft,"Feb 20, 2014","$460,000",37.460598,-122.43384,CA,Condo,460000,"$487,000",94019,,,,Sold,SAN MATEO
+3,599 Highland Ave,4.5,4.0,Half Moon Bay,"3,365 sqft","Feb 20, 2014","$1,325,000",37.473618,-122.4321,CA,Single-Family Home,1325000,"$1,690,000",94019,,,,Sold,SAN MATEO
+4,608 Myrtle St,2.0,2.0,Half Moon Bay,"1,350 sqft","Feb 11, 2014","$535,000",37.45917,-122.43263,CA,Single-Family Home,535000,"$709,000",94019,,,,Sold,SAN MATEO
+5,463 Pine Ave,2.0,2.0,Half Moon Bay,"1,090 sqft","Feb 7, 2014","$397,500",37.465378,-122.43648,CA,Condo,397500,"$523,000",94019,,,,Sold,SAN MATEO
+6,459 Winged Foot Rd,2.0,3.0,Half Moon Bay,"2,150 sqft","Feb 6, 2014","$953,000",37.431255,-122.42984,CA,Single-Family Home,953000,"$1,100,000",94019,,,,Sold,SAN MATEO
+7,301 Bayhill Rd,,,Half Moon Bay,,"Feb 3, 2014","$1,447,500",37.439625,-122.43644,CA,Single-Family Home,1447500,,94019,,,,Sold,SAN MATEO
+8,656 Terrace Ave,3.0,4.0,Half Moon Bay,"2,397 sqft","Jan 30, 2014","$1,110,000",37.476086,-122.43261,CA,Single-Family Home,1110000,"$1,383,000",94019,,,,Sold,SAN MATEO
+9,17500 Cabrillo Hwy S,,,Half Moon Bay,,"Jan 17, 2014","$2,025,500",37.422623,-122.430214,CA,Single-Family Home,2025500,"$816,000",94019,,,,Sold,SAN MATEO
+10,1050 Main St,5.0,4.0,Half Moon Bay,"4,170 sqft","Jan 16, 2014","$757,000",37.454494,-122.430016,CA,Multi-Family,757000,"$1,298,000",94019,,,,Sold,SAN MATEO
+11,20 Trace Ln,3.5,4.0,Half Moon Bay,"3,080 sqft","Jan 10, 2014","$1,200,000",37.43595,-122.42884,CA,Single-Family Home,1200000,"$1,428,000",94019,,,,Sold,SAN MATEO
+12,712 Main St,1.0,3.0,Half Moon Bay,"1,140 sqft","Jan 2, 2014","$800,000",37.461273,-122.429855,CA,Single-Family Home,800000,"$837,000",94019,,,,Sold,SAN MATEO
+13,400 Belleville Blvd,,,Half Moon Bay,,"Dec 31, 2013","$697,500",37.47028,-122.436554,CA,Single-Family Home,697500,,94019,,,,Sold,SAN MATEO
+14,468 Laurel Ave,2.0,2.0,Half Moon Bay,"1,090 sqft","Dec 31, 2013","$405,000",37.46565,-122.43579,CA,Condo,405000,"$522,000",94019,,,,Sold,SAN MATEO
+15,236 Eagle Trace Dr,3.0,5.0,Half Moon Bay,"3,270 sqft","Dec 17, 2013","$1,275,000",37.435616,-122.42804,CA,Single-Family Home,1275000,"$1,555,000",94019,,,,Sold,SAN MATEO
+16,2381 Winged Foot Rd,2.0,3.0,Half Moon Bay,"2,160 sqft","Dec 12, 2013","$1,050,000",37.431293,-122.43122,CA,Single-Family Home,1050000,"$1,032,000",94019,,,,Sold,SAN MATEO
+17,2905 Pullman Ave,,,Half Moon Bay,,"Dec 11, 2013","$899,000",37.490974,-122.45276,CA,Single-Family Home,899000,"$924,000",94019,,,,Sold,SAN MATEO
+18,984 Pilarcitos Ave,3.0,3.0,Half Moon Bay,"2,530 sqft","Dec 10, 2013","$1,450,000",37.47636,-122.445946,CA,Single-Family Home,1450000,"$1,866,000",94019,,,,Sold,SAN MATEO
+19,17 Fairway Pl,3.0,3.0,Half Moon Bay,"3,280 sqft","Dec 10, 2013","$1,210,000",37.436073,-122.43847,CA,Single-Family Home,1210000,"$1,406,000",94019,,,,Sold,SAN MATEO
+20,1026 Suzanne Ct,1.0,2.0,Half Moon Bay,730 sqft,"Dec 10, 2013","$415,000",37.45554,-122.42775,CA,Single-Family Home,415000,"$464,000",94019,,,,Sold,SAN MATEO
+21,422 Magellan Ave,5.0,4.0,Half Moon Bay,"4,270 sqft","Dec 10, 2013","$1,425,000",37.49883,-122.45857,CA,Single-Family Home,1425000,"$1,934,000",94019,,,,Sold,SAN MATEO
+22,507 Highland Ave,2.0,3.0,Half Moon Bay,"1,750 sqft","Dec 5, 2013","$680,000",37.47208,-122.43381,CA,Single-Family Home,680000,"$815,000",94019,,,,Sold,SAN MATEO
+23,421 Magnolia St,2.0,4.0,Half Moon Bay,"1,460 sqft","Dec 5, 2013","$670,000",37.454247,-122.43581,CA,Single-Family Home,670000,"$738,000",94019,,,,Sold,SAN MATEO
+24,419 Correas St,2.5,4.0,Half Moon Bay,"2,740 sqft","Dec 4, 2013","$1,020,000",37.46273,-122.43757,CA,Single-Family Home,1020000,"$1,020,000",94019,,,,Sold,SAN MATEO
+25,62 Patrick Way,3.0,3.0,Half Moon Bay,"1,700 sqft","Dec 4, 2013","$699,000",37.467773,-122.42695,CA,Single-Family Home,699000,"$850,000",94019,,,,Sold,SAN MATEO
+26,369 Burning Tree Ct,3.0,3.0,Half Moon Bay,"2,540 sqft","Nov 27, 2013","$850,000",37.433414,-122.42912,CA,Single-Family Home,850000,"$1,244,000",94019,,,,Sold,SAN MATEO
+27,172 Amesport Lndg,2.0,2.0,Half Moon Bay,950 sqft,"Nov 27, 2013","$451,000",37.460037,-122.43368,CA,Condo,451000,"$487,000",94019,,,,Sold,SAN MATEO
+28,113 Pablo Ct,1.5,3.0,Half Moon Bay,"2,230 sqft","Nov 27, 2013","$945,000",37.46084,-122.42784,CA,Single-Family Home,945000,"$1,185,000",94019,,,,Sold,SAN MATEO
+29,623 Church St,1.0,3.0,Half Moon Bay,"1,170 sqft","Nov 26, 2013","$610,000",37.461895,-122.43108,CA,Single-Family Home,610000,"$839,000",94019,,,,Sold,SAN MATEO
+30,142 Cypress Point Rd,2.5,3.0,Half Moon Bay,"2,750 sqft","Nov 26, 2013","$1,135,000",37.431313,-122.43557,CA,Single-Family Home,1135000,"$1,348,000",94019,,,,Sold,SAN MATEO
+31,30 River Oaks Rd,2.5,3.0,Half Moon Bay,"2,520 sqft","Nov 22, 2013","$1,075,000",37.434864,-122.4354,CA,Single-Family Home,1075000,"$1,072,000",94019,,,,Sold,SAN MATEO
+32,180 Amesport Lndg,2.0,2.0,Half Moon Bay,950 sqft,"Nov 22, 2013","$468,000",37.460037,-122.43368,CA,Condo,468000,"$527,000",94019,,,,Sold,SAN MATEO
+33,461 5th Ave,2.0,3.0,Half Moon Bay,"1,660 sqft","Nov 19, 2013","$780,000",37.49619,-122.45526,CA,Single-Family Home,780000,"$905,000",94019,,,,Sold,SAN MATEO
+34,170 Correas St,3.0,3.0,Half Moon Bay,"3,100 sqft","Nov 18, 2013","$2,000,000",37.462635,-122.44261,CA,Single-Family Home,2000000,"$1,541,000",94019,,,,Sold,SAN MATEO
+35,1390 Cabrillo Hwy N,2.0,3.0,Half Moon Bay,"1,460 sqft","Nov 13, 2013","$715,000",37.477993,-122.44196,CA,Single-Family Home,715000,"$788,000",94019,,,,Sold,SAN MATEO
+36,260 Metzgar St,1.5,3.0,Half Moon Bay,"1,060 sqft","Nov 12, 2013","$695,000",37.454884,-122.43942,CA,Single-Family Home,695000,"$689,000",94019,,,,Sold,SAN MATEO
+37,150 Patrick Way,2.5,2.0,Half Moon Bay,"1,320 sqft","Nov 8, 2013","$650,000",37.467716,-122.42514,CA,Single-Family Home,650000,"$719,000",94019,,,,Sold,SAN MATEO
+38,332 Valdez Ave,3.0,3.0,Half Moon Bay,"1,880 sqft","Nov 4, 2013","$824,000",37.46131,-122.4393,CA,Single-Family Home,824000,"$1,024,000",94019,,,,Sold,SAN MATEO
+39,535 Spindrift Way,1.0,3.0,Half Moon Bay,960 sqft,"Nov 4, 2013","$227,500",37.479843,-122.44042,CA,Single-Family Home,227500,"$604,000",94019,,,,Sold,SAN MATEO
+40,524 Hermosa Ave,2.0,3.0,Half Moon Bay,"1,510 sqft","Oct 31, 2013","$759,000",37.495045,-122.45313,CA,Single-Family Home,759000,"$881,000",94019,,,,Sold,SAN MATEO
+41,41 Valencia St,2.0,3.0,Half Moon Bay,"1,280 sqft","Oct 31, 2013","$700,000",37.493404,-122.45435,CA,Single-Family Home,700000,"$768,000",94019,,,,Sold,SAN MATEO
+42,172 El Granada Blvd,2.0,3.0,Half Moon Bay,"1,760 sqft","Oct 28, 2013","$735,000",37.50496,-122.46435,CA,Single-Family Home,735000,"$839,000",94019,,,,Sold,SAN MATEO
+43,915 Railroad Ave,3.5,4.0,Half Moon Bay,"2,980 sqft","Oct 25, 2013","$1,455,000",37.455585,-122.44007,CA,Single-Family Home,1455000,"$1,622,000",94019,,,,Sold,SAN MATEO
+44,923 Colonel Way,1.5,3.0,Half Moon Bay,"1,190 sqft","Oct 25, 2013","$435,000",37.455547,-122.425934,CA,Single-Family Home,435000,"$513,000",94019,,,,Sold,SAN MATEO
+45,160 Keel Ct,1.0,2.0,Half Moon Bay,800 sqft,"Oct 24, 2013","$576,000",37.48037,-122.44041,CA,Single-Family Home,576000,"$645,000",94019,,,,Sold,SAN MATEO
+46,482 Coronado Ave,3.5,4.0,Half Moon Bay,"3,450 sqft","Oct 22, 2013","$1,255,000",37.49957,-122.45638,CA,Single-Family Home,1255000,"$1,489,000",94019,,,,Sold,SAN MATEO
+47,29 Pinehurst Ln,2.0,2.0,Half Moon Bay,"1,720 sqft","Oct 17, 2013","$795,000",37.43608,-122.431244,CA,Single-Family Home,795000,"$930,000",94019,,,,Sold,SAN MATEO
+48,154 Patrick Way,2.5,2.0,Half Moon Bay,"1,400 sqft","Oct 15, 2013","$615,000",37.467747,-122.42508,CA,Single-Family Home,615000,"$742,000",94019,,,,Sold,SAN MATEO
+49,10 Marie Ct,2.0,4.0,Half Moon Bay,"1,460 sqft","Oct 11, 2013","$600,000",37.477516,-122.44256,CA,Single-Family Home,600000,"$748,000",94019,,,,Sold,SAN MATEO
+50,416 Casa Del Mar Dr,2.0,3.0,Half Moon Bay,"1,450 sqft","Oct 11, 2013","$585,000",37.477367,-122.4439,CA,Single-Family Home,585000,"$770,000",94019,,,,Sold,SAN MATEO
+51,404 Belleville Blvd,,,Half Moon Bay,,"Oct 11, 2013","$739,000",37.470333,-122.43649,CA,Single-Family Home,739000,,94019,,,,Sold,SAN MATEO
+52,402 Laurel Ave #2,2.0,2.0,Half Moon Bay,"1,090 sqft","Oct 11, 2013","$420,000",37.465736,-122.43674,CA,Condo,420000,"$507,000",94019,,,,Sold,SAN MATEO
+53,311 Bayhill Rd,,,Half Moon Bay,,"Oct 7, 2013","$1,405,000",37.440292,-122.43412,CA,Single-Family Home,1405000,,94019,,,,Sold,SAN MATEO
+54,128 Patrick Way,2.5,2.0,Half Moon Bay,"1,400 sqft","Oct 7, 2013","$600,000",37.468166,-122.4253,CA,Single-Family Home,600000,"$708,000",94019,,,,Sold,SAN MATEO
+55,607 Grove St,2.0,2.0,Half Moon Bay,968 sqft,"Oct 4, 2013","$560,000",37.455524,-122.43198,CA,Single-Family Home,560000,"$593,000",94019,,,,Sold,SAN MATEO
+56,583 Poplar St,2.0,4.0,Half Moon Bay,"1,500 sqft","Oct 4, 2013","$649,000",37.45703,-122.43273,CA,Single-Family Home,649000,"$782,000",94019,,,,Sold,SAN MATEO
+57,240 Poplar St,3.0,4.0,Half Moon Bay,"2,800 sqft","Oct 3, 2013","$1,217,000",37.455624,-122.4398,CA,Single-Family Home,1217000,"$1,372,000",94019,,,,Sold,SAN MATEO
+58,425 Belleville Blvd,3.0,4.0,Half Moon Bay,"2,250 sqft","Oct 1, 2013","$682,500",37.470615,-122.43563,CA,Single-Family Home,682500,"$1,093,000",94019,,,,Sold,SAN MATEO
+59,510 Hermosa Ave,3.0,3.0,Half Moon Bay,"2,530 sqft","Sep 27, 2013","$1,071,500",37.49492,-122.45367,CA,Single-Family Home,1071500,"$1,468,000",94019,,,,Sold,SAN MATEO
+60,408 Greenbrier Rd,2.5,3.0,Half Moon Bay,"2,630 sqft","Sep 27, 2013","$1,315,000",37.434467,-122.43301,CA,Single-Family Home,1315000,"$1,133,000",94019,,,,Sold,SAN MATEO
+61,407 San Benito St,2.0,3.0,Half Moon Bay,"1,720 sqft","Sep 25, 2013","$800,000",37.46405,-122.42678,CA,Single-Family Home,800000,"$881,000",94019,,,,Sold,SAN MATEO
+62,428 Valdez Ave,2.0,3.0,Half Moon Bay,"1,230 sqft","Sep 24, 2013","$178,500",37.461178,-122.437485,CA,Single-Family Home,178500,"$678,000",94019,,,,Sold,SAN MATEO
+63,699 Terrace Ave,3.0,5.0,Half Moon Bay,"2,460 sqft","Sep 20, 2013","$800,000",37.476803,-122.431046,CA,Single-Family Home,800000,"$1,110,000",94019,,,,Sold,SAN MATEO
+64,20 River Oaks Rd,2.5,3.0,Half Moon Bay,"2,430 sqft","Sep 13, 2013","$800,000",37.434998,-122.435455,CA,Single-Family Home,800000,"$1,199,000",94019,,,,Sold,SAN MATEO
+65,290 Amesport Lndg,1.0,2.0,Half Moon Bay,908 sqft,"Sep 13, 2013","$439,000",37.460297,-122.430954,CA,Condo,439000,"$503,000",94019,,,,Sold,SAN MATEO
+66,2334 Winged Foot Rd,2.0,3.0,Half Moon Bay,"1,860 sqft","Sep 10, 2013","$895,000",37.43176,-122.432884,CA,Single-Family Home,895000,"$1,147,000",94019,,,,Sold,SAN MATEO
+67,114 Amesport Lndg,2.0,2.0,Half Moon Bay,950 sqft,"Sep 6, 2013","$441,000",37.46073,-122.43341,CA,Condo,441000,"$511,000",94019,,,,Sold,SAN MATEO
+68,377 Eagle Trace Dr,3.5,5.0,Half Moon Bay,"3,309 sqft","Sep 5, 2013","$1,475,000",37.43661,-122.42906,CA,Single-Family Home,1475000,"$1,651,000",94019,,,,Sold,SAN MATEO
+69,635 Highland Ave,3.0,4.0,Half Moon Bay,"3,130 sqft","Aug 30, 2013","$1,130,000",37.47458,-122.43103,CA,Single-Family Home,1130000,"$1,319,000",94019,,,,Sold,SAN MATEO
+70,1038 Suzanne Ct,1.5,3.0,Half Moon Bay,"1,190 sqft","Aug 30, 2013","$385,000",37.455418,-122.427734,CA,Single-Family Home,385000,"$542,000",94019,,,,Sold,SAN MATEO
+71,418 Casa Del Mar Dr,2.0,4.0,Half Moon Bay,"1,460 sqft","Aug 30, 2013","$704,000",37.477345,-122.44366,CA,Single-Family Home,704000,"$796,000",94019,,,,Sold,SAN MATEO
+72,400 Cabrillo Hwy N,1.0,3.0,Half Moon Bay,"1,100 sqft","Aug 29, 2013","$500,000",37.471592,-122.435234,CA,Single-Family Home,500000,"$1,026,000",94019,,,,Sold,SAN MATEO
+73,540 Bayhill Rd,3.0,4.0,Half Moon Bay,"3,330 sqft","Aug 27, 2013","$1,428,000",37.43751,-122.43106,CA,Single-Family Home,1428000,"$1,658,000",94019,,,,Sold,SAN MATEO
+74,2060 Touraine Ln,2.0,4.0,Half Moon Bay,"2,060 sqft","Aug 23, 2013","$839,000",37.486294,-122.445496,CA,Single-Family Home,839000,"$928,000",94019,,,,Sold,SAN MATEO
+75,325 Miramar Dr,1.5,3.0,Half Moon Bay,"1,520 sqft","Aug 22, 2013","$650,000",37.494244,-122.45715,CA,Single-Family Home,650000,"$902,000",94019,,,,Sold,SAN MATEO
+76,331 Miramontes Ave,3.0,4.0,Half Moon Bay,"2,720 sqft","Aug 21, 2013","$870,000",37.463852,-122.43893,CA,Single-Family Home,870000,"$1,113,000",94019,,,,Sold,SAN MATEO
+77,2053 Touraine Ln,3.0,4.0,Half Moon Bay,"2,600 sqft","Aug 20, 2013","$806,000",37.48638,-122.44426,CA,Single-Family Home,806000,"$1,068,000",94019,,,,Sold,SAN MATEO
+78,402 Coronado Ave,4.0,3.0,Half Moon Bay,"3,330 sqft","Aug 19, 2013","$1,200,000",37.498135,-122.45813,CA,Single-Family Home,1200000,"$1,554,000",94019,,,,Sold,SAN MATEO
+79,251 Granelli Ave,2.5,3.0,Half Moon Bay,"2,940 sqft","Aug 9, 2013","$910,000",37.459576,-122.43991,CA,Single-Family Home,910000,"$1,178,000",94019,,,,Sold,SAN MATEO
+80,843 First Ave,2.0,4.0,Half Moon Bay,"1,370 sqft","Jul 31, 2013","$769,000",37.457012,-122.4391,CA,Single-Family Home,769000,"$883,000",94019,,,,Sold,SAN MATEO
+81,1130 Cabrillo Hwy N,2.5,4.0,Half Moon Bay,"1,970 sqft","Jul 31, 2013","$554,000",37.476444,-122.44036,CA,Single-Family Home,554000,"$829,000",94019,,,,Sold,SAN MATEO
+82,321 Granelli Ave,2.0,3.0,Half Moon Bay,"2,570 sqft","Jul 30, 2013","$1,100,000",37.459736,-122.43863,CA,Single-Family Home,1100000,"$1,126,000",94019,,,,Sold,SAN MATEO
+83,440 Laurel Ave,3.0,4.0,Half Moon Bay,"3,460 sqft","Jul 30, 2013","$780,000",37.465694,-122.43631,CA,Multi-Family,780000,"$969,000",94019,,,,Sold,SAN MATEO
+84,369 Saint Andrews Ln,3.0,3.0,Half Moon Bay,"2,430 sqft","Jul 29, 2013","$868,150",37.440334,-122.43249,CA,Single-Family Home,868150,"$1,236,000",94019,,,,Sold,SAN MATEO
+85,908 Bancroft Ave,3.0,3.0,Half Moon Bay,"1,310 sqft","Jul 26, 2013","$685,000",37.476425,-122.43693,CA,Single-Family Home,685000,"$876,000",94019,,,,Sold,SAN MATEO
+86,1515 Spinnaker Ln,2.0,4.0,Half Moon Bay,"1,570 sqft","Jul 26, 2013","$600,000",37.480804,-122.44193,CA,Single-Family Home,600000,"$760,000",94019,,,,Sold,SAN MATEO
+87,111 Turnberry Rd,2.5,4.0,Half Moon Bay,"3,470 sqft","Jul 26, 2013","$1,294,000",37.43785,-122.43387,CA,Single-Family Home,1294000,"$1,287,000",94019,,,,Sold,SAN MATEO
+88,1836 Cabrillo Hwy N,2.0,3.0,Half Moon Bay,"2,040 sqft","Jul 25, 2013","$735,000",37.481586,-122.44581,CA,Single-Family Home,735000,"$1,090,000",94019,,,,Sold,SAN MATEO
+89,351 Cypress Point Rd,3.0,4.0,Half Moon Bay,"3,430 sqft","Jul 25, 2013","$1,840,000",37.435356,-122.43601,CA,Single-Family Home,1840000,"$1,958,000",94019,,,,Sold,SAN MATEO
+90,323 Valdez Ave,2.0,3.0,Half Moon Bay,"1,820 sqft","Jul 24, 2013","$765,000",37.46191,-122.43955,CA,Single-Family Home,765000,"$960,000",94019,,,,Sold,SAN MATEO
+91,2025 Touraine Ln,2.0,4.0,Half Moon Bay,"2,060 sqft","Jul 19, 2013","$830,000",37.48552,-122.44558,CA,Single-Family Home,830000,"$853,000",94019,,,,Sold,SAN MATEO
+92,609 Terrace Ave,2.0,3.0,Half Moon Bay,"2,450 sqft","Jul 16, 2013","$750,000",37.474937,-122.43313,CA,Single-Family Home,750000,"$940,000",94019,,,,Sold,SAN MATEO
+93,307 Garcia Ave,3.0,4.0,Half Moon Bay,"2,370 sqft","Jul 16, 2013","$850,000",37.46087,-122.44049,CA,Single-Family Home,850000,"$1,008,000",94019,,,,Sold,SAN MATEO
+94,201 Mirada Rd,,,Half Moon Bay,"1,280 sqft","Jul 15, 2013","$1,575,000",37.4934,-122.459274,CA,Unknown,1575000,,94019,,,,Sold,SAN MATEO
+95,539 Highland Ave,2.5,4.0,Half Moon Bay,"3,030 sqft","Jul 12, 2013","$905,000",37.47274,-122.433075,CA,Single-Family Home,905000,"$1,186,000",94019,,,,Sold,SAN MATEO
+96,41 Patrick Way,3.0,3.0,Half Moon Bay,"1,700 sqft","Jul 10, 2013","$678,000",37.467537,-122.42627,CA,Single-Family Home,678000,"$830,000",94019,,,,Sold,SAN MATEO
+97,414 Belleville Blvd,2.5,3.0,Half Moon Bay,"2,920 sqft","Jul 9, 2013","$1,125,000",37.4707,-122.43625,CA,Single-Family Home,1125000,"$1,313,000",94019,,,,Sold,SAN MATEO
+98,71 Guerrero St,,,Half Moon Bay,,"Jul 8, 2013","$900,000",37.49104,-122.45567,CA,Single-Family Home,900000,,94019,,,,Sold,SAN MATEO
+99,413 Antoinette Ln,2.0,3.0,Half Moon Bay,"1,450 sqft","Jul 5, 2013","$740,000",37.476414,-122.44377,CA,Single-Family Home,740000,"$803,000",94019,,,,Sold,SAN MATEO
+100,901 Alsace Loraine Ave,2.5,3.0,Half Moon Bay,"2,260 sqft","Jul 3, 2013","$790,000",37.459164,-122.43953,CA,Single-Family Home,790000,"$1,082,000",94019,,,,Sold,SAN MATEO
+101,170 Amesport Lndg,1.0,2.0,Half Moon Bay,908 sqft,"Jul 2, 2013","$431,000",37.460037,-122.43368,CA,Condo,431000,"$488,000",94019,,,,Sold,SAN MATEO
+102,1559 Mizzen Ln,2.0,4.0,Half Moon Bay,"1,580 sqft","Jul 2, 2013","$554,000",37.482643,-122.43841,CA,Single-Family Home,554000,"$817,000",94019,,,,Sold,SAN MATEO
+103,11831 San Mateo Rd,,,Half Moon Bay,,"Jun 28, 2013","$575,000",37.487827,-122.394295,CA,Single-Family Home,575000,"$369,000",94019,,,,Sold,SAN MATEO
+104,345 Seymour St,3.5,4.0,Half Moon Bay,"3,269 sqft","Jun 28, 2013","$1,250,000",37.453266,-122.436745,CA,Single-Family Home,1250000,"$1,363,000",94019,,,,Sold,SAN MATEO
+105,129 Spyglass Ln,4.0,4.0,Half Moon Bay,"4,472 sqft","Jun 28, 2013","$2,600,000",37.43181,-122.43735,CA,Single-Family Home,2600000,"$3,014,000",94019,,,,Sold,SAN MATEO
+106,335 Coronado Ave,3.5,4.0,Half Moon Bay,"3,270 sqft","Jun 28, 2013","$1,100,000",37.49789,-122.459496,CA,Single-Family Home,1100000,"$1,495,000",94019,,,,Sold,SAN MATEO
+107,415 Miramar Dr,2.5,4.0,Half Moon Bay,"2,870 sqft","Jun 27, 2013","$1,306,000",37.495686,-122.45545,CA,Single-Family Home,1306000,"$1,463,000",94019,,,,Sold,SAN MATEO
+108,501 Avenue Del Oro,2.5,3.0,Half Moon Bay,"2,290 sqft","Jun 24, 2013","$889,000",37.50852,-122.47004,CA,Single-Family Home,889000,"$1,020,000",94019,,,,Sold,SAN MATEO

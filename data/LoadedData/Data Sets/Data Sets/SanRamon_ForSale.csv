@@ -1,0 +1,202 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,3426 Java Dr,3.0,5.0,San Ramon,"2,500 sqft","Dec 31, 1969",$0,37.780148,-121.96248,CA,Single-Family Home,939000,,94582,,52,,For Sale,CONTRA COSTA
+2,1236 Andreas Way,2.5,4.0,San Ramon,"3,223 sqft","Dec 31, 1969",$0,37.765995,-121.90278,CA,Single-Family Home,1100000,,94582,,18,,For Sale,CONTRA COSTA
+3,108 Canyon Lakes Way,2.0,4.0,San Ramon,"2,634 sqft","Dec 31, 1969",$0,37.77687,-121.95427,CA,Single-Family Home,899000,,94582,,42,,For Sale,CONTRA COSTA
+4,530 Kingsbridge Ct,6.0,5.0,San Ramon,"5,400 sqft","Dec 31, 1969",$0,37.750008,-121.989784,CA,Single-Family Home,2099000,,94583,,3,,For Sale,CONTRA COSTA
+5,125 Lucy Ln,3.0,3.0,San Ramon,"2,620 sqft","Dec 31, 1969",$0,37.768513,-121.92319,CA,Single-Family Home,919900,,94582,,46,,For Sale,CONTRA COSTA
+6,612 Rock Rose Ln,3.0,4.0,San Ramon,"2,847 sqft","Dec 31, 1969",$0,37.78371,-121.92095,CA,Single-Family Home,999999,,94582,,25,,For Sale,CONTRA COSTA
+7,115 Alisma Ct,3.0,5.0,San Ramon,"2,970 sqft","Dec 31, 1969",$0,37.77007,-121.94039,CA,Single-Family Home,1199000,,94582,,38,,For Sale,CONTRA COSTA
+8,6007 Westside Dr,3.0,4.0,San Ramon,"3,342 sqft","Dec 31, 1969",$0,37.73948,-121.95571,CA,Single-Family Home,1299000,,94583,,17,,For Sale,CONTRA COSTA
+9,9555 Alcosta Blvd,3.0,5.0,San Ramon,"2,900 sqft","Dec 31, 1969",$0,37.739162,-121.92714,CA,Single-Family Home,1079000,,94583,,38,,For Sale,CONTRA COSTA
+10,6018 Westside Dr,2.5,5.0,San Ramon,"3,342 sqft","Dec 31, 1969",$0,37.740353,-121.9576,CA,Single-Family Home,1249000,,94583,,18,,For Sale,CONTRA COSTA
+11,249 Copper Ridge Rd,1.0,1.0,San Ramon,778 sqft,"Dec 31, 1969",$0,37.76892,-121.94658,CA,Condo,319900,,94582,,57,,For Sale,CONTRA COSTA
+12,304 Eastridge Dr,1.0,1.0,San Ramon,,"Dec 31, 1969",$0,37.76933,-121.94183,CA,Condo,305000,,94582,,42,,For Sale,CONTRA COSTA
+13,536 Kingsbridge Ct,5.5,5.0,San Ramon,"5,034 sqft","Dec 31, 1969",$0,37.74981,-121.989655,CA,Single-Family Home,1998000,,94583,,5,,For Sale,CONTRA COSTA
+14,381 Bridle Ct,4.0,4.0,San Ramon,"3,906 sqft","Dec 31, 1969",$0,37.73836,-121.922386,CA,Single-Family Home,1699000,,94582,,31,,For Sale,CONTRA COSTA
+15,5935 Lantana Way,3.0,5.0,San Ramon,"2,957 sqft","Dec 31, 1969",$0,37.779392,-121.92847,CA,Single-Family Home,1199000,,94582,,37,,For Sale,CONTRA COSTA
+16,51 Eagle Lake Ct #33,2.0,3.0,San Ramon,,"Dec 31, 1969",$0,37.784298,-121.94935,CA,Condo,689000,,94582,,25,,For Sale,CONTRA COSTA
+17,2716 Salisbury Way,3.0,5.0,San Ramon,"3,231 sqft","Dec 31, 1969",$0,37.75456,-121.895645,CA,Single-Family Home,1025000,,94582,,12,,For Sale,CONTRA COSTA
+18,1568 Banbury Dr,4.0,5.0,San Ramon,"2,661 sqft","Dec 31, 1969",$0,37.75464,-121.89975,CA,Single-Family Home,962000,,94582,,17,,For Sale,CONTRA COSTA
+19,703 Destiny Ln,2.5,3.0,San Ramon,"1,325 sqft","Dec 31, 1969",$0,37.77919,-121.98684,CA,Townhome,535000,,94583,,,,For Sale,CONTRA COSTA
+20,703 Destiny Ln #50,3.0,3.0,San Ramon,"1,325 sqft","Dec 31, 1969",$0,37.779182,-121.986824,CA,Apt/Condo/Twnhm,535000,,94583,,57,,For Sale,CONTRA COSTA
+21,2553 Mclaren Ln,3.0,3.0,San Ramon,"1,950 sqft","Dec 31, 1969",$0,37.760082,-121.90316,CA,Single-Family Home,799000,,94582,,,,For Sale,CONTRA COSTA
+22,340 Santa Cruz Pl,3.0,3.0,San Ramon,"2,989 sqft","Dec 31, 1969",$0,37.754074,-121.94337,CA,Single-Family Home,950000,,94583,,29,,For Sale,CONTRA COSTA
+23,33 Hidden Canyon Ct,2.0,4.0,San Ramon,"2,444 sqft","Dec 31, 1969",$0,37.788364,-121.945435,CA,Single-Family Home,900000,,94582,,22,,For Sale,CONTRA COSTA
+24,3763 Crow Canyon Rd #57,2.0,2.0,San Ramon,"1,107 sqft","Dec 31, 1969",$0,37.786213,-121.9525,CA,Apt/Condo/Twnhm,459000,,94582,,17,,For Sale,CONTRA COSTA
+25,3331 Ashbourne Cir,,,San Ramon,,"Dec 31, 1969",$0,37.745987,-121.98694,CA,Lot/Land,1250000,,94583,,3,,For Sale,CONTRA COSTA
+26,1095 Hawkshead Cir,,,San Ramon,,"Dec 31, 1969",$0,37.741253,-121.983955,CA,Lot/Land,3750000,,94583,,2,,For Sale,CONTRA COSTA
+27,7808 Stoneleaf Rd,2.5,3.0,San Ramon,"2,228 sqft","Dec 31, 1969",$0,37.7674,-121.919685,CA,Townhome,719000,,94582,,20,,For Sale,CONTRA COSTA
+28,320 Murindo Pl,,,San Ramon,,"Dec 31, 1969",$0,37.767788,-121.99064,CA,Single-Family Home,937500,,94583,,38,,For Sale,CONTRA COSTA
+29,3915 Crow Canyon Rd #123,2.0,2.0,San Ramon,922 sqft,"Dec 31, 1969",$0,37.78546,-121.95256,CA,Condo,398000,,94582,,22,,For Sale,CONTRA COSTA
+30,9797 Alcosta Blvd,2.0,3.0,San Ramon,"1,750 sqft","Dec 31, 1969",$0,37.743412,-121.930626,CA,Single-Family Home,699000,,94583,,20,,For Sale,CONTRA COSTA
+31,3915 Crow Canyon Rd,2.0,2.0,San Ramon,922 sqft,"Dec 31, 1969",$0,37.78546,-121.95256,CA,Apt/Condo/Twnhm,398000,,94582,,22,,For Sale,CONTRA COSTA
+32,115 Sapphire Ct,2.5,3.0,San Ramon,"1,766 sqft","Dec 31, 1969",$0,37.773167,-121.949844,CA,Single-Family Home,765000,,94582,,51,,For Sale,CONTRA COSTA
+33,7828 Veronica Ct,3.0,4.0,San Ramon,"1,685 sqft","Dec 31, 1969",$0,37.776234,-121.92916,CA,Single-Family Home,724900,,94582,,42,,For Sale,CONTRA COSTA
+34,28 Fircrest Ct,2.0,2.0,San Ramon,"1,176 sqft","Dec 31, 1969",$0,37.730225,-121.92618,CA,Single-Family Home,499900,,94583,,42,,For Sale,CONTRA COSTA
+35,2305 Keats Ln,3.0,4.0,San Ramon,"2,129 sqft","Dec 31, 1969",$0,37.75256,-121.89163,CA,Single-Family Home,898800,,94582,,8,,For Sale,CONTRA COSTA
+36,300 Caraway Ct,3.0,4.0,San Ramon,"2,373 sqft","Dec 31, 1969",$0,37.776424,-121.94247,CA,Single-Family Home,1075000,,94582,,34,,For Sale,CONTRA COSTA
+37,3665 Crow Canyon Rd,2.0,2.0,San Ramon,"1,107 sqft","Dec 31, 1969",$0,37.78469,-121.952705,CA,Townhome,465000,,94582,,22,,For Sale,CONTRA COSTA
+38,4120 Terra Alta Dr,3.0,3.0,San Ramon,"2,574 sqft","Dec 31, 1969",$0,37.75627,-121.936646,CA,Single-Family Home,995000,,94582,,12,,For Sale,CONTRA COSTA
+39,331 Foxboro Ct,2.0,4.0,San Ramon,"1,479 sqft","Dec 31, 1969",$0,37.751232,-121.9473,CA,Single-Family Home,749950,,94583,,29,,For Sale,CONTRA COSTA
+40,46 Chaucer Ct,3.0,4.0,San Ramon,"3,180 sqft","Dec 31, 1969",$0,37.756004,-121.954865,CA,Single-Family Home,1050000,,94583,,48,,For Sale,CONTRA COSTA
+41,8985 Alcosta Blvd,2.0,3.0,San Ramon,"1,317 sqft","Dec 31, 1969",$0,37.72547,-121.93591,CA,Single-Family Home,399999,,94583,,38,,For Sale,CONTRA COSTA
+42,2010 Canyon Woods Dr #C,2.0,2.0,San Ramon,"1,031 sqft","Dec 31, 1969",$0,37.760998,-121.94285,CA,Condo,470000,,94582,,43,,For Sale,CONTRA COSTA
+43,2681 Twin Creeks Dr,3.0,4.0,San Ramon,"1,880 sqft","Dec 31, 1969",$0,37.769,-121.97573,CA,Single-Family Home,768888,,94583,,72,,For Sale,CONTRA COSTA
+44,4011 Lilac Ridge Rd,2.5,4.0,San Ramon,"2,757 sqft","Dec 31, 1969",$0,37.778046,-121.943474,CA,Single-Family Home,1299000,,94582,,28,,For Sale,CONTRA COSTA
+45,1223 Ustilago Dr,3.0,4.0,San Ramon,"2,970 sqft","Dec 31, 1969",$0,37.771423,-121.93808,CA,Single-Family Home,1199000,,94582,,31,,For Sale,CONTRA COSTA
+46,2024 Sorrelwood Ct,5.0,5.0,San Ramon,"3,847 sqft","Dec 31, 1969",$0,37.774685,-121.93971,CA,Single-Family Home,1575000,,94582,,31,,For Sale,CONTRA COSTA
+47,256 Canyon Woods Way #A,2.0,2.0,San Ramon,"1,100 sqft","Dec 31, 1969",$0,37.76155,-121.94471,CA,Condo,499900,,94582,,46,,For Sale,CONTRA COSTA
+48,115 Shadowhill Cir,3.0,3.0,San Ramon,"1,812 sqft","Dec 31, 1969",$0,37.774166,-121.992836,CA,Townhome,698000,,94583,,40,,For Sale,CONTRA COSTA
+49,400 Heather Ridge Ct,3.0,4.0,San Ramon,"3,003 sqft","Dec 31, 1969",$0,37.74391,-121.9192,CA,Single-Family Home,1099000,,94582,,9,,For Sale,CONTRA COSTA
+50,2652 Basswood Dr,3.0,4.0,San Ramon,"1,811 sqft","Dec 31, 1969",$0,37.771023,-121.917984,CA,Single-Family Home,799000,,94582,,28,,For Sale,CONTRA COSTA
+51,Vestrella Plan,2.5,3.0,San Ramon,"1,490 sqft","Dec 31, 1969",$0,37.76498,-121.91313,CA,Single-Family Home,709900,,94582,,17,,For Sale,CONTRA COSTA
+52,Mira Flores Plan,2.5,4.0,San Ramon,"1,729 sqft","Dec 31, 1969",$0,37.76498,-121.91313,CA,Single-Family Home,759900,,94582,,17,,For Sale,CONTRA COSTA
+53,Fresco Plan,3.0,4.0,San Ramon,"1,835 sqft","Dec 31, 1969",$0,37.76498,-121.91313,CA,Single-Family Home,774900,,94582,,17,,For Sale,CONTRA COSTA
+54,Alicante (CA) Plan,2.5,2.0,San Ramon,"1,268 sqft","Dec 31, 1969",$0,37.76498,-121.91313,CA,Single-Family Home,644900,,94582,,17,,For Sale,CONTRA COSTA
+55,Cantara Plan,2.5,3.0,San Ramon,"1,596 sqft","Dec 31, 1969",$0,37.76498,-121.91313,CA,Single-Family Home,724900,,94582,,17,,For Sale,CONTRA COSTA
+56,2209 Watermill Rd,2.5,3.0,San Ramon,"1,979 sqft","Dec 31, 1969",$0,37.760944,-121.907394,CA,Single-Family Home,625000,,94582,,32,,For Sale,CONTRA COSTA
+57,6700 Aberdale Cir,3.0,3.0,San Ramon,"1,675 sqft","Dec 31, 1969",$0,37.74888,-121.90056,CA,Single-Family Home,749000,,94582,,14,,For Sale,CONTRA COSTA
+58,Mariposa (CA) Plan,3.0,4.0,San Ramon,"2,601 sqft","Dec 31, 1969",$0,37.77787,-121.90934,CA,Single-Family Home,1024900,,94582,,20,,For Sale,CONTRA COSTA
+59,Cristallo Plan,3.5,4.0,San Ramon,"2,229 sqft","Dec 31, 1969",$0,37.77787,-121.90934,CA,Single-Family Home,959900,,94582,,20,,For Sale,CONTRA COSTA
+60,637 Rosincress Ct,2.5,4.0,San Ramon,"2,740 sqft","Dec 31, 1969",$0,37.777596,-121.94166,CA,Single-Family Home,1285000,,94582,,28,,For Sale,CONTRA COSTA
+61,3038 Lakemont Dr #4,2.0,3.0,San Ramon,"1,778 sqft","Dec 31, 1969",$0,37.78057,-121.95171,CA,Condo,614000,,94582,,29,,For Sale,CONTRA COSTA
+62,Sevilla (CA) Plan,3.0,3.0,San Ramon,"1,729 sqft","Dec 31, 1969",$0,37.76312,-121.917046,CA,Single-Family Home,809900,,94582,,20,,For Sale,CONTRA COSTA
+63,Treviso (CA) Plan,5.5,5.0,San Ramon,"4,290 sqft","Dec 31, 1969",$0,37.76806,-121.91843,CA,Single-Family Home,1339900,,94582,,28,,For Sale,CONTRA COSTA
+64,Ravello (CA) Plan,4.0,4.0,San Ramon,"2,902 sqft","Dec 31, 1969",$0,37.77787,-121.90934,CA,Single-Family Home,1114900,,94582,,20,,For Sale,CONTRA COSTA
+65,7165 Watsonia Dr,3.0,4.0,San Ramon,"2,849 sqft","Dec 31, 1969",$0,37.772892,-121.91076,CA,Single-Family Home,1149000,,94582,,20,,For Sale,CONTRA COSTA
+66,Alvarado Plan,3.0,3.0,San Ramon,"2,181 sqft","Dec 31, 1969",$0,37.76312,-121.917046,CA,Single-Family Home,913900,,94582,,25,,For Sale,CONTRA COSTA
+67,Dirado Plan,4.5,4.0,San Ramon,"3,181 sqft","Dec 31, 1969",$0,37.77787,-121.90934,CA,Single-Family Home,1144900,,94582,,20,,For Sale,CONTRA COSTA
+68,Orinda Plan,5.5,5.0,San Ramon,"6,645 sqft","Dec 31, 1969",$0,37.752758,-122.001816,CA,Single-Family Home,1805995,,94583,,0,,For Sale,CONTRA COSTA
+69,400 Old Ranch Ct,3.0,4.0,San Ramon,"3,400 sqft","Dec 31, 1969",$0,37.73832,-121.924164,CA,Single-Family Home,1050000,,94582,,28,,For Sale,CONTRA COSTA
+70,118 Arapaho Cir,,,San Ramon,"2,339 sqft","Dec 31, 1969",$0,37.754993,-121.97159,CA,Single-Family Home,940000,,94583,,35,,For Sale,CONTRA COSTA
+71,118 Shadowhill Cir,3.0,4.0,San Ramon,"1,995 sqft","Dec 31, 1969",$0,37.774406,-121.99339,CA,Townhome,715000,,94583,,40,,For Sale,CONTRA COSTA
+72,2444 Talavera Dr,3.0,4.0,San Ramon,"1,880 sqft","Dec 31, 1969",$0,37.76395,-121.9724,CA,Single-Family Home,774900,,94583,,60,,For Sale,CONTRA COSTA
+73,620 Sunflower Ct,3.0,4.0,San Ramon,"2,494 sqft","Dec 31, 1969",$0,37.785095,-121.91948,CA,Single-Family Home,928000,,94582,,25,,For Sale,CONTRA COSTA
+74,Blue Mound Court and Blue Mound Drive,2.0,3.0,San Ramon,"2,112 sqft","Dec 31, 1969",$0,37.74091,-121.93107,CA,Single-Family Home,799950,,94583,,22,,For Sale,CONTRA COSTA
+75,351 Dawes Ct,5.0,5.0,San Ramon,"4,241 sqft","Dec 31, 1969",$0,37.74706,-121.88562,CA,Single-Family Home,1349900,,94582,,3,,For Sale,CONTRA COSTA
+76,627 Karina Ct,4.0,4.0,San Ramon,"3,543 sqft","Dec 31, 1969",$0,37.761456,-121.89199,CA,Single-Family Home,1139000,,94582,,11,,For Sale,CONTRA COSTA
+77,291 Norris Canyon Ter #C,2.0,2.0,San Ramon,"1,179 sqft","Dec 31, 1969",$0,37.777916,-121.960236,CA,Condo,459000,,94583,,,,For Sale,CONTRA COSTA
+78,2675 Celaya Cir,3.0,4.0,San Ramon,"2,718 sqft","Dec 31, 1969",$0,37.766266,-121.97997,CA,Single-Family Home,985000,,94583,,62,,For Sale,CONTRA COSTA
+79,7906 Persica Ct,3.0,3.0,San Ramon,"1,463 sqft","Dec 31, 1969",$0,37.777355,-121.92912,CA,Townhome,685500,,94582,,37,,For Sale,CONTRA COSTA
+80,3207 Casa Grande Dr,3.0,3.0,San Ramon,"2,594 sqft","Dec 31, 1969",$0,37.745644,-121.93993,CA,Single-Family Home,864900,,94583,,18,,For Sale,CONTRA COSTA
+81,1126 Hoskins Ln,3.0,4.0,San Ramon,"2,982 sqft","Dec 31, 1969",$0,37.749584,-121.891045,CA,Single-Family Home,1049000,,94582,,6,,For Sale,CONTRA COSTA
+82,1122 Hawkshead Cir,5.5,5.0,San Ramon,"5,468 sqft","Dec 31, 1969",$0,37.740253,-121.98498,CA,Single-Family Home,2247995,,94583,,0,,For Sale,CONTRA COSTA
+83,1100 Langton Dr San Ramon Ca,3.0,4.0,San Ramon,"2,494 sqft","Dec 31, 1969",$0,37.761864,-121.902054,CA,Single-Family Home,950000,,94582,,17,,For Sale,CONTRA COSTA
+84,1100 Langton Dr,3.0,4.0,San Ramon,"2,494 sqft","Dec 31, 1969",$0,37.761864,-121.902054,CA,Single-Family Home,950000,,94582,,17,,For Sale,CONTRA COSTA
+85,4080 Terra Alta Dr,2.5,3.0,San Ramon,"2,496 sqft","Dec 31, 1969",$0,37.75722,-121.93736,CA,Single-Family Home,935000,,94582,,17,,For Sale,CONTRA COSTA
+86,Modena (CA) Plan,4.5,5.0,San Ramon,"3,814 sqft","Dec 31, 1969",$0,37.76806,-121.91843,CA,Single-Family Home,1289900,,94582,,28,,For Sale,CONTRA COSTA
+87,Folsom Plan,5.5,5.0,San Ramon,"5,722 sqft","Dec 31, 1969",$0,37.752758,-122.001816,CA,Single-Family Home,1984995,,94583,,0,,For Sale,CONTRA COSTA
+88,Taranto (CA) Plan,3.0,4.0,San Ramon,"3,606 sqft","Dec 31, 1969",$0,37.76806,-121.91843,CA,Single-Family Home,1250900,,94582,,28,,For Sale,CONTRA COSTA
+89,Riviera (CA) Plan,3.5,4.0,San Ramon,"2,363 sqft","Dec 31, 1969",$0,37.76312,-121.917046,CA,Single-Family Home,944900,,94582,,25,,For Sale,CONTRA COSTA
+90,Padua Plan,3.5,4.0,San Ramon,"2,681 sqft","Dec 31, 1969",$0,37.76806,-121.91843,CA,Single-Family Home,1139900,,94582,,28,,For Sale,CONTRA COSTA
+91,Brisas Plan,2.5,3.0,San Ramon,"2,012 sqft","Dec 31, 1969",$0,37.76312,-121.917046,CA,Single-Family Home,873900,,94582,,25,,For Sale,CONTRA COSTA
+92,5048 Rashelle Way,4.0,4.0,San Ramon,"3,499 sqft","Dec 31, 1969",$0,37.76834,-121.92267,CA,Single-Family Home,1100000,,94582,,34,,For Sale,CONTRA COSTA
+93,Emilia (CA) Plan,3.5,4.0,San Ramon,"2,547 sqft","Dec 31, 1969",$0,37.76312,-121.917046,CA,Single-Family Home,964900,,94582,,20,,For Sale,CONTRA COSTA
+94,4393 Lilac Ridge Rd,2.0,3.0,San Ramon,"1,675 sqft","Dec 31, 1969",$0,37.781517,-121.94173,CA,Single-Family Home,825000,,94582,,25,,For Sale,CONTRA COSTA
+95,9911 Brunswick Way,2.0,4.0,San Ramon,"1,734 sqft","Dec 31, 1969",$0,37.7475,-121.95051,CA,Single-Family Home,749000,,94583,,,,For Sale,CONTRA COSTA
+96,5010 Portillo Vly,3.0,4.0,San Ramon,"2,570 sqft","Dec 31, 1969",$0,37.739513,-121.91719,CA,Single-Family Home,949900,,94582,,12,,For Sale,CONTRA COSTA
+97,7366 Sedgefield Ave,3.0,4.0,San Ramon,"1,787 sqft","Dec 31, 1969",$0,37.735477,-121.93546,CA,Single-Family Home,869000,,94583,,31,,For Sale,CONTRA COSTA
+98,3220 De Anza Pl,3.0,4.0,San Ramon,"2,193 sqft","Dec 31, 1969",$0,37.747574,-121.94122,CA,Single-Family Home,875000,,94583,,22,,For Sale,CONTRA COSTA
+99,6222 Lakeview Cir,2.5,3.0,San Ramon,,"Dec 31, 1969",$0,37.78334,-121.94233,CA,Single-Family Home,899000,,94582,,25,,For Sale,CONTRA COSTA
+100,650 Karina Ct,,,San Ramon,,"Dec 31, 1969",$0,37.761616,-121.891365,CA,Single-Family Home,1199950,,94582,,11,,For Sale,CONTRA COSTA
+101,7770 Stoneleaf Rd,2.5,3.0,San Ramon,"2,228 sqft","Dec 31, 1969",$0,37.76656,-121.92,CA,Townhome,777777,,94582,,20,,For Sale,CONTRA COSTA
+102,Plan 3,2.0,3.0,San Ramon,"1,014 sqft","Dec 31, 1969",$0,37.77649,-121.96324,CA,Multi-Family Home,542000,,94583,,68,,For Sale,CONTRA COSTA
+103,Plan 1,2.0,2.0,San Ramon,944 sqft,"Dec 31, 1969",$0,37.77649,-121.96324,CA,Multi-Family Home,499000,,94583,,68,,For Sale,CONTRA COSTA
+104,9085 Alcosta Blvd #317,2.0,3.0,San Ramon,"1,368 sqft","Dec 31, 1969",$0,37.728252,-121.93484,CA,Condo,396900,,94583,,49,,For Sale,CONTRA COSTA
+105,Los Altos Plan,4.5,5.0,San Ramon,"4,611 sqft","Dec 31, 1969",$0,37.752758,-122.001816,CA,Single-Family Home,1601995,,94583,,0,,For Sale,CONTRA COSTA
+106,Mt. Diablo Plan,3.5,4.0,San Ramon,"3,955 sqft","Dec 31, 1969",$0,37.752758,-122.001816,CA,Single-Family Home,1584995,,94583,,0,,For Sale,CONTRA COSTA
+107,Renaissance at Roubion - Residence 3 Plan,6.5,5.0,San Ramon,"4,029 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1180000,,94583,,2,,For Sale,CONTRA COSTA
+108,Renaissance at Roubion - Residence 2 Plan,6.0,5.0,San Ramon,"3,684 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1179000,,94583,,2,,For Sale,CONTRA COSTA
+109,6 Boardwalk Pl,,,San Ramon,,"Dec 31, 1969",$0,37.772964,-121.98723,CA,Lot/Land,525000,,94583,,69,,For Sale,CONTRA COSTA
+110,1007 Hawkshead Cir,4.0,5.0,San Ramon,"3,412 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1275691,,94583,,2,,For Sale,CONTRA COSTA
+111,3533 Ashbourne Cir,5.5,5.0,San Ramon,"5,350 sqft","Dec 31, 1969",$0,37.75172,-121.99063,CA,Single-Family Home,2199000,,94583,,5,,For Sale,CONTRA COSTA
+112,Renaissance at Roubion - Residence 2 Plan,6.0,5.0,San Ramon,"3,684 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1248000,,94583,,2,,For Sale,CONTRA COSTA
+113,Renaissance at Roubion - Residence 3 Plan,6.5,5.0,San Ramon,"4,029 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1478000,,94583,,2,,For Sale,CONTRA COSTA
+114,Plan 2x ALT,2.0,3.0,San Ramon,946 sqft,"Dec 31, 1969",$0,37.77649,-121.96324,CA,Multi-Family Home,524000,,94583,,68,,For Sale,CONTRA COSTA
+115,Plan 2,2.0,2.0,San Ramon,950 sqft,"Dec 31, 1969",$0,37.77649,-121.96324,CA,Multi-Family Home,517391,,94583,,68,,For Sale,CONTRA COSTA
+116,Renaissance at Roubion - Residence 4 Plan,6.5,5.0,San Ramon,"4,298 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1488000,,94583,,2,,For Sale,CONTRA COSTA
+117,249 Summerford Cir,3.0,4.0,San Ramon,"3,020 sqft","Dec 31, 1969",$0,37.756687,-121.944565,CA,Single-Family Home,950000,,94583,,38,,For Sale,CONTRA COSTA
+118,Renaissance at Roubion - Residence 1 Plan,4.0,5.0,San Ramon,"3,412 sqft","Dec 31, 1969",$0,37.743572,-121.989235,CA,Single-Family Home,1248000,,94583,,2,,For Sale,CONTRA COSTA
+119,El Dorado Plan,5.0,4.0,San Ramon,"4,557 sqft","Dec 31, 1969",$0,37.752758,-122.001816,CA,Single-Family Home,1583995,,94583,,0,,For Sale,CONTRA COSTA
+120,4536 Lilac Ridge Rd,7.0,5.0,San Ramon,"5,287 sqft","Dec 31, 1969",$0,37.781277,-121.93737,CA,Single-Family Home,1998000,,94582,,14,,For Sale,CONTRA COSTA
+121,Arianna Ln,3.0,3.0,San Ramon,"1,892 sqft","Dec 31, 1969",$0,37.765755,-121.90743,CA,Condo,7538,,94582,,22,,For Sale,CONTRA COSTA
+122,Melrose Ct,4.0,5.0,San Ramon,"4,558 sqft","Dec 31, 1969",$0,37.77627,-121.91021,CA,Single-Family Home,1955,,94582,,14,,For Sale,CONTRA COSTA
+123,Calico Ct,2.0,4.0,San Ramon,"4,509 sqft","Dec 31, 1969",$0,37.77737,-121.905205,CA,Single-Family Home,2967,,94582,,9,,For Sale,CONTRA COSTA
+124,Ridgeview Ct,2.0,4.0,San Ramon,"2,602 sqft","Dec 31, 1969",$0,37.768543,-121.953735,CA,Single-Family Home,2398,,94583,,57,,For Sale,CONTRA COSTA
+125,Craydon Cir,1.0,1.0,San Ramon,612 sqft,"Dec 31, 1969",$0,37.728554,-121.924095,CA,Condo,191250,,94583,,42,,For Sale,CONTRA COSTA
+126,Eastridge Dr,1.0,2.0,San Ramon,985 sqft,"Dec 31, 1969",$0,37.768658,-121.941376,CA,Condo,379920,,94582,,38,,For Sale,CONTRA COSTA
+127,Winn Ct,3.0,4.0,San Ramon,"3,566 sqft","Dec 31, 1969",$0,37.73681,-121.94818,CA,Single-Family Home,150000,,94583,,26,,For Sale,CONTRA COSTA
+128,Melbourne Way,3.0,5.0,San Ramon,"3,175 sqft","Dec 31, 1969",$0,37.754967,-121.89787,CA,Single-Family Home,205000,,94582,,17,,For Sale,CONTRA COSTA
+129,Springview Cir,2.0,3.0,San Ramon,"2,056 sqft","Dec 31, 1969",$0,37.760857,-121.94831,CA,Single-Family Home,125000,,94583,,63,,For Sale,CONTRA COSTA
+130,Norris Canyon Ter #C,1.0,2.0,San Ramon,"1,022 sqft","Dec 31, 1969",$0,37.778385,-121.9603,CA,Condo,402870,,94583,,49,,For Sale,CONTRA COSTA
+131,Norris Canyon Ter #D,2.0,2.0,San Ramon,"1,179 sqft","Dec 31, 1969",$0,37.778637,-121.96051,CA,Condo,440764,,94583,,49,,For Sale,CONTRA COSTA
+132,Rosincress Dr,4.0,6.0,San Ramon,"3,847 sqft","Dec 31, 1969",$0,37.77792,-121.94191,CA,Single-Family Home,2262,,94582,,28,,For Sale,CONTRA COSTA
+133,Fountainhead Dr,2.0,3.0,San Ramon,"1,158 sqft","Dec 31, 1969",$0,37.77021,-121.990166,CA,Condo,4269,,94583,,43,,For Sale,CONTRA COSTA
+134,Winterside Cir,2.0,2.0,San Ramon,"1,440 sqft","Dec 31, 1969",$0,37.759712,-121.949165,CA,Single-Family Home,4353,,94583,,58,,For Sale,CONTRA COSTA
+135,Java Dr,2.0,3.0,San Ramon,"1,879 sqft","Dec 31, 1969",$0,37.780563,-121.96099,CA,Single-Family Home,2066,,94582,,45,,For Sale,CONTRA COSTA
+136,Broadmoor Dr,2.0,4.0,San Ramon,"1,786 sqft","Dec 31, 1969",$0,37.74219,-121.94415,CA,Single-Family Home,436000,,94583,,25,,For Sale,CONTRA COSTA
+137,Alcosta Blvd #333,1.0,2.0,San Ramon,"1,039 sqft","Dec 31, 1969",$0,37.727245,-121.93471,CA,Condo,256800,,94583,,38,,For Sale,ALAMEDA
+138,Alcosta Blvd #415,1.0,2.0,San Ramon,952 sqft,"Dec 31, 1969",$0,37.7285,-121.93382,CA,Condo,462642,,94583,,46,,For Sale,ALAMEDA
+139,Nancy Ln,2.0,3.0,San Ramon,"1,605 sqft","Dec 31, 1969",$0,37.767094,-121.90688,CA,Condo,470000,,94582,,20,,For Sale,CONTRA COSTA
+140,Saint Michael Ct,2.0,4.0,San Ramon,"2,325 sqft","Dec 31, 1969",$0,37.74615,-121.95582,CA,Single-Family Home,530000,,94583,,18,,For Sale,CONTRA COSTA
+141,Fountainhead Dr,1.0,2.0,San Ramon,"1,102 sqft","Dec 31, 1969",$0,37.769695,-121.99239,CA,Condo,338517,,94583,,35,,For Sale,CONTRA COSTA
+142,Canyon Woods Way D,2.0,2.0,San Ramon,"1,042 sqft","Dec 31, 1969",$0,37.761314,-121.94389,CA,Condo,465555,,94582,,46,,For Sale,CONTRA COSTA
+143,Munras Pl,2.0,5.0,San Ramon,"2,194 sqft","Dec 31, 1969",$0,37.74815,-121.94223,CA,Single-Family Home,675000,,94583,,29,,For Sale,CONTRA COSTA
+144,Alcosta Boulevard and Alcosta Court,2.0,3.0,San Ramon,"1,848 sqft","Dec 31, 1969",$0,37.736477,-121.92436,CA,Single-Family Home,789000,,94583,,37,,For Sale,CONTRA COSTA
+145,Cattleya Way,,,San Ramon,,"Dec 31, 1969",$0,37.780113,-121.929504,CA,Unspecified,800000,,94582,,32,,For Sale,CONTRA COSTA
+146,Argyle Ct,2.0,4.0,San Ramon,"2,497 sqft","Dec 31, 1969",$0,37.747383,-121.89471,CA,Single-Family Home,997364,,94582,,9,,For Sale,CONTRA COSTA
+147,Opal Ct,2.0,3.0,San Ramon,"1,533 sqft","Dec 31, 1969",$0,37.77251,-121.94969,CA,Single-Family Home,753504,,94582,,51,,For Sale,CONTRA COSTA
+148,Coralflower Ln,2.0,3.0,San Ramon,"1,488 sqft","Dec 31, 1969",$0,37.788963,-121.924164,CA,Condo,658862,,94582,,32,,For Sale,CONTRA COSTA
+149,Satinleaf Way,,,San Ramon,,"Dec 31, 1969",$0,37.77877,-121.933525,CA,Unspecified,2202,,94582,,29,,For Sale,CONTRA COSTA
+150,Satinleaf Way,,,San Ramon,,"Dec 31, 1969",$0,37.776917,-121.93486,CA,Unspecified,3969,,94582,,28,,For Sale,CONTRA COSTA
+151,Cattleya Dr,,,San Ramon,,"Dec 31, 1969",$0,37.780125,-121.929504,CA,Unspecified,3823,,94582,,32,,For Sale,CONTRA COSTA
+152,Address Not Disclosed,,,San Ramon,,"Dec 31, 1969",$0,37.767063,-121.90685,CA,Unspecified,11838,,94582,,20,,For Sale,CONTRA COSTA
+153,W Lakeshore Dr,,,San Ramon,,"Dec 31, 1969",$0,37.784874,-121.945319,CA,Unspecified,16958,,94582,,,,For Sale,CONTRA COSTA
+154,Coralflower Ln,2.0,3.0,San Ramon,"1,488 sqft","Dec 31, 1969",$0,37.787846,-121.92478,CA,Condo,7052,,94583,,31,,For Sale,CONTRA COSTA
+155,Cuenca Ct,2.0,4.0,San Ramon,"2,106 sqft","Dec 31, 1969",$0,37.76628,-121.9735,CA,Single-Family Home,120500,,94583,,62,,For Sale,CONTRA COSTA
+156,Marblehead Dr,3.0,6.0,San Ramon,"3,547 sqft","Dec 31, 1969",$0,37.749332,-121.93207,CA,Single-Family Home,525000,,94582,,14,,For Sale,CONTRA COSTA
+157,Crow Canyon Rd,2.0,3.0,San Ramon,"1,386 sqft","Dec 31, 1969",$0,37.78553,-121.95365,CA,Condo,337250,,94582,,23,,For Sale,CONTRA COSTA
+158,Woodcrest Dr,2.0,3.0,San Ramon,"2,148 sqft","Dec 31, 1969",$0,37.775444,-121.99144,CA,Single-Family Home,180000,,94583,,55,,For Sale,CONTRA COSTA
+159,Marble Canyon Ct,3.0,3.0,San Ramon,"2,758 sqft","Dec 31, 1969",$0,37.79101,-121.94514,CA,Single-Family Home,500000,,94582,,6,,For Sale,CONTRA COSTA
+160,Montevideo Dr,3.0,4.0,San Ramon,"3,495 sqft","Dec 31, 1969",$0,37.75008,-121.95454,CA,Single-Family Home,322400,,94583,,35,,For Sale,CONTRA COSTA
+161,Copper Ridge Rd,2.0,2.0,San Ramon,"1,314 sqft","Dec 31, 1969",$0,37.768776,-121.94653,CA,Condo,329000,,94582,,63,,For Sale,CONTRA COSTA
+162,Silva Way,3.0,4.0,San Ramon,"2,408 sqft","Dec 31, 1969",$0,37.763783,-121.88946,CA,Single-Family Home,650000,,94582,,9,,For Sale,CONTRA COSTA
+163,Barossa Dr,2.0,4.0,San Ramon,"2,286 sqft","Dec 31, 1969",$0,37.763653,-121.90237,CA,Single-Family Home,690000,,94582,,15,,For Sale,CONTRA COSTA
+164,Alcosta Blvd,2.0,3.0,San Ramon,"1,365 sqft","Dec 31, 1969",$0,37.726437,-121.934746,CA,Single-Family Home,188100,,94583,,43,,For Sale,ALAMEDA
+165,Pine Ridge Dr,1.0,1.0,San Ramon,778 sqft,"Dec 31, 1969",$0,37.767094,-121.94477,CA,Condo,238500,,94582,,60,,For Sale,CONTRA COSTA
+166,Millstream Ln,3.0,3.0,San Ramon,"2,140 sqft","Dec 31, 1969",$0,37.762413,-121.90655,CA,Condo,662246,,94582,,17,,For Sale,CONTRA COSTA
+167,Biddleford Dr,2.0,4.0,San Ramon,"1,448 sqft","Dec 31, 1969",$0,37.74295,-121.95128,CA,Single-Family Home,356000,,94583,,25,,For Sale,CONTRA COSTA
+168,Bollinger Canyon Rd,1.0,3.0,San Ramon,"1,276 sqft","Dec 31, 1969",$0,37.769146,-121.990456,CA,Condo,383322,,94583,,45,,For Sale,CONTRA COSTA
+169,E Lakeshore Dr,2.0,3.0,San Ramon,"2,000 sqft","Dec 31, 1969",$0,37.783146,-121.946365,CA,Single-Family Home,50000,,94582,,25,,For Sale,CONTRA COSTA
+170,Biddleford Dr,2.0,4.0,San Ramon,"1,383 sqft","Dec 31, 1969",$0,37.74426,-121.94682,CA,Single-Family Home,354214,,94583,,31,,For Sale,CONTRA COSTA
+171,Mavis Pl,2.0,3.0,San Ramon,"1,324 sqft","Dec 31, 1969",$0,37.74977,-121.947655,CA,Single-Family Home,398000,,94583,,43,,For Sale,CONTRA COSTA
+172,Millstream Ln,2.0,3.0,San Ramon,"1,838 sqft","Dec 31, 1969",$0,37.760864,-121.906876,CA,Condo,669155,,94582,,22,,For Sale,CONTRA COSTA
+173,Cascadas Ct,5.0,5.0,San Ramon,"3,553 sqft","Dec 31, 1969",$0,37.76886,-121.99547,CA,Single-Family Home,990000,,94583,,31,,For Sale,CONTRA COSTA
+174,Sutter Creek Ln,2.0,3.0,San Ramon,"1,656 sqft","Dec 31, 1969",$0,37.74399,-121.95862,CA,Condo,523046,,94583,,20,,For Sale,CONTRA COSTA
+175,Alcosta Blvd,1.0,1.0,San Ramon,735 sqft,"Dec 31, 1969",$0,37.724808,-121.93555,CA,Condo,227486,,94583,,43,,For Sale,ALAMEDA
+176,Briza Loop,2.0,2.0,San Ramon,"1,351 sqft","Dec 31, 1969",$0,37.7772,-121.929344,CA,Condo,522942,,94582,,42,,For Sale,CONTRA COSTA
+177,Watson Canyon Ct,2.0,2.0,San Ramon,914 sqft,"Dec 31, 1969",$0,37.77492,-121.94874,CA,Condo,390977,,94582,,40,,For Sale,CONTRA COSTA
+178,Reflections Dr,1.0,1.0,San Ramon,624 sqft,"Dec 31, 1969",$0,37.76073,-121.94941,CA,Condo,212347,,94583,,78,,For Sale,CONTRA COSTA
+179,Marsh Dr,2.0,3.0,San Ramon,"1,281 sqft","Dec 31, 1969",$0,37.766865,-121.98645,CA,Single-Family Home,540000,,94583,,45,,For Sale,CONTRA COSTA
+180,Pine Ridge Dr,1.0,1.0,San Ramon,778 sqft,"Dec 31, 1969",$0,37.767094,-121.94477,CA,Condo,238500,,94582,,60,,For Sale,CONTRA COSTA
+181,Millstream Ln,3.0,3.0,San Ramon,"2,140 sqft","Dec 31, 1969",$0,37.762413,-121.90655,CA,Condo,662246,,94582,,17,,For Sale,CONTRA COSTA
+182,Biddleford Dr,2.0,4.0,San Ramon,"1,448 sqft","Dec 31, 1969",$0,37.74295,-121.95128,CA,Single-Family Home,356000,,94583,,25,,For Sale,CONTRA COSTA
+183,Bollinger Canyon Rd,1.0,3.0,San Ramon,"1,276 sqft","Dec 31, 1969",$0,37.769146,-121.990456,CA,Condo,383322,,94583,,45,,For Sale,CONTRA COSTA
+184,E Lakeshore Dr,2.0,3.0,San Ramon,"2,000 sqft","Dec 31, 1969",$0,37.783146,-121.946365,CA,Single-Family Home,50000,,94582,,25,,For Sale,CONTRA COSTA
+185,Biddleford Dr,2.0,4.0,San Ramon,"1,383 sqft","Dec 31, 1969",$0,37.74426,-121.94682,CA,Single-Family Home,354214,,94583,,31,,For Sale,CONTRA COSTA
+186,Mavis Pl,2.0,3.0,San Ramon,"1,324 sqft","Dec 31, 1969",$0,37.74977,-121.947655,CA,Single-Family Home,398000,,94583,,43,,For Sale,CONTRA COSTA
+187,Millstream Ln,2.0,3.0,San Ramon,"1,838 sqft","Dec 31, 1969",$0,37.760864,-121.906876,CA,Condo,669155,,94582,,22,,For Sale,CONTRA COSTA
+188,Cascadas Ct,5.0,5.0,San Ramon,"3,553 sqft","Dec 31, 1969",$0,37.76886,-121.99547,CA,Single-Family Home,990000,,94583,,31,,For Sale,CONTRA COSTA
+189,Sutter Creek Ln,2.0,3.0,San Ramon,"1,656 sqft","Dec 31, 1969",$0,37.74399,-121.95862,CA,Condo,523046,,94583,,20,,For Sale,CONTRA COSTA
+190,Alcosta Blvd,1.0,1.0,San Ramon,735 sqft,"Dec 31, 1969",$0,37.724808,-121.93555,CA,Condo,227486,,94583,,43,,For Sale,ALAMEDA
+191,Briza Loop,2.0,2.0,San Ramon,"1,351 sqft","Dec 31, 1969",$0,37.7772,-121.929344,CA,Condo,522942,,94582,,42,,For Sale,CONTRA COSTA
+192,Watson Canyon Ct,2.0,2.0,San Ramon,914 sqft,"Dec 31, 1969",$0,37.77492,-121.94874,CA,Condo,390977,,94582,,40,,For Sale,CONTRA COSTA
+193,Reflections Dr,1.0,1.0,San Ramon,624 sqft,"Dec 31, 1969",$0,37.76073,-121.94941,CA,Condo,212347,,94583,,78,,For Sale,CONTRA COSTA
+194,Marsh Dr,2.0,3.0,San Ramon,"1,281 sqft","Dec 31, 1969",$0,37.766865,-121.98645,CA,Single-Family Home,540000,,94583,,45,,For Sale,CONTRA COSTA
+195,S Overlook Drive Aka #346 S OVE,,,San Ramon,,"Dec 31, 1969",$0,37.767113,-121.94566,CA,Unspecified,86250,,94582,,60,,For Sale,CONTRA COSTA
+196,S Overlook Dr,,,San Ramon,,"Dec 31, 1969",$0,37.766735,-121.945305,CA,Unspecified,182750,,94582,,51,,For Sale,CONTRA COSTA
+197,Watson Canyon Ct,,,San Ramon,,"Dec 31, 1969",$0,37.775192,-121.948715,CA,Single-Family Home,243000,,94582,,43,,For Sale,CONTRA COSTA
+198,Watson Canyon Ct,,,San Ramon,,"Dec 31, 1969",$0,37.774754,-121.9487,CA,Unspecified,131750,,94582,,43,,For Sale,CONTRA COSTA
+199,Arrowfield Way,2.0,4.0,San Ramon,"2,363 sqft","Dec 31, 1969",$0,37.764896,-121.90139,CA,Single-Family Home,936767,,94582,,18,,For Sale,CONTRA COSTA
+200,Canyon Creek Dr,3.0,4.0,San Ramon,"2,113 sqft","Dec 31, 1969",$0,37.77391,-121.98047,CA,Single-Family Home,803589,,94583,,88,,For Sale,CONTRA COSTA
+201,Rosemont Ln,,,San Ramon,,"Dec 31, 1969",$0,37.757988,-121.8842,CA,Unspecified,875062,,94582,,5,,For Sale,CONTRA COSTA

@@ -1,0 +1,92 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,130 Brook Knoll Dr,3.0,4.0,Scotts Valley,"2,841 sqft","Dec 31, 1969",$0,37.01805,-122.03046,CA,Single-Family Home,975000,,95060,,26,,For Sale,SANTA CRUZ
+2,1920 Lockhart Gulch Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.074715,-122.031075,CA,Lot/Land,140000,,95066,,3,,For Sale,SANTA CRUZ
+3,101 Endlich Dr,3.0,3.0,Scotts Valley,"3,061 sqft","Dec 31, 1969",$0,37.021393,-122.00906,CA,Single-Family Home,999000,,95060,,14,,For Sale,SANTA CRUZ
+4,552 Bean Creek Rd #9,3.0,3.0,Scotts Valley,"2,300 sqft","Dec 31, 1969",$0,37.05351,-122.02612,CA,Mobile/Manufactured,465000,,95066,,55,,For Sale,SANTA CRUZ
+5,4534 Fern Dr,1.0,2.0,Scotts Valley,"1,529 sqft","Dec 31, 1969",$0,37.11316,-121.986244,CA,Single-Family Home,549950,,95066,,0,,For Sale,SANTA CRUZ
+6,260 Blair Ranch Rd,2.0,3.0,Scotts Valley,"1,916 sqft","Dec 31, 1969",$0,37.051167,-121.99967,CA,Single-Family Home,1099000,,95066,,32,,For Sale,SANTA CRUZ
+7,522 Bean Creek Rd #77,,2.0,Scotts Valley,"1,420 sqft","Dec 31, 1969",$0,37.051575,-122.02465,CA,Mobile/Manufactured,395000,,95066,,77,,For Sale,SANTA CRUZ
+8,341 Henry Cowell Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.008762,-122.03757,CA,Lot/Land,479000,,95060,,26,0,For Sale,SANTA CRUZ
+9,268 Bluebonnet Ln #131,2.0,2.0,Scotts Valley,"1,166 sqft","Dec 31, 1969",$0,37.050327,-122.02708,CA,Condo,489000,,95066,,85,,For Sale,SANTA CRUZ
+10,552 Bean Creek Rd #152,2.0,3.0,Scotts Valley,"1,560 sqft","Dec 31, 1969",$0,37.05351,-122.02612,CA,Mobile/Manufactured,425000,,95066,,74,,For Sale,SANTA CRUZ
+11,552 Bean Creek Rd #178,3.0,3.0,Scotts Valley,"1,800 sqft","Dec 31, 1969",$0,37.05351,-122.02612,CA,Mobile/Manufactured,419000,,95066,,77,,For Sale,SANTA CRUZ
+12,552 Bean Creek Rd #118,2.0,2.0,Scotts Valley,"1,460 sqft","Dec 31, 1969",$0,37.05351,-122.02612,CA,Mobile/Manufactured,379000,,95066,,77,,For Sale,SANTA CRUZ
+13,552 Bean Creek Rd #175,2.0,2.0,Scotts Valley,"1,440 sqft","Dec 31, 1969",$0,37.05351,-122.02612,CA,Mobile/Manufactured,349000,,95066,,80,,For Sale,SANTA CRUZ
+14,940 Hawks Hill Rd,4.0,3.0,Scotts Valley,"3,647 sqft","Dec 31, 1969",$0,37.096832,-122.006454,CA,Single-Family Home,1285000,,95066,,0,,For Sale,SANTA CRUZ
+15,1323 Weston Rd,2.5,4.0,Scotts Valley,"3,058 sqft","Dec 31, 1969",$0,37.092648,-122.0181,CA,Single-Family Home,1187000,,95066,,2,,For Sale,SANTA CRUZ
+16,Weston Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.0924,-122.007193,CA,Lot/Land,375000,,95066,,,,For Sale,SANTA CRUZ
+17,13 Locke Way,4.0,5.0,Scotts Valley,"2,772 sqft","Dec 31, 1969",$0,37.046432,-122.03763,CA,Single-Family Home,999000,,95066,,69,,For Sale,SANTA CRUZ
+18,100 Blueberry Ct,4.0,3.0,Scotts Valley,"3,156 sqft","Dec 31, 1969",$0,37.038692,-122.03317,CA,Single-Family Home,1499000,,95066,,55,,For Sale,SANTA CRUZ
+19,121 Woodhill Dr,3.0,3.0,Scotts Valley,"1,803 sqft","Dec 31, 1969",$0,37.051678,-122.016785,CA,Single-Family Home,639000,,95066,,57,,For Sale,SANTA CRUZ
+20,5525 Scotts Valley Dr #8,2.0,2.0,Scotts Valley,"1,337 sqft","Dec 31, 1969",$0,37.06114,-122.009285,CA,Townhome,495000,,95066,,52,,For Sale,SANTA CRUZ
+21,111 Bean Creek Rd,2.0,2.0,Scotts Valley,"1,219 sqft","Dec 31, 1969",$0,37.047802,-122.02541,CA,Condo,369000,,95066,,88,,For Sale,SANTA CRUZ
+22,6011 Scotts Valley Dr #27,2.0,3.0,Scotts Valley,"1,040 sqft","Dec 31, 1969",$0,37.06407,-122.00456,CA,Mobile/Manufactured,250000,,95066,,55,,For Sale,SANTA CRUZ
+23,422 Joppa St,3.0,3.0,Scotts Valley,"1,931 sqft","Dec 31, 1969",$0,37.011646,-122.043816,CA,Single-Family Home,425000,,95060,,15,,For Sale,SANTA CRUZ
+24,237 Bluebonnet Ln #902,4.0,4.0,Scotts Valley,"2,293 sqft","Dec 31, 1969",$0,37.049793,-122.02707,CA,Townhome,599000,,95066,,85,,For Sale,SANTA CRUZ
+25,576 Sims Rd,2.0,3.0,Scotts Valley,"1,518 sqft","Dec 31, 1969",$0,37.011982,-122.03391,CA,Single-Family Home,630500,,95060,,23,,For Sale,SANTA CRUZ
+26,170 Heritage Dr,3.0,4.0,Scotts Valley,"1,620 sqft","Dec 31, 1969",$0,37.062923,-122.03242,CA,Single-Family Home,469000,,95066,,17,,For Sale,SANTA CRUZ
+27,218 Sunset Ter,2.0,3.0,Scotts Valley,"2,156 sqft","Dec 31, 1969",$0,37.06114,-121.994774,CA,Houseboat,940000,,95066,,29,,For Sale,SANTA CRUZ
+28,31 Meadow Way,4.0,4.0,Scotts Valley,"2,174 sqft","Dec 31, 1969",$0,37.058838,-122.00466,CA,Single-Family Home,849000,,95066,,55,,For Sale,SANTA CRUZ
+29,1054 Whispering Pines Dr,3.0,3.0,Scotts Valley,"1,921 sqft","Dec 31, 1969",$0,37.03807,-122.03594,CA,Single-Family Home,649000,,95066,,34,,For Sale,SANTA CRUZ
+30,16 Coopers Hawk Ct,3.0,3.0,Scotts Valley,"1,812 sqft","Dec 31, 1969",$0,37.061752,-122.00967,CA,Single-Family Home,729000,,95066,,51,,For Sale,SANTA CRUZ
+31,225 Mount Hermon Rd #27,2.0,2.0,Scotts Valley,"1,512 sqft","Dec 31, 1969",$0,37.044147,-122.030464,CA,Mobile/Manufactured,425000,,95066,,92,,For Sale,SANTA CRUZ
+32,225 Mount Hermon Rd #44,2.0,3.0,Scotts Valley,"1,325 sqft","Dec 31, 1969",$0,37.044147,-122.030464,CA,Mobile/Manufactured,414900,,95066,,83,,For Sale,SANTA CRUZ
+33,155 Rabbits Run Rd,3.0,4.0,Scotts Valley,"3,004 sqft","Dec 31, 1969",$0,37.01967,-122.01904,CA,Single-Family Home,889900,,95060,,12,,For Sale,SANTA CRUZ
+34,Plan 2,3.0,4.0,Scotts Valley,"1,898 sqft","Dec 31, 1969",$0,37.054283,-122.01288,CA,Single-Family Home,695000,,95066,,48,,For Sale,SANTA CRUZ
+35,5 Brooktree Ln,3.0,4.0,Scotts Valley,"2,612 sqft","Dec 31, 1969",$0,37.003693,-122.031044,CA,Single-Family Home,979000,,95060,,18,,For Sale,SANTA CRUZ
+36,6 Deer Trail Way,5.0,5.0,Scotts Valley,"3,795 sqft","Dec 31, 1969",$0,37.061447,-122.01643,CA,Single-Family Home,1349000,,95066,,35,,For Sale,SANTA CRUZ
+37,185 Chalk Mountain Rd,6.0,5.0,Scotts Valley,"5,602 sqft","Dec 31, 1969",$0,37.08098,-121.99049,CA,Single-Family Home,2365000,,95066,,6,,For Sale,SANTA CRUZ
+38,Tucker Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.09983,-121.975879,CA,Lot/Land,299000,,95066,,,,For Sale,SANTA CRUZ
+39,2400 Lockhart Gulch Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.08112,-122.03085,CA,Lot/Land,399000,,95066,,8,,For Sale,SANTA CRUZ
+40,Plan 1,2.5,3.0,Scotts Valley,"1,793 sqft","Dec 31, 1969",$0,37.054283,-122.01288,CA,Single-Family Home,673000,,95066,,48,,For Sale,SANTA CRUZ
+41,225 Mount Hermon Rd #67,2.0,2.0,Scotts Valley,"1,372 sqft","Dec 31, 1969",$0,37.044147,-122.030464,CA,Mobile/Manufactured,399900,,95066,,83,,For Sale,SANTA CRUZ
+42,Burlwood Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.060433,-121.999443,CA,Lot/Land,450000,,95066,,,,For Sale,SANTA CRUZ
+43,155 Lucinda St,2.0,3.0,Scotts Valley,"2,010 sqft","Dec 31, 1969",$0,37.057026,-122.02762,CA,Single-Family Home,729900,,95066,,42,,For Sale,SANTA CRUZ
+44,Plan 3,2.5,3.0,Scotts Valley,"1,897 sqft","Dec 31, 1969",$0,37.054283,-122.01288,CA,Single-Family Home,685000,,95066,,48,,For Sale,SANTA CRUZ
+45,295 Hacienda Dr,1.0,2.0,Scotts Valley,928 sqft,"Dec 31, 1969",$0,37.06426,-122.01019,CA,Single-Family Home,599000,,95066,,42,,For Sale,SANTA CRUZ
+46,Branciforte Dr,,,Scotts Valley,,"Dec 31, 1969",$0,36.990887,-122.01206,CA,Lot/Land,395000,,95060,,,,For Sale,SANTA CRUZ
+47,Branciforte Dr,,,Scotts Valley,,"Dec 31, 1969",$0,36.990887,-122.01206,CA,Lot/Land,625000,,95060,,,,For Sale,SANTA CRUZ
+48,127 Burlwood Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.061314,-121.998634,CA,Lot/Land,500000,,95066,,42,,For Sale,SANTA CRUZ
+49,225 Mount Hermon Rd #12,2.0,2.0,Scotts Valley,"1,248 sqft","Dec 31, 1969",$0,37.044147,-122.030464,CA,Mobile/Manufactured,289000,,95066,,89,,For Sale,SANTA CRUZ
+50,395 Beel Dr,3.0,4.0,Scotts Valley,"3,200 sqft","Dec 31, 1969",$0,37.00546,-122.0137,CA,Single-Family Home,1225000,,95060,,15,,For Sale,SANTA CRUZ
+51,15 Nashua Dr,3.0,3.0,Scotts Valley,"2,278 sqft","Dec 31, 1969",$0,37.06289,-122.01208,CA,Single-Family Home,947000,,95066,,45,,For Sale,SANTA CRUZ
+52,444 Whispering Pines Dr,2.0,3.0,Scotts Valley,"1,800 sqft","Dec 31, 1969",$0,37.041725,-122.030365,CA,Mobile/Manufactured,275000,,95066,,82,,For Sale,SANTA CRUZ
+53,444 Whispering Pines Dr #62,2.0,3.0,Scotts Valley,"1,473 sqft","Dec 31, 1969",$0,37.041725,-122.030365,CA,Mobile/Manufactured,284500,,95066,,77,,For Sale,SANTA CRUZ
+54,Blueberry Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.038286,-122.032028,CA,Lot/Land,250000,,95066,,,,For Sale,SANTA CRUZ
+55,316 Quien Sabe Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.043514,-122.02017,CA,Lot/Land,295500,,95066,,86,,For Sale,SANTA CRUZ
+56,3132 Glen Canyon Rd,2.0,2.0,Scotts Valley,"1,462 sqft","Dec 31, 1969",$0,37.035217,-122.01838,CA,Single-Family Home,799000,,95066,,46,,For Sale,SANTA CRUZ
+57,Rodeo Gulch,,,Scotts Valley,,"Dec 31, 1969",$0,37.001633,-121.969946,CA,Lot/Land,389000,,95065,,,,For Sale,SANTA CRUZ
+58,4303 Scotts Valley Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.046772,-122.02036,CA,Lot/Land,750000,,95066,,78,,For Sale,SANTA CRUZ
+59,Jonathan Way,,,Scotts Valley,,"Dec 31, 1969",$0,37.056649,-121.991212,CA,Lot/Land,349000,,95066,,,,For Sale,SANTA CRUZ
+60,4556 Scotts Valley Dr,,,Scotts Valley,"5,000 sqft","Dec 31, 1969",$0,37.04805,-122.01586,CA,Income/Investment,1350000,,95066,,66,,For Sale,SANTA CRUZ
+61,5311 Scotts Valley Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.057823,-122.011314,CA,Income/Investment,850000,,95066,,46,,For Sale,SANTA CRUZ
+62,4600 Scotts Valley Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.048378,-122.01597,CA,Income/Investment,695000,,95066,,66,,For Sale,SANTA CRUZ
+63,Bethany Dr,2.0,4.0,Scotts Valley,"1,755 sqft","Dec 31, 1969",$0,37.07088,-121.995415,CA,Single-Family Home,478809,,95066,,23,,For Sale,SANTA CRUZ
+64,Sunset Ter,3.0,3.0,Scotts Valley,"1,918 sqft","Dec 31, 1969",$0,37.05722,-121.996864,CA,Single-Family Home,255000,,95066,,29,,For Sale,SANTA CRUZ
+65,Coopers Hawk Ct,3.0,3.0,Scotts Valley,"1,652 sqft","Dec 31, 1969",$0,37.06186,-122.01001,CA,Single-Family Home,490000,,95066,,51,,For Sale,SANTA CRUZ
+66,Country Ln,3.0,4.0,Scotts Valley,"3,256 sqft","Dec 31, 1969",$0,37.06152,-122.0155,CA,Unspecified,870386,,95066,,35,,For Sale,SANTA CRUZ
+67,Coast Range Dr,3.0,3.0,Scotts Valley,"1,587 sqft","Dec 31, 1969",$0,37.05295,-122.03347,CA,Single-Family Home,354800,,95066,,71,,For Sale,SANTA CRUZ
+68,Navigator Dr,3.0,5.0,Scotts Valley,"2,031 sqft","Dec 31, 1969",$0,37.051266,-122.035194,CA,Single-Family Home,391200,,95066,,58,,For Sale,SANTA CRUZ
+69,Carriage Ln,2.0,3.0,Scotts Valley,"1,547 sqft","Dec 31, 1969",$0,37.0398,-122.02821,CA,Condo,395500,,95066,,75,,For Sale,SANTA CRUZ
+70,Erba Ln,2.0,2.0,Scotts Valley,"1,188 sqft","Dec 31, 1969",$0,37.050034,-122.02032,CA,Condo,430550,,95066,,78,,For Sale,SANTA CRUZ
+71,Bean Creek Rd #12,2.0,2.0,Scotts Valley,"1,197 sqft","Dec 31, 1969",$0,37.045223,-122.02439,CA,Condo,357000,,95066,,89,,For Sale,SANTA CRUZ
+72,Locke Way,4.0,5.0,Scotts Valley,"2,772 sqft","Dec 31, 1969",$0,37.047176,-122.037315,CA,Single-Family Home,731200,,95066,,69,,For Sale,SANTA CRUZ
+73,Conference Dr,1.0,1.0,Scotts Valley,348 sqft,"Dec 31, 1969",$0,37.05349,-122.04381,CA,Single-Family Home,234801,,95066,,23,,For Sale,SANTA CRUZ
+74,Bean Crk #167,,,Scotts Valley,,"Dec 31, 1969",$0,37.04776,-122.02417,CA,Condo,223994,,95066,,86,,For Sale,SANTA CRUZ
+75,Nelson Rd,2.0,2.0,Scotts Valley,"1,472 sqft","Dec 31, 1969",$0,37.062073,-122.02894,CA,Unspecified,495610,,95066,,25,,For Sale,SANTA CRUZ
+76,Bean Crk #309,,,Scotts Valley,,"Dec 31, 1969",$0,37.0492,-122.024315,CA,Unspecified,195500,,95066,,86,,For Sale,SANTA CRUZ
+77,Bean Creek Rd #154,2.0,2.0,Scotts Valley,,"Dec 31, 1969",$0,37.0538,-122.02417,CA,Unspecified,255836,,95066,,58,,For Sale,SANTA CRUZ
+78,Bluebonnet Ln,,,Scotts Valley,,"Dec 31, 1969",$0,37.05003,-122.02756,CA,Unspecified,415187,,95066,,89,,For Sale,SANTA CRUZ
+79,Blue Bonnet Ln #132,,,Scotts Valley,,"Dec 31, 1969",$0,37.04989,-122.02647,CA,Unspecified,415187,,95066,,85,,For Sale,SANTA CRUZ
+80,Scotts Valley Dr,2.0,3.0,Scotts Valley,,"Dec 31, 1969",$0,37.06065,-122.00855,CA,Single-Family Home,312750,,95066,,55,,For Sale,SANTA CRUZ
+81,Willis Rd,,,Scotts Valley,,"Dec 31, 1969",$0,37.058365,-122.011696,CA,Unspecified,325785,,95066,,55,,For Sale,SANTA CRUZ
+82,Terrace View Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.049007,-122.02037,CA,Single-Family Home,441150,,95066,,83,,For Sale,SANTA CRUZ
+83,Twin Pines Dr,2.0,2.0,Scotts Valley,"1,277 sqft","Dec 31, 1969",$0,37.045544,-122.03695,CA,Single-Family Home,566250,,95066,,65,,For Sale,SANTA CRUZ
+84,Canham Rd,2.0,3.0,Scotts Valley,"1,684 sqft","Dec 31, 1969",$0,37.079758,-121.99886,CA,Single-Family Home,661898,,95066,,9,,For Sale,SANTA CRUZ
+85,Woodland Dr,3.0,3.0,Scotts Valley,"2,365 sqft","Dec 31, 1969",$0,37.100212,-121.984436,CA,Unspecified,770000,,95066,,0,,For Sale,SANTA CRUZ
+86,Lucia Ln,3.0,3.0,Scotts Valley,"2,390 sqft","Dec 31, 1969",$0,37.042065,-122.02256,CA,Single-Family Home,808000,,95066,,78,,For Sale,SANTA CRUZ
+87,Aviator Ct,3.0,3.0,Scotts Valley,"1,587 sqft","Dec 31, 1969",$0,37.052677,-122.03316,CA,Single-Family Home,714248,,95066,,77,,For Sale,SANTA CRUZ
+88,Graham Hill Rd,3.0,4.0,Scotts Valley,"1,951 sqft","Dec 31, 1969",$0,37.008335,-122.03414,CA,Single-Family Home,763607,,95060,,23,,For Sale,SANTA CRUZ
+89,Weible Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.049528,-122.022927,CA,Unspecified,499500,,95066,,,,For Sale,SANTA CRUZ
+90,Whispering Pines Dr,,,Scotts Valley,,"Dec 31, 1969",$0,37.042515,-122.027336,CA,Single-Family Home,512100,,95066,,92,,For Sale,SANTA CRUZ
+91,Blueberry Ct,,,Scotts Valley,,"Dec 31, 1969",$0,37.03789,-122.03341,CA,Single-Family Home,938250,,95066,,52,,For Sale,SANTA CRUZ

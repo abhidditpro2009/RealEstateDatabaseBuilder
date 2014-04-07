@@ -1,0 +1,99 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,1570 Kingswood Dr,2.5,3.0,Hillsborough,"2,445 sqft","Feb 19, 2014","$2,449,000",37.540817,-122.35976,CA,Single-Family Home,2449000,"$2,508,000",94010,Lakeview,,,Sold,SAN MATEO
+2,135 Bella Vista Dr,3.5,4.0,Hillsborough,"3,880 sqft","Feb 12, 2014","$3,495,000",37.57258,-122.38223,CA,Single-Family Home,3495000,"$3,319,000",94010,Skyfarm,,,Sold,SAN MATEO
+3,1340 Avondale Rd,4.0,4.0,Hillsborough,"4,400 sqft","Feb 12, 2014","$2,905,000",37.548607,-122.35692,CA,Single-Family Home,2905000,"$4,469,000",94010,Lakeview,,,Sold,SAN MATEO
+4,25 Bengloe Ln,2.5,3.0,Hillsborough,"2,440 sqft","Jan 31, 2014","$2,328,500",37.543755,-122.35756,CA,Single-Family Home,2328500,"$2,646,000",94010,Lakeview,,,Sold,SAN MATEO
+5,139 Gramercy Dr,2.5,3.0,Hillsborough,"2,410 sqft","Jan 31, 2014","$2,800,000",37.566013,-122.33389,CA,Single-Family Home,2800000,"$3,157,000",94010,Baywood-Aragon,,,Sold,SAN MATEO
+6,865 Black Mountain Rd,5.5,7.0,Hillsborough,"4,727 sqft","Jan 31, 2014","$6,500,000",37.557262,-122.34995,CA,Single-Family Home,6500000,"$3,282,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+7,955 Jackling Dr,3.0,4.0,Hillsborough,"2,720 sqft","Jan 29, 2014","$2,450,000",37.576736,-122.375854,CA,Single-Family Home,2450000,"$2,804,000",94010,Hillsborough Oaksbridge,,,Sold,SAN MATEO
+8,2495 Skyfarm Dr,3.5,4.0,Hillsborough,"4,410 sqft","Jan 24, 2014","$3,150,000",37.56337,-122.37559,CA,Single-Family Home,3150000,"$3,019,000",94010,Skyfarm,,,Sold,SAN MATEO
+9,20 Orange Ct,3.5,5.0,Hillsborough,"4,240 sqft","Jan 24, 2014","$4,250,000",37.56333,-122.36864,CA,Single-Family Home,4250000,"$4,487,000",94010,Country Club Manor,,,Sold,SAN MATEO
+10,40 Southdown Ct,,,Hillsborough,,"Jan 23, 2014","$2,930,000",37.54479,-122.35332,CA,Single-Family Home,2930000,,94010,Lakeview,,,Sold,SAN MATEO
+11,1295 Buckingham Way,3.5,4.0,Hillsborough,"3,400 sqft","Jan 21, 2014","$2,850,000",37.534554,-122.357,CA,Single-Family Home,2850000,"$3,136,000",94010,Lakeview,,,Sold,SAN MATEO
+12,210 Denise Dr,2.0,3.0,Hillsborough,"1,830 sqft","Jan 14, 2014","$2,230,000",37.5468,-122.3647,CA,Single-Family Home,2230000,"$2,388,000",94010,Carolands,,,Sold,SAN MATEO
+13,70 Stonepine Rd,,,Hillsborough,,"Jan 10, 2014","$4,250,000",37.56431,-122.36159,CA,Single-Family Home,4250000,,94010,Homeplace,,,Sold,SAN MATEO
+14,145 Stonehedge Rd,3.0,3.0,Hillsborough,"2,160 sqft","Jan 10, 2014","$3,798,000",37.560932,-122.335236,CA,Single-Family Home,3798000,"$3,298,000",94010,Brewer Subdivision,,,Sold,SAN MATEO
+15,525 Chateau Dr,8.5,6.0,Hillsborough,"6,240 sqft","Jan 8, 2014","$5,600,000",37.562428,-122.36849,CA,Single-Family Home,5600000,"$5,788,000",94010,Carolands,,,Sold,SAN MATEO
+16,720 Bromfield Rd,4.5,5.0,Hillsborough,"3,580 sqft","Jan 7, 2014","$3,795,000",37.567158,-122.35193,CA,Single-Family Home,3795000,"$3,826,000",94010,Homeplace,,,Sold,SAN MATEO
+17,125 Eucalyptus Ave,3.5,4.0,Hillsborough,"3,380 sqft","Jan 6, 2014","$3,300,000",37.560055,-122.357796,CA,Single-Family Home,3300000,"$3,818,000",94010,Homeplace,,,Sold,SAN MATEO
+18,150 New Place Rd,6.5,6.0,Hillsborough,"5,970 sqft","Dec 31, 2013","$13,270,000",37.564445,-122.36738,CA,Single-Family Home,13270000,"$4,446,000",94010,Country Club Manor,,,Sold,SAN MATEO
+19,259 Bridge Rd,4.5,5.0,Hillsborough,"4,650 sqft","Dec 30, 2013","$4,100,000",37.559822,-122.33923,CA,Single-Family Home,4100000,"$4,226,000",94010,Brewer Subdivision,,,Sold,SAN MATEO
+20,1525 Bairn Dr,2.0,4.0,Hillsborough,"2,800 sqft","Dec 30, 2013","$1,800,000",37.542915,-122.358955,CA,Single-Family Home,1800000,"$2,262,000",94010,Lakeview,,,Sold,SAN MATEO
+21,2121 Ralston Ave,3.0,5.0,Hillsborough,"3,320 sqft","Dec 30, 2013","$3,000,000",37.57065,-122.357155,CA,Single-Family Home,3000000,"$3,303,000",94010,Homeplace,,,Sold,SAN MATEO
+22,775 Bowhill Rd,3.5,4.0,Hillsborough,"2,650 sqft","Dec 30, 2013","$2,225,000",37.553574,-122.340096,CA,Single-Family Home,2225000,"$2,561,000",94010,Brewer Subdivision,,,Sold,SAN MATEO
+23,275 Robin Rd,,,Hillsborough,,"Dec 27, 2013","$1,750,000",37.55538,-122.35933,CA,Single-Family Home,1750000,"$1,834,000",94010,Hillsborough Knolls,,,Sold,SAN MATEO
+24,20 Stonepine Ct,4.5,4.0,Hillsborough,"4,670 sqft","Dec 24, 2013","$3,580,000",37.564625,-122.360466,CA,Single-Family Home,3580000,"$4,112,000",94010,Homeplace,,,Sold,SAN MATEO
+25,45 Live Oak Ln,5.0,5.0,Hillsborough,"5,110 sqft","Dec 19, 2013","$2,808,000",37.56885,-122.39066,CA,Single-Family Home,2808000,"$3,355,000",94010,Hillsborough Hills,,,Sold,SAN MATEO
+26,30 Terrier Pl,4.0,4.0,Hillsborough,"3,460 sqft","Dec 13, 2013","$2,875,000",37.542053,-122.35765,CA,Single-Family Home,2875000,"$3,321,000",94010,Lakeview,,,Sold,SAN MATEO
+27,615 Chiltern Rd,3.5,4.0,Hillsborough,"3,510 sqft","Dec 12, 2013","$3,400,000",37.559345,-122.346016,CA,Single-Family Home,3400000,"$3,206,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+28,975 W Santa Inez Ave,4.5,4.0,Hillsborough,"4,589 sqft","Dec 10, 2013","$5,250,000",37.55697,-122.35133,CA,Single-Family Home,5250000,"$4,568,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+29,100 Bella Vista Dr,6.5,6.0,Hillsborough,"5,310 sqft","Dec 10, 2013","$4,600,000",37.573654,-122.38018,CA,Single-Family Home,4600000,"$4,879,000",94010,Skyfarm,,,Sold,SAN MATEO
+30,1224 Kenilworth Rd,3.0,4.0,Hillsborough,"3,530 sqft","Dec 9, 2013","$3,129,000",37.553825,-122.35605,CA,Single-Family Home,3129000,"$3,155,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+31,1420 Southdown Rd,5.0,5.0,Hillsborough,"3,730 sqft","Dec 6, 2013","$2,225,000",37.545868,-122.35662,CA,Single-Family Home,2225000,"$2,738,000",94010,Lakeview,,,Sold,SAN MATEO
+32,535 Chelmsford Rd,3.5,4.0,Hillsborough,"3,720 sqft","Dec 5, 2013","$3,000,000",37.56218,-122.34607,CA,Single-Family Home,3000000,"$3,132,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+33,345 Robinwood Ln,2.0,3.0,Hillsborough,"2,970 sqft","Dec 5, 2013","$2,250,000",37.550526,-122.36499,CA,Single-Family Home,2250000,"$2,771,000",94010,Carolands,,,Sold,SAN MATEO
+34,65 Cornelia Dr,4.5,6.0,Hillsborough,"3,560 sqft","Dec 4, 2013","$3,500,000",37.553425,-122.35087,CA,Single-Family Home,3500000,"$3,754,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+35,850 Longview Rd,4.5,4.0,Hillsborough,"3,650 sqft","Dec 4, 2013","$4,200,000",37.553932,-122.34313,CA,Single-Family Home,4200000,"$3,822,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+36,2267 Summit Dr,2.5,4.0,Hillsborough,"3,460 sqft","Dec 3, 2013","$2,525,000",37.5768,-122.37958,CA,Single-Family Home,2525000,"$2,888,000",94010,Hillsborough Hills,,,Sold,SAN MATEO
+37,2305 Skyfarm Dr,3.5,5.0,Hillsborough,"4,100 sqft","Nov 27, 2013","$3,350,000",37.569168,-122.371155,CA,Single-Family Home,3350000,"$3,564,000",94010,Skyfarm,,,Sold,SAN MATEO
+38,2031 Forest View Ave,3.5,4.0,Hillsborough,"2,710 sqft","Nov 26, 2013","$2,850,000",37.57684,-122.36834,CA,Single-Family Home,2850000,"$2,837,000",94010,Skyfarm,,,Sold,SAN MATEO
+39,542 Craig Rd,3.0,4.0,Hillsborough,"2,840 sqft","Nov 19, 2013","$2,775,000",37.554707,-122.37322,CA,Single-Family Home,2775000,"$2,548,000",94010,Carolands,,,Sold,SAN MATEO
+40,2117 Carmelita Ave,1.0,2.0,Hillsborough,"1,070 sqft","Nov 19, 2013","$1,290,000",37.57822,-122.368065,CA,Single-Family Home,1290000,"$1,297,000",94010,Hillsborough Oaksbridge,,,Sold,SAN MATEO
+41,1035 Bromfield Rd,4.5,4.0,Hillsborough,"4,010 sqft","Nov 15, 2013","$2,750,000",37.56312,-122.35508,CA,Single-Family Home,2750000,"$3,844,000",94010,Homeplace,,,Sold,SAN MATEO
+42,115 Robin Rd,3.5,4.0,Hillsborough,"4,400 sqft","Nov 14, 2013","$3,740,000",37.560116,-122.36222,CA,Single-Family Home,3740000,"$3,486,000",94010,Homeplace,,,Sold,SAN MATEO
+43,2630 Skyfarm Dr,3.5,4.0,Hillsborough,"4,590 sqft","Nov 12, 2013","$3,500,000",37.559097,-122.377846,CA,Single-Family Home,3500000,"$3,296,000",94010,Skyfarm,,,Sold,SAN MATEO
+44,1035 Whitwell Rd,3.0,3.0,Hillsborough,"2,580 sqft","Nov 4, 2013","$1,800,000",37.552216,-122.35154,CA,Single-Family Home,1800000,"$3,287,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+45,45 Sheldon Way,5.5,6.0,Hillsborough,"4,990 sqft","Oct 29, 2013","$4,400,000",37.578503,-122.37517,CA,Single-Family Home,4400000,"$5,956,000",94010,Hillsborough Oaksbridge,,,Sold,SAN MATEO
+46,1260 Kenilworth Rd,5.5,4.0,Hillsborough,"4,950 sqft","Oct 18, 2013","$2,930,000",37.552242,-122.3575,CA,Single-Family Home,2930000,"$3,618,000",94010,Carolands,,,Sold,SAN MATEO
+47,1116 Tournament Dr,3.5,4.0,Hillsborough,"3,140 sqft","Oct 17, 2013","$2,380,000",37.539413,-122.34552,CA,Single-Family Home,2380000,"$2,772,000",94010,Tobin Clark Estate,,,Sold,SAN MATEO
+48,80 Tobin Clark Dr,2.5,4.0,Hillsborough,"3,410 sqft","Oct 16, 2013","$3,695,000",37.543453,-122.33463,CA,Single-Family Home,3695000,"$4,035,000",94010,Tobin Clark Estate,,,Sold,SAN MATEO
+49,2335 Oakdale Rd,7.5,5.0,Hillsborough,"6,070 sqft","Oct 15, 2013","$6,500,000",37.574184,-122.375916,CA,Single-Family Home,6500000,"$4,674,000",94010,Hillsborough Oaksbridge,,,Sold,SAN MATEO
+50,1025 Merner Rd,4.5,4.0,Hillsborough,"2,960 sqft","Oct 15, 2013","$2,550,000",37.549965,-122.344864,CA,Single-Family Home,2550000,"$3,536,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+51,586 Laurent Rd,2.0,3.0,Hillsborough,"2,820 sqft","Oct 10, 2013","$2,450,000",37.559185,-122.37192,CA,Single-Family Home,2450000,"$2,421,000",94010,Carolands,,,Sold,SAN MATEO
+52,35 Southdown Ct,2.5,3.0,Hillsborough,"4,190 sqft","Oct 1, 2013","$3,600,000",37.544346,-122.35383,CA,Single-Family Home,3600000,"$3,365,000",94010,Lakeview,,,Sold,SAN MATEO
+53,1820 Brookvale Rd,3.0,4.0,Hillsborough,"4,140 sqft","Sep 30, 2013","$4,550,000",37.57531,-122.361275,CA,Single-Family Home,4550000,"$5,516,000",94010,Country Club Manor,,,Sold,SAN MATEO
+54,34 Roberts Way,4.0,4.0,Hillsborough,"3,480 sqft","Sep 27, 2013","$3,200,000",37.548786,-122.36511,CA,Single-Family Home,3200000,"$3,265,000",94010,Carolands,,,Sold,SAN MATEO
+55,560 Barbara Way,3.0,3.0,Hillsborough,"3,270 sqft","Sep 26, 2013","$2,925,000",37.55352,-122.37406,CA,Single-Family Home,2925000,"$3,728,000",94010,Carolands,,,Sold,SAN MATEO
+56,620 Darrell Rd,3.0,4.0,Hillsborough,"2,430 sqft","Sep 26, 2013","$2,200,000",37.55423,-122.37606,CA,Single-Family Home,2200000,"$2,464,000",94010,Carolands,,,Sold,SAN MATEO
+57,333 El Cerrito Ave,4.5,5.0,Hillsborough,"3,590 sqft","Sep 24, 2013","$3,468,000",37.561623,-122.33849,CA,Single-Family Home,3468000,"$3,195,000",94010,Brewer Subdivision,,,Sold,SAN MATEO
+58,2845 Summit Dr,2.5,3.0,Hillsborough,"3,190 sqft","Sep 24, 2013","$3,250,000",37.569992,-122.38715,CA,Single-Family Home,3250000,"$3,102,000",94010,Hillsborough Hills,,,Sold,SAN MATEO
+59,1070 Macadamia Dr,3.5,4.0,Hillsborough,"3,830 sqft","Sep 24, 2013","$3,165,000",37.572025,-122.38245,CA,Single-Family Home,3165000,"$3,991,000",94010,Skyfarm,,,Sold,SAN MATEO
+60,1045 Bridle Way,2.5,3.0,Hillsborough,"2,700 sqft","Sep 23, 2013","$2,350,000",37.547974,-122.33064,CA,Single-Family Home,2350000,"$2,752,000",94010,Tobin Clark Estate,,,Sold,SAN MATEO
+61,2112 Carmelita Ave,1.0,3.0,Hillsborough,"1,570 sqft","Sep 17, 2013","$1,420,000",37.57861,-122.36828,CA,Single-Family Home,1420000,"$1,589,000",94010,Easton Addition,,,Sold,SAN MATEO
+62,2125 Ralston Ave,5.5,3.0,Hillsborough,"4,860 sqft","Sep 10, 2013","$11,500,000",37.57015,-122.35742,CA,Single-Family Home,11500000,"$4,532,000",94010,Homeplace,,,Sold,SAN MATEO
+63,10 Falkirk Ln,4.5,4.0,Hillsborough,"3,710 sqft","Sep 10, 2013","$2,450,000",37.543945,-122.355774,CA,Single-Family Home,2450000,"$3,413,000",94010,Lakeview,,,Sold,SAN MATEO
+64,1230 La Cumbre Rd,3.0,5.0,Hillsborough,"3,560 sqft","Sep 6, 2013","$3,600,000",37.55772,-122.35562,CA,Single-Family Home,3600000,"$3,232,000",94010,Hillsborough Knolls,,,Sold,SAN MATEO
+65,1265 Tartan Trail Rd,3.0,4.0,Hillsborough,"2,900 sqft","Aug 30, 2013","$2,431,000",37.539413,-122.35378,CA,Single-Family Home,2431000,"$2,681,000",94010,Lakeview,,,Sold,SAN MATEO
+66,1217 Southdown Rd,2.0,3.0,Hillsborough,"2,060 sqft","Aug 30, 2013","$2,175,000",37.548435,-122.35407,CA,Single-Family Home,2175000,"$2,663,000",94010,Lakeview,,,Sold,SAN MATEO
+67,320 Sierra Dr,5.5,5.0,Hillsborough,"6,783 sqft","Aug 30, 2013","$5,450,000",37.5578,-122.34175,CA,Single-Family Home,5450000,"$5,421,000",94010,Brewer Subdivision,,,Sold,SAN MATEO
+68,347 Darrell Rd,3.0,4.0,Hillsborough,"2,520 sqft","Aug 29, 2013","$2,170,000",37.54759,-122.367874,CA,Single-Family Home,2170000,"$2,582,000",94010,Carolands,,,Sold,SAN MATEO
+69,125 Tobin Clark Dr,5.0,5.0,Hillsborough,"5,360 sqft","Aug 29, 2013","$3,395,000",37.543457,-122.3323,CA,Single-Family Home,3395000,"$4,183,000",94010,Beresford,,,Sold,SAN MATEO
+70,1435 Carlton Rd,2.5,3.0,Hillsborough,"2,330 sqft","Aug 27, 2013","$2,680,000",37.54588,-122.359535,CA,Single-Family Home,2680000,"$2,480,000",94010,Lakeview,,,Sold,SAN MATEO
+71,425 Barbara Way,3.0,4.0,Hillsborough,"2,760 sqft","Aug 20, 2013","$3,800,000",37.550358,-122.37056,CA,Single-Family Home,3800000,"$2,842,000",94010,Carolands,,,Sold,SAN MATEO
+72,40 Bates Rd,,,Hillsborough,,"Aug 20, 2013","$4,410,000",37.555164,-122.352264,CA,Single-Family Home,4410000,,94010,Hillsborough Park,,,Sold,SAN MATEO
+73,2855 Churchill Dr,5.5,5.0,Hillsborough,"4,340 sqft","Aug 20, 2013","$3,200,000",37.56835,-122.38571,CA,Single-Family Home,3200000,"$4,398,000",94010,Hillsborough Hills,,,Sold,SAN MATEO
+74,2095 Ralston Ave,3.0,4.0,Hillsborough,"3,370 sqft","Aug 16, 2013","$2,745,000",37.5714,-122.35594,CA,Single-Family Home,2745000,"$3,798,000",94010,Homeplace,,,Sold,SAN MATEO
+75,1820 Elmwood Rd,2.5,2.0,Hillsborough,"2,440 sqft","Aug 16, 2013","$2,703,000",37.576088,-122.361534,CA,Single-Family Home,2703000,"$2,533,000",94010,Ryan Tract,,,Sold,SAN MATEO
+76,455 Moseley Rd,2.5,2.0,Hillsborough,"2,320 sqft","Aug 15, 2013","$1,925,000",37.554417,-122.367744,CA,Single-Family Home,1925000,"$2,646,000",94010,Carolands,,,Sold,SAN MATEO
+77,500 Pullman Rd,4.5,5.0,Hillsborough,"4,810 sqft","Aug 15, 2013","$3,750,000",37.556583,-122.36908,CA,Single-Family Home,3750000,"$4,354,000",94010,Carolands,,,Sold,SAN MATEO
+78,2100 Redington Rd,2.0,3.0,Hillsborough,"1,910 sqft","Aug 14, 2013","$2,950,000",37.574364,-122.36713,CA,Single-Family Home,2950000,"$3,422,000",94010,Country Club Manor,,,Sold,SAN MATEO
+79,107 W Santa Inez Ave,5.5,5.0,Hillsborough,"4,480 sqft","Aug 13, 2013","$3,135,000",37.566967,-122.33678,CA,Single-Family Home,3135000,"$4,449,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+80,15 Lupine Way,2.5,4.0,Hillsborough,"2,800 sqft","Aug 13, 2013","$2,350,000",37.55828,-122.37236,CA,Single-Family Home,2350000,"$2,367,000",94010,Carolands,,,Sold,SAN MATEO
+81,2175 Carmelita Ave,3.0,4.0,Hillsborough,"3,320 sqft","Aug 13, 2013","$2,950,000",37.576965,-122.36998,CA,Single-Family Home,2950000,"$3,278,000",94010,Hillsborough Oaksbridge,,,Sold,SAN MATEO
+82,1450 Buckingham Way,3.5,6.0,Hillsborough,"4,597 sqft","Aug 12, 2013","$3,333,000",37.53688,-122.354485,CA,Single-Family Home,3333000,"$4,192,000",94010,Lakeview,,,Sold,SAN MATEO
+83,30 Bluebell Ln,2.5,3.0,Hillsborough,"2,550 sqft","Aug 1, 2013","$2,000,000",37.53741,-122.35195,CA,Single-Family Home,2000000,"$2,473,000",94010,Lakeview,,,Sold,SAN MATEO
+84,1 Fern Ct,3.0,4.0,Hillsborough,"2,928 sqft","Jul 24, 2013","$3,315,000",37.572243,-122.37063,CA,Single-Family Home,3315000,"$3,366,000",94010,Skyfarm,,,Sold,SAN MATEO
+85,380 Alberta Way,3.0,3.0,Hillsborough,"2,390 sqft","Jul 19, 2013","$2,227,000",37.551304,-122.366806,CA,Single-Family Home,2227000,"$2,699,000",94010,Carolands,,,Sold,SAN MATEO
+86,1061 San Raymundo Rd,8.0,6.0,Hillsborough,"8,210 sqft","Jul 19, 2013","$5,800,000",37.559162,-122.35337,CA,Single-Family Home,5800000,"$5,085,000",94010,Hillsborough Knolls,,,Sold,SAN MATEO
+87,140 Country Club Dr,2.5,3.0,Hillsborough,"2,550 sqft","Jul 17, 2013","$2,650,000",37.574688,-122.35753,CA,Single-Family Home,2650000,"$3,068,000",94010,Country Club Manor,,,Sold,SAN MATEO
+88,576 Craig Rd,2.5,3.0,Hillsborough,"2,720 sqft","Jul 15, 2013","$2,925,000",37.55638,-122.37133,CA,Single-Family Home,2925000,"$2,768,000",94010,Carolands,,,Sold,SAN MATEO
+89,515 Craig Rd,2.0,3.0,Hillsborough,"1,640 sqft","Jul 15, 2013","$4,875,000",37.552814,-122.37286,CA,Single-Family Home,4875000,"$2,669,000",94010,Carolands,,,Sold,SAN MATEO
+90,415 W Santa Inez Ave,3.5,3.0,Hillsborough,"3,070 sqft","Jul 12, 2013","$2,785,000",37.562305,-122.343796,CA,Single-Family Home,2785000,"$3,625,000",94010,Hillsborough Heights,,,Sold,SAN MATEO
+91,1024 Black Mountain Rd,3.5,4.0,Hillsborough,"3,640 sqft","Jul 12, 2013","$3,250,000",37.551975,-122.35118,CA,Single-Family Home,3250000,"$3,548,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+92,380 Robinwood Ln,3.5,5.0,Hillsborough,"4,029 sqft","Jul 12, 2013","$2,961,000",37.551945,-122.36591,CA,Single-Family Home,2961000,"$3,158,000",94010,Carolands,,,Sold,SAN MATEO
+93,35 Citrus Ct,2.5,5.0,Hillsborough,"3,690 sqft","Jul 9, 2013","$2,825,000",37.560932,-122.37337,CA,Single-Family Home,2825000,"$3,013,000",94010,Skyfarm,,,Sold,SAN MATEO
+94,1049 San Raymundo Rd,6.5,7.0,Hillsborough,"7,780 sqft","Jul 8, 2013","$7,850,000",37.560055,-122.35325,CA,Single-Family Home,7850000,"$4,446,000",94010,Hillsborough Knolls,,,Sold,SAN MATEO
+95,19 Mirasol Ct,2.5,3.0,Hillsborough,"2,680 sqft","Jul 8, 2013","$2,330,000",37.54012,-122.353004,CA,Single-Family Home,2330000,"$2,750,000",94010,Lakeview,,,Sold,SAN MATEO
+96,1941 Parkside Ave,4.5,4.0,Hillsborough,"4,610 sqft","Jul 3, 2013","$5,150,000",37.569645,-122.35361,CA,Single-Family Home,5150000,"$5,470,000",94010,Homeplace,,,Sold,SAN MATEO
+97,820 Chiltern Rd,5.5,7.0,Hillsborough,"7,870 sqft","Jul 2, 2013","$4,800,000",37.555756,-122.346565,CA,Single-Family Home,4800000,"$3,834,000",94010,Hillsborough Park,,,Sold,SAN MATEO
+98,2667 Summit Dr,3.0,3.0,Hillsborough,"1,930 sqft","Jun 28, 2013","$1,592,000",37.57429,-122.38512,CA,Single-Family Home,1592000,"$2,087,000",94010,Burlingame Hillls,,,Sold,SAN MATEO

@@ -1,0 +1,34 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,3025 Brittan Ave,3.0,3.0,San Carlos,"2,020 sqft","Dec 31, 1969",$0,37.48592,-122.27615,CA,Single-Family Home,1248000,,94070,,15,,For Sale,SAN MATEO
+2,3350 La Mesa Dr #15,2.0,2.0,San Carlos,"1,040 sqft","Dec 31, 1969",$0,37.479496,-122.284256,CA,Condo,610000,,94070,,12,,For Sale,SAN MATEO
+3,115 Sheldon Ave,2.0,3.0,San Carlos,"1,270 sqft","Dec 31, 1969",$0,37.507153,-122.27829,CA,Single-Family Home,949000,,94070,,49,,For Sale,SAN MATEO
+4,231 Oakview Dr,2.0,4.0,San Carlos,"2,390 sqft","Dec 31, 1969",$0,37.49022,-122.25989,CA,Single-Family Home,1299000,,94070,,28,,For Sale,SAN MATEO
+5,27 Madera Ave,5.0,4.0,San Carlos,"5,385 sqft","Dec 31, 1969",$0,37.498745,-122.2699,CA,Single-Family Home,2298000,,94070,,54,,For Sale,SAN MATEO
+6,2444 Melendy Dr,3.0,3.0,San Carlos,"2,390 sqft","Dec 31, 1969",$0,37.493477,-122.27013,CA,Single-Family Home,1399000,,94070,,35,,For Sale,SAN MATEO
+7,775 Chestnut St #14,1.0,1.0,San Carlos,903 sqft,"Dec 31, 1969",$0,37.502384,-122.26102,CA,Condo,491000,,94070,,98,,For Sale,SAN MATEO
+8,41 Walton St,2.0,3.0,San Carlos,"1,650 sqft","Dec 31, 1969",$0,37.51065,-122.27066,CA,Single-Family Home,1298000,,94070,,74,,For Sale,SAN MATEO
+9,Devonshire Blvd,,,San Carlos,,"Dec 31, 1969",$0,37.501385,-122.276624,CA,Lot/Land,495000,,94070,,,,For Sale,SAN MATEO
+10,1263 Holly St #B,,,San Carlos,,"Dec 31, 1969",$0,37.507294,-122.26313,CA,Condo,729000,,94070,,92,,For Sale,SAN MATEO
+11,3350 Brittan Ave #7,2.0,3.0,San Carlos,"1,239 sqft","Dec 31, 1969",$0,37.483284,-122.28713,CA,Apt/Condo/Twnhm,604900,,94070,,9,,For Sale,SAN MATEO
+12,109 Wildwood Ave,2.0,4.0,San Carlos,"1,850 sqft","Dec 31, 1969",$0,37.490433,-122.261475,CA,Single-Family Home,1550000,,94070,,32,,For Sale,SAN MATEO
+13,7 Mayflower Ln,2.5,3.0,San Carlos,"2,100 sqft","Dec 31, 1969",$0,37.496895,-122.29436,CA,Townhome,1099000,,94070,,8,,For Sale,SAN MATEO
+14,3378 Brittan Ave #3,2.0,2.0,San Carlos,"1,040 sqft","Dec 31, 1969",$0,37.483284,-122.28713,CA,Condo,639000,,94070,,11,,For Sale,SAN MATEO
+15,112 Madera Ave,4.0,3.0,San Carlos,"2,350 sqft","Dec 31, 1969",$0,37.500088,-122.27288,CA,Single-Family Home,1495000,,94070,,45,,For Sale,SAN MATEO
+16,145 Dolton Ave,2.0,3.0,San Carlos,"1,770 sqft","Dec 31, 1969",$0,37.497856,-122.28382,CA,Single-Family Home,1199000,,94070,,17,,For Sale,SAN MATEO
+17,2321 Eaton Ave,2.0,2.0,San Carlos,"1,320 sqft","Dec 31, 1969",$0,37.484318,-122.25553,CA,Single-Family Home,1099000,,94070,,28,,For Sale,SAN MATEO
+18,3350 La Mesa Dr,2.0,2.0,San Carlos,"1,040 sqft","Dec 31, 1969",$0,37.479496,-122.284256,CA,Single-Family Home,610000,,94070,,12,,For Sale,SAN MATEO
+19,1004 Springfield Dr,2.0,3.0,San Carlos,"1,320 sqft","Dec 31, 1969",$0,37.51141,-122.260284,CA,Single-Family Home,899000,,94070,,75,,For Sale,SAN MATEO
+20,1670 El Camino Real,,,San Carlos,"1,363 sqft","Dec 31, 1969",$0,37.49482,-122.2462,CA,Income/Investment,625000,,94070,,77,,For Sale,SAN MATEO
+21,656 Walnut St #202,2.0,2.0,San Carlos,"1,688 sqft","Dec 31, 1969",$0,37.504734,-122.26135,CA,Apt/Condo/Twnhm,848800,,94070,,98,,For Sale,SAN MATEO
+22,942 Mccue Ave,2.0,3.0,San Carlos,"1,596 sqft","Dec 31, 1969",$0,37.510414,-122.25728,CA,Single-Family Home,869000,,94070,,78,,For Sale,SAN MATEO
+23,Shratton,,,San Carlos,,"Dec 31, 1969",$0,37.49982,-122.285537,CA,Lot/Land,1100000,,94070,,,,For Sale,SAN MATEO
+24,1652 El Camino Real,,,San Carlos,"2,970 sqft","Dec 31, 1969",$0,37.49495,-122.24634,CA,Income/Investment,898950,,94070,,82,,For Sale,SAN MATEO
+25,San Carlos Ave,2.0,3.0,San Carlos,"1,390 sqft","Dec 31, 1969",$0,37.50276,-122.27914,CA,Single-Family Home,92450,,94070,,43,,For Sale,SAN MATEO
+26,Arroyo Ave,2.0,4.0,San Carlos,"1,790 sqft","Dec 31, 1969",$0,37.50129,-122.25895,CA,Single-Family Home,845000,,94070,,95,,For Sale,SAN MATEO
+27,San Carlos Ave,1.0,2.0,San Carlos,"1,280 sqft","Dec 31, 1969",$0,37.506767,-122.28591,CA,Single-Family Home,650000,,94070,,65,,For Sale,SAN MATEO
+28,Hewitt Dr,2.0,3.0,San Carlos,"1,650 sqft","Dec 31, 1969",$0,37.48984,-122.27104,CA,Single-Family Home,847000,,94070,,22,,For Sale,SAN MATEO
+29,Sheldon Ave,,,San Carlos,,"Dec 31, 1969",$0,37.506783,-122.2787,CA,Unspecified,430000,,94070,,49,,For Sale,SAN MATEO
+30,Elm St,2.0,2.0,San Carlos,"1,640 sqft","Dec 31, 1969",$0,37.505856,-122.26392,CA,Single-Family Home,750000,,94070,,91,,For Sale,SAN MATEO
+31,Eaton Ave,2.0,4.0,San Carlos,"2,000 sqft","Dec 31, 1969",$0,37.489414,-122.24917,CA,Single-Family Home,990000,,94070,,58,,For Sale,SAN MATEO
+32,Hill Way,2.0,3.0,San Carlos,"1,460 sqft","Dec 31, 1969",$0,37.487,-122.26156,CA,Single-Family Home,850500,,94070,,18,,For Sale,SAN MATEO
+33,Portofino Dr #105,,,San Carlos,,"Dec 31, 1969",$0,37.490353,-122.27713,CA,Unspecified,690467,,94070,,20,,For Sale,SAN MATEO

@@ -1,0 +1,63 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95018,973 Sharon Ln,1,2,Felton,776 sqft,27-Feb-14,"$422,000 ",37.03857,-122.08373,CA,Single-Family Home,422000,"$408,000 ",,,,,Sold,SANTA CRUZ
+95018,430 West Dr,1,2,Felton,880 sqft,25-Feb-14,"$375,000 ",37.105453,-122.0542,CA,Single-Family Home,375000,"$374,000 ",,,,,Sold,SANTA CRUZ
+95018,1490 Felton Empire Rd,2,3,Felton,"1,839 sqft",21-Feb-14,"$435,000 ",37.050377,-122.09167,CA,Farm/Ranch,435000,"$590,000 ",,,,,Sold,SANTA CRUZ
+95018,1470 Mclellan Rd,2,3,Felton,"1,463 sqft",21-Feb-14,"$570,000 ",37.033203,-122.08453,CA,Single-Family Home,570000,"$641,000 ",,,,,Sold,SANTA CRUZ
+95018,147 River Ln,3,2,Felton,"1,762 sqft",20-Feb-14,"$550,000 ",37.037876,-122.06547,CA,Single-Family Home,550000,"$671,000 ",,,,,Sold,SANTA CRUZ
+95018,1240 El Solyo Heights Dr,2,2,Felton,"1,922 sqft",10-Feb-14,"$575,000 ",37.069817,-122.09351,CA,Single-Family Home,575000,"$499,000 ",,,,,Sold,SANTA CRUZ
+95018,10050 E Zayante Rd,1,2,Felton,"1,083 sqft",7-Feb-14,"$325,000 ",37.093243,-122.04227,CA,Single-Family Home,325000,"$392,000 ",,,,,Sold,SANTA CRUZ
+95018,105 Zayante Lakes Rd,1,3,Felton,885 sqft,29-Jan-14,"$215,000 ",37.08565,-122.04713,CA,Single-Family Home,215000,"$403,000 ",,,,,Sold,SANTA CRUZ
+95018,121 Beth Dr,1,3,Felton,"1,099 sqft",24-Jan-14,"$424,000 ",37.03906,-122.06468,CA,Single-Family Home,424000,"$477,000 ",,,,,Sold,SANTA CRUZ
+95018,7134 Highway 9 #A,,6,Felton,"3,268 sqft",23-Jan-14,"$570,000 ",37.06292,-122.07966,CA,Multi-Family,570000,,,,,,Sold,SANTA CRUZ
+95018,10753 Vera Ave,1,2,Felton,768 sqft,22-Jan-14,"$356,000 ",37.104366,-122.05463,CA,Single-Family Home,356000,"$397,000 ",,,,,Sold,SANTA CRUZ
+95018,502 Fall Creek Ter,1,2,Felton,"1,435 sqft",16-Jan-14,"$535,000 ",37.055912,-122.07967,CA,Single-Family Home,535000,"$535,000 ",,,,,Sold,SANTA CRUZ
+95018,541 Madrona Ave,1,2,Felton,"1,038 sqft",7-Jan-14,"$400,000 ",37.03703,-122.07842,CA,Single-Family Home,400000,"$420,000 ",,,,,Sold,SANTA CRUZ
+95018,10 Manzanita Spgs,1.5,2,Felton,"1,120 sqft",6-Jan-14,"$373,000 ",37.049843,-122.06035,CA,Single-Family Home,373000,"$427,000 ",,,,,Sold,SANTA CRUZ
+95018,10805 Creekwood Dr,1,1,Felton,611 sqft,31-Dec-13,"$85,000 ",37.10655,-122.05037,CA,Single-Family Home,85000,"$236,000 ",,,,,Sold,SANTA CRUZ
+95018,5701 Hillside Dr,1,2,Felton,"1,189 sqft",30-Dec-13,"$532,000 ",37.044167,-122.0783,CA,Single-Family Home,532000,"$517,000 ",,,,,Sold,SANTA CRUZ
+95018,374 Redwood Dr,1,1,Felton,548 sqft,23-Dec-13,"$255,000 ",37.04246,-122.07689,CA,Single-Family Home,255000,"$301,000 ",,,,,Sold,SANTA CRUZ
+95018,6794 Highway 9,1,2,Felton,960 sqft,13-Dec-13,"$195,000 ",37.058784,-122.077965,CA,Single-Family Home,195000,"$292,000 ",,,,,Sold,SANTA CRUZ
+95018,9548 E Zayante Rd,1.5,2,Felton,"1,136 sqft",12-Dec-13,"$275,000 ",37.087414,-122.04436,CA,Single-Family Home,275000,"$392,000 ",,,,,Sold,SANTA CRUZ
+95018,120 Park Ave,,1,Felton,"3,340 sqft",27-Nov-13,"$295,000 ",37.050156,-122.06768,CA,Single-Family Home,295000,"$368,000 ",,,,,Sold,SANTA CRUZ
+95018,38 Azalea Ave,2,2,Felton,"1,638 sqft",26-Nov-13,"$560,000 ",37.051933,-122.05106,CA,Single-Family Home,560000,"$604,000 ",,,,,Sold,SANTA CRUZ
+95018,318 Creekside Way,1,2,Felton,822 sqft,26-Nov-13,"$330,000 ",37.088047,-122.04664,CA,Single-Family Home,330000,"$392,000 ",,,,,Sold,SANTA CRUZ
+95018,239 Capelli Dr,2,3,Felton,"1,250 sqft",22-Nov-13,"$640,000 ",37.06502,-122.082436,CA,Single-Family Home,640000,"$565,000 ",,,,,Sold,SANTA CRUZ
+95018,290 Glengarry Rd,2,3,Felton,"1,288 sqft",22-Nov-13,"$440,000 ",37.03183,-122.06751,CA,Farm/Ranch,440000,"$464,000 ",,,,,Sold,SANTA CRUZ
+95018,439 Redwood Dr,1,2,Felton,"1,020 sqft",19-Nov-13,"$415,000 ",37.041775,-122.0772,CA,Single-Family Home,415000,"$406,000 ",,,,,Sold,SANTA CRUZ
+95018,11684 Lakeshore Dr,2,3,Felton,"1,969 sqft",18-Nov-13,"$460,000 ",37.103218,-122.04617,CA,Single-Family Home,460000,"$516,000 ",,,,,Sold,SANTA CRUZ
+95018,1410 Lost Acre Dr,1,2,Felton,676 sqft,8-Nov-13,"$442,000 ",37.044575,-122.08926,CA,Farm/Ranch,442000,"$435,000 ",,,,,Sold,SANTA CRUZ
+95018,111 Madrona Rd,1,2,Felton,794 sqft,24-Oct-13,"$345,000 ",37.033478,-122.07537,CA,Single-Family Home,345000,"$380,000 ",,,,,Sold,SANTA CRUZ
+95018,12278 Lake Blvd,1,2,Felton,830 sqft,16-Oct-13,"$249,000 ",37.109123,-122.048416,CA,Single-Family Home,249000,"$287,000 ",,,,,Sold,SANTA CRUZ
+95018,6701 E Zayante Rd,3,6,Felton,"3,320 sqft",16-Oct-13,"$600,000 ",37.05437,-122.061646,CA,Single-Family Home,600000,"$688,000 ",,,,,Sold,SANTA CRUZ
+95018,495 Gold Ave,1,,Felton,"1,059 sqft",8-Oct-13,"$400,000 ",37.035835,-122.07688,CA,Single-Family Home,400000,"$410,000 ",,,,,Sold,SANTA CRUZ
+95018,1043 Scenic Dr,,,Felton,633 sqft,2-Oct-13,"$315,000 ",37.03167,-122.07467,CA,Single-Family Home,315000,"$373,000 ",,,,,Sold,SANTA CRUZ
+95018,9429 E Zayante Rd,1,1,Felton,748 sqft,26-Sep-13,"$280,000 ",37.08768,-122.04611,CA,Single-Family Home,280000,"$272,000 ",,,,,Sold,SANTA CRUZ
+95018,654 Redwood Rd,,,Felton,640 sqft,25-Sep-13,"$225,000 ",37.034187,-122.07358,CA,Single-Family Home,225000,"$306,000 ",,,,,Sold,SANTA CRUZ
+95018,899 Brookside Dr,1,2,Felton,836 sqft,11-Sep-13,"$490,000 ",37.03888,-122.083885,CA,Single-Family Home,490000,"$411,000 ",,,,,Sold,SANTA CRUZ
+95018,460 Prospect Ave,2,2,Felton,"1,413 sqft",9-Sep-13,"$560,000 ",37.038525,-122.077614,CA,Single-Family Home,560000,"$524,000 ",,,,,Sold,SANTA CRUZ
+95018,415 Gold Ave,1,2,Felton,848 sqft,6-Sep-13,"$379,000 ",37.03632,-122.07556,CA,Single-Family Home,379000,"$422,000 ",,,,,Sold,SANTA CRUZ
+95018,7725 W Zayante Rd,,3,Felton,"2,448 sqft",6-Sep-13,"$400,000 ",37.066647,-122.059,CA,Single-Family Home,400000,"$499,000 ",,,,,Sold,SANTA CRUZ
+95018,211 Madrone Dr,1.5,3,Felton,"2,772 sqft",30-Aug-13,"$399,000 ",37.032043,-122.06675,CA,Single-Family Home,399000,"$507,000 ",,,,,Sold,SANTA CRUZ
+95018,867 Hillcrest Dr,,,Felton,801 sqft,29-Aug-13,"$180,000 ",37.040966,-122.08124,CA,Single-Family Home,180000,"$389,000 ",,,,,Sold,SANTA CRUZ
+95018,11660 Edgewood Dr,1,2,Felton,770 sqft,27-Aug-13,"$275,000 ",37.103214,-122.044975,CA,Single-Family Home,275000,"$380,000 ",,,,,Sold,SANTA CRUZ
+95018,126 Olympia Station Rd,2,4,Felton,"2,271 sqft",23-Aug-13,"$540,000 ",37.07323,-122.05573,CA,Single-Family Home,540000,"$609,000 ",,,,,Sold,SANTA CRUZ
+95018,191 River Ln,2,3,Felton,"2,536 sqft",20-Aug-13,"$499,000 ",37.03831,-122.064835,CA,Single-Family Home,499000,"$612,000 ",,,,,Sold,SANTA CRUZ
+95018,554 Madrona Ave,1,2,Felton,,15-Aug-13,"$857,500 ",37.03743,-122.07896,CA,Multi-Family,857500,,,,,,Sold,SANTA CRUZ
+95018,7234 Highway 9,1,,Felton,735 sqft,15-Aug-13,"$80,000 ",37.0642,-122.07932,CA,Single-Family Home,80000,"$363,000 ",,,,,Sold,SANTA CRUZ
+95018,425 Carrol Ave,1,4,Felton,842 sqft,14-Aug-13,"$320,000 ",37.104954,-122.04957,CA,Single-Family Home,320000,"$353,000 ",,,,,Sold,SANTA CRUZ
+95018,777 Felton Empire Rd,2,3,Felton,"1,026 sqft",9-Aug-13,"$437,500 ",37.049732,-122.08132,CA,Single-Family Home,437500,"$465,000 ",,,,,Sold,SANTA CRUZ
+95018,556 Redwood Rd,3,3,Felton,"1,625 sqft",2-Aug-13,"$386,000 ",37.035625,-122.07317,CA,Single-Family Home,386000,"$479,000 ",,,,,Sold,SANTA CRUZ
+95018,655 Toll House Gulch Rd,2,4,Felton,"2,048 sqft",31-Jul-13,"$463,000 ",37.02773,-122.071625,CA,Farm/Ranch,463000,"$533,000 ",,,,,Sold,SANTA CRUZ
+95018,180 Valhalla Way,2.5,3,Felton,"2,365 sqft",30-Jul-13,"$739,000 ",37.043068,-122.09075,CA,Farm/Ranch,739000,"$840,000 ",,,,,Sold,SANTA CRUZ
+95018,541 Manzanita Ave,2,3,Felton,"1,830 sqft",29-Jul-13,"$59,500 ",37.03633,-122.07796,CA,Single-Family Home,59500,"$499,000 ",,,,,Sold,SANTA CRUZ
+95018,360 Carrol Ave,1,2,Felton,"1,079 sqft",25-Jul-13,"$275,000 ",37.103798,-122.04966,CA,Single-Family Home,275000,"$351,000 ",,,,,Sold,SANTA CRUZ
+95018,825 Lost Acre Dr,3,4,Felton,"2,185 sqft",23-Jul-13,"$610,000 ",37.04286,-122.08204,CA,Farm/Ranch,610000,"$684,000 ",,,,,Sold,SANTA CRUZ
+95018,681 Felton Empire Rd,1,2,Felton,895 sqft,23-Jul-13,"$510,000 ",37.050205,-122.08038,CA,Single-Family Home,510000,"$465,000 ",,,,,Sold,SANTA CRUZ
+95018,525 West Dr,3,3,Felton,"1,330 sqft",19-Jul-13,"$342,000 ",37.104935,-122.05568,CA,Single-Family Home,342000,"$549,000 ",,,,,Sold,SANTA CRUZ
+95018,230 Lazywoods Rd,1,2,Felton,"1,088 sqft",15-Jul-13,"$214,500 ",37.066765,-122.07801,CA,Single-Family Home,214500,"$474,000 ",,,,,Sold,SANTA CRUZ
+95018,195 Quail Hollow Rd,2,3,Felton,"1,189 sqft",9-Jul-13,"$420,000 ",37.07479,-122.05708,CA,Farm/Ranch,420000,"$490,000 ",,,,,Sold,SANTA CRUZ
+95018,10585 Redwood Dr,1,2,Felton,"1,304 sqft",8-Jul-13,"$325,000 ",37.102993,-122.05523,CA,Farm/Ranch,325000,"$328,000 ",,,,,Sold,SANTA CRUZ
+95018,10420 Vera Ave,1,1,Felton,"1,088 sqft",2-Jul-13,"$289,000 ",37.101208,-122.054985,CA,Single-Family Home,289000,"$358,000 ",,,,,Sold,SANTA CRUZ
+95018,7343 Hacienda Way,2.5,3,Felton,"2,393 sqft",1-Jul-13,"$325,000 ",37.065716,-122.0813,CA,Single-Family Home,325000,"$628,000 ",,,,,Sold,SANTA CRUZ
+95018,12436 Retrato St,1,3,Felton,"1,056 sqft",24-Jun-13,"$350,000 ",37.11111,-122.04587,CA,Single-Family Home,350000,"$407,000 ",,,,,Sold,SANTA CRUZ
+95018,1685 Mclellan Rd,2,3,Felton,"1,730 sqft",24-Jun-13,"$545,000 ",37.031837,-122.08504,CA,Single-Family Home,545000,"$565,000 ",,,,,Sold,SANTA CRUZ

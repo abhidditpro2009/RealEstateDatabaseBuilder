@@ -1,0 +1,318 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,864 Marilyn Dr,2.0,3.0,Campbell,"1,250 sqft","Mar 12, 2014","$740,000",37.274197,-121.96233,CA,Single-Family Home,740000,"$826,000",95008,,,,Sold,SANTA CLARA
+2,966 Norin Ct,1.0,3.0,Campbell,"1,632 sqft","Mar 12, 2014","$1,000,000",37.273045,-121.942116,CA,Single-Family Home,1000000,"$940,000",95008,Willow Glen,,,Sold,SANTA CLARA
+3,569 W Rincon Ave,2.5,3.0,Campbell,"1,340 sqft","Mar 11, 2014","$640,000",37.285038,-121.95977,CA,Condo,640000,"$661,000",95008,,,,Sold,SANTA CLARA
+4,136 S 1st St,2.5,2.0,Campbell,"1,476 sqft","Mar 11, 2014","$740,000",37.285213,-121.94442,CA,Condo,740000,"$734,000",95008,,,,Sold,SANTA CLARA
+5,5013 Pine Tree Ter,1.0,2.0,Campbell,920 sqft,"Mar 11, 2014","$500,000",37.270382,-121.98969,CA,Condo,500000,"$528,000",95008,West San Jose,,,Sold,SANTA CLARA
+6,1194 Emerson Ave,2.0,4.0,Campbell,"1,285 sqft","Mar 7, 2014","$782,500",37.258156,-121.95165,CA,Single-Family Home,782500,"$803,000",95008,,,,Sold,SANTA CLARA
+7,332 Apple Blossom Ln,2.5,4.0,Campbell,"2,069 sqft","Mar 7, 2014","$951,000",37.29343,-121.95935,CA,Single-Family Home,951000,"$1,041,000",95008,,,,Sold,SANTA CLARA
+8,365 N 3rd St #3,1.0,2.0,Campbell,903 sqft,"Mar 7, 2014","$402,500",37.29265,-121.94736,CA,Condo,402500,"$423,000",95008,,,,Sold,SANTA CLARA
+9,664 W Sunnyoaks Ave,1.5,2.0,Campbell,"1,152 sqft","Mar 6, 2014","$610,000",37.2709,-121.96059,CA,Condo,610000,"$595,000",95008,,,,Sold,SANTA CLARA
+10,721 Pecan Way,2.5,4.0,Campbell,"2,346 sqft","Mar 5, 2014","$1,260,000",37.276634,-121.969,CA,Single-Family Home,1260000,"$1,250,000",95008,,,,Sold,SANTA CLARA
+11,300 Union Ave #7,2.0,2.0,Campbell,"1,127 sqft","Mar 5, 2014","$489,000",37.28247,-121.93522,CA,Condo,489000,"$573,000",95008,Willow Glen,,,Sold,SANTA CLARA
+12,364 W Sunnyoaks Ave,1.5,2.0,Campbell,"1,178 sqft","Mar 5, 2014","$496,000",37.271812,-121.956154,CA,Condo,496000,"$563,000",95008,,,,Sold,SANTA CLARA
+13,404 W Sunnyoaks Ave,2.5,3.0,Campbell,"1,759 sqft","Mar 4, 2014","$780,000",37.271984,-121.95704,CA,Single-Family Home,780000,"$1,042,000",95008,,,,Sold,SANTA CLARA
+14,1225 E Campbell Ave,2.0,3.0,Campbell,"1,296 sqft","Mar 3, 2014","$858,000",37.287174,-121.927734,CA,Single-Family Home,858000,"$877,000",95008,,,,Sold,SANTA CLARA
+15,3929 Via Cristobal,2.0,4.0,Campbell,999 sqft,"Feb 28, 2014","$817,500",37.285774,-121.96988,CA,Single-Family Home,817500,"$728,000",95008,West San Jose,,,Sold,SANTA CLARA
+16,75 Union Ave #7,2.5,3.0,Campbell,"1,481 sqft","Feb 28, 2014","$490,000",37.285973,-121.93565,CA,Condo,490000,"$654,000",95008,,,,Sold,SANTA CLARA
+17,675 W Sunnyoaks Ave,,,Campbell,"3,400 sqft","Feb 27, 2014","$1,120,000",37.27244,-121.96102,CA,Multi-Family,1120000,,95008,,,,Sold,SANTA CLARA
+18,4191 W Rincon Ave,2.0,4.0,Campbell,"1,763 sqft","Feb 26, 2014","$885,500",37.282063,-121.97633,CA,Single-Family Home,885500,"$990,000",95008,West San Jose,,,Sold,SANTA CLARA
+19,76 Redding Rd,2.5,3.0,Campbell,"1,266 sqft","Feb 25, 2014","$585,000",37.264683,-121.94757,CA,Condo,585000,"$632,000",95008,,,,Sold,SANTA CLARA
+20,133 Redding Rd #9,2.5,2.0,Campbell,"1,344 sqft","Feb 25, 2014","$605,000",37.265797,-121.946365,CA,Condo,605000,"$639,000",95008,,,,Sold,SANTA CLARA
+21,1735 White Oaks Rd,,,Campbell,"2,855 sqft","Feb 21, 2014","$1,298,000",37.26281,-121.94924,CA,Single-Family Home,1298000,"$1,243,000",95008,,,,Sold,SANTA CLARA
+22,430 Nottingham Way,1.5,3.0,Campbell,"1,790 sqft","Feb 21, 2014","$920,000",37.293217,-121.9241,CA,Single-Family Home,920000,"$1,003,000",95008,,,,Sold,SANTA CLARA
+23,876 Torero Plz,2.0,4.0,Campbell,"1,592 sqft","Feb 21, 2014","$916,000",37.26981,-121.965,CA,Single-Family Home,916000,"$1,005,000",95008,,,,Sold,SANTA CLARA
+24,2540 Oak Park Ln,2.0,3.0,Campbell,"1,891 sqft","Feb 19, 2014","$770,000",37.275944,-121.94026,CA,Single-Family Home,770000,"$980,000",95008,Willow Glen,,,Sold,SANTA CLARA
+25,300 Union Ave #3,2.0,2.0,Campbell,"1,127 sqft","Feb 19, 2014","$514,000",37.28247,-121.93522,CA,Condo,514000,"$560,000",95008,Willow Glen,,,Sold,SANTA CLARA
+26,1096 Springfield Dr,1.5,3.0,Campbell,"1,040 sqft","Feb 14, 2014","$800,000",37.291443,-121.96906,CA,Single-Family Home,800000,"$798,000",95008,,,,Sold,SANTA CLARA
+27,1685 Ebbetts Dr,2.0,3.0,Campbell,"1,398 sqft","Feb 14, 2014","$978,500",37.273697,-121.97996,CA,Single-Family Home,978500,"$875,000",95008,,,,Sold,SANTA CLARA
+28,1217 Capri Dr,2.5,3.0,Campbell,"1,383 sqft","Feb 13, 2014","$594,000",37.26936,-121.96181,CA,Condo,594000,"$663,000",95008,,,,Sold,SANTA CLARA
+29,1583 Mccoy Ave,2.0,4.0,Campbell,"2,137 sqft","Feb 13, 2014","$168,500",37.276768,-121.97831,CA,Single-Family Home,168500,"$938,000",95008,,,,Sold,SANTA CLARA
+30,2220 Wren Way,2.0,3.0,Campbell,"1,244 sqft","Feb 13, 2014","$144,000",37.281445,-121.96493,CA,Single-Family Home,144000,"$777,000",95008,,,,Sold,SANTA CLARA
+31,33 Tapestry Ct,2.5,2.0,Campbell,"1,447 sqft","Feb 11, 2014","$790,500",37.28895,-121.941444,CA,Single-Family Home,790500,"$881,000",95008,,,,Sold,SANTA CLARA
+32,1390 W Latimer Ave,2.5,3.0,Campbell,"1,563 sqft","Feb 10, 2014","$647,000",37.290215,-121.97441,CA,Single-Family Home,647000,"$811,000",95008,,,,Sold,SANTA CLARA
+33,90 N 3rd St,1.0,2.0,Campbell,"1,104 sqft","Feb 7, 2014","$801,000",37.28827,-121.94693,CA,Single-Family Home,801000,"$839,000",95008,,,,Sold,SANTA CLARA
+34,229 Shelley Ave,2.5,3.0,Campbell,"2,002 sqft","Feb 7, 2014","$780,000",37.263863,-121.94464,CA,Condo,780000,"$867,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+35,701 Cypress Ln,2.0,2.0,Campbell,"1,049 sqft","Feb 7, 2014","$565,000",37.291138,-121.93758,CA,Condo,565000,"$562,000",95008,,,,Sold,SANTA CLARA
+36,1709 Silacci Dr,2.0,3.0,Campbell,"1,204 sqft","Feb 4, 2014","$690,000",37.274406,-121.980194,CA,Single-Family Home,690000,"$845,000",95008,,,,Sold,SANTA CLARA
+37,333 W Latimer Ave,2.5,3.0,Campbell,"1,953 sqft","Feb 4, 2014","$800,000",37.29081,-121.95581,CA,Single-Family Home,800000,"$1,029,000",95008,,,,Sold,SANTA CLARA
+38,359 W Rincon Ave #D,2.5,3.0,Campbell,"1,665 sqft","Feb 4, 2014","$619,000",37.285233,-121.95623,CA,Condo,619000,"$713,000",95008,,,,Sold,SANTA CLARA
+39,125 Calado Ave,2.0,3.0,Campbell,"1,372 sqft","Feb 3, 2014","$891,500",37.288216,-121.97809,CA,Single-Family Home,891500,"$904,000",95008,,,,Sold,SANTA CLARA
+40,270 Cherry Ln,1.0,3.0,Campbell,"1,355 sqft","Feb 3, 2014","$308,000",37.283375,-121.95463,CA,Single-Family Home,308000,"$921,000",95008,,,,Sold,SANTA CLARA
+41,236 N Central Ave,3.0,3.0,Campbell,"3,776 sqft","Jan 31, 2014","$1,765,000",37.290573,-121.94325,CA,Single-Family Home,1765000,"$1,771,000",95008,,,,Sold,SANTA CLARA
+42,300 Union Ave #13,1.0,1.0,Campbell,621 sqft,"Jan 31, 2014","$325,000",37.28247,-121.93522,CA,Condo,325000,"$362,000",95008,Willow Glen,,,Sold,SANTA CLARA
+43,1206 W Hacienda Ave,2.5,4.0,Campbell,"1,850 sqft","Jan 30, 2014","$1,080,000",37.268856,-121.9709,CA,Single-Family Home,1080000,"$1,104,000",95008,,,,Sold,SANTA CLARA
+44,208 Michael Dr,2.5,2.0,Campbell,"1,332 sqft","Jan 30, 2014","$495,000",37.284046,-121.93538,CA,Condo,495000,"$636,000",95008,,,,Sold,SANTA CLARA
+45,1139 E Campbell Ave,1.5,3.0,Campbell,"1,692 sqft","Jan 29, 2014","$1,030,000",37.28717,-121.92925,CA,Single-Family Home,1030000,"$1,067,000",95008,,,,Sold,SANTA CLARA
+46,325 Redding Rd,1.0,1.0,Campbell,956 sqft,"Jan 28, 2014","$670,000",37.265476,-121.94337,CA,Single-Family Home,670000,"$698,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+47,2243 Middletown Dr,1.5,4.0,Campbell,"1,166 sqft","Jan 24, 2014","$880,000",37.280685,-121.96975,CA,Single-Family Home,880000,"$861,000",95008,West San Jose,,,Sold,SANTA CLARA
+48,788 Dry Creek Rd,3.5,5.0,Campbell,"4,149 sqft","Jan 24, 2014","$1,325,000",37.27752,-121.93637,CA,Single-Family Home,1325000,"$1,447,000",95008,Willow Glen,,,Sold,SANTA CLARA
+49,1188 Capri Dr,2.5,3.0,Campbell,"1,990 sqft","Jan 22, 2014","$650,000",37.26942,-121.96094,CA,Condo,650000,"$761,000",95008,,,,Sold,SANTA CLARA
+50,243 Dillon Ave,,,Campbell,874 sqft,"Jan 22, 2014","$250,000",37.284138,-121.94323,CA,Multi-Family,250000,"$738,000",95008,,,,Sold,SANTA CLARA
+51,101 Redding Rd #A4,1.5,2.0,Campbell,"1,345 sqft","Jan 22, 2014","$555,000",37.265427,-121.94713,CA,Condo,555000,"$562,000",95008,,,,Sold,SANTA CLARA
+52,730 Bucknall Rd,2.0,3.0,Campbell,"1,165 sqft","Jan 21, 2014","$690,000",37.284004,-121.962906,CA,Single-Family Home,690000,"$754,000",95008,,,,Sold,SANTA CLARA
+53,2218 S San Tomas Aquino Rd,2.0,4.0,Campbell,"1,512 sqft","Jan 15, 2014","$869,000",37.28134,-121.97722,CA,Single-Family Home,869000,"$903,000",95008,West San Jose,,,Sold,SANTA CLARA
+54,124 Redding Rd,2.5,3.0,Campbell,"1,790 sqft","Jan 15, 2014","$650,000",37.264877,-121.946686,CA,Condo,650000,"$754,000",95008,,,,Sold,SANTA CLARA
+55,42 Biscay Ct,2.5,2.0,Campbell,"1,447 sqft","Jan 15, 2014","$675,000",37.28895,-121.94162,CA,Single-Family Home,675000,"$898,000",95008,,,,Sold,SANTA CLARA
+56,4087 Keith Dr,2.0,4.0,Campbell,"2,612 sqft","Jan 10, 2014","$1,000,000",37.278694,-121.97356,CA,Single-Family Home,1000000,"$1,022,000",95008,West San Jose,,,Sold,SANTA CLARA
+57,4160 Lemoyne Way,2.0,4.0,Campbell,"1,638 sqft","Jan 10, 2014","$788,000",37.28014,-121.975494,CA,Single-Family Home,788000,"$933,000",95008,West San Jose,,,Sold,SANTA CLARA
+58,42 E Latimer Ave,2.5,2.0,Campbell,"1,328 sqft","Jan 10, 2014","$570,000",37.290466,-121.94877,CA,Condo,570000,"$638,000",95008,,,,Sold,SANTA CLARA
+59,480 W Sunnyoaks Ave,2.5,3.0,Campbell,"1,759 sqft","Jan 10, 2014","$670,000",37.271954,-121.95827,CA,Condo,670000,"$811,000",95008,,,,Sold,SANTA CLARA
+60,1663 Ensenada Dr,2.0,3.0,Campbell,"1,284 sqft","Jan 9, 2014","$880,000",37.289207,-121.979256,CA,Single-Family Home,880000,"$886,000",95008,,,,Sold,SANTA CLARA
+61,101 Shelley Ave,2.5,3.0,Campbell,"1,461 sqft","Jan 7, 2014","$600,000",37.264057,-121.94767,CA,Condo,600000,"$663,000",95008,,,,Sold,SANTA CLARA
+62,309 California St,1.0,2.0,Campbell,951 sqft,"Jan 3, 2014","$900,000",37.282642,-121.95462,CA,Single-Family Home,900000,"$788,000",95008,,,,Sold,SANTA CLARA
+63,1303 Bronwen Way,3.0,3.0,Campbell,"1,297 sqft","Jan 3, 2014","$812,000",37.26761,-121.98187,CA,Single-Family Home,812000,"$903,000",95008,,,,Sold,SANTA CLARA
+64,808 Sunnypark Ct,2.0,3.0,Campbell,"1,222 sqft","Dec 31, 2013","$500,000",37.27082,-121.96318,CA,Single-Family Home,500000,"$828,000",95008,,,,Sold,SANTA CLARA
+65,4125 Lemoyne Way,2.0,3.0,Campbell,"1,111 sqft","Dec 30, 2013","$500,000",37.2806,-121.97496,CA,Single-Family Home,500000,"$775,000",95008,West San Jose,,,Sold,SANTA CLARA
+66,1185 Sonuca Ct,3.0,4.0,Campbell,"2,444 sqft","Dec 26, 2013","$1,035,000",37.26935,-121.96763,CA,Single-Family Home,1035000,"$1,241,000",95008,,,,Sold,SANTA CLARA
+67,450 Sunnybrook Ct,2.0,3.0,Campbell,"1,400 sqft","Dec 24, 2013","$675,000",37.279964,-121.95786,CA,Single-Family Home,675000,"$840,000",95008,,,,Sold,SANTA CLARA
+68,1093 Normandy Dr,2.0,3.0,Campbell,"1,491 sqft","Dec 24, 2013","$725,000",37.271034,-121.94259,CA,Single-Family Home,725000,"$813,000",95008,,,,Sold,SANTA CLARA
+69,4063 Valerie Dr,4.0,5.0,Campbell,"2,968 sqft","Dec 24, 2013","$1,035,000",37.27986,-121.97355,CA,Single-Family Home,1035000,"$1,197,000",95008,West San Jose,,,Sold,SANTA CLARA
+70,1220 Paula Dr,2.0,4.0,Campbell,"1,517 sqft","Dec 23, 2013","$835,000",37.289413,-121.97156,CA,Single-Family Home,835000,"$859,000",95008,,,,Sold,SANTA CLARA
+71,304 Redding Rd,2.0,3.0,Campbell,"1,638 sqft","Dec 23, 2013","$875,000",37.264717,-121.9438,CA,Single-Family Home,875000,"$995,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+72,185 Union Ave #28,1.0,1.0,Campbell,704 sqft,"Dec 20, 2013","$313,000",37.284424,-121.93616,CA,Condo,313000,"$369,000",95008,,,,Sold,SANTA CLARA
+73,604 Beta Ct,,,Campbell,"3,400 sqft","Dec 20, 2013","$925,000",37.273582,-121.96049,CA,Multi-Family,925000,,95008,,,,Sold,SANTA CLARA
+74,1381 Hoffman Ln,1.0,4.0,Campbell,"1,578 sqft","Dec 20, 2013","$770,000",37.26698,-121.94594,CA,Single-Family Home,770000,"$764,000",95008,,,,Sold,SANTA CLARA
+75,309 Christopher Ave,1.0,3.0,Campbell,"1,564 sqft","Dec 20, 2013","$742,000",37.282413,-121.96365,CA,Single-Family Home,742000,"$879,000",95008,,,,Sold,SANTA CLARA
+76,858 N Central Ave,1.5,3.0,Campbell,"1,534 sqft","Dec 18, 2013","$1,200,000",37.29959,-121.94325,CA,Single-Family Home,1200000,"$1,018,000",95008,,,,Sold,SANTA CLARA
+77,275 Gomes Ct #4,1.0,2.0,Campbell,798 sqft,"Dec 18, 2013","$402,500",37.29228,-121.945496,CA,Condo,402500,"$423,000",95008,,,,Sold,SANTA CLARA
+78,154 Sunnyside Ave,2.0,2.0,Campbell,856 sqft,"Dec 18, 2013","$685,000",37.282734,-121.947075,CA,Single-Family Home,685000,"$756,000",95008,,,,Sold,SANTA CLARA
+79,555 Latimer Cir,2.5,4.0,Campbell,"1,432 sqft","Dec 17, 2013","$590,000",37.288548,-121.959564,CA,Condo,590000,"$685,000",95008,,,,Sold,SANTA CLARA
+80,359 W Rincon Ave #E,2.5,3.0,Campbell,"1,665 sqft","Dec 17, 2013","$590,000",37.285297,-121.95623,CA,Condo,590000,"$714,000",95008,,,,Sold,SANTA CLARA
+81,1185 El Solyo Ave,3.5,4.0,Campbell,"2,896 sqft","Dec 13, 2013","$1,560,000",37.285294,-121.92825,CA,Single-Family Home,1560000,"$1,673,000",95008,,,,Sold,SANTA CLARA
+82,142 Memory Ln,1.0,3.0,Campbell,"1,277 sqft","Dec 13, 2013","$895,000",37.289036,-121.929504,CA,Single-Family Home,895000,"$946,000",95008,,,,Sold,SANTA CLARA
+83,21 N 2nd St #13,1.0,1.0,Campbell,"1,184 sqft","Dec 13, 2013","$450,000",37.28731,-121.94625,CA,Condo,450000,"$529,000",95008,,,,Sold,SANTA CLARA
+84,141 Monte Villa Ct,2.5,3.0,Campbell,"1,188 sqft","Dec 12, 2013","$522,500",37.26073,-121.947655,CA,Condo,522500,"$609,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+85,374 Union Ave #F,1.0,1.0,Campbell,887 sqft,"Dec 11, 2013","$335,000",37.281216,-121.93511,CA,Condo,335000,"$442,000",95008,Willow Glen,,,Sold,SANTA CLARA
+86,151 Jane Ann Way,3.0,3.0,Campbell,"2,719 sqft","Dec 11, 2013","$1,250,000",37.284603,-121.96448,CA,Single-Family Home,1250000,"$1,231,000",95008,,,,Sold,SANTA CLARA
+87,595 Union Ave,2.5,3.0,Campbell,"1,318 sqft","Dec 10, 2013","$725,000",37.278454,-121.93635,CA,Single-Family Home,725000,"$756,000",95008,Willow Glen,,,Sold,SANTA CLARA
+88,2118 Vizcaya Way,2.5,3.0,Campbell,"2,656 sqft","Dec 10, 2013","$820,000",37.27283,-121.93584,CA,Condo,820000,"$1,048,000",95008,Willow Glen,,,Sold,SANTA CLARA
+89,950 Stonehurst Way,2.5,4.0,Campbell,"2,053 sqft","Dec 9, 2013","$986,500",37.27344,-121.93903,CA,Single-Family Home,986500,"$1,042,000",95008,Willow Glen,,,Sold,SANTA CLARA
+90,915 Apricot Ave #37,2.0,2.0,Campbell,"1,187 sqft","Dec 6, 2013","$520,000",37.284275,-121.9328,CA,Condo,520000,"$582,000",95008,,,,Sold,SANTA CLARA
+91,367 Nottingham Way,2.5,4.0,Campbell,"2,176 sqft","Dec 5, 2013","$1,055,000",37.2923,-121.92467,CA,Single-Family Home,1055000,"$1,147,000",95008,,,,Sold,SANTA CLARA
+92,4082 Bucknall Rd,2.0,3.0,Campbell,"1,314 sqft","Dec 5, 2013","$840,000",37.283478,-121.97414,CA,Single-Family Home,840000,"$864,000",95008,West San Jose,,,Sold,SANTA CLARA
+93,1122 Salerno Dr,1.0,2.0,Campbell,"1,022 sqft","Dec 5, 2013","$615,000",37.270664,-121.94082,CA,Single-Family Home,615000,"$740,000",95008,Willow Glen,,,Sold,SANTA CLARA
+94,5003 Ponderosa Ter,1.0,2.0,Campbell,920 sqft,"Dec 4, 2013","$489,500",37.27042,-121.98933,CA,Condo,489500,"$526,000",95008,West San Jose,,,Sold,SANTA CLARA
+95,146 Sunnyside Ave,2.5,2.0,Campbell,"1,428 sqft","Dec 3, 2013","$670,000",37.282555,-121.94731,CA,Single-Family Home,670000,"$845,000",95008,,,,Sold,SANTA CLARA
+96,360 N 1st St #3,1.0,2.0,Campbell,903 sqft,"Dec 2, 2013","$385,000",37.292328,-121.94439,CA,Condo,385000,"$429,000",95008,,,,Sold,SANTA CLARA
+97,101 Somerset Dr,3.0,3.0,Campbell,"1,633 sqft","Dec 2, 2013","$850,000",37.28892,-121.9409,CA,Single-Family Home,850000,"$988,000",95008,,,,Sold,SANTA CLARA
+98,1402 Mcbain Ave,2.0,3.0,Campbell,"1,714 sqft","Nov 27, 2013","$1,170,000",37.289127,-121.92485,CA,Single-Family Home,1170000,"$1,171,000",95008,,,,Sold,SANTA CLARA
+99,211 Carlyn Ave,1.0,2.0,Campbell,985 sqft,"Nov 26, 2013","$806,000",37.290108,-121.956635,CA,Single-Family Home,806000,"$819,000",95008,,,,Sold,SANTA CLARA
+100,1375 W Campbell Ave,2.5,2.0,Campbell,"1,319 sqft","Nov 26, 2013","$550,000",37.2867,-121.973564,CA,Condo,550000,"$632,000",95008,,,,Sold,SANTA CLARA
+101,313 W Campbell Ave,1.0,2.0,Campbell,"1,203 sqft","Nov 26, 2013","$617,000",37.287266,-121.955284,CA,Single-Family Home,617000,"$784,000",95008,,,,Sold,SANTA CLARA
+102,185 Radford Dr,2.0,3.0,Campbell,"1,380 sqft","Nov 26, 2013","$725,000",37.289062,-121.9692,CA,Single-Family Home,725000,"$868,000",95008,,,,Sold,SANTA CLARA
+103,1207 Smith Ave,2.5,3.0,Campbell,"1,963 sqft","Nov 26, 2013","$665,000",37.27428,-121.970665,CA,Single-Family Home,665000,"$989,000",95008,,,,Sold,SANTA CLARA
+104,732 Margaret Ln,1.0,2.0,Campbell,"1,152 sqft","Nov 22, 2013","$650,000",37.27627,-121.97182,CA,Single-Family Home,650000,"$841,000",95008,,,,Sold,SANTA CLARA
+105,133 Redding Rd #10,2.5,2.0,Campbell,"1,344 sqft","Nov 22, 2013","$568,000",37.265797,-121.946365,CA,Condo,568000,"$639,000",95008,,,,Sold,SANTA CLARA
+106,818 Virginia Ave,2.0,3.0,Campbell,"1,166 sqft","Nov 22, 2013","$750,000",37.27487,-121.96391,CA,Single-Family Home,750000,"$847,000",95008,,,,Sold,SANTA CLARA
+107,2545 Oak Park Ln,2.0,4.0,Campbell,"1,687 sqft","Nov 22, 2013","$775,000",37.275745,-121.94081,CA,Single-Family Home,775000,"$868,000",95008,Willow Glen,,,Sold,SANTA CLARA
+108,1375 Robnick Ct,3.0,4.0,Campbell,"3,503 sqft","Nov 22, 2013","$1,450,000",37.26677,-121.98017,CA,Single-Family Home,1450000,"$1,662,000",95008,,,,Sold,SANTA CLARA
+109,323 N 2nd St #1,1.0,2.0,Campbell,810 sqft,"Nov 21, 2013","$340,000",37.291523,-121.946175,CA,Condo,340000,"$426,000",95008,,,,Sold,SANTA CLARA
+110,636 Kenneth Ave,1.0,2.0,Campbell,912 sqft,"Nov 20, 2013","$566,000",37.277847,-121.95892,CA,Single-Family Home,566000,"$810,000",95008,,,,Sold,SANTA CLARA
+111,605 Marathon Dr,1.5,2.0,Campbell,953 sqft,"Nov 20, 2013","$380,000",37.29559,-121.965546,CA,Condo,380000,"$491,000",95008,West San Jose,,,Sold,SANTA CLARA
+112,840 Silacci Dr,2.0,4.0,Campbell,"1,645 sqft","Nov 19, 2013","$881,000",37.273254,-121.9812,CA,Single-Family Home,881000,"$974,000",95008,,,,Sold,SANTA CLARA
+113,1250 Patio Ct,2.0,3.0,Campbell,"1,783 sqft","Nov 19, 2013","$975,000",37.288403,-121.92733,CA,Single-Family Home,975000,"$1,015,000",95008,,,,Sold,SANTA CLARA
+114,1115 El Solyo Ave,2.0,4.0,Campbell,"2,025 sqft","Nov 18, 2013","$1,100,500",37.28529,-121.92951,CA,Single-Family Home,1100500,"$1,134,000",95008,,,,Sold,SANTA CLARA
+115,845 Jones Way,2.0,4.0,Campbell,"1,453 sqft","Nov 18, 2013","$675,000",37.274487,-121.965454,CA,Single-Family Home,675000,"$753,000",95008,,,,Sold,SANTA CLARA
+116,1857 W Campbell Ave,4.0,4.0,Campbell,"5,976 sqft","Nov 15, 2013","$1,300,000",37.28638,-121.98374,CA,Single-Family Home,1300000,"$1,749,000",95008,,,,Sold,SANTA CLARA
+117,170 Coventry Dr,3.0,3.0,Campbell,"1,675 sqft","Nov 15, 2013","$785,000",37.289337,-121.9661,CA,Single-Family Home,785000,"$957,000",95008,,,,Sold,SANTA CLARA
+118,78 Shelley Ave,2.5,3.0,Campbell,"1,390 sqft","Nov 15, 2013","$590,000",37.263103,-121.947624,CA,Condo,590000,"$684,000",95008,,,,Sold,SANTA CLARA
+119,3754 Century Dr,2.0,4.0,Campbell,"1,486 sqft","Nov 14, 2013","$810,000",37.27821,-121.96685,CA,Single-Family Home,810000,"$847,000",95008,,,,Sold,SANTA CLARA
+120,2108 Vizcaya Way,2.5,3.0,Campbell,"2,656 sqft","Nov 14, 2013","$885,000",37.27277,-121.93651,CA,Condo,885000,"$1,065,000",95008,Willow Glen,,,Sold,SANTA CLARA
+121,168 Christopher Ave,1.0,2.0,Campbell,849 sqft,"Nov 12, 2013","$760,000",37.284424,-121.96288,CA,Single-Family Home,760000,"$782,000",95008,,,,Sold,SANTA CLARA
+122,950 Smith Ave,2.0,3.0,Campbell,"1,076 sqft","Nov 8, 2013","$825,000",37.274094,-121.965614,CA,Single-Family Home,825000,"$788,000",95008,,,,Sold,SANTA CLARA
+123,383 Virginia Ave,2.0,3.0,Campbell,"1,530 sqft","Nov 8, 2013","$610,000",37.28149,-121.96296,CA,Single-Family Home,610000,"$822,000",95008,,,,Sold,SANTA CLARA
+124,473 April Way,1.5,3.0,Campbell,"1,770 sqft","Nov 8, 2013","$766,000",37.293766,-121.92796,CA,Single-Family Home,766000,"$945,000",95008,,,,Sold,SANTA CLARA
+125,1048 Almarida Dr,2.0,4.0,Campbell,"1,533 sqft","Nov 8, 2013","$710,000",37.29479,-121.94106,CA,Single-Family Home,710000,"$876,000",95008,,,,Sold,SANTA CLARA
+126,4021 Lemoyne Way,2.0,4.0,Campbell,"1,693 sqft","Nov 8, 2013","$842,000",37.280624,-121.97288,CA,Single-Family Home,842000,"$947,000",95008,West San Jose,,,Sold,SANTA CLARA
+127,1400 Sharp Ave,3.0,4.0,Campbell,"2,141 sqft","Nov 7, 2013","$645,000",37.267063,-121.94275,CA,Single-Family Home,645000,"$938,000",95008,Willow Glen,,,Sold,SANTA CLARA
+128,1085 El Solyo Ave,3.0,5.0,Campbell,"2,315 sqft","Nov 6, 2013","$1,125,000",37.2852,-121.930016,CA,Single-Family Home,1125000,"$1,258,000",95008,,,,Sold,SANTA CLARA
+129,254 Superior Dr,,,Campbell,"1,742 sqft","Nov 6, 2013","$731,500",37.290005,-121.973694,CA,Multi-Family,731500,"$897,000",95008,,,,Sold,SANTA CLARA
+130,315 N 3rd St #2,1.0,2.0,Campbell,903 sqft,"Nov 5, 2013","$365,000",37.291794,-121.94737,CA,Condo,365000,"$424,000",95008,,,,Sold,SANTA CLARA
+131,197 Shelley Ave,2.5,2.0,Campbell,"1,280 sqft","Nov 5, 2013","$549,000",37.263947,-121.94563,CA,Condo,549000,"$582,000",95008,,,,Sold,SANTA CLARA
+132,161 Wilton Dr,,,Campbell,"3,747 sqft","Nov 4, 2013","$1,000,000",37.28012,-121.95277,CA,Multi-Family,1000000,,95008,,,,Sold,SANTA CLARA
+133,453 W Latimer Ave,2.0,4.0,Campbell,"1,717 sqft","Nov 1, 2013","$835,000",37.290848,-121.95787,CA,Single-Family Home,835000,"$948,000",95008,,,,Sold,SANTA CLARA
+134,724 W Hacienda Ave,,,Campbell,"1,894 sqft","Oct 31, 2013","$731,000",37.26892,-121.962265,CA,Multi-Family,731000,"$922,000",95008,,,,Sold,SANTA CLARA
+135,1381 Sheffield Ave,2.0,3.0,Campbell,"3,289 sqft","Oct 31, 2013","$950,000",37.29212,-121.92503,CA,Single-Family Home,950000,"$1,225,000",95008,,,,Sold,SANTA CLARA
+136,2719 Montavo Pl,2.5,3.0,Campbell,"1,500 sqft","Oct 30, 2013","$670,000",37.27212,-121.93834,CA,Condo,670000,"$799,000",95008,Willow Glen,,,Sold,SANTA CLARA
+137,1101 El Solyo Ave,2.0,3.0,Campbell,"1,933 sqft","Oct 30, 2013","$1,300,000",37.285336,-121.92982,CA,Single-Family Home,1300000,"$1,116,000",95008,,,,Sold,SANTA CLARA
+138,404 Shamrock Dr,1.0,3.0,Campbell,"1,659 sqft","Oct 24, 2013","$889,000",37.269028,-121.942055,CA,Single-Family Home,889000,"$992,000",95008,,,,Sold,SANTA CLARA
+139,705 Kenneth Ave,1.0,2.0,Campbell,"1,084 sqft","Oct 24, 2013","$735,000",37.27683,-121.959435,CA,Single-Family Home,735000,"$902,000",95008,,,,Sold,SANTA CLARA
+140,78 Cannery Cir,2.5,3.0,Campbell,"1,481 sqft","Oct 23, 2013","$800,000",37.287914,-121.94181,CA,Single-Family Home,800000,"$930,000",95008,,,,Sold,SANTA CLARA
+141,224 Chalet Woods Pl,2.0,2.0,Campbell,960 sqft,"Oct 22, 2013","$725,000",37.281586,-121.93465,CA,Condo,725000,"$708,000",95008,Willow Glen,,,Sold,SANTA CLARA
+142,323 E Latimer Ave #4,1.0,2.0,Campbell,798 sqft,"Oct 22, 2013","$362,000",37.29095,-121.945816,CA,Condo,362000,"$419,000",95008,,,,Sold,SANTA CLARA
+143,151 Wilton Dr #1,,,Campbell,"3,837 sqft","Oct 22, 2013","$1,025,000",37.28012,-121.952545,CA,Multi-Family,1025000,,95008,,,,Sold,SANTA CLARA
+144,472 Kings Ct,2.0,3.0,Campbell,"1,293 sqft","Oct 22, 2013","$735,000",37.291862,-121.95819,CA,Single-Family Home,735000,"$844,000",95008,,,,Sold,SANTA CLARA
+145,507 Latimer Cir,2.5,3.0,Campbell,"1,364 sqft","Oct 21, 2013","$565,000",37.29018,-121.9597,CA,Condo,565000,"$657,000",95008,,,,Sold,SANTA CLARA
+146,175 Wilton Dr,,,Campbell,"3,837 sqft","Oct 21, 2013","$1,060,000",37.280117,-121.95299,CA,Multi-Family,1060000,,95008,,,,Sold,SANTA CLARA
+147,591 Nello Dr,,,Campbell,"3,845 sqft","Oct 18, 2013","$1,130,000",37.27849,-121.9554,CA,Multi-Family,1130000,,95008,,,,Sold,SANTA CLARA
+148,1132 Erin Way,1.0,3.0,Campbell,"1,568 sqft","Oct 18, 2013","$500,000",37.270687,-121.94304,CA,Single-Family Home,500000,"$752,000",95008,,,,Sold,SANTA CLARA
+149,953 La Plata Plz,2.0,2.0,Campbell,"1,502 sqft","Oct 18, 2013","$779,000",37.27085,-121.96676,CA,Single-Family Home,779000,"$913,000",95008,,,,Sold,SANTA CLARA
+150,220 S 1st St,2.0,3.0,Campbell,"1,404 sqft","Oct 18, 2013","$735,000",37.283783,-121.94534,CA,Single-Family Home,735000,"$843,000",95008,,,,Sold,SANTA CLARA
+151,1490 Burrows Rd,2.5,2.0,Campbell,"1,693 sqft","Oct 17, 2013","$670,000",37.265434,-121.973145,CA,Single-Family Home,670000,"$893,000",95008,,,,Sold,SANTA CLARA
+152,565 W Latimer Ave,2.0,2.0,Campbell,"1,126 sqft","Oct 17, 2013","$475,000",37.29088,-121.95988,CA,Condo,475000,"$585,000",95008,,,,Sold,SANTA CLARA
+153,1158 Fewtrell Dr,2.0,3.0,Campbell,"1,430 sqft","Oct 17, 2013","$756,000",37.287586,-121.928925,CA,Single-Family Home,756000,"$932,000",95008,,,,Sold,SANTA CLARA
+154,174 Shelley Ave,3.0,3.0,Campbell,"1,976 sqft","Oct 16, 2013","$850,000",37.262936,-121.9458,CA,Single-Family Home,850000,"$937,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+155,3908 W Campbell Ave,2.0,5.0,Campbell,999 sqft,"Oct 16, 2013","$650,000",37.286102,-121.96944,CA,Single-Family Home,650000,"$713,000",95008,West San Jose,,,Sold,SANTA CLARA
+156,4975 Ponderosa Ter,1.0,2.0,Campbell,920 sqft,"Oct 15, 2013","$473,000",37.270424,-121.98843,CA,Condo,473000,"$523,000",95008,West San Jose,,,Sold,SANTA CLARA
+157,177 Marianna Way,2.0,3.0,Campbell,"1,101 sqft","Oct 15, 2013","$727,500",37.289516,-121.96493,CA,Single-Family Home,727500,"$768,000",95008,,,,Sold,SANTA CLARA
+158,908 Hazel Ave,3.5,4.0,Campbell,"2,689 sqft","Oct 15, 2013","$985,000",37.27539,-121.96484,CA,Single-Family Home,985000,"$1,268,000",95008,,,,Sold,SANTA CLARA
+159,215 N 1st St,3.0,4.0,Campbell,"1,632 sqft","Oct 15, 2013","$1,214,750",37.2902,-121.94521,CA,Single-Family Home,1214750,"$1,066,000",95008,,,,Sold,SANTA CLARA
+160,592 Harrison Ave,2.5,3.0,Campbell,"1,776 sqft","Oct 15, 2013","$770,000",37.295746,-121.94232,CA,Single-Family Home,770000,"$921,000",95008,,,,Sold,SANTA CLARA
+161,4106 W Rincon Ave,2.0,4.0,Campbell,"1,512 sqft","Oct 11, 2013","$795,000",37.28163,-121.97469,CA,Single-Family Home,795000,"$924,000",95008,West San Jose,,,Sold,SANTA CLARA
+162,1190 Hazel Ave,4.0,4.0,Campbell,"2,573 sqft","Oct 11, 2013","$1,197,000",37.275078,-121.97024,CA,Single-Family Home,1197000,"$1,363,000",95008,,,,Sold,SANTA CLARA
+163,864 Bucknall Rd,1.0,3.0,Campbell,"1,125 sqft","Oct 11, 2013","$680,000",37.283955,-121.96528,CA,Single-Family Home,680000,"$801,000",95008,,,,Sold,SANTA CLARA
+164,101 Redding Rd #C1,1.5,2.0,Campbell,"1,279 sqft","Oct 11, 2013","$350,000",37.266247,-121.94729,CA,Condo,350000,"$560,000",95008,,,,Sold,SANTA CLARA
+165,128 Kilmer Ave,2.0,3.0,Campbell,"1,142 sqft","Oct 10, 2013","$790,000",37.25791,-121.952614,CA,Single-Family Home,790000,"$909,000",95008,,,,Sold,SANTA CLARA
+166,169 Redding Rd,1.5,2.0,Campbell,"1,152 sqft","Oct 10, 2013","$515,000",37.266327,-121.94563,CA,Condo,515000,"$575,000",95008,,,,Sold,SANTA CLARA
+167,1215 Capri Dr,3.0,3.0,Campbell,"1,387 sqft","Oct 9, 2013","$630,000",37.269417,-121.9619,CA,Condo,630000,"$703,000",95008,,,,Sold,SANTA CLARA
+168,1636 Villarita Dr,2.0,3.0,Campbell,"1,372 sqft","Oct 9, 2013","$842,000",37.2882,-121.97849,CA,Single-Family Home,842000,"$896,000",95008,,,,Sold,SANTA CLARA
+169,324 Richlee Dr,2.0,2.0,Campbell,"1,161 sqft","Oct 8, 2013","$742,000",37.291626,-121.92835,CA,Single-Family Home,742000,"$800,000",95008,,,,Sold,SANTA CLARA
+170,1526 Redding Park Ln,2.5,3.0,Campbell,"1,806 sqft","Oct 4, 2013","$785,000",37.26475,-121.94461,CA,Condo,785000,"$845,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+171,486 W Sunnyoaks Ave,2.5,3.0,Campbell,"1,759 sqft","Oct 4, 2013","$650,000",37.272053,-121.95861,CA,Condo,650000,"$843,000",95008,,,,Sold,SANTA CLARA
+172,249 Marianna Way,2.0,3.0,Campbell,"1,568 sqft","Oct 4, 2013","$585,000",37.29055,-121.96494,CA,Single-Family Home,585000,"$849,000",95008,,,,Sold,SANTA CLARA
+173,1331 Capri Dr,1.0,3.0,Campbell,"1,360 sqft","Oct 3, 2013","$855,000",37.26734,-121.962166,CA,Single-Family Home,855000,"$814,000",95008,,,,Sold,SANTA CLARA
+174,2047 Orestes Way,2.0,3.0,Campbell,"1,789 sqft","Oct 3, 2013","$820,000",37.28472,-121.973854,CA,Single-Family Home,820000,"$950,000",95008,West San Jose,,,Sold,SANTA CLARA
+175,1173 Shamrock Dr,2.0,3.0,Campbell,"2,191 sqft","Oct 3, 2013","$690,000",37.269924,-121.94467,CA,Single-Family Home,690000,"$884,000",95008,,,,Sold,SANTA CLARA
+176,2112 Tankit Ct,2.0,3.0,Campbell,"1,310 sqft","Oct 2, 2013","$845,000",37.283375,-121.971565,CA,Single-Family Home,845000,"$852,000",95008,West San Jose,,,Sold,SANTA CLARA
+177,128 Shelley Ave,2.5,4.0,Campbell,"1,920 sqft","Oct 2, 2013","$810,000",37.26295,-121.946915,CA,Condo,810000,"$868,000",95008,,,,Sold,SANTA CLARA
+178,1081 Shadle Ave,2.0,3.0,Campbell,"1,286 sqft","Oct 1, 2013","$806,000",37.271385,-121.97121,CA,Single-Family Home,806000,"$853,000",95008,,,,Sold,SANTA CLARA
+179,1300 Arroyo Seco Dr,3.0,3.0,Campbell,"2,020 sqft","Oct 1, 2013","$1,270,000",37.285572,-121.92618,CA,Single-Family Home,1270000,"$1,202,000",95008,,,,Sold,SANTA CLARA
+180,1385 Sharp Ct,2.0,3.0,Campbell,"1,380 sqft","Sep 30, 2013","$725,000",37.267094,-121.94347,CA,Single-Family Home,725000,"$886,000",95008,,,,Sold,SANTA CLARA
+181,3932 Via Montalvo,2.0,4.0,Campbell,"1,924 sqft","Sep 27, 2013","$622,500",37.28459,-121.96988,CA,Single-Family Home,622500,"$827,000",95008,West San Jose,,,Sold,SANTA CLARA
+182,3545 S Bascom Ave,2.5,3.0,Campbell,"1,348 sqft","Sep 27, 2013","$530,000",37.262215,-121.94562,CA,Condo,530000,"$639,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+183,186 N Central Ave,2.0,3.0,Campbell,"1,568 sqft","Sep 27, 2013","$868,000",37.289803,-121.94326,CA,Single-Family Home,868000,"$883,000",95008,,,,Sold,SANTA CLARA
+184,388 Union Ave #D,2.5,2.0,Campbell,"1,244 sqft","Sep 27, 2013","$490,000",37.28104,-121.93474,CA,Condo,490000,"$624,000",95008,Willow Glen,,,Sold,SANTA CLARA
+185,171 Llewellyn Ave,2.5,5.0,Campbell,"2,801 sqft","Sep 26, 2013","$1,061,000",37.29011,-121.95868,CA,Single-Family Home,1061000,"$1,338,000",95008,,,,Sold,SANTA CLARA
+186,1532 Redding Park Ln,2.5,3.0,Campbell,"1,806 sqft","Sep 26, 2013","$795,000",37.264423,-121.944786,CA,Condo,795000,"$864,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+187,934 Apricot Ave,2.5,2.0,Campbell,"1,240 sqft","Sep 26, 2013","$506,000",37.283375,-121.93327,CA,Condo,506000,"$631,000",95008,,,,Sold,SANTA CLARA
+188,236 Echo Ave,,,Campbell,"4,126 sqft","Sep 24, 2013","$1,152,000",37.277653,-121.95403,CA,Multi-Family,1152000,,95008,,,,Sold,SANTA CLARA
+189,422 Shamrock Dr,1.5,4.0,Campbell,"1,968 sqft","Sep 24, 2013","$740,000",37.26903,-121.94164,CA,Single-Family Home,740000,"$921,000",95008,Willow Glen,,,Sold,SANTA CLARA
+190,236 W Rincon Ave #R,2.5,2.0,Campbell,"1,319 sqft","Sep 24, 2013","$570,000",37.28437,-121.95413,CA,Condo,570000,"$704,000",95008,,,,Sold,SANTA CLARA
+191,4936 Poplar Ter,1.5,2.0,Campbell,970 sqft,"Sep 24, 2013","$457,000",37.26924,-121.98866,CA,Condo,457000,"$529,000",95008,West San Jose,,,Sold,SANTA CLARA
+192,127 Orchard Oak Cir,2.5,3.0,Campbell,"1,695 sqft","Sep 20, 2013","$751,000",37.288044,-121.94055,CA,Condo,751000,"$835,000",95008,,,,Sold,SANTA CLARA
+193,889 Scott Ct,2.0,5.0,Campbell,"1,798 sqft","Sep 20, 2013","$850,000",37.26866,-121.96535,CA,Single-Family Home,850000,"$947,000",95008,,,,Sold,SANTA CLARA
+194,851 Old Orchard Rd,3.0,4.0,Campbell,"2,650 sqft","Sep 20, 2013","$1,125,000",37.274498,-121.95556,CA,Single-Family Home,1125000,"$1,239,000",95008,,,,Sold,SANTA CLARA
+195,661 Division St,2.5,3.0,Campbell,"1,327 sqft","Sep 20, 2013","$599,000",37.263393,-121.96182,CA,Condo,599000,"$668,000",95008,,,,Sold,SANTA CLARA
+196,201 Darryl Dr,2.0,4.0,Campbell,"1,860 sqft","Sep 20, 2013","$856,500",37.28975,-121.963234,CA,Single-Family Home,856500,"$963,000",95008,,,,Sold,SANTA CLARA
+197,237 Watson Dr #2,1.0,2.0,Campbell,903 sqft,"Sep 18, 2013","$364,500",37.293114,-121.94568,CA,Condo,364500,"$419,000",95008,,,,Sold,SANTA CLARA
+198,463 E Latimer Ave #2,1.0,2.0,Campbell,903 sqft,"Sep 18, 2013","$363,000",37.29089,-121.944305,CA,Condo,363000,"$419,000",95008,,,,Sold,SANTA CLARA
+199,191 Marianna Way,2.0,3.0,Campbell,"1,101 sqft","Sep 18, 2013","$700,000",37.28969,-121.96493,CA,Single-Family Home,700000,"$760,000",95008,,,,Sold,SANTA CLARA
+200,164 N 3rd St,1.0,2.0,Campbell,"1,650 sqft","Sep 13, 2013","$920,000",37.2895,-121.946915,CA,Single-Family Home,920000,"$991,000",95008,,,,Sold,SANTA CLARA
+201,1386 Mcbain Ave,2.5,3.0,Campbell,"2,468 sqft","Sep 13, 2013","$1,300,000",37.289127,-121.925095,CA,Single-Family Home,1300000,"$1,360,000",95008,,,,Sold,SANTA CLARA
+202,833 S San Tomas Aquino Rd,2.0,2.0,Campbell,"1,467 sqft","Sep 13, 2013","$610,000",37.27497,-121.97149,CA,Condo,610000,"$642,000",95008,,,,Sold,SANTA CLARA
+203,113 George Ct,2.5,4.0,Campbell,"1,985 sqft","Sep 12, 2013","$848,000",37.284054,-121.94466,CA,Single-Family Home,848000,"$1,085,000",95008,,,,Sold,SANTA CLARA
+204,1324 Ridgeley Dr,3.0,3.0,Campbell,"1,974 sqft","Sep 12, 2013","$949,000",37.290047,-121.9259,CA,Single-Family Home,949000,"$1,058,000",95008,,,,Sold,SANTA CLARA
+205,103 Chalet Woods Cir,2.5,3.0,Campbell,"1,500 sqft","Sep 11, 2013","$723,000",37.28195,-121.935265,CA,Condo,723000,"$809,000",95008,Willow Glen,,,Sold,SANTA CLARA
+206,3940 Via Montalvo,2.0,4.0,Campbell,"1,924 sqft","Sep 11, 2013","$780,000",37.28458,-121.97009,CA,Single-Family Home,780000,"$827,000",95008,West San Jose,,,Sold,SANTA CLARA
+207,2142 Vizcaya Cir,2.5,3.0,Campbell,"2,656 sqft","Sep 10, 2013","$945,000",37.27382,-121.93536,CA,Condo,945000,"$1,077,000",95008,Willow Glen,,,Sold,SANTA CLARA
+208,585 Latimer Cir,2.5,4.0,Campbell,"1,432 sqft","Sep 6, 2013","$605,000",37.28959,-121.95976,CA,Condo,605000,"$674,000",95008,,,,Sold,SANTA CLARA
+209,160 Hardy Ave,1.0,3.0,Campbell,960 sqft,"Sep 6, 2013","$802,000",37.289387,-121.95707,CA,Single-Family Home,802000,"$818,000",95008,,,,Sold,SANTA CLARA
+210,3899 Via Cristobal,2.0,4.0,Campbell,"1,943 sqft","Sep 6, 2013","$779,000",37.28581,-121.96922,CA,Single-Family Home,779000,"$966,000",95008,West San Jose,,,Sold,SANTA CLARA
+211,1970 White Oaks Rd,2.0,3.0,Campbell,"1,585 sqft","Sep 6, 2013","$850,000",37.259216,-121.94857,CA,Single-Family Home,850000,"$962,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+212,5025 Pine Tree Ter,1.5,2.0,Campbell,970 sqft,"Sep 5, 2013","$400,000",37.270653,-121.9899,CA,Condo,400000,"$510,000",95008,West San Jose,,,Sold,SANTA CLARA
+213,764 Almarida Dr,1.5,3.0,Campbell,"1,452 sqft","Sep 4, 2013","$740,000",37.298286,-121.94108,CA,Single-Family Home,740000,"$950,000",95008,Willow Glen,,,Sold,SANTA CLARA
+214,1092 Salerno Dr,1.5,3.0,Campbell,"1,440 sqft","Sep 4, 2013","$725,000",37.27105,-121.94083,CA,Single-Family Home,725000,"$868,000",95008,Willow Glen,,,Sold,SANTA CLARA
+215,347 N Central Ave,2.0,3.0,Campbell,"1,494 sqft","Aug 30, 2013","$810,000",37.29213,-121.94392,CA,Single-Family Home,810000,"$835,000",95008,,,,Sold,SANTA CLARA
+216,4037 Acapulco Dr,2.0,4.0,Campbell,"1,899 sqft","Aug 30, 2013","$945,000",37.281353,-121.97348,CA,Single-Family Home,945000,"$1,059,000",95008,West San Jose,,,Sold,SANTA CLARA
+217,213 N 2nd St,1.0,2.0,Campbell,"1,240 sqft","Aug 30, 2013","$780,000",37.290157,-121.94641,CA,Single-Family Home,780000,"$910,000",95008,,,,Sold,SANTA CLARA
+218,83 Shelley Ave,2.5,2.0,Campbell,"1,465 sqft","Aug 30, 2013","$556,000",37.264107,-121.947845,CA,Condo,556000,"$669,000",95008,,,,Sold,SANTA CLARA
+219,1300 Westmont Ave,3.0,4.0,Campbell,"1,449 sqft","Aug 30, 2013","$784,500",37.271786,-121.97264,CA,Single-Family Home,784500,"$756,000",95008,,,,Sold,SANTA CLARA
+220,163 Del Prado Dr,2.0,4.0,Campbell,"1,785 sqft","Aug 30, 2013","$820,000",37.289394,-121.96232,CA,Single-Family Home,820000,"$979,000",95008,,,,Sold,SANTA CLARA
+221,214 Gomes Ct #4,1.0,2.0,Campbell,798 sqft,"Aug 29, 2013","$385,500",37.291756,-121.94663,CA,Condo,385500,"$419,000",95008,,,,Sold,SANTA CLARA
+222,632 Cypress Ln,3.0,2.0,Campbell,"1,358 sqft","Aug 29, 2013","$613,500",37.29081,-121.93839,CA,Condo,613500,"$704,000",95008,,,,Sold,SANTA CLARA
+223,670 W Sunnyoaks Ave,1.5,2.0,Campbell,"1,152 sqft","Aug 29, 2013","$465,000",37.270897,-121.960754,CA,Condo,465000,"$574,000",95008,,,,Sold,SANTA CLARA
+224,323 E Latimer Ave #2,1.0,2.0,Campbell,903 sqft,"Aug 29, 2013","$395,000",37.290897,-121.94578,CA,Condo,395000,"$436,000",95008,,,,Sold,SANTA CLARA
+225,2863 S Bascom Ave #807,2.0,2.0,Campbell,841 sqft,"Aug 28, 2013","$358,000",37.270752,-121.93872,CA,Condo,358000,"$461,000",95008,Willow Glen,,,Sold,SANTA CLARA
+226,121 S Milton Ave,2.0,3.0,Campbell,"2,304 sqft","Aug 28, 2013","$925,000",37.28522,-121.955414,CA,Single-Family Home,925000,"$1,097,000",95008,,,,Sold,SANTA CLARA
+227,258 W Rincon Ave #A,2.0,2.0,Campbell,"1,408 sqft","Aug 27, 2013","$532,500",37.28446,-121.95441,CA,Condo,532500,"$656,000",95008,,,,Sold,SANTA CLARA
+228,153 Monte Villa Ct,2.5,3.0,Campbell,"1,188 sqft","Aug 27, 2013","$570,000",37.26076,-121.948204,CA,Condo,570000,"$602,000",95008,,,,Sold,SANTA CLARA
+229,1199 Holmes Ave,2.0,4.0,Campbell,"1,626 sqft","Aug 27, 2013","$972,000",37.257797,-121.951416,CA,Single-Family Home,972000,"$874,000",95008,,,,Sold,SANTA CLARA
+230,606 Millich Dr #7,2.0,2.0,Campbell,"1,018 sqft","Aug 26, 2013","$385,000",37.29665,-121.9595,CA,Condo,385000,"$393,000",95008,,,,Sold,SANTA CLARA
+231,91 Victor Ave,1.0,2.0,Campbell,"1,329 sqft","Aug 23, 2013","$680,000",37.288044,-121.96727,CA,Single-Family Home,680000,"$875,000",95008,,,,Sold,SANTA CLARA
+232,152 Monte Villa Ct,2.5,2.0,Campbell,"1,188 sqft","Aug 23, 2013","$557,500",37.260704,-121.948204,CA,Condo,557500,"$578,000",95008,,,,Sold,SANTA CLARA
+233,905 Stonehurst Way,1.5,3.0,Campbell,"1,584 sqft","Aug 23, 2013","$803,000",37.2741,-121.93985,CA,Single-Family Home,803000,"$947,000",95008,Willow Glen,,,Sold,SANTA CLARA
+234,833 S San Tomas Aquino Rd,2.0,2.0,Campbell,"1,467 sqft","Aug 22, 2013","$560,000",37.27497,-121.97149,CA,Condo,560000,"$619,000",95008,,,,Sold,SANTA CLARA
+235,213 Shelley Ave #A,2.5,3.0,Campbell,"1,870 sqft","Aug 22, 2013","$595,000",37.264053,-121.94513,CA,Condo,595000,"$746,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+236,1435 Elam Ave,2.0,3.0,Campbell,"1,430 sqft","Aug 20, 2013","$839,500",37.27422,-121.97507,CA,Single-Family Home,839500,"$891,000",95008,,,,Sold,SANTA CLARA
+237,561 Sunnybrook Ct,2.0,4.0,Campbell,"1,418 sqft","Aug 20, 2013","$715,000",37.28045,-121.95955,CA,Single-Family Home,715000,"$803,000",95008,,,,Sold,SANTA CLARA
+238,151 N San Tomas Aquino Rd,2.0,3.0,Campbell,"1,247 sqft","Aug 16, 2013","$585,000",37.28844,-121.97692,CA,Single-Family Home,585000,"$789,000",95008,,,,Sold,SANTA CLARA
+239,670 Del Oro Ct,2.0,3.0,Campbell,"1,523 sqft","Aug 16, 2013","$868,000",37.289288,-121.96138,CA,Single-Family Home,868000,"$897,000",95008,,,,Sold,SANTA CLARA
+240,157 Heritage Pl,1.0,2.0,Campbell,"1,128 sqft","Aug 16, 2013","$555,000",37.285446,-121.94126,CA,Condo,555000,"$633,000",95008,,,,Sold,SANTA CLARA
+241,540 Monica Ln,,,Campbell,"1,919 sqft","Aug 16, 2013","$820,000",37.295128,-121.9445,CA,Multi-Family,820000,"$1,116,000",95008,,,,Sold,SANTA CLARA
+242,1110 Shadle Ave,2.0,4.0,Campbell,"1,258 sqft","Aug 16, 2013","$790,000",37.271084,-121.97064,CA,Single-Family Home,790000,"$872,000",95008,,,,Sold,SANTA CLARA
+243,72 Cannery Cir,2.5,3.0,Campbell,"1,335 sqft","Aug 15, 2013","$791,000",37.288147,-121.941666,CA,Single-Family Home,791000,"$890,000",95008,,,,Sold,SANTA CLARA
+244,2283 Montezuma Dr,2.0,3.0,Campbell,"1,596 sqft","Aug 15, 2013","$760,000",37.279663,-121.96885,CA,Single-Family Home,760000,"$842,000",95008,West San Jose,,,Sold,SANTA CLARA
+245,1439 Inwood Ct,2.0,4.0,Campbell,"1,547 sqft","Aug 15, 2013","$875,000",37.274902,-121.9754,CA,Single-Family Home,875000,"$953,000",95008,,,,Sold,SANTA CLARA
+246,95 S 3rd St,1.0,2.0,Campbell,"1,372 sqft","Aug 14, 2013","$868,000",37.28576,-121.9476,CA,Single-Family Home,868000,"$861,000",95008,,,,Sold,SANTA CLARA
+247,213 Coventry Dr,2.0,4.0,Campbell,"1,393 sqft","Aug 13, 2013","$781,000",37.29001,-121.96662,CA,Single-Family Home,781000,"$834,000",95008,,,,Sold,SANTA CLARA
+248,1511 Burrows Rd,4.5,5.0,Campbell,"4,021 sqft","Aug 12, 2013","$1,650,000",37.265705,-121.97349,CA,Single-Family Home,1650000,"$1,868,000",95008,,,,Sold,SANTA CLARA
+249,1147 Longfellow Ave,2.0,3.0,Campbell,"1,656 sqft","Aug 9, 2013","$825,000",37.259872,-121.95222,CA,Single-Family Home,825000,"$906,000",95008,,,,Sold,SANTA CLARA
+250,563 Union Ave,2.5,3.0,Campbell,"1,318 sqft","Aug 9, 2013","$675,000",37.278923,-121.935875,CA,Single-Family Home,675000,"$742,000",95008,Willow Glen,,,Sold,SANTA CLARA
+251,137 E Rosemary Ln,1.0,3.0,Campbell,"1,260 sqft","Aug 9, 2013","$695,000",37.29554,-121.94772,CA,Single-Family Home,695000,"$872,000",95008,West San Jose,,,Sold,SANTA CLARA
+252,21 N 2nd St #11,2.0,2.0,Campbell,"1,512 sqft","Aug 8, 2013","$640,000",37.287315,-121.946846,CA,Condo,640000,"$660,000",95008,,,,Sold,SANTA CLARA
+253,87 Llewellyn Ave,3.0,5.0,Campbell,"2,258 sqft","Aug 8, 2013","$1,175,000",37.288277,-121.95886,CA,Single-Family Home,1175000,"$1,197,000",95008,,,,Sold,SANTA CLARA
+254,105 S 3rd St,1.5,3.0,Campbell,"1,739 sqft","Aug 8, 2013","$690,000",37.285618,-121.9476,CA,Single-Family Home,690000,"$889,000",95008,,,,Sold,SANTA CLARA
+255,1392 W Latimer Ave,2.5,3.0,Campbell,"1,563 sqft","Aug 8, 2013","$637,500",37.290207,-121.97451,CA,Single-Family Home,637500,"$811,000",95008,,,,Sold,SANTA CLARA
+256,31 Hardy Ave,1.0,3.0,Campbell,960 sqft,"Aug 7, 2013","$750,000",37.28749,-121.95763,CA,Single-Family Home,750000,"$818,000",95008,,,,Sold,SANTA CLARA
+257,162 Cherry Ln,2.0,4.0,Campbell,"1,521 sqft","Aug 2, 2013","$850,000",37.283302,-121.952705,CA,Single-Family Home,850000,"$965,000",95008,,,,Sold,SANTA CLARA
+258,161 Grant St,2.5,3.0,Campbell,"2,354 sqft","Aug 1, 2013","$1,151,000",37.28923,-121.946915,CA,Single-Family Home,1151000,"$1,197,000",95008,,,,Sold,SANTA CLARA
+259,430 N Central Ave,1.0,2.0,Campbell,926 sqft,"Aug 1, 2013","$650,000",37.293358,-121.94328,CA,Single-Family Home,650000,"$736,000",95008,,,,Sold,SANTA CLARA
+260,370 Carlyn Ave,4.5,4.0,Campbell,"3,922 sqft","Jul 31, 2013","$1,451,000",37.29241,-121.95579,CA,Single-Family Home,1451000,"$1,661,000",95008,,,,Sold,SANTA CLARA
+261,1655 Fawn Ct,2.0,3.0,Campbell,"1,464 sqft","Jul 30, 2013","$825,000",37.2706,-121.97936,CA,Single-Family Home,825000,"$929,000",95008,,,,Sold,SANTA CLARA
+262,225 N Central Ave,2.5,2.0,Campbell,"1,376 sqft","Jul 30, 2013","$585,000",37.290466,-121.944275,CA,Condo,585000,"$638,000",95008,,,,Sold,SANTA CLARA
+263,21 N 2nd St #16,2.0,2.0,Campbell,"1,309 sqft","Jul 29, 2013","$471,500",37.28731,-121.94655,CA,Condo,471500,"$619,000",95008,,,,Sold,SANTA CLARA
+264,905 Apricot Ave #20,2.0,2.0,Campbell,"1,187 sqft","Jul 29, 2013","$490,000",37.284267,-121.9339,CA,Condo,490000,"$584,000",95008,,,,Sold,SANTA CLARA
+265,2102 Vizcaya Way,3.0,3.0,Campbell,"2,421 sqft","Jul 29, 2013","$875,000",37.272762,-121.936905,CA,Condo,875000,"$1,049,000",95008,Willow Glen,,,Sold,SANTA CLARA
+266,113 Christopher Ave,2.5,3.0,Campbell,"2,420 sqft","Jul 26, 2013","$1,425,000",37.28528,-121.96342,CA,Single-Family Home,1425000,"$1,294,000",95008,,,,Sold,SANTA CLARA
+267,1462 W Hacienda Ave,1.0,2.0,Campbell,"1,140 sqft","Jul 26, 2013","$875,000",37.268467,-121.97541,CA,Single-Family Home,875000,"$795,000",95008,,,,Sold,SANTA CLARA
+268,1335 Westmont Ave,3.0,4.0,Campbell,"2,778 sqft","Jul 26, 2013","$1,275,000",37.27214,-121.97392,CA,Single-Family Home,1275000,"$1,492,000",95008,,,,Sold,SANTA CLARA
+269,126 Monte Villa Ct,2.5,2.0,Campbell,"1,188 sqft","Jul 26, 2013","$523,000",37.260654,-121.94707,CA,Condo,523000,"$596,000",95008,Cambrian Park,,,Sold,SANTA CLARA
+270,201 Sondra Way,2.0,3.0,Campbell,"1,420 sqft","Jul 25, 2013","$970,000",37.28988,-121.96409,CA,Single-Family Home,970000,"$832,000",95008,,,,Sold,SANTA CLARA
+271,1117 Archer Way,2.0,3.0,Campbell,"1,464 sqft","Jul 24, 2013","$905,000",37.270916,-121.97788,CA,Single-Family Home,905000,"$917,000",95008,,,,Sold,SANTA CLARA
+272,236 Watson Dr #2,1.0,2.0,Campbell,903 sqft,"Jul 24, 2013","$391,000",37.29266,-121.94578,CA,Condo,391000,"$420,000",95008,,,,Sold,SANTA CLARA
+273,790 Bucknall Rd,3.5,4.0,Campbell,"1,966 sqft","Jul 24, 2013","$926,000",37.283966,-121.96404,CA,Single-Family Home,926000,"$1,008,000",95008,,,,Sold,SANTA CLARA
+274,406 Union Ave,2.5,3.0,Campbell,"1,683 sqft","Jul 23, 2013","$429,545",37.280453,-121.9356,CA,Condo,429545,"$670,000",95008,Willow Glen,,,Sold,SANTA CLARA
+275,2575 Oak Park Ln,2.0,4.0,Campbell,"1,687 sqft","Jul 23, 2013","$817,000",37.27525,-121.9408,CA,Single-Family Home,817000,"$985,000",95008,Willow Glen,,,Sold,SANTA CLARA
+276,5040 Pine Tree Ter,1.5,3.0,Campbell,"1,176 sqft","Jul 23, 2013","$540,000",37.270096,-121.99026,CA,Condo,540000,"$565,000",95008,West San Jose,,,Sold,SANTA CLARA
+277,1043 Mcbain Ave,2.0,3.0,Campbell,"1,475 sqft","Jul 19, 2013","$775,000",37.289467,-121.93092,CA,Single-Family Home,775000,"$953,000",95008,,,,Sold,SANTA CLARA
+278,131 W Hamilton Ave,,,Campbell,"3,625 sqft","Jul 19, 2013","$950,000",37.294567,-121.95211,CA,Multi-Family,950000,,95008,,,,Sold,SANTA CLARA
+279,912 Campisi Way #316,2.0,3.0,Campbell,"1,661 sqft","Jul 19, 2013","$700,000",37.29053,-121.93263,CA,Condo,700000,"$791,000",95008,,,,Sold,SANTA CLARA
+280,2216 Fazeli Ct,2.5,3.0,Campbell,"1,359 sqft","Jul 19, 2013","$529,000",37.270164,-121.93816,CA,Condo,529000,"$639,000",95008,Willow Glen,,,Sold,SANTA CLARA
+281,1132 Capri Dr,1.5,1.0,Campbell,"1,020 sqft","Jul 18, 2013","$460,000",37.27046,-121.96065,CA,Condo,460000,"$501,000",95008,,,,Sold,SANTA CLARA
+282,660 Craig Ave,2.0,3.0,Campbell,"1,276 sqft","Jul 18, 2013","$740,000",37.27716,-121.96605,CA,Single-Family Home,740000,"$881,000",95008,,,,Sold,SANTA CLARA
+283,3920 Via Montalvo,1.0,3.0,Campbell,"1,461 sqft","Jul 17, 2013","$575,000",37.2846,-121.96966,CA,Single-Family Home,575000,"$746,000",95008,West San Jose,,,Sold,SANTA CLARA
+284,4957 Ponderosa Ter,1.0,2.0,Campbell,920 sqft,"Jul 16, 2013","$510,000",37.27011,-121.98851,CA,Condo,510000,"$528,000",95008,West San Jose,,,Sold,SANTA CLARA
+285,139 W Rosemary Ln,1.0,3.0,Campbell,"1,635 sqft","Jul 16, 2013","$781,000",37.295425,-121.95127,CA,Single-Family Home,781000,"$1,086,000",95008,,,,Sold,SANTA CLARA
+286,2863 S Bascom Ave #802,2.0,2.0,Campbell,841 sqft,"Jul 16, 2013","$385,000",37.270763,-121.9385,CA,Condo,385000,"$470,000",95008,Willow Glen,,,Sold,SANTA CLARA
+287,187 Redding Rd,2.5,2.0,Campbell,"1,267 sqft","Jul 16, 2013","$505,000",37.265438,-121.94572,CA,Condo,505000,"$650,000",95008,,,,Sold,SANTA CLARA
+288,3823 Bucknall Rd,2.0,4.0,Campbell,"2,036 sqft","Jul 16, 2013","$880,000",37.284405,-121.96695,CA,Single-Family Home,880000,"$970,000",95008,,,,Sold,SANTA CLARA
+289,580 W Sunnyoaks Ave,2.5,3.0,Campbell,"1,610 sqft","Jul 16, 2013","$635,000",37.271576,-121.959984,CA,Condo,635000,"$723,000",95008,,,,Sold,SANTA CLARA
+290,859 W Sunnyoaks Ave,3.0,5.0,Campbell,"1,718 sqft","Jul 12, 2013","$768,000",37.27241,-121.96375,CA,Single-Family Home,768000,"$944,000",95008,,,,Sold,SANTA CLARA
+291,1098 Ridgeley Dr,3.0,4.0,Campbell,"2,281 sqft","Jul 12, 2013","$965,000",37.28984,-121.93004,CA,Single-Family Home,965000,"$1,204,000",95008,,,,Sold,SANTA CLARA
+292,156 N 3rd St,2.0,3.0,Campbell,"1,978 sqft","Jul 12, 2013","$1,312,500",37.28937,-121.946915,CA,Single-Family Home,1312500,"$1,034,000",95008,,,,Sold,SANTA CLARA
+293,100 El Caminito Ave,1.5,2.0,Campbell,"1,556 sqft","Jul 12, 2013","$910,000",37.28139,-121.95154,CA,Single-Family Home,910000,"$1,039,000",95008,,,,Sold,SANTA CLARA
+294,1401 Sheffield Ave,2.0,3.0,Campbell,"1,560 sqft","Jul 12, 2013","$925,000",37.29212,-121.92467,CA,Single-Family Home,925000,"$942,000",95008,,,,Sold,SANTA CLARA
+295,3751 Acapulco Dr,2.0,4.0,Campbell,"1,486 sqft","Jul 11, 2013","$750,000",37.281445,-121.96699,CA,Single-Family Home,750000,"$904,000",95008,West San Jose,,,Sold,SANTA CLARA
+296,207 E Rincon Ave,,,Campbell,"1,065 sqft","Jul 11, 2013","$600,000",37.285027,-121.94628,CA,Single-Family Home,600000,"$1,090,000",95008,,,,Sold,SANTA CLARA
+297,701 Budd Ave,2.0,3.0,Campbell,"1,120 sqft","Jul 11, 2013","$825,000",37.279488,-121.961975,CA,Single-Family Home,825000,"$765,000",95008,,,,Sold,SANTA CLARA
+298,1131 S San Tomas Aquino Rd,1.5,3.0,Campbell,"1,071 sqft","Jul 10, 2013","$650,000",37.270653,-121.9722,CA,Single-Family Home,650000,"$723,000",95008,,,,Sold,SANTA CLARA
+299,141 W Rincon Ave,1.5,2.0,Campbell,"1,151 sqft","Jul 9, 2013","$480,000",37.285156,-121.95264,CA,Condo,480000,"$529,000",95008,,,,Sold,SANTA CLARA
+300,88 S 4th St,1.0,3.0,Campbell,"1,468 sqft","Jul 9, 2013","$755,000",37.285763,-121.94811,CA,Single-Family Home,755000,"$821,000",95008,,,,Sold,SANTA CLARA
+301,890 Gale Dr,,,Campbell,"2,533 sqft","Jul 8, 2013","$878,000",37.29211,-121.965034,CA,Multi-Family,878000,"$928,000",95008,,,,Sold,SANTA CLARA
+302,4032 Twyla Ln,2.0,4.0,Campbell,"2,036 sqft","Jul 5, 2013","$890,000",37.277805,-121.97286,CA,Single-Family Home,890000,"$917,000",95008,West San Jose,,,Sold,SANTA CLARA
+303,2246 Shamrock Dr,,,Campbell,"3,428 sqft","Jul 5, 2013","$938,000",37.269184,-121.940094,CA,Multi-Family,938000,,95008,Willow Glen,,,Sold,SANTA CLARA
+304,1315 Burrows Rd,1.5,2.0,Campbell,"1,244 sqft","Jul 5, 2013","$1,200,000",37.26798,-121.97317,CA,Single-Family Home,1200000,"$1,226,000",95008,,,,Sold,SANTA CLARA
+305,188 Sunnyside Ave,,,Campbell,"2,258 sqft","Jul 3, 2013","$1,310,000",37.28264,-121.94666,CA,Single-Family Home,1310000,"$1,282,000",95008,,,,Sold,SANTA CLARA
+306,584 Latimer Cir,2.5,4.0,Campbell,"1,432 sqft","Jul 3, 2013","$651,000",37.289314,-121.959755,CA,Condo,651000,"$685,000",95008,,,,Sold,SANTA CLARA
+307,441 April Way,1.0,3.0,Campbell,"1,448 sqft","Jul 2, 2013","$700,000",37.29327,-121.92796,CA,Single-Family Home,700000,"$908,000",95008,,,,Sold,SANTA CLARA
+308,290 W Sunnyoaks Ave #A,2.0,3.0,Campbell,"1,477 sqft","Jul 2, 2013","$580,000",37.27211,-121.95578,CA,Condo,580000,"$725,000",95008,,,,Sold,SANTA CLARA
+309,1235 Shamrock Dr,2.5,4.0,Campbell,"2,120 sqft","Jun 28, 2013","$710,000",37.269337,-121.94393,CA,Single-Family Home,710000,"$908,000",95008,,,,Sold,SANTA CLARA
+310,281 W Latimer Ave,3.0,4.0,Campbell,"2,422 sqft","Jun 28, 2013","$1,150,000",37.2909,-121.9548,CA,Single-Family Home,1150000,"$1,324,000",95008,,,,Sold,SANTA CLARA
+311,157 Fulton St,2.5,3.0,Campbell,"1,941 sqft","Jun 28, 2013","$905,000",37.283875,-121.98265,CA,Single-Family Home,905000,"$962,000",95008,,,,Sold,SANTA CLARA
+312,4748 Westmont Ave,2.5,4.0,Campbell,"2,077 sqft","Jun 28, 2013","$835,000",37.27017,-121.98433,CA,Single-Family Home,835000,"$1,070,000",95008,West San Jose,,,Sold,SANTA CLARA
+313,462 Shamrock Dr,1.0,3.0,Campbell,"1,016 sqft","Jun 27, 2013","$650,000",37.26915,-121.94074,CA,Single-Family Home,650000,"$749,000",95008,Willow Glen,,,Sold,SANTA CLARA
+314,116 Redding Rd,2.5,3.0,Campbell,"1,790 sqft","Jun 25, 2013","$700,000",37.264427,-121.94668,CA,Condo,700000,"$752,000",95008,,,,Sold,SANTA CLARA
+315,473 Richlee Dr,2.0,3.0,Campbell,"1,386 sqft","Jun 25, 2013","$740,000",37.29376,-121.92893,CA,Single-Family Home,740000,"$841,000",95008,,,,Sold,SANTA CLARA
+316,1485 Patio Dr,2.0,3.0,Campbell,"1,264 sqft","Jun 24, 2013","$825,000",37.28881,-121.9233,CA,Single-Family Home,825000,"$921,000",95008,,,,Sold,SANTA CLARA
+317,174 Wilton Dr,,,Campbell,"3,747 sqft","Jun 24, 2013","$880,000",37.2796,-121.952934,CA,Multi-Family,880000,,95008,,,,Sold,SANTA CLARA

@@ -1,0 +1,41 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,501 W Santa Inez Ave,3.5,4.0,Hillsborough,"2,510 sqft","Dec 31, 1969",$0,37.562088,-122.34436,CA,Single-Family Home,2595000,,94010,Hillsborough Heights,26,,For Sale,SAN MATEO
+2,1205 Tournament Dr,6.0,5.0,Hillsborough,"6,050 sqft","Dec 31, 1969",$0,37.535133,-122.3429,CA,Single-Family Home,3998000,,94010,Tobin Clark Estate,18,,For Sale,SAN MATEO
+3,18 Farm Ln,5.5,4.0,Hillsborough,"5,103 sqft","Dec 31, 1969",$0,37.562042,-122.35998,CA,Single-Family Home,7780000,,94010,Homeplace,12,,For Sale,SAN MATEO
+4,551 Craig Rd,4.5,5.0,Hillsborough,,"Dec 31, 1969",$0,37.55559,-122.37332,CA,Single-Family Home,5250000,,94010,Carolands,12,,For Sale,SAN MATEO
+5,101 Robin Rd,11.0,10.0,Hillsborough,"9,110 sqft","Dec 31, 1969",$0,37.5608,-122.362816,CA,Single-Family Home,7900000,,94010,Homeplace,14,,For Sale,SAN MATEO
+6,585 Chelmsford Rd,5.0,4.0,Hillsborough,"4,350 sqft","Dec 31, 1969",$0,37.561928,-122.34742,CA,Single-Family Home,3998000,,94010,Hillsborough Heights,15,,For Sale,SAN MATEO
+7,1157 Barroilhet Dr,6.0,4.0,Hillsborough,"4,610 sqft","Dec 31, 1969",$0,37.56512,-122.36194,CA,Single-Family Home,4395000,,94010,Homeplace,17,,For Sale,SAN MATEO
+8,1015 Macadamia Dr,7.0,6.0,Hillsborough,"4,956 sqft","Dec 31, 1969",$0,37.56928,-122.378426,CA,Single-Family Home,4150000,,94010,Skyfarm,17,,For Sale,SAN MATEO
+9,903 Tournament Dr,4.0,4.0,Hillsborough,"3,190 sqft","Dec 31, 1969",$0,37.54575,-122.33688,CA,Single-Family Home,2800000,,94010,Tobin Clark Estate,17,,For Sale,SAN MATEO
+10,383 Sierra Dr,10.0,8.0,Hillsborough,"8,410 sqft","Dec 31, 1969",$0,37.55679,-122.34093,CA,Single-Family Home,12998000,,94010,Brewer Subdivision,20,,For Sale,SAN MATEO
+11,40 Verbalee Ln,14.0,12.0,Hillsborough,"30,000 sqft","Dec 31, 1969",$0,37.543335,-122.338524,CA,Single-Family Home,23888000,,94010,Tobin Clark Estate,17,,For Sale,SAN MATEO
+12,366 Hillsborough Blvd,4.0,4.0,Hillsborough,"3,800 sqft","Dec 31, 1969",$0,37.561226,-122.35152,CA,Single-Family Home,3695000,,94010,Hillsborough Heights,14,,For Sale,SAN MATEO
+13,1385 Avondale Rd,4.0,4.0,Hillsborough,"2,889 sqft","Dec 31, 1969",$0,37.54757,-122.35722,CA,Single-Family Home,2899982,,94010,Lakeview,11,,For Sale,SAN MATEO
+14,2255 Skyfarm Dr,8.0,5.0,Hillsborough,"9,800 sqft","Dec 31, 1969",$0,37.57028,-122.369354,CA,Single-Family Home,10700000,,94010,Country Club Manor,29,,For Sale,SAN MATEO
+15,55 Aster Ave,6.0,6.0,Hillsborough,"7,020 sqft","Dec 31, 1969",$0,37.571068,-122.354935,CA,Single-Family Home,5399000,,94010,Homeplace,51,,For Sale,SAN MATEO
+16,20 Silk Tree Pl,9.0,6.0,Hillsborough,"6,200 sqft","Dec 31, 1969",$0,37.559025,-122.380264,CA,Single-Family Home,3498000,,94010,Skyfarm,12,,For Sale,SAN MATEO
+17,10 Kingswood Cir,4.5,4.0,Hillsborough,"4,620 sqft","Dec 31, 1969",$0,37.54008,-122.357994,CA,Single-Family Home,3600000,,94010,Lakeview,15,,For Sale,SAN MATEO
+18,10 Live Oak Ln,4.0,5.0,Hillsborough,"4,310 sqft","Dec 31, 1969",$0,37.569637,-122.39122,CA,Single-Family Home,2695000,,94010,Hillsborough Hills,6,,For Sale,SAN MATEO
+19,1425 Avondale Rd,2.0,3.0,Hillsborough,"2,320 sqft","Dec 31, 1969",$0,37.54602,-122.3584,CA,Single-Family Home,1855000,,94010,Lakeview,18,,For Sale,SAN MATEO
+20,28 Cornelia Dr,4.5,5.0,Hillsborough,"4,924 sqft","Dec 31, 1969",$0,37.554245,-122.35173,CA,Single-Family Home,4699000,,94010,Hillsborough Park,15,,For Sale,SAN MATEO
+21,108 Essex Ln,5.0,5.0,Hillsborough,"4,509 sqft","Dec 31, 1969",$0,37.552696,-122.34484,CA,Single-Family Home,4695000,,94010,Hillsborough Park,11,,For Sale,SAN MATEO
+22,25 Cornelia Dr,4.0,6.0,Hillsborough,"3,600 sqft","Dec 31, 1969",$0,37.554672,-122.35141,CA,Single-Family Home,3695000,,94010,Hillsborough Park,15,,For Sale,SAN MATEO
+23,2496 Butternut Dr,,5.0,Hillsborough,,"Dec 31, 1969",$0,37.56585,-122.380684,CA,Single-Family Home,4980000,,94010,Skyfarm,14,,For Sale,SAN MATEO
+24,1095 Macadamia Dr,4.5,5.0,Hillsborough,"5,080 sqft","Dec 31, 1969",$0,37.571274,-122.383,CA,Single-Family Home,3860000,,94010,Skyfarm,18,,For Sale,SAN MATEO
+25,2080 Geri Ln,5.0,7.0,Hillsborough,"5,195 sqft","Dec 31, 1969",$0,37.57521,-122.368614,CA,Single-Family Home,5790000,,94010,Skyfarm,43,,For Sale,SAN MATEO
+26,363 Darrell Rd,2.0,4.0,Hillsborough,"1,880 sqft","Dec 31, 1969",$0,37.548103,-122.36868,CA,Single-Family Home,2349000,,94010,Carolands,15,,For Sale,SAN MATEO
+27,2929 Privet Dr,3.5,5.0,Hillsborough,"3,473 sqft","Dec 31, 1969",$0,37.56607,-122.38645,CA,Single-Family Home,3199000,,94010,Skyfarm,9,,For Sale,SAN MATEO
+28,1296 Tournament Dr,,,Hillsborough,,"Dec 31, 1969",$0,37.533443,-122.340614,CA,Single-Family Home,2480000,,94010,Tobin Clark Estate,28,,For Sale,SAN MATEO
+29,120 Tamarack Dr,6.0,6.0,Hillsborough,"8,546 sqft","Dec 31, 1969",$0,37.564404,-122.35992,CA,Single-Family Home,10900000,,94010,Homeplace,17,,For Sale,SAN MATEO
+30,610 El Cerrito Ave,4.0,4.0,Hillsborough,"5,700 sqft","Dec 31, 1969",$0,37.557495,-122.34254,CA,Single-Family Home,5790000,,94010,Brewer Subdivision,18,,For Sale,SAN MATEO
+31,2326 Oakdale Rd,,5.0,Hillsborough,,"Dec 31, 1969",$0,37.574802,-122.37611,CA,Single-Family Home,2795000,,94010,,34,,For Sale,SAN MATEO
+32,835 Chiltern Rd,11.0,6.0,Hillsborough,,"Dec 31, 1969",$0,37.55648,-122.34513,CA,Single-Family Home,28800000,,94010,Hillsborough Park,17,,For Sale,SAN MATEO
+33,808 Clydesdale Dr,6.0,5.0,Hillsborough,"5,753 sqft","Dec 31, 1969",$0,37.54579,-122.33439,CA,Single-Family Home,4999000,,94010,Tobin Clark Estate,25,,For Sale,SAN MATEO
+34,1225 San Raymundo Rd,13.5,12.0,Hillsborough,"11,880 sqft","Dec 31, 1969",$0,37.55817,-122.35633,CA,Single-Family Home,19750000,,94010,Hillsborough Knolls,12,,For Sale,SAN MATEO
+35,2969 Churchill Dr,3.0,4.0,Hillsborough,"3,160 sqft","Dec 31, 1969",$0,37.564117,-122.38602,CA,Single-Family Home,24888000,,94010,Skyfarm,9,,For Sale,SAN MATEO
+36,2652 Summit Dr,5.5,5.0,Hillsborough,"7,500 sqft","Dec 31, 1969",$0,37.575127,-122.38382,CA,Single-Family Home,4980000,,94010,Burlingame Hillls,20,,For Sale,SAN MATEO
+37,372 Poett Rd,4.5,5.0,Hillsborough,"5,586 sqft","Dec 31, 1969",$0,37.563656,-122.33961,CA,Single-Family Home,5880000,,94010,Hillsborough Heights,40,,For Sale,SAN MATEO
+38,1485 Kingswood Dr,4.5,5.0,Hillsborough,"4,500 sqft","Dec 31, 1969",$0,37.537292,-122.356064,CA,Single-Family Home,3750000,,94010,Lakeview,17,,For Sale,SAN MATEO
+39,325 Hillsborough Blvd,6.5,6.0,Hillsborough,"5,310 sqft","Dec 31, 1969",$0,37.5595,-122.35169,CA,Single-Family Home,7900000,,94010,Hillsborough Knolls,8,,For Sale,SAN MATEO
+40,Parrott Dr,2.0,3.0,Hillsborough,"1,580 sqft","Dec 31, 1969",$0,37.54382,-122.34142,CA,Single-Family Home,960000,,94010,Tobin Clark Estate,9,,For Sale,SAN MATEO

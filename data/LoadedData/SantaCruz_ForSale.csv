@@ -1,0 +1,281 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95060,260 High St #214,1,1,Santa Cruz,554 sqft,31-Dec-69,$0 ,36.978203,-122.03311,CA,Condo,299000,,,,94,43,For Sale,SANTA CRUZ
+95060,2901 Pine Flat Rd,1,2,Santa Cruz,"1,537 sqft",31-Dec-69,$0 ,37.07818,-122.14218,CA,Single-Family Home,150000,,,,2,12,For Sale,SANTA CRUZ
+95060,106 Torrey Pine Ter,2,2,Santa Cruz,"1,012 sqft",31-Dec-69,$0 ,36.97278,-122.05005,CA,Condo,399000,,,,34,34,For Sale,SANTA CRUZ
+95062,615 Eaton St,1,2,Santa Cruz,861 sqft,31-Dec-69,$0 ,36.96783,-121.99869,CA,Single-Family Home,499950,,,,54,27,For Sale,SANTA CRUZ
+95060,224 Laurel St #A307,1,1,Santa Cruz,534 sqft,31-Dec-69,$0 ,36.969273,-122.02536,CA,Condo,389000,,,,92,50,For Sale,SANTA CRUZ
+95060,2395 Delaware Ave #49,2,2,Santa Cruz,"1,536 sqft",31-Dec-69,$0 ,36.951744,-122.061485,CA,Mobile/Manufactured,35000,,,,34,20,For Sale,SANTA CRUZ
+95060,129 Coulson Ave,2,3,Santa Cruz,"1,241 sqft",31-Dec-69,$0 ,36.984455,-122.021774,CA,Single-Family Home,629000,,,,77,43,For Sale,SANTA CRUZ
+95062,1899 16th Ave,3,4,Santa Cruz,"2,662 sqft",31-Dec-69,$0 ,36.979088,-121.98397,CA,Single-Family Home,799000,,,,72,37,For Sale,SANTA CRUZ
+95062,2926 Leotar Cir,3,2,Santa Cruz,,31-Dec-69,$0 ,36.975143,-121.97368,CA,Apt/Condo/Twnhm,439000,,,,69,33,For Sale,SANTA CRUZ
+95060,12 Deer Path Rd,3,4,Santa Cruz,"3,400 sqft",31-Dec-69,$0 ,37.005646,-122.0317,CA,Single-Family Home,1825000,,,,14,27,For Sale,SANTA CRUZ
+95062,4790 Opal Cliff Dr,3,3,Santa Cruz,"1,969 sqft",31-Dec-69,$0 ,36.967983,-121.95778,CA,Single-Family Home,2695000,,,,58,28,For Sale,SANTA CRUZ
+95062,303 Harrison Ave,3,4,Santa Cruz,"2,717 sqft",31-Dec-69,$0 ,36.984352,-122.00684,CA,Single-Family Home,1149000,,,,78,40,For Sale,SANTA CRUZ
+95060,233 Plateau Ave,3,4,Santa Cruz,"2,953 sqft",31-Dec-69,$0 ,36.955723,-122.039085,CA,Single-Family Home,1645000,,,,58,27,For Sale,SANTA CRUZ
+95060,246 Brookside Ave,4,4,Santa Cruz,"2,625 sqft",31-Dec-69,$0 ,36.988194,-122.01605,CA,Single-Family Home,749000,,,,55,37,For Sale,SANTA CRUZ
+95060,145 Westview Ct,2,2,Santa Cruz,"1,087 sqft",31-Dec-69,$0 ,36.966724,-122.05783,CA,Single-Family Home,695000,,,,40,25,For Sale,SANTA CRUZ
+95062,1115 E Cliff Dr,2,2,Santa Cruz,"1,320 sqft",31-Dec-69,$0 ,36.96577,-122.01135,CA,Single-Family Home,1495000,,,,65,36,For Sale,SANTA CRUZ
+95060,914 Pelton Ave,2,3,Santa Cruz,"1,070 sqft",31-Dec-69,$0 ,36.953896,-122.03586,CA,Single-Family Home,825000,,,,55,25,For Sale,SANTA CRUZ
+95060,146 Everson Dr,1,1,Santa Cruz,882 sqft,31-Dec-69,$0 ,36.965584,-122.02882,CA,Condo,410000,,,,75,48,For Sale,SANTA CRUZ
+95060,224 Laurel St #A204,1,,Santa Cruz,418 sqft,31-Dec-69,$0 ,36.969273,-122.02536,CA,Condo,315000,,,,92,50,For Sale,SANTA CRUZ
+95060,506 W Cliff Dr,2,2,Santa Cruz,"1,890 sqft",31-Dec-69,$0 ,36.9572,-122.02587,CA,Single-Family Home,2950000,,,,58,28,For Sale,SANTA CRUZ
+95060,345 Market St,1,2,Santa Cruz,"1,288 sqft",31-Dec-69,$0 ,36.98485,-122.0166,CA,Single-Family Home,599000,,,,74,39,For Sale,SANTA CRUZ
+95062,552 14th Ave,,,Santa Cruz,"1,070 sqft",31-Dec-69,$0 ,36.964584,-121.99103,CA,Multi-Family Home,899000,,,,54,27,For Sale,SANTA CRUZ
+95062,766 Heath Cv,2,2,Santa Cruz,,31-Dec-69,$0 ,36.96608,-121.98627,CA,Apt/Condo/Twnhm,339000,,,,62,29,For Sale,SANTA CRUZ
+95062,1600 Hawthorne Way,2,3,Santa Cruz,"1,316 sqft",31-Dec-69,$0 ,36.97473,-121.97712,CA,Single-Family Home,659000,,,,62,31,For Sale,SANTA CRUZ
+95060,164 Rankin St,2,3,Santa Cruz,"1,140 sqft",31-Dec-69,$0 ,36.960686,-122.041664,CA,Single-Family Home,618000,,,,75,31,For Sale,SANTA CRUZ
+95062,2868 Chesterfield Dr,3,3,Santa Cruz,"2,044 sqft",31-Dec-69,$0 ,36.955055,-121.97579,CA,Single-Family Home,1049000,,,,42,0,For Sale,SANTA CRUZ
+95060,517 High St,,,Santa Cruz,,31-Dec-69,$0 ,36.976948,-122.03833,CA,Lot/Land,249000,,,,77,40,For Sale,SANTA CRUZ
+95060,221 High St,1,3,Santa Cruz,816 sqft,31-Dec-69,$0 ,36.978043,-122.03138,CA,Single-Family Home,498500,,,,97,45,For Sale,SANTA CRUZ
+95060,633 Branciforte Dr,,,Santa Cruz,,31-Dec-69,$0 ,36.998142,-122.00911,CA,Lot/Land,99000,,,,18,0,For Sale,SANTA CRUZ
+95062,3000 Pleasure Point Dr,3,3,Santa Cruz,"2,480 sqft",31-Dec-69,$0 ,36.954903,-121.97314,CA,Single-Family Home,3395000,,,,45,0,For Sale,SANTA CRUZ
+95062,3034 Pleasure Point Dr,2,3,Santa Cruz,"6,969 sqft",31-Dec-69,$0 ,36.955154,-121.97232,CA,Single-Family Home,3750000,,,,43,0,For Sale,SANTA CRUZ
+95060,435 Locust St,2,3,Santa Cruz,"2,232 sqft",31-Dec-69,$0 ,36.974384,-122.0328,CA,Single-Family Home,885000,,,,95,45,For Sale,SANTA CRUZ
+95060,440 Thayer Rd,4.5,3,Santa Cruz,"1,527 sqft",31-Dec-69,$0 ,37.055607,-122.16548,CA,Single-Family Home,1950000,,,,12,11,For Sale,SANTA CRUZ
+95060,420 Conifer Ln,4,4,Santa Cruz,"3,417 sqft",31-Dec-69,$0 ,37.08683,-122.142456,CA,Single-Family Home,1388000,,,,6,10,For Sale,SANTA CRUZ
+95060,535 Spring St,3,4,Santa Cruz,"4,000 sqft",31-Dec-69,$0 ,36.98204,-122.04574,CA,Single-Family Home,2475000,,,,48,33,For Sale,SANTA CRUZ
+95065,3400 Old Pilkington Rd,,,Santa Cruz,,31-Dec-69,$0 ,37.012432,-121.992065,CA,Lot/Land,1394000,,,,11,0,For Sale,SANTA CRUZ
+95060,148 Belmont St,2,3,Santa Cruz,"1,576 sqft",31-Dec-69,$0 ,36.987816,-122.0196,CA,Single-Family Home,599000,,,,52,36,For Sale,SANTA CRUZ
+95060,1731 Escalona Dr,2,3,Santa Cruz,"1,684 sqft",31-Dec-69,$0 ,36.962006,-122.0518,CA,Single-Family Home,549000,,,,62,29,For Sale,SANTA CRUZ
+95060,1021 Nobel Dr,3,3,Santa Cruz,"1,323 sqft",31-Dec-69,$0 ,36.97617,-122.05594,CA,Townhome,510000,,,,15,34,For Sale,SANTA CRUZ
+95062,1555 Merrill St #101,1,1,Santa Cruz,600 sqft,31-Dec-69,$0 ,36.966,-121.98721,CA,Single-Family Home,149000,,,,65,27,For Sale,SANTA CRUZ
+95060,2159 Pine Flat Rd,2,3,Santa Cruz,"1,838 sqft",31-Dec-69,$0 ,37.067646,-122.14219,CA,Single-Family Home,759000,,,,3,12,For Sale,SANTA CRUZ
+95060,1037 Nobel Dr,3,3,Santa Cruz,"1,660 sqft",31-Dec-69,$0 ,36.975758,-122.05609,CA,Single-Family Home,769000,,,,15,34,For Sale,SANTA CRUZ
+95065,805 Prospect Hts,2,3,Santa Cruz,"1,533 sqft",31-Dec-69,$0 ,36.99106,-121.99421,CA,Single-Family Home,695000,,,,38,0,For Sale,SANTA CRUZ
+95060,260 High St #110,1,1,Santa Cruz,610 sqft,31-Dec-69,$0 ,36.978203,-122.03311,CA,Condo,275000,,,,89,44,For Sale,SANTA CRUZ
+95062,269 14th Ave,4,6,Santa Cruz,"4,496 sqft",31-Dec-69,$0 ,36.962154,-121.993065,CA,Single-Family Home,2350000,,,,49,25,For Sale,SANTA CRUZ
+95060,319 Broadway,2,2,Santa Cruz,"1,219 sqft",31-Dec-69,$0 ,36.972836,-122.01983,CA,Apt/Condo/Twnhm,374900,,,,91,49,For Sale,SANTA CRUZ
+95062,1099 38th Ave #SPACE 33,2,2,Santa Cruz,720 sqft,31-Dec-69,$0 ,36.967327,-121.970375,CA,Condo,89000,,,,77,31,For Sale,SANTA CRUZ
+95062,1200 Capitola Rd #24,2,3,Santa Cruz,"1,180 sqft",31-Dec-69,$0 ,36.976276,-121.9875,CA,Townhome,375000,,,,55,34,For Sale,SANTA CRUZ
+95060,1648 Ocean St,1.5,2,Santa Cruz,"1,007 sqft",31-Dec-69,$0 ,36.986942,-122.02452,CA,Townhome,380000,,,,60,34,For Sale,SANTA CRUZ
+95060,145 Lee St,2,3,Santa Cruz,"1,420 sqft",31-Dec-69,$0 ,36.989822,-122.018715,CA,Single-Family Home,650000,,,,46,35,For Sale,SANTA CRUZ
+95060,404 California Ave,2,3,Santa Cruz,"1,503 sqft",31-Dec-69,$0 ,36.961323,-122.03629,CA,Single-Family Home,679000,,,,74,32,For Sale,SANTA CRUZ
+95062,3360 Samuel Pl,2,4,Santa Cruz,"1,803 sqft",31-Dec-69,$0 ,36.9751,-121.97194,CA,Single-Family Home,699000,,,,77,33,For Sale,SANTA CRUZ
+95062,1519 Hidden Terrace Ct,2,2,Santa Cruz,"1,200 sqft",31-Dec-69,$0 ,36.97589,-121.986694,CA,Townhome,445000,,,,54,34,For Sale,SANTA CRUZ
+95060,1200 Laurent St,4,5,Santa Cruz,"6,000 sqft",31-Dec-69,$0 ,36.976162,-122.042534,CA,Single-Family Home,4200000,,,,49,33,For Sale,SANTA CRUZ
+95060,124 Holden St,2,3,Santa Cruz,"1,086 sqft",31-Dec-69,$0 ,36.96741,-122.01923,CA,Single-Family Home,538000,,,,78,48,For Sale,SANTA CRUZ
+95062,1151 Scholl Ln,5,3,Santa Cruz,"4,688 sqft",31-Dec-69,$0 ,36.965675,-121.99274,CA,Single-Family Home,3450000,,,,57,25,For Sale,SANTA CRUZ
+95065,705 Granite Ridge Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.04964,-121.99568,CA,Lot/Land,329000,,,,5,0,For Sale,SANTA CRUZ
+95062,250 21st Ave,5,3,Santa Cruz,"2,869 sqft",31-Dec-69,$0 ,36.961792,-121.98484,CA,Single-Family Home,1635000,,,,58,26,For Sale,SANTA CRUZ
+95060,207 Blackburn St #A,3,3,Santa Cruz,"1,406 sqft",31-Dec-69,$0 ,36.967125,-122.03113,CA,Apt/Condo/Twnhm,449000,,,,86,48,For Sale,SANTA CRUZ
+95062,1156 E Cliff Dr #A,3,3,Santa Cruz,"3,088 sqft",31-Dec-69,$0 ,36.96426,-122.01182,CA,Single-Family Home,1779000,,,,57,34,For Sale,SANTA CRUZ
+95062,514 Assembly Ave,3,2,Santa Cruz,"1,369 sqft",31-Dec-69,$0 ,36.967915,-121.99839,CA,Single-Family Home,789000,,,,54,27,For Sale,SANTA CRUZ
+95062,931 Paget Ave,2,3,Santa Cruz,"1,352 sqft",31-Dec-69,$0 ,36.968075,-121.98156,CA,Single-Family Home,549000,,,,65,29,For Sale,SANTA CRUZ
+95060,203 Blackburn St,1,1,Santa Cruz,750 sqft,31-Dec-69,$0 ,36.966976,-122.03114,CA,Single-Family Home,525000,,,,89,47,For Sale,SANTA CRUZ
+95060,880 W Cliff Dr #4,2,1,Santa Cruz,"1,100 sqft",31-Dec-69,$0 ,36.952595,-122.032684,CA,Apt/Condo/Twnhm,659000,,,,54,19,For Sale,SANTA CRUZ
+95065,4712 Thurber Ln,2,3,Santa Cruz,"1,167 sqft",31-Dec-69,$0 ,36.99694,-121.975235,CA,Single-Family Home,650000,,,,37,0,For Sale,SANTA CRUZ
+95060,167 Cypress Park,3,3,Santa Cruz,"1,453 sqft",31-Dec-69,$0 ,36.965878,-122.05748,CA,Single-Family Home,799000,,,,31,25,For Sale,SANTA CRUZ
+95060,302 Everson Dr,2,2,Santa Cruz,"1,100 sqft",31-Dec-69,$0 ,36.965916,-122.0295,CA,Condo,463500,,,,75,48,For Sale,SANTA CRUZ
+95062,2565 Portola Dr #17,2,2,Santa Cruz,744 sqft,31-Dec-69,$0 ,36.96473,-121.975784,CA,Mobile/Manufactured,119000,,,,71,29,For Sale,SANTA CRUZ
+95060,315 Cedar St,2,3,Santa Cruz,"1,096 sqft",31-Dec-69,$0 ,36.969566,-122.02666,CA,Single-Family Home,675000,,,,92,50,For Sale,SANTA CRUZ
+95062,205 Windham St,3,3,Santa Cruz,"2,448 sqft",31-Dec-69,$0 ,36.972725,-122.013405,CA,Single-Family Home,1289000,,,,74,42,For Sale,SANTA CRUZ
+95060,111 Rockridge Ct,4,4,Santa Cruz,"4,360 sqft",31-Dec-69,$0 ,36.98254,-122.04655,CA,Single-Family Home,1750000,,,,40,33,For Sale,SANTA CRUZ
+95060,302 Everson Dr,2,2,Santa Cruz,"1,100 sqft",31-Dec-69,$0 ,36.965916,-122.0295,CA,Condo,463005,,,,75,48,For Sale,SANTA CRUZ
+95065,3714 Tiffani Ct,3,4,Santa Cruz,"3,080 sqft",31-Dec-69,$0 ,36.99574,-121.97285,CA,Single-Family Home,949500,,,,35,0,For Sale,SANTA CRUZ
+95060,1310 W Cliff Dr,1,1,Santa Cruz,852 sqft,31-Dec-69,$0 ,36.95087,-122.04476,CA,Single-Family Home,1199000,,,,43,20,For Sale,SANTA CRUZ
+95060,1004 W Cliff Dr,4,5,Santa Cruz,"2,676 sqft",31-Dec-69,$0 ,36.95325,-122.037964,CA,Single-Family Home,2100000,,,,54,20,For Sale,SANTA CRUZ
+95062,1615 Taylor Ln,2,3,Santa Cruz,"1,787 sqft",31-Dec-69,$0 ,36.978657,-121.99448,CA,Townhome,689000,,,,58,37,For Sale,SANTA CRUZ
+95062,168 Harbor Oaks Cir,2,2,Santa Cruz,"1,164 sqft",31-Dec-69,$0 ,36.977085,-121.99176,CA,Townhome,379900,,,,52,35,For Sale,SANTA CRUZ
+95060,111 Dakota Ave #3,,,Santa Cruz,700 sqft,31-Dec-69,$0 ,36.97424,-122.02175,CA,Income/Investment,249000,,,,97,49,For Sale,SANTA CRUZ
+95060,308 Encinal St,,,Santa Cruz,"2,500 sqft",31-Dec-69,$0 ,36.987057,-122.03422,CA,Income/Investment,675000,,,,78,30,For Sale,SANTA CRUZ
+95060,142 Castillion Ter,1,2,Santa Cruz,950 sqft,31-Dec-69,$0 ,36.971817,-122.05152,CA,Townhome,399000,,,,34,34,For Sale,SANTA CRUZ
+95060,211 Palo Verde Ter,2,2,Santa Cruz,"1,046 sqft",31-Dec-69,$0 ,36.970814,-122.05018,CA,Townhome,425000,,,,37,34,For Sale,SANTA CRUZ
+95062,430 8th Ave,1,1,Santa Cruz,600 sqft,31-Dec-69,$0 ,36.96678,-121.99712,CA,Single-Family Home,789900,,,,52,27,For Sale,SANTA CRUZ
+95060,180 Dakota Ave #63,1,2,Santa Cruz,996 sqft,31-Dec-69,$0 ,36.975513,-122.02058,CA,Apt/Condo/Twnhm,349995,,,,,,For Sale,SANTA CRUZ
+95060,8710 Empire Grade,3,4,Santa Cruz,"3,699 sqft",31-Dec-69,$0 ,37.074368,-122.1279,CA,Single-Family Home,1200000,,,,2,12,For Sale,SANTA CRUZ
+95062,140 Suburbia Ave,2,2,Santa Cruz,"1,700 sqft",31-Dec-69,$0 ,36.98292,-121.999306,CA,Single-Family Home,699999,,,,66,38,For Sale,SANTA CRUZ
+95062,4170 Opal Cliff Dr,3,4,Santa Cruz,"2,163 sqft",31-Dec-69,$0 ,36.961533,-121.963486,CA,Single-Family Home,3789000,,,,69,25,For Sale,SANTA CRUZ
+95062,541 5th Ave,1,1,Santa Cruz,523 sqft,31-Dec-69,$0 ,36.968357,-121.99968,CA,Single-Family Home,549000,,,,57,26,For Sale,SANTA CRUZ
+95060,133 Old Coast Rd,,,Santa Cruz,"9,000 sqft",31-Dec-69,$0 ,37.011345,-122.190994,CA,Income/Investment,999000,,,,22,12,For Sale,SANTA CRUZ
+95060,104 Castillion Ter,1.5,2,Santa Cruz,"1,046 sqft",31-Dec-69,$0 ,36.972393,-122.051,CA,Townhome,389000,,,,35,34,For Sale,SANTA CRUZ
+95060,145 Dufour St,1,2,Santa Cruz,952 sqft,31-Dec-69,$0 ,36.95849,-122.03594,CA,Single-Family Home,599000,,,,58,30,For Sale,SANTA CRUZ
+95060,224 Laurel St #A202,1,,Santa Cruz,406 sqft,31-Dec-69,$0 ,36.969273,-122.02536,CA,Condo,299000,,,,92,50,For Sale,SANTA CRUZ
+95060,224 Laurel St #A301,1,,Santa Cruz,551 sqft,31-Dec-69,$0 ,36.969273,-122.02536,CA,Condo,379000,,,,92,50,For Sale,SANTA CRUZ
+95060,2903 Pine Flat Rd,1,2,Santa Cruz,"1,537 sqft",31-Dec-69,$0 ,37.078205,-122.14284,CA,Single-Family Home,399000,,,,0,12,For Sale,SANTA CRUZ
+95062,510 Murray St,2,3,Santa Cruz,"1,100 sqft",31-Dec-69,$0 ,36.966904,-122.00861,CA,Single-Family Home,739000,,,,57,31,For Sale,SANTA CRUZ
+95060,1111 Ocean St #303,1,1,Santa Cruz,649 sqft,31-Dec-69,$0 ,36.98221,-122.02255,CA,Apt/Condo/Twnhm,289000,,,,82,45,For Sale,SANTA CRUZ
+95062,170 Belvedere Ter,,,Santa Cruz,,31-Dec-69,$0 ,36.9813,-122.01605,CA,Lot/Land,395000,,,,95,43,For Sale,SANTA CRUZ
+95060,1442 Laurel St,2,2,Santa Cruz,"1,164 sqft",31-Dec-69,$0 ,36.971992,-122.04159,CA,Single-Family Home,745000,,,,55,36,For Sale,SANTA CRUZ
+95060,91 Misty Ct,3,3,Santa Cruz,"2,800 sqft",31-Dec-69,$0 ,37.002502,-122.019745,CA,Single-Family Home,1050000,,,,17,32,For Sale,SANTA CRUZ
+95062,181 24th Ave,2,2,Santa Cruz,"1,481 sqft",31-Dec-69,$0 ,36.95962,-121.9823,CA,Single-Family Home,1199000,,,,66,26,For Sale,SANTA CRUZ
+95065,120 Elk St,2,3,Santa Cruz,"1,521 sqft",31-Dec-69,$0 ,36.989204,-122.004105,CA,Single-Family Home,719999,,,,46,34,For Sale,SANTA CRUZ
+95065,100 Bernita Dr,4,4,Santa Cruz,"4,285 sqft",31-Dec-69,$0 ,37.04581,-121.98078,CA,Single-Family Home,980000,,,,0,0,For Sale,SANTA CRUZ
+95060,600 Encinal St,4,6,Santa Cruz,"4,572 sqft",31-Dec-69,$0 ,36.989407,-122.039345,CA,Single-Family Home,2975000,,,,60,24,For Sale,SANTA CRUZ
+95060,111 Dakota Ave #4,,,Santa Cruz,720 sqft,31-Dec-69,$0 ,36.97424,-122.02175,CA,Income/Investment,249000,,,,97,49,For Sale,SANTA CRUZ
+95060,111 Dakota Ave #3 AND 4,,,Santa Cruz,"1,400 sqft",31-Dec-69,$0 ,36.97424,-122.02175,CA,Income/Investment,474000,,,,95,49,For Sale,SANTA CRUZ
+95062,122 Benito Ave,,,Santa Cruz,"2,820 sqft",31-Dec-69,$0 ,36.97979,-122.012405,CA,Income/Investment,715000,,,,95,44,For Sale,SANTA CRUZ
+95060,104 Surfside Ave,,,Santa Cruz,"3,258 sqft",31-Dec-69,$0 ,36.956837,-122.040825,CA,Multi-Family Home,1099000,,,,77,29,For Sale,SANTA CRUZ
+95060,102 104 106 Surfside,1.5,2,Santa Cruz,"3,258 sqft",31-Dec-69,$0 ,37.013653,-122.08447,CA,Single-Family Home,1099000,,,,,11,For Sale,SANTA CRUZ
+95062,1653 Woodrose Ave,2,3,Santa Cruz,"1,452 sqft",31-Dec-69,$0 ,36.97518,-121.97836,CA,Single-Family Home,650000,,,,68,30,For Sale,SANTA CRUZ
+95062,616 15th Ave,3,4,Santa Cruz,"1,013 sqft",31-Dec-69,$0 ,36.964798,-121.98988,CA,Single-Family Home,899000,,,,54,27,For Sale,SANTA CRUZ
+95062,1920 Maciel Ave,1,1,Santa Cruz,"2,116 sqft",31-Dec-69,$0 ,36.97756,-121.97482,CA,Single-Family Home,899000,,,,60,34,For Sale,SANTA CRUZ
+95062,802 Hanover St,,,Santa Cruz,"1,672 sqft",31-Dec-69,$0 ,36.978188,-122.006645,CA,Multi-Family Home,699000,,,,91,,For Sale,SANTA CRUZ
+95060,226 Bayona Dr,2,3,Santa Cruz,"1,404 sqft",31-Dec-69,$0 ,36.969524,-122.04984,CA,Single-Family Home,799000,,,,42,34,For Sale,SANTA CRUZ
+95062,1 Berkeley Ct,3,3,Santa Cruz,"1,810 sqft",31-Dec-69,$0 ,36.98311,-122.01458,CA,Single-Family Home,840000,,,,88,,For Sale,SANTA CRUZ
+95062,424 Effey St,2,3,Santa Cruz,"1,762 sqft",31-Dec-69,$0 ,36.977287,-122.00557,CA,Single-Family Home,719000,,,,83,39,For Sale,SANTA CRUZ
+95065,570 Mountain View Rd,2,3,Santa Cruz,"2,800 sqft",31-Dec-69,$0 ,37.054882,-121.968895,CA,Single-Family Home,1295000,,,,2,0,For Sale,SANTA CRUZ
+95060,200 W Cliff Dr #33,3,2,Santa Cruz,"1,926 sqft",31-Dec-69,$0 ,36.960476,-122.025894,CA,Townhome,785000,,,,66,31,For Sale,SANTA CRUZ
+95060,7600 Glen Hvn,2,3,Santa Cruz,,31-Dec-69,$0 ,36.989,-122.058,CA,Single-Family Home,989000,,,,32,34,For Sale,SANTA CRUZ
+95062,552 14th Ave,3,2,Santa Cruz,"1,070 sqft",31-Dec-69,$0 ,36.964584,-121.99103,CA,Single-Family Home,899000,,,,54,27,For Sale,SANTA CRUZ
+95062,714 Cayuga St,1,2,Santa Cruz,860 sqft,31-Dec-69,$0 ,36.974697,-122.01006,CA,Single-Family Home,725000,,,,78,41,For Sale,SANTA CRUZ
+95060,220 Laurel St #A 101,,,Santa Cruz,,31-Dec-69,$0 ,36.969353,-122.02581,CA,Income/Investment,399000,,,,92,50,For Sale,SANTA CRUZ
+95060,327 John St,,,Santa Cruz,,31-Dec-69,$0 ,36.95476,-122.04738,CA,Lot/Land,650000,,,,62,23,For Sale,SANTA CRUZ
+95062,3600 Portola Dr,,,Santa Cruz,"1,064 sqft",31-Dec-69,$0 ,36.963177,-121.9693,CA,Income/Investment,867980,,,,78,26,For Sale,SANTA CRUZ
+95062,3650 Portola Dr,,,Santa Cruz,,31-Dec-69,$0 ,36.963177,-121.969025,CA,Income/Investment,839900,,,,78,26,For Sale,SANTA CRUZ
+95062,1600 Brommer St,,,Santa Cruz,,31-Dec-69,$0 ,36.970882,-121.985565,CA,Income/Investment,895000,,,,69,29,For Sale,SANTA CRUZ
+95062,3710 Gross Rd #26,2,3,Santa Cruz,944 sqft,31-Dec-69,$0 ,36.98022,-121.96729,CA,Mobile/Manufactured,199900,,,,80,38,For Sale,SANTA CRUZ
+95065,147 Rooney St,2,4,Santa Cruz,"1,533 sqft",31-Dec-69,$0 ,36.988846,-122.00515,CA,Single-Family Home,529000,,,,51,34,For Sale,SANTA CRUZ
+95065,777 Happy Valley Rd,5,5,Santa Cruz,"5,505 sqft",31-Dec-69,$0 ,37.037495,-121.9808,CA,Single-Family Home,1295000,,,,3,0,For Sale,SANTA CRUZ
+95062,800 Brommer St #85,2,2,Santa Cruz,"1,000 sqft",31-Dec-69,$0 ,36.970894,-121.99457,CA,Mobile/Manufactured,224900,,,,51,29,For Sale,SANTA CRUZ
+95062,77 S Branciforte Ave,3,2,Santa Cruz,"1,558 sqft",31-Dec-69,$0 ,36.96947,-122.013084,CA,Condo,539000,,,,63,42,For Sale,SANTA CRUZ
+95065,425 Granite Ridge Dr,1,2,Santa Cruz,"1,150 sqft",31-Dec-69,$0 ,37.046303,-121.99688,CA,Single-Family Home,484900,,,,12,0,For Sale,SANTA CRUZ
+95060,104 Grandview Ter,3,2,Santa Cruz,"1,254 sqft",31-Dec-69,$0 ,36.961655,-122.057274,CA,Single-Family Home,537000,,,,49,24,For Sale,SANTA CRUZ
+95062,125 32nd Ave,4,4,Santa Cruz,"2,720 sqft",31-Dec-69,$0 ,36.95664,-121.97256,CA,Single-Family Home,2000000,,,,52,0,For Sale,SANTA CRUZ
+95060,116 Scenic St,1,2,Santa Cruz,,31-Dec-69,$0 ,36.968803,-122.049,CA,Single-Family Home,759000,,,,48,34,For Sale,SANTA CRUZ
+95062,220 Atlantic Ave #102,1,1,Santa Cruz,680 sqft,31-Dec-69,$0 ,36.964424,-122.00677,CA,Condo,410000,,,,54,24,For Sale,SANTA CRUZ
+95060,168 Bernard Ln,4,4,Santa Cruz,"2,400 sqft",31-Dec-69,$0 ,37.029285,-122.00805,CA,Single-Family Home,695000,,,,14,0,For Sale,SANTA CRUZ
+95060,308 River St #A3,1,2,Santa Cruz,769 sqft,31-Dec-69,$0 ,36.980896,-122.02758,CA,Condo,239000,,,,92,45,For Sale,SANTA CRUZ
+95062,1233 N Branciforte Ave,4,4,Santa Cruz,"2,240 sqft",31-Dec-69,$0 ,36.988033,-122.01151,CA,Single-Family Home,699000,,,,58,36,For Sale,SANTA CRUZ
+95062,100 Geoffroy Dr,2,3,Santa Cruz,"2,329 sqft",31-Dec-69,$0 ,36.959167,-121.99228,CA,Single-Family Home,4500000,,,,51,25,For Sale,SANTA CRUZ
+95060,369 Lee St,3,4,Santa Cruz,"2,241 sqft",31-Dec-69,$0 ,36.991814,-122.01526,CA,Single-Family Home,675000,,,,40,33,For Sale,SANTA CRUZ
+95060,1111 Ocean St #201,1,1,Santa Cruz,717 sqft,31-Dec-69,$0 ,36.98221,-122.02255,CA,Apt/Condo/Twnhm,255000,,,,77,45,For Sale,SANTA CRUZ
+95060,11303 Empire Grade,4,5,Santa Cruz,"4,456 sqft",31-Dec-69,$0 ,37.106762,-122.14149,CA,Single-Family Home,1650000,,,,2,0,For Sale,SANTA CRUZ
+95060,Patrick Rd,,,Santa Cruz,,31-Dec-69,$0 ,37.099835,-122.141614,CA,Lot/Land,349000,,,,6,0,For Sale,SANTA CRUZ
+95060,Bertoli Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.13954,-122.188906,CA,Lot/Land,250000,,,,,,For Sale,SANTA CRUZ
+95060,880 W Cliff Dr #5,1,2,Santa Cruz,"1,100 sqft",31-Dec-69,$0 ,36.952595,-122.032684,CA,Apt/Condo/Twnhm,649000,,,,46,19,For Sale,SANTA CRUZ
+95060,Western Dr,,,Santa Cruz,,31-Dec-69,$0 ,36.961472,-122.056669,CA,Lot/Land,350000,,,,28,31,For Sale,SANTA CRUZ
+95060,304 Walnut Ave,6,8,Santa Cruz,,31-Dec-69,$0 ,36.97279,-122.030945,CA,Single-Family Home,2250000,,,,97,47,For Sale,SANTA CRUZ
+95062,1025 Broadway,2,3,Santa Cruz,"1,708 sqft",31-Dec-69,$0 ,36.975304,-122.012085,CA,Single-Family Home,875000,,,,80,42,For Sale,SANTA CRUZ
+95060,Warren Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.034161,-122.137854,CA,Lot/Land,299000,,,,,,For Sale,SANTA CRUZ
+95060,1140 Warren Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.03742,-122.1378,CA,Lot/Land,349000,,,,2,0,For Sale,SANTA CRUZ
+95062,450 6th Ave,2,3,Santa Cruz,"1,650 sqft",31-Dec-69,$0 ,36.967216,-121.99884,CA,Apt/Condo/Twnhm,744000,,,,60,26,For Sale,SANTA CRUZ
+95060,2965 Pine Flat Rd,2,2,Santa Cruz,"1,440 sqft",31-Dec-69,$0 ,37.078976,-122.14233,CA,Single-Family Home,775000,,,,2,12,For Sale,SANTA CRUZ
+95062,499 Lake Ave,2,1,Santa Cruz,"1,873 sqft",31-Dec-69,$0 ,36.967773,-122.0014,CA,Single-Family Home,985000,,,,63,25,For Sale,SANTA CRUZ
+95060,Warren Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.034161,-122.137854,CA,Lot/Land,299000,,,,,,For Sale,SANTA CRUZ
+95060,308 Market St #B,2,3,Santa Cruz,"1,414 sqft",31-Dec-69,$0 ,36.983776,-122.01737,CA,Condo,589000,,,,80,43,For Sale,SANTA CRUZ
+95062,219 Harrison Ave,2,3,Santa Cruz,"1,340 sqft",31-Dec-69,$0 ,36.98367,-122.00761,CA,Single-Family Home,659000,,,,78,40,For Sale,SANTA CRUZ
+95065,609 Cabrillo Ave,3,4,Santa Cruz,"1,900 sqft",31-Dec-69,$0 ,37.00384,-121.976875,CA,Single-Family Home,750000,,,,15,0,For Sale,SANTA CRUZ
+95065,1595 Soquel Dr #350,,,Santa Cruz,"1,677 sqft",31-Dec-69,$0 ,36.989143,-121.98278,CA,Income/Investment,419000,,,,78,34,For Sale,SANTA CRUZ
+95062,2020 Brommer St,,,Santa Cruz,"2,302 sqft",31-Dec-69,$0 ,36.970306,-121.98202,CA,Multi-Family Home,895000,,,,71,30,For Sale,SANTA CRUZ
+95060,Smith Grade,,,Santa Cruz,,31-Dec-69,$0 ,37.02661,-122.100475,CA,Lot/Land,3200000,,,,,,For Sale,SANTA CRUZ
+95060,107 Dakota Ave,,,Santa Cruz,"3,330 sqft",31-Dec-69,$0 ,36.973984,-122.02179,CA,Income/Investment,1300000,,,,97,49,For Sale,SANTA CRUZ
+95060,Cathedral Park Dr,,,Santa Cruz,,31-Dec-69,$0 ,37.047265,-122.15725,CA,Lot/Land,275000,,,,,,For Sale,SANTA CRUZ
+95060,1111 Ocean St #101,,,Santa Cruz,,31-Dec-69,$0 ,36.98221,-122.02255,CA,Income/Investment,449000,,,,77,45,For Sale,SANTA CRUZ
+95060,120 Scenic St,1,2,Santa Cruz,"1,252 sqft",31-Dec-69,$0 ,36.96875,-122.048805,CA,Single-Family Home,759000,,,,48,33,For Sale,SANTA CRUZ
+95065,3522 Mission Dr,1,2,Santa Cruz,"1,110 sqft",31-Dec-69,$0 ,36.992996,-121.97877,CA,Single-Family Home,1450000,,,,75,0,For Sale,SANTA CRUZ
+95062,618 Windsor St,1,3,Santa Cruz,"1,597 sqft",31-Dec-69,$0 ,36.97394,-122.00944,CA,Single-Family Home,775000,,,,82,38,For Sale,SANTA CRUZ
+95060,212 Mora St,,,Santa Cruz,,31-Dec-69,$0 ,36.980255,-122.03056,CA,Lot/Land,599000,,,,92,43,For Sale,SANTA CRUZ
+95060,14571 Empire Grade,,,Santa Cruz,,31-Dec-69,$0 ,37.138798,-122.17511,CA,Lot/Land,1795000,,,,0,0,For Sale,SANTA CRUZ
+95060,Smith Grade,3,3,Santa Cruz,"2,386 sqft",31-Dec-69,$0 ,37.019344,-122.12843,CA,Unspecified,480000,,,,0,0,For Sale,SANTA CRUZ
+95062,Dake Avenue and Stanford Avenue,2,3,Santa Cruz,"1,600 sqft",31-Dec-69,$0 ,36.98267,-122.012665,CA,Single-Family Home,695000,,,,91,43,For Sale,SANTA CRUZ
+95062,Captains Ct,2,2,Santa Cruz,"1,440 sqft",31-Dec-69,$0 ,36.97264,-121.99377,CA,Condo,504014,,,,49,31,For Sale,SANTA CRUZ
+95062,Opal Cliff Dr,2,3,Santa Cruz,"2,297 sqft",31-Dec-69,$0 ,36.96817,-121.95805,CA,Single-Family Home,350000,,,,58,28,For Sale,SANTA CRUZ
+95060,Main St,3,3,Santa Cruz,"1,803 sqft",31-Dec-69,$0 ,36.964607,-122.022675,CA,Condo,35732,,,,74,47,For Sale,SANTA CRUZ
+95062,Vista Prieta Ct,1,2,Santa Cruz,844 sqft,31-Dec-69,$0 ,36.9844,-121.98249,CA,Unspecified,152910,,,,60,38,For Sale,SANTA CRUZ
+95062,E Cliff Dr,2,2,Santa Cruz,820 sqft,31-Dec-69,$0 ,36.955833,-121.973595,CA,Single-Family Home,164500,,,,43,0,For Sale,SANTA CRUZ
+95060,Cliff St,2,3,Santa Cruz,"2,244 sqft",31-Dec-69,$0 ,36.967342,-122.0217,CA,Single-Family Home,609270,,,,85,49,For Sale,SANTA CRUZ
+95060,West Ave,3,3,Santa Cruz,"2,206 sqft",31-Dec-69,$0 ,36.962635,-122.04616,CA,Single-Family Home,615110,,,,69,32,For Sale,SANTA CRUZ
+95060,Wilkes Cir,1,1,Santa Cruz,"1,591 sqft",31-Dec-69,$0 ,36.95904,-122.039444,CA,Single-Family Home,100000,,,,69,30,For Sale,SANTA CRUZ
+95060,Van Ness Ave,1,3,Santa Cruz,"1,148 sqft",31-Dec-69,$0 ,36.96948,-122.03966,CA,Single-Family Home,108750,,,,69,38,For Sale,SANTA CRUZ
+95060,Dakota Ave #15,,,Santa Cruz,837 sqft,31-Dec-69,$0 ,36.976254,-122.02093,CA,Condo,217500,,,,94,49,For Sale,SANTA CRUZ
+95060,Grandview St #208,2,2,Santa Cruz,913 sqft,31-Dec-69,$0 ,36.96148,-122.0512,CA,Condo,271414,,,,65,29,For Sale,SANTA CRUZ
+95065,Granite Ridge Dr,1,2,Santa Cruz,"1,150 sqft",31-Dec-69,$0 ,37.04613,-121.99655,CA,Unspecified,695753,,,,3,0,For Sale,SANTA CRUZ
+95062,Effey St,2,3,Santa Cruz,"1,633 sqft",31-Dec-69,$0 ,36.97756,-122.005516,CA,Single-Family Home,693160,,,,83,39,For Sale,SANTA CRUZ
+95060,Westview Ct,2,2,Santa Cruz,"1,087 sqft",31-Dec-69,$0 ,36.966846,-122.05794,CA,Single-Family Home,710593,,,,28,30,For Sale,SANTA CRUZ
+95060,Alta Ave,2,3,Santa Cruz,"1,539 sqft",31-Dec-69,$0 ,36.954727,-122.04203,CA,Single-Family Home,765904,,,,60,25,For Sale,SANTA CRUZ
+95060,Blaine St,1,2,Santa Cruz,"2,654 sqft",31-Dec-69,$0 ,36.98095,-122.023155,CA,Single-Family Home,681977,,,,91,46,For Sale,SANTA CRUZ
+95062,30th Ave,3,2,Santa Cruz,"1,320 sqft",31-Dec-69,$0 ,36.97514,-121.97289,CA,Condo,416900,,,,77,33,For Sale,SANTA CRUZ
+95062,Halterman Ave #A1,1,1,Santa Cruz,648 sqft,31-Dec-69,$0 ,36.97758,-121.978165,CA,Condo,280145,,,,57,34,For Sale,SANTA CRUZ
+95065,Miller Ct,2,3,Santa Cruz,"1,512 sqft",31-Dec-69,$0 ,36.99,-122.00565,CA,Single-Family Home,590000,,,,37,32,For Sale,SANTA CRUZ
+95060,Coloma St,2,3,Santa Cruz,"1,420 sqft",31-Dec-69,$0 ,36.9801,-122.02215,CA,Single-Family Home,610282,,,,92,47,For Sale,SANTA CRUZ
+95060,Pearl St,,,Santa Cruz,,31-Dec-69,$0 ,36.970013,-122.01587,CA,Unspecified,277000,,,,75,46,For Sale,SANTA CRUZ
+95060,Swanton Blvd,2,3,Santa Cruz,"1,430 sqft",31-Dec-69,$0 ,36.95116,-122.0548,CA,Single-Family Home,693433,,,,37,21,For Sale,SANTA CRUZ
+95062,14th Ave #209,1,1,Santa Cruz,656 sqft,31-Dec-69,$0 ,36.965874,-121.99045,CA,Unspecified,205117,,,,55,26,For Sale,SANTA CRUZ
+95060,Misty Ct,4,4,Santa Cruz,"3,024 sqft",31-Dec-69,$0 ,37.002884,-122.01904,CA,Single-Family Home,960307,,,,15,32,For Sale,SANTA CRUZ
+95065,Mission Dr,1,2,Santa Cruz,672 sqft,31-Dec-69,$0 ,36.991405,-121.98009,CA,Condo,294112,,,,71,0,For Sale,SANTA CRUZ
+95060,W Cliff Dr,2,4,Santa Cruz,"2,896 sqft",31-Dec-69,$0 ,36.953285,-122.04037,CA,Single-Family Home,942500,,,,55,25,For Sale,SANTA CRUZ
+95062,Fenn Way,3,4,Santa Cruz,"1,643 sqft",31-Dec-69,$0 ,36.981995,-121.97048,CA,Single-Family Home,550000,,,,72,37,For Sale,SANTA CRUZ
+95062,Katrina Ct,2,3,Santa Cruz,"1,291 sqft",31-Dec-69,$0 ,36.97899,-121.98927,CA,Single-Family Home,646778,,,,54,37,For Sale,SANTA CRUZ
+95062,Ezra Ln,2,4,Santa Cruz,"1,636 sqft",31-Dec-69,$0 ,36.981606,-121.98484,CA,Single-Family Home,648750,,,,58,38,For Sale,SANTA CRUZ
+95060,Cowell St,1,2,Santa Cruz,"1,025 sqft",31-Dec-69,$0 ,36.96044,-122.026665,CA,Single-Family Home,734767,,,,66,31,For Sale,SANTA CRUZ
+95060,Errett Cir,1,2,Santa Cruz,881 sqft,31-Dec-69,$0 ,36.95945,-122.03756,CA,Single-Family Home,610140,,,,71,31,For Sale,SANTA CRUZ
+95060,Beachview Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.961887,-122.05488,CA,Unspecified,299169,,,,54,26,For Sale,SANTA CRUZ
+95060,Western Dr,2,3,Santa Cruz,"2,172 sqft",31-Dec-69,$0 ,36.97537,-122.05839,CA,Single-Family Home,835223,,,,12,34,For Sale,SANTA CRUZ
+95062,Venice Dr,1,2,Santa Cruz,891 sqft,31-Dec-69,$0 ,36.97146,-121.98038,CA,Single-Family Home,269508,,,,68,30,For Sale,SANTA CRUZ
+95065,Vine Hill Rd,2,4,Santa Cruz,"2,760 sqft",31-Dec-69,$0 ,37.0603,-121.98153,CA,Unspecified,752726,,,,0,0,For Sale,SANTA CRUZ
+95062,851 41st Ave,,,Santa Cruz,"3,700 sqft",31-Dec-69,$0 ,36.96434,-121.96513,CA,Income/Investment,1700000,,,,85,30,For Sale,SANTA CRUZ
+95062,Portola Dr,2,4,Santa Cruz,"1,610 sqft",31-Dec-69,$0 ,36.9678,-121.959236,CA,Multi-Family Home,50000,,,,74,29,For Sale,SANTA CRUZ
+95060,Plateau Ave,2,3,Santa Cruz,"1,074 sqft",31-Dec-69,$0 ,36.955395,-122.04359,CA,Single-Family Home,104000,,,,77,26,For Sale,SANTA CRUZ
+95060,Pine Flat Rd,2,4,Santa Cruz,"2,624 sqft",31-Dec-69,$0 ,37.07287,-122.14355,CA,Unspecified,642550,,,,5,12,For Sale,SANTA CRUZ
+95060,Hollins Dr,3,3,Santa Cruz,"2,583 sqft",31-Dec-69,$0 ,36.99696,-122.02231,CA,Single-Family Home,637500,,,,18,33,For Sale,SANTA CRUZ
+95060,River St,1,1,Santa Cruz,600 sqft,31-Dec-69,$0 ,36.979534,-122.02807,CA,Single-Family Home,148500,,,,95,46,For Sale,SANTA CRUZ
+95062,Greystone Ct,2,4,Santa Cruz,"1,483 sqft",31-Dec-69,$0 ,36.980816,-121.97527,CA,Unspecified,318500,,,,69,36,For Sale,SANTA CRUZ
+95060,Laurel St,2,3,Santa Cruz,"1,416 sqft",31-Dec-69,$0 ,36.970604,-122.03955,CA,Single-Family Home,51988,,,,78,38,For Sale,SANTA CRUZ
+95060,Seaside St,1,2,Santa Cruz,868 sqft,31-Dec-69,$0 ,36.95986,-122.04248,CA,Single-Family Home,100000,,,,72,30,For Sale,SANTA CRUZ
+95062,30th Ave,2,3,Santa Cruz,"1,752 sqft",31-Dec-69,$0 ,36.9629,-121.97319,CA,Single-Family Home,336500,,,,80,26,For Sale,SANTA CRUZ
+95062,Sunnyside Ave,1,2,Santa Cruz,"1,068 sqft",31-Dec-69,$0 ,36.97979,-122.01573,CA,Single-Family Home,211000,,,,97,46,For Sale,SANTA CRUZ
+95060,Palm St,3,3,Santa Cruz,"2,259 sqft",31-Dec-69,$0 ,36.963104,-122.039314,CA,Single-Family Home,561118,,,,75,33,For Sale,SANTA CRUZ
+95065,Waugh Ave,3,6,Santa Cruz,"2,987 sqft",31-Dec-69,$0 ,37.005016,-121.97251,CA,Single-Family Home,741000,,,,15,0,For Sale,SANTA CRUZ
+95062,Leila Ct,1,2,Santa Cruz,952 sqft,31-Dec-69,$0 ,36.97555,-121.98619,CA,Condo,245434,,,,54,32,For Sale,SANTA CRUZ
+95060,Pearl St,1,2,Santa Cruz,"1,008 sqft",31-Dec-69,$0 ,36.97051,-122.01614,CA,Single-Family Home,277000,,,,75,46,For Sale,SANTA CRUZ
+95060,Bethany Curv,2,3,Santa Cruz,"1,661 sqft",31-Dec-69,$0 ,36.957294,-122.040474,CA,Single-Family Home,514000,,,,69,29,For Sale,SANTA CRUZ
+95060,Palo Verde Ter,2,1,Santa Cruz,990 sqft,31-Dec-69,$0 ,36.97176,-122.04942,CA,Condo,322500,,,,35,33,For Sale,SANTA CRUZ
+95062,Halterman Ave,2,2,Santa Cruz,913 sqft,31-Dec-69,$0 ,36.977512,-121.978264,CA,Single-Family Home,213750,,,,57,34,For Sale,SANTA CRUZ
+95062,Harbor Oaks Cir,2,3,Santa Cruz,"1,218 sqft",31-Dec-69,$0 ,36.977234,-121.99178,CA,Condo,369191,,,,60,34,For Sale,SANTA CRUZ
+95062,Bramble Ln,,3,Santa Cruz,"1,554 sqft",31-Dec-69,$0 ,36.961502,-121.966255,CA,Single-Family Home,448774,,,,72,26,For Sale,SANTA CRUZ
+95062,Capitola Rd,1,2,Santa Cruz,"1,180 sqft",31-Dec-69,$0 ,36.9772,-121.9876,CA,Condo,384589,,,,55,34,For Sale,SANTA CRUZ
+95060,Cedar St,2,4,Santa Cruz,"1,564 sqft",31-Dec-69,$0 ,36.968628,-122.026146,CA,Multi-Family Home,533000,,,,95,49,For Sale,SANTA CRUZ
+95060,Everson Dr,1,1,Santa Cruz,733 sqft,31-Dec-69,$0 ,36.965393,-122.02955,CA,Condo,333600,,,,80,47,For Sale,SANTA CRUZ
+95062,14th Ave,1,1,Santa Cruz,600 sqft,31-Dec-69,$0 ,36.966175,-121.990265,CA,Single-Family Home,207000,,,,55,26,For Sale,SANTA CRUZ
+95062,Dake Ave,1,2,Santa Cruz,750 sqft,31-Dec-69,$0 ,36.9821,-122.0112,CA,Single-Family Home,508665,,,,88,42,For Sale,SANTA CRUZ
+95062,N Branciforte Ave,2,1,Santa Cruz,"1,098 sqft",31-Dec-69,$0 ,36.9802,-122.0145,CA,Single-Family Home,500000,,,,91,45,For Sale,SANTA CRUZ
+95060,Emeline Ave,1,,Santa Cruz,280 sqft,31-Dec-69,$0 ,36.989777,-122.017746,CA,Single-Family Home,280064,,,,46,35,For Sale,SANTA CRUZ
+95062,Atlantic Ave,1,,Santa Cruz,500 sqft,31-Dec-69,$0 ,36.964813,-122.00681,CA,Single-Family Home,283500,,,,54,24,For Sale,SANTA CRUZ
+95062,7th Ave,2,4,Santa Cruz,"1,332 sqft",31-Dec-69,$0 ,36.96678,-121.99811,CA,Single-Family Home,546000,,,,57,26,For Sale,SANTA CRUZ
+95062,Gross Rd,2,2,Santa Cruz,,31-Dec-69,$0 ,36.981113,-121.9673,CA,Mobile/Manufactured,120000,,,,80,38,For Sale,SANTA CRUZ
+95060,Canfield Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.96923,-122.01815,CA,Condo,248000,,,,75,47,For Sale,SANTA CRUZ
+95060,River St #A6,,,Santa Cruz,,31-Dec-69,$0 ,36.98076,-122.028786,CA,Condo,438336,,,,92,43,For Sale,SANTA CRUZ
+95062,Bramble Ln,2,3,Santa Cruz,,31-Dec-69,$0 ,36.961506,-121.96589,CA,Condo,425000,,,,72,26,For Sale,SANTA CRUZ
+95062,Rodriguez St,,,Santa Cruz,,31-Dec-69,$0 ,36.981873,-121.98591,CA,Multi-Family Home,545752,,,,65,38,For Sale,SANTA CRUZ
+95062,7th Ave,2,4,Santa Cruz,"1,670 sqft",31-Dec-69,$0 ,36.978745,-121.992096,CA,Single-Family Home,576392,,,,54,36,For Sale,SANTA CRUZ
+95062,Fenn Way,2,3,Santa Cruz,"1,403 sqft",31-Dec-69,$0 ,36.982086,-121.970474,CA,Single-Family Home,616835,,,,69,37,For Sale,SANTA CRUZ
+95062,Koopmans Ave,2,3,Santa Cruz,"1,202 sqft",31-Dec-69,$0 ,36.981205,-121.98694,CA,Single-Family Home,609618,,,,65,37,For Sale,SANTA CRUZ
+95060,Graham Hill Rd,2,2,Santa Cruz,"2,552 sqft",31-Dec-69,$0 ,37.011253,-122.03417,CA,Single-Family Home,856000,,,,29,11,For Sale,SANTA CRUZ
+95062,30th Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.974174,-121.97307,CA,Single-Family Home,139124,,,,78,31,For Sale,SANTA CRUZ
+95060,Nobel Dr #2C,,,Santa Cruz,,31-Dec-69,$0 ,36.97436,-122.0537,CA,Unspecified,485000,,,,26,33,For Sale,SANTA CRUZ
+95062,San Juan Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.985348,-122.002464,CA,Unspecified,520000,,,,77,38,For Sale,SANTA CRUZ
+95062,Portola Dr,2,,Santa Cruz,"1,205 sqft",31-Dec-69,$0 ,36.96539,-121.962326,CA,Multi-Family Home,422000,,,,74,30,For Sale,SANTA CRUZ
+95062,Eastbrook Ct,2,2,Santa Cruz,"1,008 sqft",31-Dec-69,$0 ,36.97769,-121.98853,CA,Condo,352960,,,,51,36,For Sale,SANTA CRUZ
+95065,Goss Ave,2,3,Santa Cruz,"1,601 sqft",31-Dec-69,$0 ,36.989456,-122.00721,CA,Single-Family Home,538000,,,,43,32,For Sale,SANTA CRUZ
+95062,Harper St,2,3,Santa Cruz,"1,232 sqft",31-Dec-69,$0 ,36.973953,-121.98428,CA,Single-Family Home,475000,,,,62,30,For Sale,SANTA CRUZ
+95062,Paul Minnie Ave,1,2,Santa Cruz,819 sqft,31-Dec-69,$0 ,36.982903,-121.984825,CA,Single-Family Home,514242,,,,55,38,For Sale,SANTA CRUZ
+95065,San Juan Ave,2,3,Santa Cruz,989 sqft,31-Dec-69,$0 ,36.989967,-122.00099,CA,Single-Family Home,336295,,,,32,32,For Sale,SANTA CRUZ
+95060,California Ave,2,3,Santa Cruz,"1,395 sqft",31-Dec-69,$0 ,36.96026,-122.037575,CA,Single-Family Home,516000,,,,71,33,For Sale,SANTA CRUZ
+95062,Maciel Ave,2,2,Santa Cruz,"1,559 sqft",31-Dec-69,$0 ,36.97868,-121.97579,CA,Single-Family Home,612500,,,,60,34,For Sale,SANTA CRUZ
+95060,Seaborg Pl,2,3,Santa Cruz,"1,459 sqft",31-Dec-69,$0 ,36.97181,-122.05224,CA,Single-Family Home,899900,,,,34,33,For Sale,SANTA CRUZ
+95062,Capitola Rd Ext,,,Santa Cruz,,31-Dec-69,$0 ,36.982754,-121.993234,CA,Unspecified,316000,,,,,,For Sale,SANTA CRUZ
+95062,Ivy Ln,,,Santa Cruz,,31-Dec-69,$0 ,36.97202,-121.980303,CA,Unspecified,412500,,,,,,For Sale,SANTA CRUZ
+95060,Stoneycreek Rd,,,Santa Cruz,,31-Dec-69,$0 ,36.987793,-122.01444,CA,Unspecified,427500,,,,55,36,For Sale,SANTA CRUZ
+95060,Grandview St #1501,,,Santa Cruz,,31-Dec-69,$0 ,36.96148,-122.0512,CA,Unspecified,283567,,,,89,29,For Sale,SANTA CRUZ
+95062,Harbor Cove Ln,,,Santa Cruz,,31-Dec-69,$0 ,36.97373,-121.99668,CA,Unspecified,308583,,,,48,29,For Sale,SANTA CRUZ
+95062,Halterman Ave #E-1,,,Santa Cruz,,31-Dec-69,$0 ,36.977512,-121.978264,CA,Unspecified,213750,,,,68,32,For Sale,SANTA CRUZ
+95062,Harper St,,,Santa Cruz,,31-Dec-69,$0 ,36.973152,-121.97779,CA,Single-Family Home,365000,,,,65,30,For Sale,SANTA CRUZ
+95062,Heath Ave #7,,,Santa Cruz,,31-Dec-69,$0 ,36.966408,-121.98621,CA,Unspecified,299205,,,,62,29,For Sale,SANTA CRUZ
+95062,17th Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.973953,-121.983604,CA,Unspecified,250000,,,,60,30,For Sale,SANTA CRUZ
+95060,Empire Grade Rd,,,Santa Cruz,,31-Dec-69,$0 ,37.07415,-122.13024,CA,Single-Family Home,485702,,,,2,12,For Sale,SANTA CRUZ
+95060,Grandview,,,Santa Cruz,,31-Dec-69,$0 ,36.96148,-122.0512,CA,Unspecified,472212,,,,89,29,For Sale,SANTA CRUZ
+95060,Bixby St,,,Santa Cruz,,31-Dec-69,$0 ,36.97083,-122.01797,CA,Unspecified,324825,,,,82,46,For Sale,SANTA CRUZ
+95062,Heritage Ln,3,3,Santa Cruz,"1,635 sqft",31-Dec-69,$0 ,36.97347,-121.97022,CA,Single-Family Home,657500,,,,86,32,For Sale,SANTA CRUZ
+95062,13th Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.9646,-121.99227,CA,Unspecified,550000,,,,71,27,For Sale,SANTA CRUZ
+95060,Campbell St,,,Santa Cruz,,31-Dec-69,$0 ,36.970698,-122.019753,CA,Unspecified,580086,,,,85,49,For Sale,SANTA CRUZ
+95062,Clinton St,3,3,Santa Cruz,"2,029 sqft",31-Dec-69,$0 ,36.97124,-122.00445,CA,Single-Family Home,920000,,,,68,28,For Sale,SANTA CRUZ
+95060,Younglove Ave,3,3,Santa Cruz,"1,966 sqft",31-Dec-69,$0 ,36.96095,-122.04084,CA,Single-Family Home,770000,,,,82,32,For Sale,SANTA CRUZ
+95060,Ocean Street Ext,3,3,Santa Cruz,"2,179 sqft",31-Dec-69,$0 ,36.99247,-122.02935,CA,Single-Family Home,886770,,,,40,27,For Sale,SANTA CRUZ
+95060,Sacramento Ave,2,3,Santa Cruz,"1,601 sqft",31-Dec-69,$0 ,36.9524,-122.05213,CA,Single-Family Home,784570,,,,77,20,For Sale,SANTA CRUZ
+95060,S Circle Dr,2,3,Santa Cruz,"1,817 sqft",31-Dec-69,$0 ,36.9943,-122.019646,CA,Single-Family Home,785371,,,,35,32,For Sale,SANTA CRUZ
+95065,Monte Vista Ct,,,Santa Cruz,,31-Dec-69,$0 ,36.9938,-121.97921,CA,Unspecified,737521,,,,71,0,For Sale,SANTA CRUZ
+95060,Broadway,,,Santa Cruz,,31-Dec-69,$0 ,36.97305,-122.01882,CA,Unspecified,695906,,,,89,48,For Sale,SANTA CRUZ
+95062,Sommerfeld Ave,,,Santa Cruz,,31-Dec-69,$0 ,36.974884,-121.97033,CA,Unspecified,703375,,,,83,34,For Sale,SANTA CRUZ
+95060,Ocean St,,,Santa Cruz,,31-Dec-69,$0 ,36.99157,-122.02884,CA,Unspecified,730000,,,,82,47,For Sale,SANTA CRUZ
+95060,Ocean St Ext,,,Santa Cruz,,31-Dec-69,$0 ,36.992393,-122.02931,CA,Unspecified,730000,,,,42,27,For Sale,SANTA CRUZ
+95065,Delaveaga Park Dr,,,Santa Cruz,,31-Dec-69,$0 ,36.991577,-122.00816,CA,Unspecified,896073,,,,40,0,For Sale,SANTA CRUZ

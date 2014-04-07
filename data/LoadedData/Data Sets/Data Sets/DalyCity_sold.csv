@@ -1,0 +1,430 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,727 87th St,1.0,2.0,Daly City,910 sqft,"Feb 20, 2014","$575,000",37.693127,-122.48284,CA,Single-Family Home,575000,"$586,000",94015,Broadmoor,,,Sold,SAN MATEO
+2,68 Willits St,2.0,4.0,Daly City,"1,000 sqft","Feb 19, 2014","$478,000",37.703747,-122.46889,CA,Single-Family Home,478000,"$686,000",94014,Original Daly City,,,Sold,SAN MATEO
+3,87 Nelson Ct,2.0,3.0,Daly City,"1,170 sqft","Feb 19, 2014","$800,000",37.652794,-122.46681,CA,Single-Family Home,800000,"$799,000",94015,Serramonte,,,Sold,SAN MATEO
+4,208 Westlake Ave,1.0,2.0,Daly City,"1,080 sqft","Feb 18, 2014","$550,000",37.69965,-122.466194,CA,Single-Family Home,550000,"$569,000",94014,Original Daly City,,,Sold,SAN MATEO
+5,1005 Brunswick St,4.0,4.0,Daly City,"4,634 sqft","Feb 14, 2014","$1,050,000",37.70674,-122.45389,CA,Multi-Family,1050000,,94014,Crocker,,,Sold,SAN MATEO
+6,26 Macdonald Ave,1.0,3.0,Daly City,"1,060 sqft","Feb 14, 2014","$520,000",37.70588,-122.407776,CA,Single-Family Home,520000,"$595,000",94014,Bayshore,,,Sold,SAN MATEO
+7,382 Imperial Way #2,1.0,1.0,Daly City,788 sqft,"Feb 14, 2014","$333,500",37.66529,-122.46371,CA,Condo,333500,"$367,000",94015,Serramonte,,,Sold,SAN MATEO
+8,630 Price St,2.0,4.0,Daly City,"1,770 sqft","Feb 7, 2014","$668,000",37.69393,-122.45699,CA,Single-Family Home,668000,"$706,000",94014,Hillside,,,Sold,SAN MATEO
+9,116 Alta Vista Way,2.0,2.0,Daly City,"1,180 sqft","Feb 7, 2014","$615,000",37.705162,-122.43501,CA,Single-Family Home,615000,"$698,000",94014,Southern Hills,,,Sold,SAN MATEO
+10,855 Southgate Ave,2.0,3.0,Daly City,"1,400 sqft","Feb 7, 2014","$706,500",37.687466,-122.4876,CA,Single-Family Home,706500,"$779,000",94015,Westlake,,,Sold,SAN MATEO
+11,152 School St,4.0,4.0,Daly City,"5,250 sqft","Feb 7, 2014","$960,000",37.6936,-122.46753,CA,Multi-Family,960000,,94014,Original Daly City,,,Sold,SAN MATEO
+12,14 Bismark St,2.0,4.0,Daly City,"1,940 sqft","Feb 7, 2014","$645,000",37.695553,-122.46392,CA,Single-Family Home,645000,"$757,000",94014,Hillside,,,Sold,SAN MATEO
+13,377 Mandarin Dr #99,1.0,1.0,Daly City,717 sqft,"Feb 5, 2014","$307,000",37.665306,-122.46369,CA,Condo,307000,"$348,000",94015,Serramonte,,,Sold,SAN MATEO
+14,1604 Graystone Ln,2.5,2.0,Daly City,"1,177 sqft","Feb 3, 2014","$479,000",37.703545,-122.4446,CA,Condo,479000,"$572,000",94014,Crocker,,,Sold,SAN MATEO
+15,535 Mountain Vw #3,2.0,2.0,Daly City,"1,158 sqft","Jan 31, 2014","$475,000",37.69871,-122.457054,CA,Condo,475000,"$541,000",94014,Crocker,,,Sold,SAN MATEO
+16,23 Westline Dr,3.5,6.0,Daly City,"1,410 sqft","Jan 31, 2014","$572,500",37.665703,-122.49092,CA,Single-Family Home,572500,"$780,000",94015,Westlake,,,Sold,SAN MATEO
+17,397 Imperial Way #164,2.0,2.0,Daly City,"1,065 sqft","Jan 31, 2014","$328,500",37.665306,-122.46369,CA,Condo,328500,"$456,000",94015,Serramonte,,,Sold,SAN MATEO
+18,719 Stewart Ave,1.0,3.0,Daly City,"1,550 sqft","Jan 29, 2014","$645,000",37.694542,-122.482506,CA,Single-Family Home,645000,"$728,000",94015,Broadmoor,,,Sold,SAN MATEO
+19,284 San Fernando Way,2.0,3.0,Daly City,"1,270 sqft","Jan 29, 2014","$600,000",37.681034,-122.47781,CA,Single-Family Home,600000,"$714,000",94015,St. Francis,,,Sold,SAN MATEO
+20,27 San Miguel Ave,2.0,3.0,Daly City,"1,270 sqft","Jan 29, 2014","$735,000",37.6745,-122.48081,CA,Single-Family Home,735000,"$763,000",94015,St. Francis,,,Sold,SAN MATEO
+21,291 Morton Dr,2.0,4.0,Daly City,"1,400 sqft","Jan 28, 2014","$645,000",37.65461,-122.46792,CA,Single-Family Home,645000,"$793,000",94015,Serramonte,,,Sold,SAN MATEO
+22,612 Larchmont Dr,1.0,2.0,Daly City,990 sqft,"Jan 28, 2014","$600,000",37.687397,-122.48285,CA,Single-Family Home,600000,"$629,000",94015,Broadmoor,,,Sold,SAN MATEO
+23,652 Skyline Dr,1.0,3.0,Daly City,"1,120 sqft","Jan 28, 2014","$592,500",37.677357,-122.49115,CA,Single-Family Home,592500,"$661,000",94015,Westlake,,,Sold,SAN MATEO
+24,1020 Brunswick St,1.0,2.0,Daly City,980 sqft,"Jan 27, 2014","$520,000",37.706917,-122.45441,CA,Single-Family Home,520000,"$615,000",94014,Crocker,,,Sold,SAN MATEO
+25,315 Wellington Ave,2.5,2.0,Daly City,"1,260 sqft","Jan 27, 2014","$588,000",37.704212,-122.45885,CA,Single-Family Home,588000,"$638,000",94014,Crocker,,,Sold,SAN MATEO
+26,4 Brumiss Ter,1.0,,Daly City,"1,446 sqft","Jan 27, 2014","$632,000",37.70858,-122.45181,CA,Single-Family Home,632000,"$845,000",94014,Crocker Amazon,,,Sold,SAN FRANCISCO
+27,136 Chester St,1.0,2.0,Daly City,"1,070 sqft","Jan 24, 2014","$520,000",37.68759,-122.458176,CA,Single-Family Home,520000,"$605,000",94014,Hillside,,,Sold,SAN MATEO
+28,667 Sylvan St,6.0,6.0,Daly City,"5,682 sqft","Jan 22, 2014","$880,000",37.687054,-122.45765,CA,Multi-Family,880000,,94014,Hillside,,,Sold,SAN MATEO
+29,377 Mandarin Dr #131,1.0,1.0,Daly City,717 sqft,"Jan 22, 2014","$312,000",37.665306,-122.46369,CA,Condo,312000,"$339,000",94015,Serramonte,,,Sold,SAN MATEO
+30,505 Gellert Blvd,1.0,3.0,Daly City,"1,100 sqft","Jan 21, 2014","$625,000",37.66128,-122.46841,CA,Single-Family Home,625000,"$700,000",94015,Serramonte,,,Sold,SAN MATEO
+31,94 Crestline Ave,2.0,3.0,Daly City,"1,640 sqft","Jan 21, 2014","$660,000",37.685356,-122.486824,CA,Single-Family Home,660000,"$818,000",94015,Westlake,,,Sold,SAN MATEO
+32,524 Macarthur Dr,1.0,3.0,Daly City,"1,170 sqft","Jan 17, 2014","$645,000",37.691692,-122.479576,CA,Single-Family Home,645000,"$648,000",94015,Broadmoor,,,Sold,SAN MATEO
+33,1056 Wildwood Ave,1.0,2.0,Daly City,940 sqft,"Jan 17, 2014","$672,500",37.696156,-122.49282,CA,Single-Family Home,672500,"$687,000",94015,Westlake,,,Sold,SAN MATEO
+34,1715 Sweetwood Dr,1.0,3.0,Daly City,"1,420 sqft","Jan 17, 2014","$590,000",37.68696,-122.47914,CA,Single-Family Home,590000,"$653,000",94015,Broadmoor,,,Sold,SAN MATEO
+35,76 Accacia St,1.0,2.0,Daly City,"1,140 sqft","Jan 16, 2014","$550,000",37.70744,-122.41497,CA,Single-Family Home,550000,"$537,000",94014,Bayshore,,,Sold,SAN MATEO
+36,36 Wavecrest Dr,1.0,3.0,Daly City,"1,120 sqft","Jan 16, 2014","$580,000",37.6769,-122.49195,CA,Single-Family Home,580000,"$660,000",94015,Westlake,,,Sold,SAN MATEO
+37,27 Fairmont Dr,1.0,3.0,Daly City,"1,300 sqft","Jan 15, 2014","$751,000",37.70056,-122.493004,CA,Single-Family Home,751000,"$814,000",94015,Westlake,,,Sold,SAN MATEO
+38,397 Whittier St,1.0,2.0,Daly City,"1,120 sqft","Jan 14, 2014","$575,000",37.706036,-122.44588,CA,Single-Family Home,575000,"$633,000",94014,Crocker,,,Sold,SAN MATEO
+39,347 Irvington St,1.0,2.0,Daly City,830 sqft,"Jan 13, 2014","$470,000",37.706234,-122.457275,CA,Single-Family Home,470000,"$551,000",94014,Crocker,,,Sold,SAN MATEO
+40,130 Linda Vista Dr,2.5,4.0,Daly City,"1,700 sqft","Jan 10, 2014","$680,000",37.700092,-122.412636,CA,Single-Family Home,680000,"$782,000",94014,Bayshore,,,Sold,SAN MATEO
+41,1330 Skyline Dr,2.0,3.0,Daly City,"1,250 sqft","Jan 10, 2014","$682,000",37.66179,-122.49011,CA,Single-Family Home,682000,"$714,000",94015,,,,Sold,SAN MATEO
+42,675 Southgate Ave,2.0,3.0,Daly City,"1,190 sqft","Jan 10, 2014","$680,000",37.693768,-122.490944,CA,Single-Family Home,680000,"$788,000",94015,Westlake,,,Sold,SAN MATEO
+43,615 Midway Ave,1.0,3.0,Daly City,"1,250 sqft","Jan 9, 2014","$555,000",37.692207,-122.481026,CA,Single-Family Home,555000,"$666,000",94015,Broadmoor,,,Sold,SAN MATEO
+44,811 Thornhill Dr,1.0,3.0,Daly City,"1,120 sqft","Jan 8, 2014","$640,000",37.69108,-122.4859,CA,Single-Family Home,640000,"$662,000",94015,Broadmoor,,,Sold,SAN MATEO
+45,349 Philip Dr #111,2.0,2.0,Daly City,"1,237 sqft","Jan 8, 2014","$439,000",37.669155,-122.46448,CA,Condo,439000,"$472,000",94015,Serramonte,,,Sold,SAN MATEO
+46,178 Peoria St,1.0,2.0,Daly City,930 sqft,"Jan 8, 2014","$535,000",37.70454,-122.45453,CA,Single-Family Home,535000,"$621,000",94014,Crocker,,,Sold,SAN MATEO
+47,1329 Brunswick St,6.0,8.0,Daly City,"4,494 sqft","Jan 7, 2014","$1,000,000",37.704144,-122.46013,CA,Multi-Family,1000000,,94014,Hillside,,,Sold,SAN MATEO
+48,882 Skyline Dr,2.0,4.0,Daly City,"1,520 sqft","Jan 7, 2014","$720,000",37.66967,-122.48782,CA,Single-Family Home,720000,"$775,000",94015,Westlake,,,Sold,SAN MATEO
+49,450 Southhill Blvd,2.0,4.0,Daly City,"1,350 sqft","Jan 3, 2014","$702,000",37.706543,-122.43489,CA,Single-Family Home,702000,"$749,000",94014,Southern Hills,,,Sold,SAN MATEO
+50,1378 S Mayfair Ave,1.0,3.0,Daly City,"1,120 sqft","Jan 3, 2014","$670,000",37.68632,-122.48856,CA,Single-Family Home,670000,"$765,000",94015,Westlake,,,Sold,SAN MATEO
+51,97 Rockridge Ave,2.0,3.0,Daly City,"1,160 sqft","Jan 3, 2014","$650,000",37.677994,-122.489044,CA,Single-Family Home,650000,"$720,000",94015,St. Francis,,,Sold,SAN MATEO
+52,457 Westlake Ave,1.0,2.0,Daly City,880 sqft,"Jan 3, 2014","$360,000",37.699238,-122.468575,CA,Single-Family Home,360000,"$513,000",94014,Original Daly City,,,Sold,SAN MATEO
+53,599 Vista Grande Ave,1.0,2.0,Daly City,"1,320 sqft","Dec 31, 2013","$626,500",37.70293,-122.46938,CA,Single-Family Home,626500,"$619,000",94014,Original Daly City,,,Sold,SAN MATEO
+54,220 Del Prado Dr,2.5,3.0,Daly City,"1,270 sqft","Dec 31, 2013","$725,000",37.679104,-122.480156,CA,Single-Family Home,725000,"$726,000",94015,St. Francis,,,Sold,SAN MATEO
+55,43 Garibaldi St,2.0,4.0,Daly City,"1,790 sqft","Dec 31, 2013","$608,000",37.69391,-122.46331,CA,Single-Family Home,608000,"$743,000",94014,Hillside,,,Sold,SAN MATEO
+56,379 Woodrow St,1.0,2.0,Daly City,690 sqft,"Dec 31, 2013","$335,000",37.698044,-122.466644,CA,Single-Family Home,335000,"$451,000",94014,Original Daly City,,,Sold,SAN MATEO
+57,84 Bepler St,1.0,2.0,Daly City,650 sqft,"Dec 27, 2013","$436,000",37.707348,-122.462524,CA,Single-Family Home,436000,"$510,000",94014,Original Daly City,,,Sold,SAN MATEO
+58,291 Oakridge Dr,2.0,3.0,Daly City,"1,170 sqft","Dec 27, 2013","$589,000",37.703396,-122.4277,CA,Single-Family Home,589000,"$712,000",94014,Southern Hills,,,Sold,SAN MATEO
+59,37 Montrose Ave,1.0,2.0,Daly City,940 sqft,"Dec 24, 2013","$640,000",37.689095,-122.48682,CA,Single-Family Home,640000,"$740,000",94015,Westlake,,,Sold,SAN MATEO
+60,8 E Moltke St,2.0,2.0,Daly City,"1,230 sqft","Dec 23, 2013","$594,000",37.69418,-122.46417,CA,Single-Family Home,594000,"$644,000",94014,Hillside,,,Sold,SAN MATEO
+61,614 Hanover St,2.0,4.0,Daly City,"1,150 sqft","Dec 20, 2013","$620,000",37.707153,-122.44965,CA,Single-Family Home,620000,"$715,000",94014,Crocker,,,Sold,SAN MATEO
+62,177 Westdale Ave,2.0,3.0,Daly City,"1,960 sqft","Dec 20, 2013","$778,000",37.7063,-122.48233,CA,Single-Family Home,778000,"$931,000",94015,Westlake,,,Sold,SAN MATEO
+63,75 Hyde Ct #1,2.5,2.0,Daly City,"1,530 sqft","Dec 20, 2013","$460,000",37.652237,-122.45243,CA,Condo,460000,"$584,000",94015,Serramonte,,,Sold,SAN MATEO
+64,32 Santa Elena Ave,2.5,3.0,Daly City,"1,320 sqft","Dec 17, 2013","$551,500",37.676117,-122.47736,CA,Single-Family Home,551500,"$739,000",94015,St. Francis,,,Sold,SAN MATEO
+65,515 King Dr #5,2.5,2.0,Daly City,"1,505 sqft","Dec 17, 2013","$500,000",37.65366,-122.45304,CA,Condo,500000,"$1,404,000",94015,Serramonte,,,Sold,SAN MATEO
+66,66 Carleton Ave,2.0,3.0,Daly City,"1,160 sqft","Dec 17, 2013","$580,000",37.68256,-122.48654,CA,Single-Family Home,580000,"$663,000",94015,St. Francis,,,Sold,SAN MATEO
+67,678 Stoneyford Dr,2.0,4.0,Daly City,"1,300 sqft","Dec 16, 2013","$650,000",37.688824,-122.485985,CA,Single-Family Home,650000,"$789,000",94015,Westlake,,,Sold,SAN MATEO
+68,10 Saint Marks Ct,3.0,5.0,Daly City,"2,430 sqft","Dec 16, 2013","$694,000",37.683434,-122.47825,CA,Single-Family Home,694000,"$782,000",94015,St. Francis,,,Sold,SAN MATEO
+69,397 Imperial Way #310,1.0,,Daly City,483 sqft,"Dec 13, 2013","$238,000",37.665306,-122.46369,CA,Condo,238000,"$253,000",94015,Serramonte,,,Sold,SAN MATEO
+70,268 Mariposa Ave,2.0,4.0,Daly City,"1,270 sqft","Dec 13, 2013","$505,000",37.677685,-122.48276,CA,Single-Family Home,505000,"$702,000",94015,St. Francis,,,Sold,SAN MATEO
+71,94 Norwood Ave,2.0,3.0,Daly City,"1,160 sqft","Dec 13, 2013","$600,000",37.657635,-122.4636,CA,Single-Family Home,600000,"$677,000",94015,Serramonte,,,Sold,SAN MATEO
+72,61 Crestline Ave,2.0,3.0,Daly City,"1,230 sqft","Dec 13, 2013","$700,000",37.684948,-122.485886,CA,Single-Family Home,700000,"$798,000",94015,Westlake,,,Sold,SAN MATEO
+73,775 Mountain Vw #3,2.5,3.0,Daly City,"1,630 sqft","Dec 13, 2013","$561,500",37.698437,-122.45348,CA,Condo,561500,"$647,000",94014,Crocker,,,Sold,SAN MATEO
+74,30 Vista Grande Ave,4.0,4.0,Daly City,"4,606 sqft","Dec 13, 2013","$859,500",37.70339,-122.463554,CA,Multi-Family,859500,,94014,Original Daly City,,,Sold,SAN MATEO
+75,481 Pointe Pacific #4,2.0,2.0,Daly City,"1,443 sqft","Dec 12, 2013","$529,000",37.701283,-122.45738,CA,Condo,529000,"$581,000",94014,Crocker,,,Sold,SAN MATEO
+76,576 Sylvan St #20,1.5,2.0,Daly City,838 sqft,"Dec 12, 2013","$313,000",37.687294,-122.45938,CA,Condo,313000,"$339,000",94014,Hillside,,,Sold,SAN MATEO
+77,326 Innisfree Dr,2.0,2.0,Daly City,"1,560 sqft","Dec 11, 2013","$540,000",37.666004,-122.47001,CA,Condo,540000,"$582,000",94015,Serramonte,,,Sold,SAN MATEO
+78,385 Mandarin Dr #159,1.0,1.0,Daly City,788 sqft,"Dec 11, 2013","$311,000",37.665306,-122.46369,CA,Condo,311000,"$361,000",94015,Serramonte,,,Sold,SAN MATEO
+79,1551 Southgate Ave #142,1.0,,Daly City,495 sqft,"Dec 10, 2013","$200,000",37.67673,-122.4747,CA,Condo,200000,"$278,000",94015,St. Francis,,,Sold,SAN MATEO
+80,160 Saint Michaels Ct,2.5,3.0,Daly City,"1,272 sqft","Dec 10, 2013","$440,000",37.6847,-122.48023,CA,Condo,440000,"$515,000",94015,St. Francis,,,Sold,SAN MATEO
+81,831 Beechwood Dr,1.0,2.0,Daly City,910 sqft,"Dec 10, 2013","$555,000",37.690372,-122.48635,CA,Single-Family Home,555000,"$597,000",94015,Broadmoor,,,Sold,SAN MATEO
+82,381 Half Moon Ln #428,1.0,1.0,Daly City,717 sqft,"Dec 9, 2013","$233,000",37.665306,-122.46369,CA,Condo,233000,"$347,000",94015,Serramonte,,,Sold,SAN MATEO
+83,172 Treeview Dr,2.5,3.0,Daly City,"1,562 sqft","Dec 9, 2013","$625,000",37.703545,-122.4446,CA,Condo,625000,"$641,000",94014,Crocker,,,Sold,SAN MATEO
+84,85 Hill St,,,Daly City,,"Dec 6, 2013","$435,000",37.6883,-122.46838,CA,Single-Family Home,435000,,94014,Original Daly City,,,Sold,SAN MATEO
+85,101 Santa Barbara Ave,3.0,4.0,Daly City,"2,836 sqft","Dec 6, 2013","$825,000",37.708054,-122.46467,CA,Single-Family Home,825000,"$924,000",94014,Original Daly City,,,Sold,SAN MATEO
+86,266 Shipley Ave,1.0,3.0,Daly City,"1,110 sqft","Dec 6, 2013","$620,000",37.653034,-122.46766,CA,Single-Family Home,620000,"$714,000",94015,Serramonte,,,Sold,SAN MATEO
+87,126 Westdale Ave,1.0,2.0,Daly City,"1,470 sqft","Dec 6, 2013","$755,000",37.70669,-122.48079,CA,Single-Family Home,755000,"$738,000",94015,Westlake,,,Sold,SAN MATEO
+88,128 W Moltke St,1.0,2.0,Daly City,"1,300 sqft","Dec 5, 2013","$589,000",37.694332,-122.46684,CA,Single-Family Home,589000,"$604,000",94014,Original Daly City,,,Sold,SAN MATEO
+89,33 Cliffside Dr,2.5,3.0,Daly City,"1,740 sqft","Dec 5, 2013","$855,000",37.703976,-122.482796,CA,Single-Family Home,855000,"$920,000",94015,Westlake,,,Sold,SAN MATEO
+90,211 Price St,,,Daly City,"4,503 sqft","Dec 5, 2013","$900,000",37.693207,-122.4634,CA,Multi-Family,900000,,94014,Hillside,,,Sold,SAN MATEO
+91,207 Hillcrest Dr,2.0,3.0,Daly City,900 sqft,"Dec 5, 2013","$330,000",37.70648,-122.46687,CA,Single-Family Home,330000,"$486,000",94014,Original Daly City,,,Sold,SAN MATEO
+92,277 Dennis Dr,2.5,4.0,Daly City,"1,690 sqft","Dec 4, 2013","$595,000",37.651306,-122.46261,CA,Single-Family Home,595000,"$765,000",94015,,,,Sold,SAN MATEO
+93,91 Windsor Dr,3.0,4.0,Daly City,"1,970 sqft","Dec 4, 2013","$790,000",37.698956,-122.48605,CA,Single-Family Home,790000,"$989,000",94015,Westlake,,,Sold,SAN MATEO
+94,408 Winchester St,5.0,6.0,Daly City,"3,718 sqft","Dec 4, 2013","$720,000",37.70549,-122.45598,CA,Unknown,720000,,94014,Crocker,,,Sold,SAN MATEO
+95,1112 Brunswick St,1.0,2.0,Daly City,"1,330 sqft","Dec 3, 2013","$605,000",37.706146,-122.45633,CA,Single-Family Home,605000,"$678,000",94014,Crocker,,,Sold,SAN MATEO
+96,683 Saint Francis Blvd,3.0,5.0,Daly City,"1,890 sqft","Dec 3, 2013","$655,000",37.671745,-122.47985,CA,Single-Family Home,655000,"$791,000",94015,St. Francis,,,Sold,SAN MATEO
+97,89 Montrose Ave,1.0,2.0,Daly City,940 sqft,"Dec 3, 2013","$675,000",37.689022,-122.488464,CA,Single-Family Home,675000,"$688,000",94015,Westlake,,,Sold,SAN MATEO
+98,57 Cliffside Dr,1.0,2.0,Daly City,"1,300 sqft","Dec 3, 2013","$665,000",37.70521,-122.48307,CA,Single-Family Home,665000,"$765,000",94015,Westlake,,,Sold,SAN MATEO
+99,333 Hickey Blvd #306,2.0,2.0,Daly City,"1,188 sqft","Nov 27, 2013","$475,000",37.663994,-122.461,CA,Condo,475000,"$507,000",94015,Serramonte,,,Sold,SAN MATEO
+100,269 Bay Ridge Dr,3.0,4.0,Daly City,"2,040 sqft","Nov 27, 2013","$785,000",37.700024,-122.41868,CA,Single-Family Home,785000,"$978,000",94014,Bayshore,,,Sold,SAN MATEO
+101,375 Mandarin Dr #50,1.0,1.0,Daly City,717 sqft,"Nov 27, 2013","$295,000",37.665306,-122.46369,CA,Condo,295000,"$353,000",94015,Serramonte,,,Sold,SAN MATEO
+102,590 Southhill Blvd,1.0,2.0,Daly City,990 sqft,"Nov 27, 2013","$570,000",37.704308,-122.44231,CA,Single-Family Home,570000,"$618,000",94014,Crocker,,,Sold,SAN MATEO
+103,179 Huntington Dr,2.0,3.0,Daly City,"1,130 sqft","Nov 27, 2013","$590,000",37.67953,-122.48489,CA,Single-Family Home,590000,"$684,000",94015,St. Francis,,,Sold,SAN MATEO
+104,639 Manila Way,2.0,3.0,Daly City,"1,350 sqft","Nov 26, 2013","$620,000",37.692204,-122.48226,CA,Single-Family Home,620000,"$658,000",94015,Broadmoor,,,Sold,SAN MATEO
+105,17 Alpine Ave,1.0,2.0,Daly City,940 sqft,"Nov 26, 2013","$585,000",37.68635,-122.48557,CA,Single-Family Home,585000,"$692,000",94015,Westlake,,,Sold,SAN MATEO
+106,59 Woodland Ave,2.0,3.0,Daly City,"1,180 sqft","Nov 26, 2013","$659,000",37.67588,-122.4878,CA,Single-Family Home,659000,"$778,000",94015,St. Francis,,,Sold,SAN MATEO
+107,535 Mountain Vw #8,2.0,2.0,Daly City,"1,158 sqft","Nov 26, 2013","$465,000",37.69871,-122.457054,CA,Condo,465000,"$538,000",94014,Crocker,,,Sold,SAN MATEO
+108,54 Pinehaven Dr,1.0,3.0,Daly City,"1,270 sqft","Nov 25, 2013","$700,000",37.694336,-122.489784,CA,Single-Family Home,700000,"$822,000",94015,Westlake,,,Sold,SAN MATEO
+109,61 Berta Cir,2.0,3.0,Daly City,"1,160 sqft","Nov 25, 2013","$583,000",37.66261,-122.46728,CA,Single-Family Home,583000,"$643,000",94015,Serramonte,,,Sold,SAN MATEO
+110,215 Avalon Dr,1.0,3.0,Daly City,"1,120 sqft","Nov 22, 2013","$592,000",37.682957,-122.49081,CA,Single-Family Home,592000,"$663,000",94015,Westlake,,,Sold,SAN MATEO
+111,562 Winchester St,1.5,2.0,Daly City,"1,310 sqft","Nov 22, 2013","$495,000",37.70468,-122.45873,CA,Single-Family Home,495000,"$652,000",94014,Crocker,,,Sold,SAN MATEO
+112,8 Santa Elena Ave,2.0,4.0,Daly City,"1,270 sqft","Nov 22, 2013","$684,500",37.676113,-122.47805,CA,Single-Family Home,684500,"$791,000",94015,St. Francis,,,Sold,SAN MATEO
+113,1315 Danberry Ln,2.0,2.0,Daly City,969 sqft,"Nov 22, 2013","$455,000",37.703545,-122.4446,CA,Condo,455000,"$513,000",94014,Crocker,,,Sold,SAN MATEO
+114,510 Alexis Cir,2.5,4.0,Daly City,"1,780 sqft","Nov 22, 2013","$650,000",37.70242,-122.42259,CA,Single-Family Home,650000,"$833,000",94014,Bayshore,,,Sold,SAN MATEO
+115,108 Lycett Cir,2.0,3.0,Daly City,"1,240 sqft","Nov 21, 2013","$742,000",37.655636,-122.46462,CA,Single-Family Home,742000,"$787,000",94015,Serramonte,,,Sold,SAN MATEO
+116,358 Skyline Dr,1.0,3.0,Daly City,"1,080 sqft","Nov 21, 2013","$600,000",37.686962,-122.490395,CA,Single-Family Home,600000,"$727,000",94015,Westlake,,,Sold,SAN MATEO
+117,167 Peoria St,1.0,2.0,Daly City,"1,280 sqft","Nov 21, 2013","$525,000",37.70419,-122.454155,CA,Single-Family Home,525000,"$649,000",94014,Crocker,,,Sold,SAN MATEO
+118,59 Eastlake Ave,,,Daly City,"5,095 sqft","Nov 21, 2013","$1,235,000",37.699677,-122.462715,CA,Multi-Family,1235000,,94014,Hillside,,,Sold,SAN MATEO
+119,180 Saint Francis Blvd,2.0,3.0,Daly City,"1,270 sqft","Nov 20, 2013","$550,000",37.682304,-122.47806,CA,Single-Family Home,550000,"$716,000",94015,St. Francis,,,Sold,SAN MATEO
+120,89 Menlo Ave,2.0,3.0,Daly City,"1,150 sqft","Nov 20, 2013","$530,000",37.675323,-122.491135,CA,Single-Family Home,530000,"$663,000",94015,Westlake,,,Sold,SAN MATEO
+121,835 Wildwood Ave,1.0,2.0,Daly City,"1,560 sqft","Nov 19, 2013","$710,000",37.695736,-122.48581,CA,Single-Family Home,710000,"$754,000",94015,Broadmoor,,,Sold,SAN MATEO
+122,411 Westmoor Ave,1.0,3.0,Daly City,"1,100 sqft","Nov 19, 2013","$550,000",37.683495,-122.49179,CA,Single-Family Home,550000,"$640,000",94015,Westlake,,,Sold,SAN MATEO
+123,846 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Nov 19, 2013","$640,000",37.67042,-122.488304,CA,Single-Family Home,640000,"$689,000",94015,Westlake,,,Sold,SAN MATEO
+124,397 Imperial Way #339,2.0,2.0,Daly City,"1,065 sqft","Nov 19, 2013","$395,000",37.665306,-122.46369,CA,Condo,395000,"$430,000",94015,Serramonte,,,Sold,SAN MATEO
+125,863 Brunswick St,2.0,2.0,Daly City,"1,140 sqft","Nov 19, 2013","$672,500",37.707684,-122.45107,CA,Single-Family Home,672500,"$670,000",94014,Crocker,,,Sold,SAN MATEO
+126,582 Abbot Ave,3.0,3.0,Daly City,"2,292 sqft","Nov 19, 2013","$662,000",37.688675,-122.458435,CA,Single-Family Home,662000,"$907,000",94014,Hillside,,,Sold,SAN MATEO
+127,651 Niantic Ave,1.0,3.0,Daly City,960 sqft,"Nov 18, 2013","$325,000",37.700054,-122.468666,CA,Single-Family Home,325000,"$574,000",94014,Original Daly City,,,Sold,SAN MATEO
+128,114 Village Ln,1.0,2.0,Daly City,"1,030 sqft","Nov 15, 2013","$585,000",37.693462,-122.47571,CA,Single-Family Home,585000,"$602,000",94015,Broadmoor,,,Sold,SAN MATEO
+129,77 Belmont Dr,1.0,2.0,Daly City,"1,080 sqft","Nov 15, 2013","$705,000",37.70484,-122.482,CA,Single-Family Home,705000,"$717,000",94015,Westlake,,,Sold,SAN MATEO
+130,712 Higate Dr,2.0,3.0,Daly City,"1,090 sqft","Nov 15, 2013","$660,000",37.67413,-122.48827,CA,Single-Family Home,660000,"$728,000",94015,St. Francis,,,Sold,SAN MATEO
+131,321 Oriente St,1.0,2.0,Daly City,700 sqft,"Nov 14, 2013","$300,000",37.7026,-122.41557,CA,Single-Family Home,300000,"$404,000",94014,Bayshore,,,Sold,SAN MATEO
+132,35 Garibaldi St,1.0,2.0,Daly City,"1,150 sqft","Nov 13, 2013","$525,000",37.69391,-122.46357,CA,Single-Family Home,525000,"$627,000",94014,Hillside,,,Sold,SAN MATEO
+133,324 Northgate Ave,2.0,3.0,Daly City,"1,560 sqft","Nov 13, 2013","$820,000",37.702507,-122.494385,CA,Single-Family Home,820000,"$858,000",94015,Westlake,,,Sold,SAN MATEO
+134,365 Half Moon Ln #8,1.0,1.0,Daly City,788 sqft,"Nov 13, 2013","$305,000",37.665306,-122.46369,CA,Condo,305000,"$370,000",94015,Serramonte,,,Sold,SAN MATEO
+135,470 Westmoor Ave,1.0,3.0,Daly City,"1,080 sqft","Nov 12, 2013","$688,000",37.684654,-122.49236,CA,Multi-Family,688000,"$761,000",94015,Westlake,,,Sold,SAN MATEO
+136,112 Longview Dr,2.0,3.0,Daly City,"1,270 sqft","Nov 12, 2013","$300,000",37.663895,-122.4897,CA,Single-Family Home,300000,"$780,000",94015,Westlake,,,Sold,SAN MATEO
+137,1010 San Antonio Cir #222,1.0,1.0,Daly City,655 sqft,"Nov 8, 2013","$250,000",37.70614,-122.441185,CA,Condo,250000,"$348,000",94014,Crocker,,,Sold,SAN MATEO
+138,485 A St #23,1.0,2.0,Daly City,788 sqft,"Nov 8, 2013","$315,000",37.68648,-122.461174,CA,Condo,315000,"$377,000",94014,Hillside,,,Sold,SAN MATEO
+139,485 San Diego Ave,1.0,2.0,Daly City,910 sqft,"Nov 8, 2013","$610,000",37.70157,-122.46636,CA,Single-Family Home,610000,"$508,000",94014,Original Daly City,,,Sold,SAN MATEO
+140,455 Bellevue Ave,1.0,3.0,Daly City,780 sqft,"Nov 8, 2013","$450,000",37.70519,-122.449524,CA,Single-Family Home,450000,"$510,000",94014,Crocker,,,Sold,SAN MATEO
+141,460 Pointe Pacific #1,2.0,2.0,Daly City,"1,394 sqft","Nov 8, 2013","$523,000",37.701283,-122.45738,CA,Condo,523000,"$550,000",94014,Crocker,,,Sold,SAN MATEO
+142,683 Green Ridge Dr #2,2.0,2.0,Daly City,"1,158 sqft","Nov 8, 2013","$467,000",37.699036,-122.454575,CA,Condo,467000,"$528,000",94014,Crocker,,,Sold,SAN MATEO
+143,302 Philip Dr #1,2.5,3.0,Daly City,"1,242 sqft","Nov 8, 2013","$460,000",37.669155,-122.46448,CA,Condo,460000,"$517,000",94015,Serramonte,,,Sold,SAN MATEO
+144,1469 S Mayfair Ave,2.0,3.0,Daly City,"1,190 sqft","Nov 7, 2013","$620,000",37.684074,-122.48774,CA,Single-Family Home,620000,"$790,000",94015,Westlake,,,Sold,SAN MATEO
+145,37 Blossom Ct,1.0,2.0,Daly City,"1,480 sqft","Nov 7, 2013","$533,000",37.693604,-122.45677,CA,Single-Family Home,533000,"$605,000",94014,Hillside,,,Sold,SAN MATEO
+146,15 Fairmont Dr,1.5,2.0,Daly City,"1,220 sqft","Nov 7, 2013","$615,000",37.7003,-122.49288,CA,Single-Family Home,615000,"$816,000",94015,Westlake,,,Sold,SAN MATEO
+147,1025 S Mayfair Ave,2.0,2.0,Daly City,940 sqft,"Nov 6, 2013","$710,000",37.695072,-122.49367,CA,Single-Family Home,710000,"$747,000",94015,Westlake,,,Sold,SAN MATEO
+148,169 Miriam St,1.0,3.0,Daly City,900 sqft,"Nov 6, 2013","$412,000",37.70188,-122.46498,CA,Single-Family Home,412000,"$522,000",94014,Original Daly City,,,Sold,SAN MATEO
+149,30 Roslyn Ct,2.0,3.0,Daly City,"1,370 sqft","Nov 6, 2013","$700,000",37.693306,-122.496025,CA,Single-Family Home,700000,"$729,000",94015,Westlake,,,Sold,SAN MATEO
+150,357 Half Moon Ln #893,1.0,1.0,Daly City,788 sqft,"Nov 6, 2013","$305,000",37.665306,-122.46369,CA,Condo,305000,"$373,000",94015,Serramonte,,,Sold,SAN MATEO
+151,461 Pointe Pacific #4,2.0,2.0,Daly City,"1,394 sqft","Nov 6, 2013","$553,000",37.701283,-122.45738,CA,Condo,553000,"$646,000",94014,Crocker,,,Sold,SAN MATEO
+152,84 Garden Grove Dr,1.5,3.0,Daly City,"1,480 sqft","Nov 6, 2013","$718,000",37.701866,-122.49398,CA,Single-Family Home,718000,"$837,000",94015,Westlake,,,Sold,SAN MATEO
+153,44 2nd Ave,4.0,4.0,Daly City,"3,639 sqft","Nov 5, 2013","$1,045,000",37.692368,-122.46374,CA,Multi-Family,1045000,,94014,Hillside,,,Sold,SAN MATEO
+154,163 Vista Grande Ave,2.0,5.0,Daly City,830 sqft,"Nov 5, 2013","$565,000",37.702946,-122.46491,CA,Single-Family Home,565000,"$568,000",94014,Original Daly City,,,Sold,SAN MATEO
+155,129 Santa Barbara Ave,3.0,4.0,Daly City,"2,270 sqft","Nov 5, 2013","$748,000",37.707508,-122.46442,CA,Single-Family Home,748000,"$785,000",94014,Original Daly City,,,Sold,SAN MATEO
+156,381 Half Moon Ln #449,1.0,1.0,Daly City,717 sqft,"Nov 1, 2013","$320,000",37.665306,-122.46369,CA,Condo,320000,"$342,000",94015,Serramonte,,,Sold,SAN MATEO
+157,605 Lisbon St,,,Daly City,"2,170 sqft","Nov 1, 2013","$745,000",37.68803,-122.457855,CA,Multi-Family,745000,"$809,000",94014,Hillside,,,Sold,SAN MATEO
+158,334 Barbara Ln,2.0,2.0,Daly City,"1,180 sqft","Nov 1, 2013","$490,000",37.656273,-122.46103,CA,Single-Family Home,490000,"$638,000",94015,Serramonte,,,Sold,SAN MATEO
+159,2001 Pine Ct,2.0,3.0,Daly City,"1,254 sqft","Nov 1, 2013","$340,000",37.70775,-122.42592,CA,Condo,340000,"$508,000",94014,Bayshore,,,Sold,SAN MATEO
+160,363 Rhine St,2.0,3.0,Daly City,630 sqft,"Oct 31, 2013","$510,000",37.707497,-122.46248,CA,Single-Family Home,510000,"$641,000",94014,Original Daly City,,,Sold,SAN MATEO
+161,49 Oceanside Dr,1.0,3.0,Daly City,"1,120 sqft","Oct 31, 2013","$500,000",37.673428,-122.49015,CA,Single-Family Home,500000,"$619,000",94015,Westlake,,,Sold,SAN MATEO
+162,523 A St,,,Daly City,"1,120 sqft","Oct 31, 2013","$65,500",37.68628,-122.46036,CA,Multi-Family,65500,"$593,000",94014,Hillside,,,Sold,SAN MATEO
+163,146 E Vista Ave,1.0,3.0,Daly City,"1,210 sqft","Oct 30, 2013","$420,000",37.701912,-122.460335,CA,Single-Family Home,420000,"$539,000",94014,Hillside,,,Sold,SAN MATEO
+164,912 Wildwood Ave,1.0,3.0,Daly City,"1,120 sqft","Oct 30, 2013","$400,000",37.69614,-122.4872,CA,Single-Family Home,400000,"$647,000",94015,Broadmoor,,,Sold,SAN MATEO
+165,53 Parkrose Ave,2.0,3.0,Daly City,"1,390 sqft","Oct 30, 2013","$565,000",37.66023,-122.4718,CA,Single-Family Home,565000,"$708,000",94015,Serramonte,,,Sold,SAN MATEO
+166,45 Hyde Ct #3,2.5,2.0,Daly City,"1,265 sqft","Oct 29, 2013","$515,000",37.652893,-122.45279,CA,Condo,515000,"$563,000",94015,Serramonte,,,Sold,SAN MATEO
+167,430 Saint Francis Blvd,2.0,3.0,Daly City,"1,270 sqft","Oct 29, 2013","$670,000",37.67765,-122.47927,CA,Single-Family Home,670000,"$752,000",94015,St. Francis,,,Sold,SAN MATEO
+168,155 Westmoor Ave,2.0,3.0,Daly City,"1,160 sqft","Oct 29, 2013","$608,000",37.682957,-122.48565,CA,Single-Family Home,608000,"$735,000",94015,Westlake,,,Sold,SAN MATEO
+169,854 N Mayfair Ave,1.0,2.0,Daly City,"1,080 sqft","Oct 28, 2013","$542,000",37.70033,-122.49511,CA,Single-Family Home,542000,"$699,000",94015,Westlake,,,Sold,SAN MATEO
+170,101 Warwick St,2.0,4.0,Daly City,"2,110 sqft","Oct 28, 2013","$809,000",37.6534,-122.46237,CA,Single-Family Home,809000,"$808,000",94015,Serramonte,,,Sold,SAN MATEO
+171,334 1st Ave,1.0,2.0,Daly City,"1,020 sqft","Oct 25, 2013","$535,000",37.687256,-122.464424,CA,Single-Family Home,535000,"$591,000",94014,Hillside,,,Sold,SAN MATEO
+172,184 Canterbury Ave,1.0,3.0,Daly City,"1,220 sqft","Oct 25, 2013","$660,000",37.65177,-122.470535,CA,Single-Family Home,660000,"$730,000",94015,Serramonte,,,Sold,SAN MATEO
+173,317 88th St,4.0,8.0,Daly City,"5,365 sqft","Oct 24, 2013","$1,000,000",37.692307,-122.47499,CA,Multi-Family,1000000,,94015,St. Francis,,,Sold,SAN MATEO
+174,277 Skyline Dr,1.0,2.0,Daly City,"1,050 sqft","Oct 23, 2013","$618,000",37.689056,-122.4916,CA,Single-Family Home,618000,"$664,000",94015,Westlake,,,Sold,SAN MATEO
+175,1767 Sweetwood Dr,1.0,3.0,Daly City,"1,140 sqft","Oct 23, 2013","$595,000",37.688847,-122.4793,CA,Single-Family Home,595000,"$701,000",94015,Broadmoor,,,Sold,SAN MATEO
+176,122 School St,4.0,4.0,Daly City,"3,835 sqft","Oct 23, 2013","$869,000",37.693604,-122.46667,CA,Multi-Family,869000,,94014,Original Daly City,,,Sold,SAN MATEO
+177,44 1st Ave,4.0,8.0,Daly City,"5,334 sqft","Oct 23, 2013","$1,000,000",37.69234,-122.464645,CA,Multi-Family,1000000,,94014,Hillside,,,Sold,SAN MATEO
+178,868 Gellert Blvd,1.0,2.0,Daly City,990 sqft,"Oct 22, 2013","$460,000",37.653126,-122.46067,CA,Single-Family Home,460000,"$594,000",94015,Serramonte,,,Sold,SAN MATEO
+179,224 Accacia St,1.0,2.0,Daly City,830 sqft,"Oct 22, 2013","$510,000",37.7045,-122.416275,CA,Single-Family Home,510000,"$595,000",94014,Bayshore,,,Sold,SAN MATEO
+180,1350 S Mayfair Ave,1.0,2.0,Daly City,"1,060 sqft","Oct 22, 2013","$560,000",37.687107,-122.48886,CA,Single-Family Home,560000,"$712,000",94015,Westlake,,,Sold,SAN MATEO
+181,322 E Moltke St,1.0,3.0,Daly City,"1,770 sqft","Oct 21, 2013","$500,000",37.69438,-122.458015,CA,Single-Family Home,500000,"$660,000",94014,Hillside,,,Sold,SAN MATEO
+182,27 Fairway Dr,1.0,2.0,Daly City,"1,300 sqft","Oct 18, 2013","$680,000",37.701523,-122.47802,CA,Single-Family Home,680000,"$762,000",94015,Westlake,,,Sold,SAN MATEO
+183,66 Fleetwood Dr,1.0,3.0,Daly City,"1,300 sqft","Oct 18, 2013","$730,000",37.702198,-122.48949,CA,Single-Family Home,730000,"$788,000",94015,Westlake,,,Sold,SAN MATEO
+184,706 Skyline Dr,1.0,3.0,Daly City,"1,120 sqft","Oct 18, 2013","$577,000",37.67489,-122.49041,CA,Single-Family Home,577000,"$660,000",94015,Westlake,,,Sold,SAN MATEO
+185,3 Morton Dr,2.0,3.0,Daly City,"1,210 sqft","Oct 18, 2013","$450,000",37.663155,-122.474525,CA,Single-Family Home,450000,"$673,000",94015,Serramonte,,,Sold,SAN MATEO
+186,117 Mirada Dr,2.0,3.0,Daly City,"1,270 sqft","Oct 17, 2013","$680,000",37.683937,-122.47551,CA,Single-Family Home,680000,"$737,000",94015,St. Francis,,,Sold,SAN MATEO
+187,34 Grandview Ave,2.0,3.0,Daly City,"1,160 sqft","Oct 16, 2013","$604,000",37.6756,-122.486534,CA,Single-Family Home,604000,"$719,000",94015,St. Francis,,,Sold,SAN MATEO
+188,1339 S Mayfair Ave,1.0,3.0,Daly City,"1,060 sqft","Oct 16, 2013","$610,000",37.6876,-122.48857,CA,Single-Family Home,610000,"$765,000",94015,Westlake,,,Sold,SAN MATEO
+189,220 Canterbury Ave,2.0,3.0,Daly City,"1,230 sqft","Oct 16, 2013","$550,000",37.65112,-122.470474,CA,Single-Family Home,550000,"$716,000",94015,Serramonte,,,Sold,SAN MATEO
+190,302 Philip Dr #14,2.0,2.0,Daly City,"1,237 sqft","Oct 16, 2013","$325,000",37.669155,-122.46448,CA,Condo,325000,"$463,000",94015,Serramonte,,,Sold,SAN MATEO
+191,247 Frankfort St,1.0,2.0,Daly City,460 sqft,"Oct 15, 2013","$390,000",37.70522,-122.446846,CA,Single-Family Home,390000,"$524,000",94014,Crocker,,,Sold,SAN MATEO
+192,181 Tallwood Dr,3.0,4.0,Daly City,"2,360 sqft","Oct 11, 2013","$659,000",37.699764,-122.45997,CA,Multi-Family,659000,"$704,000",94014,Hillside,,,Sold,SAN MATEO
+193,140 Avalon Dr,2.0,3.0,Daly City,"1,080 sqft","Oct 11, 2013","$615,000",37.684864,-122.491035,CA,Single-Family Home,615000,"$688,000",94015,Westlake,,,Sold,SAN MATEO
+194,303 Philip Dr #145,2.5,3.0,Daly City,"1,242 sqft","Oct 11, 2013","$450,000",37.669155,-122.46448,CA,Condo,450000,"$501,000",94015,Serramonte,,,Sold,SAN MATEO
+195,226 Evergreen Ave,1.0,2.0,Daly City,820 sqft,"Oct 11, 2013","$445,000",37.705807,-122.45615,CA,Single-Family Home,445000,"$606,000",94014,Crocker,,,Sold,SAN MATEO
+196,538 Evergreen Ave,1.0,1.0,Daly City,910 sqft,"Oct 10, 2013","$462,500",37.703773,-122.45505,CA,Single-Family Home,462500,"$583,000",94014,Crocker,,,Sold,SAN MATEO
+197,4484 Callan Blvd,2.0,3.0,Daly City,"1,200 sqft","Oct 10, 2013","$555,000",37.66176,-122.47114,CA,Single-Family Home,555000,"$712,000",94015,Serramonte,,,Sold,SAN MATEO
+198,49 Alexander Ave,1.0,1.0,Daly City,940 sqft,"Oct 10, 2013","$520,000",37.703712,-122.451485,CA,Single-Family Home,520000,"$558,000",94014,Crocker,,,Sold,SAN MATEO
+199,60 Surrey Ct,2.5,3.0,Daly City,"1,720 sqft","Oct 10, 2013","$622,000",37.661133,-122.46687,CA,Single-Family Home,622000,"$785,000",94015,Serramonte,,,Sold,SAN MATEO
+200,649 Linden St,6.0,6.0,Daly City,"5,557 sqft","Oct 10, 2013","$812,000",37.686012,-122.458916,CA,Multi-Family,812000,,94014,Hillside,,,Sold,SAN MATEO
+201,327 Glenwood Ave,1.5,3.0,Daly City,"1,480 sqft","Oct 9, 2013","$760,000",37.69962,-122.49379,CA,Single-Family Home,760000,"$862,000",94015,Westlake,,,Sold,SAN MATEO
+202,191 Huntington Dr,1.5,3.0,Daly City,"1,300 sqft","Oct 9, 2013","$580,000",37.679348,-122.48489,CA,Single-Family Home,580000,"$686,000",94015,St. Francis,,,Sold,SAN MATEO
+203,474 Niantic Ave,1.0,3.0,Daly City,"1,210 sqft","Oct 9, 2013","$560,000",37.70361,-122.46975,CA,Single-Family Home,560000,"$616,000",94014,Original Daly City,,,Sold,SAN MATEO
+204,254 Greenview Dr,2.5,3.0,Daly City,"1,562 sqft","Oct 8, 2013","$590,000",37.703545,-122.4446,CA,Condo,590000,"$667,000",94014,Crocker,,,Sold,SAN MATEO
+205,32 Plymouth Cir,2.0,3.0,Daly City,"1,240 sqft","Oct 8, 2013","$680,000",37.65204,-122.455444,CA,Single-Family Home,680000,"$670,000",94015,Serramonte,,,Sold,SAN MATEO
+206,1005 San Antonio Cir #210,1.0,1.0,Daly City,655 sqft,"Oct 7, 2013","$320,000",37.70614,-122.441185,CA,Condo,320000,"$345,000",94014,Crocker,,,Sold,SAN MATEO
+207,405 91st St #22,2.0,2.0,Daly City,"1,276 sqft","Oct 7, 2013","$480,000",37.69003,-122.47484,CA,Condo,480000,"$505,000",94015,St. Francis,,,Sold,SAN MATEO
+208,583 Green Ridge Dr #7,2.0,2.0,Daly City,"1,443 sqft","Oct 7, 2013","$515,000",37.699036,-122.454575,CA,Condo,515000,"$568,000",94014,Crocker,,,Sold,SAN MATEO
+209,309 Peoria St,1.5,2.0,Daly City,"1,160 sqft","Oct 4, 2013","$640,000",37.70318,-122.457146,CA,Single-Family Home,640000,"$647,000",94014,Crocker,,,Sold,SAN MATEO
+210,632 Midway Ave,2.0,3.0,Daly City,"1,210 sqft","Oct 4, 2013","$510,000",37.692684,-122.48172,CA,Single-Family Home,510000,"$654,000",94015,Broadmoor,,,Sold,SAN MATEO
+211,52 Canterbury Ave,2.0,4.0,Daly City,"1,220 sqft","Oct 3, 2013","$650,000",37.655125,-122.47186,CA,Single-Family Home,650000,"$771,000",94015,Serramonte,,,Sold,SAN MATEO
+212,250 Thiers St,1.0,3.0,Daly City,"1,800 sqft","Oct 3, 2013","$613,000",37.697243,-122.458984,CA,Single-Family Home,613000,"$729,000",94014,Hillside,,,Sold,SAN MATEO
+213,672 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Oct 3, 2013","$555,000",37.67651,-122.49099,CA,Single-Family Home,555000,"$670,000",94015,Westlake,,,Sold,SAN MATEO
+214,565 Mountain Vw #7,2.0,2.0,Daly City,"1,443 sqft","Oct 3, 2013","$512,000",37.69871,-122.457054,CA,Condo,512000,"$580,000",94014,Crocker,,,Sold,SAN MATEO
+215,327 Templeton Ave,1.0,2.0,Daly City,960 sqft,"Oct 3, 2013","$475,000",37.70637,-122.45267,CA,Single-Family Home,475000,"$606,000",94014,Crocker,,,Sold,SAN MATEO
+216,124 Byrne St,4.0,6.0,Daly City,"3,213 sqft","Oct 2, 2013","$750,000",37.688385,-122.459724,CA,Multi-Family,750000,"$835,000",94014,Hillside,,,Sold,SAN MATEO
+217,580 Wyandotte Ave,1.0,3.0,Daly City,"1,350 sqft","Oct 1, 2013","$450,000",37.692238,-122.46023,CA,Single-Family Home,450000,"$624,000",94014,Hillside,,,Sold,SAN MATEO
+218,445 Lakeshire Dr,3.0,3.0,Daly City,"1,480 sqft","Oct 1, 2013","$650,000",37.67282,-122.483086,CA,Single-Family Home,650000,"$744,000",94015,St. Francis,,,Sold,SAN MATEO
+219,31 Rice St,1.0,2.0,Daly City,"1,210 sqft","Oct 1, 2013","$598,000",37.7079,-122.45714,CA,Single-Family Home,598000,"$682,000",94014,Original Daly City,,,Sold,SAN MATEO
+220,368 Imperial Way #627,1.0,,Daly City,483 sqft,"Oct 1, 2013","$210,000",37.665306,-122.46369,CA,Condo,210000,"$262,000",94015,Serramonte,,,Sold,SAN MATEO
+221,178 Accacia St,1.0,4.0,Daly City,"1,330 sqft","Sep 30, 2013","$515,000",37.705536,-122.41581,CA,Single-Family Home,515000,"$585,000",94014,Bayshore,,,Sold,SAN MATEO
+222,633 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Sep 30, 2013","$616,000",37.678303,-122.49065,CA,Single-Family Home,616000,"$633,000",94015,Westlake,,,Sold,SAN MATEO
+223,90 Tallwood Dr,2.0,3.0,Daly City,"1,350 sqft","Sep 30, 2013","$470,000",37.699318,-122.460495,CA,Single-Family Home,470000,"$667,000",94014,Hillside,,,Sold,SAN MATEO
+224,27 Nelson Ct,2.0,3.0,Daly City,"1,400 sqft","Sep 27, 2013","$630,000",37.65294,-122.465225,CA,Single-Family Home,630000,"$788,000",94015,Serramonte,,,Sold,SAN MATEO
+225,1037 Gilman Dr,1.0,3.0,Daly City,820 sqft,"Sep 27, 2013","$550,000",37.688194,-122.47969,CA,Single-Family Home,550000,"$594,000",94015,Broadmoor,,,Sold,SAN MATEO
+226,1029 San Luis Cir #637,1.0,1.0,Daly City,655 sqft,"Sep 27, 2013","$330,000",37.70614,-122.441185,CA,Condo,330000,"$373,000",94014,Crocker,,,Sold,SAN MATEO
+227,85 Theta Ave,1.0,2.0,Daly City,900 sqft,"Sep 27, 2013","$505,000",37.703934,-122.463905,CA,Single-Family Home,505000,"$672,000",94014,Original Daly City,,,Sold,SAN MATEO
+228,552 Verducci Dr,1.5,3.0,Daly City,"1,280 sqft","Sep 27, 2013","$600,000",37.651455,-122.46174,CA,Single-Family Home,600000,"$752,000",94015,Serramonte,,,Sold,SAN MATEO
+229,353 1st Ave,2.0,2.0,Daly City,"1,020 sqft","Sep 27, 2013","$615,000",37.686897,-122.46386,CA,Single-Family Home,615000,"$637,000",94014,Hillside,,,Sold,SAN MATEO
+230,29 Bismark St,1.0,3.0,Daly City,"1,040 sqft","Sep 26, 2013","$515,000",37.695965,-122.46347,CA,Single-Family Home,515000,"$621,000",94014,Hillside,,,Sold,SAN MATEO
+231,1704 Saddleback Dr,2.0,2.0,Daly City,"1,081 sqft","Sep 25, 2013","$425,000",37.70775,-122.42592,CA,Condo,425000,"$532,000",94014,Bayshore,,,Sold,SAN MATEO
+232,316 Skyline Dr,1.0,3.0,Daly City,"1,080 sqft","Sep 25, 2013","$620,000",37.688,-122.49117,CA,Single-Family Home,620000,"$728,000",94015,Westlake,,,Sold,SAN MATEO
+233,167 Mariposa Ave,2.0,3.0,Daly City,"1,270 sqft","Sep 25, 2013","$725,000",37.679813,-122.48223,CA,Single-Family Home,725000,"$740,000",94015,St. Francis,,,Sold,SAN MATEO
+234,185 Hillside Blvd,2.0,3.0,Daly City,"1,090 sqft","Sep 25, 2013","$347,000",37.70176,-122.462,CA,Single-Family Home,347000,"$535,000",94014,Hillside,,,Sold,SAN MATEO
+235,28 Pacifico Ave,3.0,4.0,Daly City,"1,320 sqft","Sep 25, 2013","$632,000",37.672825,-122.48155,CA,Single-Family Home,632000,"$705,000",94015,St. Francis,,,Sold,SAN MATEO
+236,344 Winchester St,1.0,2.0,Daly City,"1,040 sqft","Sep 24, 2013","$439,000",37.706123,-122.454445,CA,Single-Family Home,439000,"$572,000",94014,Crocker,,,Sold,SAN MATEO
+237,253 Bay Ridge Dr,2.5,4.0,Daly City,"2,400 sqft","Sep 24, 2013","$800,000",37.699745,-122.41812,CA,Single-Family Home,800000,"$1,039,000",94014,Bayshore,,,Sold,SAN MATEO
+238,58 Cameo Ct,2.0,3.0,Daly City,"1,140 sqft","Sep 24, 2013","$552,500",37.65941,-122.471596,CA,Single-Family Home,552500,"$730,000",94015,Serramonte,,,Sold,SAN MATEO
+239,485 87th St #4,2.0,2.0,Daly City,"1,050 sqft","Sep 23, 2013","$390,000",37.693047,-122.47784,CA,Condo,390000,"$486,000",94015,Broadmoor,,,Sold,SAN MATEO
+240,619 Skyline Dr,1.0,3.0,Daly City,"1,120 sqft","Sep 23, 2013","$500,000",37.678932,-122.490616,CA,Single-Family Home,500000,"$636,000",94015,Westlake,,,Sold,SAN MATEO
+241,139 Santa Paula Dr,2.0,3.0,Daly City,"1,270 sqft","Sep 20, 2013","$680,000",37.683662,-122.474625,CA,Single-Family Home,680000,"$738,000",94015,St. Francis,,,Sold,SAN MATEO
+242,1418 Eddington Ln,2.0,2.0,Daly City,"1,321 sqft","Sep 20, 2013","$501,000",37.703545,-122.4446,CA,Condo,501000,"$570,000",94014,Crocker,,,Sold,SAN MATEO
+243,377 Mandarin Dr #314,2.0,2.0,Daly City,"1,131 sqft","Sep 20, 2013","$426,500",37.665306,-122.46369,CA,Condo,426500,"$465,000",94015,Serramonte,,,Sold,SAN MATEO
+244,23 Fernwood Ave,1.5,3.0,Daly City,"1,230 sqft","Sep 20, 2013","$760,000",37.690212,-122.49405,CA,Single-Family Home,760000,"$717,000",94015,Westlake,,,Sold,SAN MATEO
+245,142 Eastmoor Ave,2.5,3.0,Daly City,"1,272 sqft","Sep 20, 2013","$427,500",37.68514,-122.480354,CA,Condo,427500,"$515,000",94015,St. Francis,,,Sold,SAN MATEO
+246,258 Saint Catherine Dr,2.0,3.0,Daly City,"1,320 sqft","Sep 20, 2013","$626,000",37.677868,-122.481895,CA,Single-Family Home,626000,"$724,000",94015,St. Francis,,,Sold,SAN MATEO
+247,726 Niantic Ave,1.0,3.0,Daly City,"1,470 sqft","Sep 20, 2013","$750,000",37.699062,-122.46932,CA,Single-Family Home,750000,"$718,000",94014,Original Daly City,,,Sold,SAN MATEO
+248,260 Westridge Ave,2.0,3.0,Daly City,"1,230 sqft","Sep 19, 2013","$630,000",37.689636,-122.49431,CA,Single-Family Home,630000,"$749,000",94015,Westlake,,,Sold,SAN MATEO
+249,60 Mateo Ave,1.0,2.0,Daly City,"1,270 sqft","Sep 18, 2013","$605,000",37.692226,-122.46725,CA,Single-Family Home,605000,"$584,000",94014,Original Daly City,,,Sold,SAN MATEO
+250,118 E Vista Ave,1.0,3.0,Daly City,"1,060 sqft","Sep 18, 2013","$575,000",37.70282,-122.46105,CA,Single-Family Home,575000,"$514,000",94014,Hillside,,,Sold,SAN MATEO
+251,429 Accacia St,2.5,5.0,Daly City,"1,580 sqft","Sep 18, 2013","$900,000",37.700687,-122.41737,CA,Single-Family Home,900000,"$937,000",94014,Bayshore,,,Sold,SAN MATEO
+252,1551 Southgate Ave #316,1.0,2.0,Daly City,"1,029 sqft","Sep 18, 2013","$340,000",37.67673,-122.4747,CA,Condo,340000,"$415,000",94015,St. Francis,,,Sold,SAN MATEO
+253,183 Whittier St,1.0,2.0,Daly City,"1,250 sqft","Sep 18, 2013","$670,000",37.708218,-122.446915,CA,Multi-Family,670000,"$611,000",94014,Crocker,,,Sold,SAN MATEO
+254,427 Northaven Dr,2.0,3.0,Daly City,"1,180 sqft","Sep 17, 2013","$675,000",37.673218,-122.483986,CA,Single-Family Home,675000,"$731,000",94015,St. Francis,,,Sold,SAN MATEO
+255,349 Philip Dr #112,2.0,2.0,Daly City,"1,237 sqft","Sep 17, 2013","$450,000",37.669155,-122.46448,CA,Condo,450000,"$456,000",94015,Serramonte,,,Sold,SAN MATEO
+256,350 Woodrow St,1.0,3.0,Daly City,"1,050 sqft","Sep 17, 2013","$600,000",37.69852,-122.46726,CA,Single-Family Home,600000,"$650,000",94014,Original Daly City,,,Sold,SAN MATEO
+257,368 Eastmoor Ave,2.0,3.0,Daly City,"1,270 sqft","Sep 17, 2013","$630,000",37.684395,-122.47562,CA,Single-Family Home,630000,"$740,000",94015,St. Francis,,,Sold,SAN MATEO
+258,72 Zita Mnr,2.0,3.0,Daly City,"1,370 sqft","Sep 17, 2013","$700,000",37.68617,-122.47916,CA,Single-Family Home,700000,"$753,000",94015,St. Francis,,,Sold,SAN MATEO
+259,651 Hickey Blvd,2.0,3.0,Daly City,"1,240 sqft","Sep 13, 2013","$649,000",37.662327,-122.47516,CA,Single-Family Home,649000,"$703,000",94015,Serramonte,,,Sold,SAN MATEO
+260,708 Clarinada Ave,2.0,3.0,Daly City,"1,270 sqft","Sep 13, 2013","$670,000",37.671444,-122.483635,CA,Single-Family Home,670000,"$762,000",94015,St. Francis,,,Sold,SAN MATEO
+261,1001 San Antonio Cir #16,1.5,2.0,Daly City,923 sqft,"Sep 13, 2013","$415,000",37.70614,-122.441185,CA,Condo,415000,"$456,000",94014,Crocker,,,Sold,SAN MATEO
+262,1551 Southgate Ave #114,1.5,2.0,Daly City,"1,029 sqft","Sep 13, 2013","$370,000",37.67673,-122.4747,CA,Condo,370000,"$436,000",94015,St. Francis,,,Sold,SAN MATEO
+263,3 Bacon Ct,2.0,3.0,Daly City,"1,240 sqft","Sep 13, 2013","$690,000",37.663967,-122.47406,CA,Single-Family Home,690000,"$748,000",94015,Serramonte,,,Sold,SAN MATEO
+264,266 1st Ave,1.0,2.0,Daly City,"1,020 sqft","Sep 13, 2013","$586,000",37.68853,-122.46443,CA,Single-Family Home,586000,"$571,000",94014,Hillside,,,Sold,SAN MATEO
+265,383 Mandarin Dr #140,1.5,2.0,Daly City,"1,048 sqft","Sep 13, 2013","$425,000",37.665306,-122.46369,CA,Condo,425000,"$458,000",94015,Serramonte,,,Sold,SAN MATEO
+266,573 King Dr,2.0,3.0,Daly City,"1,240 sqft","Sep 12, 2013","$690,000",37.650997,-122.454865,CA,Single-Family Home,690000,"$723,000",94015,,,,Sold,SAN MATEO
+267,683 Green Ridge Dr #7,2.0,2.0,Daly City,"1,443 sqft","Sep 12, 2013","$520,000",37.699036,-122.454575,CA,Condo,520000,"$612,000",94014,Crocker,,,Sold,SAN MATEO
+268,355 Half Moon Ln #908,1.0,1.0,Daly City,788 sqft,"Sep 12, 2013","$290,000",37.665306,-122.46369,CA,Condo,290000,"$374,000",94015,Serramonte,,,Sold,SAN MATEO
+269,1752 Louvaine Dr,2.0,2.0,Daly City,"1,230 sqft","Sep 12, 2013","$570,000",37.6892,-122.477905,CA,Single-Family Home,570000,"$591,000",94015,Broadmoor,,,Sold,SAN MATEO
+270,306 Philip Dr,2.5,3.0,Daly City,"1,624 sqft","Sep 12, 2013","$435,000",37.669155,-122.46448,CA,Condo,435000,"$556,000",94015,Serramonte,,,Sold,SAN MATEO
+271,707 Southgate Ave,1.0,3.0,Daly City,"1,190 sqft","Sep 12, 2013","$672,000",37.692287,-122.49089,CA,Single-Family Home,672000,"$833,000",94015,Westlake,,,Sold,SAN MATEO
+272,622 Abbot Ave,,,Daly City,"2,150 sqft","Sep 11, 2013","$645,000",37.68814,-122.45744,CA,Multi-Family,645000,"$839,000",94014,Hillside,,,Sold,SAN MATEO
+273,313 Bellevue Ave,2.0,3.0,Daly City,"1,330 sqft","Sep 10, 2013","$625,500",37.70623,-122.44658,CA,Single-Family Home,625500,"$729,000",94014,Crocker,,,Sold,SAN MATEO
+274,908 Higate Dr,1.0,3.0,Daly City,"1,110 sqft","Sep 10, 2013","$720,000",37.670166,-122.48493,CA,Single-Family Home,720000,"$765,000",94015,St. Francis,,,Sold,SAN MATEO
+275,755 Templeton Ave,,,Daly City,"7,990 sqft","Sep 10, 2013","$1,755,000",37.70313,-122.451004,CA,Multi-Family,1755000,,94014,Crocker,,,Sold,SAN MATEO
+276,368 Imperial Way #650,2.0,2.0,Daly City,"1,065 sqft","Sep 10, 2013","$350,000",37.665306,-122.46369,CA,Condo,350000,"$434,000",94015,Serramonte,,,Sold,SAN MATEO
+277,729 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Sep 10, 2013","$585,000",37.674313,-122.489586,CA,Single-Family Home,585000,"$685,000",94015,Westlake,,,Sold,SAN MATEO
+278,235 Irvington St,1.0,2.0,Daly City,"1,410 sqft","Sep 9, 2013","$545,000",37.70706,-122.45486,CA,Single-Family Home,545000,"$630,000",94014,Crocker,,,Sold,SAN MATEO
+279,785 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Sep 9, 2013","$680,000",37.672485,-122.48881,CA,Single-Family Home,680000,"$686,000",94015,Westlake,,,Sold,SAN MATEO
+280,381 Half Moon Ln #206,1.0,1.0,Daly City,817 sqft,"Sep 9, 2013","$325,000",37.665306,-122.46369,CA,Condo,325000,"$381,000",94015,Serramonte,,,Sold,SAN MATEO
+281,47 Woodrow St,1.0,2.0,Daly City,"1,150 sqft","Sep 6, 2013","$530,000",37.704098,-122.467285,CA,Single-Family Home,530000,"$548,000",94014,Original Daly City,,,Sold,SAN MATEO
+282,80 Bepler St,2.0,3.0,Daly City,900 sqft,"Sep 5, 2013","$540,500",37.707355,-122.46234,CA,Single-Family Home,540500,"$627,000",94014,Original Daly City,,,Sold,SAN MATEO
+283,1118 S Mayfair Ave,1.0,2.0,Daly City,940 sqft,"Sep 5, 2013","$730,000",37.692394,-122.4937,CA,Single-Family Home,730000,"$709,000",94015,Westlake,,,Sold,SAN MATEO
+284,349 Philip Dr #120,2.0,2.0,Daly City,"1,237 sqft","Sep 4, 2013","$430,000",37.669155,-122.46448,CA,Condo,430000,"$463,000",94015,Serramonte,,,Sold,SAN MATEO
+285,51 Chester St #2,1.5,2.0,Daly City,838 sqft,"Sep 4, 2013","$285,000",37.687294,-122.45938,CA,Condo,285000,"$334,000",94014,Hillside,,,Sold,SAN MATEO
+286,1147 87th St,1.0,3.0,Daly City,"1,120 sqft","Aug 30, 2013","$620,000",37.69237,-122.49209,CA,Single-Family Home,620000,"$781,000",94015,Westlake,,,Sold,SAN MATEO
+287,18 Fairview Ave,3.0,4.0,Daly City,"1,490 sqft","Aug 30, 2013","$752,000",37.688133,-122.48634,CA,Single-Family Home,752000,"$814,000",94015,Westlake,,,Sold,SAN MATEO
+288,387 Imperial Way #3,1.0,1.0,Daly City,788 sqft,"Aug 30, 2013","$305,000",37.665306,-122.46369,CA,Condo,305000,"$374,000",94015,Serramonte,,,Sold,SAN MATEO
+289,368 Skyline Dr,1.0,3.0,Daly City,"1,080 sqft","Aug 30, 2013","$610,000",37.686707,-122.490265,CA,Single-Family Home,610000,"$833,000",94015,Westlake,,,Sold,SAN MATEO
+290,338 Woodrow St,1.0,3.0,Daly City,"1,030 sqft","Aug 30, 2013","$530,000",37.698727,-122.46726,CA,Single-Family Home,530000,"$610,000",94014,Original Daly City,,,Sold,SAN MATEO
+291,235 Fairlawn Ave,1.0,2.0,Daly City,940 sqft,"Aug 30, 2013","$625,000",37.696426,-122.492256,CA,Single-Family Home,625000,"$685,000",94015,Westlake,,,Sold,SAN MATEO
+292,310 Ardendale Dr,2.0,3.0,Daly City,"1,160 sqft","Aug 29, 2013","$465,000",37.705784,-122.43667,CA,Single-Family Home,465000,"$698,000",94014,Southern Hills,,,Sold,SAN MATEO
+293,1071 87th St,1.0,3.0,Daly City,"1,120 sqft","Aug 29, 2013","$630,000",37.692593,-122.490456,CA,Single-Family Home,630000,"$771,000",94015,Westlake,,,Sold,SAN MATEO
+294,35 Park Manor Dr,1.0,2.0,Daly City,940 sqft,"Aug 29, 2013","$660,000",37.69488,-122.4928,CA,Single-Family Home,660000,"$740,000",94015,Westlake,,,Sold,SAN MATEO
+295,91 Parnell Ave,2.0,3.0,Daly City,"1,400 sqft","Aug 28, 2013","$655,000",37.658005,-122.46766,CA,Single-Family Home,655000,"$725,000",94015,Serramonte,,,Sold,SAN MATEO
+296,373 Half Moon Ln #309,1.0,1.0,Daly City,717 sqft,"Aug 28, 2013","$286,000",37.665306,-122.46369,CA,Condo,286000,"$346,000",94015,Serramonte,,,Sold,SAN MATEO
+297,59 Parkrose Ave,1.5,3.0,Daly City,"1,360 sqft","Aug 28, 2013","$630,000",37.660034,-122.47176,CA,Single-Family Home,630000,"$752,000",94015,Serramonte,,,Sold,SAN MATEO
+298,318 E Moltke St,2.0,4.0,Daly City,"1,770 sqft","Aug 27, 2013","$630,000",37.694378,-122.45818,CA,Single-Family Home,630000,"$762,000",94014,Hillside,,,Sold,SAN MATEO
+299,216 Templeton Ave,1.0,2.0,Daly City,850 sqft,"Aug 27, 2013","$453,000",37.706676,-122.453835,CA,Single-Family Home,453000,"$579,000",94014,Crocker,,,Sold,SAN MATEO
+300,74 Portola Ave,2.0,3.0,Daly City,"1,230 sqft","Aug 27, 2013","$677,500",37.672127,-122.485565,CA,Single-Family Home,677500,"$768,000",94015,St. Francis,,,Sold,SAN MATEO
+301,304 Oak Ct,2.0,2.0,Daly City,906 sqft,"Aug 27, 2013","$450,000",37.70767,-122.427124,CA,Condo,450000,"$482,000",94014,Bayshore,,,Sold,SAN MATEO
+302,1010 San Antonio Cir #125,1.0,,Daly City,445 sqft,"Aug 23, 2013","$180,500",37.70614,-122.441185,CA,Condo,180500,"$232,000",94014,Crocker,,,Sold,SAN MATEO
+303,607 Larchmont Dr,1.0,3.0,Daly City,"1,010 sqft","Aug 23, 2013","$585,000",37.686802,-122.48243,CA,Single-Family Home,585000,"$708,000",94015,Broadmoor,,,Sold,SAN MATEO
+304,451 Niantic Ave,1.0,1.0,Daly City,660 sqft,"Aug 22, 2013","$800,000",37.70402,-122.46927,CA,Single-Family Home,800000,"$505,000",94014,Original Daly City,,,Sold,SAN MATEO
+305,195 Glenwood Ave,1.0,2.0,Daly City,"1,220 sqft","Aug 21, 2013","$660,000",37.700676,-122.48974,CA,Single-Family Home,660000,"$755,000",94015,Westlake,,,Sold,SAN MATEO
+306,886 Bellevue Ave,2.0,3.0,Daly City,830 sqft,"Aug 21, 2013","$607,000",37.702774,-122.45773,CA,Single-Family Home,607000,"$668,000",94014,Crocker,,,Sold,SAN MATEO
+307,655 Skyline Dr,2.0,3.0,Daly City,"1,150 sqft","Aug 21, 2013","$450,000",37.6773,-122.490585,CA,Single-Family Home,450000,"$674,000",94015,Westlake,,,Sold,SAN MATEO
+308,79 Westmont Dr,1.5,3.0,Daly City,"1,420 sqft","Aug 20, 2013","$688,000",37.701965,-122.491806,CA,Single-Family Home,688000,"$844,000",94015,Westlake,,,Sold,SAN MATEO
+309,40 Belmont Dr,1.0,2.0,Daly City,"1,220 sqft","Aug 20, 2013","$675,000",37.704033,-122.48135,CA,Single-Family Home,675000,"$751,000",94015,Westlake,,,Sold,SAN MATEO
+310,396 Imperial Way #310,1.0,1.0,Daly City,817 sqft,"Aug 20, 2013","$370,000",37.665306,-122.46369,CA,Condo,370000,"$371,000",94015,Serramonte,,,Sold,SAN MATEO
+311,376 Imperial Way #495,1.0,1.0,Daly City,717 sqft,"Aug 19, 2013","$275,000",37.665306,-122.46369,CA,Condo,275000,"$334,000",94015,Serramonte,,,Sold,SAN MATEO
+312,163 Santa Barbara Ave,1.0,1.0,Daly City,270 sqft,"Aug 19, 2013","$112,500",37.706886,-122.46402,CA,Single-Family Home,112500,"$275,000",94014,Original Daly City,,,Sold,SAN MATEO
+313,28 Cliffside Dr,1.0,2.0,Daly City,"1,080 sqft","Aug 16, 2013","$705,000",37.70389,-122.48225,CA,Single-Family Home,705000,"$756,000",94015,Westlake,,,Sold,SAN MATEO
+314,399 Imperial Way #334,1.5,2.0,Daly City,"1,048 sqft","Aug 16, 2013","$407,000",37.665306,-122.46369,CA,Condo,407000,"$465,000",94015,Serramonte,,,Sold,SAN MATEO
+315,225 Fairlawn Ave,1.5,3.0,Daly City,"1,490 sqft","Aug 16, 2013","$753,000",37.696426,-122.49203,CA,Single-Family Home,753000,"$845,000",94015,Westlake,,,Sold,SAN MATEO
+316,84 Ocean Grove Ave,1.0,3.0,Daly City,"1,350 sqft","Aug 16, 2013","$772,000",37.686073,-122.48673,CA,Multi-Family,772000,"$790,000",94015,Westlake,,,Sold,SAN MATEO
+317,72 Alta Vista Way,2.0,2.0,Daly City,"1,170 sqft","Aug 15, 2013","$617,500",37.704655,-122.43255,CA,Single-Family Home,617500,"$681,000",94014,Southern Hills,,,Sold,SAN MATEO
+318,739 Washington St,1.0,2.0,Daly City,"1,030 sqft","Aug 15, 2013","$395,000",37.688885,-122.47755,CA,Single-Family Home,395000,"$543,000",94015,Broadmoor,,,Sold,SAN MATEO
+319,445 Saint Francis Blvd,2.0,3.0,Daly City,"1,270 sqft","Aug 13, 2013","$688,500",37.67732,-122.47868,CA,Single-Family Home,688500,"$717,000",94015,St. Francis,,,Sold,SAN MATEO
+320,1859 Sweetwood Dr,1.0,3.0,Daly City,"1,060 sqft","Aug 12, 2013","$625,000",37.69156,-122.47824,CA,Single-Family Home,625000,"$659,000",94015,Broadmoor,,,Sold,SAN MATEO
+321,476 Irvington St,4.5,5.0,Daly City,"2,583 sqft","Aug 12, 2013","$800,000",37.70574,-122.46024,CA,Multi-Family,800000,"$907,000",94014,Crocker,,,Sold,SAN MATEO
+322,252 Canyon Dr,3.0,3.0,Daly City,"1,210 sqft","Aug 9, 2013","$660,000",37.7075,-122.43474,CA,Single-Family Home,660000,"$692,000",94014,Southern Hills,,,Sold,SAN MATEO
+323,155 Parkview Ave,1.0,2.0,Daly City,740 sqft,"Aug 9, 2013","$480,000",37.70106,-122.46552,CA,Single-Family Home,480000,"$561,000",94014,Original Daly City,,,Sold,SAN MATEO
+324,843 Wildwood Ave,1.0,3.0,Daly City,"1,230 sqft","Aug 9, 2013","$540,000",37.695797,-122.48631,CA,Single-Family Home,540000,"$713,000",94015,Broadmoor,,,Sold,SAN MATEO
+325,1551 Southgate Ave #250,1.5,2.0,Daly City,"1,029 sqft","Aug 9, 2013","$373,000",37.67673,-122.4747,CA,Condo,373000,"$437,000",94015,St. Francis,,,Sold,SAN MATEO
+326,142 Belcrest Ave,1.0,3.0,Daly City,"1,070 sqft","Aug 9, 2013","$600,000",37.664658,-122.49084,CA,Single-Family Home,600000,"$648,000",94015,Westlake,,,Sold,SAN MATEO
+327,801 Saint Francis Blvd,3.5,4.0,Daly City,"2,360 sqft","Aug 9, 2013","$680,000",37.668922,-122.47985,CA,Single-Family Home,680000,"$805,000",94015,Serramonte,,,Sold,SAN MATEO
+328,275 Avalon Dr,1.0,3.0,Daly City,"1,120 sqft","Aug 8, 2013","$592,000",37.681206,-122.4911,CA,Single-Family Home,592000,"$661,000",94015,Westlake,,,Sold,SAN MATEO
+329,171 Station Ave,2.0,4.0,Daly City,"1,180 sqft","Aug 7, 2013","$598,000",37.6921,-122.4687,CA,Single-Family Home,598000,"$638,000",94014,Original Daly City,,,Sold,SAN MATEO
+330,370 Imperial Way #669,2.0,2.0,Daly City,847 sqft,"Aug 7, 2013","$375,000",37.665306,-122.46369,CA,Condo,375000,"$406,000",94015,Serramonte,,,Sold,SAN MATEO
+331,520 Pointe Pacific #4,2.0,2.0,Daly City,"1,394 sqft","Aug 6, 2013","$585,000",37.70135,-122.45605,CA,Condo,585000,"$628,000",94014,Crocker,,,Sold,SAN MATEO
+332,780 Skyline Dr,1.0,3.0,Daly City,"1,120 sqft","Aug 6, 2013","$590,000",37.67255,-122.48942,CA,Single-Family Home,590000,"$659,000",94015,Westlake,,,Sold,SAN MATEO
+333,1713 Hampton Ln,2.0,2.0,Daly City,969 sqft,"Aug 6, 2013","$450,000",37.703545,-122.4446,CA,Condo,450000,"$502,000",94014,Crocker,,,Sold,SAN MATEO
+334,206 Melissa Cir,3.0,4.0,Daly City,"1,700 sqft","Aug 6, 2013","$750,000",37.698563,-122.45922,CA,Single-Family Home,750000,"$853,000",94014,Hillside,,,Sold,SAN MATEO
+335,948 Hillside Blvd,2.0,4.0,Daly City,"1,770 sqft","Aug 6, 2013","$635,000",37.69084,-122.46161,CA,Single-Family Home,635000,"$711,000",94014,Hillside,,,Sold,SAN MATEO
+336,60 San Miguel Ave,2.0,3.0,Daly City,"1,270 sqft","Aug 2, 2013","$660,000",37.674908,-122.48142,CA,Single-Family Home,660000,"$762,000",94015,St. Francis,,,Sold,SAN MATEO
+337,70 Lausanne Ave,4.0,5.0,Daly City,"4,348 sqft","Aug 2, 2013","$730,000",37.69993,-122.459656,CA,Multi-Family,730000,,94014,Hillside,,,Sold,SAN MATEO
+338,938 Gellert Blvd,2.0,3.0,Daly City,"1,730 sqft","Aug 2, 2013","$657,000",37.651855,-122.45841,CA,Single-Family Home,657000,"$745,000",94015,Serramonte,,,Sold,SAN MATEO
+339,51 Chester St #1,1.5,2.0,Daly City,838 sqft,"Aug 1, 2013","$255,000",37.687294,-122.45938,CA,Condo,255000,"$371,000",94014,Hillside,,,Sold,SAN MATEO
+340,725 Mountain Vw #4,2.0,2.0,Daly City,"1,394 sqft","Jul 31, 2013","$499,000",37.698437,-122.45348,CA,Condo,499000,"$592,000",94014,Crocker,,,Sold,SAN MATEO
+341,353 Philip Dr #87,2.0,2.0,Daly City,"1,237 sqft","Jul 31, 2013","$420,000",37.669155,-122.46448,CA,Condo,420000,"$455,000",94015,Serramonte,,,Sold,SAN MATEO
+342,170 San Fernando Way,2.0,3.0,Daly City,"1,270 sqft","Jul 31, 2013","$663,000",37.681934,-122.475395,CA,Single-Family Home,663000,"$740,000",94015,St. Francis,,,Sold,SAN MATEO
+343,565 Mountain Vw #3,2.0,2.0,Daly City,"1,158 sqft","Jul 31, 2013","$490,000",37.69871,-122.457054,CA,Condo,490000,"$534,000",94014,Crocker,,,Sold,SAN MATEO
+344,835 Stoneyford Dr,2.0,3.0,Daly City,"1,305 sqft","Jul 31, 2013","$670,000",37.69235,-122.488686,CA,Single-Family Home,670000,"$724,000",94015,Broadmoor,,,Sold,SAN MATEO
+345,340 Rio Verde St,1.0,2.0,Daly City,790 sqft,"Jul 31, 2013","$375,000",37.70288,-122.41794,CA,Single-Family Home,375000,"$598,000",94014,Bayshore,,,Sold,SAN MATEO
+346,92 Canterbury Ave,2.0,4.0,Daly City,"1,530 sqft","Jul 30, 2013","$630,000",37.65344,-122.47098,CA,Single-Family Home,630000,"$796,000",94015,Serramonte,,,Sold,SAN MATEO
+347,441 Southgate Ave,1.0,2.0,Daly City,940 sqft,"Jul 30, 2013","$551,000",37.6971,-122.488716,CA,Single-Family Home,551000,"$688,000",94015,Westlake,,,Sold,SAN MATEO
+348,398 Westmoor Ave,2.0,3.0,Daly City,"1,130 sqft","Jul 30, 2013","$610,000",37.683693,-122.490746,CA,Single-Family Home,610000,"$664,000",94015,Westlake,,,Sold,SAN MATEO
+349,240 Westbrook Ave,1.0,2.0,Daly City,"1,220 sqft","Jul 30, 2013","$625,000",37.697964,-122.49319,CA,Single-Family Home,625000,"$746,000",94015,Westlake,,,Sold,SAN MATEO
+350,2407 Lupine Ct,2.0,3.0,Daly City,"1,200 sqft","Jul 30, 2013","$450,000",37.707535,-122.425,CA,Condo,450000,"$472,000",94014,Bayshore,,,Sold,SAN MATEO
+351,289 Bay Ridge Dr,2.5,3.0,Daly City,"2,040 sqft","Jul 30, 2013","$829,000",37.700317,-122.4195,CA,Single-Family Home,829000,"$935,000",94014,Bayshore,,,Sold,SAN MATEO
+352,391 Mandarin Dr #44,1.0,1.0,Daly City,717 sqft,"Jul 30, 2013","$302,000",37.665306,-122.46369,CA,Condo,302000,"$346,000",94015,Serramonte,,,Sold,SAN MATEO
+353,1831 Louvaine Dr,2.0,2.0,Daly City,"1,660 sqft","Jul 29, 2013","$660,000",37.690678,-122.47824,CA,Single-Family Home,660000,"$724,000",94015,Broadmoor,,,Sold,SAN MATEO
+354,96 Teresa St,1.5,3.0,Daly City,"1,350 sqft","Jul 26, 2013","$610,000",37.69093,-122.46012,CA,Single-Family Home,610000,"$626,000",94014,Hillside,,,Sold,SAN MATEO
+355,1551 Southgate Ave #252,1.5,2.0,Daly City,"1,029 sqft","Jul 26, 2013","$375,000",37.67673,-122.4747,CA,Condo,375000,"$459,000",94015,St. Francis,,,Sold,SAN MATEO
+356,476 Hanover St,1.0,2.0,Daly City,"1,110 sqft","Jul 26, 2013","$580,000",37.70824,-122.446594,CA,Single-Family Home,580000,"$639,000",94014,Crocker Amazon,,,Sold,SAN MATEO
+357,375 Castle St,2.5,3.0,Daly City,"2,380 sqft","Jul 25, 2013","$888,000",37.691948,-122.4618,CA,Single-Family Home,888000,"$820,000",94014,Hillside,,,Sold,SAN MATEO
+358,425 Mountain Vw #9,2.0,2.0,Daly City,"1,158 sqft","Jul 25, 2013","$430,000",37.69871,-122.457054,CA,Condo,430000,"$541,000",94014,Crocker,,,Sold,SAN MATEO
+359,638 Stoneyford Dr,1.0,3.0,Daly City,"1,300 sqft","Jul 25, 2013","$638,000",37.688137,-122.485985,CA,Single-Family Home,638000,"$815,000",94015,Westlake,,,Sold,SAN MATEO
+360,221 Canterbury Ave,1.5,3.0,Daly City,"1,170 sqft","Jul 24, 2013","$652,000",37.65117,-122.4699,CA,Single-Family Home,652000,"$684,000",94015,Serramonte,,,Sold,SAN MATEO
+361,405 Oak Ct,2.0,3.0,Daly City,"1,254 sqft","Jul 24, 2013","$435,000",37.70767,-122.427124,CA,Condo,435000,"$490,000",94014,Bayshore,,,Sold,SAN MATEO
+362,166 Wembley Dr,2.0,3.0,Daly City,"1,300 sqft","Jul 24, 2013","$735,000",37.663464,-122.47359,CA,Single-Family Home,735000,"$741,000",94015,Serramonte,,,Sold,SAN MATEO
+363,48 Goethe St,1.5,3.0,Daly City,"1,290 sqft","Jul 23, 2013","$605,000",37.708015,-122.45782,CA,Single-Family Home,605000,"$626,000",94014,Original Daly City,,,Sold,SAN MATEO
+364,74 Ardendale Dr,2.0,3.0,Daly City,"1,270 sqft","Jul 23, 2013","$658,000",37.705875,-122.43194,CA,Single-Family Home,658000,"$744,000",94014,Southern Hills,,,Sold,SAN MATEO
+365,51 Belhaven Ave,2.0,3.0,Daly City,"1,320 sqft","Jul 22, 2013","$740,000",37.673782,-122.48179,CA,Single-Family Home,740000,"$797,000",94015,St. Francis,,,Sold,SAN MATEO
+366,1018 San Gabriel Cir #421,1.0,1.0,Daly City,655 sqft,"Jul 19, 2013","$290,000",37.70614,-122.441185,CA,Condo,290000,"$379,000",94014,Crocker,,,Sold,SAN MATEO
+367,924 Southgate Ave,3.0,4.0,Daly City,"2,250 sqft","Jul 19, 2013","$750,000",37.685024,-122.48741,CA,Single-Family Home,750000,"$923,000",94015,Westlake,,,Sold,SAN MATEO
+368,79 Carleton Ave,2.0,4.0,Daly City,"1,280 sqft","Jul 18, 2013","$668,000",37.682148,-122.486664,CA,Single-Family Home,668000,"$683,000",94015,St. Francis,,,Sold,SAN MATEO
+369,224 Glenwood Ave,2.5,2.0,Daly City,"1,380 sqft","Jul 18, 2013","$732,000",37.70075,-122.490685,CA,Single-Family Home,732000,"$826,000",94015,Westlake,,,Sold,SAN MATEO
+370,1011 San Gabriel Cir #516,1.5,2.0,Daly City,784 sqft,"Jul 17, 2013","$382,000",37.70614,-122.441185,CA,Condo,382000,"$457,000",94014,Crocker,,,Sold,SAN MATEO
+371,302 Philip Dr #2,1.0,1.0,Daly City,861 sqft,"Jul 17, 2013","$306,000",37.669155,-122.46448,CA,Condo,306000,"$369,000",94015,Serramonte,,,Sold,SAN MATEO
+372,86 Eaton Ave,2.0,3.0,Daly City,"1,150 sqft","Jul 17, 2013","$549,000",37.67855,-122.49264,CA,Single-Family Home,549000,"$675,000",94015,Westlake,,,Sold,SAN MATEO
+373,515 King Dr #6,2.5,2.0,Daly City,"1,530 sqft","Jul 16, 2013","$522,000",37.653706,-122.45306,CA,Condo,522000,"$579,000",94015,Serramonte,,,Sold,SAN MATEO
+374,140 3rd Ave,,,Daly City,,"Jul 16, 2013","$800,000",37.690998,-122.46275,CA,Single-Family Home,800000,"$382,000",94014,Hillside,,,Sold,SAN MATEO
+375,931 Bradley Dr,1.0,3.0,Daly City,"1,120 sqft","Jul 12, 2013","$549,000",37.689804,-122.488434,CA,Single-Family Home,549000,"$684,000",94015,Broadmoor,,,Sold,SAN MATEO
+376,170 Oriente St,1.5,2.0,Daly City,800 sqft,"Jul 12, 2013","$506,000",37.70536,-122.41493,CA,Single-Family Home,506000,"$526,000",94014,Bayshore,,,Sold,SAN MATEO
+377,98 Upland Ave,2.0,3.0,Daly City,"1,170 sqft","Jul 12, 2013","$750,000",37.685814,-122.49219,CA,Single-Family Home,750000,"$741,000",94015,Westlake,,,Sold,SAN MATEO
+378,84 Cityview Dr,3.0,2.0,Daly City,"1,487 sqft","Jul 12, 2013","$518,000",37.703545,-122.4446,CA,Condo,518000,"$636,000",94014,Crocker,,,Sold,SAN MATEO
+379,608 Florence St,1.0,2.0,Daly City,"1,070 sqft","Jul 12, 2013","$567,500",37.689922,-122.45595,CA,Single-Family Home,567500,"$585,000",94014,Hillside,,,Sold,SAN MATEO
+380,272 Northgate Ave,2.0,3.0,Daly City,"2,040 sqft","Jul 11, 2013","$830,000",37.702515,-122.49271,CA,Single-Family Home,830000,"$939,000",94015,Westlake,,,Sold,SAN MATEO
+381,138 3rd Ave,1.0,1.0,Daly City,590 sqft,"Jul 11, 2013","$815,000",37.691067,-122.46275,CA,Single-Family Home,815000,"$573,000",94014,Hillside,,,Sold,SAN MATEO
+382,99 Wakefield Ave,2.0,4.0,Daly City,"1,830 sqft","Jul 11, 2013","$727,500",37.65337,-122.46989,CA,Single-Family Home,727500,"$869,000",94015,Serramonte,,,Sold,SAN MATEO
+383,796 Hillside Blvd,3.0,5.0,Daly City,"2,720 sqft","Jul 11, 2013","$790,000",37.693226,-122.462036,CA,Single-Family Home,790000,"$997,000",94014,Hillside,,,Sold,SAN MATEO
+384,1008 San Antonio Cir #318,1.0,1.0,Daly City,655 sqft,"Jul 11, 2013","$289,000",37.70614,-122.441185,CA,Condo,289000,"$357,000",94014,Crocker,,,Sold,SAN MATEO
+385,234 Greenview Dr,3.0,2.0,Daly City,"1,487 sqft","Jul 10, 2013","$565,000",37.703545,-122.4446,CA,Condo,565000,"$634,000",94014,Crocker,,,Sold,SAN MATEO
+386,266 Wyandotte Ave,1.0,2.0,Daly City,960 sqft,"Jul 10, 2013","$535,000",37.69654,-122.46045,CA,Single-Family Home,535000,"$548,000",94014,Hillside,,,Sold,SAN MATEO
+387,345 Michelle Ln,3.0,3.0,Daly City,"1,450 sqft","Jul 10, 2013","$550,000",37.655727,-122.460754,CA,Single-Family Home,550000,"$646,000",94015,Serramonte,,,Sold,SAN MATEO
+388,101 Alta Vista Way,3.5,4.0,Daly City,"3,340 sqft","Jul 10, 2013","$833,000",37.704563,-122.43412,CA,Single-Family Home,833000,"$952,000",94014,Southern Hills,,,Sold,SAN MATEO
+389,1028 San Luis Cir #635,2.0,2.0,Daly City,"1,004 sqft","Jul 10, 2013","$379,000",37.70614,-122.441185,CA,Condo,379000,"$484,000",94014,Crocker,,,Sold,SAN MATEO
+390,258 Wilshire Ave,1.0,2.0,Daly City,"1,290 sqft","Jul 10, 2013","$630,000",37.707428,-122.481544,CA,Single-Family Home,630000,"$763,000",94015,Westlake,,,Sold,SAN MATEO
+391,456 Southhill Blvd,2.0,3.0,Daly City,"1,270 sqft","Jul 9, 2013","$698,000",37.70652,-122.43511,CA,Single-Family Home,698000,"$791,000",94014,Southern Hills,,,Sold,SAN MATEO
+392,377 Mandarin Dr #112,1.0,1.0,Daly City,717 sqft,"Jul 9, 2013","$280,000",37.665306,-122.46369,CA,Condo,280000,"$327,000",94015,Serramonte,,,Sold,SAN MATEO
+393,316 Barbara Ln,2.5,3.0,Daly City,"1,580 sqft","Jul 9, 2013","$560,500",37.656746,-122.46158,CA,Single-Family Home,560500,"$686,000",94015,Serramonte,,,Sold,SAN MATEO
+394,41 Lakewood Dr,2.0,4.0,Daly City,"1,940 sqft","Jul 5, 2013","$718,000",37.698025,-122.49068,CA,Single-Family Home,718000,"$879,000",94015,Westlake,,,Sold,SAN MATEO
+395,504 Skyline Dr,2.0,3.0,Daly City,"1,160 sqft","Jul 3, 2013","$568,000",37.683285,-122.49046,CA,Single-Family Home,568000,"$688,000",94015,Westlake,,,Sold,SAN MATEO
+396,94 Nelson Ct,2.0,3.0,Daly City,"1,390 sqft","Jul 3, 2013","$670,000",37.65318,-122.467064,CA,Single-Family Home,670000,"$810,000",94015,Serramonte,,,Sold,SAN MATEO
+397,17 Fleetwood Dr,2.0,4.0,Daly City,"1,890 sqft","Jul 3, 2013","$815,000",37.701378,-122.489655,CA,Single-Family Home,815000,"$874,000",94015,Westlake,,,Sold,SAN MATEO
+398,1620 Graystone Ln,2.5,2.0,Daly City,"1,177 sqft","Jul 3, 2013","$533,000",37.703545,-122.4446,CA,Condo,533000,"$588,000",94014,Crocker,,,Sold,SAN MATEO
+399,751 Thornhill Dr,1.0,3.0,Daly City,"1,120 sqft","Jul 3, 2013","$533,000",37.690414,-122.48485,CA,Single-Family Home,533000,"$657,000",94015,Broadmoor,,,Sold,SAN MATEO
+400,50 Parnell Ave,1.0,3.0,Daly City,"1,100 sqft","Jul 2, 2013","$604,000",37.658684,-122.468636,CA,Single-Family Home,604000,"$721,000",94015,Serramonte,,,Sold,SAN MATEO
+401,755 Mountain Vw #2,2.0,2.0,Daly City,"1,158 sqft","Jul 2, 2013","$450,000",37.698437,-122.45348,CA,Condo,450000,"$535,000",94014,Crocker,,,Sold,SAN MATEO
+402,5 Santa Ana Ave,3.0,4.0,Daly City,"1,310 sqft","Jul 2, 2013","$688,000",37.671722,-122.48119,CA,Single-Family Home,688000,"$708,000",94015,St. Francis,,,Sold,SAN MATEO
+403,739 87th St,1.0,3.0,Daly City,"1,170 sqft","Jul 2, 2013","$542,500",37.693157,-122.48339,CA,Single-Family Home,542500,"$641,000",94015,Broadmoor,,,Sold,SAN MATEO
+404,227 Westbrook Ave,2.0,3.0,Daly City,"1,610 sqft","Jul 2, 2013","$730,000",37.697826,-122.49262,CA,Single-Family Home,730000,"$873,000",94015,Westlake,,,Sold,SAN MATEO
+405,272 Wyandotte Ave,1.0,2.0,Daly City,960 sqft,"Jul 2, 2013","$590,000",37.696472,-122.46045,CA,Single-Family Home,590000,"$548,000",94014,Hillside,,,Sold,SAN MATEO
+406,456 Southhill Blvd,2.0,3.0,Daly City,"1,270 sqft","Jul 9, 2013","$698,000",37.70652,-122.43511,CA,Single-Family Home,698000,"$791,000",94014,Southern Hills,,,Sold,SAN MATEO
+407,377 Mandarin Dr #112,1.0,1.0,Daly City,717 sqft,"Jul 9, 2013","$280,000",37.665306,-122.46369,CA,Condo,280000,"$327,000",94015,Serramonte,,,Sold,SAN MATEO
+408,316 Barbara Ln,2.5,3.0,Daly City,"1,580 sqft","Jul 9, 2013","$560,500",37.656746,-122.46158,CA,Single-Family Home,560500,"$686,000",94015,Serramonte,,,Sold,SAN MATEO
+409,41 Lakewood Dr,2.0,4.0,Daly City,"1,940 sqft","Jul 5, 2013","$718,000",37.698025,-122.49068,CA,Single-Family Home,718000,"$879,000",94015,Westlake,,,Sold,SAN MATEO
+410,504 Skyline Dr,2.0,3.0,Daly City,"1,160 sqft","Jul 3, 2013","$568,000",37.683285,-122.49046,CA,Single-Family Home,568000,"$688,000",94015,Westlake,,,Sold,SAN MATEO
+411,94 Nelson Ct,2.0,3.0,Daly City,"1,390 sqft","Jul 3, 2013","$670,000",37.65318,-122.467064,CA,Single-Family Home,670000,"$810,000",94015,Serramonte,,,Sold,SAN MATEO
+412,17 Fleetwood Dr,2.0,4.0,Daly City,"1,890 sqft","Jul 3, 2013","$815,000",37.701378,-122.489655,CA,Single-Family Home,815000,"$874,000",94015,Westlake,,,Sold,SAN MATEO
+413,1620 Graystone Ln,2.5,2.0,Daly City,"1,177 sqft","Jul 3, 2013","$533,000",37.703545,-122.4446,CA,Condo,533000,"$588,000",94014,Crocker,,,Sold,SAN MATEO
+414,751 Thornhill Dr,1.0,3.0,Daly City,"1,120 sqft","Jul 3, 2013","$533,000",37.690414,-122.48485,CA,Single-Family Home,533000,"$657,000",94015,Broadmoor,,,Sold,SAN MATEO
+415,50 Parnell Ave,1.0,3.0,Daly City,"1,100 sqft","Jul 2, 2013","$604,000",37.658684,-122.468636,CA,Single-Family Home,604000,"$721,000",94015,Serramonte,,,Sold,SAN MATEO
+416,755 Mountain Vw #2,2.0,2.0,Daly City,"1,158 sqft","Jul 2, 2013","$450,000",37.698437,-122.45348,CA,Condo,450000,"$535,000",94014,Crocker,,,Sold,SAN MATEO
+417,5 Santa Ana Ave,3.0,4.0,Daly City,"1,310 sqft","Jul 2, 2013","$688,000",37.671722,-122.48119,CA,Single-Family Home,688000,"$708,000",94015,St. Francis,,,Sold,SAN MATEO
+418,739 87th St,1.0,3.0,Daly City,"1,170 sqft","Jul 2, 2013","$542,500",37.693157,-122.48339,CA,Single-Family Home,542500,"$641,000",94015,Broadmoor,,,Sold,SAN MATEO
+419,227 Westbrook Ave,2.0,3.0,Daly City,"1,610 sqft","Jul 2, 2013","$730,000",37.697826,-122.49262,CA,Single-Family Home,730000,"$873,000",94015,Westlake,,,Sold,SAN MATEO
+420,272 Wyandotte Ave,1.0,2.0,Daly City,960 sqft,"Jul 2, 2013","$590,000",37.696472,-122.46045,CA,Single-Family Home,590000,"$548,000",94014,Hillside,,,Sold,SAN MATEO
+421,237 Northgate Ave,1.0,3.0,Daly City,"1,180 sqft","Jun 25, 2013","$670,000",37.70222,-122.491936,CA,Single-Family Home,670000,"$713,000",94015,Westlake,,,Sold,SAN MATEO
+422,66 Fairview Ave,2.0,3.0,Daly City,"1,230 sqft","Jun 25, 2013","$655,000",37.68813,-122.48725,CA,Single-Family Home,655000,"$814,000",94015,Westlake,,,Sold,SAN MATEO
+423,160 Northridge Dr,3.0,4.0,Daly City,"1,320 sqft","Jun 25, 2013","$600,000",37.677593,-122.492905,CA,Single-Family Home,600000,"$801,000",94015,Westlake,,,Sold,SAN MATEO
+424,1398 Southgate Ave,3.0,4.0,Daly City,"1,280 sqft","Jun 25, 2013","$462,000",37.67573,-122.47988,CA,Single-Family Home,462000,"$708,000",94015,St. Francis,,,Sold,SAN MATEO
+425,332 Philip Dr #208,2.0,1.0,Daly City,"1,117 sqft","Jun 25, 2013","$355,000",37.669155,-122.46448,CA,Condo,355000,"$444,000",94015,Serramonte,,,Sold,SAN MATEO
+426,636 Macarthur Dr,1.0,3.0,Daly City,"1,010 sqft","Jun 25, 2013","$545,000",37.689133,-122.48157,CA,Single-Family Home,545000,"$665,000",94015,Broadmoor,,,Sold,SAN MATEO
+427,153 Serravista Ave,3.0,5.0,Daly City,"2,530 sqft","Jun 24, 2013","$685,000",37.660675,-122.4658,CA,Single-Family Home,685000,"$966,000",94015,Serramonte,,,Sold,SAN MATEO
+428,395 Imperial Way #174,2.0,2.0,Daly City,"1,065 sqft","Jun 24, 2013","$285,000",37.665306,-122.46369,CA,Condo,285000,"$430,000",94015,Serramonte,,,Sold,SAN MATEO
+429,332 Philip Dr #307,2.0,2.0,Daly City,"1,196 sqft","Jun 24, 2013","$448,000",37.669155,-122.46448,CA,Condo,448000,"$485,000",94015,Serramonte,,,Sold,SAN MATEO

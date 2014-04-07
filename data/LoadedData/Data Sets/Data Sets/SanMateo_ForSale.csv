@@ -1,0 +1,190 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,504 Fathom Dr,2.0,2.0,San Mateo,"1,040 sqft","Dec 31, 1969",$0,37.566784,-122.285034,CA,Single-Family Home,698888,,94404,Marina Lagoon,52,,For Sale,SAN MATEO
+2,425 N El Camino Real #412,2.0,2.0,San Mateo,"1,278 sqft","Dec 31, 1969",$0,37.570084,-122.33642,CA,Condo,575000,,94401,North Central,55,,For Sale,SAN MATEO
+3,1705 Palm Ave #4,1.5,1.0,San Mateo,802 sqft,"Dec 31, 1969",$0,37.553223,-122.31225,CA,Condo,442000,,94402,Haywood Park,80,,For Sale,SAN MATEO
+4,32 Creekside Ln,4.0,3.0,San Mateo,,"Dec 31, 1969",$0,37.570145,-122.31734,CA,Single-Family Home,839000,,94401,North Central,82,,For Sale,SAN MATEO
+5,688 Mariners Island Blvd #207,1.0,1.0,San Mateo,726 sqft,"Dec 31, 1969",$0,37.563995,-122.28534,CA,Condo,409990,,94404,Marina Lagoon,60,,For Sale,SAN MATEO
+6,30 Mounds Rd #202,2.0,2.0,San Mateo,"1,352 sqft","Dec 31, 1969",$0,37.567425,-122.33286,CA,Condo,698000,,94402,Baywood-Aragon,78,,For Sale,SAN MATEO
+7,770 27th Ave,4.5,6.0,San Mateo,"4,193 sqft","Dec 31, 1969",$0,37.536453,-122.31985,CA,Single-Family Home,2299500,,94403,Beresford,60,,For Sale,SAN MATEO
+8,401 S Norfolk St #116,2.0,2.0,San Mateo,913 sqft,"Dec 31, 1969",$0,37.572384,-122.30973,CA,Condo,503888,,94401,Shoreview,66,,For Sale,SAN MATEO
+9,516 Peninsula Ave,,,San Mateo,"2,300 sqft","Dec 31, 1969",$0,37.579758,-122.33523,CA,Single-Family Home,1699000,,94401,North Central,77,,For Sale,SAN MATEO
+10,711 S Bayshore Blvd #16,1.0,2.0,San Mateo,750 sqft,"Dec 31, 1969",$0,37.568436,-122.310356,CA,Condo,388000,,94401,Shoreview,62,,For Sale,SAN MATEO
+11,1623 Dix St,2.0,3.0,San Mateo,"1,040 sqft","Dec 31, 1969",$0,37.562332,-122.3009,CA,Single-Family Home,728000,,94401,Shoreview,54,,For Sale,SAN MATEO
+12,1 Baldwin Ave #911,2.0,2.0,San Mateo,"1,140 sqft","Dec 31, 1969",$0,37.566105,-122.32796,CA,Condo,499000,,94401,Downtown,95,,For Sale,SAN MATEO
+13,1648 Van Buren St,2.0,3.0,San Mateo,"1,300 sqft","Dec 31, 1969",$0,37.562466,-122.29642,CA,Single-Family Home,748888,,94403,Shoreview,45,,For Sale,SAN MATEO
+14,93 Lakewood Cir,3.0,5.0,San Mateo,"3,230 sqft","Dec 31, 1969",$0,37.51568,-122.32958,CA,Single-Family Home,1899000,,94402,Western Hills,34,,For Sale,SAN MATEO
+15,154 E Hillsdale Blvd,3.0,4.0,San Mateo,"1,690 sqft","Dec 31, 1969",$0,37.540184,-122.2922,CA,Single-Family Home,875000,,94403,Hillsdale,66,,For Sale,SAN MATEO
+16,4208 George Ave #1,2.0,2.0,San Mateo,"1,040 sqft","Dec 31, 1969",$0,37.533615,-122.28702,CA,Apt/Condo/Twnhm,499888,,94403,Hillsdale,66,,For Sale,SAN MATEO
+17,1128 Shoreline Dr,2.0,1.0,San Mateo,,"Dec 31, 1969",$0,37.556602,-122.291115,CA,Condo,665000,,94404,Marina Lagoon,66,,For Sale,SAN MATEO
+18,601 Laurel Ave #608,1.0,2.0,San Mateo,"1,200 sqft","Dec 31, 1969",$0,37.562614,-122.32079,CA,Condo,625000,,94401,Downtown,97,,For Sale,SAN MATEO
+19,1700 De Anza Blvd #106A,2.0,2.0,San Mateo,"1,039 sqft","Dec 31, 1969",$0,37.52311,-122.330574,CA,Condo,675000,,94403,Sugarloaf,46,,For Sale,SAN MATEO
+20,731 Edgewood Rd,2.0,3.0,San Mateo,"1,810 sqft","Dec 31, 1969",$0,37.56934,-122.3503,CA,Single-Family Home,1499999,,94402,San Mateo Park,54,,For Sale,SAN MATEO
+21,838 N Delaware St,1.5,2.0,San Mateo,"1,152 sqft","Dec 31, 1969",$0,37.58069,-122.331245,CA,Townhome,614000,,94401,North Central,71,,For Sale,SAN MATEO
+22,137 N Eldorado St,,,San Mateo,"1,190 sqft","Dec 31, 1969",$0,37.572174,-122.32463,CA,Multi-Family Home,1050000,,94401,North Central,85,,For Sale,SAN MATEO
+23,160 31st Ave,2.0,3.0,San Mateo,"1,650 sqft","Dec 31, 1969",$0,37.53672,-122.305145,CA,Single-Family Home,1049000,,94403,Beresford,80,,For Sale,SAN MATEO
+24,1595 Lago St #1,1.0,2.0,San Mateo,899 sqft,"Dec 31, 1969",$0,37.54508,-122.280266,CA,Condo,479888,,94403,,,,For Sale,SAN MATEO
+25,4208 George Ave #1,2.0,2.0,San Mateo,"1,040 sqft","Dec 31, 1969",$0,37.533615,-122.28702,CA,Apt/Condo/Twnhm,499888,,94403,Hillsdale,75,,For Sale,SAN MATEO
+26,125 N Claremont St,,,San Mateo,"1,602 sqft","Dec 31, 1969",$0,37.570812,-122.325775,CA,Multi-Family Home,735000,,94401,North Central,86,,For Sale,SAN MATEO
+27,320 Elm St #310,2.0,2.0,San Mateo,"1,446 sqft","Dec 31, 1969",$0,37.57084,-122.33236,CA,Condo,649000,,94401,North Central,,,For Sale,SAN MATEO
+28,925 S Eldorado St,1.0,3.0,San Mateo,"1,210 sqft","Dec 31, 1969",$0,37.56328,-122.31401,CA,Single-Family Home,849000,,94402,Haywood Park,82,,For Sale,SAN MATEO
+29,3519 Michael Dr,1.0,3.0,San Mateo,"1,130 sqft","Dec 31, 1969",$0,37.532127,-122.305595,CA,Single-Family Home,850000,,94403,Sugarloaf,,,For Sale,SAN MATEO
+30,236 Amherst Ave,2.5,4.0,San Mateo,"2,420 sqft","Dec 31, 1969",$0,37.557735,-122.33206,CA,Single-Family Home,1749000,,94402,Baywood-Aragon,,,For Sale,SAN MATEO
+31,2633 Ensenada Way,1.0,3.0,San Mateo,"1,440 sqft","Dec 31, 1969",$0,37.53974,-122.31449,CA,Single-Family Home,925000,,94403,Beresford,,,For Sale,SAN MATEO
+32,74 Crystal Springs Rd,3.0,4.0,San Mateo,"3,730 sqft","Dec 31, 1969",$0,37.563015,-122.32936,CA,Single-Family Home,1950000,,94402,Baywood-Aragon,89,,For Sale,SAN MATEO
+33,602 31st Ave,2.0,3.0,San Mateo,"1,450 sqft","Dec 31, 1969",$0,37.533768,-122.31242,CA,Single-Family Home,950000,,94403,Beresford,52,,For Sale,SAN MATEO
+34,1532 Dale Ave,1.0,3.0,San Mateo,"1,000 sqft","Dec 31, 1969",$0,37.567127,-122.3035,CA,Single-Family Home,649000,,94401,Shoreview,,,For Sale,SAN MATEO
+35,15 Crown Ct,3.0,4.0,San Mateo,"2,890 sqft","Dec 31, 1969",$0,37.518894,-122.335014,CA,Single-Family Home,1988000,,94402,,51,,For Sale,SAN MATEO
+36,10 Crystal Springs Rd #1408,2.0,2.0,San Mateo,"1,739 sqft","Dec 31, 1969",$0,37.564465,-122.3281,CA,Condo,1025000,,94402,Downtown,95,,For Sale,SAN MATEO
+37,111 Monte Diablo Ave,,,San Mateo,,"Dec 31, 1969",$0,37.569435,-122.3303,CA,Lot/Land,3950000,,94401,North Central,75,,For Sale,SAN MATEO
+38,765 Sequoia Ave,2.0,2.0,San Mateo,"1,834 sqft","Dec 31, 1969",$0,37.537144,-122.319435,CA,Single-Family Home,1190000,,94403,Beresford,58,,For Sale,SAN MATEO
+39,1654 Lodi Ave,2.0,3.0,San Mateo,"1,080 sqft","Dec 31, 1969",$0,37.564243,-122.2974,CA,Single-Family Home,725000,,94401,Shoreview,48,,For Sale,SAN MATEO
+40,144 E Hillsdale Blvd,3.0,4.0,San Mateo,"2,028 sqft","Dec 31, 1969",$0,37.54001,-122.292465,CA,Single-Family Home,799950,,94403,Hillsdale,63,,For Sale,SAN MATEO
+41,1748 Hemlock Ave,2.0,3.0,San Mateo,"1,080 sqft","Dec 31, 1969",$0,37.567314,-122.30081,CA,Single-Family Home,660000,,94401,Shoreview,43,,For Sale,SAN MATEO
+42,3140 Edison St,2.0,4.0,San Mateo,"1,640 sqft","Dec 31, 1969",$0,37.5365,-122.30206,CA,Single-Family Home,899000,,94403,Beresford,80,,For Sale,SAN MATEO
+43,3021 Los Prados St #224,2.0,2.0,San Mateo,950 sqft,"Dec 31, 1969",$0,37.54526,-122.282974,CA,Condo,418000,,94403,,54,,For Sale,SAN MATEO
+44,2605 Garfield St,2.0,3.0,San Mateo,"1,110 sqft","Dec 31, 1969",$0,37.542908,-122.30779,CA,Single-Family Home,829000,,94403,Beresford,89,,For Sale,SAN MATEO
+45,1700 De Anza Blvd #307,2.0,2.0,San Mateo,"1,060 sqft","Dec 31, 1969",$0,37.52311,-122.330574,CA,Apt/Condo/Twnhm,650000,,94403,Sugarloaf,46,,For Sale,SAN MATEO
+46,517 2nd Ave,1.0,2.0,San Mateo,"1,220 sqft","Dec 31, 1969",$0,37.567913,-122.321205,CA,Single-Family Home,508000,,94401,North Central,94,,For Sale,SAN MATEO
+47,106 W 3rd Ave #8,,,San Mateo,700 sqft,"Dec 31, 1969",$0,37.561836,-122.32807,CA,Single-Family Home,415000,,94402,Baywood-Aragon,89,,For Sale,SAN MATEO
+48,50 Mounds Rd #501,2.0,2.0,San Mateo,"2,076 sqft","Dec 31, 1969",$0,37.566692,-122.33251,CA,Condo,950000,,94402,Baywood-Aragon,75,,For Sale,SAN MATEO
+49,710 Mariners Island Blvd #202,1.0,1.0,San Mateo,863 sqft,"Dec 31, 1969",$0,37.56351,-122.28595,CA,Apt/Condo/Twnhm,399900,,94404,Marina Lagoon,58,,For Sale,SAN MATEO
+50,28 S Kingston St,1.0,3.0,San Mateo,970 sqft,"Dec 31, 1969",$0,37.573605,-122.31597,CA,Single-Family Home,599000,,94401,Shoreview,68,,For Sale,SAN MATEO
+51,140 N Claremont St,2.0,3.0,San Mateo,"1,430 sqft","Dec 31, 1969",$0,37.57143,-122.32571,CA,Single-Family Home,749500,,94401,North Central,85,,For Sale,SAN MATEO
+52,320 Elm St #305,1.0,1.0,San Mateo,"1,040 sqft","Dec 31, 1969",$0,37.57084,-122.33236,CA,Single-Family Home,425000,,94401,North Central,74,,For Sale,SAN MATEO
+53,847 N Humboldt St #304,1.0,,San Mateo,473 sqft,"Dec 31, 1969",$0,37.58069,-122.331245,CA,Condo,298000,,94401,North Central,71,,For Sale,SAN MATEO
+54,847 N Humboldt St #304,1.0,,San Mateo,473 sqft,"Dec 31, 1969",$0,37.58069,-122.331245,CA,Apt/Condo/Twnhm,298000,,94401,North Central,75,,For Sale,SAN MATEO
+55,1619 Roberta Dr,2.0,3.0,San Mateo,"1,150 sqft","Dec 31, 1969",$0,37.560677,-122.29331,CA,Single-Family Home,699900,,94403,Shoreview,,,For Sale,SAN MATEO
+56,820 N Delaware St #202,1.0,1.0,San Mateo,758 sqft,"Dec 31, 1969",$0,37.58069,-122.331245,CA,Apt/Condo/Twnhm,388000,,94401,North Central,71,,For Sale,SAN MATEO
+57,240 N Bayshore Blvd #116,2.0,2.0,San Mateo,"1,020 sqft","Dec 31, 1969",$0,37.57798,-122.320274,CA,Apt/Condo/Twnhm,439500,,94401,Shoreview,58,,For Sale,SAN MATEO
+58,2044 S Delaware St,1.0,2.0,San Mateo,"1,031 sqft","Dec 31, 1969",$0,37.549805,-122.305786,CA,Condo,699888,,94403,Hillsdale,80,,For Sale,SAN MATEO
+59,3034 Fernwood St,3.5,4.0,San Mateo,"2,730 sqft","Dec 31, 1969",$0,37.533478,-122.31389,CA,Single-Family Home,1299000,,94403,Beresford,46,,For Sale,SAN MATEO
+60,912 N Humboldt St,4.0,5.0,San Mateo,"3,270 sqft","Dec 31, 1969",$0,37.58384,-122.33128,CA,Single-Family Home,988888,,94401,North Central,63,,For Sale,SAN MATEO
+61,2011 Sullivan St,2.0,3.0,San Mateo,"1,280 sqft","Dec 31, 1969",$0,37.550907,-122.29929,CA,Single-Family Home,799000,,94403,Hillsdale,74,,For Sale,SAN MATEO
+62,43 Burbank Ave,2.0,2.0,San Mateo,"1,020 sqft","Dec 31, 1969",$0,37.53044,-122.292816,CA,Single-Family Home,799000,,94403,Sugarloaf,75,,For Sale,SAN MATEO
+63,3907 Alameda De Las Pulgas,2.0,3.0,San Mateo,"1,495 sqft","Dec 31, 1969",$0,37.52778,-122.30522,CA,Single-Family Home,998888,,94403,Sugarloaf,,,For Sale,SAN MATEO
+64,2060 Kings Ln,3.0,4.0,San Mateo,"2,310 sqft","Dec 31, 1969",$0,37.51833,-122.333275,CA,Single-Family Home,1590000,,94402,,48,,For Sale,SAN MATEO
+65,1026 S Delaware St,,,San Mateo,"1,360 sqft","Dec 31, 1969",$0,37.561153,-122.31394,CA,Multi-Family Home,789900,,94402,Haywood Park,82,,For Sale,SAN MATEO
+66,425 Anchor Rd #317,2.0,3.0,San Mateo,"1,900 sqft","Dec 31, 1969",$0,37.569397,-122.28999,CA,Apt/Condo/Twnhm,748000,,94404,Marina Lagoon,40,,For Sale,SAN MATEO
+67,10 Crystal Springs Rd #1404,2.0,2.0,San Mateo,"1,732 sqft","Dec 31, 1969",$0,37.564465,-122.3281,CA,Apt/Condo/Twnhm,1025000,,94402,Downtown,95,,For Sale,SAN MATEO
+68,155-157 N Eldorado St,1.0,2.0,San Mateo,"1,356 sqft","Dec 31, 1969",$0,37.572487,-122.32497,CA,Single-Family Home,788888,,94401,North Central,85,,For Sale,SAN MATEO
+69,10 Crystal Springs Rd #2214,2.0,2.0,San Mateo,"1,238 sqft","Dec 31, 1969",$0,37.564465,-122.3281,CA,Apt/Condo/Twnhm,794350,,94402,Downtown,97,,For Sale,SAN MATEO
+70,10 Crystal Springs Rd #1203,2.0,2.0,San Mateo,"1,739 sqft","Dec 31, 1969",$0,37.564465,-122.3281,CA,Apt/Condo/Twnhm,990000,,94402,Downtown,95,,For Sale,SAN MATEO
+71,1737 Trollman Ave,3.0,4.0,San Mateo,"2,070 sqft","Dec 31, 1969",$0,37.581684,-122.31484,CA,Single-Family Home,739000,,94401,Shoreview,52,,For Sale,SAN MATEO
+72,3299 Los Prados St,5.0,4.0,San Mateo,,"Dec 31, 1969",$0,37.541367,-122.27846,CA,Single-Family Home,1499000,,94403,,49,,For Sale,SAN MATEO
+73,701-703 Prospect Row,,,San Mateo,,"Dec 31, 1969",$0,37.57301,-122.33888,CA,Multi-Family Home,1850000,,94401,North Central,71,,For Sale,SAN MATEO
+74,535 Starboard Dr,3.0,3.0,San Mateo,"1,660 sqft","Dec 31, 1969",$0,37.56854,-122.29008,CA,Single-Family Home,1095000,,94404,,40,,For Sale,SAN MATEO
+75,Residence 3 Plan,3.5,3.0,San Mateo,"1,900 sqft","Dec 31, 1969",$0,37.53909,-122.30229,CA,Multi-Family Home,1076900,,94403,Sugarloaf,78,,For Sale,SAN MATEO
+76,Plan 4,4.0,4.0,San Mateo,"1,869 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Single-Family Home,1053000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+77,Plan 2,3.0,3.0,San Mateo,"1,614 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Townhome,966000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+78,240 N Bayshore Blvd #201,1.0,1.0,San Mateo,908 sqft,"Dec 31, 1969",$0,37.57798,-122.320274,CA,Single-Family Home,339900,,94401,Shoreview,58,,For Sale,SAN MATEO
+79,Plan 8,3.0,4.0,San Mateo,"2,170 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Single-Family Home,1138000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+80,Plan 7,2.5,3.0,San Mateo,"2,353 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Single-Family Home,1193000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+81,Residence 2 Plan,2.0,2.0,San Mateo,"1,539 sqft","Dec 31, 1969",$0,37.53909,-122.30229,CA,Multi-Family Home,855900,,94403,Sugarloaf,78,,For Sale,SAN MATEO
+82,Plan 1B,2.5,2.0,San Mateo,"1,237 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Townhome,858000,,94403,Hillsdale,66,,For Sale,SAN MATEO
+83,Plan 6,3.0,3.0,San Mateo,"1,686 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Single-Family Home,1003000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+84,1785 Van Buren St,3.0,3.0,San Mateo,"1,600 sqft","Dec 31, 1969",$0,37.565228,-122.296776,CA,Single-Family Home,799000,,94403,Shoreview,48,,For Sale,SAN MATEO
+85,555 Laurel Ave #615,4.5,4.0,San Mateo,"4,801 sqft","Dec 31, 1969",$0,37.56338,-122.32118,CA,Condo,2880000,,94401,Downtown,97,,For Sale,SAN MATEO
+86,Plan 1A,3.0,3.0,San Mateo,"1,351 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Townhome,878000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+87,Residence 1 Plan,2.0,2.0,San Mateo,"1,259 sqft","Dec 31, 1969",$0,37.53909,-122.30229,CA,Multi-Family Home,875900,,94403,Sugarloaf,78,,For Sale,SAN MATEO
+88,Plan 5,3.5,4.0,San Mateo,"2,219 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Single-Family Home,1168000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+89,517 9th Ave,,,San Mateo,"2,991 sqft","Dec 31, 1969",$0,37.563076,-122.31636,CA,Income/Investment,924000,,94402,Downtown,86,,For Sale,SAN MATEO
+90,10 Crystal Springs Rd #2211,2.0,2.0,San Mateo,"1,210 sqft","Dec 31, 1969",$0,37.564465,-122.3281,CA,Apt/Condo/Twnhm,778000,,94402,Downtown,95,,For Sale,SAN MATEO
+91,Plan 3,3.5,3.0,San Mateo,"1,753 sqft","Dec 31, 1969",$0,37.54529,-122.29757,CA,Townhome,1010000,,94403,Hillsdale,91,,For Sale,SAN MATEO
+92,Grand Blvd,3.0,3.0,San Mateo,"2,340 sqft","Dec 31, 1969",$0,37.57477,-122.33428,CA,Multi-Family Home,400000,,94401,North Central,72,,For Sale,SAN MATEO
+93,N Claremont St,4.0,7.0,San Mateo,"5,040 sqft","Dec 31, 1969",$0,37.57546,-122.33091,CA,Multi-Family Home,726671,,94401,North Central,78,,For Sale,SAN MATEO
+94,N Fremont St,4.0,6.0,San Mateo,"2,630 sqft","Dec 31, 1969",$0,37.57137,-122.321594,CA,Single-Family Home,600000,,94401,North Central,82,,For Sale,SAN MATEO
+95,Holland St,2.0,4.0,San Mateo,"1,260 sqft","Dec 31, 1969",$0,37.546677,-122.28666,CA,Single-Family Home,417000,,94403,,57,,For Sale,SAN MATEO
+96,George Ave #2,1.0,1.0,San Mateo,840 sqft,"Dec 31, 1969",$0,37.53167,-122.28767,CA,Condo,398007,,94403,Hillsdale,71,,For Sale,SAN MATEO
+97,Starboard Dr,2.0,3.0,San Mateo,"1,580 sqft","Dec 31, 1969",$0,37.568707,-122.28998,CA,Single-Family Home,700000,,94404,,40,,For Sale,SAN MATEO
+98,Shoreline Dr,2.0,2.0,San Mateo,"1,555 sqft","Dec 31, 1969",$0,37.558548,-122.28867,CA,Condo,359500,,94404,Marina Lagoon,62,,For Sale,SAN MATEO
+99,Branson Dr,1.0,3.0,San Mateo,"1,080 sqft","Dec 31, 1969",$0,37.536243,-122.281265,CA,Single-Family Home,25000,,94403,Hillsdale,43,,For Sale,SAN MATEO
+100,Wolfe Dr,2.0,4.0,San Mateo,"1,910 sqft","Dec 31, 1969",$0,37.558105,-122.30489,CA,Single-Family Home,358000,,94402,Haywood Park,68,,For Sale,SAN MATEO
+101,W Hillsdale Blvd,2.0,3.0,San Mateo,"2,020 sqft","Dec 31, 1969",$0,37.529274,-122.321144,CA,Single-Family Home,386000,,94403,Beresford,54,,For Sale,SAN MATEO
+102,22nd Ave,4.0,6.0,San Mateo,"1,515 sqft","Dec 31, 1969",$0,37.54565,-122.31024,CA,Multi-Family Home,574438,,94403,Beresford,86,,For Sale,SAN MATEO
+103,N Idaho St,2.0,4.0,San Mateo,"1,930 sqft","Dec 31, 1969",$0,37.58174,-122.32782,CA,Single-Family Home,640000,,94401,North Central,62,,For Sale,SAN MATEO
+104,S Norfolk St,2.0,3.0,San Mateo,"1,220 sqft","Dec 31, 1969",$0,37.55886,-122.29672,CA,Single-Family Home,544185,,94403,Shoreview,57,,For Sale,SAN MATEO
+105,Rainbow Dr,3.0,4.0,San Mateo,"1,470 sqft","Dec 31, 1969",$0,37.53291,-122.34675,CA,Single-Family Home,713300,,94402,Baywood Park,17,,For Sale,SAN MATEO
+106,Potomac Way,2.0,3.0,San Mateo,"1,280 sqft","Dec 31, 1969",$0,37.550064,-122.30131,CA,Single-Family Home,640000,,94403,Hillsdale,80,,For Sale,SAN MATEO
+107,1st Ave,2.0,2.0,San Mateo,"1,160 sqft","Dec 31, 1969",$0,37.569073,-122.32114,CA,Multi-Family Home,597350,,94401,North Central,92,,For Sale,SAN MATEO
+108,Lansdale St,2.0,3.0,San Mateo,"1,350 sqft","Dec 31, 1969",$0,37.533154,-122.31425,CA,Single-Family Home,792000,,94403,Beresford,46,,For Sale,SAN MATEO
+109,Branson Dr,1.0,2.0,San Mateo,920 sqft,"Dec 31, 1969",$0,37.539738,-122.28451,CA,Single-Family Home,797651,,94403,Hillsdale,52,,For Sale,SAN MATEO
+110,N Delaware St,2.0,3.0,San Mateo,"1,400 sqft","Dec 31, 1969",$0,37.570435,-122.32371,CA,Single-Family Home,600000,,94401,North Central,88,,For Sale,SAN MATEO
+111,Grand Blvd #12,1.0,1.0,San Mateo,"1,000 sqft","Dec 31, 1969",$0,37.57609,-122.33255,CA,Condo,304000,,94401,North Central,69,,For Sale,SAN MATEO
+112,S Norfolk St,2.0,3.0,San Mateo,"1,680 sqft","Dec 31, 1969",$0,37.55719,-122.2952,CA,Single-Family Home,808732,,94403,Shoreview,69,,For Sale,SAN MATEO
+113,Newbridge Ave,1.0,2.0,San Mateo,820 sqft,"Dec 31, 1969",$0,37.568207,-122.307465,CA,Single-Family Home,611286,,94401,Shoreview,58,,For Sale,SAN MATEO
+114,22nd Ave,1.0,2.0,San Mateo,"1,400 sqft","Dec 31, 1969",$0,37.54475,-122.31382,CA,Single-Family Home,544185,,94403,Beresford,77,,For Sale,SAN MATEO
+115,Evergreen St,2.0,4.0,San Mateo,"1,740 sqft","Dec 31, 1969",$0,37.569656,-122.29939,CA,Single-Family Home,627000,,94401,Shoreview,37,,For Sale,SAN MATEO
+116,Tilia St,1.0,2.0,San Mateo,"1,510 sqft","Dec 31, 1969",$0,37.548042,-122.32267,CA,Single-Family Home,777000,,94402,Haywood Park,58,,For Sale,SAN MATEO
+117,Shoreview Ave,1.0,2.0,San Mateo,820 sqft,"Dec 31, 1969",$0,37.573284,-122.306816,CA,Single-Family Home,558000,,94401,Shoreview,58,,For Sale,SAN MATEO
+118,S Eldorado St,1.0,2.0,San Mateo,"1,150 sqft","Dec 31, 1969",$0,37.5679,-122.31954,CA,Single-Family Home,579800,,94401,North Central,91,,For Sale,SAN MATEO
+119,S Norfold St #207,,,San Mateo,,"Dec 31, 1969",$0,37.5498,-122.288414,CA,Unspecified,265950,,94403,,60,,For Sale,SAN MATEO
+120,W 3rd Ave #8,1.0,,San Mateo,700 sqft,"Dec 31, 1969",$0,37.561684,-122.32784,CA,Condo,475385,,94402,Baywood-Aragon,89,,For Sale,SAN MATEO
+121,Bayridge Way #115,2.0,1.0,San Mateo,712 sqft,"Dec 31, 1969",$0,37.530537,-122.33562,CA,Condo,365000,,94402,Western Hills,34,,For Sale,SAN MATEO
+122,Compass Ln #115,,,San Mateo,,"Dec 31, 1969",$0,37.54987,-122.254654,CA,Unspecified,210875,,94404,,38,,For Sale,SAN MATEO
+123,S Delaware St,,,San Mateo,,"Dec 31, 1969",$0,37.565502,-122.31829,CA,Unspecified,511000,,94402,Downtown,91,,For Sale,SAN MATEO
+124,George Ave,,,San Mateo,,"Dec 31, 1969",$0,37.53332,-122.28724,CA,Unspecified,175000,,94403,Hillsdale,66,,For Sale,SAN MATEO
+125,Cornwallis Ln,,,San Mateo,,"Dec 31, 1969",$0,37.540783,-122.26177,CA,Single-Family Home,578228,,94404,,32,,For Sale,SAN MATEO
+126,31st Ave,1.0,3.0,San Mateo,"1,180 sqft","Dec 31, 1969",$0,37.536484,-122.30504,CA,Single-Family Home,962781,,94403,Beresford,80,,For Sale,SAN MATEO
+127,1st Ave,,,San Mateo,,"Dec 31, 1969",$0,37.568783,-122.321465,CA,Unspecified,597350,,94401,North Central,92,,For Sale,SAN MATEO
+128,N Fremont St,,,San Mateo,,"Dec 31, 1969",$0,37.57131,-122.32146,CA,Unspecified,600000,,94401,North Central,82,,For Sale,SAN MATEO
+129,9th Ave #311,,,San Mateo,,"Dec 31, 1969",$0,37.561295,-122.31865,CA,Unspecified,785000,,94401,Haywood Park,95,,For Sale,SAN MATEO
+130,Ottawa St,,,San Mateo,,"Dec 31, 1969",$0,37.578575,-122.315414,CA,Unspecified,724446,,94401,Shoreview,62,,For Sale,SAN MATEO
+131,N El Camino Real #6,1.0,1.0,San Mateo,833 sqft,"Dec 31, 1969",$0,37.573887,-122.34149,CA,Condo,175437,,94401,North Central,80,,For Sale,SAN MATEO
+132,Peninsula Ave #421,2.0,2.0,San Mateo,930 sqft,"Dec 31, 1969",$0,37.57804,-122.33799,CA,Condo,389051,,94010,North Central,77,,For Sale,SAN MATEO
+133,N Delaware St,4.0,5.0,San Mateo,"2,368 sqft","Dec 31, 1969",$0,37.579742,-122.33383,CA,Single-Family Home,94500,,94401,North Central,75,,For Sale,SAN MATEO
+134,E 39th Ave,2.0,3.0,San Mateo,"1,300 sqft","Dec 31, 1969",$0,37.536324,-122.28707,CA,Single-Family Home,213885,,94403,Hillsdale,69,,For Sale,SAN MATEO
+135,Del Ray St,2.0,4.0,San Mateo,"2,100 sqft","Dec 31, 1969",$0,37.532944,-122.31723,CA,Single-Family Home,414000,,94403,Beresford,55,,For Sale,SAN MATEO
+136,Allegheny Way,3.0,4.0,San Mateo,"2,600 sqft","Dec 31, 1969",$0,37.51463,-122.33888,CA,Single-Family Home,710000,,94402,,49,,For Sale,SAN MATEO
+137,Lexington Ave,3.0,5.0,San Mateo,"2,330 sqft","Dec 31, 1969",$0,37.52412,-122.35208,CA,Single-Family Home,654000,,94402,,18,,For Sale,SAN MATEO
+138,S Eldorado St,3.0,5.0,San Mateo,"2,580 sqft","Dec 31, 1969",$0,37.56593,-122.31739,CA,Single-Family Home,792000,,94402,Downtown,89,,For Sale,SAN MATEO
+139,Ryder St,1.0,3.0,San Mateo,"1,340 sqft","Dec 31, 1969",$0,37.575504,-122.308136,CA,Single-Family Home,356000,,94401,Shoreview,62,,For Sale,SAN MATEO
+140,Taylor St,2.0,3.0,San Mateo,"1,220 sqft","Dec 31, 1969",$0,37.56072,-122.2996,CA,Single-Family Home,408000,,94403,Shoreview,68,,For Sale,SAN MATEO
+141,S Norfolk St,3.0,4.0,San Mateo,"1,790 sqft","Dec 31, 1969",$0,37.551224,-122.28929,CA,Single-Family Home,588750,,94403,,63,,For Sale,SAN MATEO
+142,Norton St,2.0,6.0,San Mateo,"1,800 sqft","Dec 31, 1969",$0,37.563858,-122.305176,CA,Single-Family Home,416000,,94401,Shoreview,62,,For Sale,SAN MATEO
+143,N El Camino Real,1.0,1.0,San Mateo,710 sqft,"Dec 31, 1969",$0,37.568058,-122.33178,CA,Condo,256000,,94401,North Central,72,,For Sale,SAN MATEO
+144,W Hillsdale Blvd,2.0,3.0,San Mateo,"1,410 sqft","Dec 31, 1969",$0,37.531467,-122.30992,CA,Single-Family Home,483000,,94403,Sugarloaf,49,,For Sale,SAN MATEO
+145,Wayne Way,2.0,2.0,San Mateo,"1,540 sqft","Dec 31, 1969",$0,37.54781,-122.2926,CA,Condo,589132,,94403,Hillsdale,68,,For Sale,SAN MATEO
+146,La Casa Ave,1.0,2.0,San Mateo,910 sqft,"Dec 31, 1969",$0,37.525032,-122.2987,CA,Single-Family Home,351250,,94403,Sugarloaf,48,,For Sale,SAN MATEO
+147,N San Mateo Dr #109,1.0,1.0,San Mateo,858 sqft,"Dec 31, 1969",$0,37.56772,-122.32757,CA,Condo,311250,,94401,Downtown,88,,For Sale,SAN MATEO
+148,W 3rd Ave #4,2.0,2.0,San Mateo,"1,365 sqft","Dec 31, 1969",$0,37.56049,-122.32875,CA,Condo,560000,,94402,Baywood-Aragon,83,,For Sale,SAN MATEO
+149,Curtiss St,2.0,4.0,San Mateo,"1,380 sqft","Dec 31, 1969",$0,37.536613,-122.29102,CA,Single-Family Home,620000,,94403,Hillsdale,74,,For Sale,SAN MATEO
+150,La Selva St,1.0,1.0,San Mateo,723 sqft,"Dec 31, 1969",$0,37.538757,-122.28194,CA,Condo,346630,,94403,,45,,For Sale,SAN MATEO
+151,Glendora Dr #212,1.0,1.0,San Mateo,807 sqft,"Dec 31, 1969",$0,37.53212,-122.32646,CA,Condo,400000,,94403,Sugarloaf,68,,For Sale,SAN MATEO
+152,N Humboldt St #205,1.0,2.0,San Mateo,903 sqft,"Dec 31, 1969",$0,37.582134,-122.32992,CA,Condo,465240,,94401,North Central,63,,For Sale,SAN MATEO
+153,Bayshore,1.0,1.0,San Mateo,908 sqft,"Dec 31, 1969",$0,37.57783,-122.32082,CA,Condo,435539,,94401,Shoreview,62,,For Sale,SAN MATEO
+154,Lodato Ave #101,1.0,1.0,San Mateo,581 sqft,"Dec 31, 1969",$0,37.546696,-122.30928,CA,Condo,352694,,94403,Beresford,86,,For Sale,SAN MATEO
+155,George Ave,1.0,1.0,San Mateo,812 sqft,"Dec 31, 1969",$0,37.53222,-122.286674,CA,Condo,413198,,94403,Hillsdale,69,,For Sale,SAN MATEO
+156,Mariners Island Blvd,1.0,1.0,San Mateo,484 sqft,"Dec 31, 1969",$0,37.5647,-122.28456,CA,Condo,341486,,94404,Vintage Park,74,,For Sale,SAN MATEO
+157,Alameda De Las Pulgas #3,2.0,2.0,San Mateo,"1,024 sqft","Dec 31, 1969",$0,37.54594,-122.321365,CA,Condo,549345,,94403,Beresford,62,,For Sale,SAN MATEO
+158,De Anza Blvd #102,2.0,2.0,San Mateo,"1,089 sqft","Dec 31, 1969",$0,37.52272,-122.33069,CA,Condo,689112,,94403,Sugarloaf,49,,For Sale,SAN MATEO
+159,N El Camino Real,2.0,2.0,San Mateo,990 sqft,"Dec 31, 1969",$0,37.56941,-122.33423,CA,Condo,526121,,94401,North Central,65,,For Sale,SAN MATEO
+160,La Selva St,2.0,3.0,San Mateo,905 sqft,"Dec 31, 1969",$0,37.538403,-122.28148,CA,Condo,762991,,94403,,46,,For Sale,SAN MATEO
+161,N Fremont St,2.0,4.0,San Mateo,"1,850 sqft","Dec 31, 1969",$0,37.575836,-122.32589,CA,Single-Family Home,709755,,94401,North Central,68,,For Sale,SAN MATEO
+162,Vine Ct,3.0,4.0,San Mateo,"2,390 sqft","Dec 31, 1969",$0,37.571312,-122.30144,CA,Single-Family Home,885382,,94401,Shoreview,43,,For Sale,SAN MATEO
+163,S Norfolk St #214,2.0,2.0,San Mateo,913 sqft,"Dec 31, 1969",$0,37.5721,-122.31017,CA,Condo,503588,,94401,Shoreview,66,,For Sale,SAN MATEO
+164,S Norfolk St,1.0,3.0,San Mateo,970 sqft,"Dec 31, 1969",$0,37.574944,-122.31432,CA,Single-Family Home,417000,,94401,Shoreview,62,,For Sale,SAN MATEO
+165,N Railroad Ave,1.0,2.0,San Mateo,970 sqft,"Dec 31, 1969",$0,37.570915,-122.32673,CA,Single-Family Home,472500,,94401,North Central,86,,For Sale,SAN MATEO
+166,Cobb St,1.0,3.0,San Mateo,"1,000 sqft","Dec 31, 1969",$0,37.563778,-122.30396,CA,Single-Family Home,596000,,94401,Shoreview,51,,For Sale,SAN MATEO
+167,W Hillsdale Blvd,2.0,3.0,San Mateo,"1,810 sqft","Dec 31, 1969",$0,37.529392,-122.31879,CA,Single-Family Home,889616,,94403,Sugarloaf,55,,For Sale,SAN MATEO
+168,Highland Ave,1.0,2.0,San Mateo,"1,370 sqft","Dec 31, 1969",$0,37.572678,-122.33639,CA,Single-Family Home,680000,,94401,North Central,57,,For Sale,SAN MATEO
+169,Kent Ct,2.0,3.0,San Mateo,"1,320 sqft","Dec 31, 1969",$0,37.54808,-122.29724,CA,Single-Family Home,656000,,94403,Hillsdale,69,,For Sale,SAN MATEO
+170,Norton St,2.0,3.0,San Mateo,"1,075 sqft","Dec 31, 1969",$0,37.56354,-122.30484,CA,Single-Family Home,528000,,94401,Shoreview,66,,For Sale,SAN MATEO
+171,N Humboldt St,,,San Mateo,,"Dec 31, 1969",$0,37.582134,-122.32992,CA,Condo,348000,,94401,North Central,69,,For Sale,SAN MATEO
+172,N Delaware St,,,San Mateo,,"Dec 31, 1969",$0,37.57966,-122.33381,CA,Unspecified,94500,,94401,North Central,75,,For Sale,SAN MATEO
+173,Wilshire Ave,,,San Mateo,,"Dec 31, 1969",$0,37.527794,-122.30678,CA,Unspecified,100000,,94403,Sugarloaf,46,,For Sale,SAN MATEO
+174,Alameda De Las Pulga #162,,,San Mateo,,"Dec 31, 1969",$0,37.545944,-122.32125,CA,Unspecified,340000,,94403,Beresford,55,,For Sale,SAN MATEO
+175,Peninsula Ave #405,,,San Mateo,,"Dec 31, 1969",$0,37.58192,-122.3324,CA,Unspecified,303375,,94010,North Central,68,,For Sale,SAN MATEO
+176,Peninsula Ave #109,2.0,2.0,San Mateo,,"Dec 31, 1969",$0,37.57804,-122.33799,CA,Unspecified,400491,,94010,North Central,77,,For Sale,SAN MATEO
+177,Catalpa St,1.0,1.0,San Mateo,,"Dec 31, 1969",$0,37.570187,-122.32709,CA,Single-Family Home,14157,,94401,North Central,88,,For Sale,SAN MATEO
+178,Peninsula Ave,,,San Mateo,,"Dec 31, 1969",$0,37.58192,-122.3324,CA,Unspecified,246500,,94401,North Central,68,,For Sale,SAN MATEO
+179,N Humbolt St #308,,,San Mateo,,"Dec 31, 1969",$0,37.582134,-122.32992,CA,Unspecified,485258,,94401,North Central,58,,For Sale,SAN MATEO
+180,N Delaware #211,,,San Mateo,,"Dec 31, 1969",$0,37.57904,-122.33306,CA,Unspecified,490327,,94401,North Central,71,,For Sale,SAN MATEO
+181,Mariners Is 206,,,San Mateo,,"Dec 31, 1969",$0,37.56472,-122.28455,CA,Unspecified,338162,,94404,Vintage Park,74,,For Sale,SAN MATEO
+182,N Bayshore Blvd #104,,,San Mateo,,"Dec 31, 1969",$0,37.577793,-122.32081,CA,Single-Family Home,328867,,94401,Shoreview,66,,For Sale,SAN MATEO
+183,Shoreline Dr #12,,,San Mateo,,"Dec 31, 1969",$0,37.556675,-122.29107,CA,Unspecified,498458,,94404,Marina Lagoon,82,,For Sale,SAN MATEO
+184,Day Ave #F,,,San Mateo,,"Dec 31, 1969",$0,37.55153,-122.28758,CA,Unspecified,508187,,94403,,66,,For Sale,SAN MATEO
+185,10th Ave,1.0,2.0,San Mateo,"1,110 sqft","Dec 31, 1969",$0,37.565002,-122.30993,CA,Single-Family Home,794463,,94402,Haywood Park,75,,For Sale,SAN MATEO
+186,E Santa Inez Ave,,,San Mateo,,"Dec 31, 1969",$0,37.575512,-122.32442,CA,Unspecified,581366,,94401,North Central,71,,For Sale,SAN MATEO
+187,Gillis Dr,2.0,3.0,San Mateo,"1,490 sqft","Dec 31, 1969",$0,37.535404,-122.28803,CA,Single-Family Home,912480,,94403,Hillsdale,69,,For Sale,SAN MATEO
+188,Martin Dr,2.0,3.0,San Mateo,"1,150 sqft","Dec 31, 1969",$0,37.539116,-122.28499,CA,Single-Family Home,862598,,94403,Hillsdale,54,,For Sale,SAN MATEO
+189,E Bellevue Ave,,,San Mateo,,"Dec 31, 1969",$0,37.575325,-122.331505,CA,Single-Family Home,634994,,94401,North Central,66,,For Sale,SAN MATEO

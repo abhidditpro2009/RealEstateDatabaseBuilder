@@ -1,0 +1,130 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95066,19 Blake Ln #C,2,4,Scotts Valley,"1,750 sqft",7-Mar-14,"$645,000 ",37.047066,-122.02179,CA,Multi-Family,645000,"$714,000 ",,,,,Sold,SANTA CRUZ
+95066,268 Bluebonnet Ln #131,2,2,Scotts Valley,"1,166 sqft",3-Mar-14,"$483,000 ",37.050316,-122.02647,CA,Condo,483000,"$449,000 ",,,,,Sold,SANTA CRUZ
+95066,213 Navarra Dr,2.5,3,Scotts Valley,"2,192 sqft",28-Feb-14,"$740,000 ",37.062553,-121.99934,CA,Single-Family Home,740000,"$788,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #38,2,2,Scotts Valley,"1,344 sqft",28-Feb-14,"$420,000 ",37.05351,-122.02612,CA,Mobile/Manufactured,420000,,,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #14,2,2,Scotts Valley,"1,372 sqft",27-Feb-14,"$325,000 ",37.05351,-122.02612,CA,Mobile/Manufactured,325000,,,,,,Sold,SANTA CRUZ
+95066,307 Lockewood Ln,2,3,Scotts Valley,"1,255 sqft",25-Feb-14,"$556,500 ",37.046593,-122.03502,CA,Single-Family Home,556500,"$690,000 ",,,,,Sold,SANTA CRUZ
+95066,100 Christel Oaks Dr,3,3,Scotts Valley,"2,108 sqft",21-Feb-14,"$649,000 ",37.047436,-122.02396,CA,Single-Family Home,649000,"$803,000 ",,,,,Sold,SANTA CRUZ
+95066,194 Caseta Way,2,3,Scotts Valley,"1,463 sqft",21-Feb-14,"$710,000 ",37.0386,-122.04286,CA,Single-Family Home,710000,"$752,000 ",,,,,Sold,SANTA CRUZ
+95066,5525 Scotts Valley Dr #19,1.5,2,Scotts Valley,"1,334 sqft",14-Feb-14,"$440,000 ",37.06117,-122.00859,CA,Townhouse,440000,"$413,000 ",,,,,Sold,SANTA CRUZ
+95066,106 Bluebonnet Ln #3,2.5,,Scotts Valley,"1,397 sqft",12-Feb-14,"$500,000 ",37.050182,-122.02594,CA,Townhouse,500000,"$545,000 ",,,,,Sold,SANTA CRUZ
+95066,31 Dunslee Way,2.5,3,Scotts Valley,"1,964 sqft",10-Feb-14,"$670,000 ",37.05341,-122.01527,CA,Single-Family Home,670000,"$743,000 ",,,,,Sold,SANTA CRUZ
+95066,221 Geyer Rd,2,3,Scotts Valley,"3,421 sqft",31-Jan-14,"$1,150,000 ",37.056427,-122.038284,CA,Farm/Ranch,1150000,"$910,000 ",,,,,Sold,SANTA CRUZ
+95066,878 Cadillac Dr,2,3,Scotts Valley,"1,603 sqft",31-Jan-14,"$637,000 ",37.055126,-122.01978,CA,Farm/Ranch,637000,"$788,000 ",,,,,Sold,SANTA CRUZ
+95066,901 Whispering Pines Dr,2,3,Scotts Valley,"2,131 sqft",31-Jan-14,"$732,000 ",37.03919,-122.03394,CA,Single-Family Home,732000,"$854,000 ",,,,,Sold,SANTA CRUZ
+95066,43 Appaloosa Ct,2,2,Scotts Valley,"1,419 sqft",29-Jan-14,"$440,000 ",37.040558,-122.026276,CA,Townhouse,440000,"$458,000 ",,,,,Sold,SANTA CRUZ
+95066,170 Hilltop Way,1.5,2,Scotts Valley,"1,195 sqft",29-Jan-14,"$525,000 ",37.059917,-121.99714,CA,Single-Family Home,525000,"$556,000 ",,,,,Sold,SANTA CRUZ
+95066,400 Bean Creek Rd,2,3,Scotts Valley,"1,767 sqft",27-Jan-14,"$450,000 ",37.050472,-122.02511,CA,Single-Family Home,450000,"$736,000 ",,,,,Sold,SANTA CRUZ
+95066,311 Bean Creek Rd #310,1,2,Scotts Valley,"1,012 sqft",22-Jan-14,"$335,000 ",37.04921,-122.0255,CA,Condo,335000,"$382,000 ",,,,,Sold,SANTA CRUZ
+95066,31 Willis Rd,2,4,Scotts Valley,"2,536 sqft",21-Jan-14,"$830,000 ",37.058994,-122.01602,CA,Single-Family Home,830000,"$822,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #153,2,2,Scotts Valley,"1,464 sqft",17-Jan-14,"$327,000 ",37.05401,-122.026825,CA,Mobile/Manufactured,327000,,,,,,Sold,SANTA CRUZ
+95066,6500 Highway 17,1,2,Scotts Valley,736 sqft,15-Jan-14,"$460,000 ",37.067955,-121.99402,CA,Farm/Ranch,460000,"$432,000 ",,,,,Sold,SANTA CRUZ
+95066,621 Grace Way,2,4,Scotts Valley,"1,839 sqft",10-Jan-14,"$770,000 ",37.065956,-122.0092,CA,Single-Family Home,770000,"$811,000 ",,,,,Sold,SANTA CRUZ
+95066,740 Whispering Pines Dr,2,3,Scotts Valley,"1,529 sqft",9-Jan-14,"$635,000 ",37.040546,-122.03377,CA,Single-Family Home,635000,"$702,000 ",,,,,Sold,SANTA CRUZ
+95066,305 Hacienda Dr,2,4,Scotts Valley,"2,320 sqft",9-Jan-14,"$754,000 ",37.06448,-122.01081,CA,Single-Family Home,754000,"$759,000 ",,,,,Sold,SANTA CRUZ
+95066,268 Bluebonnet Ln #214,2,2,Scotts Valley,978 sqft,31-Dec-13,"$223,500 ",37.0502,-122.02726,CA,Single-Family Home,223500,"$437,000 ",,,,,Sold,SANTA CRUZ
+95066,111 Bean Creek Rd #143,2,2,Scotts Valley,"1,111 sqft",24-Dec-13,"$353,000 ",37.04591,-122.02477,CA,Condo,353000,"$432,000 ",,,,,Sold,SANTA CRUZ
+95066,161 Dusty Dr,1.5,2,Scotts Valley,"1,280 sqft",24-Dec-13,"$445,000 ",37.074974,-122.031715,CA,Single-Family Home,445000,"$487,000 ",,,,,Sold,SANTA CRUZ
+95066,268 Bluebonnet Ln #212,2,2,Scotts Valley,"1,212 sqft",24-Dec-13,"$456,000 ",37.050327,-122.02708,CA,Condo,456000,"$464,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #207,2,3,Scotts Valley,"1,440 sqft",20-Dec-13,"$375,000 ",37.054295,-122.02471,CA,Mobile/Manufactured,375000,,,,,,Sold,SANTA CRUZ
+95066,509 Tadstone Ln,,,Scotts Valley,,16-Dec-13,"$695,000 ",37.09971,-121.988464,CA,Single-Family Home,695000,,,,,,Sold,SANTA CRUZ
+95066,217 Navarra Dr,2,3,Scotts Valley,"1,446 sqft",13-Dec-13,"$644,500 ",37.06265,-121.998535,CA,Single-Family Home,644500,"$695,000 ",,,,,Sold,SANTA CRUZ
+95066,563 Skypark Dr,2.5,3,Scotts Valley,"1,338 sqft",12-Dec-13,"$632,500 ",37.052048,-122.03271,CA,Single-Family Home,632500,"$700,000 ",,,,,Sold,SANTA CRUZ
+95066,119 N Navarra Dr,2.5,4,Scotts Valley,"2,169 sqft",6-Dec-13,"$629,000 ",37.06135,-122.000656,CA,Single-Family Home,629000,"$803,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #171,2,2,Scotts Valley,"1,296 sqft",27-Nov-13,"$385,000 ",37.05443,-122.02322,CA,Single-Family Home,385000,"$562,000 ",,,,,Sold,SANTA CRUZ
+95066,268 Bluebonnet Ln #113,2,2,Scotts Valley,"1,212 sqft",27-Nov-13,"$219,500 ",37.05031,-122.02634,CA,Single-Family Home,219500,"$506,000 ",,,,,Sold,SANTA CRUZ
+95066,214 El Camino Rd,3,4,Scotts Valley,"2,490 sqft",26-Nov-13,"$750,000 ",37.06037,-121.99621,CA,Single-Family Home,750000,"$757,000 ",,,,,Sold,SANTA CRUZ
+95060,300 Endlich Dr,3.5,3,Scotts Valley,"3,228 sqft",26-Nov-13,"$1,475,000 ",37.01885,-122.00671,CA,Farm/Ranch,1475000,"$1,102,000 ",,,,,Sold,SANTA CRUZ
+95066,500 Shasta Park Ct,3,4,Scotts Valley,"2,788 sqft",25-Nov-13,"$1,160,000 ",37.033176,-122.02923,CA,Single-Family Home,1160000,"$1,386,000 ",,,,,Sold,SANTA CRUZ
+95066,38 Flora Ln,2.5,3,Scotts Valley,"1,537 sqft",22-Nov-13,"$455,000 ",37.036976,-122.02029,CA,Townhouse,455000,"$560,000 ",,,,,Sold,SANTA CRUZ
+95066,4003 Granite Creek Rd,2,3,Scotts Valley,"1,633 sqft",22-Nov-13,"$624,000 ",37.059658,-122.001366,CA,Single-Family Home,624000,"$684,000 ",,,,,Sold,SANTA CRUZ
+95066,5 Fox Sparrow Ct,2.5,3,Scotts Valley,"1,828 sqft",21-Nov-13,"$685,000 ",37.062767,-122.00978,CA,Single-Family Home,685000,"$780,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #91,,,Scotts Valley,"1,368 sqft",20-Nov-13,"$339,000 ",37.05351,-122.02612,CA,Mobile/Manufactured,339000,,,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #88,2,2,Scotts Valley,"1,922 sqft",15-Nov-13,"$500,000 ",37.05351,-122.02612,CA,Mobile/Manufactured,500000,,,,,,Sold,SANTA CRUZ
+95066,610 Bean Creek Rd,1.5,4,Scotts Valley,"1,380 sqft",8-Nov-13,"$75,000 ",37.05606,-122.02055,CA,Single-Family Home,75000,"$386,000 ",,,,,Sold,SANTA CRUZ
+95066,226 Sherman Dr,2,3,Scotts Valley,"1,860 sqft",5-Nov-13,"$735,000 ",37.058258,-122.00259,CA,Single-Family Home,735000,"$639,000 ",,,,,Sold,SANTA CRUZ
+95066,164 Zinfandel Cir,3,4,Scotts Valley,"2,592 sqft",4-Nov-13,"$840,000 ",37.06504,-122.002106,CA,Single-Family Home,840000,"$946,000 ",,,,,Sold,SANTA CRUZ
+95066,19 Erba Ln,2,2,Scotts Valley,"1,188 sqft",1-Nov-13,"$399,000 ",37.04949,-122.020294,CA,Condo,399000,"$416,000 ",,,,,Sold,SANTA CRUZ
+95066,610 Grace Way,2,3,Scotts Valley,"1,033 sqft",31-Oct-13,"$495,000 ",37.064816,-122.008896,CA,Single-Family Home,495000,"$506,000 ",,,,,Sold,SANTA CRUZ
+95066,253 Spreading Oak Dr,2,3,Scotts Valley,"2,101 sqft",31-Oct-13,"$700,000 ",37.034096,-122.03469,CA,Single-Family Home,700000,"$874,000 ",,,,,Sold,SANTA CRUZ
+95066,22 Deerfield Dr,5.5,4,Scotts Valley,"2,777 sqft",30-Oct-13,"$960,000 ",37.07131,-122.00324,CA,Single-Family Home,960000,"$1,003,000 ",,,,,Sold,SANTA CRUZ
+95066,5 Traci Ct,3.5,5,Scotts Valley,"4,152 sqft",30-Oct-13,"$1,450,000 ",37.05409,-121.99463,CA,Single-Family Home,1450000,"$1,766,000 ",,,,,Sold,SANTA CRUZ
+95066,135 Green Valley Rd,1,1,Scotts Valley,925 sqft,28-Oct-13,"$500,000 ",37.056213,-122.03094,CA,Single-Family Home,500000,"$550,000 ",,,,,Sold,SANTA CRUZ
+95066,2932 Granite Creek Rd,2,3,Scotts Valley,"1,501 sqft",25-Oct-13,"$660,000 ",37.056973,-121.99791,CA,Single-Family Home,660000,"$697,000 ",,,,,Sold,SANTA CRUZ
+95066,389 Glenwood Cutoff,2,2,Scotts Valley,"1,030 sqft",24-Oct-13,"$538,500 ",37.102158,-121.98197,CA,Farm/Ranch,538500,"$547,000 ",,,,,Sold,SANTA CRUZ
+95066,28 Silver Birch Ln,2.5,4,Scotts Valley,"1,634 sqft",23-Oct-13,"$651,000 ",37.041473,-122.027725,CA,Single-Family Home,651000,"$725,000 ",,,,,Sold,SANTA CRUZ
+95066,109 Christel Oaks Dr #A,2,4,Scotts Valley,"1,792 sqft",16-Oct-13,"$543,000 ",37.048317,-122.023155,CA,Multi-Family,543000,"$653,000 ",,,,,Sold,SANTA CRUZ
+95066,579 Skypark Dr,2.5,3,Scotts Valley,"1,338 sqft",15-Oct-13,"$639,000 ",37.05254,-122.03254,CA,Single-Family Home,639000,"$705,000 ",,,,,Sold,SANTA CRUZ
+95066,111 Bean Creek Rd #21,2,2,Scotts Valley,"1,197 sqft",11-Oct-13,"$376,000 ",37.045135,-122.02537,CA,Condo,376000,"$460,000 ",,,,,Sold,SANTA CRUZ
+95066,310 Estrella Dr,2,2,Scotts Valley,"1,628 sqft",11-Oct-13,"$650,000 ",37.041405,-122.034775,CA,Single-Family Home,650000,"$719,000 ",,,,,Sold,SANTA CRUZ
+95066,135 Sugar Valley Rd,2,3,Scotts Valley,"1,571 sqft",10-Oct-13,"$663,000 ",37.097977,-121.97117,CA,Farm/Ranch,663000,"$687,000 ",,,,,Sold,SANTA CRUZ
+95066,5 Deerfield Dr,4.5,5,Scotts Valley,"3,237 sqft",8-Oct-13,"$1,135,000 ",37.069992,-122.004036,CA,Single-Family Home,1135000,"$1,120,000 ",,,,,Sold,SANTA CRUZ
+95066,1 Blake Ln #2C,,,Scotts Valley,,4-Oct-13,"$302,000 ",37.045883,-122.0211,CA,Lot/Land,302000,,,,,,Sold,SANTA CRUZ
+95066,1 Blake Ln #2B,,,Scotts Valley,,4-Oct-13,"$302,000 ",37.045883,-122.0211,CA,Lot/Land,302000,,,,,,Sold,SANTA CRUZ
+95066,1 Blake Ln #2A,,,Scotts Valley,,4-Oct-13,"$302,000 ",37.045883,-122.0211,CA,Lot/Land,302000,,,,,,Sold,SANTA CRUZ
+95066,268 Baja Sol Dr,2,3,Scotts Valley,"1,531 sqft",2-Oct-13,"$627,500 ",37.038364,-122.03588,CA,Single-Family Home,627500,"$763,000 ",,,,,Sold,SANTA CRUZ
+95066,220 San Augustine Way,2.5,3,Scotts Valley,"2,411 sqft",2-Oct-13,"$887,000 ",37.06448,-122.006546,CA,Single-Family Home,887000,"$848,000 ",,,,,Sold,SANTA CRUZ
+95066,213 Spreading Oak Dr,2,3,Scotts Valley,"2,727 sqft",1-Oct-13,"$800,000 ",37.035667,-122.03472,CA,Single-Family Home,800000,"$1,002,000 ",,,,,Sold,SANTA CRUZ
+95066,114 Sawyer Ct,3,4,Scotts Valley,"2,558 sqft",1-Oct-13,"$810,000 ",37.075356,-121.990486,CA,Farm/Ranch,810000,"$885,000 ",,,,,Sold,SANTA CRUZ
+95066,293 Civic Center Dr,2.5,3,Scotts Valley,"1,778 sqft",27-Sep-13,"$600,000 ",37.05207,-122.015755,CA,Townhouse,600000,"$635,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,27-Sep-13,"$616,500 ",37.049793,-122.02707,CA,Unknown,616500,,,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #172,2,3,Scotts Valley,"1,755 sqft",27-Sep-13,"$539,000 ",37.054737,-122.02333,CA,Mobile/Manufactured,539000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$345,000 ",37.049793,-122.02707,CA,Single-Family Home,345000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$546,500 ",37.049793,-122.02707,CA,Single-Family Home,546500,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$570,000 ",37.049793,-122.02707,CA,Single-Family Home,570000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$639,500 ",37.049793,-122.02707,CA,Single-Family Home,639500,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$330,000 ",37.049793,-122.02707,CA,Single-Family Home,330000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,26-Sep-13,"$592,000 ",37.049793,-122.02707,CA,Single-Family Home,592000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,25-Sep-13,"$589,500 ",37.049793,-122.02707,CA,Single-Family Home,589500,,,,,,Sold,SANTA CRUZ
+95066,60 Terrace View Dr #A,2,3,Scotts Valley,"1,338 sqft",25-Sep-13,"$467,000 ",37.04868,-122.02019,CA,Multi-Family,467000,"$566,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,25-Sep-13,"$546,000 ",37.049793,-122.02707,CA,Single-Family Home,546000,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,25-Sep-13,"$580,000 ",37.049793,-122.02707,CA,Lot/Land,580000,,,,,,Sold,SANTA CRUZ
+95066,224 Burlwood Dr,2,3,Scotts Valley,"1,091 sqft",23-Sep-13,"$525,000 ",37.062016,-121.99568,CA,Single-Family Home,525000,"$581,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #150,,,Scotts Valley,,23-Sep-13,"$379,000 ",37.05351,-122.02612,CA,Mobile/Manufactured,379000,,,,,,Sold,SANTA CRUZ
+95066,240 San Augustine Way,2.5,4,Scotts Valley,"3,117 sqft",20-Sep-13,"$1,198,000 ",37.06594,-122.006424,CA,Single-Family Home,1198000,"$1,143,000 ",,,,,Sold,SANTA CRUZ
+95066,673 Pinecone Dr,2,3,Scotts Valley,"1,748 sqft",20-Sep-13,"$805,500 ",37.03993,-122.036354,CA,Single-Family Home,805500,"$788,000 ",,,,,Sold,SANTA CRUZ
+95066,552 Bean Creek Rd #73,2,2,Scotts Valley,"1,540 sqft",12-Sep-13,"$375,000 ",37.05217,-122.02484,CA,Mobile/Manufactured,375000,,,,,,Sold,SANTA CRUZ
+95066,293 Arrowhead Way,4,4,Scotts Valley,"3,090 sqft",12-Sep-13,"$1,135,000 ",37.044247,-122.03694,CA,Single-Family Home,1135000,"$1,110,000 ",,,,,Sold,SANTA CRUZ
+95066,106 Falcon Ridge Rd,,,Scotts Valley,,9-Sep-13,"$995,000 ",37.043232,-122.01478,CA,Single-Family Home,995000,,,,,,Sold,SANTA CRUZ
+95066,132 Sunridge Dr,2.5,3,Scotts Valley,"2,482 sqft",9-Sep-13,"$30,000 ",37.037983,-122.01852,CA,Single-Family Home,30000,"$802,000 ",,,,,Sold,SANTA CRUZ
+95066,2929 Granite Creek Rd,2,1,Scotts Valley,"1,735 sqft",6-Sep-13,"$685,000 ",37.05652,-121.99828,CA,Single-Family Home,685000,"$718,000 ",,,,,Sold,SANTA CRUZ
+95066,111 Bean Creek Rd #78,2,,Scotts Valley,"1,032 sqft",5-Sep-13,"$340,000 ",37.046192,-122.02509,CA,Condo,340000,"$433,000 ",,,,,Sold,SANTA CRUZ
+95066,118 Lauren Cir,3.5,5,Scotts Valley,"5,235 sqft",3-Sep-13,"$1,500,000 ",37.055096,-121.997185,CA,Single-Family Home,1500000,"$2,066,000 ",,,,,Sold,SANTA CRUZ
+95066,570 Tabor Dr,2,3,Scotts Valley,"1,330 sqft",30-Aug-13,"$480,000 ",37.072853,-121.99671,CA,Single-Family Home,480000,"$640,000 ",,,,,Sold,SANTA CRUZ
+95066,12 Maeve Ct,2,3,Scotts Valley,"1,511 sqft",29-Aug-13,"$660,000 ",37.063137,-122.00821,CA,Single-Family Home,660000,"$729,000 ",,,,,Sold,SANTA CRUZ
+95066,111 Bean Creek Rd #172,2.5,2,Scotts Valley,"1,180 sqft",29-Aug-13,"$428,000 ",37.048065,-122.02568,CA,Condo,428000,"$441,000 ",,,,,Sold,SANTA CRUZ
+95066,112 Falcon Ridge Rd,,,Scotts Valley,,28-Aug-13,"$995,000 ",37.042686,-122.01504,CA,Single-Family Home,995000,,,,,,Sold,SANTA CRUZ
+95066,111 Bean Creek Rd #74,2,2,Scotts Valley,929 sqft,26-Aug-13,"$327,000 ",37.046013,-122.02498,CA,Condo,327000,"$423,000 ",,,,,Sold,SANTA CRUZ
+95066,15 Windward Pl,2,2,Scotts Valley,"1,240 sqft",23-Aug-13,"$583,000 ",37.05051,-122.01639,CA,Single-Family Home,583000,"$570,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,23-Aug-13,"$420,000 ",37.049793,-122.02707,CA,Single-Family Home,420000,,,,,,Sold,SANTA CRUZ
+95066,322 Oak Creek Blvd,2.5,2,Scotts Valley,"1,788 sqft",21-Aug-13,"$625,000 ",37.045654,-122.017624,CA,Townhouse,625000,"$654,000 ",,,,,Sold,SANTA CRUZ
+95066,1125 Whispering Pines Dr,3,3,Scotts Valley,"1,892 sqft",20-Aug-13,"$649,000 ",37.03732,-122.037445,CA,Single-Family Home,649000,"$763,000 ",,,,,Sold,SANTA CRUZ
+95066,132 Zinfandel Cir,3,5,Scotts Valley,"2,785 sqft",20-Aug-13,"$950,000 ",37.06758,-122.00353,CA,Single-Family Home,950000,"$1,070,000 ",,,,,Sold,SANTA CRUZ
+95066,9 Carriage Ln,2,3,Scotts Valley,"1,547 sqft",16-Aug-13,"$430,000 ",37.039898,-122.02853,CA,Townhouse,430000,"$525,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,16-Aug-13,"$604,500 ",37.049793,-122.02707,CA,Lot/Land,604500,,,,,,Sold,SANTA CRUZ
+95066,216 Hidden Glen Dr,2,3,Scotts Valley,"1,597 sqft",16-Aug-13,"$900,000 ",37.034798,-122.03885,CA,Single-Family Home,900000,"$907,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,15-Aug-13,"$592,500 ",37.049793,-122.02707,CA,Lot/Land,592500,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,15-Aug-13,"$598,500 ",37.049793,-122.02707,CA,Single-Family Home,598500,,,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,14-Aug-13,"$576,500 ",37.049793,-122.02707,CA,Single-Family Home,576500,,,,,,Sold,SANTA CRUZ
+95066,311 Bean Creek Rd #103,1,2,Scotts Valley,"1,012 sqft",9-Aug-13,"$325,000 ",37.049248,-122.024536,CA,Condo,325000,"$352,000 ",,,,,Sold,SANTA CRUZ
+95066,6017 Scotts Valley Dr #17,2,2,Scotts Valley,"1,216 sqft",9-Aug-13,"$400,000 ",37.064877,-122.00317,CA,Condo,400000,"$465,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,8-Aug-13,"$558,000 ",37.049793,-122.02707,CA,Single-Family Home,558000,,,,,,Sold,SANTA CRUZ
+95066,925 Whispering Pines Dr,2,3,Scotts Valley,"1,920 sqft",8-Aug-13,"$719,000 ",37.038628,-122.03376,CA,Single-Family Home,719000,"$728,000 ",,,,,Sold,SANTA CRUZ
+95066,117 Whispering Pines Ct,3,4,Scotts Valley,"2,308 sqft",6-Aug-13,"$862,000 ",37.040436,-122.03186,CA,Single-Family Home,862000,"$1,060,000 ",,,,,Sold,SANTA CRUZ
+95066,234 Sherman Dr,2,3,Scotts Valley,"1,562 sqft",1-Aug-13,"$670,000 ",37.057953,-122.00323,CA,Single-Family Home,670000,"$698,000 ",,,,,Sold,SANTA CRUZ
+95066,27 Riesling Way,3,4,Scotts Valley,"2,592 sqft",1-Aug-13,"$965,000 ",37.066692,-122.000916,CA,Single-Family Home,965000,"$1,144,000 ",,,,,Sold,SANTA CRUZ
+95066,536 Lockhart Gulch Rd,1,2,Scotts Valley,924 sqft,31-Jul-13,"$220,000 ",37.056095,-122.03245,CA,Single-Family Home,220000,"$410,000 ",,,,,Sold,SANTA CRUZ
+95066,333 Piper Cub Ct,3,5,Scotts Valley,"2,142 sqft",30-Jul-13,"$710,000 ",37.05047,-122.03433,CA,Single-Family Home,710000,"$879,000 ",,,,,Sold,SANTA CRUZ
+95066,660 Whispering Pines Dr,2,4,Scotts Valley,"2,358 sqft",26-Jul-13,"$750,000 ",37.040005,-122.03246,CA,Single-Family Home,750000,"$884,000 ",,,,,Sold,SANTA CRUZ
+95066,468 Tabor Dr,2.5,4,Scotts Valley,"1,815 sqft",26-Jul-13,"$636,000 ",37.071724,-121.99586,CA,Single-Family Home,636000,"$712,000 ",,,,,Sold,SANTA CRUZ
+95066,311 Bean Creek Rd #206,1,2,Scotts Valley,"1,012 sqft",23-Jul-13,"$355,000 ",37.04902,-122.02492,CA,Condo,355000,"$376,000 ",,,,,Sold,SANTA CRUZ
+95066,55 Terrace View Dr,2,3,Scotts Valley,"1,286 sqft",18-Jul-13,"$547,000 ",37.047367,-122.02008,CA,Single-Family Home,547000,"$592,000 ",,,,,Sold,SANTA CRUZ
+95066,265 Hidden Glen Dr,3.5,3,Scotts Valley,"3,531 sqft",18-Jul-13,"$1,134,000 ",37.033867,-122.0367,CA,Single-Family Home,1134000,"$1,318,000 ",,,,,Sold,SANTA CRUZ
+95066,10 Willis Rd,2,3,Scotts Valley,"1,204 sqft",16-Jul-13,"$540,000 ",37.059002,-122.01235,CA,Single-Family Home,540000,"$658,000 ",,,,,Sold,SANTA CRUZ
+95066,106 Bluebonnet Ln #16,2.5,3,Scotts Valley,"1,397 sqft",15-Jul-13,"$480,000 ",37.050507,-122.02557,CA,Townhouse,480000,"$569,000 ",,,,,Sold,SANTA CRUZ
+95066,869 Pinecone Dr,2,3,Scotts Valley,"1,937 sqft",9-Jul-13,"$671,000 ",37.03737,-122.03966,CA,Single-Family Home,671000,"$813,000 ",,,,,Sold,SANTA CRUZ
+95066,1675 Weston Rd,2,3,Scotts Valley,"1,736 sqft",28-Jun-13,"$875,000 ",37.08928,-122.02172,CA,Farm/Ranch,875000,"$852,000 ",,,,,Sold,SANTA CRUZ
+95066,35 Casa Way,2.5,3,Scotts Valley,"2,152 sqft",26-Jun-13,"$1,042,500 ",37.06856,-122.00888,CA,Single-Family Home,1042500,"$1,015,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,3.5,4,Scotts Valley,"2,316 sqft",25-Jun-13,"$590,000 ",37.049793,-122.02707,CA,Townhouse,590000,"$667,000 ",,,,,Sold,SANTA CRUZ
+95066,237 Bluebonnet Ln,,,Scotts Valley,,25-Jun-13,"$562,000 ",37.049793,-122.02707,CA,Lot/Land,562000,,,,,,Sold,SANTA CRUZ

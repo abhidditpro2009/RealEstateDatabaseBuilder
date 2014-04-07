@@ -1,0 +1,355 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94539,508 Sago Palm Ter,3,3,Fremont,"1,409 sqft",31-Dec-69,$0 ,37.461765,-121.91693,CA,Single-Family Home,699000,,,East Industrial,28,,For Sale,ALAMEDA
+94536,38542 Vancouver Cmn,2.5,3,Fremont,"1,430 sqft",31-Dec-69,$0 ,37.560658,-121.9805,CA,Townhome,499999,,,Parkmont,60,,For Sale,ALAMEDA
+94536,36360 Magellan Dr,1,3,Fremont,"1,111 sqft",31-Dec-69,$0 ,37.55486,-122.02406,CA,Single-Family Home,519000,,,Cabrillo,51,,For Sale,ALAMEDA
+94555,3173 Alpine Dr,3,4,Fremont,"2,678 sqft",31-Dec-69,$0 ,37.58506,-122.04166,CA,Single-Family Home,950000,,,Northgate,45,,For Sale,ALAMEDA
+94538,4018 Rector Cmn,2,2,Fremont,"1,067 sqft",31-Dec-69,$0 ,37.542255,-121.97826,CA,Apt/Condo/Twnhm,384000,,,Sundale,51,,For Sale,ALAMEDA
+94536,4323 Lombard Ave,4,4,Fremont,"2,211 sqft",31-Dec-69,$0 ,37.552216,-122.00368,CA,Single-Family Home,1195950,,,Glenmoor,65,,For Sale,ALAMEDA
+94536,3453 Baywood Ter #202,3,2,Fremont,"1,083 sqft",31-Dec-69,$0 ,37.563652,-122.00712,CA,Condo,388000,,,Centerville,71,,For Sale,ALAMEDA
+94536,1063 Kraftile Rd,4,5,Fremont,"3,600 sqft",31-Dec-69,$0 ,37.58364,-122.0064,CA,Single-Family Home,1099000,,,Niles,25,,For Sale,ALAMEDA
+94555,34116 Pavia Ter,3.5,3,Fremont,"1,387 sqft",31-Dec-69,$0 ,37.560772,-122.06183,CA,Townhome,629888,,,Ardenwood,23,,For Sale,ALAMEDA
+94555,34222 Della Ter,2.5,3,Fremont,"1,481 sqft",31-Dec-69,$0 ,37.56106,-122.05781,CA,Single-Family Home,765000,,,Ardenwood,37,,For Sale,ALAMEDA
+94538,39916 Fremont Blvd,2,2,Fremont,"1,165 sqft",31-Dec-69,$0 ,37.542076,-121.97389,CA,Apt/Condo/Twnhm,355000,,,Central Downtown,51,,For Sale,ALAMEDA
+94536,38684 Kimbro St,3,4,Fremont,"2,273 sqft",31-Dec-69,$0 ,37.5475,-121.995186,CA,Single-Family Home,1050000,,,Glenmoor,71,,For Sale,ALAMEDA
+94538,40425 Chapel Way #103,2,2,Fremont,"1,052 sqft",31-Dec-69,$0 ,37.53879,-121.95884,CA,Single-Family Home,315000,,,Irvington,63,,For Sale,ALAMEDA
+94539,42374 Barbary St,2,4,Fremont,"1,402 sqft",31-Dec-69,$0 ,37.533375,-121.9401,CA,Single-Family Home,939888,,,Mission Valley,40,,For Sale,ALAMEDA
+94536,3881 Burton Cmn,3,3,Fremont,"1,506 sqft",31-Dec-69,$0 ,37.55414,-121.99679,CA,Condo,599950,,,Centerville,66,,For Sale,ALAMEDA
+94539,867 Boar Ter,6,5,Fremont,"6,850 sqft",31-Dec-69,$0 ,37.50906,-121.91088,CA,Single-Family Home,8200000,,,Vineyards - Avalon,8,,For Sale,ALAMEDA
+94538,42447 Grand Teton Park St,3,4,Fremont,"2,103 sqft",31-Dec-69,$0 ,37.520565,-121.969444,CA,Single-Family Home,745000,,,Blacow,49,,For Sale,ALAMEDA
+94536,38053 Canyon Heights Dr,2,3,Fremont,922 sqft,31-Dec-69,$0 ,37.584282,-121.96168,CA,Single-Family Home,559950,,,Canyon Heights - Vallejo Mills,12,,For Sale,ALAMEDA
+94555,3549 Lake Ontario Dr,2,3,Fremont,"1,335 sqft",31-Dec-69,$0 ,37.58749,-122.05562,CA,Single-Family Home,550000,,,Lakes and Birds,45,,For Sale,ALAMEDA
+94536,5118 Vernon Ave,2,4,Fremont,"1,635 sqft",31-Dec-69,$0 ,37.53834,-122.00453,CA,Single-Family Home,749900,,,Glenmoor,46,,For Sale,ALAMEDA
+94539,430 Panorama Ct,3,5,Fremont,"2,822 sqft",31-Dec-69,$0 ,37.52365,-121.914795,CA,Single-Family Home,1175000,,,Mission Hills,63,,For Sale,ALAMEDA
+94539,145 E Las Palmas Ave,3.5,5,Fremont,"3,478 sqft",31-Dec-69,$0 ,37.55858,-121.94956,CA,Single-Family Home,1855880,,,Kimber - Gomes,37,,For Sale,ALAMEDA
+94539,40336 Dolerita Ave,3,4,Fremont,"2,515 sqft",31-Dec-69,$0 ,37.556416,-121.94686,CA,Single-Family Home,1399888,,,Kimber - Gomes,34,,For Sale,ALAMEDA
+94538,4388 Fern Ter,3,3,Fremont,"1,633 sqft",31-Dec-69,$0 ,37.519733,-121.96159,CA,Single-Family Home,769000,,,Grimmer,60,,For Sale,ALAMEDA
+94538,43375 Castle Park Ct,2,3,Fremont,"1,445 sqft",31-Dec-69,$0 ,37.511772,-121.96497,CA,Single-Family Home,625000,,,Blacow,58,,For Sale,ALAMEDA
+94538,4600 Nelson St,6,4,Fremont,"3,884 sqft",31-Dec-69,$0 ,37.535946,-121.98375,CA,Single-Family Home,1199999,,,Sundale,48,,For Sale,ALAMEDA
+94539,1566 Blackfoot Dr,3,4,Fremont,"3,272 sqft",31-Dec-69,$0 ,37.511253,-121.928345,CA,Single-Family Home,1599000,,,Weibel,22,,For Sale,ALAMEDA
+94539,48404 Costa Mesa Ter,5,5,Fremont,"4,254 sqft",31-Dec-69,$0 ,37.477062,-121.8971,CA,Single-Family Home,1999950,,,Vineyards - Avalon,9,,For Sale,ALAMEDA
+94538,43285 Montrose Ave,2,3,Fremont,"1,130 sqft",31-Dec-69,$0 ,37.517094,-121.95251,CA,Single-Family Home,650000,,,Grimmer,60,,For Sale,ALAMEDA
+94555,32956 Great Salt Lake Dr,2,3,Fremont,"1,629 sqft",31-Dec-69,$0 ,37.584934,-122.05755,CA,Single-Family Home,595888,,,Lakes and Birds,51,,For Sale,ALAMEDA
+94536,35522 Ronda Ct,2,3,Fremont,"1,543 sqft",31-Dec-69,$0 ,37.569603,-122.02424,CA,Single-Family Home,740000,,,Brookvale,72,,For Sale,ALAMEDA
+94536,37844 Mosswood Dr,3,3,Fremont,"1,661 sqft",31-Dec-69,$0 ,37.546856,-122.00799,CA,Single-Family Home,699950,,,Glenmoor,46,,For Sale,ALAMEDA
+94538,3648 Norfolk Rd,2,3,Fremont,"1,314 sqft",31-Dec-69,$0 ,37.5144,-121.94941,CA,Single-Family Home,469000,,,Grimmer,55,,For Sale,ALAMEDA
+94539,1530 Washington Blvd,,,Fremont,"3,120 sqft",31-Dec-69,$0 ,37.530594,-121.93714,CA,Single-Family Home,145000,,,Cameron Hills,35,,For Sale,ALAMEDA
+94539,2076 Estates Ter,5,5,Fremont,"7,800 sqft",31-Dec-69,$0 ,37.496838,-121.90455,CA,Single-Family Home,4680000,,,Vineyards - Avalon,8,,For Sale,ALAMEDA
+94539,2395 Tecado Ter,,,Fremont,,31-Dec-69,$0 ,37.56663,-121.923805,CA,Lot/Land,1950000,,,Kimber - Gomes,0,,For Sale,ALAMEDA
+94536,38627 Cherry Ln #52,2,3,Fremont,"1,199 sqft",31-Dec-69,$0 ,37.565502,-121.97237,CA,Apt/Condo/Twnhm,368888,,,Cherry - Guardino,48,,For Sale,ALAMEDA
+94539,49002 Cinnamon Fern Cmn #200,2,2,Fremont,"1,274 sqft",31-Dec-69,$0 ,37.46167,-121.9141,CA,Condo,598000,,,East Industrial,37,,For Sale,ALAMEDA
+94555,4794 Mallard Cmn,2.5,4,Fremont,"1,637 sqft",31-Dec-69,$0 ,37.566418,-122.04604,CA,Single-Family Home,779000,,,Ardenwood,46,,For Sale,ALAMEDA
+94539,118 Mission Tierra Pl,5,4,Fremont,"3,747 sqft",31-Dec-69,$0 ,37.532692,-121.91878,CA,Single-Family Home,1978888,,,Mission San Jose,62,,For Sale,ALAMEDA
+94536,554 Niles Cmn,3,3,Fremont,"1,312 sqft",31-Dec-69,$0 ,37.57953,-121.99486,CA,Townhome,545000,,,Niles,15,,For Sale,ALAMEDA
+94536,4555 Meyer Park Cir,3,4,Fremont,"2,330 sqft",31-Dec-69,$0 ,37.54676,-122.00234,CA,Single-Family Home,945550,,,Glenmoor,43,,For Sale,ALAMEDA
+94539,2290 Camellia Ct,2,3,Fremont,"1,540 sqft",31-Dec-69,$0 ,37.510864,-121.93613,CA,Single-Family Home,899000,,,Weibel,37,,For Sale,ALAMEDA
+94539,169 Rabbit Ct,3,4,Fremont,"1,728 sqft",31-Dec-69,$0 ,37.5096,-121.918594,CA,Single-Family Home,929000,,,Vineyards - Avalon,14,,For Sale,ALAMEDA
+94536,3541 Sutton Loop,2,3,Fremont,"1,996 sqft",31-Dec-69,$0 ,37.557777,-121.99945,CA,Single-Family Home,669000,,,Centerville,65,,For Sale,ALAMEDA
+94538,3854 Main St,2,3,Fremont,"1,204 sqft",31-Dec-69,$0 ,37.533314,-121.95812,CA,Single-Family Home,549000,,,Irvington,75,,For Sale,ALAMEDA
+94536,37047 Contra Costa Ave,2,3,Fremont,"1,347 sqft",31-Dec-69,$0 ,37.553852,-122.01446,CA,Single-Family Home,654500,,,Centerville,60,,For Sale,ALAMEDA
+94539,2250 Annapolis Dr,3,5,Fremont,"2,810 sqft",31-Dec-69,$0 ,37.5195,-121.93669,CA,Single-Family Home,1550000,,,Cameron Hills,20,,For Sale,ALAMEDA
+94555,34213 Gannon Ter,2.5,3,Fremont,"1,500 sqft",31-Dec-69,$0 ,37.560886,-122.05888,CA,Single-Family Home,765000,,,Ardenwood,37,,For Sale,ALAMEDA
+94536,428 Sandstone Dr,3,3,Fremont,"1,416 sqft",31-Dec-69,$0 ,37.585484,-122.00251,CA,Single-Family Home,649950,,,Niles,23,,For Sale,ALAMEDA
+94539,245 Kansas Way,3.5,6,Fremont,"2,605 sqft",31-Dec-69,$0 ,37.469563,-121.91529,CA,Single-Family Home,1095000,,,Warm Springs,20,,For Sale,ALAMEDA
+94538,4557 Deerfield Ter,2,2,Fremont,"1,027 sqft",31-Dec-69,$0 ,37.520935,-121.9671,CA,Townhome,399000,,,Grimmer,52,,For Sale,ALAMEDA
+94536,35959 Gaskell Ct,3,5,Fremont,"2,118 sqft",31-Dec-69,$0 ,37.56866,-122.018326,CA,Single-Family Home,799950,,,Brookvale,63,,For Sale,ALAMEDA
+94538,4144 Margery Dr,2,3,Fremont,"1,150 sqft",31-Dec-69,$0 ,37.537144,-121.97211,CA,Single-Family Home,549888,,,South Sundale,48,,For Sale,ALAMEDA
+94536,467 Altura Pl,2,4,Fremont,"1,822 sqft",31-Dec-69,$0 ,37.570606,-121.95999,CA,Single-Family Home,775000,,,Canyon Heights - Vallejo Mills,28,,For Sale,ALAMEDA
+94539,45212 S Grimmer Blvd,6,5,Fremont,"5,500 sqft",31-Dec-69,$0 ,37.507202,-121.92435,CA,Single-Family Home,3490000,,,Weibel,23,,For Sale,ALAMEDA
+94536,35966 Carnation Way,2,3,Fremont,"1,546 sqft",31-Dec-69,$0 ,37.57926,-122.00058,CA,Single-Family Home,699000,,,Niles,12,,For Sale,ALAMEDA
+94539,2397 Marion Ave,6,5,Fremont,"4,773 sqft",31-Dec-69,$0 ,37.53367,-121.94422,CA,Single-Family Home,1888888,,,Mission Valley,40,,For Sale,ALAMEDA
+94538,5748 Butano Park Dr,2,3,Fremont,"1,204 sqft",31-Dec-69,$0 ,37.51368,-121.97321,CA,Single-Family Home,599888,,,Blacow,57,,For Sale,ALAMEDA
+94538,43107 Newport Dr,3,4,Fremont,"1,447 sqft",31-Dec-69,$0 ,37.519333,-121.95077,CA,Single-Family Home,698000,,,Grimmer,52,,For Sale,ALAMEDA
+94538,3478 Fitzsimmons Cmn,3,3,Fremont,,31-Dec-69,$0 ,37.54632,-121.9738,CA,Townhome,698888,,,Central Downtown,62,,For Sale,ALAMEDA
+94539,816 Gregory Ct,3,5,Fremont,"2,811 sqft",31-Dec-69,$0 ,37.505478,-121.92554,CA,Single-Family Home,1498000,,,Weibel,28,,For Sale,ALAMEDA
+94539,49002 Cinnamon Fern Cmn #410,2,2,Fremont,"1,229 sqft",31-Dec-69,$0 ,37.46167,-121.9141,CA,Condo,588000,,,East Industrial,37,,For Sale,ALAMEDA
+94539,47112 Warm Springs Blvd #138,1,2,Fremont,900 sqft,31-Dec-69,$0 ,37.486034,-121.926346,CA,Condo,335000,,,Warm Springs,55,,For Sale,ALAMEDA
+94536,37963 Canterbury St,3,5,Fremont,"2,005 sqft",31-Dec-69,$0 ,37.55738,-121.996445,CA,Single-Family Home,799000,,,Centerville,69,,For Sale,ALAMEDA
+94539,600 Monticello Ter,10,6,Fremont,"16,245 sqft",31-Dec-69,$0 ,37.535835,-121.91443,CA,Single-Family Home,9000000,,,Mission San Jose,38,,For Sale,ALAMEDA
+94539,43359 Banda Ter,2.5,3,Fremont,"1,987 sqft",31-Dec-69,$0 ,37.525105,-121.93589,CA,Townhome,885000,,,Cameron Hills,29,,For Sale,ALAMEDA
+94555,34089 Gannon Ter,,3,Fremont,"1,324 sqft",31-Dec-69,$0 ,37.56253,-122.06115,CA,Single-Family Home,690000,,,Ardenwood,25,,For Sale,ALAMEDA
+94536,3321 Howard Cmn,1,2,Fremont,900 sqft,31-Dec-69,$0 ,37.55677,-121.9946,CA,Townhome,368000,,,Centerville,58,,For Sale,ALAMEDA
+94538,39681 Blacow Rd,2,3,Fremont,"1,067 sqft",31-Dec-69,$0 ,37.530647,-121.98806,CA,Single-Family Home,530000,,,28 Palms,45,,For Sale,ALAMEDA
+94536,4796 Thornton Ave,5.5,,Fremont,"1,200 sqft",31-Dec-69,$0 ,37.550205,-122.01964,CA,Income/Investment,140000,,,Centerville,49,,For Sale,ALAMEDA
+94555,33877 Raven Ter,2,2,Fremont,"1,315 sqft",31-Dec-69,$0 ,37.579433,-122.045715,CA,Single-Family Home,539950,,,Northgate,58,,For Sale,ALAMEDA
+94539,252 Sequim Cmn,2,2,Fremont,897 sqft,31-Dec-69,$0 ,37.490486,-121.924614,CA,Single-Family Home,399999,,,Warm Springs,60,,For Sale,ALAMEDA
+94538,39340 Blacow Rd,2,4,Fremont,"1,620 sqft",31-Dec-69,$0 ,37.534294,-121.99348,CA,Single-Family Home,629950,,,Sundale,57,,For Sale,ALAMEDA
+94555,33650 Beard Ct,,,Fremont,,31-Dec-69,$0 ,37.581135,-122.04848,CA,Lot/Land,485000,,,Northgate,51,,For Sale,ALAMEDA
+94536,3530 Oakwood Ter #205,2,2,Fremont,"1,083 sqft",31-Dec-69,$0 ,37.562702,-122.00766,CA,Condo,385000,,,Centerville,71,,For Sale,ALAMEDA
+94539,786 Towhee Ct,2,3,Fremont,"1,302 sqft",31-Dec-69,$0 ,37.483543,-121.916756,CA,Single-Family Home,790000,,,Warm Springs,28,,For Sale,ALAMEDA
+94538,39763 Bissy Cmn,2,3,Fremont,"1,389 sqft",31-Dec-69,$0 ,37.542255,-121.97826,CA,Apt/Condo/Twnhm,425000,,,Sundale,51,,For Sale,ALAMEDA
+94555,33032 Lake Huron St,2,4,Fremont,"1,629 sqft",31-Dec-69,$0 ,37.585693,-122.055466,CA,Single-Family Home,565000,,,Lakes and Birds,42,,For Sale,ALAMEDA
+94536,35952 Cabrillo Dr,2,3,Fremont,"1,707 sqft",31-Dec-69,$0 ,37.55883,-122.02814,CA,Single-Family Home,599888,,,Cabrillo,40,,For Sale,ALAMEDA
+94536,331 D St,2,3,Fremont,"1,144 sqft",31-Dec-69,$0 ,37.57609,-121.98704,CA,Single-Family Home,589000,,,Niles,48,,For Sale,ALAMEDA
+94539,43661 Southerland Way,3,4,Fremont,"2,308 sqft",31-Dec-69,$0 ,37.520447,-121.933334,CA,Single-Family Home,1348000,,,Cameron Hills,17,,For Sale,ALAMEDA
+94536,212 Black Mountain Cir,2.5,3,Fremont,"2,132 sqft",31-Dec-69,$0 ,37.587463,-122.00171,CA,Single-Family Home,855000,,,Niles,26,,For Sale,ALAMEDA
+94555,3021 Wolsey Pl,3,4,Fremont,"1,673 sqft",31-Dec-69,$0 ,37.585278,-122.03903,CA,Single-Family Home,799888,,,Northgate,49,,For Sale,ALAMEDA
+94555,32808 Bluebird Loop,3,3,Fremont,"2,008 sqft",31-Dec-69,$0 ,37.583916,-122.06175,CA,Single-Family Home,995000,,,Lakes and Birds,54,,For Sale,ALAMEDA
+94555,34557 Melissa Ter,3,3,Fremont,"1,571 sqft",31-Dec-69,$0 ,37.55384,-122.05853,CA,Single-Family Home,710000,,,Ardenwood,55,,For Sale,ALAMEDA
+94539,39611 Canyon Heights Dr,3,4,Fremont,"2,515 sqft",31-Dec-69,$0 ,37.562763,-121.9519,CA,Single-Family Home,1498998,,,Kimber - Gomes,32,,For Sale,ALAMEDA
+94539,354 Sequim Cmn,2,2,Fremont,897 sqft,31-Dec-69,$0 ,37.490456,-121.92524,CA,Condo,419999,,,Warm Springs,60,,For Sale,ALAMEDA
+94539,354 Sequim Cmn,2,2,Fremont,897 sqft,31-Dec-69,$0 ,37.490456,-121.92524,CA,Condo,419999,,,Warm Springs,60,,For Sale,ALAMEDA
+94539,47646 Mardis St,2,3,Fremont,"1,234 sqft",31-Dec-69,$0 ,37.479122,-121.92226,CA,Single-Family Home,888000,,,Warm Springs,29,,For Sale,ALAMEDA
+94536,Alta Court and Keystone Drive,4,4,Fremont,"2,800 sqft",31-Dec-69,$0 ,37.542355,-122.01244,CA,Single-Family Home,895000,,,Glenmoor,60,,For Sale,ALAMEDA
+94539,49019 Feather Grass Ter,2.5,3,Fremont,"1,785 sqft",31-Dec-69,$0 ,37.46058,-121.917786,CA,Single-Family Home,788000,,,East Industrial,28,,For Sale,ALAMEDA
+94539,48951 Tonalea St,3,4,Fremont,"1,655 sqft",31-Dec-69,$0 ,37.46253,-121.9133,CA,Single-Family Home,938000,,,Warm Springs,32,,For Sale,ALAMEDA
+94536,4158 Jacinto Dr,2,3,Fremont,"1,484 sqft",31-Dec-69,$0 ,37.564903,-122.025475,CA,Single-Family Home,615000,,,Cabrillo,72,,For Sale,ALAMEDA
+94539,315 Dana St,4,4,Fremont,"3,310 sqft",31-Dec-69,$0 ,37.531265,-121.92306,CA,Single-Family Home,1758000,,,Mission San Jose,57,,For Sale,ALAMEDA
+94536,38228 Paseo Padre Pkwy #15,1,1,Fremont,750 sqft,31-Dec-69,$0 ,37.558777,-121.99033,CA,Apt/Condo/Twnhm,229000,,,Parkmont,54,,For Sale,ALAMEDA
+94539,43453 Laurel Glen Cmn,2,3,Fremont,"1,961 sqft",31-Dec-69,$0 ,37.52909,-121.92693,CA,Single-Family Home,1249000,,,Mission San Jose,46,,For Sale,ALAMEDA
+94539,45910 Sentinel Pl,3,4,Fremont,"2,726 sqft",31-Dec-69,$0 ,37.501846,-121.912766,CA,Single-Family Home,1899950,,,Vineyards - Avalon,8,,For Sale,ALAMEDA
+94538,4569 De Silva St,2,4,Fremont,"1,686 sqft",31-Dec-69,$0 ,37.530273,-121.97522,CA,Single-Family Home,650000,,,South Sundale,49,,For Sale,ALAMEDA
+94555,3150 Raleigh Ct,2,4,Fremont,"1,402 sqft",31-Dec-69,$0 ,37.57884,-122.03139,CA,Single-Family Home,659000,,,Northgate,49,,For Sale,ALAMEDA
+94536,1520 Barlow Ct,2,3,Fremont,"1,938 sqft",31-Dec-69,$0 ,37.562145,-121.982155,CA,Single-Family Home,758900,,,Parkmont,55,,For Sale,ALAMEDA
+94538,4792 Valpey Park Ave,2,3,Fremont,"1,242 sqft",31-Dec-69,$0 ,37.519707,-121.967636,CA,Townhome,459990,,,Grimmer,52,,For Sale,ALAMEDA
+94539,45335 Whitetail Ct,3,5,Fremont,"3,166 sqft",31-Dec-69,$0 ,37.50801,-121.91555,CA,Single-Family Home,1596000,,,Vineyards - Avalon,11,,For Sale,ALAMEDA
+94538,3300 Wolcott Cmn #218,2,2,Fremont,"1,013 sqft",31-Dec-69,$0 ,37.537746,-121.95786,CA,Apt/Condo/Twnhm,368000,,,Irvington,63,,For Sale,ALAMEDA
+94536,4575 Glenmoor Ct,3,3,Fremont,"2,198 sqft",31-Dec-69,$0 ,37.54699,-122.005516,CA,Single-Family Home,979999,,,Glenmoor,43,,For Sale,ALAMEDA
+94536,3233 Sutton Ct,3,5,Fremont,"2,534 sqft",31-Dec-69,$0 ,37.56024,-121.99742,CA,Single-Family Home,899950,,,Centerville,51,,For Sale,ALAMEDA
+94538,5756 Butano Park Dr,2,4,Fremont,"1,804 sqft",31-Dec-69,$0 ,37.51353,-121.97314,CA,Single-Family Home,688888,,,Blacow,57,,For Sale,ALAMEDA
+94536,3464 Turner Ct,2,4,Fremont,,31-Dec-69,$0 ,37.564632,-122.00893,CA,Single-Family Home,649888,,,Brookvale,72,,For Sale,ALAMEDA
+94538,4081 Delaware Dr,4,6,Fremont,"1,604 sqft",31-Dec-69,$0 ,37.51884,-121.956215,CA,Single-Family Home,749000,,,Grimmer,55,,For Sale,ALAMEDA
+94555,34840 Fremont Blvd,1,2,Fremont,,31-Dec-69,$0 ,37.5717,-122.03331,CA,Single-Family Home,700000,,,Northgate,58,,For Sale,ALAMEDA
+94536,4773 Balboa Way,2,3,Fremont,"1,163 sqft",31-Dec-69,$0 ,37.55216,-122.02148,CA,Single-Family Home,499000,,,Cabrillo,,,For Sale,ALAMEDA
+94536,4648 Balboa Way,2,2,Fremont,,31-Dec-69,$0 ,37.553715,-122.018974,CA,Townhome,300000,,,Cabrillo,49,,For Sale,ALAMEDA
+94555,34387 Atteridge Ct,2,3,Fremont,"1,305 sqft",31-Dec-69,$0 ,37.579998,-122.03413,CA,Single-Family Home,629950,,,Northgate,,,For Sale,ALAMEDA
+94539,47618 Gable Cmn,3,3,Fremont,"2,411 sqft",31-Dec-69,$0 ,37.483433,-121.914406,CA,Single-Family Home,1208888,,,Warm Springs,32,,For Sale,ALAMEDA
+94538,3876 Wildflower Cmn,2.5,3,Fremont,"1,352 sqft",31-Dec-69,$0 ,37.52562,-121.95688,CA,Single-Family Home,498000,,,Irvington,72,,For Sale,ALAMEDA
+94539,100 Jacaranda Dr,3,4,Fremont,"2,461 sqft",31-Dec-69,$0 ,37.55027,-121.94243,CA,Single-Family Home,1450000,,,Kimber - Gomes,26,,For Sale,ALAMEDA
+94555,33630 Harrier Ter,2,4,Fremont,"1,853 sqft",31-Dec-69,$0 ,37.581924,-122.04724,CA,Single-Family Home,699950,,,Northgate,49,,For Sale,ALAMEDA
+94538,42254 Blacow Rd,2,3,Fremont,"1,150 sqft",31-Dec-69,$0 ,37.52445,-121.95569,CA,Single-Family Home,675000,,,Irvington,60,,For Sale,ALAMEDA
+94536,613 Amberfield Ter,2.5,4,Fremont,"1,740 sqft",31-Dec-69,$0 ,37.56715,-121.97491,CA,Single-Family Home,780000,,,Parkmont,40,,For Sale,ALAMEDA
+94538,39372 Blacow Rd,3,4,Fremont,"1,763 sqft",31-Dec-69,$0 ,37.53394,-121.99279,CA,Single-Family Home,759000,,,Sundale,69,,For Sale,ALAMEDA
+94539,161 Whitney Pl,,,Fremont,,31-Dec-69,$0 ,37.470287,-121.91975,CA,Unspecified,2250000,,,East Industrial,17,,For Sale,ALAMEDA
+94536,36021 Blair Pl,2,3,Fremont,"1,523 sqft",31-Dec-69,$0 ,37.56683,-122.01973,CA,Single-Family Home,749950,,,Brookvale,72,,For Sale,ALAMEDA
+94538,4792 Valpey Park Ave,6,3,Fremont,,31-Dec-69,$0 ,37.519707,-121.967636,CA,Apt/Condo/Twnhm,459990,,,Grimmer,52,,For Sale,ALAMEDA
+94539,1322 Ocaso Camino,3.5,3,Fremont,,31-Dec-69,$0 ,37.524097,-121.931335,CA,Condo,909950,,,Cameron Hills,28,,For Sale,ALAMEDA
+94555,34826 Fremont Blvd,,,Fremont,,31-Dec-69,$0 ,37.5722,-122.033134,CA,Lot/Land,1800000,,,Northgate,60,,For Sale,ALAMEDA
+94538,3300 Wolcott Cmn #102,2,2,Fremont,"1,013 sqft",31-Dec-69,$0 ,37.537746,-121.95786,CA,Apt/Condo/Twnhm,360000,,,Irvington,63,,For Sale,ALAMEDA
+94536,38376 Blacow Rd,2,3,Fremont,"1,871 sqft",31-Dec-69,$0 ,37.54075,-122.00623,CA,Single-Family Home,769000,,,Glenmoor,42,,For Sale,ALAMEDA
+94538,3582 Ellery Cmn,3,3,Fremont,,31-Dec-69,$0 ,37.546875,-121.976685,CA,Single-Family Home,668000,,,Central Downtown,65,,For Sale,ALAMEDA
+94538,39029 Guardino Dr #215,2,2,Fremont,"1,053 sqft",31-Dec-69,$0 ,37.55858,-121.9716,CA,Apt/Condo/Twnhm,370000,,,Central Downtown,52,,For Sale,ALAMEDA
+94538,Residence One Plan,3,3,Fremont,"1,644 sqft",31-Dec-69,$0 ,37.54045,-121.96001,CA,Single-Family Home,684990,,,Irvington,83,,For Sale,ALAMEDA
+94538,Residence One Plan,2.5,2,Fremont,"1,246 sqft",31-Dec-69,$0 ,37.55943,-122.06304,CA,Townhome,576990,,,Ardenwood,28,,For Sale,ALAMEDA
+94538,Residence Three Plan,3.5,4,Fremont,"2,094 sqft",31-Dec-69,$0 ,37.54045,-121.96001,CA,Single-Family Home,769990,,,Irvington,83,,For Sale,ALAMEDA
+94538,Residence Two Plan,2.5,3,Fremont,"1,712 sqft",31-Dec-69,$0 ,37.54045,-121.96001,CA,Single-Family Home,713990,,,Irvington,83,,For Sale,ALAMEDA
+94538,4792 Valpey Park Ave,2,3,Fremont,"1,242 sqft",31-Dec-69,$0 ,37.519707,-121.967636,CA,Townhome,450000,,,Grimmer,55,,For Sale,ALAMEDA
+94538,Residence Two Plan,3.5,3,Fremont,"1,617 sqft",31-Dec-69,$0 ,37.55943,-122.06304,CA,Townhome,691990,,,Ardenwood,28,,For Sale,ALAMEDA
+94538,Residence Four Plan,3.5,4,Fremont,"1,969 sqft",31-Dec-69,$0 ,37.55943,-122.06304,CA,Townhome,751990,,,Ardenwood,28,,For Sale,ALAMEDA
+94539,1161 Highland Ter,9.5,6,Fremont,"10,253 sqft",31-Dec-69,$0 ,37.517216,-121.90848,CA,Single-Family Home,4239000,,,Mission Hills,8,,For Sale,ALAMEDA
+94539,45120 S Grimmer Blvd,4,6,Fremont,"3,680 sqft",31-Dec-69,$0 ,37.507423,-121.9275,CA,Single-Family Home,1899000,,,Weibel,28,,For Sale,ALAMEDA
+94538,Residence Three Plan,3.5,3,Fremont,"1,701 sqft",31-Dec-69,$0 ,37.55943,-122.06304,CA,Townhome,718990,,,Ardenwood,28,,For Sale,ALAMEDA
+94539,Mill Creek Rd,,,Fremont,,31-Dec-69,$0 ,37.53781,-121.921861,CA,Lot/Land,3599000,,,,,,For Sale,ALAMEDA
+94536,338 Summerwood Dr,3,4,Fremont,"1,789 sqft",31-Dec-69,$0 ,37.585922,-122.00105,CA,Single-Family Home,759000,,,Niles,26,,For Sale,ALAMEDA
+94539,2909 Grapevine Ter,4,4,Fremont,"3,300 sqft",31-Dec-69,$0 ,37.512356,-121.903435,CA,Single-Family Home,3500000,,,Vineyards - Avalon,0,,For Sale,ALAMEDA
+94538,44850 S Grimmer Blvd #5C,,,Fremont,"1,296 sqft",31-Dec-69,$0 ,37.503464,-121.94539,CA,Income/Investment,319900,,,East Industrial,38,,For Sale,ALAMEDA
+94538,44848 S Grimmer Blvd #4C,,,Fremont,"1,284 sqft",31-Dec-69,$0 ,37.50345,-121.945435,CA,Income/Investment,310000,,,East Industrial,38,,For Sale,ALAMEDA
+94538,46560 Fremont Blvd #105,,,Fremont,,31-Dec-69,$0 ,37.48298,-121.94467,CA,Unspecified,399988,,,Baylands,35,,For Sale,ALAMEDA
+94536,35041 Fremont Blvd,,,Fremont,,31-Dec-69,$0 ,37.570217,-122.032074,CA,Income/Investment,499950,,,Cabrillo,57,,For Sale,ALAMEDA
+94555,33399 Sandpiper Pl,,,Fremont,,31-Dec-69,$0 ,37.575825,-122.06007,CA,Lot/Land,1700000,,,Lakes and Birds,35,,For Sale,ALAMEDA
+94539,Mill Creek Rd,,,Fremont,,31-Dec-69,$0 ,37.53781,-121.921861,CA,Lot/Land,3599000,,,,,,For Sale,ALAMEDA
+94555,Sausalito Ter,2,3,Fremont,"1,555 sqft",31-Dec-69,$0 ,37.56969,-122.03398,CA,Condo,147000,,,Northgate,54,,For Sale,ALAMEDA
+94536,Reynolds Dr,2,4,Fremont,"2,448 sqft",31-Dec-69,$0 ,37.56773,-122.008224,CA,Single-Family Home,377500,,,Brookvale,55,,For Sale,ALAMEDA
+94536,38940 Godfrey Pl,2,4,Fremont,"1,409 sqft",31-Dec-69,$0 ,37.564556,-121.96477,CA,Single-Family Home,599950,,,Cherry - Guardino,40,,For Sale,ALAMEDA
+94536,Torres Ave,2,4,Fremont,"1,740 sqft",31-Dec-69,$0 ,37.559925,-122.01955,CA,Single-Family Home,251500,,,Cabrillo,57,,For Sale,ALAMEDA
+94536,Country Dr #110,1,1,Fremont,750 sqft,31-Dec-69,$0 ,37.557392,-121.98656,CA,Condo,225693,,,Parkmont,68,,For Sale,ALAMEDA
+94536,Abbey Ter #131,2,2,Fremont,823 sqft,31-Dec-69,$0 ,37.55447,-122.00149,CA,Condo,328000,,,Glenmoor,68,,For Sale,ALAMEDA
+94536,Canyon Heights Dr,2,3,Fremont,"1,494 sqft",31-Dec-69,$0 ,37.57624,-121.960236,CA,Single-Family Home,504000,,,Canyon Heights - Vallejo Mills,29,,For Sale,ALAMEDA
+94536,Morris Way,2,3,Fremont,"1,080 sqft",31-Dec-69,$0 ,37.545067,-122.019356,CA,Single-Family Home,470777,,,Centerville,49,,For Sale,ALAMEDA
+94538,Quadres Ct,2,3,Fremont,"1,473 sqft",31-Dec-69,$0 ,37.53823,-121.99435,CA,Single-Family Home,312000,,,Sundale,58,,For Sale,ALAMEDA
+94536,Serramonte Ter,2,3,Fremont,"1,440 sqft",31-Dec-69,$0 ,37.57762,-121.99216,CA,Condo,201000,,,Niles,29,,For Sale,ALAMEDA
+94538,Marbella Ter #2Q,3,2,Fremont,"1,578 sqft",31-Dec-69,$0 ,37.55925,-121.96689,CA,Condo,350000,,,Cherry - Guardino,38,,For Sale,ALAMEDA
+94536,Benchmark Ave,2,3,Fremont,"1,562 sqft",31-Dec-69,$0 ,37.56218,-121.99286,CA,Single-Family Home,170000,,,Parkmont,40,,For Sale,ALAMEDA
+94538,Hughes Pl,2,3,Fremont,"1,473 sqft",31-Dec-69,$0 ,37.52766,-121.99288,CA,Single-Family Home,277000,,,28 Palms,57,,For Sale,ALAMEDA
+94555,Gadwall Cmn,2,2,Fremont,"1,405 sqft",31-Dec-69,$0 ,37.57444,-122.04371,CA,Condo,263319,,,Northgate,58,,For Sale,ALAMEDA
+94538,Yuba Ct,2,4,Fremont,"1,701 sqft",31-Dec-69,$0 ,37.534348,-121.99002,CA,Single-Family Home,404500,,,Sundale,52,,For Sale,ALAMEDA
+94555,Jamaica Ter,1,3,Fremont,"1,092 sqft",31-Dec-69,$0 ,37.5721,-122.038666,CA,Condo,255000,,,Northgate,58,,For Sale,ALAMEDA
+94536,36239 Gibraltar Ct,3,4,Fremont,"2,512 sqft",31-Dec-69,$0 ,37.559322,-122.023445,CA,Single-Family Home,758888,,,Cabrillo,57,,For Sale,ALAMEDA
+94538,Guardino Dr #177,1,1,Fremont,693 sqft,31-Dec-69,$0 ,37.557507,-121.96975,CA,Condo,279516,,,Central Downtown,55,,For Sale,ALAMEDA
+94536,Larch Way,3,5,Fremont,"2,304 sqft",31-Dec-69,$0 ,37.578964,-121.99703,CA,Single-Family Home,128000,,,Niles,12,,For Sale,ALAMEDA
+94539,Benns Ter,1,1,Fremont,675 sqft,31-Dec-69,$0 ,37.487213,-121.924164,CA,Condo,47900,,,Warm Springs,55,,For Sale,ALAMEDA
+94536,Harrisburg Ave,3,4,Fremont,"2,187 sqft",31-Dec-69,$0 ,37.57348,-122.01358,CA,Single-Family Home,248120,,,Brookvale,34,,For Sale,ALAMEDA
+94536,Kathryn Ct,2,3,Fremont,"1,456 sqft",31-Dec-69,$0 ,37.53954,-121.99959,CA,Single-Family Home,340000,,,Glenmoor,54,,For Sale,ALAMEDA
+94539,Crown Ridge Cmn,3,3,Fremont,"3,442 sqft",31-Dec-69,$0 ,37.471928,-121.89333,CA,Single-Family Home,894000,,,Vineyards - Avalon,5,,For Sale,ALAMEDA
+94536,San Pedro Dr,2,3,Fremont,"1,148 sqft",31-Dec-69,$0 ,37.552483,-122.02564,CA,Single-Family Home,312000,,,Cabrillo,43,,For Sale,ALAMEDA
+94538,Stevenson Blvd #132,1,1,Fremont,721 sqft,31-Dec-69,$0 ,37.544918,-121.97315,CA,Condo,209950,,,Central Downtown,55,,For Sale,ALAMEDA
+94539,Avalon Heights Ter,3,4,Fremont,"3,083 sqft",31-Dec-69,$0 ,37.485195,-121.89995,CA,Single-Family Home,729750,,,Vineyards - Avalon,9,,For Sale,ALAMEDA
+94536,Stenhammer Dr,4,5,Fremont,"3,232 sqft",31-Dec-69,$0 ,37.58421,-121.962326,CA,Single-Family Home,861838,,,Canyon Heights - Vallejo Mills,12,,For Sale,ALAMEDA
+94555,Gadwall Cmn,2,2,Fremont,"1,405 sqft",31-Dec-69,$0 ,37.575603,-122.046,CA,Condo,427200,,,Northgate,63,,For Sale,ALAMEDA
+94536,Logan Dr,3,5,Fremont,"2,345 sqft",31-Dec-69,$0 ,37.54926,-122.00646,CA,Single-Family Home,715000,,,Glenmoor,49,,For Sale,ALAMEDA
+94538,Hilo St,2,3,Fremont,"1,686 sqft",31-Dec-69,$0 ,37.52499,-121.97992,CA,Single-Family Home,552000,,,Blacow,48,,For Sale,ALAMEDA
+94555,Tuxedo Cmn,2,2,Fremont,"1,102 sqft",31-Dec-69,$0 ,37.562138,-122.04619,CA,Condo,487077,,,Ardenwood,48,,For Sale,ALAMEDA
+94536,Royal Ann Cmn,1,2,Fremont,"1,008 sqft",31-Dec-69,$0 ,37.566875,-121.97023,CA,Condo,259000,,,Cherry - Guardino,40,,For Sale,ALAMEDA
+94539,Lundy Ter,2,2,Fremont,"1,096 sqft",31-Dec-69,$0 ,37.488754,-121.92496,CA,Condo,352700,,,Warm Springs,55,,For Sale,ALAMEDA
+94536,Malta Pl,3,3,Fremont,"2,160 sqft",31-Dec-69,$0 ,37.56283,-122.02212,CA,Single-Family Home,615859,,,Cabrillo,71,,For Sale,ALAMEDA
+94536,Chaplin Dr,3,4,Fremont,"2,402 sqft",31-Dec-69,$0 ,37.576527,-122.01389,CA,Single-Family Home,700360,,,Brookvale,32,,For Sale,ALAMEDA
+94536,Meadowbrook Cmn #204,1,1,Fremont,936 sqft,31-Dec-69,$0 ,37.564026,-122.00744,CA,Condo,296000,,,Centerville,71,,For Sale,ALAMEDA
+94539,Via Oporto,2,3,Fremont,"1,188 sqft",31-Dec-69,$0 ,37.53779,-121.92319,CA,Condo,680368,,,Mission San Jose,49,,For Sale,ALAMEDA
+94536,Tyson Ln #209B,2,2,Fremont,"1,178 sqft",31-Dec-69,$0 ,37.562057,-121.97438,CA,Condo,502298,,,Cherry - Guardino,42,,For Sale,ALAMEDA
+94555,Locke Ave,2,3,Fremont,"1,382 sqft",31-Dec-69,$0 ,37.58255,-122.03091,CA,Single-Family Home,488000,,,Northgate,52,,For Sale,ALAMEDA
+94536,3rd St,1,2,Fremont,708 sqft,31-Dec-69,$0 ,37.575466,-121.98246,CA,Single-Family Home,400000,,,Niles,60,,For Sale,ALAMEDA
+94536,Cherry Ln #220,1,3,Fremont,"1,199 sqft",31-Dec-69,$0 ,37.566254,-121.97109,CA,Condo,554618,,,Cherry - Guardino,40,,For Sale,ALAMEDA
+94538,Sutter Dr,2,3,Fremont,996 sqft,31-Dec-69,$0 ,37.53724,-121.99455,CA,Single-Family Home,433891,,,Sundale,58,,For Sale,ALAMEDA
+94536,Pizarro Dr,2,3,Fremont,"1,528 sqft",31-Dec-69,$0 ,37.55664,-122.02873,CA,Single-Family Home,589004,,,Cabrillo,42,,For Sale,ALAMEDA
+94538,Hamilton Way,2,3,Fremont,"1,156 sqft",31-Dec-69,$0 ,37.521313,-121.95569,CA,Single-Family Home,508263,,,Grimmer,57,,For Sale,ALAMEDA
+94538,Lindenwood St,1,3,Fremont,950 sqft,31-Dec-69,$0 ,37.51702,-121.9586,CA,Single-Family Home,528535,,,Grimmer,66,,For Sale,ALAMEDA
+94538,39619 Lahana Way,2,3,Fremont,"1,220 sqft",31-Dec-69,$0 ,37.528885,-121.99219,CA,Single-Family Home,619000,,,28 Palms,57,,For Sale,ALAMEDA
+94538,Stevenson Blvd #322,,,Fremont,,31-Dec-69,$0 ,37.54517,-121.97312,CA,Unspecified,479900,,,Central Downtown,55,,For Sale,ALAMEDA
+94536,35653 Beeching Ln,4,5,Fremont,,31-Dec-69,$0 ,37.57733,-122.01131,CA,Single-Family Home,1299000,,,Brookvale,,,For Sale,ALAMEDA
+94539,Mayten Way,1,3,Fremont,"1,000 sqft",31-Dec-69,$0 ,37.471058,-121.91616,CA,Single-Family Home,290500,,,Warm Springs,18,,For Sale,ALAMEDA
+94536,Paloma Ter,2,3,Fremont,"1,440 sqft",31-Dec-69,$0 ,37.579155,-121.99344,CA,Condo,561726,,,Niles,18,,For Sale,ALAMEDA
+94538,Guardino Dr #111,,,Fremont,,31-Dec-69,$0 ,37.55871,-121.97064,CA,Unspecified,370000,,,Central Downtown,52,,For Sale,ALAMEDA
+94538,Stevenson Blvd #304,,,Fremont,,31-Dec-69,$0 ,37.543365,-121.97294,CA,Unspecified,29280,,,Central Downtown,55,,For Sale,ALAMEDA
+94536,Redwood Ter,2,2,Fremont,"1,400 sqft",31-Dec-69,$0 ,37.565434,-121.97735,CA,Single-Family Home,442000,,,Parkmont,40,,For Sale,ALAMEDA
+94536,Sequoia Rd,1,1,Fremont,593 sqft,31-Dec-69,$0 ,37.563232,-122.002335,CA,Condo,304900,,,Centerville,66,,For Sale,ALAMEDA
+94539,Praderia Cir,2,2,Fremont,"1,364 sqft",31-Dec-69,$0 ,37.51907,-121.923035,CA,Single-Family Home,738528,,,Mission San Jose,23,,For Sale,ALAMEDA
+94539,Wenatchee Cmn,,,Fremont,,31-Dec-69,$0 ,37.488647,-121.92679,CA,Unspecified,128700,,,Warm Springs,57,,For Sale,ALAMEDA
+94536,Cabrillo Dr,2,4,Fremont,"1,563 sqft",31-Dec-69,$0 ,37.550613,-122.01472,CA,Single-Family Home,631536,,,Centerville,52,,For Sale,ALAMEDA
+94555,Garrick Pl,2,3,Fremont,"1,781 sqft",31-Dec-69,$0 ,37.585354,-122.03763,CA,Single-Family Home,767658,,,Northgate,48,,For Sale,ALAMEDA
+94538,Margery Ct,2,3,Fremont,"1,148 sqft",31-Dec-69,$0 ,37.534355,-121.97592,CA,Single-Family Home,570459,,,South Sundale,40,,For Sale,ALAMEDA
+94538,Sherwood St,2,3,Fremont,"1,118 sqft",31-Dec-69,$0 ,37.526924,-121.96428,CA,Single-Family Home,762776,,,Irvington,65,,For Sale,ALAMEDA
+94538,Hamilton Way,2,3,Fremont,"1,156 sqft",31-Dec-69,$0 ,37.522606,-121.95645,CA,Single-Family Home,580300,,,Grimmer,62,,For Sale,ALAMEDA
+94555,Atteridge Ct,2,3,Fremont,"1,305 sqft",31-Dec-69,$0 ,37.58023,-122.03405,CA,Single-Family Home,487500,,,Northgate,52,,For Sale,ALAMEDA
+94536,Cherry Ln #48,,,Fremont,929 sqft,31-Dec-69,$0 ,37.566254,-121.97109,CA,Condo,554618,,,Cherry - Guardino,40,,For Sale,ALAMEDA
+94538,Lindsay Mcdermott Ln,1,2,Fremont,906 sqft,31-Dec-69,$0 ,37.53722,-121.97787,CA,Condo,329000,,,Sundale,35,,For Sale,ALAMEDA
+94538,Avila Ter #1R,2,2,Fremont,"1,056 sqft",31-Dec-69,$0 ,37.559532,-121.96718,CA,Condo,494708,,,Cherry - Guardino,43,,For Sale,ALAMEDA
+94536,Red Cedar Ter #225,,,Fremont,,31-Dec-69,$0 ,37.56233,-122.00414,CA,Unspecified,374900,,,Centerville,65,,For Sale,ALAMEDA
+94536,Purcell Pl,2,3,Fremont,"1,576 sqft",31-Dec-69,$0 ,37.56951,-122.02304,CA,Single-Family Home,655684,,,Brookvale,72,,For Sale,ALAMEDA
+94536,Hillside Ct,3,5,Fremont,"2,594 sqft",31-Dec-69,$0 ,37.584682,-121.99659,CA,Single-Family Home,973504,,,Niles,12,,For Sale,ALAMEDA
+94538,40849 High St,,,Fremont,,31-Dec-69,$0 ,37.5366,-121.959114,CA,Lot/Land,2500000,,,Irvington,74,,For Sale,ALAMEDA
+94536,Dondero Way,1,3,Fremont,"1,213 sqft",31-Dec-69,$0 ,37.54915,-122.019775,CA,Single-Family Home,444907,,,Centerville,49,,For Sale,ALAMEDA
+94536,Lassen St,2,4,Fremont,"1,587 sqft",31-Dec-69,$0 ,37.554844,-122.01409,CA,Single-Family Home,578054,,,Centerville,65,,For Sale,ALAMEDA
+94536,Turner Ct,2,3,Fremont,"2,362 sqft",31-Dec-69,$0 ,37.564556,-122.00941,CA,Single-Family Home,774249,,,Brookvale,71,,For Sale,ALAMEDA
+94538,Silver Reef,2,3,Fremont,"1,008 sqft",31-Dec-69,$0 ,37.52922,-121.988594,CA,Single-Family Home,511159,,,28 Palms,46,,For Sale,ALAMEDA
+94536,Contra Costa Ave,2,3,Fremont,"1,347 sqft",31-Dec-69,$0 ,37.55402,-122.01431,CA,Single-Family Home,594089,,,Centerville,60,,For Sale,ALAMEDA
+94538,Saratoga Park St,2,4,Fremont,"1,535 sqft",31-Dec-69,$0 ,37.518623,-121.96959,CA,Single-Family Home,548000,,,Blacow,49,,For Sale,ALAMEDA
+94536,Morgan Cmn,3,3,Fremont,"1,922 sqft",31-Dec-69,$0 ,37.55137,-122.00951,CA,Single-Family Home,724424,,,Centerville,57,,For Sale,ALAMEDA
+94536,Florence Way,2,5,Fremont,"1,624 sqft",31-Dec-69,$0 ,37.54181,-121.997856,CA,Single-Family Home,696905,,,Glenmoor,49,,For Sale,ALAMEDA
+94536,Barton Dr,1,3,Fremont,"1,945 sqft",31-Dec-69,$0 ,37.574898,-121.9659,CA,Single-Family Home,150000,,,Canyon Heights - Vallejo Mills,48,,For Sale,ALAMEDA
+94536,3359 Isherwood Way,2,4,Fremont,"1,714 sqft",31-Dec-69,$0 ,37.569668,-122.01653,CA,Single-Family Home,639000,,,Brookvale,52,,For Sale,ALAMEDA
+94536,Murietta Ter,1,4,Fremont,"1,312 sqft",31-Dec-69,$0 ,37.54518,-122.01231,CA,Condo,99999,,,Glenmoor,51,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C331,1,1,Fremont,721 sqft,31-Dec-69,$0 ,37.54504,-121.97314,CA,Condo,130500,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Stevenson Blvd #A339,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.544796,-121.97317,CA,Condo,236700,,,Central Downtown,60,,For Sale,ALAMEDA
+94555,Sedge St,2,3,Fremont,"1,871 sqft",31-Dec-69,$0 ,37.582764,-122.0613,CA,Single-Family Home,200000,,,Lakes and Birds,52,,For Sale,ALAMEDA
+94539,Cottonwood St,2,3,Fremont,"1,574 sqft",31-Dec-69,$0 ,37.476673,-121.914116,CA,Single-Family Home,100000,,,Warm Springs,34,,For Sale,ALAMEDA
+94538,Stevenson Blvd,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.543358,-121.97294,CA,Single-Family Home,171600,,,Central Downtown,54,,For Sale,ALAMEDA
+94555,Mobile Ct,2,4,Fremont,"1,402 sqft",31-Dec-69,$0 ,37.568714,-122.04081,CA,Single-Family Home,150000,,,Northgate,49,,For Sale,ALAMEDA
+94539,Vista Hill Ter,3,5,Fremont,"4,900 sqft",31-Dec-69,$0 ,37.52232,-121.91211,CA,Single-Family Home,712158,,,Mission Hills,34,,For Sale,ALAMEDA
+94538,Stevenson Blvd #138,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.544796,-121.97317,CA,Condo,238500,,,Central Downtown,60,,For Sale,ALAMEDA
+94539,Kansas Way,2,3,Fremont,"1,787 sqft",31-Dec-69,$0 ,37.47038,-121.91358,CA,Single-Family Home,408291,,,Warm Springs,26,,For Sale,ALAMEDA
+94536,Cherry Glen Cir,2,2,Fremont,854 sqft,31-Dec-69,$0 ,37.561356,-121.96955,CA,Unspecified,209000,,,Cherry - Guardino,45,,For Sale,ALAMEDA
+94536,Country Ter,2,2,Fremont,928 sqft,31-Dec-69,$0 ,37.5537,-121.98874,CA,Unspecified,232541,,,Centerville,69,,For Sale,ALAMEDA
+94538,Hamilton Way,2,3,Fremont,"1,156 sqft",31-Dec-69,$0 ,37.523087,-121.9563,CA,Single-Family Home,321000,,,Grimmer,62,,For Sale,ALAMEDA
+94555,Bowling Green Cmn,1,3,Fremont,"1,166 sqft",31-Dec-69,$0 ,37.57699,-122.03762,CA,Single-Family Home,329250,,,Northgate,60,,For Sale,ALAMEDA
+94538,Mount Vernon Ave,1,2,Fremont,946 sqft,31-Dec-69,$0 ,37.551094,-121.985344,CA,Single-Family Home,281213,,,Central Downtown,88,,For Sale,ALAMEDA
+94555,Lake Mask Pl,3,5,Fremont,"3,230 sqft",31-Dec-69,$0 ,37.59113,-122.05888,CA,Single-Family Home,778150,,,,54,,For Sale,ALAMEDA
+94536,Cherry Ln,,,Fremont,"1,101 sqft",31-Dec-69,$0 ,37.56599,-121.97081,CA,Condo,338033,,,Cherry - Guardino,54,,For Sale,ALAMEDA
+94555,Tan Bark Dr,3,3,Fremont,"1,933 sqft",31-Dec-69,$0 ,37.558567,-122.06204,CA,Condo,602095,,,Ardenwood,34,,For Sale,ALAMEDA
+94538,Hyde Park Dr,2,3,Fremont,"1,296 sqft",31-Dec-69,$0 ,37.512295,-121.967705,CA,Single-Family Home,405000,,,Blacow,63,,For Sale,ALAMEDA
+94539,41868 Osgood Rd,,,Fremont,,31-Dec-69,$0 ,37.529587,-121.951454,CA,Lot/Land,1680000,,,Cameron Hills,68,,For Sale,ALAMEDA
+94538,Fremont Blvd,2,2,Fremont,"1,165 sqft",31-Dec-69,$0 ,37.54148,-121.974525,CA,Condo,387900,,,Central Downtown,57,,For Sale,ALAMEDA
+94539,Night Shade Ln,2,4,Fremont,"1,803 sqft",31-Dec-69,$0 ,37.5132,-121.93634,CA,Single-Family Home,417000,,,Weibel,38,,For Sale,ALAMEDA
+94538,Peony Ct,2,3,Fremont,"1,158 sqft",31-Dec-69,$0 ,37.520412,-121.98127,CA,Single-Family Home,320000,,,Blacow,49,,For Sale,ALAMEDA
+94538,Stevenson Blvd #A345,3,3,Fremont,"1,319 sqft",31-Dec-69,$0 ,37.544796,-121.97317,CA,Condo,446769,,,Central Downtown,58,,For Sale,ALAMEDA
+94536,Maar Ave,2,3,Fremont,"2,221 sqft",31-Dec-69,$0 ,37.568874,-121.95877,CA,Single-Family Home,692800,,,Canyon Heights - Vallejo Mills,31,,For Sale,ALAMEDA
+94536,Cherry Ln #217,1,2,Fremont,938 sqft,31-Dec-69,$0 ,37.566254,-121.97109,CA,Condo,392685,,,Cherry - Guardino,40,,For Sale,ALAMEDA
+94536,Buttonwood Ter #202,1,1,Fremont,714 sqft,31-Dec-69,$0 ,37.56125,-122.00505,CA,Condo,299930,,,Centerville,69,,For Sale,ALAMEDA
+94538,Guardino Dr #110,1,1,Fremont,693 sqft,31-Dec-69,$0 ,37.55871,-121.97064,CA,Condo,285593,,,Central Downtown,52,,For Sale,ALAMEDA
+94539,Jerome Ave,1,3,Fremont,951 sqft,31-Dec-69,$0 ,37.530178,-121.92529,CA,Single-Family Home,562500,,,Mission San Jose,49,,For Sale,ALAMEDA
+94536,Holly St,1,2,Fremont,794 sqft,31-Dec-69,$0 ,37.556427,-122.01169,CA,Single-Family Home,390202,,,Centerville,71,,For Sale,ALAMEDA
+94555,Tanager Cmn,2,2,Fremont,990 sqft,31-Dec-69,$0 ,37.574642,-122.04604,CA,Condo,332000,,,Northgate,58,,For Sale,ALAMEDA
+94536,Bolina Ter,2,4,Fremont,"1,474 sqft",31-Dec-69,$0 ,37.55474,-122.0187,CA,Condo,473762,,,Cabrillo,63,,For Sale,ALAMEDA
+94555,Cassio Cir,2,3,Fremont,"1,480 sqft",31-Dec-69,$0 ,37.575356,-122.05111,CA,Single-Family Home,477200,,,Ardenwood,49,,For Sale,ALAMEDA
+94538,Antone Rd,2,6,Fremont,"1,755 sqft",31-Dec-69,$0 ,37.51508,-121.97325,CA,Single-Family Home,542000,,,Blacow,54,,For Sale,ALAMEDA
+94536,Red Cedar Ter,1,2,Fremont,840 sqft,31-Dec-69,$0 ,37.562298,-122.00323,CA,Condo,272876,,,Centerville,60,,For Sale,ALAMEDA
+94536,Meadowbrook Cmn #104,1,1,Fremont,936 sqft,31-Dec-69,$0 ,37.56124,-122.00643,CA,Condo,331616,,,Centerville,71,,For Sale,ALAMEDA
+94536,Sequoia Rd,1,1,Fremont,593 sqft,31-Dec-69,$0 ,37.563274,-122.00234,CA,Condo,224720,,,Centerville,65,,For Sale,ALAMEDA
+94536,Abbey Ter #106,1,1,Fremont,674 sqft,31-Dec-69,$0 ,37.55447,-122.00149,CA,Condo,260000,,,Glenmoor,66,,For Sale,ALAMEDA
+94555,Buckner Ter,2,4,Fremont,"1,762 sqft",31-Dec-69,$0 ,37.563248,-122.058784,CA,Single-Family Home,597600,,,Ardenwood,32,,For Sale,ALAMEDA
+94536,Spruce Ter,1,1,Fremont,593 sqft,31-Dec-69,$0 ,37.56166,-122.004,CA,Condo,239920,,,Centerville,71,,For Sale,ALAMEDA
+94536,Los Arboles Pl,2,4,Fremont,"1,583 sqft",31-Dec-69,$0 ,37.544693,-122.0095,CA,Single-Family Home,515000,,,Glenmoor,49,,For Sale,ALAMEDA
+94536,Tyson Ln #315B,2,2,Fremont,"1,178 sqft",31-Dec-69,$0 ,37.562057,-121.97438,CA,Condo,430650,,,Cherry - Guardino,51,,For Sale,ALAMEDA
+94536,Birchwood Ter #212,1,1,Fremont,714 sqft,31-Dec-69,$0 ,37.56207,-122.0067,CA,Condo,276613,,,Centerville,78,,For Sale,ALAMEDA
+94536,Red Cedar Ter,1,,Fremont,421 sqft,31-Dec-69,$0 ,37.562298,-122.00323,CA,Condo,175633,,,Centerville,65,,For Sale,ALAMEDA
+94538,Guardino Dr,1,2,Fremont,857 sqft,31-Dec-69,$0 ,37.557236,-121.96948,CA,Condo,345345,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C329,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.54504,-121.97314,CA,Condo,419192,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Avila Ter #1M,2,2,Fremont,"1,071 sqft",31-Dec-69,$0 ,37.559532,-121.96718,CA,Condo,459940,,,Cherry - Guardino,45,,For Sale,ALAMEDA
+94536,Le Count Way,2,3,Fremont,"1,180 sqft",31-Dec-69,$0 ,37.5438,-121.997,CA,Single-Family Home,413497,,,Glenmoor,65,,For Sale,ALAMEDA
+94555,Anchor Dr,2,3,Fremont,"1,376 sqft",31-Dec-69,$0 ,37.574306,-122.036476,CA,Single-Family Home,476850,,,Northgate,55,,For Sale,ALAMEDA
+94539,Rattan Ct,2,4,Fremont,"1,912 sqft",31-Dec-69,$0 ,37.46994,-121.9102,CA,Single-Family Home,866258,,,Warm Springs,22,,For Sale,ALAMEDA
+94538,Lindsay Mcdermott Ln,1,3,Fremont,"1,127 sqft",31-Dec-69,$0 ,37.53722,-121.97787,CA,Unspecified,406103,,,Sundale,49,,For Sale,ALAMEDA
+94538,Whitecap Way,2,4,Fremont,"2,252 sqft",31-Dec-69,$0 ,37.528313,-121.992165,CA,Single-Family Home,746776,,,28 Palms,66,,For Sale,ALAMEDA
+94536,Garden Way,2,3,Fremont,"1,080 sqft",31-Dec-69,$0 ,37.545937,-122.01979,CA,Single-Family Home,450000,,,Centerville,63,,For Sale,ALAMEDA
+94555,Clear Lake St,,,Fremont,"1,268 sqft",31-Dec-69,$0 ,37.5869,-122.058525,CA,Single-Family Home,557654,,,Lakes and Birds,52,,For Sale,ALAMEDA
+94536,Meadowbrook Cmn,1,1,Fremont,712 sqft,31-Dec-69,$0 ,37.561443,-122.00664,CA,Single-Family Home,384483,,,Centerville,71,,For Sale,ALAMEDA
+94536,Stenhammer Dr,1,2,Fremont,975 sqft,31-Dec-69,$0 ,37.583714,-121.962326,CA,Single-Family Home,496300,,,Canyon Heights - Vallejo Mills,17,,For Sale,ALAMEDA
+94538,Barrymore Cmn,1,1,Fremont,640 sqft,31-Dec-69,$0 ,37.55404,-121.970085,CA,Single-Family Home,280837,,,Central Downtown,77,,For Sale,ALAMEDA
+94538,Stevenson Blvd #E111,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.543358,-121.97294,CA,Condo,466103,,,Central Downtown,54,,For Sale,ALAMEDA
+94536,Alexander St,2,3,Fremont,"1,080 sqft",31-Dec-69,$0 ,37.54707,-122.02055,CA,Single-Family Home,530470,,,Centerville,68,,For Sale,ALAMEDA
+94539,Puesta Del Sol,,3,Fremont,,31-Dec-69,$0 ,37.525127,-121.93277,CA,Townhome,892094,,,Cameron Hills,46,,For Sale,ALAMEDA
+94538,Fremont Blvd #314,,,Fremont,,31-Dec-69,$0 ,37.541252,-121.97406,CA,Condo,326210,,,Central Downtown,52,,For Sale,ALAMEDA
+94538,Avila Ter #1-M,2,2,Fremont,"1,071 sqft",31-Dec-69,$0 ,37.559532,-121.96718,CA,Condo,493446,,,Cherry - Guardino,45,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C226,2,2,Fremont,"1,040 sqft",31-Dec-69,$0 ,37.54504,-121.97314,CA,Condo,516927,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Seascape Rd,2,3,Fremont,"1,008 sqft",31-Dec-69,$0 ,37.53013,-121.99413,CA,Single-Family Home,464000,,,28 Palms,63,,For Sale,ALAMEDA
+94536,Holly St,1,3,Fremont,"1,421 sqft",31-Dec-69,$0 ,37.556988,-122.01289,CA,Single-Family Home,568294,,,Centerville,65,,For Sale,ALAMEDA
+94536,Hygelund Dr,2,3,Fremont,"1,180 sqft",31-Dec-69,$0 ,37.54263,-121.99624,CA,Single-Family Home,583301,,,Glenmoor,62,,For Sale,ALAMEDA
+94538,Hyde Cmn #302,2,2,Fremont,"1,244 sqft",31-Dec-69,$0 ,37.53105,-121.96626,CA,Condo,559289,,,Irvington,71,,For Sale,ALAMEDA
+94538,Roundtree Cmn,,,Fremont,,31-Dec-69,$0 ,37.525307,-121.9883,CA,Single-Family Home,13663,,,28 Palms,75,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C131,,,Fremont,,31-Dec-69,$0 ,37.54504,-121.97314,CA,Unspecified,124000,,,Central Downtown,55,,For Sale,ALAMEDA
+94538,Barrymore Cmn M,,,Fremont,,31-Dec-69,$0 ,37.55404,-121.970085,CA,Unspecified,121700,,,Central Downtown,77,,For Sale,ALAMEDA
+94538,Guardino Dr #105,,,Fremont,,31-Dec-69,$0 ,37.557236,-121.96948,CA,Unspecified,183750,,,Central Downtown,60,,For Sale,ALAMEDA
+94536,Red Cedar Ter #40,,,Fremont,,31-Dec-69,$0 ,37.562298,-122.00323,CA,Unspecified,135200,,,Centerville,60,,For Sale,ALAMEDA
+94536,Poe Ter,2,2,Fremont,"1,107 sqft",31-Dec-69,$0 ,37.54914,-121.99473,CA,Single-Family Home,585973,,,Glenmoor,72,,For Sale,ALAMEDA
+94536,Foxtail Ter #125,,,Fremont,,31-Dec-69,$0 ,37.56158,-122.00344,CA,Single-Family Home,124000,,,Centerville,69,,For Sale,ALAMEDA
+94538,Barrymore Commom P,,,Fremont,,31-Dec-69,$0 ,37.55404,-121.970085,CA,Unspecified,171000,,,Central Downtown,77,,For Sale,ALAMEDA
+94536,Paseo Padre Pkwy #110,,,Fremont,,31-Dec-69,$0 ,37.55679,-121.98739,CA,Unspecified,24989,,,Parkmont,63,,For Sale,ALAMEDA
+94538,Argounaut Way #206,,,Fremont,,31-Dec-69,$0 ,37.54444,-121.988945,CA,Unspecified,168716,,,Sundale,77,,For Sale,ALAMEDA
+94536,Foxtail Ter #118,2,3,Fremont,,31-Dec-69,$0 ,37.56158,-122.00344,CA,Single-Family Home,165555,,,Centerville,63,,For Sale,ALAMEDA
+94536,Red Cedar Ter #212,,,Fremont,,31-Dec-69,$0 ,37.562298,-122.00323,CA,Unspecified,165600,,,Centerville,60,,For Sale,ALAMEDA
+94536,Aspenwood Cmn,,,Fremont,,31-Dec-69,$0 ,37.561626,-122.004654,CA,Single-Family Home,129915,,,Centerville,80,,For Sale,ALAMEDA
+94538,Gina St,1,3,Fremont,950 sqft,31-Dec-69,$0 ,37.531937,-121.97136,CA,Single-Family Home,439160,,,South Sundale,52,,For Sale,ALAMEDA
+94538,Valpey Park Ave,4,4,Fremont,"2,613 sqft",31-Dec-69,$0 ,37.519535,-121.97246,CA,Single-Family Home,886387,,,Blacow,51,,For Sale,ALAMEDA
+94536,Frobisher Dr,2,4,Fremont,"1,675 sqft",31-Dec-69,$0 ,37.553886,-122.02632,CA,Single-Family Home,590000,,,Cabrillo,48,,For Sale,ALAMEDA
+94536,Morris Way,,3,Fremont,,31-Dec-69,$0 ,37.545025,-122.019394,CA,Single-Family Home,309294,,,Centerville,58,,For Sale,ALAMEDA
+94538,Costa Way,2,4,Fremont,"1,734 sqft",31-Dec-69,$0 ,37.539684,-121.980225,CA,Single-Family Home,644693,,,Sundale,46,,For Sale,ALAMEDA
+94538,Wallace Pl,2,4,Fremont,"1,387 sqft",31-Dec-69,$0 ,37.528744,-121.99499,CA,Single-Family Home,618126,,,28 Palms,60,,For Sale,ALAMEDA
+94538,Adagio Ct,2,3,Fremont,"1,131 sqft",31-Dec-69,$0 ,37.521557,-121.97749,CA,Single-Family Home,584113,,,Blacow,46,,For Sale,ALAMEDA
+94538,Queens Park Ct,2,3,Fremont,"1,466 sqft",31-Dec-69,$0 ,37.518517,-121.97293,CA,Single-Family Home,601091,,,Blacow,51,,For Sale,ALAMEDA
+94538,Howe Ct,2,4,Fremont,"1,506 sqft",31-Dec-69,$0 ,37.525257,-121.95246,CA,Single-Family Home,654338,,,Irvington,63,,For Sale,ALAMEDA
+94555,Calypso Cmn,2,3,Fremont,"1,988 sqft",31-Dec-69,$0 ,37.56664,-122.040115,CA,Single-Family Home,758045,,,Northgate,38,,For Sale,ALAMEDA
+94539,Cholla St,,,Fremont,,31-Dec-69,$0 ,37.483517,-121.9151,CA,Unspecified,854192,,,Warm Springs,34,,For Sale,ALAMEDA
+94538,Albany Cmn A,,,Fremont,,31-Dec-69,$0 ,37.553486,-121.97182,CA,Unspecified,375598,,,Central Downtown,65,,For Sale,ALAMEDA
+94538,Guardino Dr #126,,,Fremont,,31-Dec-69,$0 ,37.558495,-121.97052,CA,Unspecified,326400,,,Central Downtown,49,,For Sale,ALAMEDA
+94538,Guardino Dr #102,1,2,Fremont,,31-Dec-69,$0 ,37.55894,-121.97082,CA,Unspecified,264370,,,Central Downtown,49,,For Sale,ALAMEDA
+94536,Chery Ln #209,,,Fremont,,31-Dec-69,$0 ,37.566254,-121.97109,CA,Unspecified,261891,,,Cherry - Guardino,54,,For Sale,ALAMEDA
+94538,Stevenson Blvd #E316,,,Fremont,,31-Dec-69,$0 ,37.54566,-121.97299,CA,Unspecified,295128,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Guardino Dr #308,,,Fremont,,31-Dec-69,$0 ,37.55871,-121.97064,CA,Unspecified,267985,,,Central Downtown,60,,For Sale,ALAMEDA
+94536,Parish Cir,,,Fremont,,31-Dec-69,$0 ,37.559917,-122.00322,CA,Single-Family Home,220000,,,Centerville,78,,For Sale,ALAMEDA
+94536,Huntington Cir,,,Fremont,,31-Dec-69,$0 ,37.56267,-121.971954,CA,Single-Family Home,387113,,,Cherry - Guardino,62,,For Sale,ALAMEDA
+94536,Fremont Blvd,,,Fremont,,31-Dec-69,$0 ,37.561195,-122.01309,CA,Unspecified,297000,,,Brookvale,68,,For Sale,ALAMEDA
+94538,Stevenson Blvd #D320,,,Fremont,,31-Dec-69,$0 ,37.543358,-121.97294,CA,Unspecified,220000,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C231,,,Fremont,,31-Dec-69,$0 ,37.54504,-121.97314,CA,Unspecified,286461,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Dayton Cmn,2,3,Fremont,,31-Dec-69,$0 ,37.54706,-121.97534,CA,Unspecified,401016,,,Central Downtown,69,,For Sale,ALAMEDA
+94536,Foxtail Ter #97,,,Fremont,,31-Dec-69,$0 ,37.56158,-122.00344,CA,Single-Family Home,311291,,,Centerville,63,,For Sale,ALAMEDA
+94538,Steevenson Blvd #E101,,,Fremont,,31-Dec-69,$0 ,37.54566,-121.97299,CA,Unspecified,395410,,,Central Downtown,60,,For Sale,ALAMEDA
+94536,Joan Ter,,,Fremont,,31-Dec-69,$0 ,37.58414,-121.99702,CA,Unspecified,492300,,,Niles,15,,For Sale,ALAMEDA
+94538,Albany Commons Y,,,Fremont,,31-Dec-69,$0 ,37.553486,-121.97182,CA,Unspecified,360170,,,Central Downtown,77,,For Sale,ALAMEDA
+94538,Guardino Dr,,,Fremont,,31-Dec-69,$0 ,37.55798,-121.9702,CA,Single-Family Home,284975,,,Central Downtown,55,,For Sale,ALAMEDA
+94538,Chapel Way,2,2,Fremont,,31-Dec-69,$0 ,37.538254,-121.95841,CA,Single-Family Home,354640,,,Irvington,66,,For Sale,ALAMEDA
+94538,Stevenson Blvd #C,,,Fremont,,31-Dec-69,$0 ,37.542007,-121.97277,CA,Unspecified,399061,,,Central Downtown,54,,For Sale,ALAMEDA
+94538,Stevenson Blvd #E301,,,Fremont,,31-Dec-69,$0 ,37.54566,-121.97299,CA,Unspecified,365475,,,Central Downtown,60,,For Sale,ALAMEDA
+94538,Blanchard St,1,4,Fremont,"1,077 sqft",31-Dec-69,$0 ,37.53634,-121.96704,CA,Single-Family Home,519026,,,South Sundale,69,,For Sale,ALAMEDA
+94555,Jessica Cir,3,5,Fremont,"2,369 sqft",31-Dec-69,$0 ,37.57493,-122.0488,CA,Single-Family Home,839627,,,Ardenwood,57,,For Sale,ALAMEDA
+94536,Mattos Dr,1,3,Fremont,"1,626 sqft",31-Dec-69,$0 ,37.541767,-122.00745,CA,Single-Family Home,711594,,,Glenmoor,38,,For Sale,ALAMEDA
+94536,Barton Dr,2,3,Fremont,"1,766 sqft",31-Dec-69,$0 ,37.574085,-121.96707,CA,Single-Family Home,750376,,,Canyon Heights - Vallejo Mills,37,,For Sale,ALAMEDA
+94536,Blaisdell Way,2,4,Fremont,"1,376 sqft",31-Dec-69,$0 ,37.58303,-121.989174,CA,Single-Family Home,656830,,,Niles,32,,For Sale,ALAMEDA
+94536,Alta Ct,4,4,Fremont,"2,213 sqft",31-Dec-69,$0 ,37.54259,-122.01233,CA,Single-Family Home,840000,,,Glenmoor,57,,For Sale,ALAMEDA
+94538,Greeley Pl,2,3,Fremont,"1,256 sqft",31-Dec-69,$0 ,37.525845,-121.99007,CA,Single-Family Home,582326,,,28 Palms,58,,For Sale,ALAMEDA
+94536,Burke Way,4,6,Fremont,"2,736 sqft",31-Dec-69,$0 ,37.54572,-121.9952,CA,Single-Family Home,995807,,,Glenmoor,68,,For Sale,ALAMEDA
+94555,Deep Creek Rd,2,4,Fremont,"1,841 sqft",31-Dec-69,$0 ,37.57721,-122.05242,CA,Single-Family Home,799845,,,Ardenwood,51,,For Sale,ALAMEDA
+94538,Phelan Ave,2,3,Fremont,"1,324 sqft",31-Dec-69,$0 ,37.53436,-121.99231,CA,Single-Family Home,623354,,,Sundale,77,,For Sale,ALAMEDA
+94555,Dekker Ter,2,4,Fremont,"1,774 sqft",31-Dec-69,$0 ,37.5619,-122.059814,CA,Single-Family Home,777105,,,Ardenwood,37,,For Sale,ALAMEDA
+94538,Serra Ave,2,3,Fremont,"1,662 sqft",31-Dec-69,$0 ,37.53742,-121.993866,CA,Single-Family Home,645883,,,Sundale,65,,For Sale,ALAMEDA
+94538,Hyde Cmn,,,Fremont,,31-Dec-69,$0 ,37.53105,-121.96626,CA,Condo,644333,,,Irvington,71,,For Sale,ALAMEDA
+94538,Seneca Park Ave,,,Fremont,,31-Dec-69,$0 ,37.51786,-121.965614,CA,Unspecified,511500,,,Grimmer,52,,For Sale,ALAMEDA
+94538,Marbella Ter,,,Fremont,,31-Dec-69,$0 ,37.559403,-121.96701,CA,Unspecified,527751,,,,,,For Sale,ALAMEDA
+94555,Palomino Com,,,Fremont,,31-Dec-69,$0 ,37.584316,-122.05144,CA,Unspecified,750912,,,Lakes and Birds,40,,For Sale,ALAMEDA

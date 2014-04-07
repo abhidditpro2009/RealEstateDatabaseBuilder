@@ -1,0 +1,96 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94044,421 Goodman Rd,2,3,Pacifica,"1,620 sqft",31-Dec-69,$0 ,37.632866,-122.48554,CA,Single-Family Home,800000,,,,69,,For Sale,SAN MATEO
+94044,232 Outlook Heights Ct,3,4,Pacifica,"2,520 sqft",31-Dec-69,$0 ,37.63349,-122.47334,CA,Single-Family Home,899000,,,,23,,For Sale,SAN MATEO
+94044,712 Cindy Way,2,3,Pacifica,"1,600 sqft",31-Dec-69,$0 ,37.621136,-122.48282,CA,Single-Family Home,749000,,,,32,,For Sale,SAN MATEO
+94044,951 Fassler Ave,3,2,Pacifica,"1,300 sqft",31-Dec-69,$0 ,37.600056,-122.48522,CA,Townhome,579000,,,,23,,For Sale,SAN MATEO
+94044,951 Fassler Ave,2.5,2,Pacifica,"1,300 sqft",31-Dec-69,$0 ,37.600056,-122.48522,CA,Townhome,579000,,,,23,,For Sale,SAN MATEO
+94044,443 Glasgow Dr,2,4,Pacifica,"1,220 sqft",31-Dec-69,$0 ,37.64974,-122.475006,CA,Single-Family Home,649000,,,,58,,For Sale,SAN MATEO
+94044,811 Edgemar Ave,2,3,Pacifica,"1,500 sqft",31-Dec-69,$0 ,37.643913,-122.48557,CA,Single-Family Home,738000,,,,57,,For Sale,SAN MATEO
+94044,219 Sunshine Dr,2,4,Pacifica,"1,710 sqft",31-Dec-69,$0 ,37.663868,-122.48084,CA,Single-Family Home,699000,,,,69,,For Sale,SAN MATEO
+94044,168 Catalina Ave,2,4,Pacifica,"1,200 sqft",31-Dec-69,$0 ,37.657196,-122.48352,CA,Single-Family Home,680888,,,,54,,For Sale,SAN MATEO
+94044,147 Angelita Ave,1,1,Pacifica,900 sqft,31-Dec-69,$0 ,37.613342,-122.476585,CA,Single-Family Home,599000,,,,32,,For Sale,SAN MATEO
+94044,131 Pacific Ave,3,3,Pacifica,,31-Dec-69,$0 ,37.63162,-122.49172,CA,Single-Family Home,399000,,,,71,,For Sale,SAN MATEO
+94044,Rockaway Bch,,,Pacifica,,31-Dec-69,$0 ,37.605587,-122.49137,CA,Lot/Land,90000,,,,35,,For Sale,SAN MATEO
+94044,230 Winwood Ave,3,4,Pacifica,"2,150 sqft",31-Dec-69,$0 ,37.654713,-122.48891,CA,Single-Family Home,675000,,,,74,,For Sale,SAN MATEO
+94044,478 Firecrest Ave,2,3,Pacifica,"1,460 sqft",31-Dec-69,$0 ,37.654526,-122.47456,CA,Single-Family Home,699000,,,,60,,For Sale,SAN MATEO
+94044,Bayview Dr,,,Pacifica,,31-Dec-69,$0 ,37.604805,-122.489477,CA,Lot/Land,695000,,,,,,For Sale,SAN MATEO
+94044,250 Sterling Ave,4,4,Pacifica,"3,120 sqft",31-Dec-69,$0 ,37.59388,-122.510796,CA,Single-Family Home,1350000,,,,43,,For Sale,SAN MATEO
+94044,9 Westcliff Ct,2,3,Pacifica,"1,180 sqft",31-Dec-69,$0 ,37.664143,-122.48362,CA,Single-Family Home,599000,,,,58,,For Sale,SAN MATEO
+94044,01 Rockaway,,,Pacifica,,31-Dec-69,$0 ,37.605587,-122.49137,CA,Lot/Land,90000,,,,35,,For Sale,SAN MATEO
+94044,1039 Oddstad Blvd,1.5,2,Pacifica,"1,130 sqft",31-Dec-69,$0 ,37.591896,-122.465294,CA,Townhome,450000,,,,20,,For Sale,SAN MATEO
+94044,412 Lynbrook Dr,2,3,Pacifica,"1,310 sqft",31-Dec-69,$0 ,37.656036,-122.47653,CA,Single-Family Home,525000,,,,57,,For Sale,SAN MATEO
+94044,1039 Oddstad Blvd,2,2,Pacifica,"1,130 sqft",31-Dec-69,$0 ,37.591896,-122.465294,CA,Townhome,450000,,,,20,,For Sale,SAN MATEO
+94044,1015 Yosemite Dr,3,4,Pacifica,"1,930 sqft",31-Dec-69,$0 ,37.586525,-122.47005,CA,Single-Family Home,649950,,,,37,,For Sale,SAN MATEO
+94044,338 Horizon Way,2.5,4,Pacifica,"1,580 sqft",31-Dec-69,$0 ,37.65342,-122.478424,CA,Single-Family Home,699000,,,,54,,For Sale,SAN MATEO
+94044,960 La Mirada Way,2,3,Pacifica,"1,630 sqft",31-Dec-69,$0 ,37.59479,-122.48999,CA,Single-Family Home,699000,,,,48,,For Sale,SAN MATEO
+94044,1465 Perez Dr,3,4,Pacifica,"2,850 sqft",31-Dec-69,$0 ,37.579926,-122.48984,CA,Single-Family Home,1075000,,,,25,,For Sale,SAN MATEO
+94044,1215 Terra Nova Blvd,2,2,Pacifica,960 sqft,31-Dec-69,$0 ,37.58633,-122.47738,CA,Townhome,459950,,,,34,,For Sale,SAN MATEO
+94044,Rockaway Bch,,,Pacifica,,31-Dec-69,$0 ,37.6056,-122.491,CA,Lot/Land,90000,,,,35,,For Sale,SAN MATEO
+94044,452 Manor Plz,,,Pacifica,"5,000 sqft",31-Dec-69,$0 ,37.650684,-122.49186,CA,Income/Investment,1250000,,,,,,For Sale,SAN MATEO
+94044,1371 Lerida Way,2,2,Pacifica,960 sqft,31-Dec-69,$0 ,37.58922,-122.477325,CA,Apt/Condo/Twnhm,424950,,,,34,,For Sale,SAN MATEO
+94044,732 Edgemar Ave,1,3,Pacifica,"1,010 sqft",31-Dec-69,$0 ,37.643764,-122.488075,CA,Single-Family Home,650000,,,,65,,For Sale,SAN MATEO
+94044,504 Monterey Rd #G,1.5,2,Pacifica,"1,050 sqft",31-Dec-69,$0 ,37.649868,-122.48049,CA,Condo,499000,,,,46,,For Sale,SAN MATEO
+94044,1268 Galvez Dr,2,4,Pacifica,"1,400 sqft",31-Dec-69,$0 ,37.581482,-122.4903,CA,Single-Family Home,689000,,,,26,,For Sale,SAN MATEO
+94044,504 Monterey Rd #8,2,2,Pacifica,"1,050 sqft",31-Dec-69,$0 ,37.649868,-122.48049,CA,Apt/Condo/Twnhm,499000,,,,46,,For Sale,SAN MATEO
+94044,2022 Palmetto Ave,,,Pacifica,,31-Dec-69,$0 ,37.63353,-122.492455,CA,Income/Investment,299000,,,,72,,For Sale,SAN MATEO
+94044,350 Esplanade Ave,,,Pacifica,"8,160 sqft",31-Dec-69,$0 ,37.652317,-122.49286,CA,Multi-Family Home,2580000,,,,71,,For Sale,SAN MATEO
+94044,724 Cape Breton Dr,2,3,Pacifica,"1,300 sqft",31-Dec-69,$0 ,37.595287,-122.459404,CA,Single-Family Home,709888,,,,5,,For Sale,SAN MATEO
+94044,1183 Encanto Way,1,3,Pacifica,"1,040 sqft",31-Dec-69,$0 ,37.594234,-122.49966,CA,Single-Family Home,599000,,,,,,For Sale,SAN MATEO
+94044,46 Eastridge Cir,2,3,Pacifica,"1,320 sqft",31-Dec-69,$0 ,37.665745,-122.4831,CA,Single-Family Home,688000,,,,46,,For Sale,SAN MATEO
+94044,Rockaway Beach Ave,,,Pacifica,,31-Dec-69,$0 ,37.609544,-122.496535,CA,Lot/Land,758000,,,,,,For Sale,SAN MATEO
+94044,315 Olympian Way,1,2,Pacifica,"1,080 sqft",31-Dec-69,$0 ,37.593513,-122.51074,CA,Single-Family Home,899000,,,,55,,For Sale,SAN MATEO
+94044,1693 Higgins Way,,,Pacifica,,31-Dec-69,$0 ,37.582638,-122.49428,CA,Lot/Land,325000,,,,35,,For Sale,SAN MATEO
+94044,Coast Hwy,,,Pacifica,,31-Dec-69,$0 ,37.62373,-122.4862,CA,Lot/Land,195000,,,,43,,For Sale,SAN MATEO
+94044,1070 Palmetto Ave,2,3,Pacifica,"1,396 sqft",31-Dec-69,$0 ,37.64313,-122.4935,CA,Single-Family Home,975000,,,,69,,For Sale,SAN MATEO
+94044,268 Stanley Ave,3,3,Pacifica,"2,842 sqft",31-Dec-69,$0 ,37.594273,-122.51005,CA,Single-Family Home,1099999,,,,63,,For Sale,SAN MATEO
+94044,1026 Park Pacifica Ave,2,4,Pacifica,"1,580 sqft",31-Dec-69,$0 ,37.584908,-122.473274,CA,Single-Family Home,688888,,,,51,,For Sale,SAN MATEO
+94044,3888 Palmetto Ave,,,Pacifica,,31-Dec-69,$0 ,37.659527,-122.492355,CA,Lot/Land,4300000,,,,40,,For Sale,SAN MATEO
+94044,Grand Ave,,,Pacifica,,31-Dec-69,$0 ,37.593127,-122.509086,CA,Lot/Land,349950,,,,,,For Sale,SAN MATEO
+94044,195 Carmel Ave,,,Pacifica,,31-Dec-69,$0 ,37.636063,-122.49046,CA,Lot/Land,359888,,,,75,,For Sale,SAN MATEO
+94044,Monterey Rd,1,2,Pacifica,980 sqft,31-Dec-69,$0 ,37.6511,-122.48352,CA,Single-Family Home,101000,,,,66,,For Sale,SAN MATEO
+94044,Hickey Blvd,2,4,Pacifica,"1,560 sqft",31-Dec-69,$0 ,37.65893,-122.47863,CA,Single-Family Home,50000,,,,62,,For Sale,SAN MATEO
+94044,Buel Ave,2,2,Pacifica,"1,390 sqft",31-Dec-69,$0 ,37.60869,-122.49337,CA,Single-Family Home,365500,,,,43,,For Sale,SAN MATEO
+94044,Terra Nova Blvd,1,2,Pacifica,960 sqft,31-Dec-69,$0 ,37.589912,-122.47633,CA,Single-Family Home,65500,,,,35,,For Sale,SAN MATEO
+94044,Golden Bay Dr,2,3,Pacifica,"1,430 sqft",31-Dec-69,$0 ,37.65869,-122.48858,CA,Single-Family Home,548000,,,,42,,For Sale,SAN MATEO
+94044,De Solo Dr,1,3,Pacifica,"1,040 sqft",31-Dec-69,$0 ,37.595924,-122.49922,CA,Single-Family Home,552000,,,,75,,For Sale,SAN MATEO
+94044,Poplar Ave,2,3,Pacifica,"1,500 sqft",31-Dec-69,$0 ,37.589367,-122.47772,CA,Single-Family Home,738528,,,,38,,For Sale,SAN MATEO
+94044,Westcliff Ct,2,3,Pacifica,"1,180 sqft",31-Dec-69,$0 ,37.664192,-122.483894,CA,Single-Family Home,656319,,,,46,,For Sale,SAN MATEO
+94044,Pacific Ave,2,3,Pacifica,"1,600 sqft",31-Dec-69,$0 ,37.63205,-122.48825,CA,Single-Family Home,717312,,,,74,,For Sale,SAN MATEO
+94044,Lone Mountain Ct,3,4,Pacifica,"2,210 sqft",31-Dec-69,$0 ,37.653145,-122.474625,CA,Single-Family Home,869103,,,,62,,For Sale,SAN MATEO
+94044,Bally Way,2,3,Pacifica,"1,790 sqft",31-Dec-69,$0 ,37.653896,-122.48968,CA,Single-Family Home,588700,,,,69,,For Sale,SAN MATEO
+94044,Terra Nova Blvd,2,2,Pacifica,"1,400 sqft",31-Dec-69,$0 ,37.589188,-122.47684,CA,Single-Family Home,451561,,,,49,,For Sale,SAN MATEO
+94044,Arguello Blvd,1,3,Pacifica,"1,040 sqft",31-Dec-69,$0 ,37.59392,-122.50003,CA,Single-Family Home,562500,,,,72,,For Sale,SAN MATEO
+94044,View Point Ct,2,4,Pacifica,"2,520 sqft",31-Dec-69,$0 ,37.638645,-122.46692,CA,Single-Family Home,999040,,,,40,,For Sale,SAN MATEO
+94044,Yosemite Dr,2,4,Pacifica,"1,930 sqft",31-Dec-69,$0 ,37.58667,-122.4699,CA,Single-Family Home,938250,,,,37,,For Sale,SAN MATEO
+94044,Heathcliff Dr,1,3,Pacifica,"1,090 sqft",31-Dec-69,$0 ,37.65013,-122.47761,CA,Single-Family Home,592306,,,,48,,For Sale,SAN MATEO
+94044,Shell,1,3,Pacifica,"1,050 sqft",31-Dec-69,$0 ,37.63887,-122.49282,CA,Single-Family Home,617155,,,,68,,For Sale,SAN MATEO
+94044,El Dorado Dr,2,4,Pacifica,"1,560 sqft",31-Dec-69,$0 ,37.663486,-122.481865,CA,Single-Family Home,680000,,,,51,,For Sale,SAN MATEO
+94044,Greenway Dr,3,3,Pacifica,"1,690 sqft",31-Dec-69,$0 ,37.62081,-122.48716,CA,Single-Family Home,834499,,,,31,,For Sale,SAN MATEO
+94044,Beachview Ave #14,2,2,Pacifica,"1,440 sqft",31-Dec-69,$0 ,37.654247,-122.48206,CA,Single-Family Home,716176,,,,55,,For Sale,SAN MATEO
+94044,Lynbrook Dr,2,4,Pacifica,"1,610 sqft",31-Dec-69,$0 ,37.654602,-122.4753,CA,Single-Family Home,705388,,,,60,,For Sale,SAN MATEO
+94044,Avalon Dr,1,2,Pacifica,840 sqft,31-Dec-69,$0 ,37.646767,-122.486885,CA,Single-Family Home,60000,,,,75,,For Sale,SAN MATEO
+94044,Linda Mar Blvd,2,3,Pacifica,"1,285 sqft",31-Dec-69,$0 ,37.582848,-122.48398,CA,Single-Family Home,333700,,,,51,,For Sale,SAN MATEO
+94044,Valdez Way,2,3,Pacifica,"1,170 sqft",31-Dec-69,$0 ,37.57964,-122.48123,CA,Single-Family Home,335000,,,,49,,For Sale,SAN MATEO
+94044,Palmetto Ave,2,3,Pacifica,"1,240 sqft",31-Dec-69,$0 ,37.65981,-122.48664,CA,Single-Family Home,461487,,,,43,,For Sale,SAN MATEO
+94044,Paradise Dr,2,3,Pacifica,"1,250 sqft",31-Dec-69,$0 ,37.66041,-122.4891,CA,Single-Family Home,355000,,,,40,,For Sale,SAN MATEO
+94044,Oddstad Blvd,3,3,Pacifica,"1,830 sqft",31-Dec-69,$0 ,37.59174,-122.464516,CA,Single-Family Home,630000,,,,23,,For Sale,SAN MATEO
+94044,Sea Spray Ct,2,4,Pacifica,"2,520 sqft",31-Dec-69,$0 ,37.638897,-122.468025,CA,Single-Family Home,855000,,,,42,,For Sale,SAN MATEO
+94044,Prairie Creek Dr,2,4,Pacifica,"1,360 sqft",31-Dec-69,$0 ,37.588764,-122.45981,CA,Single-Family Home,545000,,,,18,,For Sale,SAN MATEO
+94044,Crespi,1,3,Pacifica,"1,040 sqft",31-Dec-69,$0 ,37.593987,-122.4969,CA,Single-Family Home,479724,,,,71,,For Sale,SAN MATEO
+94044,Glencourt Way,2,3,Pacifica,"1,220 sqft",31-Dec-69,$0 ,37.649082,-122.47263,CA,Single-Family Home,557008,,,,55,,For Sale,SAN MATEO
+94044,Pacific Ave,1,2,Pacifica,880 sqft,31-Dec-69,$0 ,37.631924,-122.486496,CA,Single-Family Home,540509,,,,66,,For Sale,SAN MATEO
+94044,Edgemar Ave,2,3,Pacifica,"1,335 sqft",31-Dec-69,$0 ,37.648113,-122.48961,CA,Single-Family Home,515000,,,,83,,For Sale,SAN MATEO
+94044,Sycamore St,1,1,Pacifica,746 sqft,31-Dec-69,$0 ,37.646484,-122.472664,CA,Condo,301000,,,,48,,For Sale,SAN MATEO
+94044,Flores Dr,1,3,Pacifica,"1,040 sqft",31-Dec-69,$0 ,37.589848,-122.500206,CA,Single-Family Home,545600,,,,65,,For Sale,SAN MATEO
+94044,Bancroft Way,1,2,Pacifica,"1,190 sqft",31-Dec-69,$0 ,37.652462,-122.4889,CA,Single-Family Home,585414,,,,75,,For Sale,SAN MATEO
+94044,Andover Dr,2,3,Pacifica,"1,180 sqft",31-Dec-69,$0 ,37.656902,-122.47482,CA,Single-Family Home,663585,,,,58,,For Sale,SAN MATEO
+94044,Aspen Dr,2,3,Pacifica,"1,310 sqft",31-Dec-69,$0 ,37.588207,-122.47505,CA,Single-Family Home,716234,,,,49,,For Sale,SAN MATEO
+94044,Crespi Dr,2,3,Pacifica,"1,110 sqft",31-Dec-69,$0 ,37.598537,-122.48258,CA,Single-Family Home,648741,,,,15,,For Sale,SAN MATEO
+94044,Sunshine Dr,2,4,Pacifica,"1,270 sqft",31-Dec-69,$0 ,37.661667,-122.48027,CA,Single-Family Home,645883,,,,68,,For Sale,SAN MATEO
+94044,Monterey Rd,,,Pacifica,,31-Dec-69,$0 ,37.650146,-122.48037,CA,Unspecified,575000,,,,45,,For Sale,SAN MATEO
+94044,Bancroft Way,,,Pacifica,,31-Dec-69,$0 ,37.652412,-122.488884,CA,Unspecified,490000,,,,66,,For Sale,SAN MATEO
+94044,Hickey Blvd B,,,Pacifica,,31-Dec-69,$0 ,37.65568,-122.478874,CA,Unspecified,553955,,,,62,,For Sale,SAN MATEO
+94044,Timberhill Ct,3,4,Pacifica,"2,210 sqft",31-Dec-69,$0 ,37.6528,-122.47291,CA,Single-Family Home,892500,,,,52,,For Sale,SAN MATEO
+94044,Andover Dr,2,4,Pacifica,"1,580 sqft",31-Dec-69,$0 ,37.656834,-122.47528,CA,Single-Family Home,690406,,,,66,,For Sale,SAN MATEO
+94044,Imperial Dr,2,3,Pacifica,"1,220 sqft",31-Dec-69,$0 ,37.65623,-122.47734,CA,Single-Family Home,738897,,,,58,,For Sale,SAN MATEO
+94044,Driftwood Cir,,,Pacifica,,31-Dec-69,$0 ,37.59918,-122.48723,CA,Unspecified,672000,,,,26,,For Sale,SAN MATEO

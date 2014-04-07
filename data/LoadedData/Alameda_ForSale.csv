@@ -1,0 +1,105 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94502,164 Inverness Way,3,2,Alameda,"1,283 sqft",31-Dec-69,$0 ,37.744564,-122.24629,CA,Single-Family Home,579000,,,,35,30,For Sale,ALAMEDA
+94501,1403 Webster St,,,Alameda,"7,704 sqft",31-Dec-69,$0 ,37.77163,-122.27703,CA,Income/Investment,195000,,,,80,46,For Sale,ALAMEDA
+94501,1204 Bay St,3.5,5,Alameda,"5,500 sqft",31-Dec-69,$0 ,37.76767,-122.26444,CA,Single-Family Home,2285000,,,,63,42,For Sale,ALAMEDA
+94501,1242 Saint Charles St,3.5,8,Alameda,"6,260 sqft",31-Dec-69,$0 ,37.767887,-122.265594,CA,Single-Family Home,2495000,,,,72,44,For Sale,ALAMEDA
+94502,151 Purcell Dr,3,3,Alameda,"2,370 sqft",31-Dec-69,$0 ,37.74528,-122.239716,CA,Single-Family Home,759000,,,,40,32,For Sale,ALAMEDA
+94502,2261 Harbor Bay Pkwy,1,,Alameda,"1,194 sqft",31-Dec-69,$0 ,37.73167,-122.250435,CA,Condo,399000,,,,43,28,For Sale,ALAMEDA
+94501,913 Independence Dr,2,2,Alameda,"1,313 sqft",31-Dec-69,$0 ,37.783115,-122.270195,CA,Single-Family Home,599000,,,,74,45,For Sale,ALAMEDA
+94501,1821 Versailles Ave,2.5,4,Alameda,"2,345 sqft",31-Dec-69,$0 ,37.76672,-122.23254,CA,Single-Family Home,899000,,,,75,46,For Sale,ALAMEDA
+94501,2101 Shoreline Dr #259,2,2,Alameda,"1,060 sqft",31-Dec-69,$0 ,37.75709,-122.25539,CA,Condo,455000,,,,66,34,For Sale,ALAMEDA
+94501,1810 Hibbard St,1,2,Alameda,744 sqft,31-Dec-69,$0 ,37.775097,-122.254486,CA,Single-Family Home,488000,,,,58,41,For Sale,ALAMEDA
+94501,1616 Cornell Dr,1,3,Alameda,"1,487 sqft",31-Dec-69,$0 ,37.761658,-122.22901,CA,Single-Family Home,798000,,,,62,40,For Sale,ALAMEDA
+94501,1820 San Antonio Ave,,,Alameda,,31-Dec-69,$0 ,37.76638,-122.25637,CA,Income/Investment,599000,,,,75,44,For Sale,ALAMEDA
+94502,3024 Alta Vis,3,3,Alameda,"1,584 sqft",31-Dec-69,$0 ,37.736416,-122.246124,CA,Townhome,559000,,,,57,28,For Sale,ALAMEDA
+94501,325 Kitty Hawk Rd #310,2,2,Alameda,930 sqft,31-Dec-69,$0 ,37.759315,-122.26086,CA,Condo,399000,,,,54,36,For Sale,ALAMEDA
+94502,22 Chatham Pt,3,3,Alameda,"2,197 sqft",31-Dec-69,$0 ,37.74152,-122.2392,CA,Single-Family Home,799000,,,,51,28,For Sale,ALAMEDA
+94501,1612 Saint Charles St,3,3,Alameda,"1,884 sqft",31-Dec-69,$0 ,37.775402,-122.2656,CA,Single-Family Home,649000,,,,72,44,For Sale,ALAMEDA
+94501,1170 Broadway,2.5,4,Alameda,"2,210 sqft",31-Dec-69,$0 ,37.75828,-122.24219,CA,Single-Family Home,749000,,,,83,45,For Sale,ALAMEDA
+94501,2615 San Jose Ave #B,3,3,Alameda,"1,716 sqft",31-Dec-69,$0 ,37.75893,-122.241196,CA,Townhome,548000,,,,83,46,For Sale,ALAMEDA
+94501,857 Oak St,2,2,Alameda,"1,262 sqft",31-Dec-69,$0 ,37.75936,-122.24822,CA,Single-Family Home,635000,,,,91,44,For Sale,ALAMEDA
+94501,2620 Encinal Ave,3,4,Alameda,"2,252 sqft",31-Dec-69,$0 ,37.75989,-122.24,CA,Single-Family Home,798000,,,,82,46,For Sale,ALAMEDA
+94502,32 Kara Rd,2,3,Alameda,"1,405 sqft",31-Dec-69,$0 ,37.74504,-122.253235,CA,Single-Family Home,749000,,,,28,,For Sale,ALAMEDA
+94502,3538 Magnolia Dr,2,2,Alameda,"1,247 sqft",31-Dec-69,$0 ,37.732136,-122.2343,CA,Townhome,485000,,,,52,28,For Sale,ALAMEDA
+94501,2050 Pacific Ave,2,4,Alameda,"2,263 sqft",31-Dec-69,$0 ,37.77065,-122.24869,CA,Single-Family Home,769500,,,,83,45,For Sale,ALAMEDA
+94501,2620 Encinal Ave,3,4,Alameda,"2,252 sqft",31-Dec-69,$0 ,37.75989,-122.24,CA,Condo,798000,,,,82,46,For Sale,ALAMEDA
+94501,1617 Concordia St,2,2,Alameda,978 sqft,31-Dec-69,$0 ,37.775772,-122.27575,CA,Single-Family Home,410000,,,,86,46,For Sale,ALAMEDA
+94502,636 Centre Ct,2,2,Alameda,"1,740 sqft",31-Dec-69,$0 ,37.74579,-122.23727,CA,Townhome,529000,,,,,,For Sale,ALAMEDA
+94501,2101 Shoreline Dr #344,2,2,Alameda,"1,468 sqft",31-Dec-69,$0 ,37.75709,-122.25539,CA,Condo,458000,,,,,,For Sale,ALAMEDA
+94502,161 Centre Ct,1,1,Alameda,"1,042 sqft",31-Dec-69,$0 ,37.746326,-122.23982,CA,Condo,455000,,,,40,32,For Sale,ALAMEDA
+94502,3519 Depassier Way,2.5,3,Alameda,,31-Dec-69,$0 ,37.72978,-122.2366,CA,Single-Family Home,685000,,,,40,28,For Sale,ALAMEDA
+94501,27 Eclipse Ct,2,2,Alameda,"1,443 sqft",31-Dec-69,$0 ,37.78253,-122.267426,CA,Condo,630000,,,,55,43,For Sale,ALAMEDA
+94501,1804 Lincoln Ave,1,2,Alameda,"1,094 sqft",31-Dec-69,$0 ,37.771675,-122.2534,CA,Single-Family Home,620000,,,,,,For Sale,ALAMEDA
+94501,1235 Broadway,,,Alameda,"1,485 sqft",31-Dec-69,$0 ,37.760063,-122.24161,CA,Income/Investment,699800,,,,83,46,For Sale,ALAMEDA
+94501,3233 1/2 Briggs Ave,1,2,Alameda,907 sqft,31-Dec-69,$0 ,37.756306,-122.23179,CA,Single-Family Home,675000,,,,62,34,For Sale,ALAMEDA
+94501,3351 Fernside Blvd,,,Alameda,,31-Dec-69,$0 ,37.75929,-122.225334,CA,Income/Investment,839000,,,,51,36,For Sale,ALAMEDA
+94501,3267 Briggs Ave,,,Alameda,,31-Dec-69,$0 ,37.755795,-122.230606,CA,Income/Investment,570000,,,,63,40,For Sale,ALAMEDA
+94501,2301 Encinal Ave,,,Alameda,"9,600 sqft",31-Dec-69,$0 ,37.763103,-122.244995,CA,Single-Family Home,850000,,,,97,46,For Sale,ALAMEDA
+94501,463 Cola Ballena,2.5,4,Alameda,,31-Dec-69,$0 ,37.767326,-122.284546,CA,Single-Family Home,849000,,,,57,0,For Sale,ALAMEDA
+94501,1435 Webster St,,,Alameda,,31-Dec-69,$0 ,37.77265,-122.277145,CA,Lot/Land,900000,,,,80,47,For Sale,ALAMEDA
+94501,Fernside Blvd,1,3,Alameda,"1,140 sqft",31-Dec-69,$0 ,37.755173,-122.22961,CA,Single-Family Home,103749,,,,45,36,For Sale,ALAMEDA
+94501,Jackson St,1,2,Alameda,"1,120 sqft",31-Dec-69,$0 ,37.759014,-122.23639,CA,Single-Family Home,323500,,,,80,45,For Sale,ALAMEDA
+94501,Encinal Ave,1,2,Alameda,"1,150 sqft",31-Dec-69,$0 ,37.766293,-122.25284,CA,Single-Family Home,480000,,,,75,45,For Sale,ALAMEDA
+94501,Taylor Ave,3,3,Alameda,"2,115 sqft",31-Dec-69,$0 ,37.772392,-122.277405,CA,Multi-Family Home,380000,,,,85,46,For Sale,ALAMEDA
+94501,Linden St,3,7,Alameda,"2,563 sqft",31-Dec-69,$0 ,37.774204,-122.28084,CA,Single-Family Home,300000,,,,80,46,For Sale,ALAMEDA
+94501,Court St,2,3,Alameda,"1,550 sqft",31-Dec-69,$0 ,37.75206,-122.24128,CA,Single-Family Home,390000,,,,52,36,For Sale,ALAMEDA
+94501,Webster St #107,1,1,Alameda,701 sqft,31-Dec-69,$0 ,37.77089,-122.27685,CA,Condo,202021,,,,80,46,For Sale,ALAMEDA
+94501,Paru St,2,3,Alameda,"1,192 sqft",31-Dec-69,$0 ,37.77591,-122.25535,CA,Condo,501108,,,,52,40,For Sale,ALAMEDA
+94501,Paru St,,,Alameda,"3,916 sqft",31-Dec-69,$0 ,37.774483,-122.256325,CA,Multi-Family Home,767442,,,,55,41,For Sale,ALAMEDA
+94502,Gilbert Ln,2,4,Alameda,"1,766 sqft",31-Dec-69,$0 ,37.73511,-122.243515,CA,Condo,620810,,,,58,28,For Sale,ALAMEDA
+94501,Tideway Dr,2,3,Alameda,"1,835 sqft",31-Dec-69,$0 ,37.770317,-122.28674,CA,Condo,938250,,,,68,0,For Sale,ALAMEDA
+94502,Ferro Ct,3,4,Alameda,"2,343 sqft",31-Dec-69,$0 ,37.73345,-122.248314,CA,Single-Family Home,760400,,,,48,28,For Sale,ALAMEDA
+94501,San Jose Ave,2,3,Alameda,"1,550 sqft",31-Dec-69,$0 ,37.762096,-122.24836,CA,Single-Family Home,740983,,,,95,46,For Sale,ALAMEDA
+94501,Buena Vista Ave,1,3,Alameda,"1,535 sqft",31-Dec-69,$0 ,37.769855,-122.24352,CA,Single-Family Home,746352,,,,91,46,For Sale,ALAMEDA
+94502,Nottingham Ct,,,Alameda,,31-Dec-69,$0 ,37.74536,-122.24959,CA,Unspecified,938368,,,,,,For Sale,ALAMEDA
+94502,Foster St,2,3,Alameda,"1,706 sqft",31-Dec-69,$0 ,37.73702,-122.251595,CA,Single-Family Home,650000,,,,35,28,For Sale,ALAMEDA
+94502,Stanbridge Ct,2,3,Alameda,"1,809 sqft",31-Dec-69,$0 ,37.74398,-122.2494,CA,Single-Family Home,657037,,,,34,30,For Sale,ALAMEDA
+94501,Versailles Ave,1,3,Alameda,"1,664 sqft",31-Dec-69,$0 ,37.759056,-122.23858,CA,Single-Family Home,686397,,,,82,45,For Sale,ALAMEDA
+94501,Minturn St,2,3,Alameda,"1,321 sqft",31-Dec-69,$0 ,37.77182,-122.254814,CA,Single-Family Home,533942,,,,63,42,For Sale,ALAMEDA
+94501,Concordia St,1,2,Alameda,978 sqft,31-Dec-69,$0 ,37.77578,-122.275475,CA,Single-Family Home,487821,,,,86,46,For Sale,ALAMEDA
+94501,Saint Charles St,1,1,Alameda,448 sqft,31-Dec-69,$0 ,37.77351,-122.26585,CA,Single-Family Home,352660,,,,72,45,For Sale,ALAMEDA
+94501,Pacific Ave,2,3,Alameda,"1,530 sqft",31-Dec-69,$0 ,37.776173,-122.274414,CA,Single-Family Home,633457,,,,95,46,For Sale,ALAMEDA
+94501,Sherman St,1,2,Alameda,"1,615 sqft",31-Dec-69,$0 ,37.767868,-122.26357,CA,Single-Family Home,646874,,,,72,43,For Sale,ALAMEDA
+94501,Gibbons Dr,2,3,Alameda,"2,128 sqft",31-Dec-69,$0 ,37.763397,-122.22758,CA,Single-Family Home,955015,,,,60,42,For Sale,ALAMEDA
+94501,Otis Dr,2,2,Alameda,"1,305 sqft",31-Dec-69,$0 ,37.754177,-122.24293,CA,Single-Family Home,642600,,,,62,37,For Sale,ALAMEDA
+94501,8th St,2,4,Alameda,"1,800 sqft",31-Dec-69,$0 ,37.774708,-122.2727,CA,Single-Family Home,664000,,,,94,46,For Sale,ALAMEDA
+94501,Cottage St,1,2,Alameda,"1,110 sqft",31-Dec-69,$0 ,37.77189,-122.259155,CA,Single-Family Home,477000,,,,68,43,For Sale,ALAMEDA
+94501,Bartlett Dr,2,3,Alameda,"1,622 sqft",31-Dec-69,$0 ,37.78079,-122.27344,CA,Single-Family Home,626654,,,,75,46,For Sale,ALAMEDA
+94501,San Antonio Ave,2,3,Alameda,"2,265 sqft",31-Dec-69,$0 ,37.76526,-122.25301,CA,Single-Family Home,100000,,,,77,45,For Sale,ALAMEDA
+94502,Sea View Pkwy,2,3,Alameda,"2,001 sqft",31-Dec-69,$0 ,37.74771,-122.25072,CA,Condo,310000,,,,46,32,For Sale,ALAMEDA
+94501,3rd St,2,3,Alameda,"1,073 sqft",31-Dec-69,$0 ,37.777348,-122.287994,CA,Single-Family Home,64935,,,,55,41,For Sale,ALAMEDA
+94501,Webster St #E211,1,1,Alameda,701 sqft,31-Dec-69,$0 ,37.77089,-122.27685,CA,Condo,148500,,,,82,47,For Sale,ALAMEDA
+94502,Centre Ct #109,1,1,Alameda,"1,042 sqft",31-Dec-69,$0 ,37.746037,-122.23967,CA,Condo,315000,,,,45,32,For Sale,ALAMEDA
+94501,Willow St #C,1,2,Alameda,830 sqft,31-Dec-69,$0 ,37.76096,-122.25462,CA,Unspecified,187500,,,,78,42,For Sale,ALAMEDA
+94501,Haight Ave,2,3,Alameda,"2,683 sqft",31-Dec-69,$0 ,37.774384,-122.28248,CA,Single-Family Home,401000,,,,78,45,For Sale,ALAMEDA
+94501,Pacific Ave,2,4,Alameda,"1,806 sqft",31-Dec-69,$0 ,37.774574,-122.25696,CA,Multi-Family Home,571829,,,,63,42,For Sale,ALAMEDA
+94501,Oceana St,3,3,Alameda,"3,423 sqft",31-Dec-69,$0 ,37.78355,-122.28618,CA,Single-Family Home,975550,,,,66,44,For Sale,ALAMEDA
+94501,Otis Dr #105,2,2,Alameda,"1,162 sqft",31-Dec-69,$0 ,37.76037,-122.253105,CA,Condo,371742,,,,85,43,For Sale,ALAMEDA
+94501,Otis Dr D,1,2,Alameda,866 sqft,31-Dec-69,$0 ,37.76102,-122.254776,CA,Condo,308616,,,,80,42,For Sale,ALAMEDA
+94501,Santa Clara Ave,2,2,Alameda,"1,060 sqft",31-Dec-69,$0 ,37.767857,-122.247665,CA,Condo,416059,,,,89,46,For Sale,ALAMEDA
+94501,Jack London Ave,2,3,Alameda,"2,805 sqft",31-Dec-69,$0 ,37.781788,-122.285866,CA,Single-Family Home,866744,,,,65,43,For Sale,ALAMEDA
+94501,Fernside Blvd #A,1,1,Alameda,"1,563 sqft",31-Dec-69,$0 ,37.762356,-122.22557,CA,Condo,557524,,,,62,40,For Sale,ALAMEDA
+94502,Mangrove Ln,2,3,Alameda,"1,760 sqft",31-Dec-69,$0 ,37.730766,-122.23464,CA,Townhome,586251,,,,49,29,For Sale,ALAMEDA
+94501,Central Ave,1,1,Alameda,548 sqft,31-Dec-69,$0 ,37.771614,-122.283745,CA,Single-Family Home,286417,,,,68,45,For Sale,ALAMEDA
+94501,4th St,1,3,Alameda,"1,397 sqft",31-Dec-69,$0 ,37.775867,-122.28586,CA,Single-Family Home,601908,,,,62,43,For Sale,ALAMEDA
+94501,Ballena Blvd,2,4,Alameda,"2,452 sqft",31-Dec-69,$0 ,37.76905,-122.2865,CA,Condo,782563,,,,51,0,For Sale,ALAMEDA
+94501,Shoreline Dr,,,Alameda,,31-Dec-69,$0 ,37.75472,-122.25198,CA,Condo,371482,,,,75,39,For Sale,ALAMEDA
+94501,Bay St,2,4,Alameda,"1,874 sqft",31-Dec-69,$0 ,37.771824,-122.264656,CA,Multi-Family Home,643754,,,,72,44,For Sale,ALAMEDA
+94501,Otis Dr,,,Alameda,,31-Dec-69,$0 ,37.761024,-122.25478,CA,Unspecified,186707,,,,80,42,For Sale,ALAMEDA
+94501,Webster St #C204,,,Alameda,,31-Dec-69,$0 ,37.77089,-122.27685,CA,Unspecified,128250,,,,85,47,For Sale,ALAMEDA
+94501,Mozart St,2,3,Alameda,"1,151 sqft",31-Dec-69,$0 ,37.774178,-122.26908,CA,Single-Family Home,604000,,,,83,46,For Sale,ALAMEDA
+94501,Cedar St #C,,,Alameda,,31-Dec-69,$0 ,37.760616,-122.249504,CA,Unspecified,520000,,,,91,44,For Sale,ALAMEDA
+94501,Cedar St #B,,,Alameda,,31-Dec-69,$0 ,37.760616,-122.249504,CA,Unspecified,520000,,,,91,44,For Sale,ALAMEDA
+94501,Shore Line Dr #306,,,Alameda,,31-Dec-69,$0 ,37.761543,-122.26969,CA,Unspecified,494285,,,,40,29,For Sale,ALAMEDA
+94501,G Cola Ballena #35,,,Alameda,,31-Dec-69,$0 ,37.769197,-122.28597,CA,Unspecified,332000,,,,,,For Sale,ALAMEDA
+94501,St Charles St,,,Alameda,,31-Dec-69,$0 ,37.77351,-122.26585,CA,Unspecified,347382,,,,63,45,For Sale,ALAMEDA
+94502,Maitland Dr B,,,Alameda,,31-Dec-69,$0 ,37.736145,-122.236046,CA,Unspecified,516000,,,,74,29,For Sale,ALAMEDA
+94501,Central Ave #F433,,,Alameda,,31-Dec-69,$0 ,37.77018,-122.25655,CA,Unspecified,414943,,,,75,43,For Sale,ALAMEDA
+94501,Haight Ave,,,Alameda,,31-Dec-69,$0 ,37.775786,-122.289026,CA,Unspecified,520000,,,,63,44,For Sale,ALAMEDA
+94501,Dow Ct,2,4,Alameda,"2,171 sqft",31-Dec-69,$0 ,37.78094,-122.27443,CA,Single-Family Home,700976,,,,75,47,For Sale,ALAMEDA
+94502,Sandpiper Pl,2,4,Alameda,"2,172 sqft",31-Dec-69,$0 ,37.742,-122.24877,CA,Single-Family Home,800000,,,,46,29,For Sale,ALAMEDA
+94501,Garfield Ave,1,3,Alameda,"1,416 sqft",31-Dec-69,$0 ,37.758476,-122.227684,CA,Single-Family Home,743352,,,,54,37,For Sale,ALAMEDA
+94501,Bay St,1,3,Alameda,"1,635 sqft",31-Dec-69,$0 ,37.76809,-122.26481,CA,Single-Family Home,739311,,,,68,44,For Sale,ALAMEDA
+94502,Young,2,3,Alameda,"1,706 sqft",31-Dec-69,$0 ,37.737473,-122.25131,CA,Single-Family Home,806271,,,,48,30,For Sale,ALAMEDA
+94501,Pacific Ave,,,Alameda,,31-Dec-69,$0 ,37.776468,-122.290591,CA,Unspecified,620674,,,,95,47,For Sale,ALAMEDA
+94501,Pacific Ave,,,Alameda,,31-Dec-69,$0 ,37.776468,-122.290591,CA,Unspecified,620674,,,,95,47,For Sale,ALAMEDA

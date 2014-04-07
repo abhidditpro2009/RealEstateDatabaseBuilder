@@ -1,0 +1,559 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94061,1261 Westwood St,2,3,Redwood City,"1,590 sqft",20-Feb-14,"$1,100,000 ",37.45973,-122.24349,CA,Single-Family Home,1100000,"$1,080,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,2790 Marlborough Ave,4,6,Redwood City,"3,478 sqft",20-Feb-14,"$1,030,000 ",37.471916,-122.21322,CA,Multi-Family,1030000,,,,,,Sold,SAN MATEO
+94062,556 James Ave,4,6,Redwood City,"3,553 sqft",20-Feb-14,"$1,450,000 ",37.481197,-122.23744,CA,Multi-Family,1450000,"$1,198,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1304 Virginia Ave,2,3,Redwood City,"1,300 sqft",19-Feb-14,"$910,000 ",37.46443,-122.23717,CA,Single-Family Home,910000,"$1,049,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,111 Wellesley Cres #2N,2.5,2,Redwood City,"1,729 sqft",18-Feb-14,"$615,000 ",37.490505,-122.24256,CA,Condo,615000,"$706,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,3708 Farm Hill Blvd,2.5,4,Redwood City,"1,630 sqft",18-Feb-14,"$1,175,000 ",37.45776,-122.24898,CA,Single-Family Home,1175000,"$1,332,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,300 Sandhurst St,2.5,4,Redwood City,"2,240 sqft",14-Feb-14,"$1,315,000 ",37.545418,-122.23553,CA,Single-Family Home,1315000,"$1,575,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,180 Santa Clara Ave,2.5,3,Redwood City,"1,720 sqft",14-Feb-14,"$965,000 ",37.45197,-122.22817,CA,Single-Family Home,965000,"$1,378,000 ",,,,,Sold,SAN MATEO
+94065,340 Meridian Dr,2.5,2,Redwood City,"1,178 sqft",14-Feb-14,"$740,000 ",37.542797,-122.238075,CA,Condo,740000,"$828,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,465 Cork Harbour Cir #H,2,2,Redwood City,"1,136 sqft",14-Feb-14,"$655,000 ",37.532616,-122.25776,CA,Condo,655000,"$726,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,4024 Farm Hill Blvd #3,1.5,2,Redwood City,"1,016 sqft",14-Feb-14,"$643,000 ",37.451157,-122.26156,CA,Condo,643000,"$687,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1019 Valota Rd,1,2,Redwood City,960 sqft,14-Feb-14,"$660,000 ",37.46971,-122.23869,CA,Single-Family Home,660000,"$759,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,569 Keelson Cir,2.5,4,Redwood City,"2,280 sqft",14-Feb-14,"$1,428,000 ",37.53212,-122.24555,CA,Single-Family Home,1428000,"$1,403,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1983 Cordilleras Rd,1,3,Redwood City,"1,220 sqft",13-Feb-14,"$1,680,000 ",37.47343,-122.27074,CA,Single-Family Home,1680000,"$1,309,000 ",,,,,Sold,SAN MATEO
+94065,34 Cove Ln,1,1,Redwood City,"1,050 sqft",13-Feb-14,"$615,000 ",37.531178,-122.25585,CA,Condo,615000,"$670,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,18 Arden Ct,1,2,Redwood City,830 sqft,12-Feb-14,"$769,000 ",37.47198,-122.229,CA,Single-Family Home,769000,"$764,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,4032 Farm Hill Blvd #10,1.5,2,Redwood City,"1,016 sqft",11-Feb-14,"$628,000 ",37.451157,-122.26156,CA,Condo,628000,"$670,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,8 Cape Hatteras Ct,1,1,Redwood City,987 sqft,7-Feb-14,"$610,000 ",37.53537,-122.24608,CA,Condo,610000,"$653,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,2121 Gossamer Ave,2.5,4,Redwood City,"2,590 sqft",7-Feb-14,"$1,545,000 ",37.54572,-122.23984,CA,Single-Family Home,1545000,"$1,608,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,808 Bain Pl,1,2,Redwood City,920 sqft,7-Feb-14,"$825,000 ",37.468746,-122.25512,CA,Single-Family Home,825000,"$1,007,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,1124 Brewster Ave,2.5,2,Redwood City,"1,500 sqft",7-Feb-14,"$647,000 ",37.48667,-122.23734,CA,Single-Family Home,647000,"$789,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94063,332 G St,1,3,Redwood City,"1,020 sqft",7-Feb-14,"$765,000 ",37.497204,-122.24115,CA,Single-Family Home,765000,"$796,000 ",,,,,Sold,SAN MATEO
+94061,1751 Hull Ave,2,3,Redwood City,"1,320 sqft",7-Feb-14,"$970,000 ",37.45297,-122.22723,CA,Single-Family Home,970000,"$1,012,000 ",,,,,Sold,SAN MATEO
+94065,700 Baltic Cir #734,3,2,Redwood City,"1,729 sqft",7-Feb-14,"$910,000 ",37.538403,-122.241,CA,Condo,910000,"$949,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,36 Finger Ave,3.5,4,Redwood City,"4,530 sqft",6-Feb-14,"$1,450,000 ",37.492844,-122.24455,CA,Single-Family Home,1450000,"$2,162,000 ",,,,,Sold,SAN MATEO
+94063,2841 Devonshire Ave,1,2,Redwood City,900 sqft,6-Feb-14,"$529,500 ",37.472034,-122.21095,CA,Single-Family Home,529500,"$605,000 ",,,,,Sold,SAN MATEO
+94061,320 Carlos Ave,2.5,3,Redwood City,"1,900 sqft",5-Feb-14,"$162,000 ",37.47049,-122.217224,CA,Single-Family Home,162000,"$878,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,50 Horgan Ave #57,2,3,Redwood City,"1,550 sqft",4-Feb-14,"$740,000 ",37.463455,-122.22328,CA,Condo,740000,"$782,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,1140 Whipple Ave #27,1,2,Redwood City,"1,104 sqft",4-Feb-14,"$435,000 ",37.48955,-122.24139,CA,Condo,435000,"$523,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,15 Winston Way,2,3,Redwood City,"1,510 sqft",31-Jan-14,"$1,310,000 ",37.45184,-122.22531,CA,Single-Family Home,1310000,"$1,002,000 ",,,,,Sold,SAN MATEO
+94061,329 Belmont Ave,1,2,Redwood City,940 sqft,31-Jan-14,"$780,000 ",37.453983,-122.22479,CA,Single-Family Home,780000,"$853,000 ",,,,,Sold,SAN MATEO
+94061,903 Upton St,2,2,Redwood City,"1,150 sqft",31-Jan-14,"$605,000 ",37.467983,-122.243065,CA,Single-Family Home,605000,"$831,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,14 Portofino Cir,2.5,3,Redwood City,"1,970 sqft",31-Jan-14,"$1,115,000 ",37.531,-122.24365,CA,Single-Family Home,1115000,"$1,173,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1313 Jefferson Ave,2,3,Redwood City,"1,270 sqft",30-Jan-14,"$605,000 ",37.481407,-122.231606,CA,Single-Family Home,605000,"$1,016,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,22 Sycamore Ct,3,4,Redwood City,"2,600 sqft",29-Jan-14,"$1,558,000 ",37.460796,-122.228836,CA,Single-Family Home,1558000,"$1,572,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,620 W California Way,2.5,3,Redwood City,"3,070 sqft",29-Jan-14,"$1,875,000 ",37.45779,-122.27496,CA,Single-Family Home,1875000,"$1,928,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,165 Elwood St,,,Redwood City,"1,390 sqft",29-Jan-14,"$1,210,000 ",37.484856,-122.24046,CA,Unknown,1210000,,,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,1166 Virginia Ave,2,2,Redwood City,"1,600 sqft",24-Jan-14,"$960,000 ",37.466217,-122.23956,CA,Single-Family Home,960000,"$1,123,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,235 C St,1,2,Redwood City,"1,080 sqft",24-Jan-14,"$750,000 ",37.493805,-122.239845,CA,Single-Family Home,750000,"$801,000 ",,Centennial,,,Sold,SAN MATEO
+94062,4115 Jefferson Ave,2.5,3,Redwood City,"2,420 sqft",24-Jan-14,"$1,425,000 ",37.456123,-122.267555,CA,Single-Family Home,1425000,"$1,753,000 ",,Farm Hill,,,Sold,SAN MATEO
+94063,537 Warrington Ave,1,2,Redwood City,760 sqft,23-Jan-14,"$425,000 ",37.47799,-122.208984,CA,Single-Family Home,425000,"$482,000 ",,,,,Sold,SAN MATEO
+94061,355 San Carlos Ave,2,4,Redwood City,"1,280 sqft",22-Jan-14,"$1,075,000 ",37.45466,-122.223114,CA,Single-Family Home,1075000,"$1,021,000 ",,,,,Sold,SAN MATEO
+94062,425 Edgewood Rd,2,3,Redwood City,"1,560 sqft",22-Jan-14,"$1,350,000 ",37.488564,-122.24642,CA,Single-Family Home,1350000,"$1,341,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,1235 Saint Francis St,1,1,Redwood City,790 sqft,22-Jan-14,"$435,000 ",37.467697,-122.23482,CA,Single-Family Home,435000,"$562,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,1021 Hilton St,1,3,Redwood City,"1,570 sqft",21-Jan-14,"$500,000 ",37.482742,-122.217255,CA,Single-Family Home,500000,"$660,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94063,2970 Fair Oaks Ave,1,2,Redwood City,"1,100 sqft",17-Jan-14,"$585,000 ",37.479057,-122.204155,CA,Single-Family Home,585000,"$592,000 ",,,,,Sold,SAN MATEO
+94065,812 Cape Cod Dr,3,4,Redwood City,"2,540 sqft",17-Jan-14,"$1,270,000 ",37.536736,-122.23344,CA,Single-Family Home,1270000,"$1,517,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,390 Genoa Dr,2.5,3,Redwood City,"1,610 sqft",17-Jan-14,"$920,000 ",37.542797,-122.238075,CA,Condo,920000,"$932,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,2802 Briarfield Ave,3.5,4,Redwood City,"2,670 sqft",17-Jan-14,"$1,285,000 ",37.461998,-122.24529,CA,Single-Family Home,1285000,"$1,644,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,1104 Whipple Ave #7,1,1,Redwood City,"1,104 sqft",16-Jan-14,"$461,000 ",37.48955,-122.24139,CA,Condo,461000,"$493,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94063,1006 Arguello St,4,4,Redwood City,"2,650 sqft",16-Jan-14,"$550,000 ",37.490215,-122.23655,CA,Single-Family Home,550000,"$1,357,000 ",,Centennial,,,Sold,SAN MATEO
+94065,328 Genoa Dr,2.5,3,Redwood City,"1,610 sqft",15-Jan-14,"$920,000 ",37.542797,-122.238075,CA,Condo,920000,"$977,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1458 Hudson St #204,1,1,Redwood City,710 sqft,14-Jan-14,"$308,000 ",37.469837,-122.2273,CA,Condo,308000,"$382,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,343 W Oakwood Blvd,1,2,Redwood City,"1,110 sqft",14-Jan-14,"$1,050,000 ",37.46723,-122.21608,CA,Single-Family Home,1050000,"$1,074,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,304 Nevada St,3,4,Redwood City,"2,150 sqft",10-Jan-14,"$1,459,000 ",37.476734,-122.24526,CA,Single-Family Home,1459000,"$1,466,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,389 4th Ave,2,4,Redwood City,"1,600 sqft",10-Jan-14,"$475,000 ",37.472305,-122.205925,CA,Single-Family Home,475000,"$596,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94061,1257 Alameda De Las Pulgas,1.5,3,Redwood City,"1,230 sqft",10-Jan-14,"$821,000 ",37.46067,-122.241875,CA,Single-Family Home,821000,"$946,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,457 Starboard Dr,2.5,3,Redwood City,"1,980 sqft",9-Jan-14,"$1,320,000 ",37.529995,-122.25412,CA,Single-Family Home,1320000,"$1,422,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,170 Nimitz Ave,1,3,Redwood City,"1,260 sqft",9-Jan-14,"$791,000 ",37.45828,-122.22477,CA,Single-Family Home,791000,"$948,000 ",,,,,Sold,SAN MATEO
+94061,365 Beresford Ave,1,3,Redwood City,"1,230 sqft",9-Jan-14,"$1,750,000 ",37.454018,-122.223526,CA,Single-Family Home,1750000,"$988,000 ",,,,,Sold,SAN MATEO
+94062,2211 Brewster Ave,1.5,3,Redwood City,"1,850 sqft",9-Jan-14,"$1,395,000 ",37.479317,-122.24543,CA,Single-Family Home,1395000,"$1,438,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,17 Colton Ct,5.5,5,Redwood City,"6,090 sqft",8-Jan-14,"$2,800,000 ",37.460205,-122.277306,CA,Single-Family Home,2800000,"$3,147,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,2414 Massachusetts Ave,2,2,Redwood City,"1,410 sqft",8-Jan-14,"$851,000 ",37.457176,-122.231476,CA,Single-Family Home,851000,"$1,078,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,15 Atherwood Ave,,,Redwood City,"16,814 sqft",7-Jan-14,"$4,500,000 ",37.46141,-122.225,CA,Multi-Family,4500000,,,Palm Park,,,Sold,SAN MATEO
+94062,131 Myrtle St,1.5,3,Redwood City,"1,430 sqft",6-Jan-14,"$1,280,000 ",37.480453,-122.24742,CA,Single-Family Home,1280000,"$1,258,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,2102 Hastings Shore Ln,2,2,Redwood City,"1,028 sqft",3-Jan-14,"$632,500 ",37.524273,-122.25145,CA,Condo,632500,"$703,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1245 Crompton Rd,2,3,Redwood City,"1,620 sqft",3-Jan-14,"$1,125,000 ",37.460373,-122.24291,CA,Single-Family Home,1125000,"$1,164,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,3618 Farm Hill Blvd,2,3,Redwood City,"1,390 sqft",3-Jan-14,"$960,000 ",37.46193,-122.250595,CA,Single-Family Home,960000,"$1,189,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,3 Waterside Cir,2.5,4,Redwood City,"2,180 sqft",31-Dec-13,"$1,360,000 ",37.533623,-122.238716,CA,Single-Family Home,1360000,"$1,417,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1280 Edgewood Rd,2,3,Redwood City,"2,230 sqft",31-Dec-13,"$1,348,000 ",37.481445,-122.25783,CA,Single-Family Home,1348000,"$1,519,000 ",,,,,Sold,SAN MATEO
+94061,371 Rutherford Ave,1,2,Redwood City,940 sqft,31-Dec-13,"$724,000 ",37.454865,-122.22199,CA,Single-Family Home,724000,"$824,000 ",,,,,Sold,SAN MATEO
+94061,1870 Valota Rd,,,Redwood City,"27,756 sqft",31-Dec-13,"$1,716,000 ",37.45977,-122.22683,CA,Multi-Family,1716000,,,Woodside Plaza,,,Sold,SAN MATEO
+94061,190 Bonita Ave,1.5,2,Redwood City,"1,250 sqft",31-Dec-13,"$735,000 ",37.46658,-122.220085,CA,Single-Family Home,735000,"$959,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,1 Milton St,,,Redwood City,"3,200 sqft",31-Dec-13,"$1,525,000 ",37.45315,-122.22441,CA,Multi-Family,1525000,"$1,506,000 ",,,,,Sold,SAN MATEO
+94062,971 Hillcrest Dr,1,2,Redwood City,"1,310 sqft",27-Dec-13,"$975,000 ",37.47596,-122.25774,CA,Single-Family Home,975000,"$1,112,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,273 Wheeler Ave,4.5,6,Redwood City,"3,056 sqft",27-Dec-13,"$780,000 ",37.464237,-122.21892,CA,Multi-Family,780000,"$988,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,148 Roosevelt Ave,4,5,Redwood City,"2,676 sqft",27-Dec-13,"$2,275,000 ",37.478634,-122.2267,CA,Multi-Family,2275000,,,Roosevelt,,,Sold,SAN MATEO
+94062,470 Myrtle St,2,3,Redwood City,"1,610 sqft",24-Dec-13,"$1,140,000 ",37.47593,-122.24143,CA,Single-Family Home,1140000,"$1,188,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,4004 Farm Hill Blvd #307,1,2,Redwood City,916 sqft,24-Dec-13,"$490,000 ",37.451157,-122.26156,CA,Condo,490000,"$559,000 ",,Farm Hill,,,Sold,SAN MATEO
+94063,1141 18th Ave,1,2,Redwood City,"1,390 sqft",24-Dec-13,"$667,000 ",37.48213,-122.18543,CA,Single-Family Home,667000,"$756,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,215 Belmont Ave,1,2,Redwood City,720 sqft,23-Dec-13,"$686,000 ",37.455254,-122.22659,CA,Single-Family Home,686000,"$761,000 ",,,,,Sold,SAN MATEO
+94061,1817 Roosevelt Ave,1.5,2,Redwood City,740 sqft,20-Dec-13,"$464,500 ",37.46799,-122.23917,CA,Single-Family Home,464500,"$657,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,1122 Whipple Ave #14,2,3,Redwood City,"1,122 sqft",20-Dec-13,"$510,000 ",37.48955,-122.24139,CA,Condo,510000,"$569,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94063,1064 Jones Ct,3,5,Redwood City,"2,762 sqft",20-Dec-13,"$765,000 ",37.484154,-122.19312,CA,Multi-Family,765000,"$744,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94062,110 Stratford St,3.5,4,Redwood City,"4,260 sqft",20-Dec-13,"$1,800,000 ",37.487926,-122.24572,CA,Single-Family Home,1800000,"$2,413,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,524 Shorebird Cir #15203,2,2,Redwood City,"1,667 sqft",20-Dec-13,"$760,000 ",37.533173,-122.25493,CA,Condo,760000,"$830,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,313 Saint Martin Dr,2.5,4,Redwood City,"1,850 sqft",20-Dec-13,"$1,200,000 ",37.543293,-122.24152,CA,Single-Family Home,1200000,"$1,510,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1678 Palm Ave,2,4,Redwood City,"2,350 sqft",20-Dec-13,"$950,000 ",37.464535,-122.23193,CA,Multi-Family,950000,"$1,057,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,302 Spring St,1,2,Redwood City,940 sqft,20-Dec-13,"$531,000 ",37.48595,-122.22281,CA,Single-Family Home,531000,"$644,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94062,245 King St,1,2,Redwood City,"1,220 sqft",20-Dec-13,"$1,065,000 ",37.47977,-122.24345,CA,Single-Family Home,1065000,"$1,102,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,657 Emerald Hill Rd,2.5,4,Redwood City,"1,630 sqft",20-Dec-13,"$1,205,000 ",37.4589,-122.25675,CA,Single-Family Home,1205000,"$1,470,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,310 Capstan Ct,2,4,Redwood City,"1,580 sqft",19-Dec-13,"$1,312,000 ",37.526066,-122.255745,CA,Single-Family Home,1312000,"$1,310,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,475 Avenue Del Ora,3,4,Redwood City,"2,400 sqft",19-Dec-13,"$1,380,000 ",37.474983,-122.24275,CA,Single-Family Home,1380000,"$1,659,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,615 Roosevelt Ave,1,2,Redwood City,970 sqft,19-Dec-13,"$675,000 ",37.475082,-122.230156,CA,Single-Family Home,675000,"$731,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,425 Upton St,1,3,Redwood City,920 sqft,19-Dec-13,"$800,000 ",37.47244,-122.24863,CA,Single-Family Home,800000,"$905,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,547 5th Ave,4,2,Redwood City,"2,300 sqft",19-Dec-13,"$849,000 ",37.475445,-122.20287,CA,Multi-Family,849000,"$665,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94061,731 Myrtle St,1.5,3,Redwood City,"1,300 sqft",18-Dec-13,"$780,000 ",37.473656,-122.23727,CA,Single-Family Home,780000,"$959,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,918 Durlston Rd,3,5,Redwood City,"3,200 sqft",17-Dec-13,"$2,350,000 ",37.484573,-122.25077,CA,Single-Family Home,2350000,"$2,720,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,212 Shorebird Cir,1,2,Redwood City,915 sqft,16-Dec-13,"$485,000 ",37.532166,-122.25499,CA,Condo,485000,"$622,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,154 Poplar Ave,,,Redwood City,"5,050 sqft",16-Dec-13,"$1,150,000 ",37.475204,-122.22333,CA,Multi-Family,1150000,,,Palm Park,,,Sold,SAN MATEO
+94061,936 Johnson St,1,2,Redwood City,"1,140 sqft",16-Dec-13,"$851,000 ",37.47365,-122.234924,CA,Single-Family Home,851000,"$872,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,814 Palm Ave,2.5,3,Redwood City,"1,760 sqft",13-Dec-13,"$735,000 ",37.469482,-122.22781,CA,Single-Family Home,735000,"$921,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,1458 Hudson St #203,1,1,Redwood City,710 sqft,12-Dec-13,"$302,000 ",37.469837,-122.2273,CA,Condo,302000,"$382,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,2010 Abryan Way,2.5,2,Redwood City,"2,140 sqft",12-Dec-13,"$1,260,000 ",37.445786,-122.2257,CA,Single-Family Home,1260000,"$1,284,000 ",,,,,Sold,SAN MATEO
+94061,1646 Pecan Ct,2,3,Redwood City,"1,530 sqft",12-Dec-13,"$1,100,000 ",37.463238,-122.22893,CA,Single-Family Home,1100000,"$1,011,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,473 Cork Harbour Cir #A,1,1,Redwood City,764 sqft,11-Dec-13,"$469,000 ",37.532616,-122.25776,CA,Condo,469000,"$537,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,531 Beresford Ave,1,2,Redwood City,"1,410 sqft",10-Dec-13,"$2,292,000 ",37.451885,-122.22052,CA,Single-Family Home,2292000,"$1,023,000 ",,,,,Sold,SAN MATEO
+94065,771 Mediterranean Ln,2.5,3,Redwood City,"1,996 sqft",10-Dec-13,"$1,158,000 ",37.537697,-122.24348,CA,Condo,1158000,"$1,263,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,821 Mediterranean Ln,3,3,Redwood City,"2,278 sqft",10-Dec-13,"$1,226,000 ",37.536667,-122.24471,CA,Condo,1226000,"$1,388,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1214 Ebener St,1,2,Redwood City,"1,660 sqft",10-Dec-13,"$975,000 ",37.47294,-122.22878,CA,Single-Family Home,975000,"$986,000 ",,Palm Park,,,Sold,SAN MATEO
+94062,209 Alameda De Las Pulgas,2,3,Redwood City,"1,520 sqft",10-Dec-13,"$1,059,000 ",37.48016,-122.251755,CA,Single-Family Home,1059000,"$1,304,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,825 Boardwalk Pl,2.5,2,Redwood City,"1,110 sqft",10-Dec-13,"$674,000 ",37.537144,-122.25082,CA,Condo,674000,"$784,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,51 Pelican Ln,1,1,Redwood City,837 sqft,10-Dec-13,"$450,000 ",37.531178,-122.25585,CA,Condo,450000,"$566,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,317 Starfish Ln,2.5,2,Redwood City,"1,270 sqft",9-Dec-13,"$845,000 ",37.53602,-122.249405,CA,Single-Family Home,845000,"$1,048,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,551 Quartz St,1,2,Redwood City,"1,050 sqft",9-Dec-13,"$1,955,000 ",37.472496,-122.242966,CA,Single-Family Home,1955000,"$1,035,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,830 Shepard Way,2,3,Redwood City,"2,050 sqft",6-Dec-13,"$1,550,000 ",37.462246,-122.25865,CA,Single-Family Home,1550000,"$1,539,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1576 Fernside St,2,3,Redwood City,"2,020 sqft",6-Dec-13,"$1,525,000 ",37.455242,-122.240974,CA,Single-Family Home,1525000,"$1,529,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,575 Shoal Cir,2.5,2,Redwood City,"1,425 sqft",6-Dec-13,"$735,000 ",37.5407,-122.23581,CA,Condo,735000,"$835,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,461 Cork Harbour Cir #F,2,2,Redwood City,"1,136 sqft",6-Dec-13,"$635,000 ",37.532616,-122.25776,CA,Condo,635000,"$708,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1515 Oak Ave,3,4,Redwood City,"3,080 sqft",5-Dec-13,"$996,000 ",37.46812,-122.235085,CA,Single-Family Home,996000,"$1,214,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,698 Emerald Hill Rd,3,4,Redwood City,"2,970 sqft",5-Dec-13,"$1,530,000 ",37.45776,-122.25618,CA,Single-Family Home,1530000,"$1,931,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,616 Dory Ln,3,4,Redwood City,"2,040 sqft",5-Dec-13,"$1,150,000 ",37.530045,-122.24666,CA,Single-Family Home,1150000,"$1,406,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,630 Oak Ridge Dr,2,4,Redwood City,"1,410 sqft",5-Dec-13,"$915,000 ",37.468204,-122.24855,CA,Single-Family Home,915000,"$1,050,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,445 Bark Dr,2,2,Redwood City,"1,220 sqft",4-Dec-13,"$822,500 ",37.530525,-122.25117,CA,Single-Family Home,822500,"$888,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1260 W Selby Ln,2,3,Redwood City,"1,240 sqft",4-Dec-13,"$900,000 ",37.455013,-122.221855,CA,Single-Family Home,900000,"$889,000 ",,,,,Sold,SAN MATEO
+94065,700 Baltic Cir #708,2.5,2,Redwood City,"1,424 sqft",4-Dec-13,"$757,000 ",37.538403,-122.241,CA,Condo,757000,"$814,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1240 Hawes St,5.5,7,Redwood City,"5,840 sqft",3-Dec-13,"$1,550,000 ",37.469173,-122.2329,CA,Multi-Family,1550000,,,Palm Park,,,Sold,SAN MATEO
+94061,623 Oak Ave,2,3,Redwood City,"1,152 sqft",3-Dec-13,"$600,000 ",37.472885,-122.22913,CA,Multi-Family,600000,"$627,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,564 Shoal Cir,2.5,2,Redwood City,"1,572 sqft",3-Dec-13,"$868,000 ",37.5407,-122.23581,CA,Condo,868000,"$884,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,18 Alverno Ct,2.5,2,Redwood City,"2,800 sqft",2-Dec-13,"$1,150,000 ",37.453274,-122.26217,CA,Single-Family Home,1150000,"$1,462,000 ",,Farm Hill,,,Sold,SAN MATEO
+94063,562 Stanford Ave,1,2,Redwood City,"1,040 sqft",2-Dec-13,"$525,000 ",37.478573,-122.20898,CA,Single-Family Home,525000,"$572,000 ",,,,,Sold,SAN MATEO
+94061,1808 Maddux Dr,2,3,Redwood City,"1,440 sqft",27-Nov-13,"$915,000 ",37.455067,-122.23475,CA,Single-Family Home,915000,"$1,101,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,727 Beech St,1,2,Redwood City,"1,240 sqft",27-Nov-13,"$675,000 ",37.48523,-122.22189,CA,Single-Family Home,675000,"$754,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94063,106 Sydney Ln,2.5,3,Redwood City,"1,405 sqft",27-Nov-13,"$710,000 ",37.4972,-122.2246,CA,Condo,710000,"$802,000 ",,,,,Sold,SAN MATEO
+94063,3158 Hoover St,2,4,Redwood City,"2,184 sqft",27-Nov-13,"$635,000 ",37.485157,-122.19679,CA,Multi-Family,635000,"$538,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94063,118 Winslow St,1,2,Redwood City,880 sqft,27-Nov-13,"$700,000 ",37.491516,-122.233444,CA,Unknown,700000,,,Centennial,,,Sold,SAN MATEO
+94061,3709 Brandy Rock Way,2,3,Redwood City,"1,300 sqft",27-Nov-13,"$1,950,000 ",37.45713,-122.24792,CA,Single-Family Home,1950000,"$1,199,000 ",,Farm Hill,,,Sold,SAN MATEO
+94063,662 3rd Ave,1,2,Redwood City,"1,120 sqft",27-Nov-13,"$685,000 ",37.47783,-122.20296,CA,Single-Family Home,685000,"$690,000 ",,,,,Sold,SAN MATEO
+94065,779 Mediterranean Ln,2,2,Redwood City,"1,412 sqft",27-Nov-13,"$885,000 ",37.537697,-122.24348,CA,Condo,885000,"$926,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,926 Madison Ave,2.5,4,Redwood City,"2,510 sqft",27-Nov-13,"$1,375,000 ",37.475784,-122.23681,CA,Single-Family Home,1375000,"$1,298,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,2853 Blenheim Ave,3,4,Redwood City,"2,925 sqft",27-Nov-13,"$700,000 ",37.47071,-122.2119,CA,Multi-Family,700000,"$899,000 ",,,,,Sold,SAN MATEO
+94061,1415 Regent St #4,1,2,Redwood City,927 sqft,26-Nov-13,"$400,000 ",37.46921,-122.229004,CA,Condo,400000,"$473,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,326 Commander Ln,2.5,3,Redwood City,"1,300 sqft",26-Nov-13,"$895,000 ",37.534428,-122.25093,CA,Single-Family Home,895000,"$1,049,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1918 Brewster Ave,2.5,4,Redwood City,"1,920 sqft",26-Nov-13,"$1,155,000 ",37.48148,-122.24371,CA,Single-Family Home,1155000,"$1,365,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,213 Shorebird Cir,1,2,Redwood City,915 sqft,26-Nov-13,"$510,000 ",37.532166,-122.25499,CA,Condo,510000,"$621,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1958 Woodside Rd,2,4,Redwood City,"2,034 sqft",26-Nov-13,"$47,000 ",37.45053,-122.231285,CA,Multi-Family,47000,"$722,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,129 Stratford St,3,3,Redwood City,"2,260 sqft",26-Nov-13,"$1,450,000 ",37.48762,-122.24623,CA,Single-Family Home,1450000,"$1,821,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,1136 Woodside Rd,2.5,2,Redwood City,"1,296 sqft",26-Nov-13,"$515,000 ",37.4609,-122.22612,CA,Condo,515000,"$668,000 ",,Palm Park,,,Sold,SAN MATEO
+94062,890 Edgewood Rd,3.5,4,Redwood City,"3,200 sqft",25-Nov-13,"$3,700,000 ",37.486115,-122.25275,CA,Single-Family Home,3700000,"$2,983,000 ",,,,,Sold,SAN MATEO
+94061,1222 Dewey St,2,3,Redwood City,"1,240 sqft",25-Nov-13,"$1,122,000 ",37.462807,-122.24095,CA,Single-Family Home,1122000,"$1,100,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,855 Columbia Cir,3,3,Redwood City,"1,939 sqft",25-Nov-13,"$981,000 ",37.536858,-122.23784,CA,Condo,981000,"$1,160,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,168 G St,1,3,Redwood City,960 sqft,22-Nov-13,"$755,000 ",37.49495,-122.24267,CA,Single-Family Home,755000,"$926,000 ",,Centennial,,,Sold,SAN MATEO
+94061,186 Alexander Ave,1,2,Redwood City,770 sqft,22-Nov-13,"$501,000 ",37.45758,-122.2251,CA,Single-Family Home,501000,"$708,000 ",,,,,Sold,SAN MATEO
+94061,752 Sapphire St,1,4,Redwood City,"1,350 sqft",22-Nov-13,"$825,000 ",37.469154,-122.24237,CA,Single-Family Home,825000,"$851,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,4000 Farm Hill Blvd #2,2,3,Redwood City,"1,157 sqft",22-Nov-13,"$455,000 ",37.451157,-122.26156,CA,Condo,455000,"$609,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,165 Oakdale St,1.5,3,Redwood City,"1,270 sqft",22-Nov-13,"$1,175,000 ",37.4894,-122.2454,CA,Single-Family Home,1175000,"$1,288,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,1603 Jefferson Ave,2,2,Redwood City,"1,380 sqft",22-Nov-13,"$850,000 ",37.478394,-122.23494,CA,Single-Family Home,850000,"$1,015,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,2455 Ohio Ave,2,4,Redwood City,"1,540 sqft",22-Nov-13,"$951,000 ",37.4549,-122.231514,CA,Single-Family Home,951000,"$1,191,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,988 Haven Ave,2,3,Redwood City,"1,450 sqft",21-Nov-13,"$650,000 ",37.48102,-122.19048,CA,Single-Family Home,650000,"$722,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94062,464 Clinton St #208,2,2,Redwood City,985 sqft,21-Nov-13,"$422,000 ",37.48161,-122.234215,CA,Condo,422000,"$500,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,413 Lincoln Ave,2,3,Redwood City,"1,710 sqft",21-Nov-13,"$675,000 ",37.477543,-122.22901,CA,Single-Family Home,675000,"$848,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1032 Adams St,,,Redwood City,"4,084 sqft",20-Nov-13,"$725,000 ",37.478287,-122.22742,CA,Unknown,725000,,,Roosevelt,,,Sold,SAN MATEO
+94061,115 Redwood Ave,1,3,Redwood City,980 sqft,20-Nov-13,"$415,000 ",37.475834,-122.223076,CA,Single-Family Home,415000,"$544,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,4020 Farm Hill Blvd #1,1.5,2,Redwood City,"1,016 sqft",20-Nov-13,"$590,000 ",37.451157,-122.26156,CA,Condo,590000,"$659,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,218 Hartstene Dr,,,Redwood City,,20-Nov-13,"$950,000 ",37.544895,-122.24464,CA,Condo,950000,,,Redwood Shores,,,Sold,SAN MATEO
+94061,1123 Cleveland St,1,2,Redwood City,"1,030 sqft",19-Nov-13,"$615,000 ",37.47589,-122.22882,CA,Single-Family Home,615000,"$752,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,1090 Main St #409,2,2,Redwood City,860 sqft,19-Nov-13,"$430,000 ",37.483223,-122.22645,CA,Condo,430000,"$509,000 ",,Centennial,,,Sold,SAN MATEO
+94061,4028 Farm Hill Blvd #1,1.5,2,Redwood City,"1,016 sqft",18-Nov-13,"$592,000 ",37.451157,-122.26156,CA,Condo,592000,"$658,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1458 Hudson St #213,1,1,Redwood City,710 sqft,15-Nov-13,"$280,000 ",37.469837,-122.2273,CA,Condo,280000,"$412,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,101 Columbia Ave,1,3,Redwood City,"1,320 sqft",15-Nov-13,"$770,000 ",37.469463,-122.20852,CA,Single-Family Home,770000,"$816,000 ",,,,,Sold,SAN MATEO
+94061,2731 Kensington Rd,2,3,Redwood City,"1,440 sqft",15-Nov-13,"$1,090,000 ",37.456684,-122.236885,CA,Single-Family Home,1090000,"$1,111,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,20 Kenna Ct,,,Redwood City,,15-Nov-13,"$1,375,000 ",37.45353,-122.22664,CA,Single-Family Home,1375000,"$1,179,000 ",,,,,Sold,SAN MATEO
+94061,402 W Oakwood Blvd,2,4,Redwood City,"2,900 sqft",15-Nov-13,"$1,300,000 ",37.466274,-122.21564,CA,Multi-Family,1300000,"$1,221,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,275 Poplar Ave,,,Redwood City,"10,655 sqft",14-Nov-13,"$2,330,000 ",37.4738,-122.22422,CA,Multi-Family,2330000,,,Palm Park,,,Sold,SAN MATEO
+94062,839 Upland Rd,2.5,4,Redwood City,"2,270 sqft",14-Nov-13,"$1,150,000 ",37.471607,-122.25542,CA,Single-Family Home,1150000,"$1,340,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,379 Meridian Dr,2.5,3,Redwood City,"1,610 sqft",14-Nov-13,"$925,000 ",37.542797,-122.238075,CA,Condo,925000,"$1,014,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,757 Newport Cir,2.5,2,Redwood City,"1,180 sqft",14-Nov-13,"$750,000 ",37.534664,-122.25056,CA,Single-Family Home,750000,"$973,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1293 Crompton Rd,1,3,Redwood City,980 sqft,14-Nov-13,"$837,500 ",37.459293,-122.24173,CA,Single-Family Home,837500,"$964,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,1057 Jones Ct,2,4,Redwood City,"2,270 sqft",14-Nov-13,"$730,000 ",37.484085,-122.19382,CA,Multi-Family,730000,"$545,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94062,1010 Katherine Ave,1.5,4,Redwood City,"1,650 sqft",13-Nov-13,"$1,540,500 ",37.47934,-122.24227,CA,Single-Family Home,1540500,"$1,279,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,429 Cork Harbour Cir #A,2,2,Redwood City,900 sqft,13-Nov-13,"$548,000 ",37.532616,-122.25776,CA,Condo,548000,"$610,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,643 Scott Ave,2,3,Redwood City,"1,330 sqft",12-Nov-13,"$703,000 ",37.48155,-122.21143,CA,Single-Family Home,703000,"$730,000 ",,Redwood Village,,,Sold,SAN MATEO
+94063,318 A St,1,2,Redwood City,850 sqft,12-Nov-13,"$712,500 ",37.49334,-122.237175,CA,Single-Family Home,712500,"$765,000 ",,Centennial,,,Sold,SAN MATEO
+94065,531 Shoal Cir,2.5,2,Redwood City,"1,572 sqft",12-Nov-13,"$832,000 ",37.5407,-122.23581,CA,Condo,832000,"$864,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,703 4th Ave,1,2,Redwood City,660 sqft,8-Nov-13,"$415,000 ",37.47893,-122.201805,CA,Single-Family Home,415000,"$495,000 ",,,,,Sold,SAN MATEO
+94061,1210 Chantel Way,2.5,3,Redwood City,"1,947 sqft",8-Nov-13,"$781,000 ",37.468357,-122.23147,CA,Condo,781000,"$861,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,600 Baltic Cir #604,2,2,Redwood City,"1,117 sqft",8-Nov-13,"$732,000 ",37.53919,-122.24222,CA,Condo,732000,"$752,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1170 Fernside St,2,3,Redwood City,"1,240 sqft",8-Nov-13,"$700,000 ",37.460636,-122.24692,CA,Single-Family Home,700000,"$1,017,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,536 Iris St,2,3,Redwood City,"1,570 sqft",7-Nov-13,"$1,226,000 ",37.477207,-122.23805,CA,Single-Family Home,1226000,"$1,225,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1034 Eden Bower Ln,3,4,Redwood City,"2,880 sqft",7-Nov-13,"$1,750,000 ",37.45103,-122.258545,CA,Single-Family Home,1750000,"$1,886,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1314 Madison Ave,2,3,Redwood City,"1,460 sqft",7-Nov-13,"$850,000 ",37.47327,-122.23941,CA,Single-Family Home,850000,"$882,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1822 Stockbridge Ave,2,3,Redwood City,"1,960 sqft",6-Nov-13,"$1,550,000 ",37.447773,-122.22239,CA,Single-Family Home,1550000,"$1,206,000 ",,,,,Sold,SAN MATEO
+94061,1458 Hudson St #114,1,2,Redwood City,980 sqft,6-Nov-13,"$380,000 ",37.469837,-122.2273,CA,Condo,380000,"$466,000 ",,Palm Park,,,Sold,SAN MATEO
+94062,285 Jeter St,2,3,Redwood City,"2,080 sqft",6-Nov-13,"$1,395,000 ",37.479805,-122.241936,CA,Single-Family Home,1395000,"$1,465,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1164 Truman St,1,3,Redwood City,"1,470 sqft",6-Nov-13,"$1,200,000 ",37.464256,-122.23995,CA,Single-Family Home,1200000,"$1,180,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,6 Riviera Cir,2,3,Redwood City,"1,560 sqft",5-Nov-13,"$1,038,000 ",37.52923,-122.24567,CA,Single-Family Home,1038000,"$1,157,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,282 Elwood St,2,3,Redwood City,"1,720 sqft",5-Nov-13,"$1,038,000 ",37.482597,-122.23856,CA,Single-Family Home,1038000,"$1,186,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1666 Connecticut Dr,1,2,Redwood City,"1,090 sqft",5-Nov-13,"$1,100,000 ",37.458294,-122.23366,CA,Single-Family Home,1100000,"$1,054,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,676 Warrington Ave,1,2,Redwood City,720 sqft,5-Nov-13,"$400,000 ",37.479954,-122.20703,CA,Single-Family Home,400000,"$502,000 ",,,,,Sold,SAN MATEO
+94065,242 Nice Ct,2.5,3,Redwood City,"1,890 sqft",4-Nov-13,"$1,502,000 ",37.541145,-122.24544,CA,Single-Family Home,1502000,"$1,493,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,4000 Farm Hill Blvd #27,2,3,Redwood City,"1,157 sqft",1-Nov-13,"$482,500 ",37.451157,-122.26156,CA,Condo,482500,"$623,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,239 Lincoln Ave,1,2,Redwood City,900 sqft,1-Nov-13,"$595,000 ",37.47816,-122.22811,CA,Single-Family Home,595000,"$735,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,29 Dexter Ave,2,3,Redwood City,"1,400 sqft",31-Oct-13,"$792,000 ",37.469444,-122.20987,CA,Single-Family Home,792000,"$760,000 ",,,,,Sold,SAN MATEO
+94061,801 Chelsea Way,2,2,Redwood City,"1,200 sqft",31-Oct-13,"$705,000 ",37.460793,-122.22254,CA,Condo,705000,"$706,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,4012 Farm Hill Blvd #101,2,3,Redwood City,"1,157 sqft",31-Oct-13,"$598,000 ",37.451157,-122.26156,CA,Condo,598000,"$638,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1615 Oak Ave,1,3,Redwood City,"1,130 sqft",31-Oct-13,"$550,000 ",37.46763,-122.23571,CA,Single-Family Home,550000,"$712,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,3371 Dover Rd,1,2,Redwood City,990 sqft,31-Oct-13,"$855,000 ",37.467995,-122.247955,CA,Single-Family Home,855000,"$888,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,421 Cork Harbour Cir #A,1,1,Redwood City,764 sqft,31-Oct-13,"$472,000 ",37.532616,-122.25776,CA,Condo,472000,"$527,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,14 Cove Ln,1,1,Redwood City,"1,050 sqft",31-Oct-13,"$580,000 ",37.531178,-122.25585,CA,Condo,580000,"$634,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,301 Chelsea Way,1,1,Redwood City,860 sqft,31-Oct-13,"$490,000 ",37.460793,-122.22254,CA,Condo,490000,"$577,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,2826 Hastings Ave,2,5,Redwood City,"1,770 sqft",31-Oct-13,"$1,025,000 ",37.462418,-122.246506,CA,Single-Family Home,1025000,"$1,280,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,218 Alameda De Las Pulgas,2.5,3,Redwood City,"1,950 sqft",31-Oct-13,"$1,100,000 ",37.4796,-122.25202,CA,Single-Family Home,1100000,"$1,310,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,1360 Sierra St,1,3,Redwood City,"1,010 sqft",30-Oct-13,"$1,010,000 ",37.46698,-122.23304,CA,Single-Family Home,1010000,"$993,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,1251 Crompton Rd,2,3,Redwood City,"1,360 sqft",30-Oct-13,"$970,000 ",37.46025,-122.24278,CA,Single-Family Home,970000,"$1,070,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,4008 Farm Hill Blvd #103,1,2,Redwood City,916 sqft,30-Oct-13,"$505,000 ",37.451157,-122.26156,CA,Condo,505000,"$600,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1178 Adams St,1,3,Redwood City,"1,180 sqft",30-Oct-13,"$629,000 ",37.47684,-122.22543,CA,Single-Family Home,629000,"$827,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,832 Lakeshore Dr,2,2,Redwood City,"1,412 sqft",30-Oct-13,"$763,000 ",37.536667,-122.24471,CA,Condo,763000,"$889,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,527 Martinique Dr,2.5,3,Redwood City,"1,970 sqft",29-Oct-13,"$940,000 ",37.528927,-122.24699,CA,Single-Family Home,940000,"$1,188,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,818 Sovereign Way,2,2,Redwood City,"1,513 sqft",29-Oct-13,"$865,000 ",37.536858,-122.23784,CA,Condo,865000,"$906,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1292 Fernside St,2,3,Redwood City,"1,186 sqft",28-Oct-13,"$942,000 ",37.458256,-122.244286,CA,Single-Family Home,942000,"$1,025,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,204 Bradbury Ln,2.5,4,Redwood City,"2,110 sqft",28-Oct-13,"$1,100,000 ",37.464653,-122.22289,CA,Single-Family Home,1100000,"$1,272,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94065,500 Baltic Cir #524,2,2,Redwood City,"1,266 sqft",25-Oct-13,"$750,000 ",37.53919,-122.24222,CA,Condo,750000,"$813,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,842 Sovereign Way,3,3,Redwood City,"1,939 sqft",25-Oct-13,"$900,000 ",37.536858,-122.23784,CA,Condo,900000,"$1,056,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,50 Central Ave,1,2,Redwood City,920 sqft,25-Oct-13,"$785,000 ",37.468575,-122.22261,CA,Single-Family Home,785000,"$819,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94065,601 Baltic Cir #637,3,2,Redwood City,"1,729 sqft",24-Oct-13,"$799,000 ",37.538403,-122.241,CA,Condo,799000,"$906,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,524 Skiff Cir,2,4,Redwood City,"1,590 sqft",24-Oct-13,"$1,126,000 ",37.528152,-122.25009,CA,Single-Family Home,1126000,"$1,156,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,2302 Hopkins Ave,2,4,Redwood City,"2,110 sqft",24-Oct-13,"$1,250,000 ",37.48083,-122.24866,CA,Single-Family Home,1250000,"$1,550,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,2472 Carolina Ave,1,3,Redwood City,"1,020 sqft",24-Oct-13,"$850,000 ",37.455833,-122.23264,CA,Single-Family Home,850000,"$1,007,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,606 Marlin Ct,2.5,3,Redwood City,"1,740 sqft",23-Oct-13,"$930,000 ",37.533573,-122.24902,CA,Single-Family Home,930000,"$1,138,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1851 Palm Ave,2.5,3,Redwood City,"2,590 sqft",23-Oct-13,"$1,550,000 ",37.46338,-122.23247,CA,Single-Family Home,1550000,"$1,553,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,136 E St,1,3,Redwood City,"1,240 sqft",22-Oct-13,"$805,000 ",37.49358,-122.24189,CA,Single-Family Home,805000,"$868,000 ",,Centennial,,,Sold,SAN MATEO
+94063,202 Moresby Ln,2.5,3,Redwood City,"1,625 sqft",22-Oct-13,"$780,000 ",37.497856,-122.22481,CA,Condo,780000,"$833,000 ",,,,,Sold,SAN MATEO
+94061,1301 Oak Ave,2.5,3,Redwood City,"1,510 sqft",22-Oct-13,"$832,000 ",37.46929,-122.23369,CA,Single-Family Home,832000,"$974,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,2203 Hastings Shore Ln,3,3,Redwood City,"1,296 sqft",22-Oct-13,"$680,000 ",37.524273,-122.25145,CA,Condo,680000,"$832,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,477 Upland Rd,4.5,4,Redwood City,"3,510 sqft",18-Oct-13,"$2,250,000 ",37.4761,-122.25359,CA,Single-Family Home,2250000,"$2,213,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,15 Alverno Ct,2.5,2,Redwood City,"2,510 sqft",18-Oct-13,"$1,150,000 ",37.452415,-122.262085,CA,Single-Family Home,1150000,"$1,498,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,209 Shorebird Cir,2,2,Redwood City,"1,018 sqft",18-Oct-13,"$510,000 ",37.532166,-122.25499,CA,Condo,510000,"$679,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,126 Warwick St,3,4,Redwood City,"2,615 sqft",18-Oct-13,"$1,729,000 ",37.48857,-122.244965,CA,Single-Family Home,1729000,"$1,846,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,438 Quartz St,2,3,Redwood City,"2,090 sqft",17-Oct-13,"$1,310,000 ",37.475048,-122.24475,CA,Single-Family Home,1310000,"$1,315,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,190 Rutherford Ave,1,3,Redwood City,"1,160 sqft",17-Oct-13,"$925,000 ",37.45678,-122.22558,CA,Single-Family Home,925000,"$927,000 ",,,,,Sold,SAN MATEO
+94061,972 Emerald Hill Rd,3,5,Redwood City,"1,980 sqft",17-Oct-13,"$1,350,000 ",37.455875,-122.253815,CA,Single-Family Home,1350000,"$1,658,000 ",,Farm Hill,,,Sold,SAN MATEO
+94063,1052 8th Ave,1,2,Redwood City,910 sqft,17-Oct-13,"$465,000 ",37.484013,-122.19435,CA,Single-Family Home,465000,"$608,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,1801 Virginia Ave,1,3,Redwood City,"1,210 sqft",16-Oct-13,"$910,000 ",37.458828,-122.22886,CA,Single-Family Home,910000,"$1,048,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,105 Scenic Dr,2,3,Redwood City,"1,720 sqft",16-Oct-13,"$1,200,000 ",37.479805,-122.26011,CA,Single-Family Home,1200000,"$1,407,000 ",,,,,Sold,SAN MATEO
+94061,159 Nimitz Ave,2,3,Redwood City,"1,430 sqft",16-Oct-13,"$890,000 ",37.458706,-122.22459,CA,Single-Family Home,890000,"$1,014,000 ",,,,,Sold,SAN MATEO
+94065,519 Keelson Cir,2.5,4,Redwood City,"2,280 sqft",16-Oct-13,"$1,300,000 ",37.532272,-122.24627,CA,Single-Family Home,1300000,"$1,481,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,100 Tanager Ln,2.5,4,Redwood City,"2,240 sqft",15-Oct-13,"$1,270,000 ",37.54428,-122.23483,CA,Single-Family Home,1270000,"$1,585,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1604 Jefferson Ave,2,3,Redwood City,"1,470 sqft",15-Oct-13,"$925,000 ",37.478962,-122.23579,CA,Single-Family Home,925000,"$1,019,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,3603 Page St,2,4,Redwood City,"2,124 sqft",11-Oct-13,"$250,000 ",37.481434,-122.1883,CA,Multi-Family,250000,"$577,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,26 Waterside Cir,3.5,4,Redwood City,"2,340 sqft",11-Oct-13,"$1,210,000 ",37.533092,-122.2373,CA,Single-Family Home,1210000,"$1,561,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,776 3rd Ave,1,2,Redwood City,960 sqft,11-Oct-13,"$237,500 ",37.479973,-122.201614,CA,Single-Family Home,237500,"$561,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94062,1553 Jefferson Ave,,,Redwood City,"1,110 sqft",11-Oct-13,"$960,000 ",37.478794,-122.2345,CA,Multi-Family,960000,"$966,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,207 Jeter St,2,3,Redwood City,"1,570 sqft",11-Oct-13,"$1,110,000 ",37.48088,-122.24346,CA,Single-Family Home,1110000,"$1,170,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94063,3551 Bay Rd,2,4,Redwood City,"2,084 sqft",11-Oct-13,"$250,000 ",37.478874,-122.1906,CA,Multi-Family,250000,"$520,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,302 Chelsea Way,1,1,Redwood City,"1,050 sqft",11-Oct-13,"$585,000 ",37.460793,-122.22254,CA,Condo,585000,"$610,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,234 Madison Ave,2,3,Redwood City,"1,578 sqft",11-Oct-13,"$47,500 ",37.480175,-122.23066,CA,Multi-Family,47500,"$643,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,262 Rutherford Ave,2,3,Redwood City,"1,450 sqft",11-Oct-13,"$955,000 ",37.455914,-122.22436,CA,Single-Family Home,955000,"$1,010,000 ",,,,,Sold,SAN MATEO
+94065,531 Cringle Dr,2,4,Redwood City,"1,590 sqft",10-Oct-13,"$1,165,000 ",37.529434,-122.24845,CA,Single-Family Home,1165000,"$1,258,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,130 Hillview Ave,2,3,Redwood City,"1,700 sqft",9-Oct-13,"$1,171,000 ",37.478256,-122.250435,CA,Single-Family Home,1171000,"$1,382,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,300 Baltic Cir #304,2,2,Redwood City,"1,117 sqft",9-Oct-13,"$625,000 ",37.53919,-122.24222,CA,Condo,625000,"$782,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,55 Claremont Ave #303,2,2,Redwood City,"1,350 sqft",9-Oct-13,"$537,000 ",37.489998,-122.24156,CA,Condo,537000,"$596,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,2013 Oak Ave,2,3,Redwood City,"1,570 sqft",9-Oct-13,"$890,000 ",37.465332,-122.23859,CA,Single-Family Home,890000,"$1,019,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,522 Hilton St,2,3,Redwood City,"1,580 sqft",9-Oct-13,"$425,000 ",37.484196,-122.22167,CA,Single-Family Home,425000,"$933,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94061,1458 Hudson St #313,1,1,Redwood City,710 sqft,9-Oct-13,"$275,000 ",37.469837,-122.2273,CA,Condo,275000,"$373,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,431 Vera Ave,1,2,Redwood City,750 sqft,8-Oct-13,"$590,000 ",37.478043,-122.23015,CA,Single-Family Home,590000,"$736,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,610 Harbor Colony Ct,3,4,Redwood City,"3,070 sqft",8-Oct-13,"$1,597,500 ",37.530403,-122.24751,CA,Single-Family Home,1597500,"$1,873,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1671 Carleton Ct,2,3,Redwood City,"2,090 sqft",8-Oct-13,"$1,015,000 ",37.463776,-122.23044,CA,Single-Family Home,1015000,"$1,203,000 ",,Palm Park,,,Sold,SAN MATEO
+94062,244 Edgewood Rd,1,3,Redwood City,"1,610 sqft",8-Oct-13,"$1,366,000 ",37.49064,-122.24477,CA,Single-Family Home,1366000,"$1,367,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,2478 Massachusetts Ave,2,3,Redwood City,"1,330 sqft",7-Oct-13,"$1,000,000 ",37.456566,-122.23298,CA,Single-Family Home,1000000,"$1,056,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,1 Riviera Cir,2,2,Redwood City,"1,320 sqft",4-Oct-13,"$905,000 ",37.529655,-122.24566,CA,Single-Family Home,905000,"$1,080,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,6 Captain Ln,2.5,2,Redwood City,"1,178 sqft",2-Oct-13,"$685,000 ",37.542797,-122.238075,CA,Condo,685000,"$794,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,1090 8th Ave,1,3,Redwood City,"1,350 sqft",2-Oct-13,"$581,000 ",37.48483,-122.19422,CA,Single-Family Home,581000,"$745,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,857 Boardwalk Pl,2.5,3,Redwood City,"1,400 sqft",2-Oct-13,"$858,000 ",37.537144,-122.25082,CA,Condo,858000,"$926,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1518 Glenn Way,2,3,Redwood City,"1,580 sqft",2-Oct-13,"$950,000 ",37.458427,-122.23644,CA,Single-Family Home,950000,"$1,123,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,409 Cork Harbour Cir #E,1,1,Redwood City,764 sqft,1-Oct-13,"$456,000 ",37.532616,-122.25776,CA,Condo,456000,"$535,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,333 Quay Ln,2.5,3,Redwood City,"1,460 sqft",1-Oct-13,"$1,083,000 ",37.526684,-122.25665,CA,Single-Family Home,1083000,"$1,170,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,914 10th Ave,2,5,Redwood City,"2,272 sqft",1-Oct-13,"$650,000 ",37.48035,-122.19332,CA,Multi-Family,650000,"$556,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,650 Island Pl,2.5,4,Redwood City,"2,240 sqft",1-Oct-13,"$1,600,000 ",37.534348,-122.25246,CA,Single-Family Home,1600000,"$1,724,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,609 Teredo Dr,2,3,Redwood City,"1,320 sqft",30-Sep-13,"$1,000,000 ",37.52523,-122.249664,CA,Single-Family Home,1000000,"$1,086,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,311 Hartstene Dr,,,Redwood City,,30-Sep-13,"$1,030,000 ",37.54544,-122.24351,CA,Condo,1030000,,,Redwood Shores,,,Sold,SAN MATEO
+94062,3527 Highland Ave,2.5,3,Redwood City,"1,510 sqft",30-Sep-13,"$928,000 ",37.468224,-122.25162,CA,Single-Family Home,928000,"$1,179,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,540 Shorebird Cir #21201,2,2,Redwood City,"1,413 sqft",27-Sep-13,"$705,000 ",37.533173,-122.25493,CA,Condo,705000,"$793,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1031 Palomar Dr,2.5,4,Redwood City,"2,750 sqft",27-Sep-13,"$1,400,000 ",37.47901,-122.27585,CA,Single-Family Home,1400000,"$1,658,000 ",,,,,Sold,SAN MATEO
+94065,628 Island Pl,2.5,4,Redwood City,"2,240 sqft",27-Sep-13,"$1,275,000 ",37.534878,-122.25333,CA,Single-Family Home,1275000,"$1,589,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,951 Rose Ave,2,4,Redwood City,"2,111 sqft",27-Sep-13,"$172,500 ",37.480106,-122.19054,CA,Multi-Family,172500,"$530,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94062,76 Alameda De Las Pulgas,1,1,Redwood City,"1,010 sqft",27-Sep-13,"$740,000 ",37.484356,-122.25787,CA,Single-Family Home,740000,"$953,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,39 Edgewood Rd,2,3,Redwood City,"1,820 sqft",26-Sep-13,"$810,000 ",37.490868,-122.24219,CA,Single-Family Home,810000,"$1,204,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,900 Nob Hill Rd,2.5,3,Redwood City,"3,680 sqft",26-Sep-13,"$2,928,000 ",37.462402,-122.25214,CA,Single-Family Home,2928000,"$2,678,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,472 Jeter St,1,2,Redwood City,"1,221 sqft",26-Sep-13,"$840,000 ",37.477287,-122.23971,CA,Single-Family Home,840000,"$946,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,542 Quartz St,2,3,Redwood City,"1,700 sqft",26-Sep-13,"$1,034,000 ",37.472263,-122.243614,CA,Single-Family Home,1034000,"$1,131,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1204 Sierra St,1,2,Redwood City,750 sqft,26-Sep-13,"$651,000 ",37.468292,-122.23486,CA,Single-Family Home,651000,"$729,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,546 Shorebird Cir #26204,2,2,Redwood City,"1,326 sqft",25-Sep-13,"$620,000 ",37.533173,-122.25493,CA,Condo,620000,"$809,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,24 Meadow Ln,1,3,Redwood City,"1,130 sqft",25-Sep-13,"$530,000 ",37.48027,-122.21269,CA,Single-Family Home,530000,"$657,000 ",,Redwood Village,,,Sold,SAN MATEO
+94061,50 Horgan Ave #14,2,3,Redwood City,"1,550 sqft",24-Sep-13,"$550,000 ",37.462997,-122.22349,CA,Condo,550000,"$759,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,641 Clinton St,1,1,Redwood City,640 sqft,23-Sep-13,"$908,000 ",37.48044,-122.231926,CA,Single-Family Home,908000,"$657,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,198 King St,2,3,Redwood City,"1,630 sqft",23-Sep-13,"$1,300,000 ",37.48044,-122.24503,CA,Single-Family Home,1300000,"$1,323,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,69 Pelican Ln,1,1,Redwood City,884 sqft,20-Sep-13,"$457,500 ",37.531178,-122.25585,CA,Condo,457500,"$601,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,1911 Harding Ave,2,3,Redwood City,"1,260 sqft",20-Sep-13,"$780,000 ",37.47348,-122.24866,CA,Single-Family Home,780000,"$974,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1781 Hampton Ave,1,2,Redwood City,900 sqft,20-Sep-13,"$799,000 ",37.461494,-122.23166,CA,Single-Family Home,799000,"$985,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,1278 Edgewood Rd,2.5,4,Redwood City,"3,410 sqft",19-Sep-13,"$75,000 ",37.481888,-122.2583,CA,Single-Family Home,75000,"$1,733,000 ",,,,,Sold,SAN MATEO
+94063,587 Douglas Ave,1,2,Redwood City,770 sqft,19-Sep-13,"$485,000 ",37.480125,-122.21143,CA,Single-Family Home,485000,"$530,000 ",,Redwood Village,,,Sold,SAN MATEO
+94063,687 Hurlingame Ave,4,4,Redwood City,"2,010 sqft",19-Sep-13,"$590,000 ",37.48077,-122.20902,CA,Single-Family Home,590000,"$942,000 ",,,,,Sold,SAN MATEO
+94061,3418 Dover Rd,1,2,Redwood City,940 sqft,19-Sep-13,"$313,000 ",37.46772,-122.2488,CA,Single-Family Home,313000,"$890,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,806 Canyon Rd,1,2,Redwood City,940 sqft,18-Sep-13,"$829,000 ",37.469624,-122.2528,CA,Single-Family Home,829000,"$972,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,846 Lakeshore Dr,3,3,Redwood City,"2,365 sqft",17-Sep-13,"$1,070,000 ",37.536667,-122.24471,CA,Condo,1070000,"$1,172,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,307 Louis Ln,2.5,3,Redwood City,"1,625 sqft",13-Sep-13,"$801,000 ",37.497856,-122.22481,CA,Condo,801000,"$818,000 ",,,,,Sold,SAN MATEO
+94065,457 Cork Harbour Cir #F,2,2,Redwood City,"1,136 sqft",13-Sep-13,"$280,000 ",37.532616,-122.25776,CA,Condo,280000,"$650,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1014 King St,3,3,Redwood City,"1,683 sqft",13-Sep-13,"$1,015,000 ",37.47263,-122.23496,CA,Single-Family Home,1015000,"$1,092,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,2 Randy Ct,3,4,Redwood City,"2,790 sqft",13-Sep-13,"$1,377,000 ",37.450787,-122.22732,CA,Single-Family Home,1377000,"$1,630,000 ",,,,,Sold,SAN MATEO
+94065,453 Cork Harbour Cir #H,2,3,Redwood City,"1,328 sqft",13-Sep-13,"$668,000 ",37.532616,-122.25776,CA,Condo,668000,"$817,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1197 Hudson St,,,Redwood City,"1,870 sqft",13-Sep-13,"$840,000 ",37.47258,-122.23008,CA,Multi-Family,840000,"$1,065,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,722 Clinton St,2,4,Redwood City,"2,090 sqft",13-Sep-13,"$849,000 ",37.479683,-122.23171,CA,Multi-Family,849000,"$801,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,239 Sequoia Ave,2,3,Redwood City,"1,860 sqft",13-Sep-13,"$875,000 ",37.454468,-122.226776,CA,Single-Family Home,875000,"$1,099,000 ",,,,,Sold,SAN MATEO
+94063,3472 Michael Dr,2,4,Redwood City,"2,378 sqft",12-Sep-13,"$650,000 ",37.479836,-122.19197,CA,Multi-Family,650000,"$555,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94063,924 15th Ave,2,2,Redwood City,"1,330 sqft",12-Sep-13,"$772,000 ",37.479324,-122.18923,CA,Single-Family Home,772000,"$791,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,4012 Farm Hill Blvd #201,2,3,Redwood City,"1,157 sqft",10-Sep-13,"$550,000 ",37.451157,-122.26156,CA,Condo,550000,"$663,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,203 Newcastle Ct,2.5,4,Redwood City,"2,710 sqft",10-Sep-13,"$1,250,000 ",37.46264,-122.22166,CA,Single-Family Home,1250000,"$1,388,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,2221 Jefferson Ave,2,3,Redwood City,"1,400 sqft",9-Sep-13,"$749,000 ",37.47415,-122.23927,CA,Single-Family Home,749000,"$1,055,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,232 Gregory Ln,2.5,4,Redwood City,"2,060 sqft",9-Sep-13,"$1,130,000 ",37.45963,-122.22057,CA,Single-Family Home,1130000,"$1,415,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,1156 Adams St,1,2,Redwood City,"1,000 sqft",9-Sep-13,"$665,000 ",37.47713,-122.2258,CA,Single-Family Home,665000,"$807,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,819 6th Ave,1,2,Redwood City,"1,090 sqft",9-Sep-13,"$490,000 ",37.480347,-122.1986,CA,Single-Family Home,490000,"$664,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,826 Newport Cir,3,4,Redwood City,"1,890 sqft",9-Sep-13,"$1,130,000 ",37.537174,-122.2493,CA,Single-Family Home,1130000,"$1,414,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,998 Governors Bay Dr,3,4,Redwood City,"3,040 sqft",9-Sep-13,"$1,181,000 ",37.54086,-122.234406,CA,Single-Family Home,1181000,"$1,885,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1671 Hampton Ave,1,2,Redwood City,910 sqft,6-Sep-13,"$1,010,000 ",37.463184,-122.22961,CA,Single-Family Home,1010000,"$858,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,1458 Hudson St #101,1,1,Redwood City,970 sqft,6-Sep-13,"$425,000 ",37.469837,-122.2273,CA,Condo,425000,"$420,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,190 Northumberland Ave,2,3,Redwood City,"2,040 sqft",6-Sep-13,"$629,000 ",37.474957,-122.21509,CA,Single-Family Home,629000,"$788,000 ",,Redwood Village,,,Sold,SAN MATEO
+94065,453 Cork Harbour Cir #E,1,1,Redwood City,764 sqft,6-Sep-13,"$440,000 ",37.532616,-122.25776,CA,Condo,440000,"$511,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,196 S Palomar Dr,2,3,Redwood City,"1,880 sqft",5-Sep-13,"$1,600,000 ",37.48024,-122.26886,CA,Single-Family Home,1600000,"$1,505,000 ",,,,,Sold,SAN MATEO
+94063,704 Maple St,2,3,Redwood City,"1,150 sqft",5-Sep-13,"$660,000 ",37.4857,-122.22402,CA,Single-Family Home,660000,"$707,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94063,2626 Westmoreland Ave,1,2,Redwood City,850 sqft,5-Sep-13,"$428,000 ",37.474873,-122.21486,CA,Single-Family Home,428000,"$602,000 ",,Redwood Village,,,Sold,SAN MATEO
+94063,1097 Haven Ave,1,2,Redwood City,720 sqft,4-Sep-13,"$797,000 ",37.484177,-122.190414,CA,Single-Family Home,797000,"$697,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,528 Shorebird Cir #8102,2,3,Redwood City,"1,518 sqft",4-Sep-13,"$718,000 ",37.533173,-122.25493,CA,Condo,718000,"$892,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,503 Upton St,1,2,Redwood City,880 sqft,4-Sep-13,"$1,425,000 ",37.471416,-122.24736,CA,Single-Family Home,1425000,"$1,078,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,605 Mendocino Way,2.5,3,Redwood City,"1,769 sqft",3-Sep-13,"$790,000 ",37.5363,-122.2409,CA,Condo,790000,"$991,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,610 Flynn Ave,1,2,Redwood City,860 sqft,3-Sep-13,"$635,000 ",37.481888,-122.213066,CA,Single-Family Home,635000,"$694,000 ",,Redwood Village,,,Sold,SAN MATEO
+94062,548 Ruby St,2,3,Redwood City,"1,881 sqft",30-Aug-13,"$1,153,000 ",37.471924,-122.244606,CA,Single-Family Home,1153000,"$1,169,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,43 Laurel St,2,3,Redwood City,"1,159 sqft",30-Aug-13,"$480,000 ",37.476776,-122.22069,CA,Single-Family Home,480000,"$597,000 ",,Redwood Village,,,Sold,SAN MATEO
+94061,839 Chesterton Ave,2,3,Redwood City,"1,950 sqft",30-Aug-13,"$1,011,500 ",37.465065,-122.24731,CA,Single-Family Home,1011500,"$1,281,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,40 Inner Cir,2,3,Redwood City,"1,710 sqft",30-Aug-13,"$1,420,000 ",37.477028,-122.24632,CA,Single-Family Home,1420000,"$1,244,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,3726 Farm Hill Blvd,2.5,4,Redwood City,"1,630 sqft",30-Aug-13,"$955,000 ",37.457176,-122.249596,CA,Single-Family Home,955000,"$1,278,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,143 Nimitz Ave,1,2,Redwood City,"1,120 sqft",30-Aug-13,"$880,000 ",37.45889,-122.22484,CA,Single-Family Home,880000,"$862,000 ",,,,,Sold,SAN MATEO
+94065,10 Cove Ln,2,2,Redwood City,"1,470 sqft",30-Aug-13,"$675,000 ",37.531178,-122.25585,CA,Condo,675000,"$795,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,340 Oakdale St,3.5,4,Redwood City,"3,500 sqft",30-Aug-13,"$1,910,000 ",37.49091,-122.24723,CA,Single-Family Home,1910000,"$2,027,000 ",,,,,Sold,SAN MATEO
+94061,310 San Carlos Ave,1,2,Redwood City,890 sqft,30-Aug-13,"$629,000 ",37.45485,-122.224174,CA,Single-Family Home,629000,"$809,000 ",,,,,Sold,SAN MATEO
+94062,1621 James Ave,,,Redwood City,950 sqft,30-Aug-13,"$950,000 ",37.474316,-122.24556,CA,Unknown,950000,,,Roosevelt,,,Sold,SAN MATEO
+94061,1308 Woodside Rd,2,2,Redwood City,"1,360 sqft",30-Aug-13,"$565,000 ",37.458767,-122.22759,CA,Condo,565000,"$654,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,820 Constellation Ct,3,3,Redwood City,"1,939 sqft",30-Aug-13,"$1,025,000 ",37.536858,-122.23784,CA,Condo,1025000,"$1,068,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,7 Ludina Way,,,Redwood City,,30-Aug-13,"$1,215,000 ",37.461765,-122.23643,CA,Single-Family Home,1215000,,,,,,Sold,SAN MATEO
+94061,1871 Maddux Dr,2,4,Redwood City,"1,470 sqft",30-Aug-13,"$1,125,000 ",37.45364,-122.23412,CA,Single-Family Home,1125000,"$1,084,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,715 Upton St,2.5,3,Redwood City,"1,950 sqft",30-Aug-13,"$867,500 ",37.468662,-122.24393,CA,Single-Family Home,867500,"$992,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,553 Dory Ln,2,4,Redwood City,"1,590 sqft",29-Aug-13,"$935,000 ",37.52939,-122.24812,CA,Single-Family Home,935000,"$1,266,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,2439 Goodwin Ave,2,3,Redwood City,"1,810 sqft",29-Aug-13,"$1,270,000 ",37.46119,-122.23826,CA,Single-Family Home,1270000,"$1,213,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,246 E Oakwood Blvd,2,3,Redwood City,"2,020 sqft",29-Aug-13,"$1,100,000 ",37.46843,-122.21718,CA,Single-Family Home,1100000,"$1,331,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,1917 Maddux Dr,3,4,Redwood City,"1,690 sqft",29-Aug-13,"$900,000 ",37.453003,-122.234085,CA,Single-Family Home,900000,"$1,184,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,1345 Edgewood Rd,1,2,Redwood City,"1,420 sqft",29-Aug-13,"$950,000 ",37.480377,-122.25819,CA,Single-Family Home,950000,"$1,171,000 ",,,,,Sold,SAN MATEO
+94065,101 Positano Cir,2,2,Redwood City,"1,125 sqft",29-Aug-13,"$730,000 ",37.54464,-122.24165,CA,Condo,730000,"$791,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,1706 Stafford St,4,6,Redwood City,"3,225 sqft",29-Aug-13,"$865,000 ",37.493042,-122.24214,CA,Multi-Family,865000,,,Centennial,,,Sold,SAN MATEO
+94063,3049 Page St,1,2,Redwood City,"1,450 sqft",28-Aug-13,"$625,000 ",37.484047,-122.19936,CA,Single-Family Home,625000,"$807,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,238 Rutherford Ave,1,2,Redwood City,910 sqft,28-Aug-13,"$700,000 ",37.45621,-122.22478,CA,Single-Family Home,700000,"$821,000 ",,,,,Sold,SAN MATEO
+94063,210 Alden St,1.5,2,Redwood City,"1,234 sqft",28-Aug-13,"$465,000 ",37.488747,-122.23476,CA,Condo,465000,"$613,000 ",,Centennial,,,Sold,SAN MATEO
+94061,243 Hazel Ave,2,3,Redwood City,"1,160 sqft",28-Aug-13,"$630,000 ",37.472992,-122.22224,CA,Single-Family Home,630000,"$746,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,315 Quay Ln,3.5,4,Redwood City,"2,360 sqft",27-Aug-13,"$1,205,000 ",37.525833,-122.2566,CA,Single-Family Home,1205000,"$1,403,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,722 Newport Cir,3,4,Redwood City,"1,890 sqft",26-Aug-13,"$1,150,000 ",37.534798,-122.25215,CA,Single-Family Home,1150000,"$1,432,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,310 Rutherford Ave,2.5,3,Redwood City,"1,890 sqft",23-Aug-13,"$1,020,000 ",37.455326,-122.223526,CA,Single-Family Home,1020000,"$1,203,000 ",,,,,Sold,SAN MATEO
+94065,513 Breakwater Dr,2.5,3,Redwood City,"1,550 sqft",23-Aug-13,"$1,260,000 ",37.539722,-122.23813,CA,Single-Family Home,1260000,"$1,280,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,519 Cypress St,2,3,Redwood City,"1,650 sqft",23-Aug-13,"$860,000 ",37.469925,-122.21837,CA,Single-Family Home,860000,"$1,087,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,35 Ludina Way,,,Redwood City,,23-Aug-13,"$980,000 ",37.461765,-122.23643,CA,Single-Family Home,980000,"$562,000 ",,,,,Sold,SAN MATEO
+94062,290 Lowell St,1.5,2,Redwood City,"1,170 sqft",23-Aug-13,"$701,500 ",37.478096,-122.24384,CA,Single-Family Home,701500,"$971,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1203 Junipero Ave,2,3,Redwood City,"1,890 sqft",23-Aug-13,"$650,000 ",37.466797,-122.236755,CA,Multi-Family,650000,"$764,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,203 Center St,1,2,Redwood City,910 sqft,23-Aug-13,"$575,000 ",37.472183,-122.21917,CA,Single-Family Home,575000,"$727,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,135 Creek Trl,1,2,Redwood City,"1,050 sqft",23-Aug-13,"$734,000 ",37.43434,-122.32113,CA,Single-Family Home,734000,"$884,000 ",,,,,Sold,SAN MATEO
+94061,1559 Oxford St,2.5,3,Redwood City,"1,620 sqft",22-Aug-13,"$575,000 ",37.468727,-122.22587,CA,Single-Family Home,575000,"$752,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,1015 Hilton St,3,5,Redwood City,"2,166 sqft",22-Aug-13,"$450,000 ",37.48283,-122.2175,CA,Multi-Family,450000,"$594,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94061,241 Madison Ave,4,7,Redwood City,"5,327 sqft",22-Aug-13,"$1,060,000 ",37.47968,-122.23034,CA,Multi-Family,1060000,,,Roosevelt,,,Sold,SAN MATEO
+94062,421 Arch St,1.5,2,Redwood City,"1,370 sqft",21-Aug-13,"$796,000 ",37.48381,-122.233,CA,Single-Family Home,796000,"$994,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,47 Cove Ln,2,2,Redwood City,"1,240 sqft",20-Aug-13,"$610,000 ",37.531178,-122.25585,CA,Condo,610000,"$728,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,280 3rd Ave,2,3,Redwood City,"1,520 sqft",20-Aug-13,"$400,000 ",37.471867,-122.20665,CA,Multi-Family,400000,"$457,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94065,525 Osprey Dr,2.5,3,Redwood City,"1,550 sqft",20-Aug-13,"$1,090,000 ",37.539467,-122.23648,CA,Single-Family Home,1090000,"$1,270,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1470 Virginia Ave,2,3,Redwood City,"1,690 sqft",20-Aug-13,"$989,000 ",37.462563,-122.23498,CA,Single-Family Home,989000,"$1,137,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,1455 Kentfield Ave,2.5,3,Redwood City,"1,640 sqft",20-Aug-13,"$731,500 ",37.467125,-122.22978,CA,Single-Family Home,731500,"$832,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,576 Shoal Cir,2.5,2,Redwood City,"1,572 sqft",19-Aug-13,"$822,000 ",37.5407,-122.23581,CA,Condo,822000,"$881,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,503 Iris St,3,5,Redwood City,"2,790 sqft",19-Aug-13,"$1,150,000 ",37.47797,-122.238075,CA,Single-Family Home,1150000,"$1,461,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1239 Connecticut Dr,2,3,Redwood City,"1,390 sqft",16-Aug-13,"$912,000 ",37.462032,-122.24067,CA,Single-Family Home,912000,"$1,037,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,3677 Farm Hill Blvd,2,3,Redwood City,"1,750 sqft",16-Aug-13,"$1,250,000 ",37.45958,-122.24802,CA,Single-Family Home,1250000,"$1,374,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,203 Hartstene Dr,2.5,3,Redwood City,"1,812 sqft",16-Aug-13,"$1,013,000 ",37.545094,-122.2449,CA,Condo,1013000,"$969,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,130 Jackson Ave,3,5,Redwood City,"2,695 sqft",16-Aug-13,"$725,000 ",37.481827,-122.230385,CA,Multi-Family,725000,,,Roosevelt,,,Sold,SAN MATEO
+94065,100 Baltic Cir #124,2.5,3,Redwood City,"1,567 sqft",16-Aug-13,"$791,000 ",37.538403,-122.241,CA,Condo,791000,"$1,032,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,131 Sequoia Ave,1,3,Redwood City,"1,550 sqft",16-Aug-13,"$655,000 ",37.455013,-122.22755,CA,Single-Family Home,655000,"$980,000 ",,,,,Sold,SAN MATEO
+94062,2440 Brewster Ave,1.5,2,Redwood City,"1,220 sqft",16-Aug-13,"$990,000 ",37.478016,-122.24802,CA,Single-Family Home,990000,"$1,142,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,204 Newcastle Ct,2.5,4,Redwood City,"2,710 sqft",16-Aug-13,"$1,295,000 ",37.462433,-122.22199,CA,Single-Family Home,1295000,"$1,599,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,415 Iris St,1,2,Redwood City,"1,420 sqft",16-Aug-13,"$850,000 ",37.479004,-122.23937,CA,Single-Family Home,850000,"$1,086,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,3402 Dover Rd,1.5,3,Redwood City,"1,110 sqft",15-Aug-13,"$697,500 ",37.468002,-122.24858,CA,Single-Family Home,697500,"$946,000 ",,Farm Hill,,,Sold,SAN MATEO
+94065,2806 Hastings Shore Ln,1,1,Redwood City,796 sqft,15-Aug-13,"$507,000 ",37.52352,-122.25037,CA,Condo,507000,"$577,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,532 Ruby St,1,2,Redwood City,980 sqft,14-Aug-13,"$800,000 ",37.47201,-122.24471,CA,Single-Family Home,800000,"$827,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,601 Baltic Cir #623,2.5,3,Redwood City,"1,567 sqft",14-Aug-13,"$739,000 ",37.538403,-122.241,CA,Condo,739000,"$935,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,157 Central Ave,1,3,Redwood City,"1,210 sqft",14-Aug-13,"$750,000 ",37.46812,-122.219955,CA,Single-Family Home,750000,"$922,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94065,18 Pelican Ln,1,2,Redwood City,"1,228 sqft",14-Aug-13,"$583,000 ",37.531178,-122.25585,CA,Condo,583000,"$726,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,614 Myrtle St,2,3,Redwood City,"1,340 sqft",13-Aug-13,"$785,500 ",37.474316,-122.238976,CA,Single-Family Home,785500,"$827,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,336 Quay Ln,2,3,Redwood City,"1,590 sqft",13-Aug-13,"$1,135,000 ",37.52748,-122.256065,CA,Single-Family Home,1135000,"$1,240,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1914 Kentucky St,1,2,Redwood City,"1,090 sqft",13-Aug-13,"$860,000 ",37.45657,-122.231125,CA,Single-Family Home,860000,"$1,057,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,318 Beacon Shores Dr,2.5,3,Redwood City,"1,300 sqft",13-Aug-13,"$828,000 ",37.534958,-122.25037,CA,Single-Family Home,828000,"$1,096,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,2010 Madison Ave,1,2,Redwood City,750 sqft,13-Aug-13,"$655,000 ",37.469395,-122.24427,CA,Single-Family Home,655000,"$725,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1645 Sierra St,2,4,Redwood City,"1,838 sqft",12-Aug-13,"$750,000 ",37.463932,-122.22791,CA,Multi-Family,750000,"$806,000 ",,Palm Park,,,Sold,SAN MATEO
+94062,450 Alameda De Las Pulgas,1,2,Redwood City,"1,020 sqft",12-Aug-13,"$938,000 ",37.47144,-122.2496,CA,Single-Family Home,938000,"$914,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1401 Gordon St,2,4,Redwood City,"2,047 sqft",9-Aug-13,"$720,000 ",37.46886,-122.229965,CA,Multi-Family,720000,"$743,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,135 Doherty Way,3,5,Redwood City,"2,780 sqft",9-Aug-13,"$1,800,000 ",37.447296,-122.22369,CA,Single-Family Home,1800000,"$1,732,000 ",,,,,Sold,SAN MATEO
+94061,230 Santiago Ave,2,2,Redwood City,"1,690 sqft",8-Aug-13,"$992,500 ",37.45,-122.22805,CA,Single-Family Home,992500,"$1,084,000 ",,,,,Sold,SAN MATEO
+94065,761 Barnegat Ln,1,1,Redwood City,811 sqft,8-Aug-13,"$485,000 ",37.53537,-122.24608,CA,Condo,485000,"$554,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,2826 Curtis Ave,1,2,Redwood City,720 sqft,8-Aug-13,"$225,000 ",37.474186,-122.21075,CA,Single-Family Home,225000,"$363,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94063,257 5th Ave,2.5,3,Redwood City,"1,860 sqft",8-Aug-13,"$552,000 ",37.470955,-122.20563,CA,Single-Family Home,552000,"$832,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94061,2264 Roosevelt Ave,2,3,Redwood City,"1,380 sqft",8-Aug-13,"$882,000 ",37.464157,-122.24157,CA,Single-Family Home,882000,"$924,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,870 Corriente Point Dr,3,4,Redwood City,"2,690 sqft",8-Aug-13,"$1,800,000 ",37.53963,-122.24611,CA,Single-Family Home,1800000,"$1,982,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1875 Poplar Ave,2,2,Redwood City,"1,819 sqft",8-Aug-13,"$754,000 ",37.46455,-122.23575,CA,Multi-Family,754000,"$883,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,2849 Washington Ave,2,3,Redwood City,"1,420 sqft",8-Aug-13,"$888,500 ",37.457222,-122.23988,CA,Single-Family Home,888500,"$1,056,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,265 Nevada St,2,4,Redwood City,"1,980 sqft",7-Aug-13,"$1,282,000 ",37.477615,-122.24543,CA,Single-Family Home,1282000,"$1,343,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,3436 Bay Rd,1,2,Redwood City,"1,340 sqft",7-Aug-13,"$476,000 ",37.479084,-122.19267,CA,Single-Family Home,476000,"$627,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,360 Mindanao Dr,2.5,4,Redwood City,"1,850 sqft",7-Aug-13,"$1,521,000 ",37.541237,-122.24125,CA,Single-Family Home,1521000,"$1,702,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,404 Palomar Dr,1.5,2,Redwood City,"1,330 sqft",7-Aug-13,"$1,101,500 ",37.479774,-122.26501,CA,Single-Family Home,1101500,"$1,189,000 ",,,,,Sold,SAN MATEO
+94065,31 Lido Cir,2,2,Redwood City,"1,320 sqft",5-Aug-13,"$880,000 ",37.531887,-122.24341,CA,Single-Family Home,880000,"$1,045,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1042 King St,2,4,Redwood City,"2,302 sqft",5-Aug-13,"$775,000 ",37.472336,-122.23448,CA,Multi-Family,775000,"$818,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,429 Cork Harbour Cir #E,1,1,Redwood City,764 sqft,2-Aug-13,"$478,000 ",37.532616,-122.25776,CA,Condo,478000,"$537,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,2303 Hastings Shore Ln,3,3,Redwood City,"1,296 sqft",2-Aug-13,"$635,000 ",37.524273,-122.25145,CA,Condo,635000,"$802,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,272 Hudson St,2,3,Redwood City,"1,410 sqft",2-Aug-13,"$1,007,000 ",37.48087,-122.24107,CA,Single-Family Home,1007000,"$1,298,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,831 Portwalk Pl,2,3,Redwood City,"1,010 sqft",2-Aug-13,"$625,000 ",37.53702,-122.25255,CA,Condo,625000,"$736,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1530 W Selby Ln,3.5,4,Redwood City,"2,740 sqft",2-Aug-13,"$1,345,000 ",37.45295,-122.223465,CA,Single-Family Home,1345000,"$1,552,000 ",,,,,Sold,SAN MATEO
+94065,824 Mediterranean Ln,2,2,Redwood City,"1,892 sqft",2-Aug-13,"$885,000 ",37.536667,-122.24471,CA,Condo,885000,"$1,081,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,415 Rutherford Ave,,,Redwood City,,2-Aug-13,"$250,000 ",37.454796,-122.22117,CA,Unknown,250000,,,,,,Sold,SAN MATEO
+94063,1156 17th Ave,1,2,Redwood City,"1,100 sqft",1-Aug-13,"$700,000 ",37.483162,-122.18547,CA,Single-Family Home,700000,"$654,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94063,210 Moresby Ln,2.5,3,Redwood City,"1,390 sqft",1-Aug-13,"$675,000 ",37.497856,-122.22481,CA,Condo,675000,"$771,000 ",,,,,Sold,SAN MATEO
+94065,701 Baltic Cir #737,3,2,Redwood City,"1,729 sqft",31-Jul-13,"$875,000 ",37.538403,-122.241,CA,Condo,875000,"$976,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,88 Orchard Ave,1,2,Redwood City,"1,370 sqft",31-Jul-13,"$690,000 ",37.46589,-122.22255,CA,Single-Family Home,690000,"$987,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94063,550 3rd Ave,1,2,Redwood City,780 sqft,31-Jul-13,"$300,000 ",37.475487,-122.20441,CA,Single-Family Home,300000,"$537,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94061,2726 Hastings Ave,2,4,Redwood City,"1,870 sqft",31-Jul-13,"$322,500 ",37.462627,-122.24568,CA,Single-Family Home,322500,"$1,239,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,543 Ruby St,1,3,Redwood City,"1,070 sqft",31-Jul-13,"$752,000 ",37.472267,-122.2442,CA,Single-Family Home,752000,"$932,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,3119 Oak Knoll Dr,2,4,Redwood City,"2,670 sqft",31-Jul-13,"$800,000 ",37.47364,-122.25784,CA,Single-Family Home,800000,"$1,436,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,780 Mediterranean Ln,2,2,Redwood City,"1,892 sqft",31-Jul-13,"$865,000 ",37.537697,-122.24348,CA,Condo,865000,"$1,010,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1505 Chelsea Way,2.5,2,Redwood City,"1,360 sqft",31-Jul-13,"$695,000 ",37.460793,-122.22254,CA,Condo,695000,"$885,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,1566 Jefferson Ave,1,2,Redwood City,"1,130 sqft",31-Jul-13,"$680,000 ",37.47901,-122.23522,CA,Single-Family Home,680000,"$924,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,322 Santa Clara Ave,1,3,Redwood City,"2,060 sqft",31-Jul-13,"$1,007,000 ",37.450928,-122.226364,CA,Single-Family Home,1007000,"$1,296,000 ",,,,,Sold,SAN MATEO
+94061,1761 Alameda De Las Pulgas,1,3,Redwood City,"1,030 sqft",31-Jul-13,"$800,000 ",37.453,-122.23576,CA,Single-Family Home,800000,"$1,008,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,202 Orchard Ave,1,2,Redwood City,980 sqft,31-Jul-13,"$445,000 ",37.46526,-122.22063,CA,Single-Family Home,445000,"$808,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94062,307 Warwick St,2,4,Redwood City,"1,630 sqft",31-Jul-13,"$950,000 ",37.489475,-122.24744,CA,Single-Family Home,950000,"$1,315,000 ",,,,,Sold,SAN MATEO
+94062,523 Hillside Rd,2,3,Redwood City,"1,480 sqft",30-Jul-13,"$1,425,000 ",37.470688,-122.26116,CA,Single-Family Home,1425000,"$1,765,000 ",,,,,Sold,SAN MATEO
+94061,1339 Fernside St,2,3,Redwood City,"1,250 sqft",30-Jul-13,"$1,106,000 ",37.457935,-122.2432,CA,Single-Family Home,1106000,"$1,177,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,2969 Fair Oaks Ave,1,2,Redwood City,850 sqft,30-Jul-13,"$542,000 ",37.47969,-122.204285,CA,Single-Family Home,542000,"$596,000 ",,,,,Sold,SAN MATEO
+94062,515 Quartz St,2,3,Redwood City,"1,692 sqft",30-Jul-13,"$1,150,000 ",37.473022,-122.24372,CA,Single-Family Home,1150000,"$1,119,000 ",,Roosevelt,,,Sold,SAN MATEO
+94063,812 Heller St,,,Redwood City,"1,300 sqft",30-Jul-13,"$410,000 ",37.480667,-122.22128,CA,Multi-Family,410000,"$687,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94062,2126 Jefferson Ave,1,2,Redwood City,"1,000 sqft",29-Jul-13,"$690,000 ",37.475193,-122.23918,CA,Single-Family Home,690000,"$911,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1516 Fernside St,3,5,Redwood City,"1,910 sqft",29-Jul-13,"$1,200,000 ",37.456554,-122.24241,CA,Single-Family Home,1200000,"$1,373,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1634 Connecticut Dr,1,2,Redwood City,"1,090 sqft",29-Jul-13,"$900,000 ",37.4588,-122.23437,CA,Single-Family Home,900000,"$1,038,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94063,311 D St,1,2,Redwood City,850 sqft,26-Jul-13,"$650,000 ",37.495075,-122.23939,CA,Single-Family Home,650000,"$736,000 ",,Centennial,,,Sold,SAN MATEO
+94062,1510 Whipple Ave,1,3,Redwood City,"1,100 sqft",26-Jul-13,"$840,000 ",37.48724,-122.24432,CA,Single-Family Home,840000,"$1,075,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,614 Redwood Ave,1,5,Redwood City,"1,960 sqft",26-Jul-13,"$935,000 ",37.47241,-122.22832,CA,Single-Family Home,935000,"$1,155,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,3665 Farm Hill Blvd,2.5,3,Redwood City,"1,300 sqft",26-Jul-13,"$985,000 ",37.460304,-122.24857,CA,Single-Family Home,985000,"$1,224,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1194 Johnson St,1,3,Redwood City,"1,010 sqft",26-Jul-13,"$735,000 ",37.471397,-122.23212,CA,Single-Family Home,735000,"$802,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,554 Stanford Ave,1,2,Redwood City,760 sqft,26-Jul-13,"$345,000 ",37.47842,-122.209076,CA,Single-Family Home,345000,"$531,000 ",,,,,Sold,SAN MATEO
+94061,689 Cambridge Rd,2,3,Redwood City,"1,670 sqft",25-Jul-13,"$1,210,000 ",37.457703,-122.25665,CA,Single-Family Home,1210000,"$1,213,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,520 Saint Francis St,3,2,Redwood City,"2,000 sqft",25-Jul-13,"$1,200,000 ",37.47271,-122.2419,CA,Single-Family Home,1200000,"$1,387,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,227 Rutherford Ave,1.5,2,Redwood City,880 sqft,25-Jul-13,"$630,000 ",37.456757,-122.22447,CA,Single-Family Home,630000,"$832,000 ",,,,,Sold,SAN MATEO
+94062,437 King St,2,2,Redwood City,"1,980 sqft",25-Jul-13,"$1,140,000 ",37.477474,-122.24057,CA,Single-Family Home,1140000,"$1,160,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,1862 Barton St,2,3,Redwood City,"1,910 sqft",24-Jul-13,"$1,500,000 ",37.448696,-122.22513,CA,Single-Family Home,1500000,"$1,383,000 ",,,,,Sold,SAN MATEO
+94061,106 Central Ave,2.5,3,Redwood City,"1,790 sqft",24-Jul-13,"$750,000 ",37.46785,-122.221344,CA,Single-Family Home,750000,"$1,073,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,2014 El Prado St,3,3,Redwood City,"1,930 sqft",23-Jul-13,"$1,165,000 ",37.447327,-122.22767,CA,Single-Family Home,1165000,"$1,542,000 ",,,,,Sold,SAN MATEO
+94063,740 Maple St,1,2,Redwood City,"1,030 sqft",23-Jul-13,"$650,000 ",37.48618,-122.22369,CA,Single-Family Home,650000,"$690,000 ",,Staumbaugh Heller,,,Sold,SAN MATEO
+94065,137 Positano Cir,2,2,Redwood City,"1,125 sqft",23-Jul-13,"$652,500 ",37.54464,-122.24165,CA,Condo,652500,"$810,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,2012 Gossamer Ave,2.5,4,Redwood City,"2,200 sqft",23-Jul-13,"$1,355,000 ",37.544426,-122.23695,CA,Single-Family Home,1355000,"$1,596,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,521 Ruby St,1,3,Redwood City,"1,270 sqft",23-Jul-13,"$771,000 ",37.472504,-122.2445,CA,Single-Family Home,771000,"$1,212,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,2766 Sussex Way,1.5,3,Redwood City,"1,640 sqft",22-Jul-13,"$875,000 ",37.45567,-122.23682,CA,Single-Family Home,875000,"$1,119,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,777 Mediterranean Ln,2.5,3,Redwood City,"1,996 sqft",22-Jul-13,"$970,000 ",37.537697,-122.24348,CA,Condo,970000,"$1,189,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1908 Chelsea Way,1,1,Redwood City,"1,050 sqft",22-Jul-13,"$595,000 ",37.460793,-122.22254,CA,Condo,595000,"$712,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,2013 Washington Ave,1,2,Redwood City,"1,090 sqft",19-Jul-13,"$870,000 ",37.46145,-122.23366,CA,Single-Family Home,870000,"$960,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,2004 Hastings Shore Ln,2,2,Redwood City,988 sqft,19-Jul-13,"$620,000 ",37.524273,-122.25145,CA,Condo,620000,"$725,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,32 Lido Cir,2,2,Redwood City,"1,320 sqft",19-Jul-13,"$842,500 ",37.53214,-122.24317,CA,Single-Family Home,842500,"$935,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,2305 Hastings Shore Ln,1,1,Redwood City,799 sqft,19-Jul-13,"$450,000 ",37.524273,-122.25145,CA,Condo,450000,"$560,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,1 Mandalay Ct,3,3,Redwood City,"2,310 sqft",19-Jul-13,"$1,650,000 ",37.53839,-122.247665,CA,Single-Family Home,1650000,"$1,787,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,630 Island Pl,3,3,Redwood City,"2,100 sqft",18-Jul-13,"$1,250,500 ",37.53503,-122.25308,CA,Single-Family Home,1250500,"$1,590,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,3050 Goodwin Ave,2,3,Redwood City,"1,480 sqft",17-Jul-13,"$1,236,000 ",37.45719,-122.24451,CA,Single-Family Home,1236000,"$1,262,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,330 W Oakwood Blvd,1.5,2,Redwood City,"1,700 sqft",17-Jul-13,"$1,450,000 ",37.466866,-122.21685,CA,Single-Family Home,1450000,"$1,349,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94065,318 Sea Cliff Ln,2.5,2,Redwood City,"1,500 sqft",17-Jul-13,"$870,000 ",37.5362,-122.24906,CA,Single-Family Home,870000,"$1,118,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1903 Redwood Ave,2,4,Redwood City,"1,550 sqft",17-Jul-13,"$752,000 ",37.46492,-122.23655,CA,Multi-Family,752000,"$898,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,318 W Oakwood Blvd,,,Redwood City,"1,100 sqft",17-Jul-13,"$1,705,000 ",37.467014,-122.21715,CA,Unknown,1705000,,,Redwood Oaks,,,Sold,SAN MATEO
+94063,520 Hurlingame Ave,1,2,Redwood City,770 sqft,16-Jul-13,"$445,000 ",37.47821,-122.210205,CA,Single-Family Home,445000,"$499,000 ",,,,,Sold,SAN MATEO
+94062,101 Acacia Ln,2,3,Redwood City,"1,620 sqft",16-Jul-13,"$1,000,000 ",37.480347,-122.25584,CA,Single-Family Home,1000000,"$1,294,000 ",,,,,Sold,SAN MATEO
+94062,510 Upton St,2,3,Redwood City,"1,300 sqft",16-Jul-13,"$779,000 ",37.470715,-122.24727,CA,Single-Family Home,779000,"$971,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,839 Bayview Way,1.5,2,Redwood City,"1,780 sqft",16-Jul-13,"$1,220,000 ",37.45891,-122.2639,CA,Single-Family Home,1220000,"$1,496,000 ",,,,,Sold,SAN MATEO
+94065,3030 Whisperwave Cir,2.5,4,Redwood City,"1,860 sqft",16-Jul-13,"$1,130,000 ",37.547466,-122.24277,CA,Single-Family Home,1130000,"$1,454,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1187 Truman St,3,3,Redwood City,"3,080 sqft",15-Jul-13,"$1,550,000 ",37.46436,-122.23926,CA,Single-Family Home,1550000,"$1,615,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,726 Bayview Way,,,Redwood City,,15-Jul-13,"$2,100,000 ",37.46079,-122.26656,CA,Single-Family Home,2100000,"$744,000 ",,,,,Sold,SAN MATEO
+94065,539 Becket Dr,3.5,4,Redwood City,"3,690 sqft",15-Jul-13,"$2,000,000 ",37.527626,-122.24727,CA,Single-Family Home,2000000,"$1,974,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,212 Bradbury Ln,2.5,3,Redwood City,"1,910 sqft",12-Jul-13,"$1,110,000 ",37.464527,-122.22233,CA,Single-Family Home,1110000,"$1,124,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,1415 Regent St #1,1,1,Redwood City,695 sqft,12-Jul-13,"$360,000 ",37.46921,-122.229004,CA,Condo,360000,"$418,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,501 Baltic Cir #531,2.5,2,Redwood City,"1,424 sqft",12-Jul-13,"$738,000 ",37.53919,-122.24222,CA,Condo,738000,"$825,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,926 Arguello St,4,4,Redwood City,"5,521 sqft",12-Jul-13,"$945,000 ",37.489944,-122.236244,CA,Multi-Family,945000,"$1,352,000 ",,Centennial,,,Sold,SAN MATEO
+94063,424 5th Ave,1,2,Redwood City,740 sqft,12-Jul-13,"$375,000 ",37.472885,-122.20368,CA,Single-Family Home,375000,"$426,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94061,251 Vera Ave,1,2,Redwood City,850 sqft,12-Jul-13,"$510,000 ",37.478844,-122.22928,CA,Single-Family Home,510000,"$708,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,215 San Carlos Ave,1,2,Redwood City,700 sqft,11-Jul-13,"$529,000 ",37.45628,-122.2254,CA,Single-Family Home,529000,"$669,000 ",,,,,Sold,SAN MATEO
+94061,34 Gretel Ct,3.5,4,Redwood City,"3,170 sqft",11-Jul-13,"$1,650,000 ",37.453053,-122.22826,CA,Single-Family Home,1650000,"$1,762,000 ",,,,,Sold,SAN MATEO
+94061,1144 Virginia Ave,2.5,3,Redwood City,"2,370 sqft",11-Jul-13,"$1,188,000 ",37.46641,-122.23981,CA,Single-Family Home,1188000,"$1,214,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,2454 Oregon Ave,2.5,3,Redwood City,"1,990 sqft",11-Jul-13,"$1,100,000 ",37.46151,-122.23757,CA,Single-Family Home,1100000,"$1,224,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,28 Cove Ln,2,2,Redwood City,"1,350 sqft",10-Jul-13,"$665,000 ",37.531178,-122.25585,CA,Condo,665000,"$790,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1007 Iris St,1,2,Redwood City,"1,060 sqft",10-Jul-13,"$860,000 ",37.47412,-122.23337,CA,Single-Family Home,860000,"$900,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,528 Buena Vista Ave,2,3,Redwood City,"1,600 sqft",10-Jul-13,"$1,176,000 ",37.451828,-122.21963,CA,Single-Family Home,1176000,"$1,028,000 ",,,,,Sold,SAN MATEO
+94065,805 Prism Ln,2.5,4,Redwood City,"2,280 sqft",9-Jul-13,"$1,410,000 ",37.546883,-122.238464,CA,Single-Family Home,1410000,"$1,646,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1873 Alameda De Las Pulgas,2,3,Redwood City,"1,650 sqft",9-Jul-13,"$859,000 ",37.452755,-122.23511,CA,Single-Family Home,859000,"$1,113,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,700 Baltic Cir #720,2.5,3,Redwood City,"1,625 sqft",9-Jul-13,"$767,000 ",37.538403,-122.241,CA,Condo,767000,"$962,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,2032 Roosevelt Ave,2,3,Redwood City,"2,010 sqft",9-Jul-13,"$820,000 ",37.467133,-122.241104,CA,Single-Family Home,820000,"$1,051,000 ",,Roosevelt,,,Sold,SAN MATEO
+94062,197 Wellesley Cres,1.5,3,Redwood City,"2,880 sqft",9-Jul-13,"$1,702,000 ",37.49002,-122.24437,CA,Single-Family Home,1702000,"$1,863,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,549 Shoal Cir,2,1,Redwood City,"1,323 sqft",9-Jul-13,"$645,000 ",37.5407,-122.23581,CA,Condo,645000,"$798,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,32 Eagle Hill Ter,2,3,Redwood City,"1,780 sqft",8-Jul-13,"$955,000 ",37.474606,-122.24267,CA,Single-Family Home,955000,"$1,255,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,936 Redwood Ave,1,3,Redwood City,"1,060 sqft",8-Jul-13,"$674,000 ",37.470387,-122.23069,CA,Single-Family Home,674000,"$787,000 ",,Palm Park,,,Sold,SAN MATEO
+94063,349 5th Ave,1,2,Redwood City,"1,100 sqft",8-Jul-13,"$420,000 ",37.471695,-122.20514,CA,Single-Family Home,420000,"$554,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94063,3743 Page St,1,2,Redwood City,"1,020 sqft",5-Jul-13,"$480,000 ",37.480915,-122.184746,CA,Single-Family Home,480000,"$687,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94061,1318 Junipero Ave,2,3,Redwood City,"1,560 sqft",5-Jul-13,"$895,000 ",37.465557,-122.23586,CA,Single-Family Home,895000,"$1,134,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,1128 Cleveland St,,,Redwood City,"1,500 sqft",5-Jul-13,"$699,000 ",37.47548,-122.2291,CA,Multi-Family,699000,"$911,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,75 Central Ave,2,3,Redwood City,"1,090 sqft",5-Jul-13,"$700,000 ",37.46879,-122.22183,CA,Single-Family Home,700000,"$1,036,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94063,924 6th Ave,1,2,Redwood City,"1,090 sqft",5-Jul-13,"$595,000 ",37.482044,-122.19695,CA,Single-Family Home,595000,"$807,000 ",,Friendly Acres,,,Sold,SAN MATEO
+94065,816 Boardwalk Pl,2,2,Redwood City,850 sqft,5-Jul-13,"$495,000 ",37.537144,-122.25082,CA,Condo,495000,"$637,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,604 Topaz St,1,2,Redwood City,870 sqft,3-Jul-13,"$398,500 ",37.47021,-122.2453,CA,Single-Family Home,398500,"$530,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,1 Brigantine Ln,2.5,3,Redwood City,"1,610 sqft",3-Jul-13,"$900,000 ",37.542797,-122.238075,CA,Condo,900000,"$924,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,599 Quartz St,1,2,Redwood City,"1,070 sqft",3-Jul-13,"$810,000 ",37.471832,-122.24243,CA,Single-Family Home,810000,"$948,000 ",,Roosevelt,,,Sold,SAN MATEO
+94061,4050 Farm Hill Blvd #4,2.5,2,Redwood City,"1,102 sqft",3-Jul-13,"$590,000 ",37.449657,-122.260864,CA,Condo,590000,"$634,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,390 Roble Ave,2,4,Redwood City,"1,890 sqft",3-Jul-13,"$851,000 ",37.465466,-122.21651,CA,Multi-Family,851000,"$856,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94061,1438 Alameda De Las Pulgas,1,3,Redwood City,"1,120 sqft",3-Jul-13,"$882,000 ",37.457867,-122.24107,CA,Single-Family Home,882000,"$1,018,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,727 Portwalk Pl,2,2,Redwood City,850 sqft,3-Jul-13,"$565,000 ",37.53702,-122.25255,CA,Condo,565000,"$664,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,235 Nimitz Ave,1,3,Redwood City,"1,230 sqft",2-Jul-13,"$750,000 ",37.457703,-122.22317,CA,Single-Family Home,750000,"$942,000 ",,,,,Sold,SAN MATEO
+94061,1131 Westwood St,2,4,Redwood City,"1,090 sqft",2-Jul-13,"$1,238,000 ",37.46141,-122.24535,CA,Single-Family Home,1238000,"$1,105,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1148 Woodside Rd,2.5,2,Redwood City,"1,296 sqft",2-Jul-13,"$565,000 ",37.4609,-122.22612,CA,Condo,565000,"$679,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,50 Horgan Ave #27,2,3,Redwood City,"1,550 sqft",1-Jul-13,"$675,000 ",37.462997,-122.22349,CA,Condo,675000,"$740,000 ",,Redwood Oaks,,,Sold,SAN MATEO
+94063,171 Buckingham Ave,2,2,Redwood City,"1,210 sqft",1-Jul-13,"$500,000 ",37.473946,-122.21429,CA,Single-Family Home,500000,"$724,000 ",,,,,Sold,SAN MATEO
+94061,3716 Bret Harte Dr,2.5,4,Redwood City,"1,340 sqft",28-Jun-13,"$1,475,000 ",37.459637,-122.25391,CA,Single-Family Home,1475000,"$1,548,000 ",,Farm Hill,,,Sold,SAN MATEO
+94061,1176 Virginia Ave,2,3,Redwood City,"1,320 sqft",28-Jun-13,"$895,000 ",37.466022,-122.23932,CA,Single-Family Home,895000,"$1,069,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,728 Newport Cir,2.5,3,Redwood City,"1,510 sqft",28-Jun-13,"$1,210,000 ",37.53445,-122.25191,CA,Single-Family Home,1210000,"$1,275,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,501 Baltic Cir #525,2,2,Redwood City,"1,266 sqft",28-Jun-13,"$655,000 ",37.53919,-122.24222,CA,Condo,655000,"$760,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,550 Shorebird Cir #2101,2,2,Redwood City,"1,413 sqft",28-Jun-13,"$665,000 ",37.533173,-122.25493,CA,Condo,665000,"$794,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,790 Lakeshore Dr,2,2,Redwood City,"1,412 sqft",28-Jun-13,"$746,000 ",37.537697,-122.24348,CA,Condo,746000,"$912,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1304 Woodside Rd,2,2,Redwood City,"1,360 sqft",28-Jun-13,"$560,000 ",37.458767,-122.22759,CA,Condo,560000,"$666,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94061,540 Montwood Cir,2,3,Redwood City,"2,000 sqft",28-Jun-13,"$1,090,000 ",37.448948,-122.22647,CA,Single-Family Home,1090000,"$1,167,000 ",,,,,Sold,SAN MATEO
+94061,1224 Roosevelt Ave,2,5,Redwood City,"1,000 sqft",28-Jun-13,"$805,000 ",37.471355,-122.23584,CA,Multi-Family,805000,"$669,000 ",,Roosevelt,,,Sold,SAN MATEO
+94065,30 Eddystone Ct,1,1,Redwood City,811 sqft,28-Jun-13,"$470,000 ",37.53537,-122.24608,CA,Condo,470000,"$567,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94062,675 Upland Rd,3,3,Redwood City,"2,290 sqft",28-Jun-13,"$1,137,500 ",37.472687,-122.25147,CA,Single-Family Home,1137500,"$1,549,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94065,825 Columbia Cir,3,3,Redwood City,"1,800 sqft",28-Jun-13,"$918,000 ",37.536858,-122.23784,CA,Condo,918000,"$1,012,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,818 Whipple Ave,1,2,Redwood City,"1,040 sqft",27-Jun-13,"$613,000 ",37.492195,-122.23824,CA,Single-Family Home,613000,"$740,000 ",,Centennial,,,Sold,SAN MATEO
+94061,1169 Fay St,1,2,Redwood City,890 sqft,27-Jun-13,"$630,000 ",37.47556,-122.22705,CA,Single-Family Home,630000,"$763,000 ",,Palm Park,,,Sold,SAN MATEO
+94061,558 Rutherford Ave,1,3,Redwood City,"1,530 sqft",27-Jun-13,"$1,245,000 ",37.45254,-122.21883,CA,Single-Family Home,1245000,"$1,045,000 ",,,,,Sold,SAN MATEO
+94061,1326 Woodside Rd,2,2,Redwood City,"1,360 sqft",27-Jun-13,"$525,000 ",37.458767,-122.22759,CA,Condo,525000,"$682,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,838 Sovereign Way,3,3,Redwood City,"1,800 sqft",26-Jun-13,"$900,000 ",37.536858,-122.23784,CA,Condo,900000,"$1,106,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,2006 Hastings Shore Ln,2,2,Redwood City,988 sqft,26-Jun-13,"$570,000 ",37.524273,-122.25145,CA,Condo,570000,"$686,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94065,937 Corriente Point Dr,3.5,4,Redwood City,"2,730 sqft",26-Jun-13,"$1,853,000 ",37.540833,-122.24609,CA,Single-Family Home,1853000,"$1,953,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,1457 Kentfield Ave,2.5,3,Redwood City,"1,640 sqft",25-Jun-13,"$725,000 ",37.46694,-122.22956,CA,Single-Family Home,725000,"$837,000 ",,Palm Park,,,Sold,SAN MATEO
+94065,312 Treedust St,2.5,3,Redwood City,"2,270 sqft",25-Jun-13,"$1,325,000 ",37.54698,-122.24109,CA,Single-Family Home,1325000,"$1,435,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94063,766 7th Ave,1,1,Redwood City,760 sqft,25-Jun-13,"$575,000 ",37.478374,-122.19796,CA,Single-Family Home,575000,"$659,000 ",,,,,Sold,SAN MATEO
+94061,1616 Virginia Ave,2,3,Redwood City,"1,560 sqft",25-Jun-13,"$1,170,000 ",37.46062,-122.2323,CA,Single-Family Home,1170000,"$1,085,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94065,537 Jetty Way,2.5,4,Redwood City,"1,860 sqft",25-Jun-13,"$1,215,000 ",37.53899,-122.23702,CA,Single-Family Home,1215000,"$1,444,000 ",,Redwood Shores,,,Sold,SAN MATEO
+94061,4086 Farm Hill Blvd #1,2.5,2,Redwood City,"1,332 sqft",25-Jun-13,"$545,000 ",37.449657,-122.260864,CA,Condo,545000,"$705,000 ",,Farm Hill,,,Sold,SAN MATEO
+94062,1805 Hopkins Ave,2,4,Redwood City,"2,034 sqft",25-Jun-13,"$1,325,000 ",37.48353,-122.24424,CA,Single-Family Home,1325000,"$1,562,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94062,3037 Hopkins Ave,1,2,Redwood City,"1,190 sqft",25-Jun-13,"$825,000 ",37.476776,-122.254105,CA,Single-Family Home,825000,"$1,240,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO
+94061,1755 Anamor St,1,3,Redwood City,"1,180 sqft",24-Jun-13,"$435,000 ",37.458675,-122.22988,CA,Single-Family Home,435000,"$1,006,000 ",,Woodside Plaza,,,Sold,SAN MATEO
+94062,79 Grand St,2,2,Redwood City,"1,010 sqft",24-Jun-13,"$971,000 ",37.484997,-122.24383,CA,Single-Family Home,971000,"$1,079,000 ",,Oak Knoll - Redwood Park,,,Sold,SAN MATEO

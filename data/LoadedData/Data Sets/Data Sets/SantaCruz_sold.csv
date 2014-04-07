@@ -1,0 +1,566 @@
+id,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,zipCode,neighborhood,walkScore,transitScore,status,county
+1,4701 Portola Dr,2.0,3.0,Santa Cruz,"1,332 sqft","Mar 7, 2014","$835,000",36.9677,-121.95978,CA,Single-Family Home,835000,"$862,000",95062,,,,Sold,SANTA CRUZ
+2,194 Benito Ave,1.0,2.0,Santa Cruz,"1,074 sqft","Mar 7, 2014","$512,000",36.980038,-122.01213,CA,Single-Family Home,512000,"$679,000",95062,,,,Sold,SANTA CRUZ
+3,114 Limestone Ln,2.5,3.0,Santa Cruz,"1,726 sqft","Mar 7, 2014","$835,000",36.98092,-122.047455,CA,Townhouse,835000,"$836,000",95060,,,,Sold,SANTA CRUZ
+4,660 Nobel Dr #1F,1.5,2.0,Santa Cruz,"1,146 sqft","Mar 6, 2014","$485,000",36.973557,-122.0533,CA,Condo,485000,"$513,000",95060,,,,Sold,SANTA CRUZ
+5,509 36th Ave,2.0,1.0,Santa Cruz,"1,227 sqft","Mar 5, 2014","$750,000",36.959656,-121.96985,CA,Single-Family Home,750000,"$816,000",95062,,,,Sold,SANTA CRUZ
+6,22 Pasatiempo Dr,1.0,3.0,Santa Cruz,"1,311 sqft","Mar 4, 2014","$838,000",37.002724,-122.02735,CA,Single-Family Home,838000,"$834,000",95060,,,,Sold,SANTA CRUZ
+7,21010 E Cliff Dr,1.0,2.0,Santa Cruz,"1,281 sqft","Mar 3, 2014","$1,350,000",36.962734,-121.99523,CA,Single-Family Home,1350000,"$828,000",95062,,,,Sold,SANTA CRUZ
+8,1623 Taylor Ln,2.0,2.0,Santa Cruz,"1,392 sqft","Mar 3, 2014","$520,000",36.978622,-121.99493,CA,Condo,520000,"$480,000",95062,,,,Sold,SANTA CRUZ
+9,1745 Malcolm Ln,2.5,3.0,Santa Cruz,"1,677 sqft","Feb 28, 2014","$540,000",36.97773,-121.981804,CA,Single-Family Home,540000,"$727,000",95062,,,,Sold,SANTA CRUZ
+10,2711 Soquel Ave #A,,11.0,Santa Cruz,"5,033 sqft","Feb 28, 2014","$1,177,000",36.986336,-121.9893,CA,Multi-Family,1177000,,95062,,,,Sold,SANTA CRUZ
+11,112 Camino Del Sol,1.5,3.0,Santa Cruz,"1,970 sqft","Feb 28, 2014","$740,000",36.99126,-121.99142,CA,Single-Family Home,740000,"$901,000",95065,,,,Sold,SANTA CRUZ
+12,125 Stoney Creek Rd,1.5,2.0,Santa Cruz,"1,546 sqft","Feb 28, 2014","$540,000",36.98742,-122.01522,CA,Townhouse,540000,"$537,000",95060,,,,Sold,SANTA CRUZ
+13,180 Dakota Ave #37,,,Santa Cruz,,"Feb 28, 2014","$235,000",36.976166,-122.02022,CA,Condo,235000,"$185,000",95060,,,,Sold,SANTA CRUZ
+14,1 Brooktree Ln,2.5,4.0,Santa Cruz,"2,576 sqft","Feb 28, 2014","$944,000",37.002758,-122.030785,CA,Single-Family Home,944000,"$935,000",95060,,,,Sold,SANTA CRUZ
+15,1724 Barrington Ct,2.5,2.0,Santa Cruz,"1,196 sqft","Feb 28, 2014","$400,000",36.990288,-121.97894,CA,Townhouse,400000,"$438,000",95065,,,,Sold,SANTA CRUZ
+16,108 Prospect Ct,2.0,3.0,Santa Cruz,"1,445 sqft","Feb 28, 2014","$661,000",36.99139,-121.9939,CA,Single-Family Home,661000,"$739,000",95065,,,,Sold,SANTA CRUZ
+17,149 Harbor Oaks Cir,2.0,3.0,Santa Cruz,"1,056 sqft","Feb 27, 2014","$351,000",36.97636,-121.99128,CA,Townhouse,351000,"$405,000",95062,,,,Sold,SANTA CRUZ
+18,20 Ridge Ln,3.0,4.0,Santa Cruz,"3,521 sqft","Feb 27, 2014","$1,439,000",37.00431,-122.03191,CA,Single-Family Home,1439000,"$1,376,000",95060,,,,Sold,SANTA CRUZ
+19,1703 Eastbrook Ct,1.5,2.0,Santa Cruz,"1,008 sqft","Feb 27, 2014","$320,000",36.977905,-121.98859,CA,Condo,320000,"$374,000",95062,,,,Sold,SANTA CRUZ
+20,4240 Gladys Ave,1.0,3.0,Santa Cruz,"1,032 sqft","Feb 27, 2014","$750,000",36.966434,-121.96313,CA,Single-Family Home,750000,"$717,000",95062,,,,Sold,SANTA CRUZ
+21,1574 7th Ave,1.0,3.0,Santa Cruz,"1,464 sqft","Feb 26, 2014","$591,000",36.97881,-121.991806,CA,Single-Family Home,591000,"$596,000",95062,,,,Sold,SANTA CRUZ
+22,134 Grant St,2.0,2.0,Santa Cruz,"1,152 sqft","Feb 26, 2014","$379,000",36.985035,-122.0219,CA,Condo,379000,"$453,000",95060,,,,Sold,SANTA CRUZ
+23,705 Frederick St,1.0,2.0,Santa Cruz,840 sqft,"Feb 25, 2014","$425,000",36.980263,-122.004684,CA,Single-Family Home,425000,"$491,000",95062,,,,Sold,SANTA CRUZ
+24,201 Laurent St,1.5,3.0,Santa Cruz,"1,794 sqft","Feb 25, 2014","$910,000",36.967327,-122.03743,CA,Single-Family Home,910000,"$919,000",95060,,,,Sold,SANTA CRUZ
+25,107 7th Ave,3.0,3.0,Santa Cruz,"2,222 sqft","Feb 21, 2014","$1,400,000",36.96357,-121.99889,CA,Single-Family Home,1400000,"$1,346,000",95062,,,,Sold,SANTA CRUZ
+26,3052 Pleasure Point Dr,1.0,2.0,Santa Cruz,"1,211 sqft","Feb 21, 2014","$2,300,000",36.9553,-121.97214,CA,Single-Family Home,2300000,"$1,525,000",95062,,,,Sold,SANTA CRUZ
+27,124 Goss Ave,2.0,3.0,Santa Cruz,"1,376 sqft","Feb 21, 2014","$549,000",36.989857,-122.01184,CA,Single-Family Home,549000,"$639,000",95065,,,,Sold,SANTA CRUZ
+28,1803 Mission St,1.0,2.0,Santa Cruz,910 sqft,"Feb 21, 2014","$525,000",36.96435,-122.04195,CA,Single-Family Home,525000,"$665,000",95060,,,,Sold,SANTA CRUZ
+29,120 Reno Way,2.0,3.0,Santa Cruz,"1,636 sqft","Feb 20, 2014","$815,000",36.95103,-122.05144,CA,Single-Family Home,815000,"$827,000",95060,,,,Sold,SANTA CRUZ
+30,830 7th Ave #A,5.0,9.0,Santa Cruz,"3,563 sqft","Feb 20, 2014","$335,000",36.970905,-121.99623,CA,Multi-Family,335000,,95062,,,,Sold,SANTA CRUZ
+31,442 Oxford Way,2.0,4.0,Santa Cruz,"2,396 sqft","Feb 19, 2014","$1,465,000",36.953815,-122.0443,CA,Single-Family Home,1465000,"$1,301,000",95060,,,,Sold,SANTA CRUZ
+32,121 Clark Ave,2.5,3.0,Santa Cruz,"2,703 sqft","Feb 19, 2014","$1,350,000",36.952908,-122.034805,CA,Single-Family Home,1350000,"$1,268,000",95060,,,,Sold,SANTA CRUZ
+33,220 Atlantic Ave #202,,,Santa Cruz,,"Feb 19, 2014","$427,000",36.964504,-122.0068,CA,Condo,427000,,95062,,,,Sold,SANTA CRUZ
+34,115 Seton Way,2.0,4.0,Santa Cruz,"1,635 sqft","Feb 19, 2014","$830,000",36.968315,-122.05145,CA,Single-Family Home,830000,"$785,000",95060,,,,Sold,SANTA CRUZ
+35,270 Northwest Dr,2.0,3.0,Santa Cruz,"1,864 sqft","Feb 18, 2014","$920,000",37.062317,-122.14701,CA,Farm/Ranch,920000,"$808,000",95060,,,,Sold,SANTA CRUZ
+36,1652 Ocean St,1.5,2.0,Santa Cruz,"1,017 sqft","Feb 18, 2014","$372,000",36.98708,-122.02443,CA,Condo,372000,"$430,000",95060,,,,Sold,SANTA CRUZ
+37,210 Delaveaga Park Dr,,,Santa Cruz,,"Feb 14, 2014","$585,000",36.99131,-122.006004,CA,Single-Family Home,585000,,95065,,,,Sold,SANTA CRUZ
+38,1585 Heritage Ln,2.5,3.0,Santa Cruz,"1,635 sqft","Feb 14, 2014","$700,000",36.972916,-121.970375,CA,Single-Family Home,700000,"$744,000",95062,,,,Sold,SANTA CRUZ
+39,2987 Renwick Way,2.0,3.0,Santa Cruz,"1,682 sqft","Feb 12, 2014","$655,000",36.972073,-121.97377,CA,Single-Family Home,655000,"$715,000",95062,,,,Sold,SANTA CRUZ
+40,209 Seaborg Pl,3.5,5.0,Santa Cruz,"2,845 sqft","Feb 11, 2014","$800,000",36.971233,-122.0544,CA,Single-Family Home,800000,"$981,000",95060,,,,Sold,SANTA CRUZ
+41,173 Hollywood Ave,2.5,2.0,Santa Cruz,"2,262 sqft","Feb 7, 2014","$1,025,000",36.975346,-122.040115,CA,Single-Family Home,1025000,"$1,080,000",95060,,,,Sold,SANTA CRUZ
+42,435 Assembly Ave,2.0,3.0,Santa Cruz,"1,600 sqft","Feb 7, 2014","$749,000",36.967064,-121.998795,CA,Single-Family Home,749000,"$942,000",95062,,,,Sold,SANTA CRUZ
+43,4700 Thurber Ln,2.0,3.0,Santa Cruz,"1,327 sqft","Feb 7, 2014","$570,000",36.99677,-121.9753,CA,Single-Family Home,570000,"$696,000",95065,,,,Sold,SANTA CRUZ
+44,127 Southampton Ln #B,2.5,3.0,Santa Cruz,"1,641 sqft","Feb 6, 2014","$619,000",36.970432,-122.00344,CA,Townhouse,619000,"$724,000",95062,,,,Sold,SANTA CRUZ
+45,721 37th Ave,2.0,2.0,Santa Cruz,"1,115 sqft","Feb 6, 2014","$750,000",36.962517,-121.96878,CA,Multi-Family,750000,"$724,000",95062,,,,Sold,SANTA CRUZ
+46,109 Vista Prieta Ct,1.0,2.0,Santa Cruz,844 sqft,"Feb 5, 2014","$54,500",36.984608,-121.98338,CA,Single-Family Home,54500,"$348,000",95062,,,,Sold,SANTA CRUZ
+47,250 8th Ave,2.0,1.0,Santa Cruz,"1,160 sqft","Feb 5, 2014","$827,000",36.96481,-121.99738,CA,Single-Family Home,827000,"$903,000",95062,,,,Sold,SANTA CRUZ
+48,137 Los Altos Ct,2.0,3.0,Santa Cruz,"1,823 sqft","Feb 4, 2014","$785,000",36.9645,-122.0497,CA,Single-Family Home,785000,"$868,000",95060,,,,Sold,SANTA CRUZ
+49,1650 Schooner Ct,2.5,3.0,Santa Cruz,"1,811 sqft","Jan 31, 2014","$555,000",36.97822,-121.9901,CA,Single-Family Home,555000,"$694,000",95062,,,,Sold,SANTA CRUZ
+50,1110 W Cliff Dr,2.0,4.0,Santa Cruz,"2,896 sqft","Jan 31, 2014","$1,800,000",36.95352,-122.040375,CA,Single-Family Home,1800000,"$1,125,000",95060,,,,Sold,SANTA CRUZ
+51,222 Mira Vista Dr,1.0,2.0,Santa Cruz,816 sqft,"Jan 31, 2014","$599,000",36.96598,-122.04993,CA,Single-Family Home,599000,"$603,000",95060,,,,Sold,SANTA CRUZ
+52,1113 Morrissey Blvd,1.0,2.0,Santa Cruz,927 sqft,"Jan 31, 2014","$610,000",36.989662,-121.99508,CA,Single-Family Home,610000,"$646,000",95065,,,,Sold,SANTA CRUZ
+53,230 Pestana Ave,2.5,3.0,Santa Cruz,"2,319 sqft","Jan 31, 2014","$759,500",36.99826,-121.97707,CA,Single-Family Home,759500,"$788,000",95065,,,,Sold,SANTA CRUZ
+54,259 Chico Ave,2.0,3.0,Santa Cruz,"1,776 sqft","Jan 29, 2014","$1,060,500",36.951527,-122.053856,CA,Single-Family Home,1060500,"$1,125,000",95060,,,,Sold,SANTA CRUZ
+55,150 Fernside St,1.0,3.0,Santa Cruz,"1,086 sqft","Jan 28, 2014","$469,500",36.988533,-122.01893,CA,Single-Family Home,469500,"$599,000",95060,,,,Sold,SANTA CRUZ
+56,141 Claremont Ter,2.5,3.0,Santa Cruz,"1,536 sqft","Jan 28, 2014","$490,000",36.98749,-122.02501,CA,Townhouse,490000,"$567,000",95060,,,,Sold,SANTA CRUZ
+57,4545 Opal Cliff Dr,2.5,2.0,Santa Cruz,"2,435 sqft","Jan 24, 2014","$1,620,000",36.966045,-121.96104,CA,Single-Family Home,1620000,"$1,855,000",95062,,,,Sold,SANTA CRUZ
+58,120 Fernside St,1.5,2.0,Santa Cruz,"1,550 sqft","Jan 24, 2014","$500,000",36.98869,-122.0201,CA,Single-Family Home,500000,"$755,000",95060,,,,Sold,SANTA CRUZ
+59,3 Rockview Dr,3.0,2.0,Santa Cruz,"2,898 sqft","Jan 24, 2014","$3,450,000",36.95474,-121.97548,CA,Single-Family Home,3450000,"$1,148,000",95062,,,,Sold,SANTA CRUZ
+60,6742 Bonny Doon Rd,1.0,3.0,Santa Cruz,"1,222 sqft","Jan 24, 2014","$652,800",37.065353,-122.151436,CA,Farm/Ranch,652800,"$620,000",95060,,,,Sold,SANTA CRUZ
+61,1645 Woodrose Ave,2.0,3.0,Santa Cruz,"1,205 sqft","Jan 24, 2014","$535,000",36.974937,-121.97833,CA,Single-Family Home,535000,"$635,000",95062,,,,Sold,SANTA CRUZ
+62,17 Panorama Ln,4.5,4.0,Santa Cruz,"4,476 sqft","Jan 24, 2014","$1,437,500",37.011047,-122.02942,CA,Single-Family Home,1437500,"$1,401,000",95060,,,,Sold,SANTA CRUZ
+63,1838 Pine Flat Rd,3.0,2.0,Santa Cruz,"2,332 sqft","Jan 23, 2014","$490,000",37.064583,-122.14392,CA,Farm/Ranch,490000,"$611,000",95060,,,,Sold,SANTA CRUZ
+64,270 Canyon Oaks,5.0,7.0,Santa Cruz,"3,838 sqft","Jan 22, 2014","$625,000",37.052082,-121.96985,CA,Farm/Ranch,625000,"$839,000",95065,,,,Sold,SANTA CRUZ
+65,35 Camille Ln,2.5,4.0,Santa Cruz,"1,947 sqft","Jan 22, 2014","$769,000",36.99069,-122.00928,CA,Single-Family Home,769000,"$894,000",95065,,,,Sold,SANTA CRUZ
+66,353 Ocean St,2.0,2.0,Santa Cruz,"1,135 sqft","Jan 22, 2014","$325,000",36.972614,-122.01819,CA,Condo,325000,"$399,000",95060,,,,Sold,SANTA CRUZ
+67,216 Dakota Ave,1.0,2.0,Santa Cruz,"1,014 sqft","Jan 21, 2014","$607,500",36.97667,-122.018974,CA,Single-Family Home,607500,"$605,000",95060,,,,Sold,SANTA CRUZ
+68,14 Rincon Ct,2.0,3.0,Santa Cruz,"1,501 sqft","Jan 17, 2014","$616,000",37.021618,-122.03607,CA,Single-Family Home,616000,"$773,000",95060,,,,Sold,SANTA CRUZ
+69,533 Broadway,1.5,2.0,Santa Cruz,"1,187 sqft","Jan 17, 2014","$340,000",36.974274,-122.01775,CA,Condo,340000,"$406,000",95060,,,,Sold,SANTA CRUZ
+70,317 Bay St,1.0,2.0,Santa Cruz,"1,308 sqft","Jan 16, 2014","$200,000",36.960117,-122.02991,CA,Single-Family Home,200000,"$732,000",95060,,,,Sold,SANTA CRUZ
+71,442 Dufour St,,,Santa Cruz,,"Jan 15, 2014","$345,000",36.962578,-122.03962,CA,Lot/Land,345000,,95060,,,,Sold,SANTA CRUZ
+72,117 Park Ave,1.0,2.0,Santa Cruz,"1,344 sqft","Jan 15, 2014","$880,000",36.967495,-122.012245,CA,Single-Family Home,880000,"$791,000",95062,,,,Sold,SANTA CRUZ
+73,604 Cayuga St,2.5,2.0,Santa Cruz,"2,444 sqft","Jan 9, 2014","$1,068,000",36.97324,-122.009865,CA,Multi-Family,1068000,"$942,000",95062,,,,Sold,SANTA CRUZ
+74,311 9th Ave,2.0,4.0,Santa Cruz,"1,363 sqft","Jan 9, 2014","$807,500",36.965298,-121.99706,CA,Single-Family Home,807500,"$759,000",95062,,,,Sold,SANTA CRUZ
+75,1180 Edmar Ln,2.0,3.0,Santa Cruz,"1,388 sqft","Jan 8, 2014","$635,000",36.969765,-121.990654,CA,Single-Family Home,635000,"$674,000",95062,,,,Sold,SANTA CRUZ
+76,1700 Sommerfeld St,2.0,3.0,Santa Cruz,"1,468 sqft","Jan 8, 2014","$530,000",36.97389,-121.97031,CA,Single-Family Home,530000,"$684,000",95062,,,,Sold,SANTA CRUZ
+77,119 Tosca Ter,2.5,3.0,Santa Cruz,"1,864 sqft","Jan 7, 2014","$729,000",36.97978,-122.06014,CA,Single-Family Home,729000,"$900,000",95060,,,,Sold,SANTA CRUZ
+78,1140 Chanticleer Ave,1.0,2.0,Santa Cruz,"1,182 sqft","Jan 7, 2014","$200,000",36.96984,-121.980545,CA,Single-Family Home,200000,"$587,000",95062,,,,Sold,SANTA CRUZ
+79,3615 Moana Way,1.0,,Santa Cruz,910 sqft,"Jan 7, 2014","$715,000",36.959976,-121.96896,CA,Single-Family Home,715000,"$723,000",95062,,,,Sold,SANTA CRUZ
+80,39 Edgewood Way,2.0,3.0,Santa Cruz,"1,172 sqft","Jan 6, 2014","$429,500",36.9815,-122.023865,CA,Multi-Family,429500,"$603,000",95060,,,,Sold,SANTA CRUZ
+81,161 Hollywood Ave,2.0,4.0,Santa Cruz,"1,890 sqft","Jan 6, 2014","$755,000",36.974777,-122.04041,CA,Single-Family Home,755000,"$920,000",95060,,,,Sold,SANTA CRUZ
+82,960 30th Ave,2.0,4.0,Santa Cruz,"1,800 sqft","Jan 6, 2014","$672,000",36.965824,-121.97369,CA,Single-Family Home,672000,"$831,000",95062,,,,Sold,SANTA CRUZ
+83,1681 River St,2.0,2.0,Santa Cruz,"1,517 sqft","Jan 3, 2014","$649,000",37.001194,-122.03949,CA,Farm/Ranch,649000,"$698,000",95060,,,,Sold,SANTA CRUZ
+84,2567 Parker St,2.0,3.0,Santa Cruz,"1,657 sqft","Jan 3, 2014","$660,000",36.99289,-121.97322,CA,Single-Family Home,660000,"$786,000",95065,,,,Sold,SANTA CRUZ
+85,352 Soquel Ave,3.0,3.0,Santa Cruz,"1,621 sqft","Jan 2, 2014","$600,000",36.974094,-122.01929,CA,Townhouse,600000,"$753,000",95062,,,,Sold,SANTA CRUZ
+86,348 Soquel Ave,3.0,3.0,Santa Cruz,"1,621 sqft","Jan 2, 2014","$600,000",36.97425,-122.019356,CA,Condo,600000,"$754,000",95062,,,,Sold,SANTA CRUZ
+87,2592 Warwick Ln,2.5,3.0,Santa Cruz,"1,550 sqft","Jan 2, 2014","$615,000",36.991093,-121.97329,CA,Townhouse,615000,"$675,000",95065,,,,Sold,SANTA CRUZ
+88,350 Soquel Ave,3.0,3.0,Santa Cruz,"1,621 sqft","Jan 2, 2014","$600,000",36.97417,-122.019325,CA,Condo,600000,"$676,000",95062,,,,Sold,SANTA CRUZ
+89,2257 Juan Pablo Ln,2.0,3.0,Santa Cruz,"1,486 sqft","Jan 2, 2014","$595,000",36.9831,-121.98112,CA,Single-Family Home,595000,"$656,000",95062,,,,Sold,SANTA CRUZ
+90,114 Misty Ct,4.0,4.0,Santa Cruz,"3,024 sqft","Dec 31, 2013","$949,000",37.002884,-122.01934,CA,Single-Family Home,949000,"$1,197,000",95060,,,,Sold,SANTA CRUZ
+91,425 Assembly Ave,2.0,3.0,Santa Cruz,"1,600 sqft","Dec 31, 2013","$749,000",36.966904,-121.99882,CA,Single-Family Home,749000,"$941,000",95062,,,,Sold,SANTA CRUZ
+92,466 Hampstead Way,1.0,3.0,Santa Cruz,"1,005 sqft","Dec 31, 2013","$610,000",36.96137,-121.97854,CA,Single-Family Home,610000,"$769,000",95062,,,,Sold,SANTA CRUZ
+93,321 Arroyo Seco,2.5,3.0,Santa Cruz,"2,480 sqft","Dec 31, 2013","$825,000",36.9642,-122.05202,CA,Single-Family Home,825000,"$1,024,000",95060,,,,Sold,SANTA CRUZ
+94,611 Lighthouse Ave,1.0,3.0,Santa Cruz,864 sqft,"Dec 30, 2013","$866,000",36.960117,-122.02773,CA,Single-Family Home,866000,"$633,000",95060,,,,Sold,SANTA CRUZ
+95,514 Cliff St #B,2.5,2.0,Santa Cruz,"1,726 sqft","Dec 27, 2013","$600,000",36.967648,-122.021576,CA,Condo,600000,"$645,000",95060,,,,Sold,SANTA CRUZ
+96,334 Alta Ave,2.0,3.0,Santa Cruz,"1,248 sqft","Dec 27, 2013","$50,754",36.95509,-122.04122,CA,Single-Family Home,50754,"$886,000",95060,,,,Sold,SANTA CRUZ
+97,4770 Opal Cliff Dr,2.0,3.0,Santa Cruz,"1,938 sqft","Dec 24, 2013","$1,510,500",36.967743,-121.95806,CA,Single-Family Home,1510500,"$1,617,000",95062,,,,Sold,SANTA CRUZ
+98,1213 Andrew Ln,2.0,2.0,Santa Cruz,"1,152 sqft","Dec 24, 2013","$350,000",36.971313,-121.982796,CA,Condo,350000,"$348,000",95062,,,,Sold,SANTA CRUZ
+99,226 Alhambra Ave,3.0,3.0,Santa Cruz,"2,112 sqft","Dec 24, 2013","$931,000",36.966232,-122.0105,CA,Multi-Family,931000,"$937,000",95062,,,,Sold,SANTA CRUZ
+100,2030 17th Ave,,,Santa Cruz,"1,006 sqft","Dec 24, 2013","$400,000",36.979874,-121.981445,CA,Single-Family Home,400000,"$601,000",95062,,,,Sold,SANTA CRUZ
+101,151 Tosca Ter,2.5,3.0,Santa Cruz,"1,864 sqft","Dec 24, 2013","$734,000",36.980545,-122.06049,CA,Single-Family Home,734000,"$899,000",95060,,,,Sold,SANTA CRUZ
+102,205 Pinewood St,2.0,3.0,Santa Cruz,"1,383 sqft","Dec 23, 2013","$635,000",36.98029,-121.98321,CA,Single-Family Home,635000,"$649,000",95062,,,,Sold,SANTA CRUZ
+103,23665 E Cliff Dr,,,Santa Cruz,"2,844 sqft","Dec 20, 2013","$2,100,500",36.95849,-121.96899,CA,Single-Family Home,2100500,"$873,000",95062,,,,Sold,SANTA CRUZ
+104,205 Elk St,1.0,2.0,Santa Cruz,"1,441 sqft","Dec 20, 2013","$525,000",36.989532,-122.00478,CA,Single-Family Home,525000,"$658,000",95065,,,,Sold,SANTA CRUZ
+105,2030 N Pacific Ave #437,1.0,1.0,Santa Cruz,895 sqft,"Dec 20, 2013","$453,000",36.978245,-122.0268,CA,Condo,453000,"$402,000",95060,,,,Sold,SANTA CRUZ
+106,1714 Barrington Ct,1.5,2.0,Santa Cruz,"1,084 sqft","Dec 20, 2013","$383,000",36.990543,-121.978874,CA,Townhouse,383000,"$400,000",95065,,,,Sold,SANTA CRUZ
+107,562 36th Ave,3.0,4.0,Santa Cruz,"2,477 sqft","Dec 20, 2013","$1,095,000",36.96046,-121.969345,CA,Single-Family Home,1095000,"$1,337,000",95062,,,,Sold,SANTA CRUZ
+108,2573 Valerie Ct,2.5,3.0,Santa Cruz,"1,504 sqft","Dec 19, 2013","$450,000",36.976505,-121.97524,CA,Townhouse,450000,"$508,000",95062,,,,Sold,SANTA CRUZ
+109,422 Cliff St,1.5,2.0,Santa Cruz,"1,455 sqft","Dec 19, 2013","$530,000",36.96701,-122.02134,CA,Condo,530000,"$538,000",95060,,,,Sold,SANTA CRUZ
+110,237 Van Ness Ave,1.0,2.0,Santa Cruz,"1,559 sqft","Dec 19, 2013","$750,000",36.96899,-122.0396,CA,Single-Family Home,750000,"$889,000",95060,,,,Sold,SANTA CRUZ
+111,1061 Escalona Dr,2.0,4.0,Santa Cruz,"1,960 sqft","Dec 19, 2013","$671,500",36.969563,-122.045815,CA,Single-Family Home,671500,"$868,000",95060,,,,Sold,SANTA CRUZ
+112,1151 E Cliff Dr,3.5,5.0,Santa Cruz,"2,741 sqft","Dec 18, 2013","$1,625,000",36.964554,-122.01117,CA,Single-Family Home,1625000,"$915,000",95062,,,,Sold,SANTA CRUZ
+113,144 Tanbark Ct,2.5,3.0,Santa Cruz,"1,921 sqft","Dec 18, 2013","$742,500",36.983078,-121.982544,CA,Single-Family Home,742500,"$787,000",95062,,,,Sold,SANTA CRUZ
+114,1139 30th Ave,1.5,2.0,Santa Cruz,"1,165 sqft","Dec 18, 2013","$355,000",36.96756,-121.97382,CA,Townhouse,355000,"$405,000",95062,,,,Sold,SANTA CRUZ
+115,240 Trevethan Ave,2.0,3.0,Santa Cruz,"1,303 sqft","Dec 18, 2013","$700,000",36.98437,-122.0001,CA,Single-Family Home,700000,"$770,000",95062,,,,Sold,SANTA CRUZ
+116,734 Riverside Ave,1.0,2.0,Santa Cruz,832 sqft,"Dec 18, 2013","$465,000",36.971558,-122.021286,CA,Single-Family Home,465000,"$509,000",95060,,,,Sold,SANTA CRUZ
+117,1791 Branciforte Dr,1.5,3.0,Santa Cruz,"1,736 sqft","Dec 17, 2013","$1,550,000",37.01028,-121.99954,CA,Farm/Ranch,1550000,"$773,000",95065,,,,Sold,SANTA CRUZ
+118,132 Mountain View Ave,2.5,3.0,Santa Cruz,"1,425 sqft","Dec 17, 2013","$568,000",36.968124,-122.00981,CA,Townhouse,568000,"$627,000",95062,,,,Sold,SANTA CRUZ
+119,2607 Hensley Ln,2.5,2.0,Santa Cruz,"1,172 sqft","Dec 17, 2013","$382,000",36.99082,-121.97259,CA,Condo,382000,"$485,000",95065,,,,Sold,SANTA CRUZ
+120,181 24th Ave,2.0,2.0,Santa Cruz,"1,481 sqft","Dec 16, 2013","$990,000",36.95962,-121.9823,CA,Single-Family Home,990000,"$1,063,000",95062,,,,Sold,SANTA CRUZ
+121,209 Ocean St,1.0,2.0,Santa Cruz,728 sqft,"Dec 13, 2013","$324,000",36.96987,-122.017006,CA,Single-Family Home,324000,"$494,000",95060,,,,Sold,SANTA CRUZ
+122,119 Abby Ct,2.5,3.0,Santa Cruz,"2,457 sqft","Dec 13, 2013","$674,500",36.98389,-121.99596,CA,Townhouse,674500,"$738,000",95062,,,,Sold,SANTA CRUZ
+123,2909 Leotar Cir,1.0,2.0,Santa Cruz,837 sqft,"Dec 13, 2013","$250,500",36.97466,-121.97347,CA,Condo,250500,"$289,000",95062,,,,Sold,SANTA CRUZ
+124,235 Linden St,2.5,4.0,Santa Cruz,"2,443 sqft","Dec 13, 2013","$835,000",36.985996,-122.013504,CA,Single-Family Home,835000,"$902,000",95062,,,,Sold,SANTA CRUZ
+125,507 Bellevue St,1.0,2.0,Santa Cruz,930 sqft,"Dec 13, 2013","$647,500",36.962017,-122.04152,CA,Single-Family Home,647500,"$662,000",95060,,,,Sold,SANTA CRUZ
+126,4141 La Madrona Dr,2.0,3.0,Santa Cruz,"1,840 sqft","Dec 11, 2013","$750,000",37.03066,-122.02394,CA,Single-Family Home,750000,"$851,000",95060,,,,Sold,SANTA CRUZ
+127,3420 Floral Dr,1.0,1.0,Santa Cruz,496 sqft,"Dec 11, 2013","$550,000",36.960728,-121.970795,CA,Single-Family Home,550000,"$440,000",95062,,,,Sold,SANTA CRUZ
+128,1555 Escalona Dr,1.0,2.0,Santa Cruz,903 sqft,"Dec 10, 2013","$645,000",36.9634,-122.048485,CA,Single-Family Home,645000,"$673,000",95060,,,,Sold,SANTA CRUZ
+129,597 30th Ave,2.0,2.0,Santa Cruz,"1,215 sqft","Dec 10, 2013","$755,000",36.960545,-121.97344,CA,Single-Family Home,755000,"$960,000",95062,,,,Sold,SANTA CRUZ
+130,106 Cardiff Ct,2.5,3.0,Santa Cruz,"2,447 sqft","Dec 10, 2013","$777,000",36.975628,-122.05072,CA,Single-Family Home,777000,"$1,005,000",95060,,,,Sold,SANTA CRUZ
+131,1686 Cozy Ct,2.5,3.0,Santa Cruz,"1,953 sqft","Dec 10, 2013","$661,000",36.980167,-121.98276,CA,Single-Family Home,661000,"$893,000",95062,,,,Sold,SANTA CRUZ
+132,210 Mott Ave,1.0,2.0,Santa Cruz,777 sqft,"Dec 6, 2013","$878,000",36.965797,-122.00874,CA,Single-Family Home,878000,"$592,000",95062,,,,Sold,SANTA CRUZ
+133,206 Ravenswood Ct,3.0,3.0,Santa Cruz,"2,972 sqft","Dec 6, 2013","$1,025,000",36.978962,-122.05894,CA,Single-Family Home,1025000,"$1,300,000",95060,,,,Sold,SANTA CRUZ
+134,2532 Parker St,1.0,2.0,Santa Cruz,"1,422 sqft","Dec 6, 2013","$585,000",36.99213,-121.973724,CA,Single-Family Home,585000,"$682,000",95065,,,,Sold,SANTA CRUZ
+135,212 Hubbard St,,6.0,Santa Cruz,"3,177 sqft","Dec 6, 2013","$804,000",36.982098,-122.02001,CA,Multi-Family,804000,"$864,000",95060,,,,Sold,SANTA CRUZ
+136,247 Marnell Ave,2.0,2.0,Santa Cruz,"1,125 sqft","Dec 6, 2013","$689,000",36.984768,-122.00192,CA,Single-Family Home,689000,"$774,000",95062,,,,Sold,SANTA CRUZ
+137,3206 Stockbridge Ln,2.5,2.0,Santa Cruz,"1,212 sqft","Dec 6, 2013","$388,000",36.98995,-121.97147,CA,Condo,388000,"$493,000",95065,,,,Sold,SANTA CRUZ
+138,9700 Empire Grade,3.0,4.0,Santa Cruz,"2,607 sqft","Dec 5, 2013","$780,000",37.087288,-122.13573,CA,Farm/Ranch,780000,"$877,000",95060,,,,Sold,SANTA CRUZ
+139,126 Miles St,1.0,2.0,Santa Cruz,938 sqft,"Dec 5, 2013","$680,000",36.97295,-122.03968,CA,Single-Family Home,680000,"$689,000",95060,,,,Sold,SANTA CRUZ
+140,1010 El Rancho Dr,3.0,2.0,Santa Cruz,"3,068 sqft","Dec 4, 2013","$580,000",37.008816,-122.019844,CA,Farm/Ranch,580000,"$708,000",95060,,,,Sold,SANTA CRUZ
+141,816 N Plymouth St,2.0,3.0,Santa Cruz,"1,469 sqft","Dec 4, 2013","$500,000",36.99492,-122.01803,CA,Single-Family Home,500000,"$640,000",95060,,,,Sold,SANTA CRUZ
+142,122 Campbell St,2.0,3.0,Santa Cruz,"1,161 sqft","Dec 4, 2013","$351,500",36.971386,-122.0196,CA,Single-Family Home,351500,"$598,000",95060,,,,Sold,SANTA CRUZ
+143,124 Pine St,2.0,2.0,Santa Cruz,"1,697 sqft","Dec 3, 2013","$760,000",36.971184,-122.009125,CA,Multi-Family,760000,"$823,000",95062,,,,Sold,SANTA CRUZ
+144,1019 38th Ave,1.0,,Santa Cruz,,"Dec 3, 2013","$450,000",36.966618,-121.96776,CA,Multi-Family,450000,,95062,,,,Sold,SANTA CRUZ
+145,527 Broadway,3.0,3.0,Santa Cruz,"1,693 sqft","Dec 3, 2013","$617,000",36.973995,-122.017395,CA,Multi-Family,617000,"$628,000",95060,,,,Sold,SANTA CRUZ
+146,114 Maple St #1,,8.0,Santa Cruz,"4,800 sqft","Dec 2, 2013","$194,000",36.97035,-122.0258,CA,Multi-Family,194000,,95060,,,,Sold,SANTA CRUZ
+147,2327 17th Ave,2.5,3.0,Santa Cruz,"1,410 sqft","Nov 27, 2013","$449,000",36.983532,-121.98243,CA,Townhouse,449000,"$483,000",95062,,,,Sold,SANTA CRUZ
+148,222 Everson Dr,2.0,2.0,Santa Cruz,"1,076 sqft","Nov 27, 2013","$467,500",36.9656,-122.0295,CA,Condo,467500,"$499,000",95060,,,,Sold,SANTA CRUZ
+149,420 Morrissey Blvd,2.0,2.0,Santa Cruz,"1,215 sqft","Nov 27, 2013","$690,000",36.98611,-122.00426,CA,Single-Family Home,690000,"$684,000",95062,,,,Sold,SANTA CRUZ
+150,1814 Brommer St,2.5,4.0,Santa Cruz,"1,717 sqft","Nov 27, 2013","$470,000",36.970367,-121.98352,CA,Condo,470000,"$495,000",95062,,,,Sold,SANTA CRUZ
+151,1574 El Dorado Ave,2.0,3.0,Santa Cruz,"1,260 sqft","Nov 27, 2013","$439,500",36.975826,-121.98779,CA,Single-Family Home,439500,"$563,000",95062,,,,Sold,SANTA CRUZ
+152,1225 Seabright Ave,1.0,2.0,Santa Cruz,"1,160 sqft","Nov 27, 2013","$604,000",36.97512,-122.00883,CA,Single-Family Home,604000,"$729,000",95062,,,,Sold,SANTA CRUZ
+153,918 Mariana Ct,2.5,3.0,Santa Cruz,"2,065 sqft","Nov 27, 2013","$751,000",36.977642,-121.9902,CA,Single-Family Home,751000,"$863,000",95062,,,,Sold,SANTA CRUZ
+154,141 Catalpa St,2.0,3.0,Santa Cruz,"1,777 sqft","Nov 26, 2013","$730,000",36.982777,-122.00974,CA,Multi-Family,730000,"$723,000",95062,,,,Sold,SANTA CRUZ
+155,950 Graham Hill Rd,2.0,3.0,Santa Cruz,"1,752 sqft","Nov 26, 2013","$717,000",37.006935,-122.03376,CA,Single-Family Home,717000,"$930,000",95060,,,,Sold,SANTA CRUZ
+156,755 14th Ave #616,1.0,1.0,Santa Cruz,656 sqft,"Nov 22, 2013","$155,000",36.966793,-121.99,CA,Single-Family Home,155000,"$295,000",95062,,,,Sold,SANTA CRUZ
+157,141 Liberty St,2.0,3.0,Santa Cruz,"1,260 sqft","Nov 22, 2013","$951,000",36.95558,-122.03119,CA,Single-Family Home,951000,"$901,000",95060,,,,Sold,SANTA CRUZ
+158,93 S Branciforte Ave,2.0,2.0,Santa Cruz,,"Nov 22, 2013","$440,000",36.96962,-122.01286,CA,Condo,440000,"$532,000",95062,,,,Sold,SANTA CRUZ
+159,101 Pasture Rd,2.0,2.0,Santa Cruz,"1,862 sqft","Nov 22, 2013","$800,000",36.98349,-122.04564,CA,Single-Family Home,800000,"$858,000",95060,,,,Sold,SANTA CRUZ
+160,1537 Escalona Dr,2.0,2.0,Santa Cruz,"1,255 sqft","Nov 22, 2013","$777,000",36.96393,-122.0479,CA,Single-Family Home,777000,"$761,000",95060,,,,Sold,SANTA CRUZ
+161,2530 Paul Minnie Ave,1.0,2.0,Santa Cruz,986 sqft,"Nov 21, 2013","$505,000",36.98509,-121.98396,CA,Single-Family Home,505000,"$545,000",95062,,,,Sold,SANTA CRUZ
+162,539 35th Ave,2.0,3.0,Santa Cruz,"1,624 sqft","Nov 21, 2013","$793,000",36.959976,-121.97072,CA,Single-Family Home,793000,"$1,002,000",95062,,,,Sold,SANTA CRUZ
+163,725 Windsor St,2.0,3.0,Santa Cruz,"1,471 sqft","Nov 20, 2013","$720,000",36.974827,-122.007195,CA,Multi-Family,720000,"$913,000",95062,,,,Sold,SANTA CRUZ
+164,3210 Stockbridge Ln,2.5,2.0,Santa Cruz,"1,459 sqft","Nov 20, 2013","$411,000",36.990135,-121.97147,CA,Condo,411000,"$452,000",95065,,,,Sold,SANTA CRUZ
+165,139 Harbor Oaks Cir,,2.0,Santa Cruz,"1,164 sqft","Nov 20, 2013","$361,500",36.976048,-121.99143,CA,Townhouse,361500,"$415,000",95062,,,,Sold,SANTA CRUZ
+166,615 Harbor Vista Ln,2.5,4.0,Santa Cruz,"2,112 sqft","Nov 19, 2013","$750,000",36.977337,-121.994,CA,Single-Family Home,750000,"$899,000",95062,,,,Sold,SANTA CRUZ
+167,3381 Via Gargano,2.5,3.0,Santa Cruz,"2,211 sqft","Nov 18, 2013","$779,000",36.978863,-121.97147,CA,Single-Family Home,779000,"$869,000",95062,,,,Sold,SANTA CRUZ
+168,319 Broadway,2.0,2.0,Santa Cruz,"1,292 sqft","Nov 15, 2013","$385,000",36.972824,-122.02006,CA,Condo,385000,"$440,000",95060,,,,Sold,SANTA CRUZ
+169,159 Harbor Oaks Cir,2.0,3.0,Santa Cruz,"1,056 sqft","Nov 15, 2013","$386,000",36.976604,-121.99117,CA,Townhouse,386000,"$430,000",95062,,,,Sold,SANTA CRUZ
+170,104 Pasatiempo Dr,3.0,3.0,Santa Cruz,"2,063 sqft","Nov 15, 2013","$1,145,000",37.01076,-122.03088,CA,Single-Family Home,1145000,"$1,103,000",95060,,,,Sold,SANTA CRUZ
+171,4710 Portola Dr,1.0,3.0,Santa Cruz,"1,064 sqft","Nov 15, 2013","$742,000",36.9675,-121.95922,CA,Single-Family Home,742000,"$771,000",95062,,,,Sold,SANTA CRUZ
+172,1933 Redwood Dr,1.0,1.0,Santa Cruz,478 sqft,"Nov 15, 2013","$475,000",37.036076,-122.008514,CA,Farm/Ranch,475000,"$499,000",95060,,,,Sold,SANTA CRUZ
+173,101 Mcmillan Ct,2.0,4.0,Santa Cruz,"1,705 sqft","Nov 15, 2013","$775,000",36.96808,-122.05306,CA,Single-Family Home,775000,"$775,000",95060,,,,Sold,SANTA CRUZ
+174,236 Union St,2.5,2.0,Santa Cruz,"1,832 sqft","Nov 14, 2013","$749,000",36.975582,-122.02986,CA,Townhouse,749000,"$608,000",95060,,,,Sold,SANTA CRUZ
+175,115 Southampton Ln #C,2.5,3.0,Santa Cruz,"1,848 sqft","Nov 14, 2013","$782,500",36.970665,-122.00266,CA,Townhouse,782500,"$736,000",95062,,,,Sold,SANTA CRUZ
+176,463 Alta Loma Ln,2.0,2.0,Santa Cruz,"1,210 sqft","Nov 14, 2013","$800,000",36.96751,-122.00036,CA,Single-Family Home,800000,"$845,000",95062,,,,Sold,SANTA CRUZ
+177,220 Atlantic Ave #106,,,Santa Cruz,,"Nov 14, 2013","$430,000",36.96467,-122.006775,CA,Condo,430000,"$354,000",95062,,,,Sold,SANTA CRUZ
+178,686 Meder St,1.0,3.0,Santa Cruz,"1,580 sqft","Nov 14, 2013","$1,075,000",36.975372,-122.064644,CA,Single-Family Home,1075000,"$1,049,000",95060,,,,Sold,SANTA CRUZ
+179,4201 Portola Dr,1.0,2.0,Santa Cruz,779 sqft,"Nov 14, 2013","$719,000",36.964577,-121.96384,CA,Single-Family Home,719000,"$722,000",95062,,,,Sold,SANTA CRUZ
+180,949 Prospect Hts,2.0,3.0,Santa Cruz,"1,379 sqft","Nov 13, 2013","$749,000",36.99103,-121.9925,CA,Single-Family Home,749000,"$732,000",95065,,,,Sold,SANTA CRUZ
+181,238 Alta Ave,1.5,3.0,Santa Cruz,"1,015 sqft","Nov 13, 2013","$800,000",36.95536,-122.039185,CA,Single-Family Home,800000,"$726,000",95060,,,,Sold,SANTA CRUZ
+182,227 Wilkes Cir,1.0,2.0,Santa Cruz,916 sqft,"Nov 13, 2013","$552,000",36.95985,-122.03713,CA,Single-Family Home,552000,"$554,000",95060,,,,Sold,SANTA CRUZ
+183,230 Alhambra Ave,2.5,3.0,Santa Cruz,"1,558 sqft","Nov 13, 2013","$830,000",36.966427,-122.010544,CA,Single-Family Home,830000,"$928,000",95062,,,,Sold,SANTA CRUZ
+184,135 Peach Ter,1.5,2.0,Santa Cruz,"1,054 sqft","Nov 13, 2013","$415,000",36.973198,-122.051636,CA,Townhouse,415000,"$423,000",95060,,,,Sold,SANTA CRUZ
+185,133 Fairland Way,2.0,3.0,Santa Cruz,"1,536 sqft","Nov 12, 2013","$616,500",36.989304,-121.99052,CA,Single-Family Home,616500,"$752,000",95065,,,,Sold,SANTA CRUZ
+186,660 Nobel Dr #2D,2.0,3.0,Santa Cruz,"1,352 sqft","Nov 12, 2013","$492,000",36.973686,-122.05264,CA,Condo,492000,"$570,000",95060,,,,Sold,SANTA CRUZ
+187,119 Carl Ave,1.0,2.0,Santa Cruz,913 sqft,"Nov 8, 2013","$639,000",36.9836,-121.997086,CA,Single-Family Home,639000,"$633,000",95062,,,,Sold,SANTA CRUZ
+188,380 6th Ave,1.0,2.0,Santa Cruz,978 sqft,"Nov 8, 2013","$795,000",36.966213,-121.99901,CA,Single-Family Home,795000,"$724,000",95062,,,,Sold,SANTA CRUZ
+189,225 Park Ave,2.5,3.0,Santa Cruz,"2,220 sqft","Nov 8, 2013","$900,000",36.96857,-122.01181,CA,Single-Family Home,900000,"$935,000",95062,,,,Sold,SANTA CRUZ
+190,210 Clinton St,,,Santa Cruz,"1,432 sqft","Nov 7, 2013","$674,500",36.97141,-122.00769,CA,Condo,674500,"$644,000",95062,,,,Sold,SANTA CRUZ
+191,158 Peach Ter,1.0,2.0,Santa Cruz,"1,194 sqft","Nov 5, 2013","$406,500",36.974667,-122.05248,CA,Townhouse,406500,"$453,000",95060,,,,Sold,SANTA CRUZ
+192,115 Claremont Ter,2.5,3.0,Santa Cruz,"1,536 sqft","Nov 5, 2013","$505,000",36.9873,-122.02472,CA,Townhouse,505000,"$551,000",95060,,,,Sold,SANTA CRUZ
+193,129 Handley St,1.0,3.0,Santa Cruz,"1,034 sqft","Nov 5, 2013","$757,500",36.956738,-122.04436,CA,Single-Family Home,757500,"$760,000",95060,,,,Sold,SANTA CRUZ
+194,1045 Nobel Dr,2.5,3.0,Santa Cruz,"1,214 sqft","Nov 5, 2013","$605,000",36.975513,-122.055885,CA,Single-Family Home,605000,"$705,000",95060,,,,Sold,SANTA CRUZ
+195,235 Old Ranch Rd,3.0,6.0,Santa Cruz,"3,127 sqft","Nov 5, 2013","$675,000",37.006813,-122.01135,CA,Farm/Ranch,675000,"$744,000",95060,,,,Sold,SANTA CRUZ
+196,207 16th Ave,3.0,3.0,Santa Cruz,"2,616 sqft","Nov 4, 2013","$1,895,000",36.96134,-121.9909,CA,Single-Family Home,1895000,"$1,553,000",95062,,,,Sold,SANTA CRUZ
+197,248 Goss Ave,1.0,3.0,Santa Cruz,"1,020 sqft","Nov 1, 2013","$545,000",36.98932,-122.00819,CA,Single-Family Home,545000,"$620,000",95065,,,,Sold,SANTA CRUZ
+198,1155 Darlene Dr,2.0,3.0,Santa Cruz,"1,794 sqft","Nov 1, 2013","$392,000",36.969353,-121.97819,CA,Single-Family Home,392000,"$733,000",95062,,,,Sold,SANTA CRUZ
+199,2014 Bobwhite Ln,1.5,2.0,Santa Cruz,"1,051 sqft","Nov 1, 2013","$425,000",36.99102,-121.978134,CA,Townhouse,425000,"$443,000",95065,,,,Sold,SANTA CRUZ
+200,160 Belvedere Ter,3.0,7.0,Santa Cruz,"4,139 sqft","Nov 1, 2013","$830,000",36.98175,-122.01619,CA,Multi-Family,830000,"$1,091,000",95062,,,,Sold,SANTA CRUZ
+201,938 Bay St,1.0,2.0,Santa Cruz,"1,276 sqft","Nov 1, 2013","$611,500",36.964478,-122.03665,CA,Single-Family Home,611500,"$731,000",95060,,,,Sold,SANTA CRUZ
+202,910 Modesto Ave,3.0,4.0,Santa Cruz,"2,581 sqft","Oct 31, 2013","$1,100,000",36.952454,-122.05373,CA,Single-Family Home,1100000,"$1,203,000",95060,,,,Sold,SANTA CRUZ
+203,1804 15th Ave,2.0,4.0,Santa Cruz,"1,524 sqft","Oct 31, 2013","$530,000",36.977367,-121.98461,CA,Single-Family Home,530000,"$637,000",95062,,,,Sold,SANTA CRUZ
+204,221 Roberts St,2.0,2.0,Santa Cruz,"1,860 sqft","Oct 31, 2013","$699,000",36.973385,-122.02084,CA,Single-Family Home,699000,"$845,000",95060,,,,Sold,SANTA CRUZ
+205,340 Moore St,2.5,3.0,Santa Cruz,"2,087 sqft","Oct 31, 2013","$950,000",36.976498,-122.04708,CA,Single-Family Home,950000,"$1,010,000",95060,,,,Sold,SANTA CRUZ
+206,411 Olaughlin Rd,2.5,3.0,Santa Cruz,"2,390 sqft","Oct 31, 2013","$764,000",37.032112,-121.9989,CA,Farm/Ranch,764000,"$661,000",95065,,,,Sold,SANTA CRUZ
+207,135 21st Ave,2.0,2.0,Santa Cruz,"1,203 sqft","Oct 31, 2013","$1,200,000",36.960846,-121.98554,CA,Single-Family Home,1200000,"$780,000",95062,,,,Sold,SANTA CRUZ
+208,168 Surfside Ave,1.0,2.0,Santa Cruz,836 sqft,"Oct 31, 2013","$555,000",36.958927,-122.04116,CA,Single-Family Home,555000,"$564,000",95060,,,,Sold,SANTA CRUZ
+209,2222 El Rancho Dr,3.0,4.0,Santa Cruz,"2,816 sqft","Oct 30, 2013","$575,000",37.02417,-122.02466,CA,Farm/Ranch,575000,"$745,000",95060,,,,Sold,SANTA CRUZ
+210,234 Market St,1.0,1.0,Santa Cruz,691 sqft,"Oct 30, 2013","$395,000",36.98314,-122.01827,CA,Single-Family Home,395000,"$521,000",95060,,,,Sold,SANTA CRUZ
+211,109 La Canada Way,2.0,3.0,Santa Cruz,"1,914 sqft","Oct 29, 2013","$720,000",37.017265,-122.03493,CA,Single-Family Home,720000,"$881,000",95060,,,,Sold,SANTA CRUZ
+212,315 Park Way,1.0,2.0,Santa Cruz,900 sqft,"Oct 29, 2013","$650,000",36.983578,-121.998314,CA,Single-Family Home,650000,"$666,000",95062,,,,Sold,SANTA CRUZ
+213,128 Harbor Oaks Cir,2.0,3.0,Santa Cruz,"1,218 sqft","Oct 29, 2013","$375,000",36.9763,-121.99186,CA,Townhouse,375000,"$428,000",95062,,,,Sold,SANTA CRUZ
+214,1959 Encina Dr,3.0,4.0,Santa Cruz,"2,191 sqft","Oct 29, 2013","$650,000",36.97843,-121.97715,CA,Single-Family Home,650000,"$830,000",95062,,,,Sold,SANTA CRUZ
+215,157 Lee St,4.0,8.0,Santa Cruz,"3,072 sqft","Oct 28, 2013","$814,000",36.98972,-122.01798,CA,Multi-Family,814000,,95060,,,,Sold,SANTA CRUZ
+216,209 Kaye St,,9.0,Santa Cruz,"2,197 sqft","Oct 28, 2013","$510,000",36.96668,-122.01661,CA,Multi-Family,510000,,95060,,,,Sold,SANTA CRUZ
+217,108 Limestone Ln,2.0,3.0,Santa Cruz,"3,289 sqft","Oct 28, 2013","$1,090,000",36.980526,-122.046196,CA,Single-Family Home,1090000,"$1,246,000",95060,,,,Sold,SANTA CRUZ
+218,102 Pasatiempo Dr,2.5,3.0,Santa Cruz,"2,018 sqft","Oct 28, 2013","$950,000",37.01044,-122.030785,CA,Single-Family Home,950000,"$970,000",95060,,,,Sold,SANTA CRUZ
+219,300 Palisades Ave,1.0,1.0,Santa Cruz,460 sqft,"Oct 25, 2013","$537,000",36.957813,-121.97462,CA,Single-Family Home,537000,"$579,000",95062,,,,Sold,SANTA CRUZ
+220,129 Felker St,4.0,8.0,Santa Cruz,"3,286 sqft","Oct 25, 2013","$765,000",36.984768,-122.02513,CA,Multi-Family,765000,,95060,,,,Sold,SANTA CRUZ
+221,319 Stanford Ave,1.0,1.0,Santa Cruz,778 sqft,"Oct 25, 2013","$566,000",36.983967,-122.0121,CA,Single-Family Home,566000,"$578,000",95062,,,,Sold,SANTA CRUZ
+222,1500 Dougmar Dr,2.0,4.0,Santa Cruz,"1,557 sqft","Oct 25, 2013","$595,000",36.972576,-121.98561,CA,Single-Family Home,595000,"$664,000",95062,,,,Sold,SANTA CRUZ
+223,41 Grandview St #502,1.0,1.0,Santa Cruz,692 sqft,"Oct 24, 2013","$275,000",36.960773,-122.05122,CA,Condo,275000,"$308,000",95060,,,,Sold,SANTA CRUZ
+224,101 Riverview St,1.0,1.0,Santa Cruz,876 sqft,"Oct 24, 2013","$556,500",36.967937,-122.01219,CA,Single-Family Home,556500,"$592,000",95062,,,,Sold,SANTA CRUZ
+225,125 Southampton Ln #A,2.0,2.0,Santa Cruz,"1,375 sqft","Oct 24, 2013","$535,000",36.970776,-122.00317,CA,Townhouse,535000,"$597,000",95062,,,,Sold,SANTA CRUZ
+226,419 Southview Ter,2.5,3.0,Santa Cruz,"1,548 sqft","Oct 23, 2013","$610,000",36.96234,-122.05902,CA,Townhouse,610000,"$656,000",95060,,,,Sold,SANTA CRUZ
+227,555 Henry Cowell Dr,4.5,3.0,Santa Cruz,"4,301 sqft","Oct 23, 2013","$1,510,000",37.012466,-122.03831,CA,Single-Family Home,1510000,"$1,457,000",95060,,,,Sold,SANTA CRUZ
+228,506 Poplar Ave,1.0,2.0,Santa Cruz,976 sqft,"Oct 22, 2013","$615,000",36.98518,-122.0084,CA,Single-Family Home,615000,"$614,000",95062,,,,Sold,SANTA CRUZ
+229,960 W Cliff Dr,1.0,3.0,Santa Cruz,"2,898 sqft","Oct 22, 2013","$1,999,000",36.95287,-122.03581,CA,Single-Family Home,1999000,"$1,331,000",95060,,,,Sold,SANTA CRUZ
+230,107 Mountain View Ave,1.0,1.0,Santa Cruz,662 sqft,"Oct 22, 2013","$600,000",36.967323,-122.010284,CA,Single-Family Home,600000,"$580,000",95062,,,,Sold,SANTA CRUZ
+231,721 Modesto Ave,1.0,4.0,Santa Cruz,"1,506 sqft","Oct 22, 2013","$739,000",36.95135,-122.051506,CA,Single-Family Home,739000,"$746,000",95060,,,,Sold,SANTA CRUZ
+232,708 Gerard Ct,2.5,3.0,Santa Cruz,"1,285 sqft","Oct 22, 2013","$468,000",36.975994,-121.99293,CA,Townhouse,468000,"$476,000",95062,,,,Sold,SANTA CRUZ
+233,111 Cypress Ave,2.0,2.0,Santa Cruz,"1,294 sqft","Oct 21, 2013","$850,000",36.964897,-122.00848,CA,Single-Family Home,850000,"$969,000",95062,,,,Sold,SANTA CRUZ
+234,419 Dufour St,1.0,2.0,Santa Cruz,"1,008 sqft","Oct 18, 2013","$570,000",36.961845,-122.03938,CA,Single-Family Home,570000,"$684,000",95060,,,,Sold,SANTA CRUZ
+235,225 Esmeralda Dr,2.0,3.0,Santa Cruz,"2,203 sqft","Oct 18, 2013","$802,500",36.998207,-122.01239,CA,Single-Family Home,802500,"$849,000",95060,,,,Sold,SANTA CRUZ
+236,11900 Empire Grade,,,Santa Cruz,"1,140 sqft","Oct 18, 2013","$530,000",37.114174,-122.15251,CA,Farm/Ranch,530000,"$588,000",95060,,,,Sold,SANTA CRUZ
+237,155 Azalea Ln,2.0,3.0,Santa Cruz,"1,988 sqft","Oct 18, 2013","$764,500",37.042458,-122.10995,CA,Farm/Ranch,764500,"$747,000",95060,,,,Sold,SANTA CRUZ
+238,1225 N Branciforte Ave,1.0,2.0,Santa Cruz,855 sqft,"Oct 18, 2013","$497,500",36.98775,-122.01155,CA,Single-Family Home,497500,"$636,000",95062,,,,Sold,SANTA CRUZ
+239,3051 Pleasure Point Dr,2.0,4.0,Santa Cruz,"1,871 sqft","Oct 17, 2013","$615,000",36.95549,-121.9725,CA,Single-Family Home,615000,"$1,016,000",95062,,,,Sold,SANTA CRUZ
+240,1014 Sumner St,2.0,3.0,Santa Cruz,"1,638 sqft","Oct 16, 2013","$675,000",36.978645,-122.00823,CA,Single-Family Home,675000,"$866,000",95062,,,,Sold,SANTA CRUZ
+241,361 8th Ave,2.0,3.0,Santa Cruz,"1,336 sqft","Oct 16, 2013","$810,000",36.966022,-121.99766,CA,Single-Family Home,810000,"$807,000",95062,,,,Sold,SANTA CRUZ
+242,507 Laguna St,1.0,2.0,Santa Cruz,"1,084 sqft","Oct 16, 2013","$290,000",36.959087,-122.02954,CA,Single-Family Home,290000,"$748,000",95060,,,,Sold,SANTA CRUZ
+243,541 37th Ave,2.0,1.0,Santa Cruz,624 sqft,"Oct 16, 2013","$605,000",36.960056,-121.968895,CA,Single-Family Home,605000,"$603,000",95062,,,,Sold,SANTA CRUZ
+244,113 Scenic St,2.0,3.0,Santa Cruz,"1,686 sqft","Oct 16, 2013","$766,000",36.96919,-122.0486,CA,Single-Family Home,766000,"$833,000",95060,,,,Sold,SANTA CRUZ
+245,187 Frederick St,1.0,2.0,Santa Cruz,830 sqft,"Oct 16, 2013","$539,500",36.972122,-122.00399,CA,Townhouse,539500,"$449,000",95062,,,,Sold,SANTA CRUZ
+246,1700 Malcolm Ln,1.0,2.0,Santa Cruz,"1,145 sqft","Oct 16, 2013","$435,000",36.97775,-121.982185,CA,Single-Family Home,435000,"$545,000",95062,,,,Sold,SANTA CRUZ
+247,254 Cardiff Pl,2.5,3.0,Santa Cruz,"1,461 sqft","Oct 16, 2013","$635,000",36.977085,-122.050446,CA,Townhouse,635000,"$674,000",95060,,,,Sold,SANTA CRUZ
+248,1428 7th Ave,1.5,2.0,Santa Cruz,948 sqft,"Oct 16, 2013","$310,000",36.976902,-121.9929,CA,Townhouse,310000,"$327,000",95062,,,,Sold,SANTA CRUZ
+249,736 37th Ave,2.0,3.0,Santa Cruz,"1,561 sqft","Oct 15, 2013","$840,000",36.96276,-121.96818,CA,Single-Family Home,840000,"$1,090,000",95062,,,,Sold,SANTA CRUZ
+250,130 Echo St,2.5,3.0,Santa Cruz,"1,648 sqft","Oct 15, 2013","$707,000",36.963814,-122.05613,CA,Single-Family Home,707000,"$780,000",95060,,,,Sold,SANTA CRUZ
+251,3350 Samuel Pl,2.0,4.0,Santa Cruz,"1,470 sqft","Oct 11, 2013","$636,500",36.97497,-121.971985,CA,Single-Family Home,636500,"$699,000",95062,,,,Sold,SANTA CRUZ
+252,1226 Broadway,1.0,2.0,Santa Cruz,"1,044 sqft","Oct 11, 2013","$900,000",36.974957,-122.00928,CA,Multi-Family,900000,"$899,000",95062,,,,Sold,SANTA CRUZ
+253,216 Baldwin St,1.0,2.0,Santa Cruz,"1,053 sqft","Oct 11, 2013","$665,000",36.966625,-122.0453,CA,Single-Family Home,665000,"$733,000",95060,,,,Sold,SANTA CRUZ
+254,131 Nanna Ct,3.5,3.0,Santa Cruz,"4,199 sqft","Oct 11, 2013","$1,025,000",36.996555,-122.01526,CA,Single-Family Home,1025000,"$1,772,000",95060,,,,Sold,SANTA CRUZ
+255,158 Doyle St,2.5,3.0,Santa Cruz,,"Oct 11, 2013","$629,000",36.97997,-122.01393,CA,Townhouse,629000,"$636,000",95062,,,,Sold,SANTA CRUZ
+256,211 Harrison Ave,3.0,3.0,Santa Cruz,"1,755 sqft","Oct 11, 2013","$1,340,000",36.9834,-122.007576,CA,Single-Family Home,1340000,"$1,006,000",95062,,,,Sold,SANTA CRUZ
+257,132 Prospect Ct,1.0,3.0,Santa Cruz,"1,852 sqft","Oct 11, 2013","$768,000",36.991997,-121.9936,CA,Single-Family Home,768000,"$773,000",95065,,,,Sold,SANTA CRUZ
+258,224 Naglee Ave,2.0,2.0,Santa Cruz,"1,014 sqft","Oct 10, 2013","$651,000",36.95772,-122.0403,CA,Single-Family Home,651000,"$643,000",95060,,,,Sold,SANTA CRUZ
+259,325 30th Ave,1.0,2.0,Santa Cruz,784 sqft,"Oct 10, 2013","$675,000",36.958122,-121.973434,CA,Single-Family Home,675000,"$665,000",95062,,,,Sold,SANTA CRUZ
+260,232 Swanton Blvd,2.5,3.0,Santa Cruz,"2,284 sqft","Oct 10, 2013","$1,530,000",36.95071,-122.054794,CA,Single-Family Home,1530000,"$1,341,000",95060,,,,Sold,SANTA CRUZ
+261,266 Meadow Rd,2.0,3.0,Santa Cruz,"1,565 sqft","Oct 8, 2013","$910,000",36.98314,-122.04052,CA,Single-Family Home,910000,"$807,000",95060,,,,Sold,SANTA CRUZ
+262,1011 Seabright Ave,2.0,3.0,Santa Cruz,"1,097 sqft","Oct 8, 2013","$899,000",36.972847,-122.008354,CA,Multi-Family,899000,"$869,000",95062,,,,Sold,SANTA CRUZ
+263,132 Swift St,2.0,3.0,Santa Cruz,"1,718 sqft","Oct 8, 2013","$879,000",36.951233,-122.04743,CA,Single-Family Home,879000,"$819,000",95060,,,,Sold,SANTA CRUZ
+264,334 Pacheco Ave,2.0,3.0,Santa Cruz,"2,162 sqft","Oct 8, 2013","$1,095,000",36.985004,-122.003525,CA,Single-Family Home,1095000,"$1,055,000",95062,,,,Sold,SANTA CRUZ
+265,4128 Nova Dr,3.0,4.0,Santa Cruz,"1,576 sqft","Oct 8, 2013","$700,000",36.96691,-121.96437,CA,Multi-Family,700000,"$727,000",95062,,,,Sold,SANTA CRUZ
+266,220 Delaveaga Park Dr,3.0,3.0,Santa Cruz,"2,476 sqft","Oct 8, 2013","$765,000",36.991173,-122.00578,CA,Single-Family Home,765000,"$920,000",95065,,,,Sold,SANTA CRUZ
+267,2059 Jose Ave,1.5,3.0,Santa Cruz,"1,338 sqft","Oct 7, 2013","$546,500",36.980648,-121.98888,CA,Single-Family Home,546500,"$498,000",95062,,,,Sold,SANTA CRUZ
+268,117 Gault St #D,2.0,2.0,Santa Cruz,"1,125 sqft","Oct 4, 2013","$470,000",36.97931,-122.00924,CA,Townhouse,470000,"$557,000",95062,,,,Sold,SANTA CRUZ
+269,104 Claremont Ter,2.5,2.0,Santa Cruz,"1,478 sqft","Oct 4, 2013","$419,000",36.987015,-122.024796,CA,Townhouse,419000,"$508,000",95060,,,,Sold,SANTA CRUZ
+270,30 Pasatiempo Dr,5.0,4.0,Santa Cruz,"6,441 sqft","Oct 4, 2013","$3,500,000",37.00438,-122.02776,CA,Farm/Ranch,3500000,"$1,542,000",95060,,,,Sold,SANTA CRUZ
+271,1444 N Branciforte Ave,3.0,5.0,Santa Cruz,"2,688 sqft","Oct 4, 2013","$722,000",36.99092,-122.00944,CA,Single-Family Home,722000,"$892,000",95065,,,,Sold,SANTA CRUZ
+272,508 Buena Vista Ave,1.0,2.0,Santa Cruz,"1,118 sqft","Oct 4, 2013","$635,000",36.970158,-122.01098,CA,Single-Family Home,635000,"$751,000",95062,,,,Sold,SANTA CRUZ
+273,3107 Erin Ln,,,Santa Cruz,"1,249 sqft","Oct 3, 2013","$420,000",36.989014,-121.971466,CA,Condo,420000,"$496,000",95065,,,,Sold,SANTA CRUZ
+274,723 Morrissey Blvd,2.0,2.0,Santa Cruz,906 sqft,"Oct 2, 2013","$545,000",36.98888,-121.999985,CA,Single-Family Home,545000,"$602,000",95065,,,,Sold,SANTA CRUZ
+275,53 Southwest Dr,2.5,3.0,Santa Cruz,"1,885 sqft","Oct 2, 2013","$759,000",37.06005,-122.14629,CA,Single-Family Home,759000,"$901,000",95060,,,,Sold,SANTA CRUZ
+276,1460 7th Ave,1.5,3.0,Santa Cruz,"1,110 sqft","Oct 1, 2013","$24,000",36.97735,-121.99263,CA,Townhouse,24000,"$358,000",95062,,,,Sold,SANTA CRUZ
+277,22754 E Cliff Dr,2.5,3.0,Santa Cruz,"2,100 sqft","Oct 1, 2013","$1,250,000",36.957035,-121.97897,CA,Condo,1250000,"$1,111,000",95062,,,,Sold,SANTA CRUZ
+278,1005 Cayuga St,2.0,8.0,Santa Cruz,"3,120 sqft","Oct 1, 2013","$950,000",36.977398,-122.01163,CA,Multi-Family,950000,,95062,,,,Sold,SANTA CRUZ
+279,134 Palo Verde Ter,1.5,2.0,Santa Cruz,990 sqft,"Oct 1, 2013","$375,000",36.972366,-122.04903,CA,Townhouse,375000,"$401,000",95060,,,,Sold,SANTA CRUZ
+280,2485 Smith Grade,,,Santa Cruz,"1,671 sqft","Oct 1, 2013","$775,000",37.01867,-122.12629,CA,Farm/Ranch,775000,"$771,000",95060,,,,Sold,SANTA CRUZ
+281,2965 Pleasure Point Dr,3.0,4.0,Santa Cruz,"2,426 sqft","Oct 1, 2013","$1,325,000",36.955364,-121.97338,CA,Multi-Family,1325000,"$1,193,000",95062,,,,Sold,SANTA CRUZ
+282,317 Broadway,2.5,4.0,Santa Cruz,"2,398 sqft","Sep 30, 2013","$520,000",36.9727,-122.02017,CA,Single-Family Home,520000,"$858,000",95060,,,,Sold,SANTA CRUZ
+283,2885 Capitola Rd #1,4.0,10.0,Santa Cruz,"3,284 sqft","Sep 30, 2013","$897,000",36.974056,-121.97395,CA,Multi-Family,897000,,95062,,,,Sold,SANTA CRUZ
+284,10 Bella Rose Ter,2.5,3.0,Santa Cruz,"2,232 sqft","Sep 30, 2013","$1,200,000",36.99217,-121.9987,CA,Single-Family Home,1200000,"$1,257,000",95065,,,,Sold,SANTA CRUZ
+285,150 26th Ave,3.0,4.0,Santa Cruz,"3,156 sqft","Sep 30, 2013","$1,600,000",36.958183,-121.98085,CA,Single-Family Home,1600000,"$1,022,000",95062,,,,Sold,SANTA CRUZ
+286,622 Walnut Ave,2.0,3.0,Santa Cruz,"2,061 sqft","Sep 30, 2013","$865,000",36.972862,-122.03626,CA,Single-Family Home,865000,"$1,004,000",95060,,,,Sold,SANTA CRUZ
+287,3211 Roland Dr,2.0,4.0,Santa Cruz,"2,149 sqft","Sep 30, 2013","$985,000",36.966606,-121.9725,CA,Single-Family Home,985000,"$1,294,000",95062,,,,Sold,SANTA CRUZ
+288,1443 Chanticleer Ave,2.0,4.0,Santa Cruz,"1,442 sqft","Sep 30, 2013","$585,000",36.97285,-121.98112,CA,Single-Family Home,585000,"$596,000",95062,,,,Sold,SANTA CRUZ
+289,216 Otis St,1.0,3.0,Santa Cruz,"1,487 sqft","Sep 27, 2013","$54,545",36.971737,-122.0366,CA,Single-Family Home,54545,"$833,000",95060,,,,Sold,SANTA CRUZ
+290,231 Evergreen St,2.0,3.0,Santa Cruz,"1,689 sqft","Sep 27, 2013","$588,000",36.980152,-122.03355,CA,Single-Family Home,588000,"$922,000",95060,,,,Sold,SANTA CRUZ
+291,660 Nobel Dr #2C,2.0,3.0,Santa Cruz,"1,352 sqft","Sep 27, 2013","$475,000",36.97364,-122.05273,CA,Condo,475000,"$554,000",95060,,,,Sold,SANTA CRUZ
+292,110 Pine St,5.0,8.0,Santa Cruz,"3,991 sqft","Sep 27, 2013","$341,000",36.971107,-122.00855,CA,Multi-Family,341000,,95062,,,,Sold,SANTA CRUZ
+293,308 River St #B8,1.0,1.0,Santa Cruz,710 sqft,"Sep 26, 2013","$169,000",36.98091,-122.02803,CA,Single-Family Home,169000,"$335,000",95060,,,,Sold,SANTA CRUZ
+294,327 Main St #A,2.0,3.0,Santa Cruz,"2,237 sqft","Sep 26, 2013","$817,000",36.965775,-122.023705,CA,Condo,817000,"$721,000",95060,,,,Sold,SANTA CRUZ
+295,237 Bluebonnet Ln,,,Santa Cruz,,"Sep 26, 2013","$585,500",37.049793,-122.02707,CA,Single-Family Home,585500,,95066,,,,Sold,SANTA CRUZ
+296,1319 Seabright Ave,2.0,3.0,Santa Cruz,"1,208 sqft","Sep 26, 2013","$450,000",36.97589,-122.00933,CA,Townhouse,450000,"$591,000",95062,,,,Sold,SANTA CRUZ
+297,225 Alhambra Ave #10,1.0,2.0,Santa Cruz,"1,060 sqft","Sep 25, 2013","$450,000",36.966103,-122.010994,CA,Condo,450000,"$467,000",95062,,,,Sold,SANTA CRUZ
+298,1481 Jose Ave,3.0,4.0,Santa Cruz,"2,302 sqft","Sep 25, 2013","$699,000",36.977352,-121.99028,CA,Single-Family Home,699000,"$905,000",95062,,,,Sold,SANTA CRUZ
+299,740 24th Ave,1.0,2.0,Santa Cruz,720 sqft,"Sep 25, 2013","$480,000",36.964714,-121.9793,CA,Single-Family Home,480000,"$656,000",95062,,,,Sold,SANTA CRUZ
+300,6037 Thurber Ln,2.0,3.0,Santa Cruz,"1,268 sqft","Sep 25, 2013","$676,000",37.005203,-121.97633,CA,Single-Family Home,676000,"$736,000",95065,,,,Sold,SANTA CRUZ
+301,241 32nd Ave,1.5,2.0,Santa Cruz,918 sqft,"Sep 24, 2013","$739,000",36.957577,-121.97254,CA,Single-Family Home,739000,"$684,000",95062,,,,Sold,SANTA CRUZ
+302,308 River St #C20,1.0,2.0,Santa Cruz,649 sqft,"Sep 24, 2013","$315,000",36.980988,-122.02758,CA,Condo,315000,"$322,000",95060,,,,Sold,SANTA CRUZ
+303,933 Seaside St,1.0,2.0,Santa Cruz,"1,272 sqft","Sep 24, 2013","$615,000",36.966995,-122.03748,CA,Single-Family Home,615000,"$727,000",95060,,,,Sold,SANTA CRUZ
+304,39 Mountain View Ct,1.5,2.0,Santa Cruz,"1,052 sqft","Sep 23, 2013","$649,000",36.969616,-122.009056,CA,Single-Family Home,649000,"$685,000",95062,,,,Sold,SANTA CRUZ
+305,200 Kenny Ct,2.5,4.0,Santa Cruz,"2,272 sqft","Sep 23, 2013","$750,000",37.002777,-121.972176,CA,Single-Family Home,750000,"$813,000",95065,,,,Sold,SANTA CRUZ
+306,782 Volz Ln,2.0,3.0,Santa Cruz,"1,274 sqft","Sep 20, 2013","$670,000",36.974113,-121.99239,CA,Single-Family Home,670000,"$715,000",95062,,,,Sold,SANTA CRUZ
+307,3725 Roland Dr,1.0,2.0,Santa Cruz,816 sqft,"Sep 20, 2013","$594,000",36.96655,-121.96817,CA,Single-Family Home,594000,"$678,000",95062,,,,Sold,SANTA CRUZ
+308,3418 Kenilworth Ln,2.5,2.0,Santa Cruz,"1,241 sqft","Sep 20, 2013","$435,000",36.991817,-121.9718,CA,Condo,435000,"$478,000",95065,,,,Sold,SANTA CRUZ
+309,830 Pine Flat Rd,2.5,4.0,Santa Cruz,"2,542 sqft","Sep 19, 2013","$735,000",37.052654,-122.15336,CA,Farm/Ranch,735000,"$877,000",95060,,,,Sold,SANTA CRUZ
+310,2614 Mattison Ln,2.0,3.0,Santa Cruz,"1,660 sqft","Sep 19, 2013","$465,000",36.98161,-121.974106,CA,Multi-Family,465000,"$587,000",95062,,,,Sold,SANTA CRUZ
+311,1552 Merrill St #7,2.0,2.0,Santa Cruz,"1,124 sqft","Sep 19, 2013","$380,000",36.96498,-121.989,CA,Townhouse,380000,"$463,000",95062,,,,Sold,SANTA CRUZ
+312,319 Younglove Ave,2.0,3.0,Santa Cruz,"1,178 sqft","Sep 19, 2013","$770,000",36.96157,-122.04253,CA,Single-Family Home,770000,"$736,000",95060,,,,Sold,SANTA CRUZ
+313,1122 Western Dr,2.0,2.0,Santa Cruz,"1,568 sqft","Sep 18, 2013","$452,000",36.977123,-122.05786,CA,Single-Family Home,452000,"$741,000",95060,,,,Sold,SANTA CRUZ
+314,214 Morrissey Blvd,2.0,3.0,Santa Cruz,"1,471 sqft","Sep 18, 2013","$622,500",36.983543,-122.00547,CA,Multi-Family,622500,"$587,000",95062,,,,Sold,SANTA CRUZ
+315,410 S Branciforte Ave,2.0,4.0,Santa Cruz,"1,648 sqft","Sep 18, 2013","$765,000",36.97392,-122.01413,CA,Multi-Family,765000,"$767,000",95062,,,,Sold,SANTA CRUZ
+316,910 Hanover St,1.0,3.0,Santa Cruz,"1,166 sqft","Sep 18, 2013","$580,000",36.97885,-122.003525,CA,Single-Family Home,580000,"$715,000",95062,,,,Sold,SANTA CRUZ
+317,321 Park Way,2.0,3.0,Santa Cruz,"1,720 sqft","Sep 17, 2013","$715,000",36.983765,-121.99839,CA,Single-Family Home,715000,"$879,000",95062,,,,Sold,SANTA CRUZ
+318,324 Main St #1,,8.0,Santa Cruz,"4,655 sqft","Sep 17, 2013","$254,000",36.965755,-122.02287,CA,Multi-Family,254000,,95060,,,,Sold,SANTA CRUZ
+319,233 Villa Mar Vis,3.0,3.0,Santa Cruz,"1,350 sqft","Sep 16, 2013","$633,000",36.965412,-122.02377,CA,Townhouse,633000,"$668,000",95060,,,,Sold,SANTA CRUZ
+320,916 Adelaida Ct,3.0,4.0,Santa Cruz,"2,211 sqft","Sep 16, 2013","$676,000",36.976738,-121.99075,CA,Single-Family Home,676000,"$807,000",95062,,,,Sold,SANTA CRUZ
+321,215 Roosevelt Ter,2.5,2.0,Santa Cruz,"1,114 sqft","Sep 13, 2013","$555,000",36.97292,-122.016106,CA,Single-Family Home,555000,"$616,000",95060,,,,Sold,SANTA CRUZ
+322,7660 Empire Grade,2.0,3.0,Santa Cruz,"2,282 sqft","Sep 13, 2013","$656,000",37.060493,-122.12075,CA,Farm/Ranch,656000,"$828,000",95060,,,,Sold,SANTA CRUZ
+323,616 California St,2.0,3.0,Santa Cruz,"1,316 sqft","Sep 13, 2013","$650,000",36.969395,-122.0345,CA,Single-Family Home,650000,"$752,000",95060,,,,Sold,SANTA CRUZ
+324,305 8th Ave,1.0,2.0,Santa Cruz,"1,017 sqft","Sep 13, 2013","$750,000",36.965366,-121.99775,CA,Multi-Family,750000,"$634,000",95062,,,,Sold,SANTA CRUZ
+325,180 Dakota Ave #61,,,Santa Cruz,850 sqft,"Sep 13, 2013","$252,000",36.976048,-122.02055,CA,Condo,252000,"$343,000",95060,,,,Sold,SANTA CRUZ
+326,101 Frederick St #B,2.5,3.0,Santa Cruz,"1,915 sqft","Sep 13, 2013","$725,000",36.96999,-122.00373,CA,Townhouse,725000,"$773,000",95062,,,,Sold,SANTA CRUZ
+327,126 Clinton St,1.0,1.0,Santa Cruz,614 sqft,"Sep 13, 2013","$547,000",36.97137,-122.008804,CA,Single-Family Home,547000,"$520,000",95062,,,,Sold,SANTA CRUZ
+328,156 Stoney Creek Rd,2.5,3.0,Santa Cruz,"1,675 sqft","Sep 13, 2013","$524,000",36.98778,-122.01432,CA,Townhouse,524000,"$602,000",95060,,,,Sold,SANTA CRUZ
+329,226 Grant St,1.0,3.0,Santa Cruz,"1,375 sqft","Sep 13, 2013","$550,000",36.98522,-122.02004,CA,Single-Family Home,550000,"$645,000",95060,,,,Sold,SANTA CRUZ
+330,165 Hagemann Ave,3.0,3.0,Santa Cruz,"1,370 sqft","Sep 13, 2013","$699,000",36.980045,-122.00186,CA,Single-Family Home,699000,"$872,000",95062,,,,Sold,SANTA CRUZ
+331,523 Bellevue St,1.0,2.0,Santa Cruz,"1,196 sqft","Sep 13, 2013","$812,500",36.96233,-122.04208,CA,Single-Family Home,812500,"$782,000",95060,,,,Sold,SANTA CRUZ
+332,414 Rigg St,2.0,2.0,Santa Cruz,"1,572 sqft","Sep 13, 2013","$810,000",36.97169,-122.038635,CA,Multi-Family,810000,,95060,,,,Sold,SANTA CRUZ
+333,140 Peach Ter,1.5,2.0,Santa Cruz,"1,054 sqft","Sep 13, 2013","$382,000",36.9743,-122.0516,CA,Townhouse,382000,"$444,000",95060,,,,Sold,SANTA CRUZ
+334,126 Anchorage Ave,1.0,1.0,Santa Cruz,608 sqft,"Sep 12, 2013","$671,000",36.95622,-121.973785,CA,Multi-Family,671000,"$565,000",95062,,,,Sold,SANTA CRUZ
+335,407 Seabright Ave,1.0,2.0,Santa Cruz,"1,131 sqft","Sep 12, 2013","$690,000",36.966434,-122.008,CA,Single-Family Home,690000,"$678,000",95062,,,,Sold,SANTA CRUZ
+336,2312 7th Ave,1.0,1.0,Santa Cruz,574 sqft,"Sep 12, 2013","$150,000",36.982925,-121.989,CA,Single-Family Home,150000,"$247,000",95062,,,,Sold,SANTA CRUZ
+337,435 Lago Ln,3.5,4.0,Santa Cruz,"3,183 sqft","Sep 12, 2013","$1,575,000",36.967297,-122.00091,CA,Single-Family Home,1575000,"$1,947,000",95062,,,,Sold,SANTA CRUZ
+338,504 King St,1.0,2.0,Santa Cruz,"1,264 sqft","Sep 11, 2013","$685,000",36.97413,-122.03744,CA,Single-Family Home,685000,"$733,000",95060,,,,Sold,SANTA CRUZ
+339,95 Frederick St #A,2.5,3.0,Santa Cruz,"2,499 sqft","Sep 11, 2013","$900,000",36.96943,-122.00375,CA,Townhouse,900000,"$826,000",95062,,,,Sold,SANTA CRUZ
+340,535 Southview Ter,2.5,2.0,Santa Cruz,"1,320 sqft","Sep 11, 2013","$555,000",36.96279,-122.05881,CA,Townhouse,555000,"$563,000",95060,,,,Sold,SANTA CRUZ
+341,703 Lighthouse Ave,1.0,2.0,Santa Cruz,"1,025 sqft","Sep 10, 2013","$866,000",36.96061,-122.02769,CA,Single-Family Home,866000,"$691,000",95060,,,,Sold,SANTA CRUZ
+342,204 Delaveaga Park Dr,3.0,5.0,Santa Cruz,"3,810 sqft","Sep 10, 2013","$755,000",36.99124,-122.00635,CA,Single-Family Home,755000,"$902,000",95065,,,,Sold,SANTA CRUZ
+343,3520 Floral Dr,1.5,2.0,Santa Cruz,"1,350 sqft","Sep 10, 2013","$820,000",36.96069,-121.97002,CA,Single-Family Home,820000,"$853,000",95062,,,,Sold,SANTA CRUZ
+344,1190 Whitewater Cv,1.0,2.0,Santa Cruz,987 sqft,"Sep 10, 2013","$380,000",36.97524,-121.98843,CA,Townhouse,380000,"$387,000",95062,,,,Sold,SANTA CRUZ
+345,120 Alamo Ave,2.0,3.0,Santa Cruz,"1,811 sqft","Sep 10, 2013","$787,000",36.9637,-122.054756,CA,Single-Family Home,787000,"$879,000",95060,,,,Sold,SANTA CRUZ
+346,392 California St,1.5,2.0,Santa Cruz,"1,444 sqft","Sep 10, 2013","$770,000",36.96693,-122.03441,CA,Single-Family Home,770000,"$809,000",95060,,,,Sold,SANTA CRUZ
+347,201 Mott Ave,2.0,3.0,Santa Cruz,"1,779 sqft","Sep 9, 2013","$1,459,000",36.96555,-122.00907,CA,Single-Family Home,1459000,"$1,085,000",95062,,,,Sold,SANTA CRUZ
+348,440 Morrissey Blvd,2.0,3.0,Santa Cruz,"1,918 sqft","Sep 9, 2013","$635,000",36.98662,-122.004,CA,Single-Family Home,635000,"$803,000",95062,,,,Sold,SANTA CRUZ
+349,304 Maple St,1.0,2.0,Santa Cruz,"1,212 sqft","Sep 9, 2013","$965,000",36.970043,-122.027725,CA,Multi-Family,965000,"$869,000",95060,,,,Sold,SANTA CRUZ
+350,125 Holway Dr,2.5,2.0,Santa Cruz,"1,498 sqft","Sep 9, 2013","$394,000",36.989323,-121.99414,CA,Single-Family Home,394000,"$571,000",95065,,,,Sold,SANTA CRUZ
+351,2680 Lode St,1.0,2.0,Santa Cruz,976 sqft,"Sep 6, 2013","$650,000",36.960888,-121.976524,CA,Single-Family Home,650000,"$727,000",95062,,,,Sold,SANTA CRUZ
+352,1250 Green Acres Ct,2.5,2.0,Santa Cruz,"1,160 sqft","Sep 6, 2013","$385,000",36.982494,-121.986206,CA,Townhouse,385000,"$399,000",95062,,,,Sold,SANTA CRUZ
+353,1901 Portola Dr #1,,20.0,Santa Cruz,"6,000 sqft","Sep 6, 2013","$1,600,000",36.96286,-121.98637,CA,Multi-Family,1600000,,95062,,,,Sold,SANTA CRUZ
+354,921 Tower Pl,2.0,3.0,Santa Cruz,"1,381 sqft","Sep 5, 2013","$440,000",36.967525,-121.98239,CA,Condo,440000,"$536,000",95062,,,,Sold,SANTA CRUZ
+355,1470 Bulb Ave,1.0,3.0,Santa Cruz,"1,224 sqft","Sep 5, 2013","$500,000",36.971794,-121.96896,CA,Single-Family Home,500000,"$542,000",95062,,,,Sold,SANTA CRUZ
+356,500 Jarvis Rd,2.0,3.0,Santa Cruz,"2,129 sqft","Sep 4, 2013","$845,000",37.06323,-121.98011,CA,Farm/Ranch,845000,"$767,000",95065,,,,Sold,SANTA CRUZ
+357,1175 Lisa Ln,2.0,3.0,Santa Cruz,"1,120 sqft","Sep 4, 2013","$742,000",36.96952,-121.97923,CA,Single-Family Home,742000,"$670,000",95062,,,,Sold,SANTA CRUZ
+358,471 Lago Ln,2.5,3.0,Santa Cruz,"2,198 sqft","Sep 4, 2013","$1,200,000",36.96753,-122.00088,CA,Single-Family Home,1200000,"$1,487,000",95062,,,,Sold,SANTA CRUZ
+359,151 Dufour St,1.5,3.0,Santa Cruz,"1,092 sqft","Sep 4, 2013","$555,000",36.95865,-122.03583,CA,Single-Family Home,555000,"$621,000",95060,,,,Sold,SANTA CRUZ
+360,222 Seabright Ave,2.0,1.0,Santa Cruz,"1,203 sqft","Sep 4, 2013","$795,000",36.96537,-122.00749,CA,Single-Family Home,795000,"$765,000",95062,,,,Sold,SANTA CRUZ
+361,105 Mountain View Ave,1.0,2.0,Santa Cruz,610 sqft,"Sep 4, 2013","$510,000",36.96724,-122.010284,CA,Single-Family Home,510000,"$540,000",95062,,,,Sold,SANTA CRUZ
+362,125 Pied Piper Ln,2.5,3.0,Santa Cruz,"2,145 sqft","Sep 4, 2013","$730,000",37.012714,-122.030075,CA,Single-Family Home,730000,"$915,000",95060,,,,Sold,SANTA CRUZ
+363,180 Dakota Ave #67,,,Santa Cruz,,"Sep 3, 2013","$208,000",36.976166,-122.02022,CA,Condo,208000,,95060,,,,Sold,SANTA CRUZ
+364,1159 30th Ave,1.5,2.0,Santa Cruz,"1,165 sqft","Aug 30, 2013","$350,000",36.967808,-121.973526,CA,Townhouse,350000,"$397,000",95062,,,,Sold,SANTA CRUZ
+365,2225 Capitola Rd,2.0,3.0,Santa Cruz,"1,662 sqft","Aug 30, 2013","$430,000",36.97578,-121.980194,CA,Single-Family Home,430000,"$676,000",95062,,,,Sold,SANTA CRUZ
+366,213 Germaine Ave,2.0,3.0,Santa Cruz,"1,263 sqft","Aug 30, 2013","$625,000",37.00086,-121.97517,CA,Single-Family Home,625000,"$659,000",95065,,,,Sold,SANTA CRUZ
+367,128 Peach Ter,1.5,3.0,Santa Cruz,"1,246 sqft","Aug 30, 2013","$446,000",36.973812,-122.05122,CA,Townhouse,446000,"$509,000",95060,,,,Sold,SANTA CRUZ
+368,1686 Colony Way,2.0,3.0,Santa Cruz,"1,176 sqft","Aug 30, 2013","$479,000",36.973057,-121.984604,CA,Single-Family Home,479000,"$556,000",95062,,,,Sold,SANTA CRUZ
+369,1751 Grey Seal Rd,2.5,3.0,Santa Cruz,"1,829 sqft","Aug 30, 2013","$715,000",36.979374,-121.98999,CA,Single-Family Home,715000,"$761,000",95062,,,,Sold,SANTA CRUZ
+370,575 Sims Rd,2.0,3.0,Santa Cruz,"1,263 sqft","Aug 30, 2013","$725,000",37.011555,-122.03356,CA,Single-Family Home,725000,"$754,000",95060,,,,Sold,SANTA CRUZ
+371,1631 Taylor Ln,1.5,2.0,Santa Cruz,"1,392 sqft","Aug 30, 2013","$449,000",36.978474,-121.994995,CA,Condo,449000,"$442,000",95062,,,,Sold,SANTA CRUZ
+372,921 Columbia St,3.0,3.0,Santa Cruz,"2,077 sqft","Aug 30, 2013","$889,000",36.96075,-122.03371,CA,Single-Family Home,889000,"$1,084,000",95060,,,,Sold,SANTA CRUZ
+373,322 Pine St,1.0,2.0,Santa Cruz,600 sqft,"Aug 29, 2013","$599,000",36.97197,-122.01068,CA,Single-Family Home,599000,"$546,000",95062,,,,Sold,SANTA CRUZ
+374,202 Pelton Ave,2.0,3.0,Santa Cruz,"2,267 sqft","Aug 29, 2013","$1,165,000",36.9548,-122.02714,CA,Single-Family Home,1165000,"$1,128,000",95060,,,,Sold,SANTA CRUZ
+375,636 Sumner St #A,1.5,2.0,Santa Cruz,"1,164 sqft","Aug 29, 2013","$500,000",36.97449,-122.00631,CA,Townhouse,500000,"$495,000",95062,,,,Sold,SANTA CRUZ
+376,414 Hickman Ct,2.5,3.0,Santa Cruz,"1,652 sqft","Aug 29, 2013","$695,000",36.959866,-121.97718,CA,Townhouse,695000,"$787,000",95062,,,,Sold,SANTA CRUZ
+377,422 35th Ave,2.0,2.0,Santa Cruz,"1,080 sqft","Aug 28, 2013","$680,000",36.958908,-121.97026,CA,Single-Family Home,680000,"$761,000",95062,,,,Sold,SANTA CRUZ
+378,3380 Coffee Ln,2.0,3.0,Santa Cruz,"1,406 sqft","Aug 28, 2013","$600,500",36.979137,-121.97144,CA,Single-Family Home,600500,"$676,000",95062,,,,Sold,SANTA CRUZ
+379,41 Grandview St #1103,2.5,2.0,Santa Cruz,910 sqft,"Aug 27, 2013","$249,000",36.960896,-122.0505,CA,Single-Family Home,249000,"$465,000",95060,,,,Sold,SANTA CRUZ
+380,1905 Angela Dr,2.0,4.0,Santa Cruz,"1,693 sqft","Aug 27, 2013","$575,000",36.99268,-121.97851,CA,Single-Family Home,575000,"$713,000",95065,,,,Sold,SANTA CRUZ
+381,143 Cypress Park,2.5,2.0,Santa Cruz,"1,400 sqft","Aug 27, 2013","$705,500",36.965935,-122.057365,CA,Single-Family Home,705500,"$748,000",95060,,,,Sold,SANTA CRUZ
+382,128 Claremont Ter,2.5,3.0,Santa Cruz,"1,536 sqft","Aug 27, 2013","$488,500",36.987648,-122.024574,CA,Townhouse,488500,"$587,000",95060,,,,Sold,SANTA CRUZ
+383,427 Logan St,2.5,3.0,Santa Cruz,"1,651 sqft","Aug 26, 2013","$920,000",36.968613,-122.00913,CA,Single-Family Home,920000,"$934,000",95062,,,,Sold,SANTA CRUZ
+384,112 Handley St,1.0,3.0,Santa Cruz,"1,008 sqft","Aug 23, 2013","$659,000",36.95727,-122.043655,CA,Single-Family Home,659000,"$759,000",95060,,,,Sold,SANTA CRUZ
+385,127 Santa Cruz St,2.0,3.0,Santa Cruz,"1,308 sqft","Aug 23, 2013","$990,000",36.958378,-122.027084,CA,Single-Family Home,990000,"$882,000",95060,,,,Sold,SANTA CRUZ
+386,4555 Thurber Ln,2.0,3.0,Santa Cruz,"1,504 sqft","Aug 23, 2013","$555,000",36.996014,-121.97662,CA,Single-Family Home,555000,"$701,000",95065,,,,Sold,SANTA CRUZ
+387,94 Feather Ln,3.0,3.0,Santa Cruz,"3,898 sqft","Aug 23, 2013","$1,325,000",37.06579,-122.1209,CA,Farm/Ranch,1325000,"$1,184,000",95060,,,,Sold,SANTA CRUZ
+388,317 Brook Ave,1.0,2.0,Santa Cruz,,"Aug 23, 2013","$439,000",36.966652,-122.00965,CA,Condo,439000,"$477,000",95062,,,,Sold,SANTA CRUZ
+389,759 N Branciforte Ave,2.0,3.0,Santa Cruz,"1,433 sqft","Aug 23, 2013","$620,000",36.97888,-122.015526,CA,Single-Family Home,620000,"$727,000",95062,,,,Sold,SANTA CRUZ
+390,2988 Childers Ln,2.5,3.0,Santa Cruz,"1,595 sqft","Aug 23, 2013","$645,000",36.97288,-121.97358,CA,Single-Family Home,645000,"$727,000",95062,,,,Sold,SANTA CRUZ
+391,116 Storey St,1.5,3.0,Santa Cruz,"1,190 sqft","Aug 23, 2013","$754,000",36.97598,-122.03454,CA,Single-Family Home,754000,"$766,000",95060,,,,Sold,SANTA CRUZ
+392,2312 W Vine Hill Rd,1.0,2.0,Santa Cruz,848 sqft,"Aug 22, 2013","$395,000",37.07689,-121.982,CA,Single-Family Home,395000,"$505,000",95065,,,,Sold,SANTA CRUZ
+393,5403 Coast Rd,2.0,2.0,Santa Cruz,"1,120 sqft","Aug 21, 2013","$725,000",36.9824,-122.145164,CA,Single-Family Home,725000,"$629,000",95060,,,,Sold,SANTA CRUZ
+394,703 Laurent St,1.0,2.0,Santa Cruz,"1,270 sqft","Aug 20, 2013","$740,000",36.970684,-122.04394,CA,Single-Family Home,740000,"$835,000",95060,,,,Sold,SANTA CRUZ
+395,1153 30th Ave,1.5,2.0,Santa Cruz,"1,165 sqft","Aug 20, 2013","$365,500",36.967823,-121.97386,CA,Townhouse,365500,"$406,000",95062,,,,Sold,SANTA CRUZ
+396,101 Geoffroy Dr,3.0,4.0,Santa Cruz,"2,546 sqft","Aug 20, 2013","$1,850,000",36.95987,-121.991844,CA,Single-Family Home,1850000,"$1,423,000",95062,,,,Sold,SANTA CRUZ
+397,1043 Nobel Dr,2.5,3.0,Santa Cruz,"1,495 sqft","Aug 20, 2013","$658,000",36.97564,-122.05608,CA,Single-Family Home,658000,"$767,000",95060,,,,Sold,SANTA CRUZ
+398,1118 W Cliff Dr,3.0,3.0,Santa Cruz,"2,165 sqft","Aug 19, 2013","$1,900,000",36.953487,-122.04075,CA,Single-Family Home,1900000,"$1,172,000",95060,,,,Sold,SANTA CRUZ
+399,180 Dakota Ave #11,,,Santa Cruz,,"Aug 16, 2013","$260,000",36.976048,-122.02055,CA,Condo,260000,"$227,000",95060,,,,Sold,SANTA CRUZ
+400,158 Everson Dr,1.0,1.0,Santa Cruz,881 sqft,"Aug 16, 2013","$327,000",36.96572,-122.02888,CA,Condo,327000,"$401,000",95060,,,,Sold,SANTA CRUZ
+401,340 25th Ave,1.0,2.0,Santa Cruz,"1,095 sqft","Aug 16, 2013","$625,000",36.96019,-121.97987,CA,Single-Family Home,625000,"$808,000",95062,,,,Sold,SANTA CRUZ
+402,84 Country Estates Dr,3.0,5.0,Santa Cruz,"3,437 sqft","Aug 16, 2013","$840,000",37.05046,-122.15985,CA,Farm/Ranch,840000,"$942,000",95060,,,,Sold,SANTA CRUZ
+403,221 Goss Ave,2.0,3.0,Santa Cruz,"1,458 sqft","Aug 16, 2013","$630,000",36.98973,-122.009125,CA,Single-Family Home,630000,"$744,000",95065,,,,Sold,SANTA CRUZ
+404,2514 Friesland Ct,1.0,2.0,Santa Cruz,881 sqft,"Aug 16, 2013","$378,500",36.962135,-121.97719,CA,Townhouse,378500,"$460,000",95062,,,,Sold,SANTA CRUZ
+405,41 Grandview St #106,2.0,2.0,Santa Cruz,908 sqft,"Aug 16, 2013","$253,000",36.961136,-122.05179,CA,Condo,253000,"$347,000",95060,,,,Sold,SANTA CRUZ
+406,110 Errett Cir,1.0,,Santa Cruz,669 sqft,"Aug 16, 2013","$465,000",36.958984,-122.03757,CA,Single-Family Home,465000,"$513,000",95060,,,,Sold,SANTA CRUZ
+407,2500 Paul Minnie Ave,2.0,4.0,Santa Cruz,"1,726 sqft","Aug 16, 2013","$695,000",36.98479,-121.9839,CA,Multi-Family,695000,"$680,000",95062,,,,Sold,SANTA CRUZ
+408,2278 7th Ave,1.0,1.0,Santa Cruz,588 sqft,"Aug 15, 2013","$127,000",36.982704,-121.988785,CA,Single-Family Home,127000,"$250,000",95062,,,,Sold,SANTA CRUZ
+409,3946 Winkle Ave,2.0,4.0,Santa Cruz,"1,772 sqft","Aug 14, 2013","$715,000",36.999153,-121.97253,CA,Single-Family Home,715000,"$742,000",95065,,,,Sold,SANTA CRUZ
+410,140 Spaten Way,2.0,3.0,Santa Cruz,"1,152 sqft","Aug 14, 2013","$568,000",37.062534,-122.123,CA,Farm/Ranch,568000,"$589,000",95060,,,,Sold,SANTA CRUZ
+411,739 Graham Hill Rd,2.0,3.0,Santa Cruz,"1,988 sqft","Aug 13, 2013","$612,000",37.001404,-122.03197,CA,Single-Family Home,612000,"$807,000",95060,,,,Sold,SANTA CRUZ
+412,22752 E Cliff Dr,2.5,3.0,Santa Cruz,"1,909 sqft","Aug 13, 2013","$1,185,000",36.95695,-121.97904,CA,Condo,1185000,"$1,075,000",95062,,,,Sold,SANTA CRUZ
+413,1339 Leila Ct,2.0,2.0,Santa Cruz,"1,107 sqft","Aug 13, 2013","$634,000",36.975536,-121.98596,CA,Single-Family Home,634000,"$626,000",95062,,,,Sold,SANTA CRUZ
+414,208 Calvin Pl,2.0,4.0,Santa Cruz,"1,833 sqft","Aug 13, 2013","$775,000",36.97095,-122.0544,CA,Single-Family Home,775000,"$885,000",95060,,,,Sold,SANTA CRUZ
+415,216 Cayuga St,2.5,3.0,Santa Cruz,"1,738 sqft","Aug 13, 2013","$700,000",36.968857,-122.01041,CA,Single-Family Home,700000,"$859,000",95062,,,,Sold,SANTA CRUZ
+416,148 Sunnyside Ave,1.0,3.0,Santa Cruz,"1,758 sqft","Aug 12, 2013","$660,000",36.97985,-122.01611,CA,Single-Family Home,660000,"$749,000",95062,,,,Sold,SANTA CRUZ
+417,2030 N Pacific Ave #233,2.0,2.0,Santa Cruz,"1,252 sqft","Aug 12, 2013","$515,000",36.978035,-122.026955,CA,Condo,515000,"$529,000",95060,,,,Sold,SANTA CRUZ
+418,1752 Esperanza Ct,2.5,2.0,Santa Cruz,"1,579 sqft","Aug 12, 2013","$400,000",36.977898,-121.987015,CA,Townhouse,400000,"$477,000",95062,,,,Sold,SANTA CRUZ
+419,2670 Warren St #B,2.0,2.0,Santa Cruz,"1,150 sqft","Aug 9, 2013","$695,000",36.958412,-121.979294,CA,Multi-Family,695000,"$798,000",95062,,,,Sold,SANTA CRUZ
+420,154 Frederick St,3.0,2.0,Santa Cruz,"2,174 sqft","Aug 9, 2013","$699,000",36.97101,-122.00214,CA,Townhouse,699000,"$802,000",95062,,,,Sold,SANTA CRUZ
+421,1032 Nobel Dr,2.0,3.0,Santa Cruz,"1,256 sqft","Aug 9, 2013","$610,000",36.975945,-122.055534,CA,Single-Family Home,610000,"$727,000",95060,,,,Sold,SANTA CRUZ
+422,210 San Juan Ave,2.0,3.0,Santa Cruz,"1,505 sqft","Aug 9, 2013","$675,000",36.98339,-122.003136,CA,Single-Family Home,675000,"$724,000",95062,,,,Sold,SANTA CRUZ
+423,219 Wavecrest Ave,2.5,5.0,Santa Cruz,"2,638 sqft","Aug 9, 2013","$860,000",36.962353,-122.05601,CA,Single-Family Home,860000,"$954,000",95060,,,,Sold,SANTA CRUZ
+424,124 Berkshire Ave,1.0,2.0,Santa Cruz,840 sqft,"Aug 9, 2013","$526,000",36.96443,-122.04354,CA,Single-Family Home,526000,"$717,000",95060,,,,Sold,SANTA CRUZ
+425,265 Chirco Ave,2.0,3.0,Santa Cruz,"2,064 sqft","Aug 9, 2013","$525,000",36.998417,-121.97614,CA,Single-Family Home,525000,"$815,000",95065,,,,Sold,SANTA CRUZ
+426,948 Prospect Hts,1.0,2.0,Santa Cruz,"1,370 sqft","Aug 9, 2013","$660,000",36.990616,-121.99252,CA,Single-Family Home,660000,"$656,000",95065,,,,Sold,SANTA CRUZ
+427,360 Meder St,3.0,3.0,Santa Cruz,"2,317 sqft","Aug 9, 2013","$859,000",36.97517,-122.05527,CA,Single-Family Home,859000,"$1,143,000",95060,,,,Sold,SANTA CRUZ
+428,114 Phelan Ct,2.5,3.0,Santa Cruz,"2,664 sqft","Aug 9, 2013","$1,525,000",36.955067,-122.029175,CA,Single-Family Home,1525000,"$1,471,000",95060,,,,Sold,SANTA CRUZ
+429,226 Everson Dr,1.0,1.0,Santa Cruz,881 sqft,"Aug 9, 2013","$350,000",36.965652,-122.0295,CA,Condo,350000,"$401,000",95060,,,,Sold,SANTA CRUZ
+430,604 Lighthouse Ave,2.5,3.0,Santa Cruz,"2,360 sqft","Aug 9, 2013","$1,525,000",36.959824,-122.02718,CA,Single-Family Home,1525000,"$1,107,000",95060,,,,Sold,SANTA CRUZ
+431,308 Chace St,1.0,3.0,Santa Cruz,"1,444 sqft","Aug 9, 2013","$557,500",36.95407,-122.0475,CA,Single-Family Home,557500,"$712,000",95060,,,,Sold,SANTA CRUZ
+432,1242 Diana Dr,3.0,4.0,Santa Cruz,"1,620 sqft","Aug 9, 2013","$605,000",36.97256,-121.98758,CA,Multi-Family,605000,"$576,000",95062,,,,Sold,SANTA CRUZ
+433,2380 Amber Ave,2.0,3.0,Santa Cruz,"1,343 sqft","Aug 9, 2013","$599,000",36.974304,-121.97816,CA,Single-Family Home,599000,"$709,000",95062,,,,Sold,SANTA CRUZ
+434,512 Center St,1.0,1.0,Santa Cruz,750 sqft,"Aug 8, 2013","$625,000",36.971115,-122.027565,CA,Single-Family Home,625000,"$603,000",95060,,,,Sold,SANTA CRUZ
+435,232 1st Ave,3.5,3.0,Santa Cruz,"1,910 sqft","Aug 8, 2013","$1,540,000",36.96592,-122.00684,CA,Single-Family Home,1540000,"$1,182,000",95062,,,,Sold,SANTA CRUZ
+436,3208 Stockbridge Ln,2.5,2.0,Santa Cruz,"1,212 sqft","Aug 8, 2013","$401,000",36.990067,-121.97149,CA,Condo,401000,"$439,000",95065,,,,Sold,SANTA CRUZ
+437,195 Kenny Ave,2.5,3.0,Santa Cruz,"2,303 sqft","Aug 7, 2013","$885,000",37.001865,-121.973335,CA,Single-Family Home,885000,"$854,000",95065,,,,Sold,SANTA CRUZ
+438,131 Palo Verde Ter,1.5,2.0,Santa Cruz,"1,046 sqft","Aug 6, 2013","$373,000",36.97112,-122.04908,CA,Townhouse,373000,"$407,000",95060,,,,Sold,SANTA CRUZ
+439,1414 W Cliff Dr,3.5,4.0,Santa Cruz,"2,616 sqft","Aug 6, 2013","$1,540,000",36.950466,-122.046036,CA,Single-Family Home,1540000,"$1,666,000",95060,,,,Sold,SANTA CRUZ
+440,1529 Hidden Terrace Ct,2.0,2.0,Santa Cruz,"1,109 sqft","Aug 6, 2013","$395,000",36.97592,-121.98717,CA,Townhouse,395000,"$427,000",95062,,,,Sold,SANTA CRUZ
+441,354 Goss Ave,1.5,3.0,Santa Cruz,"1,350 sqft","Aug 6, 2013","$630,000",36.989143,-122.004845,CA,Single-Family Home,630000,"$675,000",95065,,,,Sold,SANTA CRUZ
+442,1100 Graham Hill Rd,2.5,4.0,Santa Cruz,"1,951 sqft","Aug 6, 2013","$120,000",37.008335,-122.033676,CA,Single-Family Home,120000,"$863,000",95060,,,,Sold,SANTA CRUZ
+443,3053 Salisbury Dr,,,Santa Cruz,"2,620 sqft","Aug 6, 2013","$986,500",36.988094,-121.98678,CA,Multi-Family,986500,,95065,,,,Sold,SANTA CRUZ
+444,21130 E Cliff Dr,1.0,1.0,Santa Cruz,"1,232 sqft","Aug 2, 2013","$520,000",36.9637,-121.9946,CA,Single-Family Home,520000,"$620,000",95062,,,,Sold,SANTA CRUZ
+445,421 Fair Ave,3.0,3.0,Santa Cruz,"2,044 sqft","Aug 2, 2013","$1,000,000",36.9542,-122.04508,CA,Single-Family Home,1000000,"$1,125,000",95060,,,,Sold,SANTA CRUZ
+446,156 Country Estates Ter,3.0,3.0,Santa Cruz,"2,384 sqft","Aug 2, 2013","$765,000",37.05364,-122.15841,CA,Farm/Ranch,765000,"$767,000",95060,,,,Sold,SANTA CRUZ
+447,135 Swift St,2.0,4.0,Santa Cruz,"2,018 sqft","Aug 2, 2013","$980,000",36.95119,-122.048004,CA,Single-Family Home,980000,"$1,083,000",95060,,,,Sold,SANTA CRUZ
+448,137 Marnell Ave,1.0,2.0,Santa Cruz,925 sqft,"Aug 2, 2013","$562,000",36.98281,-122.00273,CA,Single-Family Home,562000,"$596,000",95062,,,,Sold,SANTA CRUZ
+449,601 Ranch View Rd,2.5,4.0,Santa Cruz,"1,900 sqft","Aug 1, 2013","$692,500",36.981304,-122.05763,CA,Single-Family Home,692500,"$952,000",95064,,,,Sold,SANTA CRUZ
+450,1512 Harper St,2.0,3.0,Santa Cruz,"1,326 sqft","Jul 31, 2013","$503,000",36.97385,-121.98521,CA,Single-Family Home,503000,"$642,000",95062,,,,Sold,SANTA CRUZ
+451,609 Columbia St,2.0,3.0,Santa Cruz,"1,298 sqft","Jul 31, 2013","$632,000",36.957096,-122.03405,CA,Single-Family Home,632000,"$835,000",95060,,,,Sold,SANTA CRUZ
+452,186 Harbor Oaks Cir,2.5,3.0,Santa Cruz,"1,110 sqft","Jul 31, 2013","$380,000",36.977016,-121.99239,CA,Townhouse,380000,"$445,000",95062,,,,Sold,SANTA CRUZ
+453,144 Walti St,2.0,3.0,Santa Cruz,"1,309 sqft","Jul 31, 2013","$585,000",36.967197,-122.03349,CA,Single-Family Home,585000,"$671,000",95060,,,,Sold,SANTA CRUZ
+454,119 Southampton Ln #B,2.5,3.0,Santa Cruz,"1,848 sqft","Jul 31, 2013","$665,000",36.970623,-122.0029,CA,Townhouse,665000,"$740,000",95062,,,,Sold,SANTA CRUZ
+455,173 Hagemann Ave,1.0,3.0,Santa Cruz,"1,214 sqft","Jul 31, 2013","$425,000",36.980347,-122.00193,CA,Single-Family Home,425000,"$661,000",95062,,,,Sold,SANTA CRUZ
+456,303 Santa Cruz St,2.5,3.0,Santa Cruz,"1,641 sqft","Jul 31, 2013","$850,500",36.958527,-122.02976,CA,Single-Family Home,850500,"$1,028,000",95060,,,,Sold,SANTA CRUZ
+457,616 Spring St,3.0,3.0,Santa Cruz,"2,492 sqft","Jul 31, 2013","$1,025,000",36.98368,-122.0443,CA,Single-Family Home,1025000,"$1,284,000",95060,,,,Sold,SANTA CRUZ
+458,101 Hiawatha Ave,4.0,9.0,Santa Cruz,"3,904 sqft","Jul 31, 2013","$1,068,000",36.966946,-122.012375,CA,Multi-Family,1068000,,95062,,,,Sold,SANTA CRUZ
+459,122 Hagar Ct,1.0,2.0,Santa Cruz,998 sqft,"Jul 30, 2013","$297,000",36.980885,-122.04904,CA,Condo,297000,"$360,000",95064,,,,Sold,SANTA CRUZ
+460,1727 30th Ave #C,1.0,2.0,Santa Cruz,864 sqft,"Jul 30, 2013","$301,000",36.97427,-121.97353,CA,Condo,301000,"$303,000",95062,,,,Sold,SANTA CRUZ
+461,620 26th Ave,2.0,3.0,Santa Cruz,"1,242 sqft","Jul 30, 2013","$655,000",36.961994,-121.976776,CA,Single-Family Home,655000,"$838,000",95062,,,,Sold,SANTA CRUZ
+462,427 Morrissey Blvd,1.0,3.0,Santa Cruz,"1,147 sqft","Jul 30, 2013","$586,000",36.98648,-122.00495,CA,Single-Family Home,586000,"$675,000",95062,,,,Sold,SANTA CRUZ
+463,810 Fair Ave,2.0,4.0,Santa Cruz,"1,588 sqft","Jul 30, 2013","$660,000",36.957283,-122.04512,CA,Single-Family Home,660000,"$830,000",95060,,,,Sold,SANTA CRUZ
+464,164 Belvedere Ter,1.0,2.0,Santa Cruz,"1,133 sqft","Jul 30, 2013","$535,000",36.981472,-122.016136,CA,Single-Family Home,535000,"$581,000",95062,,,,Sold,SANTA CRUZ
+465,159 Molly Way,3.0,4.0,Santa Cruz,"2,147 sqft","Jul 30, 2013","$799,000",36.990204,-121.992256,CA,Single-Family Home,799000,"$847,000",95065,,,,Sold,SANTA CRUZ
+466,4600 Smith Grade,1.0,3.0,Santa Cruz,"2,848 sqft","Jul 29, 2013","$860,000",37.036327,-122.1443,CA,Unknown,860000,"$908,000",95060,,,,Sold,SANTA CRUZ
+467,139 W Cliff Dr,1.0,2.0,Santa Cruz,"1,016 sqft","Jul 29, 2013","$825,000",36.96274,-122.024826,CA,Single-Family Home,825000,"$683,000",95060,,,,Sold,SANTA CRUZ
+468,102 Stoney Creek Rd,2.5,3.0,Santa Cruz,"1,675 sqft","Jul 26, 2013","$535,000",36.98794,-122.01482,CA,Townhouse,535000,"$597,000",95060,,,,Sold,SANTA CRUZ
+469,135 James St,2.0,2.0,Santa Cruz,"1,300 sqft","Jul 26, 2013","$537,500",36.972626,-122.00864,CA,Multi-Family,537500,"$699,000",95062,,,,Sold,SANTA CRUZ
+470,102 Lisa Ct,2.5,4.0,Santa Cruz,"3,233 sqft","Jul 26, 2013","$1,391,000",36.976166,-122.058975,CA,Single-Family Home,1391000,"$1,138,000",95060,,,,Sold,SANTA CRUZ
+471,4567 Opal Cliff Dr,3.0,4.0,Santa Cruz,"3,222 sqft","Jul 25, 2013","$1,950,000",36.966232,-121.960785,CA,Single-Family Home,1950000,"$1,777,000",95062,,,,Sold,SANTA CRUZ
+472,2573 Parker St,2.0,3.0,Santa Cruz,"1,336 sqft","Jul 25, 2013","$500,000",36.992554,-121.97293,CA,Single-Family Home,500000,"$626,000",95065,,,,Sold,SANTA CRUZ
+473,543 Palm St,1.0,2.0,Santa Cruz,830 sqft,"Jul 25, 2013","$410,000",36.964165,-122.041824,CA,Single-Family Home,410000,"$585,000",95060,,,,Sold,SANTA CRUZ
+474,1811 Felt St,1.0,1.0,Santa Cruz,480 sqft,"Jul 24, 2013","$367,000",36.967365,-121.98399,CA,Multi-Family,367000,"$376,000",95062,,,,Sold,SANTA CRUZ
+475,117 Peyton St,2.0,3.0,Santa Cruz,"1,453 sqft","Jul 24, 2013","$725,000",36.973106,-122.03592,CA,Single-Family Home,725000,"$849,000",95060,,,,Sold,SANTA CRUZ
+476,584 35th Ave,1.0,3.0,Santa Cruz,"1,225 sqft","Jul 24, 2013","$745,000",36.96055,-121.97021,CA,Single-Family Home,745000,"$761,000",95062,,,,Sold,SANTA CRUZ
+477,665 Henry Cowell Dr,,,Santa Cruz,,"Jul 24, 2013","$499,000",37.013535,-122.03748,CA,Unknown,499000,,95060,,,,Sold,SANTA CRUZ
+478,303 Brook Ave,3.0,3.0,Santa Cruz,"1,956 sqft","Jul 24, 2013","$1,480,000",36.966248,-122.00969,CA,Multi-Family,1480000,"$1,163,000",95062,,,,Sold,SANTA CRUZ
+479,110 Western Ct,2.0,,Santa Cruz,"1,759 sqft","Jul 24, 2013","$642,000",36.968327,-122.05718,CA,Single-Family Home,642000,"$758,000",95060,,,,Sold,SANTA CRUZ
+480,741 36th Ave,1.0,2.0,Santa Cruz,627 sqft,"Jul 24, 2013","$517,000",36.963036,-121.96974,CA,Single-Family Home,517000,"$606,000",95062,,,,Sold,SANTA CRUZ
+481,3401 Roland Dr,1.0,2.0,Santa Cruz,"1,304 sqft","Jul 23, 2013","$675,000",36.96651,-121.97105,CA,Single-Family Home,675000,"$846,000",95062,,,,Sold,SANTA CRUZ
+482,180 Dakota Ave #52,,,Santa Cruz,,"Jul 23, 2013","$235,000",36.97597,-122.02051,CA,Condo,235000,,95060,,,,Sold,SANTA CRUZ
+483,2545 Parker St,1.0,2.0,Santa Cruz,852 sqft,"Jul 23, 2013","$430,000",36.99279,-121.97344,CA,Single-Family Home,430000,"$563,000",95065,,,,Sold,SANTA CRUZ
+484,1202 Escalona Dr,3.0,3.0,Santa Cruz,"2,139 sqft","Jul 23, 2013","$1,040,000",36.96845,-122.04698,CA,Single-Family Home,1040000,"$1,085,000",95060,,,,Sold,SANTA CRUZ
+485,412 Liberty St,2.0,3.0,Santa Cruz,"1,561 sqft","Jul 22, 2013","$750,000",36.95828,-122.03014,CA,Single-Family Home,750000,"$844,000",95060,,,,Sold,SANTA CRUZ
+486,624 Southview Ter,1.5,2.0,Santa Cruz,"1,127 sqft","Jul 22, 2013","$335,500",36.96293,-122.05819,CA,Townhouse,335500,"$454,000",95060,,,,Sold,SANTA CRUZ
+487,3401 Woodstock Dr,2.5,3.0,Santa Cruz,"1,795 sqft","Jul 19, 2013","$575,000",36.991997,-121.9732,CA,Townhouse,575000,"$653,000",95065,,,,Sold,SANTA CRUZ
+488,121 Pleasant St,2.0,3.0,Santa Cruz,"1,123 sqft","Jul 19, 2013","$585,000",36.972466,-122.01177,CA,Townhouse,585000,"$589,000",95062,,,,Sold,SANTA CRUZ
+489,4330 Gladys Ave,1.0,3.0,Santa Cruz,"1,036 sqft","Jul 19, 2013","$625,000",36.967007,-121.962395,CA,Single-Family Home,625000,"$761,000",95062,,,,Sold,SANTA CRUZ
+490,2270 Benson Ave,2.5,4.0,Santa Cruz,"2,586 sqft","Jul 19, 2013","$902,000",36.993065,-121.974686,CA,Single-Family Home,902000,"$960,000",95065,,,,Sold,SANTA CRUZ
+491,126 Segre Pl,2.5,4.0,Santa Cruz,"2,112 sqft","Jul 18, 2013","$226,363",36.9721,-122.0539,CA,Single-Family Home,226363,"$566,000",95060,,,,Sold,SANTA CRUZ
+492,732 Pacheco Ave,2.0,3.0,Santa Cruz,"1,786 sqft","Jul 18, 2013","$535,000",36.99119,-122.00191,CA,Multi-Family,535000,"$663,000",95065,,,,Sold,SANTA CRUZ
+493,123 Lennox St,2.0,4.0,Santa Cruz,"2,232 sqft","Jul 18, 2013","$790,000",36.96348,-122.03808,CA,Single-Family Home,790000,"$1,027,000",95060,,,,Sold,SANTA CRUZ
+494,223 Rigg St,1.0,3.0,Santa Cruz,"1,562 sqft","Jul 18, 2013","$70,000",36.969894,-122.03575,CA,Single-Family Home,70000,"$743,000",95060,,,,Sold,SANTA CRUZ
+495,121 Harkleroad Ave,2.0,3.0,Santa Cruz,"1,246 sqft","Jul 17, 2013","$550,000",36.982143,-121.98299,CA,Single-Family Home,550000,"$629,000",95062,,,,Sold,SANTA CRUZ
+496,181 Tassett Ct,2.0,4.0,Santa Cruz,"2,280 sqft","Jul 17, 2013","$503,500",37.044613,-122.1036,CA,Farm/Ranch,503500,"$706,000",95060,,,,Sold,SANTA CRUZ
+497,122 Robinson Ln,2.5,3.0,Santa Cruz,"1,230 sqft","Jul 17, 2013","$625,000",36.975708,-122.05512,CA,Single-Family Home,625000,"$742,000",95060,,,,Sold,SANTA CRUZ
+498,411 Park Way,1.0,2.0,Santa Cruz,"1,148 sqft","Jul 17, 2013","$575,000",36.985573,-121.99745,CA,Single-Family Home,575000,"$706,000",95062,,,,Sold,SANTA CRUZ
+499,140 Crystal Creek Ln,3.5,5.0,Santa Cruz,"3,546 sqft","Jul 16, 2013","$875,000",37.031494,-121.984215,CA,Farm/Ranch,875000,"$1,537,000",95065,,,,Sold,SANTA CRUZ
+500,224 16th Ave,2.0,3.0,Santa Cruz,"1,752 sqft","Jul 16, 2013","$1,585,000",36.96238,-121.98965,CA,Single-Family Home,1585000,"$1,365,000",95062,,,,Sold,SANTA CRUZ
+501,242 4th Ave,4.0,4.0,Santa Cruz,"2,356 sqft","Jul 16, 2013","$1,500,000",36.96614,-122.00456,CA,Multi-Family,1500000,"$1,258,000",95062,,,,Sold,SANTA CRUZ
+502,1035 Laurent St,3.0,3.0,Santa Cruz,"3,217 sqft","Jul 16, 2013","$1,720,000",36.97456,-122.043625,CA,Single-Family Home,1720000,"$1,239,000",95060,,,,Sold,SANTA CRUZ
+503,1772 Del Mar Ct,3.5,4.0,Santa Cruz,"1,717 sqft","Jul 16, 2013","$644,000",36.966072,-121.98533,CA,Single-Family Home,644000,"$997,000",95062,,,,Sold,SANTA CRUZ
+504,215 Northrop Pl,2.0,4.0,Santa Cruz,"1,843 sqft","Jul 15, 2013","$755,000",36.972588,-122.05469,CA,Single-Family Home,755000,"$827,000",95060,,,,Sold,SANTA CRUZ
+505,110 Pendegast Ave,2.0,2.0,Santa Cruz,"1,000 sqft","Jul 15, 2013","$580,000",36.959515,-122.03937,CA,Single-Family Home,580000,"$642,000",95060,,,,Sold,SANTA CRUZ
+506,755 14th Ave #405,1.0,1.0,Santa Cruz,656 sqft,"Jul 12, 2013","$153,000",36.96666,-121.99075,CA,Single-Family Home,153000,"$370,000",95062,,,,Sold,SANTA CRUZ
+507,115 Grandview St,3.0,2.0,Santa Cruz,"1,600 sqft","Jul 12, 2013","$480,000",36.961002,-122.055435,CA,Single-Family Home,480000,"$626,000",95060,,,,Sold,SANTA CRUZ
+508,1750 Kinsley St,2.0,3.0,Santa Cruz,"1,275 sqft","Jul 12, 2013","$554,000",36.969475,-121.98393,CA,Single-Family Home,554000,"$608,000",95062,,,,Sold,SANTA CRUZ
+509,102 Carbonera Dr,3.5,3.0,Santa Cruz,"2,979 sqft","Jul 12, 2013","$859,000",37.001415,-122.020325,CA,Single-Family Home,859000,"$1,094,000",95060,,,,Sold,SANTA CRUZ
+510,1125 Western Dr,3.5,3.0,Santa Cruz,"2,478 sqft","Jul 12, 2013","$1,090,000",36.97752,-122.058655,CA,Single-Family Home,1090000,"$1,220,000",95060,,,,Sold,SANTA CRUZ
+511,137 Berkshire Ave,2.0,2.0,Santa Cruz,"1,643 sqft","Jul 11, 2013","$650,000",36.96441,-122.04432,CA,Single-Family Home,650000,"$792,000",95060,,,,Sold,SANTA CRUZ
+512,1255 High St,2.5,3.0,Santa Cruz,"1,528 sqft","Jul 11, 2013","$699,000",36.977047,-122.055374,CA,Single-Family Home,699000,"$859,000",95060,,,,Sold,SANTA CRUZ
+513,3036 Buckingham Ln #10,2.0,2.0,Santa Cruz,"1,236 sqft","Jul 11, 2013","$420,000",36.96784,-121.97298,CA,Townhouse,420000,"$444,000",95062,,,,Sold,SANTA CRUZ
+514,105 Escalona Ct,2.0,2.0,Santa Cruz,"2,015 sqft","Jul 10, 2013","$1,713,636",36.963978,-122.048706,CA,Single-Family Home,1713636,"$867,000",95060,,,,Sold,SANTA CRUZ
+515,3565 Roland Dr,1.0,2.0,Santa Cruz,"1,194 sqft","Jul 10, 2013","$641,000",36.966755,-121.9693,CA,Single-Family Home,641000,"$810,000",95062,,,,Sold,SANTA CRUZ
+516,2103 Branciforte Dr,2.0,2.0,Santa Cruz,"2,496 sqft","Jul 10, 2013","$820,000",37.013004,-121.999176,CA,Farm/Ranch,820000,"$833,000",95065,,,,Sold,SANTA CRUZ
+517,201 Burl Rd,1.0,3.0,Santa Cruz,"1,312 sqft","Jul 9, 2013","$280,000",37.031517,-122.008,CA,Farm/Ranch,280000,"$557,000",95060,,,,Sold,SANTA CRUZ
+518,103 Handley St,2.0,3.0,Santa Cruz,"1,128 sqft","Jul 8, 2013","$601,000",36.956867,-122.04311,CA,Single-Family Home,601000,"$809,000",95060,,,,Sold,SANTA CRUZ
+519,139 Bohnen Rd,3.0,4.0,Santa Cruz,"2,328 sqft","Jul 5, 2013","$601,000",37.074528,-121.95935,CA,Farm/Ranch,601000,"$835,000",95065,,,,Sold,SANTA CRUZ
+520,110 Peach Ter,1.0,2.0,Santa Cruz,943 sqft,"Jul 5, 2013","$350,000",36.97412,-122.05112,CA,Townhouse,350000,"$395,000",95060,,,,Sold,SANTA CRUZ
+521,124 Wave Ln,1.0,2.0,Santa Cruz,"1,305 sqft","Jul 5, 2013","$30,000",36.966328,-122.02011,CA,Single-Family Home,30000,"$749,000",95060,,,,Sold,SANTA CRUZ
+522,1717 Foster Ct,2.5,3.0,Santa Cruz,"1,703 sqft","Jul 3, 2013","$520,000",36.977055,-121.986565,CA,Single-Family Home,520000,"$722,000",95062,,,,Sold,SANTA CRUZ
+523,1024 Bay St,1.0,2.0,Santa Cruz,970 sqft,"Jul 3, 2013","$483,000",36.965004,-122.03744,CA,Single-Family Home,483000,"$649,000",95060,,,,Sold,SANTA CRUZ
+524,141 Southampton Ln #B,2.0,2.0,Santa Cruz,944 sqft,"Jul 3, 2013","$345,000",36.97148,-122.00319,CA,Condo,345000,"$476,000",95062,,,,Sold,SANTA CRUZ
+525,123 Southampton Ln #C,2.5,3.0,Santa Cruz,"1,641 sqft","Jul 3, 2013","$619,000",36.970432,-122.00316,CA,Townhouse,619000,"$734,000",95062,,,,Sold,SANTA CRUZ
+526,41 Grandview St #605,2.0,2.0,Santa Cruz,913 sqft,"Jul 2, 2013","$230,000",36.96121,-122.051056,CA,Single-Family Home,230000,"$428,000",95060,,,,Sold,SANTA CRUZ
+527,151 La Canada Way,2.0,3.0,Santa Cruz,"1,786 sqft","Jul 2, 2013","$730,000",37.020317,-122.03536,CA,Single-Family Home,730000,"$866,000",95060,,,,Sold,SANTA CRUZ
+528,227 May Ave,2.5,2.0,Santa Cruz,"1,517 sqft","Jul 2, 2013","$520,000",36.97779,-122.0197,CA,Single-Family Home,520000,"$682,000",95060,,,,Sold,SANTA CRUZ
+529,220 Atlantic Ave #212,,,Santa Cruz,,"Jul 1, 2013","$375,000",36.96451,-122.00643,CA,Condo,375000,,95062,,,,Sold,SANTA CRUZ
+530,239 Alamo Ave,2.0,3.0,Santa Cruz,"1,832 sqft","Jun 28, 2013","$776,000",36.96543,-122.05587,CA,Single-Family Home,776000,"$875,000",95060,,,,Sold,SANTA CRUZ
+531,3130 Stanley Ave,2.0,3.0,Santa Cruz,"1,612 sqft","Jun 28, 2013","$515,000",36.989616,-121.97282,CA,Single-Family Home,515000,"$655,000",95065,,,,Sold,SANTA CRUZ
+532,5041 Thurber Ln,2.0,3.0,Santa Cruz,"1,510 sqft","Jun 28, 2013","$650,000",37.002907,-121.975746,CA,Single-Family Home,650000,"$724,000",95065,,,,Sold,SANTA CRUZ
+533,2065 Sequoia Dr,1.5,3.0,Santa Cruz,"1,181 sqft","Jun 28, 2013","$460,000",36.991745,-121.976776,CA,Single-Family Home,460000,"$629,000",95065,,,,Sold,SANTA CRUZ
+534,610 26th Ave,1.0,1.0,Santa Cruz,904 sqft,"Jun 28, 2013","$640,000",36.961876,-121.976906,CA,Single-Family Home,640000,"$720,000",95062,,,,Sold,SANTA CRUZ
+535,99 S Branciforte Ave,2.5,2.0,Santa Cruz,,"Jun 28, 2013","$587,500",36.969723,-122.01258,CA,Condo,587500,"$552,000",95062,,,,Sold,SANTA CRUZ
+536,111 Pendegast Ave,1.0,2.0,Santa Cruz,"1,042 sqft","Jun 28, 2013","$680,000",36.95912,-122.03934,CA,Single-Family Home,680000,"$664,000",95060,,,,Sold,SANTA CRUZ
+537,1764 Esperanza Ct,2.5,2.0,Santa Cruz,"1,579 sqft","Jun 28, 2013","$425,000",36.97762,-121.98726,CA,Townhouse,425000,"$444,000",95062,,,,Sold,SANTA CRUZ
+538,579 34th Ave,1.0,1.0,Santa Cruz,630 sqft,"Jun 28, 2013","$440,000",36.960445,-121.971535,CA,Single-Family Home,440000,"$532,000",95062,,,,Sold,SANTA CRUZ
+539,142 Peach Ter,1.0,2.0,Santa Cruz,943 sqft,"Jun 28, 2013","$318,000",36.97437,-122.051544,CA,Townhouse,318000,"$386,000",95060,,,,Sold,SANTA CRUZ
+540,318 Soquel Ave #B3,2.0,2.0,Santa Cruz,"1,180 sqft","Jun 28, 2013","$400,000",36.9737,-122.02053,CA,Condo,400000,"$438,000",95062,,,,Sold,SANTA CRUZ
+541,221 Chestnut St,2.0,3.0,Santa Cruz,"1,137 sqft","Jun 28, 2013","$1,360,000",36.969315,-122.0299,CA,Multi-Family,1360000,,95060,,,,Sold,SANTA CRUZ
+542,130 Nanna Ct,3.0,4.0,Santa Cruz,"3,655 sqft","Jun 28, 2013","$1,290,000",36.99622,-122.016,CA,Single-Family Home,1290000,"$1,176,000",95060,,,,Sold,SANTA CRUZ
+543,30 Victorian Ct,2.5,3.0,Santa Cruz,"1,912 sqft","Jun 27, 2013","$650,000",36.980785,-122.019714,CA,Single-Family Home,650000,"$785,000",95060,,,,Sold,SANTA CRUZ
+544,3014 Gera Dr,2.5,3.0,Santa Cruz,"1,355 sqft","Jun 27, 2013","$415,000",36.963665,-121.973495,CA,Townhouse,415000,"$678,000",95062,,,,Sold,SANTA CRUZ
+545,220 Southview Ter,2.5,3.0,Santa Cruz,"1,548 sqft","Jun 27, 2013","$580,000",36.96175,-122.05877,CA,Townhouse,580000,"$592,000",95060,,,,Sold,SANTA CRUZ
+546,266 Waugh Ave,2.5,3.0,Santa Cruz,"1,697 sqft","Jun 27, 2013","$728,000",37.005943,-121.97242,CA,Single-Family Home,728000,"$837,000",95065,,,,Sold,SANTA CRUZ
+547,2503 Friesland Ct,1.5,2.0,Santa Cruz,"1,241 sqft","Jun 27, 2013","$451,000",36.962105,-121.977844,CA,Townhouse,451000,"$529,000",95062,,,,Sold,SANTA CRUZ
+548,108 Sadi St,2.0,3.0,Santa Cruz,"1,415 sqft","Jun 27, 2013","$690,000",36.96708,-122.037704,CA,Single-Family Home,690000,"$789,000",95060,,,,Sold,SANTA CRUZ
+549,1200 Capitola Rd #7,2.0,2.0,Santa Cruz,"1,208 sqft","Jun 27, 2013","$330,000",36.976658,-121.987564,CA,Townhouse,330000,"$409,000",95062,,,,Sold,SANTA CRUZ
+550,120 Rankin St,1.0,3.0,Santa Cruz,"1,064 sqft","Jun 27, 2013","$525,000",36.95991,-122.04025,CA,Single-Family Home,525000,"$658,000",95060,,,,Sold,SANTA CRUZ
+551,4891 Branciforte Dr,2.0,2.0,Santa Cruz,"2,248 sqft","Jun 26, 2013","$725,000",37.04594,-121.98475,CA,Farm/Ranch,725000,"$819,000",95065,,,,Sold,SANTA CRUZ
+552,401 Waugh Ave,2.5,3.0,Santa Cruz,"2,040 sqft","Jun 26, 2013","$742,500",37.0048,-121.97288,CA,Single-Family Home,742500,"$886,000",95065,,,,Sold,SANTA CRUZ
+553,1989 Halterman Ave,2.0,3.0,Santa Cruz,"1,304 sqft","Jun 26, 2013","$550,000",36.979107,-121.97811,CA,Single-Family Home,550000,"$663,000",95062,,,,Sold,SANTA CRUZ
+554,1817 Bay St,2.5,4.0,Santa Cruz,"2,124 sqft","Jun 26, 2013","$750,000",36.9692,-122.04608,CA,Single-Family Home,750000,"$941,000",95060,,,,Sold,SANTA CRUZ
+555,290 Mcgivern Way,3.0,4.0,Santa Cruz,"3,562 sqft","Jun 26, 2013","$450,000",37.057014,-122.114105,CA,Farm/Ranch,450000,"$1,026,000",95060,,,,Sold,SANTA CRUZ
+556,918 3rd St #D,3.0,3.0,Santa Cruz,"1,911 sqft","Jun 25, 2013","$605,000",36.967003,-122.02348,CA,Condo,605000,"$718,000",95060,,,,Sold,SANTA CRUZ
+557,1520 Leila Ct,1.0,2.0,Santa Cruz,952 sqft,"Jun 25, 2013","$425,000",36.97485,-121.98638,CA,Townhouse,425000,"$413,000",95062,,,,Sold,SANTA CRUZ
+558,220 May Ave,2.0,3.0,Santa Cruz,"1,625 sqft","Jun 25, 2013","$585,000",36.977657,-122.019104,CA,Single-Family Home,585000,"$770,000",95060,,,,Sold,SANTA CRUZ
+559,351 Baker St,1.0,3.0,Santa Cruz,"1,224 sqft","Jun 25, 2013","$425,000",36.9584,-121.977425,CA,Single-Family Home,425000,"$778,000",95062,,,,Sold,SANTA CRUZ
+560,449 High St,1.5,1.0,Santa Cruz,"1,220 sqft","Jun 25, 2013","$790,000",36.976704,-122.03729,CA,Single-Family Home,790000,"$608,000",95060,,,,Sold,SANTA CRUZ
+561,932 Seaside St,2.5,2.0,Santa Cruz,"1,783 sqft","Jun 25, 2013","$862,500",36.966965,-122.03708,CA,Single-Family Home,862500,"$874,000",95060,,,,Sold,SANTA CRUZ
+562,401 8th Ave,1.0,1.0,Santa Cruz,488 sqft,"Jun 24, 2013","$565,000",36.966537,-121.99751,CA,Single-Family Home,565000,"$548,000",95062,,,,Sold,SANTA CRUZ
+563,151 Anchorage Ave,1.0,1.0,Santa Cruz,616 sqft,"Jun 24, 2013","$656,000",36.956535,-121.97427,CA,Single-Family Home,656000,"$582,000",95062,,,,Sold,SANTA CRUZ
+564,301 Vine Hill Rd,2.0,3.0,Santa Cruz,"1,692 sqft","Jun 24, 2013","$675,000",37.056828,-121.98172,CA,Farm/Ranch,675000,"$674,000",95065,,,,Sold,SANTA CRUZ
+565,126 Penguin Ct,,,Santa Cruz,,"Jun 24, 2013","$535,000",36.977364,-122.05673,CA,Unknown,535000,,95060,,,,Sold,SANTA CRUZ

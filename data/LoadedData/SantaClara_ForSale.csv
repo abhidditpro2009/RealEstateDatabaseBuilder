@@ -1,0 +1,146 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95050,992 Maryann Dr,2,3,Santa Clara,"1,519 sqft",31-Dec-69,$0 ,37.34553,-121.96812,CA,Single-Family Home,749950,,,,65,42,For Sale,SANTA CLARA
+95051,3207 Forbes Ave,2,3,Santa Clara,"1,700 sqft",31-Dec-69,$0 ,37.334747,-121.98702,CA,Single-Family Home,855000,,,,57,33,For Sale,SANTA CLARA
+95054,3901 Lick Mill Blvd #363,1,1,Santa Clara,908 sqft,31-Dec-69,$0 ,37.39643,-121.94343,CA,Condo,430000,,,,57,48,For Sale,SANTA CLARA
+95050,1646 Berna St,2,3,Santa Clara,"1,547 sqft",31-Dec-69,$0 ,37.353973,-121.9618,CA,Single-Family Home,749950,,,,69,47,For Sale,SANTA CLARA
+95050,1846 Los Padres Blvd,2,4,Santa Clara,"1,685 sqft",31-Dec-69,$0 ,37.3566,-121.96518,CA,Single-Family Home,375000,,,,65,46,For Sale,SANTA CLARA
+95051,2647 Donovan Ave,4,5,Santa Clara,"2,648 sqft",31-Dec-69,$0 ,37.35389,-121.97442,CA,Single-Family Home,1095000,,,,71,47,For Sale,SANTA CLARA
+95054,2191 Kingsbury Cir,3,4,Santa Clara,"1,602 sqft",31-Dec-69,$0 ,37.397125,-121.96238,CA,Single-Family Home,788800,,,,52,,For Sale,SANTA CLARA
+95050,2114 Sheraton Dr,2,3,Santa Clara,984 sqft,31-Dec-69,$0 ,37.36145,-121.96773,CA,Single-Family Home,599000,,,,42,35,For Sale,SANTA CLARA
+95051,980 Kiely Blvd #307,1,1,Santa Clara,622 sqft,31-Dec-69,$0 ,37.34331,-121.97939,CA,Condo,275000,,,,65,42,For Sale,SANTA CLARA
+95050,2423 Michele Jean Way,3,3,Santa Clara,"1,872 sqft",31-Dec-69,$0 ,37.335575,-121.96463,CA,Condo,695000,,,,62,35,For Sale,SANTA CLARA
+95054,3901 Lick Mill Bl 363 Blvd,1,1,Santa Clara,908 sqft,31-Dec-69,$0 ,37.3964,-121.943,CA,Townhome,430000,,,,54,49,For Sale,SANTA CLARA
+95051,3437 Santa Barbara Ave,2,3,Santa Clara,"1,576 sqft",31-Dec-69,$0 ,37.359398,-121.99135,CA,Single-Family Home,848000,,,,65,39,For Sale,SANTA CLARA
+95051,3007 Kaiser Dr,2,2,Santa Clara,"1,097 sqft",31-Dec-69,$0 ,37.34219,-121.98188,CA,Townhome,398000,,,,60,39,For Sale,SANTA CLARA
+95051,2601 Cortez Dr #5105,1,2,Santa Clara,746 sqft,31-Dec-69,$0 ,37.369232,-121.97526,CA,Apt/Condo/Twnhm,372500,,,,45,33,For Sale,SANTA CLARA
+95050,1777 Lafayette St #214,1,1,Santa Clara,"1,220 sqft",31-Dec-69,$0 ,37.35716,-121.94625,CA,Condo,485000,,,,69,51,For Sale,SANTA CLARA
+95050,1846 Los Padres Blvd,2,4,Santa Clara,"1,685 sqft",31-Dec-69,$0 ,37.3566,-121.96518,CA,Single-Family Home,794900,,,,65,46,For Sale,SANTA CLARA
+95050,2250 Monroe St #288,2,2,Santa Clara,913 sqft,31-Dec-69,$0 ,37.36095,-121.96394,CA,Condo,439000,,,,49,35,For Sale,SANTA CLARA
+95051,2601 Cortez Dr 5207 Dr,1,2,Santa Clara,712 sqft,31-Dec-69,$0 ,37.3698,-121.975,CA,Townhome,372500,,,,45,33,For Sale,SANTA CLARA
+95050,2176 El Capitan Ave,2,4,Santa Clara,"1,248 sqft",31-Dec-69,$0 ,37.36257,-121.96553,CA,Single-Family Home,761111,,,,48,35,For Sale,SANTA CLARA
+95054,2338 Sawyer Ct,3,4,Santa Clara,"1,850 sqft",31-Dec-69,$0 ,37.39515,-121.96572,CA,Single-Family Home,929000,,,,46,37,For Sale,SANTA CLARA
+95054,1179 Doyle Cir,4,4,Santa Clara,"2,408 sqft",31-Dec-69,$0 ,37.397003,-121.95443,CA,Single-Family Home,1395000,,,,55,,For Sale,SANTA CLARA
+95051,875 Bing Dr,,,Santa Clara,"3,594 sqft",31-Dec-69,$0 ,37.340572,-121.99252,CA,Multi-Family Home,1288000,,,,66,34,For Sale,SANTA CLARA
+95051,468 Montclair Dr,2,5,Santa Clara,"1,802 sqft",31-Dec-69,$0 ,37.33091,-121.99917,CA,Single-Family Home,995000,,,,48,37,For Sale,SANTA CLARA
+95050,1525 Alviso St,,,Santa Clara,"6,500 sqft",31-Dec-69,$0 ,37.356182,-121.944016,CA,Income/Investment,8000000,,,,54,53,For Sale,SANTA CLARA
+95051,1400 Bowe Ave #509,2,2,Santa Clara,"1,062 sqft",31-Dec-69,$0 ,37.35004,-121.97474,CA,Condo,454900,,,,63,46,For Sale,SANTA CLARA
+95051,895 Quince Ave #15,3,3,Santa Clara,,31-Dec-69,$0 ,37.341225,-121.98608,CA,Apt/Condo/Twnhm,599000,,,,62,35,For Sale,SANTA CLARA
+95054,3901 Lick Mill Blvd #242,2,2,Santa Clara,"1,192 sqft",31-Dec-69,$0 ,37.39643,-121.94343,CA,Condo,549000,,,,57,48,For Sale,SANTA CLARA
+95050,2221 Park Ave,1,2,Santa Clara,"1,008 sqft",31-Dec-69,$0 ,37.34136,-121.93338,CA,Single-Family Home,629000,,,,65,45,For Sale,SANTA CLARA
+95054,4288 Macedo Pl,7,3,Santa Clara,"1,199 sqft",31-Dec-69,$0 ,37.39429,-121.95947,CA,Single-Family Home,599950,,,,52,,For Sale,SANTA CLARA
+95051,2578 Knightsbridge Ln,3,3,Santa Clara,"1,369 sqft",31-Dec-69,$0 ,37.367195,-121.972534,CA,Townhome,549000,,,,42,35,For Sale,SANTA CLARA
+95051,3056 Forbes Ave,2,3,Santa Clara,"1,200 sqft",31-Dec-69,$0 ,37.33355,-121.984314,CA,Single-Family Home,699950,,,,51,35,For Sale,SANTA CLARA
+95051,1245 Blackfield Dr,2,3,Santa Clara,"1,494 sqft",31-Dec-69,$0 ,37.34836,-121.96898,CA,Single-Family Home,749000,,,,68,45,For Sale,SANTA CLARA
+95054,4305 Watson Cir,4,3,Santa Clara,"1,657 sqft",31-Dec-69,$0 ,37.399498,-121.94789,CA,Single-Family Home,968888,,,,52,46,For Sale,SANTA CLARA
+95050,2356 Fatjo Pl,2,3,Santa Clara,"1,700 sqft",31-Dec-69,$0 ,37.35496,-121.966774,CA,Single-Family Home,848000,,,,68,46,For Sale,SANTA CLARA
+95054,3651 Beth Ct,2,3,Santa Clara,"1,097 sqft",31-Dec-69,$0 ,37.38681,-121.95088,CA,Single-Family Home,650000,,,,51,29,For Sale,SANTA CLARA
+95054,2398 Avenida De Guadalupe,2,2,Santa Clara,"1,121 sqft",31-Dec-69,$0 ,37.40533,-121.96458,CA,Apt/Condo/Twnhm,534900,,,,32,,For Sale,SANTA CLARA
+95050,920 Visconti Pl,2.5,3,Santa Clara,"1,508 sqft",31-Dec-69,$0 ,37.345028,-121.96015,CA,Condo,669000,,,,54,43,For Sale,SANTA CLARA
+95051,2550 Dixon Dr,2,3,Santa Clara,"1,166 sqft",31-Dec-69,$0 ,37.341152,-121.97062,CA,Single-Family Home,709000,,,,62,37,For Sale,SANTA CLARA
+95051,2580 Homestead Rd #3201,2,2,Santa Clara,984 sqft,31-Dec-69,$0 ,37.33947,-121.97137,CA,Condo,425000,,,,66,34,For Sale,SANTA CLARA
+95054,4655 Old Ironsides Dr #150,,,Santa Clara,"1,824 sqft",31-Dec-69,$0 ,37.39744,-121.97882,CA,Income/Investment,169500,,,,62,48,For Sale,SANTA CLARA
+95051,449 Kiely Blvd,3,3,Santa Clara,"1,442 sqft",31-Dec-69,$0 ,37.33103,-121.974174,CA,Single-Family Home,849950,,,,57,40,For Sale,SANTA CLARA
+95054,744 Orkney Ave,2,4,Santa Clara,"1,441 sqft",31-Dec-69,$0 ,37.3905,-121.94753,CA,Single-Family Home,690000,,,,57,39,For Sale,SANTA CLARA
+95050,622 Los Padres Blvd,2,3,Santa Clara,"1,472 sqft",31-Dec-69,$0 ,37.33782,-121.96221,CA,Single-Family Home,645000,,,,49,31,For Sale,SANTA CLARA
+95050,1159 Scott Blvd,2,3,Santa Clara,"2,822 sqft",31-Dec-69,$0 ,37.346874,-121.959045,CA,Single-Family Home,874950,,,,68,44,For Sale,SANTA CLARA
+95051,946 Kiely Blvd #D,2,2,Santa Clara,956 sqft,31-Dec-69,$0 ,37.34279,-121.97975,CA,Apt/Condo/Twnhm,399000,,,,71,40,For Sale,SANTA CLARA
+95050,1700 Civic Center Dr #204,1,1,Santa Clara,646 sqft,31-Dec-69,$0 ,37.355453,-121.95769,CA,Apt/Condo/Twnhm,337000,,,,75,48,For Sale,SANTA CLARA
+95054,958 Leith Ave,2,3,Santa Clara,"1,506 sqft",31-Dec-69,$0 ,37.388447,-121.950294,CA,Single-Family Home,675000,,,,58,31,For Sale,SANTA CLARA
+95051,121 Buckingham Dr #15,1,1,Santa Clara,656 sqft,31-Dec-69,$0 ,37.325848,-121.97145,CA,Apt/Condo/Twnhm,319900,,,,69,42,For Sale,SANTA CLARA
+95050,219 Alviso St,2,2,Santa Clara,"1,976 sqft",31-Dec-69,$0 ,37.34261,-121.937065,CA,Single-Family Home,925000,,,,74,47,For Sale,SANTA CLARA
+95050,1700 Civic Center Dr #608,1,1,Santa Clara,574 sqft,31-Dec-69,$0 ,37.355453,-121.95769,CA,Apt/Condo/Twnhm,337000,,,,75,48,For Sale,SANTA CLARA
+95050,248 Douglane Ave,3,4,Santa Clara,"2,305 sqft",31-Dec-69,$0 ,37.324768,-121.957115,CA,Single-Family Home,1098000,,,Downtown San Jose,77,44,For Sale,SANTA CLARA
+95050,1122 Monroe St,1,3,Santa Clara,"1,390 sqft",31-Dec-69,$0 ,37.34961,-121.94916,CA,Single-Family Home,659900,,,,55,49,For Sale,SANTA CLARA
+95050,1850 Bellomy St,,,Santa Clara,"2,268 sqft",31-Dec-69,$0 ,37.34118,-121.952194,CA,Income/Investment,899900,,,,46,37,For Sale,SANTA CLARA
+95050,1321 Jonathan St,8,9,Santa Clara,"3,934 sqft",31-Dec-69,$0 ,37.3419,-121.94491,CA,Multi-Family Home,1299950,,,,62,42,For Sale,SANTA CLARA
+95051,3153 Cabrillo Ave,2,3,Santa Clara,"1,562 sqft",31-Dec-69,$0 ,37.359035,-121.982864,CA,Single-Family Home,799000,,,,57,42,For Sale,SANTA CLARA
+95054,5064 Plaza Corona,2,3,Santa Clara,"1,232 sqft",31-Dec-69,$0 ,37.407024,-121.9633,CA,Apt/Condo/Twnhm,518880,,,,29,45,For Sale,SANTA CLARA
+95050,1835 De La Pena Ave,2,3,Santa Clara,"1,012 sqft",31-Dec-69,$0 ,37.343292,-121.955025,CA,Single-Family Home,620000,,,,49,43,For Sale,SANTA CLARA
+95050,1974 Murguia Ave,2,3,Santa Clara,"1,435 sqft",31-Dec-69,$0 ,37.34017,-121.956535,CA,Single-Family Home,839000,,,,43,34,For Sale,SANTA CLARA
+95054,970 Clyde Ave,2,3,Santa Clara,,31-Dec-69,$0 ,37.389618,-121.95065,CA,Multi-Family Home,1450000,,,,58,31,For Sale,SANTA CLARA
+95050,1700 Civic Center Dr #309,1,1,Santa Clara,653 sqft,31-Dec-69,$0 ,37.355453,-121.95769,CA,Apt/Condo/Twnhm,297000,,,,85,48,For Sale,SANTA CLARA
+95050,1525 Alviso St,,,Santa Clara,,31-Dec-69,$0 ,37.356182,-121.944016,CA,Multi-Family Home,8000000,,,,54,53,For Sale,SANTA CLARA
+95050,1700 Civic Center Dr #602,1,2,Santa Clara,971 sqft,31-Dec-69,$0 ,37.355453,-121.95769,CA,Apt/Condo/Twnhm,480000,,,,55,48,For Sale,SANTA CLARA
+95050,1525 Alviso St,,,Santa Clara,,31-Dec-69,$0 ,37.356182,-121.944016,CA,Lot/Land,8000000,,,,54,53,For Sale,SANTA CLARA
+95051,980 Kiely Blvd #204,1,1,Santa Clara,622 sqft,31-Dec-69,$0 ,37.34331,-121.979546,CA,Apt/Condo/Twnhm,299000,,,,65,42,For Sale,SANTA CLARA
+95051,3375 Cabrillo Ave,,,Santa Clara,"1,998 sqft",31-Dec-69,$0 ,37.36016,-121.989044,CA,Income/Investment,950000,,,,57,29,For Sale,SANTA CLARA
+95054,Silva Pl,2,3,Santa Clara,"1,458 sqft",31-Dec-69,$0 ,37.397373,-121.95771,CA,Single-Family Home,699000,,,,57,34,For Sale,SANTA CLARA
+95051,2625 Keystone Ave #103,2,2,Santa Clara,,31-Dec-69,$0 ,37.3255,-121.96972,CA,Condo,450000,,,,71,42,For Sale,SANTA CLARA
+95051,Woodhams Rd,2,4,Santa Clara,"1,092 sqft",31-Dec-69,$0 ,37.334206,-121.9802,CA,Single-Family Home,203304,,,,57,37,For Sale,SANTA CLARA
+95054,Agnew Rd #352,2,2,Santa Clara,"1,070 sqft",31-Dec-69,$0 ,37.395287,-121.95792,CA,Condo,368000,,,,54,,For Sale,SANTA CLARA
+95054,Chestnut St,1,3,Santa Clara,"1,060 sqft",31-Dec-69,$0 ,37.390774,-121.95821,CA,Single-Family Home,370000,,,,57,31,For Sale,SANTA CLARA
+95051,Roblar Ln,1,2,Santa Clara,904 sqft,31-Dec-69,$0 ,37.36605,-121.9721,CA,Condo,309662,,,,38,35,For Sale,SANTA CLARA
+95051,3437 Benton St,1,2,Santa Clara,947 sqft,31-Dec-69,$0 ,37.345306,-121.98959,CA,Apt/Condo/Twnhm,432500,,,,,,For Sale,SANTA CLARA
+95054,Chestnut St,1,3,Santa Clara,"1,134 sqft",31-Dec-69,$0 ,37.390682,-121.958435,CA,Single-Family Home,482000,,,,60,31,For Sale,SANTA CLARA
+95050,Market St,,,Santa Clara,"1,871 sqft",31-Dec-69,$0 ,37.345287,-121.94467,CA,Multi-Family Home,674090,,,,63,48,For Sale,SANTA CLARA
+95051,Europe Ct,2,2,Santa Clara,"1,524 sqft",31-Dec-69,$0 ,37.349155,-121.998116,CA,Condo,5231,,,,75,42,For Sale,SANTA CLARA
+95051,Keystone Ave #209,2,2,Santa Clara,"1,338 sqft",31-Dec-69,$0 ,37.325153,-121.96976,CA,Condo,60000,,,,75,42,For Sale,SANTA CLARA
+95051,Quince Ave #15,2,2,Santa Clara,"1,557 sqft",31-Dec-69,$0 ,37.341263,-121.98626,CA,Condo,125000,,,,55,35,For Sale,SANTA CLARA
+95054,Doyle Cir,3,4,Santa Clara,"2,408 sqft",31-Dec-69,$0 ,37.39702,-121.954155,CA,Single-Family Home,3189,,,,55,,For Sale,SANTA CLARA
+95050,Enright Ave,1,3,Santa Clara,980 sqft,31-Dec-69,$0 ,37.33945,-121.95855,CA,Single-Family Home,132658,,,,45,34,For Sale,SANTA CLARA
+95051,Buckingham Dr #285,2,2,Santa Clara,"1,028 sqft",31-Dec-69,$0 ,37.326622,-121.97169,CA,Condo,271472,,,,69,42,For Sale,SANTA CLARA
+95051,Cortez Dr #6102,1,2,Santa Clara,712 sqft,31-Dec-69,$0 ,37.368458,-121.97445,CA,Condo,11517,,,,38,34,For Sale,SANTA CLARA
+95051,Kaiser Dr A,1,2,Santa Clara,992 sqft,31-Dec-69,$0 ,37.34188,-121.97852,CA,Condo,12776,,,,65,40,For Sale,SANTA CLARA
+95050,Monroe St 606,1,2,Santa Clara,853 sqft,31-Dec-69,$0 ,37.361588,-121.96244,CA,Condo,6972,,,,45,34,For Sale,SANTA CLARA
+95050,Monroe St 704,2,2,Santa Clara,"1,142 sqft",31-Dec-69,$0 ,37.36177,-121.96279,CA,Condo,3891,,,,52,35,For Sale,SANTA CLARA
+95050,Washington St,,,Santa Clara,"4,165 sqft",31-Dec-69,$0 ,37.35665,-121.94841,CA,Multi-Family Home,650000,,,,55,51,For Sale,SANTA CLARA
+95051,Robertson Rd,1,3,Santa Clara,"1,497 sqft",31-Dec-69,$0 ,37.365498,-121.97206,CA,Condo,370827,,,,42,35,For Sale,SANTA CLARA
+95051,Kingwood Dr,2,3,Santa Clara,"1,369 sqft",31-Dec-69,$0 ,37.367493,-121.97035,CA,Condo,417000,,,,43,35,For Sale,SANTA CLARA
+95051,Lochinvar Ave #50,1,3,Santa Clara,"1,113 sqft",31-Dec-69,$0 ,37.339336,-121.98846,CA,Condo,7968,,,,49,31,For Sale,SANTA CLARA
+95051,Lancaster Ct,1,3,Santa Clara,"1,311 sqft",31-Dec-69,$0 ,37.366722,-121.97116,CA,Condo,577044,,,,42,35,For Sale,SANTA CLARA
+95050,Glendenning Ave,2,3,Santa Clara,"1,140 sqft",31-Dec-69,$0 ,37.33068,-121.95724,CA,Single-Family Home,908019,,,,,,For Sale,SANTA CLARA
+95051,Alvarado Dr,2,4,Santa Clara,"1,288 sqft",31-Dec-69,$0 ,37.36626,-121.967735,CA,Single-Family Home,694380,,,,46,35,For Sale,SANTA CLARA
+95054,Esperanca Ave,3,5,Santa Clara,"2,326 sqft",31-Dec-69,$0 ,37.3985,-121.965065,CA,Single-Family Home,600000,,,,45,40,For Sale,SANTA CLARA
+95051,Halford Ave,2,3,Santa Clara,"1,934 sqft",31-Dec-69,$0 ,37.349915,-121.999245,CA,Condo,691703,,,,75,42,For Sale,SANTA CLARA
+95051,El Sobrante St,1,2,Santa Clara,871 sqft,31-Dec-69,$0 ,37.349117,-121.97979,CA,Single-Family Home,753000,,,,69,46,For Sale,SANTA CLARA
+95051,Kiely Blvd,2,4,Santa Clara,"1,927 sqft",31-Dec-69,$0 ,37.33138,-121.974304,CA,Single-Family Home,600000,,,,58,39,For Sale,SANTA CLARA
+95051,Monroe St,3,3,Santa Clara,"2,991 sqft",31-Dec-69,$0 ,37.36327,-121.97899,CA,Single-Family Home,794498,,,,46,32,For Sale,SANTA CLARA
+95051,Bowe Ave #503,2,2,Santa Clara,"1,062 sqft",31-Dec-69,$0 ,37.34985,-121.973595,CA,Condo,376031,,,,66,46,For Sale,SANTA CLARA
+95051,Buckingham Dr #15,1,1,Santa Clara,656 sqft,31-Dec-69,$0 ,37.325848,-121.97169,CA,Condo,319865,,,,69,42,For Sale,SANTA CLARA
+95054,Laird Cir,3,3,Santa Clara,"1,590 sqft",31-Dec-69,$0 ,37.4012,-121.94906,CA,Single-Family Home,940854,,,,51,47,For Sale,SANTA CLARA
+95054,Address Not Disclosed,,,Santa Clara,,31-Dec-69,$0 ,37.385597,-121.954735,CA,Unspecified,390799,,,,62,30,For Sale,SANTA CLARA
+95054,Nelson Ct,2,3,Santa Clara,"1,563 sqft",31-Dec-69,$0 ,37.400414,-121.95592,CA,Single-Family Home,579126,,,,42,40,For Sale,SANTA CLARA
+95050,Clara Vista Ave,1,3,Santa Clara,"1,485 sqft",31-Dec-69,$0 ,37.3402,-121.96406,CA,Single-Family Home,610000,,,,46,34,For Sale,SANTA CLARA
+95051,Cozumel Cir,2,3,Santa Clara,"1,538 sqft",31-Dec-69,$0 ,37.35333,-121.97821,CA,Condo,634572,,,,74,46,For Sale,SANTA CLARA
+95050,Park Vista Cir,2,3,Santa Clara,"1,670 sqft",31-Dec-69,$0 ,37.355495,-121.956154,CA,Condo,24736,,,,83,48,For Sale,SANTA CLARA
+95050,Los Padres Blvd,1,3,Santa Clara,"1,131 sqft",31-Dec-69,$0 ,37.334854,-121.959755,CA,Single-Family Home,161871,,,,54,34,For Sale,SANTA CLARA
+95054,Tobin Cir,2,3,Santa Clara,"2,036 sqft",31-Dec-69,$0 ,37.399483,-121.9528,CA,Single-Family Home,500000,,,,51,39,For Sale,SANTA CLARA
+95051,Kiely Blvd,2,3,Santa Clara,"1,145 sqft",31-Dec-69,$0 ,37.336254,-121.9753,CA,Single-Family Home,210000,,,,63,35,For Sale,SANTA CLARA
+95050,Fairfield Ave,1,2,Santa Clara,"1,128 sqft",31-Dec-69,$0 ,37.34682,-121.958374,CA,Single-Family Home,200000,,,,52,44,For Sale,SANTA CLARA
+95050,Mission St,1,2,Santa Clara,900 sqft,31-Dec-69,$0 ,37.34444,-121.935265,CA,Single-Family Home,190000,,,,72,49,For Sale,SANTA CLARA
+95051,Humbolt Ave,4,6,Santa Clara,"3,190 sqft",31-Dec-69,$0 ,37.34782,-121.98586,CA,Single-Family Home,656902,,,,66,43,For Sale,SANTA CLARA
+95051,Dundee Dr,3,5,Santa Clara,"2,232 sqft",31-Dec-69,$0 ,37.364975,-121.97492,CA,Single-Family Home,475000,,,,42,33,For Sale,SANTA CLARA
+95051,Orthello Way,2,3,Santa Clara,"1,355 sqft",31-Dec-69,$0 ,37.34826,-121.98102,CA,Single-Family Home,417486,,,,69,45,For Sale,SANTA CLARA
+95051,Kiely Blvd B,1,2,Santa Clara,882 sqft,31-Dec-69,$0 ,37.34295,-121.97766,CA,Condo,297600,,,,62,40,For Sale,SANTA CLARA
+95054,Erie Ct,2,3,Santa Clara,"1,289 sqft",31-Dec-69,$0 ,37.392597,-121.96567,CA,Condo,333000,,,,63,34,For Sale,SANTA CLARA
+95051,Loyola Dr,2,3,Santa Clara,"1,560 sqft",31-Dec-69,$0 ,37.346832,-121.97098,CA,Single-Family Home,520000,,,,62,44,For Sale,SANTA CLARA
+95050,Denise Dr,2,3,Santa Clara,"1,745 sqft",31-Dec-69,$0 ,37.34851,-121.96357,CA,Single-Family Home,592000,,,,68,44,For Sale,SANTA CLARA
+95051,Saratoga Ave #115,2,2,Santa Clara,"1,137 sqft",31-Dec-69,$0 ,37.326313,-121.967285,CA,Condo,413088,,,,74,42,For Sale,SANTA CLARA
+95051,Kiely Blvd,2,2,Santa Clara,956 sqft,31-Dec-69,$0 ,37.342697,-121.97765,CA,Condo,392686,,,,62,40,For Sale,SANTA CLARA
+95050,Monroe St,2,2,Santa Clara,913 sqft,31-Dec-69,$0 ,37.362,-121.963196,CA,Condo,450051,,,,65,35,For Sale,SANTA CLARA
+95050,Don Ave,1,3,Santa Clara,985 sqft,31-Dec-69,$0 ,37.357857,-121.95497,CA,Single-Family Home,415000,,,,72,47,For Sale,SANTA CLARA
+95050,Monroe St,,,Santa Clara,"1,478 sqft",31-Dec-69,$0 ,37.345325,-121.94632,CA,Multi-Family Home,658298,,,,75,45,For Sale,SANTA CLARA
+95051,Jones Ave,2,3,Santa Clara,"1,492 sqft",31-Dec-69,$0 ,37.354923,-121.9874,CA,Single-Family Home,542051,,,,66,42,For Sale,SANTA CLARA
+95054,Garzoni Pl,2,3,Santa Clara,"1,646 sqft",31-Dec-69,$0 ,37.39823,-121.95795,CA,Condo,822346,,,,46,35,For Sale,SANTA CLARA
+95054,Leith Ave,2,3,Santa Clara,"1,097 sqft",31-Dec-69,$0 ,37.38789,-121.95117,CA,Single-Family Home,522000,,,,51,29,For Sale,SANTA CLARA
+95051,Barto St,2,4,Santa Clara,"1,092 sqft",31-Dec-69,$0 ,37.33444,-121.98282,CA,Single-Family Home,456625,,,,55,35,For Sale,SANTA CLARA
+95054,Bassett St,1,3,Santa Clara,"1,016 sqft",31-Dec-69,$0 ,37.392723,-121.957825,CA,Single-Family Home,586419,,,,58,30,For Sale,SANTA CLARA
+95051,Crowley Ave,2,5,Santa Clara,"1,437 sqft",31-Dec-69,$0 ,37.34903,-121.976685,CA,Single-Family Home,779437,,,,68,45,For Sale,SANTA CLARA
+95054,Eastwood Cir,,,Santa Clara,,31-Dec-69,$0 ,37.391632,-121.9407,CA,Unspecified,436894,,,,48,48,For Sale,SANTA CLARA
+95050,Palm View Pl #222,,,Santa Clara,,31-Dec-69,$0 ,37.35698,-121.95862,CA,Single-Family Home,305100,,,,77,46,For Sale,SANTA CLARA
+95051,Kiely Blvd B,,,Santa Clara,,31-Dec-69,$0 ,37.34365,-121.97767,CA,Lot/Land,352480,,,,71,42,For Sale,SANTA CLARA
+95050,Monroe St,,,Santa Clara,,31-Dec-69,$0 ,37.34543,-121.94632,CA,Single-Family Home,465000,,,,75,45,For Sale,SANTA CLARA
+95050,Saratoga Ave,,,Santa Clara,,31-Dec-69,$0 ,37.32837,-121.96542,CA,Unspecified,407000,,,,74,38,For Sale,SANTA CLARA
+95054,St Claire Ct,,,Santa Clara,,31-Dec-69,$0 ,37.393944,-121.96326,CA,Unspecified,384186,,,,55,34,For Sale,SANTA CLARA
+95054,St Claire Ct,,,Santa Clara,,31-Dec-69,$0 ,37.393944,-121.96326,CA,Unspecified,449875,,,,48,34,For Sale,SANTA CLARA
+95050,Palm View Pl,,,Santa Clara,,31-Dec-69,$0 ,37.357105,-121.95862,CA,Unspecified,419574,,,,78,46,For Sale,SANTA CLARA
+95051,Pebble Beach Dr,1,3,Santa Clara,"1,144 sqft",31-Dec-69,$0 ,37.36839,-121.97836,CA,Single-Family Home,593045,,,,52,32,For Sale,SANTA CLARA
+95050,The Alameda,,,Santa Clara,,31-Dec-69,$0 ,37.344616,-121.93269,CA,Unspecified,624493,,,,74,48,For Sale,SANTA CLARA
+95050,The Alameda,,,Santa Clara,,31-Dec-69,$0 ,37.344573,-121.932189,CA,Unspecified,624493,,,,74,48,For Sale,SANTA CLARA
+95051,Fowler Ave,2,3,Santa Clara,"1,548 sqft",31-Dec-69,$0 ,37.35546,-121.98946,CA,Single-Family Home,608000,,,,66,42,For Sale,SANTA CLARA
+95051,Dunford Way,2,3,Santa Clara,"1,388 sqft",31-Dec-69,$0 ,37.345127,-122.00061,CA,Single-Family Home,600000,,,,68,40,For Sale,SANTA CLARA
+95050,Lafayette St,2,3,Santa Clara,"2,025 sqft",31-Dec-69,$0 ,37.35598,-121.94652,CA,Single-Family Home,812510,,,,72,51,For Sale,SANTA CLARA
+95051,Nobili Ave,3,3,Santa Clara,"1,743 sqft",31-Dec-69,$0 ,37.36395,-121.99231,CA,Single-Family Home,636000,,,,54,32,For Sale,SANTA CLARA
+95054,Eastwood Cir,2,4,Santa Clara,"1,666 sqft",31-Dec-69,$0 ,37.3893,-121.94282,CA,Single-Family Home,764176,,,,55,44,For Sale,SANTA CLARA
+95054,Ramshall Pl,2,3,Santa Clara,"1,382 sqft",31-Dec-69,$0 ,37.39331,-121.96007,CA,Single-Family Home,732301,,,,45,31,For Sale,SANTA CLARA
+95050,Los Padres Blvd,,,Santa Clara,,31-Dec-69,$0 ,37.35659,-121.964905,CA,Unspecified,695000,,,,80,46,For Sale,SANTA CLARA

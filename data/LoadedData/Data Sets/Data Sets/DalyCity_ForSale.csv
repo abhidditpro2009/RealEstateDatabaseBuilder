@@ -1,0 +1,216 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94015,236 Westridge Ave,6,3,Daly City,"1,230 sqft",31-Dec-69,$0 ,37.689884,-122.49398,CA,Single-Family Home,548000,,,Westlake,40,,For Sale,SAN MATEO
+94015,236 Westridge Ave,1,3,Daly City,"1,230 sqft",31-Dec-69,$0 ,37.689884,-122.49398,CA,Single-Family Home,548000,,,Westlake,40,,For Sale,SAN MATEO
+94015,52 Monterey Dr,2,3,Daly City,"1,420 sqft",31-Dec-69,$0 ,37.679905,-122.486275,CA,Single-Family Home,599950,,,St. Francis,45,,For Sale,SAN MATEO
+94014,323 Green Ridge Dr #2,2,3,Daly City,,31-Dec-69,$0 ,37.70097,-122.45847,CA,Townhome,225000,,,Crocker,69,,For Sale,SAN MATEO
+94015,678 Higate Dr,2,3,Daly City,"1,330 sqft",31-Dec-69,$0 ,37.67479,-122.48865,CA,Single-Family Home,588000,,,St. Francis,42,,For Sale,SAN MATEO
+94014,398 Templeton Ave,,,Daly City,,31-Dec-69,$0 ,37.705887,-122.45285,CA,Single-Family Home,199900,,,Crocker,68,,For Sale,SAN MATEO
+94014,115 Haven Dr,2,3,Daly City,"1,860 sqft",31-Dec-69,$0 ,37.688328,-122.45095,CA,Mobile/Manufactured,279000,,,Hillside,26,,For Sale,SAN MATEO
+94015,1072 Gilman Dr,1,2,Daly City,820 sqft,31-Dec-69,$0 ,37.68667,-122.48036,CA,Single-Family Home,569999,,,Broadmoor,54,,For Sale,SAN MATEO
+94015,23 Carleton Ave,2,4,Daly City,"1,280 sqft",31-Dec-69,$0 ,37.682148,-122.48592,CA,Single-Family Home,598000,,,St. Francis,40,,For Sale,SAN MATEO
+94015,1228 Southgate Ave,2,4,Daly City,"1,950 sqft",31-Dec-69,$0 ,37.677727,-122.487206,CA,Single-Family Home,628000,,,St. Francis,45,,For Sale,SAN MATEO
+94015,848 87th St,1.5,3,Daly City,"1,140 sqft",31-Dec-69,$0 ,37.694103,-122.48716,CA,Single-Family Home,659000,,,Broadmoor,48,,For Sale,SAN MATEO
+94015,1551 Southgate Ave #125,1,1,Daly City,813 sqft,31-Dec-69,$0 ,37.67671,-122.47474,CA,Apt/Condo/Twnhm,299988,,,St. Francis,72,,For Sale,SAN MATEO
+94015,613 Hickey Blvd,3,4,Daly City,"1,730 sqft",31-Dec-69,$0 ,37.66412,-122.475365,CA,Single-Family Home,739000,,,Serramonte,83,,For Sale,SAN MATEO
+94014,213 Knowles Ave,2,3,Daly City,"1,480 sqft",31-Dec-69,$0 ,37.70476,-122.465614,CA,Single-Family Home,399000,,,Original Daly City,74,,For Sale,SAN MATEO
+94014,4 Cannery Sq,2,3,Daly City,"1,680 sqft",31-Dec-69,$0 ,37.688656,-122.45402,CA,Mobile/Manufactured,269000,,,Hillside,52,,For Sale,SAN MATEO
+94015,19 Camelot Ct,2,3,Daly City,"1,240 sqft",31-Dec-69,$0 ,37.65056,-122.45899,CA,Single-Family Home,499000,,,,63,,For Sale,SAN MATEO
+94014,538 Evergreen Ave,1,2,Daly City,910 sqft,31-Dec-69,$0 ,37.703773,-122.45505,CA,Single-Family Home,619000,,,Crocker,71,,For Sale,SAN MATEO
+94014,730 Carter St/steve Courtner Way,,,Daly City,,31-Dec-69,$0 ,37.70585,-122.42533,CA,Lot/Land,439000,,,Southern Hills,45,,For Sale,SAN MATEO
+94015,811 Thornhill Dr,1,3,Daly City,"1,120 sqft",31-Dec-69,$0 ,37.69108,-122.4859,CA,Single-Family Home,649000,,,Broadmoor,46,,For Sale,SAN MATEO
+94015,353 Philip Dr #303,2,2,Daly City,"1,237 sqft",31-Dec-69,$0 ,37.669155,-122.46448,CA,Apt/Condo/Twnhm,437750,,,Serramonte,63,,For Sale,SAN MATEO
+94014,6150 Mission St,,,Daly City,"10,281 sqft",31-Dec-69,$0 ,37.707047,-122.45854,CA,Income/Investment,2750000,,,Original Daly City,77,,For Sale,SAN MATEO
+94014,308 E Market St,,,Daly City,,31-Dec-69,$0 ,37.68976,-122.461334,CA,Lot/Land,1600000,,,Hillside,74,,For Sale,SAN MATEO
+94015,73 Rockford Ave,2,3,Daly City,"1,220 sqft",31-Dec-69,$0 ,37.664978,-122.49185,CA,Single-Family Home,598888,,,Westlake,31,,For Sale,SAN MATEO
+94014,28 W Cavour St,1,3,Daly City,"1,460 sqft",31-Dec-69,$0 ,37.69506,-122.466835,CA,Single-Family Home,630000,,,Original Daly City,78,,For Sale,SAN MATEO
+94015,565 Skyline Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.68101,-122.49024,CA,Single-Family Home,450000,,,Westlake,38,,For Sale,SAN MATEO
+94015,128 Penhurst Ct,3,3,Daly City,,31-Dec-69,$0 ,37.660236,-122.47451,CA,Single-Family Home,499000,,,Serramonte,60,,For Sale,SAN MATEO
+94015,38 Wakefield Ave,2,3,Daly City,,31-Dec-69,$0 ,37.65581,-122.47102,CA,Single-Family Home,499000,,,Serramonte,62,,For Sale,SAN MATEO
+94014,76 Haven Dr,2,3,Daly City,"1,700 sqft",31-Dec-69,$0 ,37.68727,-122.44942,CA,Mobile/Manufactured,178000,,,Hillside,32,,For Sale,SAN MATEO
+94014,97 Teresa St,2,3,Daly City,"1,320 sqft",31-Dec-69,$0 ,37.69129,-122.46015,CA,Single-Family Home,575000,,,Hillside,74,,For Sale,SAN MATEO
+94014,109 Santa Cruz Ave,1,2,Daly City,"1,050 sqft",31-Dec-69,$0 ,37.70808,-122.4655,CA,Single-Family Home,529900,,,Original Daly City,66,,For Sale,SAN MATEO
+94015,19 Northridge Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.68021,-122.49167,CA,Single-Family Home,598000,,,Westlake,34,,For Sale,SAN MATEO
+94014,357 Evergreen Ave,3,5,Daly City,"2,500 sqft",31-Dec-69,$0 ,37.705196,-122.455215,CA,Single-Family Home,799000,,,Crocker,80,,For Sale,SAN MATEO
+94015,9 Clearview Dr,2,4,Daly City,"1,420 sqft",31-Dec-69,$0 ,37.66676,-122.487206,CA,Single-Family Home,719900,,,Westlake,43,,For Sale,SAN MATEO
+94015,32 Belford Dr,1,2,Daly City,"1,300 sqft",31-Dec-69,$0 ,37.69761,-122.49241,CA,Single-Family Home,639000,,,Westlake,42,,For Sale,SAN MATEO
+94015,764 Larchmont Dr,4,4,Daly City,"3,299 sqft",31-Dec-69,$0 ,37.691723,-122.48446,CA,Single-Family Home,1125000,,,Broadmoor,54,,For Sale,SAN MATEO
+94015,1354 Southgate Ave,3,5,Daly City,"2,130 sqft",31-Dec-69,$0 ,37.675873,-122.48118,CA,Single-Family Home,738000,,,St. Francis,60,,For Sale,SAN MATEO
+94015,549 Skyline Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.68155,-122.49014,CA,Single-Family Home,605000,,,Westlake,38,,For Sale,SAN MATEO
+94015,160 Saint Michaels Ct,3,3,Daly City,"1,272 sqft",31-Dec-69,$0 ,37.6847,-122.48023,CA,Single-Family Home,628000,,,St. Francis,60,,For Sale,SAN MATEO
+94015,75 Berta Cir,2,3,Daly City,"1,160 sqft",31-Dec-69,$0 ,37.66244,-122.46719,CA,Single-Family Home,599000,,,Serramonte,69,,For Sale,SAN MATEO
+94015,831 Southgate Ave,4,5,Daly City,"2,760 sqft",31-Dec-69,$0 ,37.688152,-122.48797,CA,Single-Family Home,1199998,,,Westlake,37,,For Sale,SAN MATEO
+94014,294 Templeton Ave,,,Daly City,"2,084 sqft",31-Dec-69,$0 ,37.706398,-122.453514,CA,Multi-Family Home,799000,,,Crocker,74,,For Sale,SAN MATEO
+94015,49 Fieldcrest Dr,1,2,Daly City,"1,220 sqft",31-Dec-69,$0 ,37.70477,-122.48016,CA,Single-Family Home,749000,,,Westlake,58,,For Sale,SAN MATEO
+94015,368 Imperial Way,1,,Daly City,483 sqft,31-Dec-69,$0 ,37.665306,-122.46369,CA,Single-Family Home,258000,,,Serramonte,66,,For Sale,SAN MATEO
+94014,357 Evergreen Ave,3,5,Daly City,"2,500 sqft",31-Dec-69,$0 ,37.705196,-122.455215,CA,Apt/Condo/Twnhm,799000,,,Crocker,80,,For Sale,SAN MATEO
+94014,365 Oriente St,5,8,Daly City,"4,700 sqft",31-Dec-69,$0 ,37.70187,-122.41589,CA,Single-Family Home,1680000,,,Bayshore,49,,For Sale,SAN MATEO
+94015,210 Morton Dr,3,6,Daly City,"1,745 sqft",31-Dec-69,$0 ,37.656986,-122.46952,CA,Single-Family Home,749000,,,Serramonte,57,,For Sale,SAN MATEO
+94015,832 Higate Dr,3,3,Daly City,"1,180 sqft",31-Dec-69,$0 ,37.671303,-122.486115,CA,Single-Family Home,670000,,,St. Francis,43,,For Sale,SAN MATEO
+94015,377 Mandarin Dr #113,,1,Daly City,717 sqft,31-Dec-69,$0 ,37.665306,-122.46369,CA,Single-Family Home,375000,,,Serramonte,66,,For Sale,SAN MATEO
+94015,533 Verducci Dr,3,4,Daly City,"1,630 sqft",31-Dec-69,$0 ,37.651516,-122.4607,CA,Single-Family Home,799000,,,Serramonte,63,,For Sale,SAN MATEO
+94014,1349 Brunswick St,8,,Daly City,"4,494 sqft",31-Dec-69,$0 ,37.70414,-122.46056,CA,Single-Family Home,1399999,,,Hillside,77,,For Sale,SAN MATEO
+94014,98 Haven Dr,2,3,Daly City,"1,472 sqft",31-Dec-69,$0 ,37.68727,-122.44942,CA,Mobile/Manufactured,189000,,,Hillside,34,,For Sale,SAN MATEO
+94014,698 Sylvan St,,,Daly City,,31-Dec-69,$0 ,37.68646,-122.457535,CA,Multi-Family Home,919950,,,Hillside,52,,For Sale,SAN MATEO
+94015,87 Clearview Dr,1,3,Daly City,,31-Dec-69,$0 ,37.664944,-122.48725,CA,Single-Family Home,759000,,,Westlake,42,,For Sale,SAN MATEO
+94014,295 Oakridge Dr,3,3,Daly City,"2,610 sqft",31-Dec-69,$0 ,37.703327,-122.42762,CA,Single-Family Home,1199998,,,Southern Hills,29,,For Sale,SAN MATEO
+94014,240 Martin St,3,4,Daly City,"1,860 sqft",31-Dec-69,$0 ,37.701637,-122.41663,CA,Single-Family Home,585000,,,Bayshore,46,,For Sale,SAN MATEO
+94014,Steve Courter Way,,,Daly City,,31-Dec-69,$0 ,37.705377,-122.425176,CA,Lot/Land,2988000,,,,,,For Sale,SAN MATEO
+94014,514 Templeton Ave,1,3,Daly City,900 sqft,31-Dec-69,$0 ,37.70515,-122.45198,CA,Single-Family Home,559000,,,Crocker,65,,For Sale,SAN MATEO
+94015,811 Thornhill Dr,1,3,Daly City,"1,120 sqft",31-Dec-69,$0 ,37.69108,-122.4859,CA,Single-Family Home,649000,,,Broadmoor,46,,For Sale,SAN MATEO
+94015,680 Macarthur Dr,4,6,Daly City,"2,300 sqft",31-Dec-69,$0 ,37.68884,-122.4822,CA,Single-Family Home,798800,,,Broadmoor,46,,For Sale,SAN MATEO
+94014,400 Annie St,,,Daly City,,31-Dec-69,$0 ,37.689672,-122.475331,CA,Lot/Land,4500000,,,,,,For Sale,SAN MATEO
+94014,5995 Mission St #97,1,2,Daly City,"1,650 sqft",31-Dec-69,$0 ,37.707897,-122.45479,CA,Single-Family Home,788000,,,Original Daly City,75,,For Sale,SAN MATEO
+94015,Fairlawn Ave,1,2,Daly City,"1,620 sqft",31-Dec-69,$0 ,37.69663,-122.49192,CA,Single-Family Home,50000,,,Westlake,43,,For Sale,SAN MATEO
+94015,Skyline Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.68216,-122.49033,CA,Single-Family Home,139400,,,Westlake,38,,For Sale,SAN MATEO
+94015,Westpark Dr,3,4,Daly City,"1,790 sqft",31-Dec-69,$0 ,37.70589,-122.48518,CA,Single-Family Home,260000,,,Westlake,57,,For Sale,SAN MATEO
+94015,Sweetwood Dr,2,3,Daly City,"1,530 sqft",31-Dec-69,$0 ,37.686718,-122.47636,CA,Single-Family Home,58000,,,Broadmoor,63,,For Sale,SAN MATEO
+94014,Los Olivos Ave,2,6,Daly City,"2,501 sqft",31-Dec-69,$0 ,37.7054,-122.46313,CA,Multi-Family Home,520000,,,Original Daly City,82,,For Sale,SAN MATEO
+94015,Shelbourne Ave,2,4,Daly City,"1,280 sqft",31-Dec-69,$0 ,37.677513,-122.48807,CA,Single-Family Home,379324,,,St. Francis,43,,For Sale,SAN MATEO
+94015,King Dr,3,3,Daly City,"1,650 sqft",31-Dec-69,$0 ,37.65013,-122.46218,CA,Single-Family Home,534000,,,,66,,For Sale,SAN MATEO
+94014,Winchester St,1,2,Daly City,"1,000 sqft",31-Dec-69,$0 ,37.70678,-122.452286,CA,Single-Family Home,270000,,,Crocker,69,,For Sale,SAN MATEO
+94014,Pointe Pacific #4,2,2,Daly City,"1,394 sqft",31-Dec-69,$0 ,37.70117,-122.45766,CA,Condo,560715,,,Crocker,69,,For Sale,SAN MATEO
+94015,Innisfree Dr,3,3,Daly City,"1,610 sqft",31-Dec-69,$0 ,37.666718,-122.469826,CA,Condo,664411,,,Serramonte,68,,For Sale,SAN MATEO
+94014,Rio Verde St,2,3,Daly City,"1,640 sqft",31-Dec-69,$0 ,37.702927,-122.41761,CA,Single-Family Home,614220,,,Bayshore,51,,For Sale,SAN MATEO
+94015,Northgate Ct,2,3,Daly City,"1,700 sqft",31-Dec-69,$0 ,37.70362,-122.48658,CA,Single-Family Home,938250,,,,62,,For Sale,SAN MATEO
+94015,87th St,2,3,Daly City,"1,400 sqft",31-Dec-69,$0 ,37.693768,-122.48624,CA,Single-Family Home,650143,,,Broadmoor,54,,For Sale,SAN MATEO
+94015,Gilman Dr,1,3,Daly City,"1,420 sqft",31-Dec-69,$0 ,37.688972,-122.479996,CA,Single-Family Home,417000,,,Broadmoor,49,,For Sale,SAN MATEO
+94014,Villa St #13,1,2,Daly City,838 sqft,31-Dec-69,$0 ,37.686882,-122.45944,CA,Condo,189087,,,Hillside,63,,For Sale,SAN MATEO
+94015,Glenbrook Ave,2,3,Daly City,"1,160 sqft",31-Dec-69,$0 ,37.681667,-122.48596,CA,Single-Family Home,600000,,,St. Francis,48,,For Sale,SAN MATEO
+94015,S Mayfair Ave,1,2,Daly City,"1,060 sqft",31-Dec-69,$0 ,37.688015,-122.48912,CA,Single-Family Home,607964,,,Westlake,42,,For Sale,SAN MATEO
+94015,Glenbrook Ave,2,3,Daly City,"1,160 sqft",31-Dec-69,$0 ,37.681667,-122.48609,CA,Single-Family Home,649167,,,St. Francis,48,,For Sale,SAN MATEO
+94015,Olcese Ct,2,3,Daly City,"1,320 sqft",31-Dec-69,$0 ,37.67893,-122.477264,CA,Single-Family Home,723444,,,St. Francis,65,,For Sale,SAN MATEO
+94015,Longview Dr,2,3,Daly City,"1,220 sqft",31-Dec-69,$0 ,37.66547,-122.4894,CA,Single-Family Home,671028,,,Westlake,35,,For Sale,SAN MATEO
+94015,Southgate Ave 117,1,2,Daly City,"1,029 sqft",31-Dec-69,$0 ,37.67564,-122.47455,CA,Condo,396000,,,St. Francis,69,,For Sale,SAN MATEO
+94014,Foxhollow Ln,,2,Daly City,969 sqft,31-Dec-69,$0 ,37.70333,-122.44634,CA,Condo,448000,,,Crocker,55,,For Sale,SAN MATEO
+94014,Macdonald Ave,1,1,Daly City,990 sqft,31-Dec-69,$0 ,37.70623,-122.41005,CA,Single-Family Home,340000,,,Bayshore,52,,For Sale,SAN MATEO
+94014,Wyandotte Ave,1,2,Daly City,"1,070 sqft",31-Dec-69,$0 ,37.68877,-122.456535,CA,Single-Family Home,420000,,,Hillside,68,,For Sale,SAN MATEO
+94015,Montebello Dr,2,4,Daly City,"1,060 sqft",31-Dec-69,$0 ,37.664803,-122.4885,CA,Single-Family Home,471920,,,Westlake,35,,For Sale,SAN MATEO
+94014,Winchester St,1,2,Daly City,950 sqft,31-Dec-69,$0 ,37.70617,-122.4537,CA,Single-Family Home,460000,,,Crocker,71,,For Sale,SAN MATEO
+94014,Schwerin St,1,2,Daly City,950 sqft,31-Dec-69,$0 ,37.702602,-122.414894,CA,Single-Family Home,520000,,,Bayshore,55,,For Sale,SAN FRANCISCO
+94015,Sullivan Ave,1,2,Daly City,"1,240 sqft",31-Dec-69,$0 ,37.694603,-122.47225,CA,Single-Family Home,500000,,,Broadmoor,77,,For Sale,SAN MATEO
+94015,Westridge Ave,1,3,Daly City,"1,310 sqft",31-Dec-69,$0 ,37.691223,-122.49167,CA,Single-Family Home,525000,,,Westlake,42,,For Sale,SAN MATEO
+94015,Sweetwood Dr,1,3,Daly City,"1,140 sqft",31-Dec-69,$0 ,37.688583,-122.4763,CA,Single-Family Home,560000,,,Broadmoor,69,,For Sale,SAN MATEO
+94014,Lausanne Ave,1,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.689285,-122.45589,CA,Single-Family Home,635000,,,Hillside,54,,For Sale,SAN MATEO
+94015,Wakefield Ave,1,3,Daly City,"1,380 sqft",31-Dec-69,$0 ,37.654213,-122.470055,CA,Single-Family Home,650000,,,Serramonte,60,,For Sale,SAN MATEO
+94014,Lisbon St,3,4,Daly City,"2,170 sqft",31-Dec-69,$0 ,37.687813,-122.457954,CA,Single-Family Home,758949,,,Hillside,62,,For Sale,SAN MATEO
+94015,Montebello Dr,2,3,Daly City,"1,120 sqft",31-Dec-69,$0 ,37.666676,-122.48844,CA,Single-Family Home,594000,,,Westlake,32,,For Sale,SAN MATEO
+94014,Royce Way,,,Daly City,,31-Dec-69,$0 ,37.69159,-122.454475,CA,Unspecified,633073,,,Hillside,51,,For Sale,SAN MATEO
+94014,Crocker Ave,1,3,Daly City,"1,160 sqft",31-Dec-69,$0 ,37.703194,-122.45664,CA,Single-Family Home,691248,,,Crocker,74,,For Sale,SAN MATEO
+94015,Morton Dr,2,4,Daly City,"1,170 sqft",31-Dec-69,$0 ,37.655815,-122.46841,CA,Single-Family Home,685933,,,Serramonte,57,,For Sale,SAN MATEO
+94015,Camelia Dr,4,4,Daly City,"1,270 sqft",31-Dec-69,$0 ,37.682213,-122.47683,CA,Single-Family Home,776263,,,St. Francis,69,,For Sale,SAN MATEO
+94015,Dennis Dr,2,3,Daly City,"1,980 sqft",31-Dec-69,$0 ,37.652943,-122.46151,CA,Single-Family Home,788969,,,Serramonte,63,,For Sale,SAN MATEO
+94015,Callan Blvd,2,3,Daly City,"1,200 sqft",31-Dec-69,$0 ,37.66177,-122.47147,CA,Single-Family Home,500000,,,Serramonte,63,,For Sale,SAN MATEO
+94014,Wyandotte Ave,3,4,Daly City,"2,170 sqft",31-Dec-69,$0 ,37.68884,-122.456665,CA,Multi-Family Home,717629,,,Hillside,68,,For Sale,SAN MATEO
+94014,Eddington Ln,2,2,Daly City,969 sqft,31-Dec-69,$0 ,37.70361,-122.44559,CA,Condo,647149,,,Crocker,51,,For Sale,SAN MATEO
+94014,Los Olivos Ave,,,Daly City,,31-Dec-69,$0 ,37.705486,-122.46315,CA,Unspecified,520000,,,Original Daly City,82,,For Sale,SAN MATEO
+94014,Blossom Ct,2,2,Daly City,"1,480 sqft",31-Dec-69,$0 ,37.69368,-122.45644,CA,Single-Family Home,608548,,,Hillside,65,,For Sale,SAN MATEO
+94015,Alta Loma Ave,3,3,Daly City,"1,270 sqft",31-Dec-69,$0 ,37.681084,-122.47625,CA,Single-Family Home,600000,,,St. Francis,69,,For Sale,SAN MATEO
+94015,Saint Francis Blvd,2,3,Daly City,"1,750 sqft",31-Dec-69,$0 ,37.68438,-122.47759,CA,Single-Family Home,633005,,,St. Francis,60,,For Sale,SAN MATEO
+94015,Morton Dr,2,3,Daly City,"1,300 sqft",31-Dec-69,$0 ,37.653538,-122.468155,CA,Single-Family Home,708000,,,Serramonte,63,,For Sale,SAN MATEO
+94014,Farrier Pl,3,4,Daly City,"2,180 sqft",31-Dec-69,$0 ,37.703796,-122.42529,CA,Single-Family Home,780929,,,Bayshore,32,,For Sale,SAN MATEO
+94015,Eastgate Dr,2,3,Daly City,"1,850 sqft",31-Dec-69,$0 ,37.70164,-122.49044,CA,Single-Family Home,826190,,,Westlake,60,,For Sale,SAN MATEO
+94014,Winchester St,2,4,Daly City,"1,140 sqft",31-Dec-69,$0 ,37.70729,-122.45079,CA,Single-Family Home,689486,,,Crocker,71,,For Sale,SAN MATEO
+94014,E Moltke St,2,3,Daly City,"1,770 sqft",31-Dec-69,$0 ,37.69461,-122.45789,CA,Single-Family Home,662246,,,Hillside,63,,For Sale,SAN MATEO
+94015,Southgate Ave,3,4,Daly City,"1,710 sqft",31-Dec-69,$0 ,37.675613,-122.47705,CA,Single-Family Home,759804,,,St. Francis,68,,For Sale,SAN MATEO
+94015,Gellert Blvd,2,3,Daly City,"1,240 sqft",31-Dec-69,$0 ,37.651295,-122.4569,CA,Single-Family Home,666384,,,Serramonte,57,,For Sale,SAN MATEO
+94015,Imperial Way #342,2,2,Daly City,847 sqft,31-Dec-69,$0 ,37.66512,-122.4634,CA,Condo,74245,,,Serramonte,66,,For Sale,SAN MATEO
+94014,Mission,5,5,Daly City,"4,552 sqft",31-Dec-69,$0 ,37.69449,-122.46147,CA,Multi-Family Home,569473,,,Hillside,75,,For Sale,SAN MATEO
+94014,1st Ave,2,2,Daly City,"1,070 sqft",31-Dec-69,$0 ,37.688023,-122.464195,CA,Single-Family Home,39500,,,Hillside,80,,For Sale,SAN MATEO
+94015,Shelbourne Ave,2,4,Daly City,"1,280 sqft",31-Dec-69,$0 ,37.677513,-122.48819,CA,Single-Family Home,110250,,,St. Francis,35,,For Sale,SAN MATEO
+94015,Glenwood Ave,3,4,Daly City,"2,340 sqft",31-Dec-69,$0 ,37.701927,-122.49521,CA,Single-Family Home,192400,,,Westlake,40,,For Sale,SAN MATEO
+94015,Wembley Dr,3,4,Daly City,"2,000 sqft",31-Dec-69,$0 ,37.663113,-122.47355,CA,Single-Family Home,250000,,,Serramonte,65,,For Sale,SAN MATEO
+94015,Southgate Ave 125,1,1,Daly City,813 sqft,31-Dec-69,$0 ,37.67564,-122.47455,CA,Condo,55700,,,St. Francis,69,,For Sale,SAN MATEO
+94015,Penhurst Ct,2,3,Daly City,"1,630 sqft",31-Dec-69,$0 ,37.659847,-122.47449,CA,Single-Family Home,460000,,,Serramonte,60,,For Sale,SAN MATEO
+94015,S Mayfair Ave,2,3,Daly City,940 sqft,31-Dec-69,$0 ,37.69304,-122.49368,CA,Single-Family Home,271000,,,Westlake,46,,For Sale,SAN MATEO
+94014,Werner Ave,5,5,Daly City,"4,090 sqft",31-Dec-69,$0 ,37.692226,-122.46798,CA,Multi-Family Home,800000,,,Original Daly City,85,,For Sale,SAN MATEO
+94015,Saint Catherine Dr,2,3,Daly City,"1,270 sqft",31-Dec-69,$0 ,37.678604,-122.48164,CA,Single-Family Home,430000,,,St. Francis,52,,For Sale,SAN MATEO
+94015,Oceanside Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.67175,-122.48938,CA,Single-Family Home,392755,,,Westlake,34,,For Sale,SAN MATEO
+94015,Philip Dr #210,2,3,Daly City,"1,242 sqft",31-Dec-69,$0 ,37.669636,-122.4642,CA,Condo,237150,,,Serramonte,69,,For Sale,SAN MATEO
+94014,Castle St,3,4,Daly City,"2,260 sqft",31-Dec-69,$0 ,37.69182,-122.459656,CA,Single-Family Home,400000,,,Hillside,74,,For Sale,SAN MATEO
+94014,Villa St,2,2,Daly City,840 sqft,31-Dec-69,$0 ,37.68692,-122.45951,CA,Condo,160000,,,Hillside,57,,For Sale,SAN MATEO
+94015,Belhaven Ct,2,4,Daly City,"1,860 sqft",31-Dec-69,$0 ,37.6737,-122.47698,CA,Single-Family Home,548000,,,St. Francis,68,,For Sale,SAN MATEO
+94014,Cobblestone Sq,3,3,Daly City,"1,910 sqft",31-Dec-69,$0 ,37.689213,-122.46153,CA,Single-Family Home,400000,,,Hillside,74,,For Sale,SAN MATEO
+94015,Saint Francis Blvd,3,4,Daly City,"2,360 sqft",31-Dec-69,$0 ,37.66841,-122.48018,CA,Single-Family Home,720180,,,Serramonte,65,,For Sale,SAN MATEO
+94014,Lupine Ct,2,3,Daly City,"1,254 sqft",31-Dec-69,$0 ,37.70752,-122.424965,CA,Condo,316000,,,Bayshore,42,,For Sale,SAN MATEO
+94015,Cerro Dr,3,3,Daly City,"1,610 sqft",31-Dec-69,$0 ,37.675964,-122.475586,CA,Single-Family Home,521500,,,St. Francis,68,,For Sale,SAN MATEO
+94015,Canterbury Ave,1,3,Daly City,"1,220 sqft",31-Dec-69,$0 ,37.65406,-122.47088,CA,Single-Family Home,400000,,,Serramonte,51,,For Sale,SAN MATEO
+94014,3rd Ave,1,3,Daly City,"1,770 sqft",31-Dec-69,$0 ,37.692493,-122.46255,CA,Single-Family Home,500000,,,Hillside,80,,For Sale,SAN MATEO
+94015,Philip Dr,2,3,Daly City,"1,242 sqft",31-Dec-69,$0 ,37.669582,-122.46411,CA,Condo,433418,,,Serramonte,69,,For Sale,SAN MATEO
+94015,Philip Dr,2,2,Daly City,"1,237 sqft",31-Dec-69,$0 ,37.66939,-122.46377,CA,Condo,433418,,,Serramonte,68,,For Sale,SAN MATEO
+94015,S Mayfair Ave,1,3,Daly City,"1,390 sqft",31-Dec-69,$0 ,37.699726,-122.48968,CA,Single-Family Home,489800,,,Westlake,68,,For Sale,SAN MATEO
+94015,Half Moon Ln,2,2,Daly City,"1,065 sqft",31-Dec-69,$0 ,37.66436,-122.46502,CA,Condo,470243,,,Serramonte,66,,For Sale,SAN MATEO
+94015,Imperial Way #303,1,1,Daly City,717 sqft,31-Dec-69,$0 ,37.664093,-122.46393,CA,Condo,307874,,,Serramonte,68,,For Sale,SAN MATEO
+94014,San Antonio Cir,1,2,Daly City,784 sqft,31-Dec-69,$0 ,37.706673,-122.44084,CA,Condo,347707,,,Crocker,57,,For Sale,SAN MATEO
+94014,Pine Ct,2,3,Daly City,"1,200 sqft",31-Dec-69,$0 ,37.707584,-122.42596,CA,Condo,440490,,,Bayshore,48,,For Sale,SAN MATEO
+94015,Philip Dr,2,1,Daly City,"1,242 sqft",31-Dec-69,$0 ,37.66938,-122.463524,CA,Condo,491005,,,Serramonte,66,,For Sale,SAN MATEO
+94015,Imperial Way,2,2,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.66521,-122.46339,CA,Unspecified,424071,,,Serramonte,66,,For Sale,SAN MATEO
+94015,Pamela Ct,2,4,Daly City,"1,654 sqft",31-Dec-69,$0 ,37.683132,-122.4806,CA,Condo,589004,,,St. Francis,57,,For Sale,SAN MATEO
+94014,Vista Grande Ave,1,2,Daly City,900 sqft,31-Dec-69,$0 ,37.70315,-122.46805,CA,Single-Family Home,540000,,,Original Daly City,75,,For Sale,SAN MATEO
+94014,Vendome Ave,1,2,Daly City,750 sqft,31-Dec-69,$0 ,37.707176,-122.4635,CA,Single-Family Home,461283,,,Original Daly City,72,,For Sale,SAN MATEO
+94015,King Dr,1,2,Daly City,990 sqft,31-Dec-69,$0 ,37.650223,-122.46628,CA,Single-Family Home,482850,,,,62,,For Sale,SAN MATEO
+94015,Warwick St,2,3,Daly City,"1,230 sqft",31-Dec-69,$0 ,37.65231,-122.4667,CA,Single-Family Home,485000,,,Serramonte,58,,For Sale,SAN MATEO
+94014,Irvington,2,3,Daly City,790 sqft,31-Dec-69,$0 ,37.70637,-122.45755,CA,Single-Family Home,450886,,,Crocker,78,,For Sale,SAN MATEO
+94014,Hanover St,1,2,Daly City,890 sqft,31-Dec-69,$0 ,37.70386,-122.4581,CA,Single-Family Home,518000,,,Crocker,78,,For Sale,SAN MATEO
+94014,2nd Ave,1,4,Daly City,950 sqft,31-Dec-69,$0 ,37.68697,-122.46315,CA,Single-Family Home,518179,,,,68,,For Sale,SAN MATEO
+94014,Irvington St,1,2,Daly City,930 sqft,31-Dec-69,$0 ,37.707268,-122.454926,CA,Single-Family Home,556800,,,Crocker,75,,For Sale,SAN MATEO
+94015,Skyline Dr,1,3,Daly City,"1,060 sqft",31-Dec-69,$0 ,37.66768,-122.48682,CA,Single-Family Home,532000,,,Westlake,52,,For Sale,SAN MATEO
+94014,Oliver St,1,2,Daly City,"1,410 sqft",31-Dec-69,$0 ,37.707954,-122.44965,CA,Single-Family Home,550098,,,Crocker,69,,For Sale,SAN MATEO
+94015,Skyline Dr,2,3,Daly City,"1,210 sqft",31-Dec-69,$0 ,37.66565,-122.48658,CA,Single-Family Home,525000,,,Westlake,46,,For Sale,SAN MATEO
+94015,Penhurst Ave,2,3,Daly City,"1,210 sqft",31-Dec-69,$0 ,37.66148,-122.47327,CA,Single-Family Home,529000,,,Serramonte,75,,For Sale,SAN MATEO
+94015,Macarthur Dr,1,5,Daly City,"1,290 sqft",31-Dec-69,$0 ,37.68909,-122.48116,CA,Single-Family Home,447000,,,Broadmoor,49,,For Sale,SAN MATEO
+94014,Station Ave,2,3,Daly City,"1,360 sqft",31-Dec-69,$0 ,37.690434,-122.469,CA,Single-Family Home,385617,,,Original Daly City,91,,For Sale,SAN MATEO
+94015,Philip Dr #101,2,3,Daly City,"1,242 sqft",31-Dec-69,$0 ,37.669636,-122.4642,CA,Condo,435438,,,Serramonte,63,,For Sale,SAN MATEO
+94015,Philip Dr #303,2,2,Daly City,"1,237 sqft",31-Dec-69,$0 ,37.669636,-122.4642,CA,Condo,475850,,,Serramonte,69,,For Sale,SAN MATEO
+94014,Pointe Pacific Dr #3,2,2,Daly City,"1,158 sqft",31-Dec-69,$0 ,37.700474,-122.45571,CA,Condo,517500,,,Crocker,69,,For Sale,SAN MATEO
+94015,Philip Dr #304,2,3,Daly City,"1,242 sqft",31-Dec-69,$0 ,37.669487,-122.46394,CA,Condo,516262,,,Serramonte,63,,For Sale,SAN MATEO
+94015,Seacrest Ct,2,3,Daly City,"1,260 sqft",31-Dec-69,$0 ,37.66324,-122.49072,CA,Single-Family Home,500000,,,Westlake,40,,For Sale,SAN MATEO
+94015,Dennis Dr,,,Daly City,,31-Dec-69,$0 ,37.652943,-122.46151,CA,Single-Family Home,55000,,,Serramonte,60,,For Sale,SAN MATEO
+94014,Woodrow St,1,2,Daly City,"1,230 sqft",31-Dec-69,$0 ,37.697037,-122.467026,CA,Single-Family Home,595000,,,Original Daly City,80,,For Sale,SAN MATEO
+94015,Southdale Ave,2,3,Daly City,"1,090 sqft",31-Dec-69,$0 ,37.6747,-122.48589,CA,Single-Family Home,614183,,,St. Francis,45,,For Sale,SAN MATEO
+94015,Santa Elena Ave,3,6,Daly City,"1,430 sqft",31-Dec-69,$0 ,37.67631,-122.47705,CA,Single-Family Home,709283,,,St. Francis,66,,For Sale,SAN MATEO
+94014,Alexander Ave,3,4,Daly City,"1,541 sqft",31-Dec-69,$0 ,37.702946,-122.45396,CA,Single-Family Home,640000,,,Crocker,71,,For Sale,SAN MATEO
+94015,Midway Ave,3,4,Daly City,"1,690 sqft",31-Dec-69,$0 ,37.692284,-122.47877,CA,Single-Family Home,659285,,,Broadmoor,62,,For Sale,SAN MATEO
+94014,San Jose Ave,,,Daly City,,31-Dec-69,$0 ,37.708134,-122.45918,CA,Unspecified,585000,,,Original Daly City,74,,For Sale,SAN MATEO
+94014,Green Ridge Dr #5207,,,Daly City,,31-Dec-69,$0 ,37.700546,-122.45278,CA,Condo,341413,,,Crocker,57,,For Sale,SAN MATEO
+94013,Geneva Ave,,,Daly City,,31-Dec-69,$0 ,37.707577,-122.41729,CA,Unspecified,853385,,,Bayshore,55,,For Sale,SAN MATEO
+94014,Risel Ave,2,2,Daly City,"1,140 sqft",31-Dec-69,$0 ,37.7064,-122.4491,CA,Single-Family Home,580000,,,Crocker,71,,For Sale,SAN MATEO
+94014,2nd Ave,2,3,Daly City,"1,250 sqft",31-Dec-69,$0 ,37.688343,-122.46316,CA,Single-Family Home,588000,,,Hillside,82,,For Sale,SAN MATEO
+94014,San Gabriel Cir #447,,,Daly City,,31-Dec-69,$0 ,37.706066,-122.4411,CA,Unspecified,166200,,,Crocker,43,,For Sale,SAN MATEO
+94015,Skyline Dr,,,Daly City,,31-Dec-69,$0 ,37.669388,-122.48745,CA,Unspecified,195000,,,Westlake,42,,For Sale,SAN MATEO
+94015,Mandarin Dr #303,,,Daly City,,31-Dec-69,$0 ,37.66512,-122.463394,CA,Single-Family Home,151978,,,Serramonte,66,,For Sale,SAN MATEO
+94014,Linda Vista Dr #538,,,Daly City,,31-Dec-69,$0 ,37.699505,-122.41565,CA,Unspecified,200000,,,Bayshore,42,,For Sale,SAN MATEO
+94014,Mountain Vw #3,,,Daly City,,31-Dec-69,$0 ,37.698776,-122.45707,CA,Unspecified,453315,,,Crocker,42,,For Sale,SAN MATEO
+94015,Imperial Way #34,,,Daly City,,31-Dec-69,$0 ,37.665035,-122.46344,CA,Unspecified,304024,,,Serramonte,62,,For Sale,SAN MATEO
+94015,Oceanside Dr,,,Daly City,,31-Dec-69,$0 ,37.672966,-122.490234,CA,Single-Family Home,463212,,,Westlake,34,,For Sale,SAN MATEO
+94015,Northaven Dr,,,Daly City,,31-Dec-69,$0 ,37.674225,-122.48425,CA,Unspecified,504738,,,St. Francis,54,,For Sale,SAN MATEO
+94014,Second Ave,,,Daly City,,31-Dec-69,$0 ,37.689865,-122.463326,CA,Single-Family Home,387400,,,Hillside,82,,For Sale,SAN MATEO
+94015,Inperial Way #4,,,Daly City,,31-Dec-69,$0 ,37.666217,-122.463848,CA,Unspecified,272244,,,,,,For Sale,SAN MATEO
+94014,Oriente St,,,Daly City,,31-Dec-69,$0 ,37.707105,-122.413868,CA,Unspecified,530000,,,,46,,For Sale,SAN MATEO
+94014,San Luis Cir #741,,,Daly City,,31-Dec-69,$0 ,37.70669,-122.4409,CA,Unspecified,378095,,,Crocker,51,,For Sale,SAN MATEO
+94015,Madarin Dr #208,,,Daly City,,31-Dec-69,$0 ,37.66515,-122.463131,CA,Unspecified,323424,,,,,,For Sale,SAN MATEO
+94015,Imperial Way #340,1,2,Daly City,,31-Dec-69,$0 ,37.665035,-122.46344,CA,Single-Family Home,348303,,,Serramonte,66,,For Sale,SAN MATEO
+94015,Southgate Ave 161 D,,,Daly City,,31-Dec-69,$0 ,37.675632,-122.47459,CA,Unspecified,232945,,,St. Francis,69,,For Sale,SAN MATEO
+94014,Lausanne Ave,,,Daly City,,31-Dec-69,$0 ,37.699795,-122.4594,CA,Unspecified,509767,,,Hillside,77,,For Sale,SAN MATEO
+94015,Fairway Dr,2,2,Daly City,"1,290 sqft",31-Dec-69,$0 ,37.69955,-122.47933,CA,Single-Family Home,604000,,,Westlake,80,,For Sale,SAN MATEO
+94015,89th St,1,3,Daly City,"1,140 sqft",31-Dec-69,$0 ,37.691723,-122.476944,CA,Single-Family Home,607808,,,Broadmoor,72,,For Sale,SAN MATEO
+94015,Lakeview Dr,2,3,Daly City,"1,830 sqft",31-Dec-69,$0 ,37.70622,-122.48436,CA,Single-Family Home,676500,,,Westlake,71,,For Sale,SAN MATEO
+94014,Alexander Ave,2,2,Daly City,"1,572 sqft",31-Dec-69,$0 ,37.70262,-122.45491,CA,Single-Family Home,637500,,,Crocker,69,,For Sale,SAN MATEO
+94015,Barbara Ln,3,3,Daly City,"1,520 sqft",31-Dec-69,$0 ,37.65469,-122.45879,CA,Single-Family Home,620619,,,Serramonte,52,,For Sale,SAN MATEO
+94014,Bay Ridge Dr,2,3,Daly City,"1,190 sqft",31-Dec-69,$0 ,37.70035,-122.41857,CA,Single-Family Home,644000,,,Bayshore,45,,For Sale,SAN MATEO
+94015,Skyline Dr,2,4,Daly City,"1,520 sqft",31-Dec-69,$0 ,37.67015,-122.48775,CA,Single-Family Home,708000,,,Westlake,42,,For Sale,SAN MATEO
+94014,Templeton Ave #538,2,2,Daly City,"1,040 sqft",31-Dec-69,$0 ,37.703594,-122.45061,CA,Single-Family Home,675000,,,Crocker,60,,For Sale,SAN MATEO
+94014,Linda Vista Dr,2,4,Daly City,"1,660 sqft",31-Dec-69,$0 ,37.70009,-122.41234,CA,Single-Family Home,769055,,,Bayshore,45,,For Sale,SAN MATEO
+94015,Callan Blvd,1,3,Daly City,"1,100 sqft",31-Dec-69,$0 ,37.660706,-122.47122,CA,Single-Family Home,645705,,,Serramonte,72,,For Sale,SAN MATEO
+94014,Bonnie St,2,3,Daly City,"1,830 sqft",31-Dec-69,$0 ,37.695576,-122.45756,CA,Single-Family Home,648783,,,Hillside,63,,For Sale,SAN MATEO
+94015,Oceanside Dr,2,3,Daly City,"1,150 sqft",31-Dec-69,$0 ,37.67172,-122.489494,CA,Single-Family Home,652302,,,Westlake,32,,For Sale,SAN MATEO
+94015,Avalon Dr,2,4,Daly City,"1,110 sqft",31-Dec-69,$0 ,37.686188,-122.49072,CA,Single-Family Home,646697,,,Westlake,34,,For Sale,SAN MATEO
+94014,Schwerin St,3,5,Daly City,"1,975 sqft",31-Dec-69,$0 ,37.703552,-122.41447,CA,Single-Family Home,776645,,,Bayshore,58,,For Sale,SAN FRANCISCO
+94015,Gellert Blvd,2,3,Daly City,"1,240 sqft",31-Dec-69,$0 ,37.653538,-122.46075,CA,Single-Family Home,737276,,,Serramonte,60,,For Sale,SAN MATEO
+94015,Rockford Ave,2,4,Daly City,"1,460 sqft",31-Dec-69,$0 ,37.665062,-122.49262,CA,Single-Family Home,680702,,,Westlake,26,,For Sale,SAN MATEO
+94015,Belhaven Ave,2,5,Daly City,"1,800 sqft",31-Dec-69,$0 ,37.674004,-122.4816,CA,Single-Family Home,760434,,,St. Francis,58,,For Sale,SAN MATEO
+94015,Oceanside Dr,,,Daly City,,31-Dec-69,$0 ,37.672966,-122.490234,CA,Unspecified,593184,,,Westlake,29,,For Sale,SAN MATEO
+94014,Green Ridge Dr #4,,,Daly City,,31-Dec-69,$0 ,37.69985,-122.45653,CA,Unspecified,592892,,,Crocker,68,,For Sale,SAN MATEO
+94015,State Highway 35,,,Daly City,,31-Dec-69,$0 ,37.691883,-122.49487,CA,Unspecified,604725,,,Westlake,45,,For Sale,SAN MATEO
+94014,S Hill Ct,,,Daly City,,31-Dec-69,$0 ,37.701653,-122.44174,CA,Unspecified,656017,,,Crocker,29,,For Sale,SAN MATEO
+94014,Pointe Pacifica Dr #1,,,Daly City,,31-Dec-69,$0 ,37.70117,-122.45766,CA,Unspecified,673746,,,Crocker,72,,For Sale,SAN MATEO
+94014,Pointe Pacific Dr #1,,,Daly City,,31-Dec-69,$0 ,37.70117,-122.45766,CA,Single-Family Home,673746,,,Crocker,72,,For Sale,SAN MATEO

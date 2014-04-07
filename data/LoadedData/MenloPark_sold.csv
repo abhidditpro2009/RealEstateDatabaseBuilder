@@ -1,0 +1,255 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94025,2101 Camino A Los Cerros,2,3,Menlo Park,"1,266 sqft",19-Feb-14,"$1,429,000 ",37.43583,-122.210335,CA,Single-Family Home,1429000,"$1,737,000 ",,University Heights,,,Sold,SAN MATEO
+94025,3134 Alameda De Las Pulgas,2,4,Menlo Park,"1,450 sqft",19-Feb-14,"$1,160,000 ",37.435287,-122.209114,CA,Single-Family Home,1160000,"$1,718,000 ",,University Heights,,,Sold,SAN MATEO
+94025,709 17th Ave,3,3,Menlo Park,"2,030 sqft",19-Feb-14,"$1,530,000 ",37.47415,-122.19063,CA,Single-Family Home,1530000,"$1,536,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,163 Linfield Dr,2.5,3,Menlo Park,"1,665 sqft",14-Feb-14,"$1,600,000 ",37.454426,-122.1685,CA,Single-Family Home,1600000,"$1,695,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,291 Linfield Dr,3,5,Menlo Park,"2,548 sqft",13-Feb-14,"$2,300,000 ",37.453133,-122.16945,CA,Single-Family Home,2300000,"$2,823,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1227 Sevier Ave,2,4,Menlo Park,"1,916 sqft",13-Feb-14,"$365,000 ",37.4748,-122.157364,CA,Single-Family Home,365000,"$712,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,98 Amherst Ave,3,5,Menlo Park,"3,255 sqft",11-Feb-14,"$1,310,000 ",37.46792,-122.20615,CA,Multi-Family,1310000,"$1,625,000 ",,,,,Sold,SAN MATEO
+94025,360 Hamilton Ave,2,3,Menlo Park,"1,192 sqft",11-Feb-14,"$655,000 ",37.477226,-122.162964,CA,Single-Family Home,655000,"$777,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #A205,2,2,Menlo Park,960 sqft,7-Feb-14,"$545,000 ",37.42653,-122.19417,CA,Condo,545000,"$657,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,348 Concord Dr,2,3,Menlo Park,"1,590 sqft",6-Feb-14,"$1,760,000 ",37.457108,-122.15741,CA,Single-Family Home,1760000,"$1,611,000 ",,The Willows,,,Sold,SAN MATEO
+94025,2179 Clayton Dr,,,Menlo Park,,4-Feb-14,"$3,401,500 ",37.428192,-122.19823,CA,Single-Family Home,3401500,,,Sharon Height,,,Sold,SAN MATEO
+94025,320 Lennox Ave,4.5,4,Menlo Park,"3,900 sqft",3-Feb-14,"$3,560,000 ",37.46146,-122.188995,CA,Single-Family Home,3560000,"$3,783,000 ",,Felton Gables,,,Sold,SAN MATEO
+94025,123 Newbridge St,1,3,Menlo Park,"1,150 sqft",31-Jan-14,"$632,500 ",37.47523,-122.16386,CA,Single-Family Home,632500,"$717,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,6 Bolton Pl,5.5,5,Menlo Park,"4,210 sqft",27-Jan-14,"$4,830,000 ",37.44343,-122.190575,CA,Single-Family Home,4830000,"$4,711,000 ",,,,,Sold,SAN MATEO
+94025,1281 Orange Ave,2,3,Menlo Park,"1,460 sqft",24-Jan-14,"$3,050,000 ",37.4357,-122.200714,CA,Single-Family Home,3050000,"$2,247,000 ",,University Heights,,,Sold,SAN MATEO
+94025,130 Sand Hill Cir,2,4,Menlo Park,"1,920 sqft",24-Jan-14,"$1,160,000 ",37.423233,-122.21915,CA,Single-Family Home,1160000,"$1,789,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,442 Sand Hill Cir,2.5,3,Menlo Park,"2,070 sqft",17-Jan-14,"$1,100,000 ",37.424015,-122.222984,CA,Single-Family Home,1100000,"$1,503,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,277 Willow Rd,1,2,Menlo Park,"1,010 sqft",15-Jan-14,"$915,000 ",37.458378,-122.162796,CA,Single-Family Home,915000,"$1,139,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,553 6th Ave,1,2,Menlo Park,760 sqft,15-Jan-14,"$405,000 ",37.475117,-122.201836,CA,Single-Family Home,405000,"$632,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,1180 Rosefield Way,3,4,Menlo Park,"2,120 sqft",14-Jan-14,"$3,000,000 ",37.443447,-122.19313,CA,Single-Family Home,3000000,"$2,841,000 ",,,,,Sold,SAN MATEO
+94025,1403 Sage St,2.5,3,Menlo Park,"1,640 sqft",13-Jan-14,"$346,000 ",37.478867,-122.16012,CA,Single-Family Home,346000,"$606,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,323 Pope St,3,4,Menlo Park,"2,540 sqft",10-Jan-14,"$2,650,000 ",37.458443,-122.15703,CA,Single-Family Home,2650000,"$2,799,000 ",,The Willows,,,Sold,SAN MATEO
+94025,2312 Olympic Ave,3,2,Menlo Park,"2,793 sqft",10-Jan-14,"$2,800,000 ",37.42572,-122.2032,CA,Single-Family Home,2800000,"$3,230,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,957 Rose Ave,1,3,Menlo Park,"1,310 sqft",8-Jan-14,"$1,350,000 ",37.450314,-122.18905,CA,Single-Family Home,1350000,"$1,676,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,619 Middle Ave,2.5,2,Menlo Park,"1,420 sqft",3-Jan-14,"$1,134,000 ",37.449554,-122.17727,CA,Single-Family Home,1134000,"$1,247,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,520 Saint Francis Pl,2.5,4,Menlo Park,"2,280 sqft",2-Jan-14,"$2,500,000 ",37.43551,-122.1891,CA,Single-Family Home,2500000,"$2,411,000 ",,,,,Sold,SAN MATEO
+94025,672 Creek Dr,4.5,4,Menlo Park,"2,590 sqft",31-Dec-13,"$2,750,000 ",37.44608,-122.173416,CA,Single-Family Home,2750000,"$2,908,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,430 Arbor Rd,2,3,Menlo Park,"1,260 sqft",31-Dec-13,"$1,549,000 ",37.44376,-122.181885,CA,Single-Family Home,1549000,"$1,991,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,14 Mansion Ct #714,3.5,3,Menlo Park,"2,850 sqft",27-Dec-13,"$2,225,000 ",37.426453,-122.20985,CA,Condo,2225000,"$2,154,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,610 Gilbert Ave #25,1,2,Menlo Park,875 sqft,20-Dec-13,"$660,000 ",37.46078,-122.1614,CA,Condo,660000,"$698,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,2160 Monterey Ave,3,3,Menlo Park,"3,060 sqft",19-Dec-13,"$2,495,000 ",37.434353,-122.20968,CA,Single-Family Home,2495000,"$2,610,000 ",,University Heights,,,Sold,SAN MATEO
+94025,2025 Santa Cruz Ave,1,2,Menlo Park,980 sqft,19-Dec-13,"$2,238,000 ",37.430897,-122.196335,CA,Single-Family Home,2238000,"$1,657,000 ",,University Heights,,,Sold,SAN MATEO
+94025,2050 Gordon Ave,,,Menlo Park,,18-Dec-13,"$2,670,000 ",37.433197,-122.20194,CA,Single-Family Home,2670000,"$955,000 ",,University Heights,,,Sold,SAN MATEO
+94025,1185 Rosefield Way,3,3,Menlo Park,"1,990 sqft",16-Dec-13,"$2,450,000 ",37.443123,-122.193504,CA,Single-Family Home,2450000,"$2,926,000 ",,,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #B201,2,2,Menlo Park,960 sqft,13-Dec-13,"$539,000 ",37.42653,-122.19417,CA,Condo,539000,"$671,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,687 14th Ave,3,4,Menlo Park,"1,620 sqft",13-Dec-13,"$1,000,000 ",37.47457,-122.19357,CA,Single-Family Home,1000000,"$1,369,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,407 Grayson Ct,1,2,Menlo Park,"1,080 sqft",12-Dec-13,"$920,000 ",37.466736,-122.155655,CA,Single-Family Home,920000,"$1,178,000 ",,The Willows,,,Sold,SAN MATEO
+94025,610 Gilbert Ave #5,1.5,2,Menlo Park,"1,175 sqft",12-Dec-13,"$730,000 ",37.46078,-122.1614,CA,Condo,730000,"$877,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,1440 Bay Laurel Dr,3,3,Menlo Park,"2,090 sqft",11-Dec-13,"$5,134,148 ",37.43757,-122.18435,CA,Single-Family Home,5134148,"$3,411,000 ",,,,,Sold,SAN MATEO
+94025,1678 Oak Ave,3.5,4,Menlo Park,"3,370 sqft",11-Dec-13,"$3,049,000 ",37.43541,-122.188156,CA,Single-Family Home,3049000,"$3,286,000 ",,,,,Sold,SAN MATEO
+94025,315 Stanford Ave,1,2,Menlo Park,940 sqft,10-Dec-13,"$1,149,000 ",37.429787,-122.19554,CA,Single-Family Home,1149000,"$1,319,000 ",,University Heights,,,Sold,SAN MATEO
+94025,2098 Cedar Ave,3,4,Menlo Park,"2,190 sqft",10-Dec-13,"$1,550,000 ",37.43475,-122.20672,CA,Single-Family Home,1550000,"$1,976,000 ",,University Heights,,,Sold,SAN MATEO
+94025,5 Maywood Ln,1,2,Menlo Park,910 sqft,9-Dec-13,"$2,355,000 ",37.44206,-122.1823,CA,Single-Family Home,2355000,"$1,585,000 ",,,,,Sold,SAN MATEO
+94025,2160 Cedar Ave,1,3,Menlo Park,"1,230 sqft",6-Dec-13,"$2,775,000 ",37.433483,-122.20792,CA,Single-Family Home,2775000,"$1,886,000 ",,University Heights,,,Sold,SAN MATEO
+94025,515 Encina Ave,2.5,3,Menlo Park,"3,050 sqft",6-Dec-13,"$1,980,000 ",37.47312,-122.198006,CA,Single-Family Home,1980000,"$1,803,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,3501 Middlefield Rd,1,2,Menlo Park,960 sqft,6-Dec-13,"$749,000 ",37.47052,-122.20081,CA,Single-Family Home,749000,"$904,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,300 Sand Hill Cir #61,2,3,Menlo Park,"2,160 sqft",6-Dec-13,"$1,200,000 ",37.42567,-122.22159,CA,Condo,1200000,"$1,328,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,675 Sharon Park Dr #124,2,2,Menlo Park,"1,020 sqft",6-Dec-13,"$740,000 ",37.422405,-122.200905,CA,Condo,740000,"$792,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,676 Nash Ave,2,3,Menlo Park,"1,540 sqft",5-Dec-13,"$1,800,000 ",37.45949,-122.1628,CA,Single-Family Home,1800000,"$1,763,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,143 Dunsmuir Way,2,3,Menlo Park,"1,590 sqft",5-Dec-13,"$1,480,000 ",37.47674,-122.1753,CA,Single-Family Home,1480000,"$1,496,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,482 Gilbert Ave,2,3,Menlo Park,"2,350 sqft",4-Dec-13,"$2,025,000 ",37.46008,-122.1589,CA,Single-Family Home,2025000,"$2,234,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1320 American Way,1,2,Menlo Park,"1,030 sqft",3-Dec-13,"$1,400,000 ",37.43733,-122.200775,CA,Single-Family Home,1400000,"$1,603,000 ",,University Heights,,,Sold,SAN MATEO
+94025,45 Willow Rd,2,3,Menlo Park,"1,650 sqft",2-Dec-13,"$1,800,000 ",37.451458,-122.1704,CA,Single-Family Home,1800000,"$2,253,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,923 Fremont St,2.5,3,Menlo Park,"2,150 sqft",2-Dec-13,"$1,230,000 ",37.446285,-122.18652,CA,Single-Family Home,1230000,"$1,581,000 ",,,,,Sold,SAN MATEO
+94025,84 Princeton Rd,2,4,Menlo Park,"2,140 sqft",27-Nov-13,"$3,837,000 ",37.442566,-122.1774,CA,Single-Family Home,3837000,"$3,463,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,1307 American Way,2.5,3,Menlo Park,"1,810 sqft",27-Nov-13,"$1,650,000 ",37.436718,-122.2008,CA,Single-Family Home,1650000,"$2,310,000 ",,University Heights,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #C302,2,2,Menlo Park,"1,370 sqft",27-Nov-13,"$733,000 ",37.42641,-122.19473,CA,Condo,733000,"$784,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1251 Orange Ave,1,2,Menlo Park,970 sqft,26-Nov-13,"$1,690,000 ",37.435623,-122.20057,CA,Single-Family Home,1690000,"$1,678,000 ",,University Heights,,,Sold,SAN MATEO
+94025,929 Valparaiso Ave,2,3,Menlo Park,"1,960 sqft",25-Nov-13,"$1,664,000 ",37.451683,-122.19064,CA,Single-Family Home,1664000,"$1,958,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,135 Emma Ln,2,3,Menlo Park,"1,660 sqft",25-Nov-13,"$1,500,000 ",37.457615,-122.14752,CA,Single-Family Home,1500000,"$1,575,000 ",,The Willows,,,Sold,SAN MATEO
+94025,3867 Alameda De Las Pulgas,1,2,Menlo Park,"1,270 sqft",22-Nov-13,"$1,200,000 ",37.42958,-122.19678,CA,Single-Family Home,1200000,"$1,649,000 ",,University Heights,,,Sold,SAN MATEO
+94025,4123 Fair Oaks Ave,2,4,Menlo Park,"1,920 sqft",22-Nov-13,"$1,423,000 ",37.474613,-122.19155,CA,Single-Family Home,1423000,"$1,363,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2071 Camino A Los Cerros,2,3,Menlo Park,"1,640 sqft",20-Nov-13,"$1,800,000 ",37.436516,-122.2096,CA,Single-Family Home,1800000,"$1,845,000 ",,University Heights,,,Sold,SAN MATEO
+94025,1280 Sharon Park Dr #38,2,2,Menlo Park,"1,844 sqft",18-Nov-13,"$1,005,000 ",37.426163,-122.21784,CA,Condo,1005000,"$1,380,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,646 Creek Dr,3.5,4,Menlo Park,"2,210 sqft",18-Nov-13,"$1,355,000 ",37.44646,-122.172844,CA,Condo,1355000,"$1,813,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,321 Laurel Ave,2,4,Menlo Park,"1,410 sqft",15-Nov-13,"$1,370,000 ",37.458717,-122.15559,CA,Single-Family Home,1370000,"$1,644,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1160 Deanna Dr,2.5,4,Menlo Park,"2,710 sqft",15-Nov-13,"$2,485,000 ",37.427895,-122.20729,CA,Single-Family Home,2485000,"$2,383,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #C208,2,2,Menlo Park,"1,203 sqft",15-Nov-13,"$617,500 ",37.42641,-122.19473,CA,Condo,617500,"$862,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,745 Stanford Ave,2,3,Menlo Park,"1,950 sqft",15-Nov-13,"$1,925,000 ",37.430977,-122.19596,CA,Single-Family Home,1925000,"$2,143,000 ",,University Heights,,,Sold,SAN MATEO
+94025,3816 Fair Oaks Ave,2,4,Menlo Park,"1,430 sqft",15-Nov-13,"$805,000 ",37.47518,-122.19436,CA,Single-Family Home,805000,"$1,213,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,1027 Menlo Oaks Dr,2,3,Menlo Park,"1,540 sqft",15-Nov-13,"$1,365,000 ",37.47201,-122.165306,CA,Single-Family Home,1365000,"$1,605,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1274 Sharon Park Dr,2.5,2,Menlo Park,"2,310 sqft",15-Nov-13,"$1,540,000 ",37.42559,-122.21844,CA,Single-Family Home,1540000,"$1,927,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2014 Camino De Los Robles,2,4,Menlo Park,"1,940 sqft",14-Nov-13,"$1,940,000 ",37.435955,-122.20709,CA,Single-Family Home,1940000,"$2,002,000 ",,University Heights,,,Sold,SAN MATEO
+94025,90 Oak Hollow Way,3.5,4,Menlo Park,"3,360 sqft",13-Nov-13,"$3,088,000 ",37.426273,-122.19565,CA,Single-Family Home,3088000,"$3,293,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,150 Alma St #10,2,2,Menlo Park,"1,275 sqft",8-Nov-13,"$805,000 ",37.448746,-122.17148,CA,Condo,805000,"$944,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,461 Burgess Dr #7,2,3,Menlo Park,"1,390 sqft",8-Nov-13,"$875,000 ",37.45117,-122.17518,CA,Condo,875000,"$971,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #B305,2,2,Menlo Park,"1,000 sqft",8-Nov-13,"$640,000 ",37.42653,-122.19417,CA,Condo,640000,"$677,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,637 9th Ave,2,3,Menlo Park,"1,809 sqft",8-Nov-13,"$975,000 ",37.475746,-122.19811,CA,Single-Family Home,975000,"$1,162,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #B105,2,2,Menlo Park,960 sqft,8-Nov-13,"$520,000 ",37.42653,-122.19417,CA,Condo,520000,"$686,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1007 Peggy Ln,1.5,3,Menlo Park,"1,660 sqft",7-Nov-13,"$1,595,000 ",37.478226,-122.1792,CA,Single-Family Home,1595000,"$1,575,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1370 Hollyburne Ave,1,3,Menlo Park,"1,050 sqft",7-Nov-13,"$570,000 ",37.478622,-122.15584,CA,Single-Family Home,570000,"$671,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,211 Lexington Dr,2,3,Menlo Park,"1,500 sqft",4-Nov-13,"$1,710,000 ",37.455578,-122.1599,CA,Single-Family Home,1710000,"$1,690,000 ",,The Willows,,,Sold,SAN MATEO
+94025,9 Chateau Dr,2.5,2,Menlo Park,"2,050 sqft",31-Oct-13,"$27,500 ",37.453564,-122.1882,CA,Single-Family Home,27500,"$1,404,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,4 Heritage Pl,2,3,Menlo Park,"1,868 sqft",31-Oct-13,"$1,020,000 ",37.467793,-122.1564,CA,Single-Family Home,1020000,"$1,230,000 ",,,,,Sold,SAN MATEO
+94025,1725 Santa Cruz Ave,2.5,3,Menlo Park,"2,340 sqft",31-Oct-13,"$1,690,000 ",37.438534,-122.19505,CA,Single-Family Home,1690000,"$2,149,000 ",,,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #C201,2,2,Menlo Park,945 sqft,30-Oct-13,"$602,000 ",37.42641,-122.19473,CA,Condo,602000,"$636,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2 Hallmark Cir,2.5,3,Menlo Park,"2,680 sqft",29-Oct-13,"$1,775,000 ",37.431187,-122.21222,CA,Single-Family Home,1775000,"$1,940,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,807 14th Ave,2,3,Menlo Park,"1,128 sqft",29-Oct-13,"$975,000 ",37.476772,-122.19217,CA,Single-Family Home,975000,"$945,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,712 Harvard Ave,1,2,Menlo Park,"1,180 sqft",28-Oct-13,"$1,652,000 ",37.446712,-122.174545,CA,Single-Family Home,1652000,"$1,687,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,315 Chester St,1,3,Menlo Park,"1,200 sqft",25-Oct-13,"$1,050,000 ",37.465347,-122.15475,CA,Single-Family Home,1050000,"$1,384,000 ",,The Willows,,,Sold,SAN MATEO
+94025,2328 Warner Range Ave,3.5,4,Menlo Park,"4,050 sqft",25-Oct-13,"$4,050,000 ",37.425285,-122.20579,CA,Single-Family Home,4050000,"$5,145,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,304 Oakwood Pl,3,4,Menlo Park,"2,500 sqft",25-Oct-13,"$1,720,000 ",37.473297,-122.16931,CA,Single-Family Home,1720000,"$1,878,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1440 Mills Ct,2,3,Menlo Park,"1,280 sqft",25-Oct-13,"$1,325,000 ",37.45854,-122.18663,CA,Single-Family Home,1325000,"$1,584,000 ",,,,,Sold,SAN MATEO
+94025,1141 Woodland Ave,2.5,4,Menlo Park,"1,840 sqft",25-Oct-13,"$2,350,000 ",37.458157,-122.15183,CA,Single-Family Home,2350000,"$1,840,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1855 White Oak Dr,2,3,Menlo Park,"2,160 sqft",25-Oct-13,"$2,660,000 ",37.432373,-122.19203,CA,Single-Family Home,2660000,"$2,548,000 ",,,,,Sold,SAN MATEO
+94025,720 Creek Dr,2.5,3,Menlo Park,"2,340 sqft",24-Oct-13,"$1,600,000 ",37.445717,-122.17356,CA,Single-Family Home,1600000,"$1,796,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,317 Yale Rd,2,2,Menlo Park,"1,430 sqft",22-Oct-13,"$1,937,000 ",37.44424,-122.17967,CA,Single-Family Home,1937000,"$2,197,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,1231 Orange Ave,3,4,Menlo Park,"2,000 sqft",22-Oct-13,"$1,918,000 ",37.435547,-122.20043,CA,Single-Family Home,1918000,"$2,418,000 ",,University Heights,,,Sold,SAN MATEO
+94025,170 Leland Ave,3,4,Menlo Park,"1,980 sqft",22-Oct-13,"$2,795,000 ",37.428123,-122.19209,CA,Multi-Family,2795000,,,University Heights,,,Sold,SAN MATEO
+94025,2 Iris Ln,1,3,Menlo Park,"1,200 sqft",22-Oct-13,"$883,000 ",37.475426,-122.16899,CA,Single-Family Home,883000,"$1,106,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,514 Laurel Ave,1,3,Menlo Park,"1,210 sqft",18-Oct-13,"$1,235,000 ",37.460987,-122.15429,CA,Single-Family Home,1235000,"$1,413,000 ",,The Willows,,,Sold,SAN MATEO
+94025,2189 Clayton Dr,,,Menlo Park,,18-Oct-13,"$3,880,000 ",37.428112,-122.19828,CA,Single-Family Home,3880000,,,Sharon Height,,,Sold,SAN MATEO
+94025,2365 Sharon Oaks Dr,3,3,Menlo Park,"2,180 sqft",18-Oct-13,"$1,705,000 ",37.42658,-122.19677,CA,Single-Family Home,1705000,"$1,974,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,11 Bay Rd,2,2,Menlo Park,"1,830 sqft",18-Oct-13,"$1,637,000 ",37.477158,-122.18566,CA,Single-Family Home,1637000,"$1,661,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1330 University Dr #49,2,3,Menlo Park,"1,954 sqft",18-Oct-13,"$2,200,000 ",37.452282,-122.18981,CA,Condo,2200000,"$1,677,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,651 10th Ave,1,2,Menlo Park,700 sqft,18-Oct-13,"$610,000 ",37.47559,-122.19716,CA,Single-Family Home,610000,"$782,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,253 University Dr,4.5,4,Menlo Park,"2,498 sqft",18-Oct-13,"$3,547,500 ",37.44471,-122.17823,CA,Single-Family Home,3547500,"$4,113,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,3617 Oak Dr,3.5,4,Menlo Park,"4,650 sqft",17-Oct-13,"$2,498,000 ",37.472664,-122.197266,CA,Single-Family Home,2498000,"$2,513,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,315 Pope St,1,3,Menlo Park,920 sqft,17-Oct-13,"$1,325,000 ",37.458168,-122.156975,CA,Single-Family Home,1325000,"$1,252,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1063 Sonoma Ave,1,2,Menlo Park,"1,190 sqft",17-Oct-13,"$885,000 ",37.474663,-122.16729,CA,Single-Family Home,885000,"$1,026,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1445 Valparaiso Ave,2.5,4,Menlo Park,"2,727 sqft",16-Oct-13,"$2,200,000 ",37.443356,-122.19762,CA,Single-Family Home,2200000,"$2,551,000 ",,,,,Sold,SAN MATEO
+94025,523 Oak Grove Ave,2.5,3,Menlo Park,"1,240 sqft",16-Oct-13,"$804,000 ",37.45582,-122.18275,CA,Condo,804000,"$963,000 ",,,,,Sold,SAN MATEO
+94025,1078 Pine St,,,Menlo Park,,16-Oct-13,"$1,400,000 ",37.457443,-122.179886,CA,Condo,1400000,"$989,000 ",,,,,Sold,SAN MATEO
+94025,2252 Eastridge Ave,2,2,Menlo Park,"1,230 sqft",15-Oct-13,"$1,049,000 ",37.42684,-122.20045,CA,Condo,1049000,"$1,120,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1055 Berkeley Ave,2,3,Menlo Park,"1,516 sqft",15-Oct-13,"$900,000 ",37.472736,-122.16277,CA,Multi-Family,900000,"$1,173,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1350 Hoover St,4,5,Menlo Park,"3,458 sqft",11-Oct-13,"$124,000 ",37.454918,-122.187965,CA,Multi-Family,124000,,,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,1060 Continental Dr,3,5,Menlo Park,"3,150 sqft",11-Oct-13,"$1,995,000 ",37.42936,-122.21164,CA,Single-Family Home,1995000,"$2,473,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2327 Sharon Rd,2,3,Menlo Park,"1,300 sqft",10-Oct-13,"$845,000 ",37.427006,-122.19826,CA,Condo,845000,"$995,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,675 Sharon Park Dr #214,2,2,Menlo Park,986 sqft,10-Oct-13,"$750,000 ",37.422405,-122.200905,CA,Condo,750000,"$794,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1121 Carlton Ave,1,3,Menlo Park,"1,040 sqft",8-Oct-13,"$610,000 ",37.471634,-122.15683,CA,Single-Family Home,610000,"$630,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,946 Evelyn St,1,2,Menlo Park,"1,000 sqft",7-Oct-13,"$1,351,000 ",37.449463,-122.184,CA,Single-Family Home,1351000,"$1,333,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,200 Robin Way,1,3,Menlo Park,"1,150 sqft",4-Oct-13,"$1,280,000 ",37.45611,-122.16206,CA,Single-Family Home,1280000,"$1,327,000 ",,The Willows,,,Sold,SAN MATEO
+94025,849 Cambridge Ave,,,Menlo Park,,3-Oct-13,"$1,695,000 ",37.445408,-122.17618,CA,Single-Family Home,1695000,,,Allied Arts,,,Sold,SAN MATEO
+94025,7 Helen Pl,3,5,Menlo Park,"2,640 sqft",3-Oct-13,"$3,275,000 ",37.44094,-122.18607,CA,Single-Family Home,3275000,"$3,238,000 ",,,,,Sold,SAN MATEO
+94025,2260 Sharon Rd,2,2,Menlo Park,"1,055 sqft",2-Oct-13,"$1,125,000 ",37.42684,-122.20045,CA,Condo,1125000,"$1,136,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2198 Clayton Dr,3.5,5,Menlo Park,"3,912 sqft",25-Sep-13,"$3,300,000 ",37.428017,-122.19893,CA,Single-Family Home,3300000,"$2,595,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1354 Sevier Ave,1,3,Menlo Park,"1,130 sqft",25-Sep-13,"$575,000 ",37.47808,-122.155075,CA,Single-Family Home,575000,"$637,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,370 Stanford Ave,1,2,Menlo Park,"1,090 sqft",24-Sep-13,"$90,000 ",37.43057,-122.19524,CA,Single-Family Home,90000,"$1,389,000 ",,University Heights,,,Sold,SAN MATEO
+94025,965 San Mateo Dr,3.5,4,Menlo Park,"3,061 sqft",24-Sep-13,"$2,850,000 ",37.442844,-122.18965,CA,Single-Family Home,2850000,"$3,359,000 ",,,,,Sold,SAN MATEO
+94025,325 6th Ave,2.5,3,Menlo Park,"1,583 sqft",23-Sep-13,"$615,000 ",37.470818,-122.2046,CA,Condo,615000,"$761,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,150 Terminal Ave,1,3,Menlo Park,910 sqft,20-Sep-13,"$500,000 ",37.478123,-122.16686,CA,Single-Family Home,500000,"$636,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,344 Central Ave,1,3,Menlo Park,"1,360 sqft",18-Sep-13,"$1,500,000 ",37.458557,-122.15361,CA,Single-Family Home,1500000,"$1,508,000 ",,The Willows,,,Sold,SAN MATEO
+94025,444 9th Ave,3,3,Menlo Park,"1,700 sqft",18-Sep-13,"$1,140,000 ",37.471516,-122.19991,CA,Single-Family Home,1140000,"$1,401,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,207 Hedge Rd,1,3,Menlo Park,"1,190 sqft",12-Sep-13,"$1,740,000 ",37.478546,-122.17455,CA,Single-Family Home,1740000,"$1,540,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,21 Willow Rd #33,1,1,Menlo Park,898 sqft,12-Sep-13,"$540,500 ",37.449978,-122.172935,CA,Condo,540500,"$661,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1230 Sharon Park Dr #63,2,2,Menlo Park,"1,860 sqft",10-Sep-13,"$1,175,000 ",37.426163,-122.21784,CA,Condo,1175000,"$1,163,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,320 Olive St,4,3,Menlo Park,"1,850 sqft",10-Sep-13,"$4,500,000 ",37.436092,-122.185104,CA,Single-Family Home,4500000,"$3,686,000 ",,,,,Sold,SAN MATEO
+94025,2191 Gordon Ave,3.5,4,Menlo Park,"3,050 sqft",10-Sep-13,"$2,725,000 ",37.43058,-122.203384,CA,Single-Family Home,2725000,"$2,927,000 ",,University Heights,,,Sold,SAN MATEO
+94025,840 14th Ave,1,3,Menlo Park,"1,320 sqft",9-Sep-13,"$820,000 ",37.477127,-122.18999,CA,Single-Family Home,820000,"$1,040,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,719 Elizabeth Ln,2.5,2,Menlo Park,"1,400 sqft",6-Sep-13,"$1,070,000 ",37.45305,-122.18645,CA,Single-Family Home,1070000,"$1,283,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,91 Loyola Ave,1,2,Menlo Park,"1,170 sqft",6-Sep-13,"$1,450,000 ",37.46732,-122.20571,CA,Single-Family Home,1450000,"$1,400,000 ",,,,,Sold,SAN MATEO
+94025,675 Sharon Park Dr #213,2,2,Menlo Park,"1,020 sqft",5-Sep-13,"$853,000 ",37.422405,-122.200905,CA,Condo,853000,"$864,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,203 Haight St,1,2,Menlo Park,890 sqft,30-Aug-13,"$820,000 ",37.465965,-122.15267,CA,Single-Family Home,820000,"$985,000 ",,The Willows,,,Sold,SAN MATEO
+94025,350 Claremont Way,2,3,Menlo Park,"1,990 sqft",30-Aug-13,"$1,960,000 ",37.450813,-122.169716,CA,Single-Family Home,1960000,"$2,345,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1311 Hill Ave,1,3,Menlo Park,910 sqft,30-Aug-13,"$537,000 ",37.476276,-122.16416,CA,Single-Family Home,537000,"$616,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,2045 Menalto Ave,1,3,Menlo Park,"1,090 sqft",30-Aug-13,"$930,000 ",37.463184,-122.15199,CA,Single-Family Home,930000,"$1,173,000 ",,The Willows,,,Sold,SAN MATEO
+94025,4218 Fair Oaks Ave,3,5,Menlo Park,"2,840 sqft",29-Aug-13,"$1,250,000 ",37.473846,-122.19089,CA,Single-Family Home,1250000,"$1,568,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,903 Fremont St,6,7,Menlo Park,"4,463 sqft",29-Aug-13,"$2,100,000 ",37.44623,-122.18612,CA,Multi-Family,2100000,,,,,,Sold,SAN MATEO
+94025,165 Hanna Way,3,4,Menlo Park,"2,640 sqft",28-Aug-13,"$2,650,000 ",37.463,-122.16595,CA,Single-Family Home,2650000,"$3,212,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,731 San Benito Ave,1,2,Menlo Park,930 sqft,28-Aug-13,"$906,000 ",37.47599,-122.19375,CA,Single-Family Home,906000,"$1,022,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #C301,2,2,Menlo Park,"1,440 sqft",28-Aug-13,"$775,000 ",37.42641,-122.19473,CA,Condo,775000,"$838,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,222 Semicircular Rd,2,3,Menlo Park,"1,398 sqft",26-Aug-13,"$652,000 ",37.470043,-122.20482,CA,Multi-Family,652000,"$834,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,6 Lassen Ct,2,3,Menlo Park,"2,690 sqft",23-Aug-13,"$2,475,000 ",37.428562,-122.21514,CA,Single-Family Home,2475000,"$2,539,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1343 Hollyburne Ave,2,3,Menlo Park,"1,140 sqft",23-Aug-13,"$530,000 ",37.477776,-122.15688,CA,Single-Family Home,530000,"$641,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,152 Stone Pine Ln,2.5,2,Menlo Park,"1,840 sqft",22-Aug-13,"$1,149,000 ",37.45899,-122.19102,CA,Single-Family Home,1149000,"$1,366,000 ",,,,,Sold,SAN MATEO
+94025,520 Sand Hill Cir,2.5,3,Menlo Park,"2,070 sqft",22-Aug-13,"$1,300,000 ",37.422955,-122.22333,CA,Single-Family Home,1300000,"$1,896,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,32 Iris Ln,1,3,Menlo Park,"1,260 sqft",21-Aug-13,"$850,000 ",37.47547,-122.16753,CA,Single-Family Home,850000,"$1,036,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,324 Gilbert Ave,1,3,Menlo Park,"1,470 sqft",20-Aug-13,"$1,578,000 ",37.459515,-122.15607,CA,Single-Family Home,1578000,"$1,562,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1180 N Lemon Ave,3,3,Menlo Park,"1,960 sqft",20-Aug-13,"$4,000,000 ",37.437405,-122.19781,CA,Single-Family Home,4000000,"$2,796,000 ",,,,,Sold,SAN MATEO
+94025,300 Sand Hill Cir #302,2,3,Menlo Park,"2,105 sqft",19-Aug-13,"$1,575,000 ",37.42567,-122.22159,CA,Condo,1575000,"$1,416,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1003 Almanor Ave,2.5,5,Menlo Park,"2,350 sqft",16-Aug-13,"$1,350,000 ",37.471554,-122.164474,CA,Single-Family Home,1350000,"$1,651,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,230 Morgan Ln,3.5,4,Menlo Park,"1,951 sqft",16-Aug-13,"$1,640,000 ",37.453945,-122.167496,CA,Single-Family Home,1640000,"$2,025,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,522 Sand Hill Cir,2.5,3,Menlo Park,"2,190 sqft",16-Aug-13,"$1,410,000 ",37.422882,-122.2233,CA,Single-Family Home,1410000,"$1,567,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1224 Windermere Ave,2,3,Menlo Park,"1,440 sqft",15-Aug-13,"$675,000 ",37.475082,-122.15869,CA,Single-Family Home,675000,"$695,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,1877 Camino A Los Cerros,,,Menlo Park,,15-Aug-13,"$4,075,000 ",37.439224,-122.205246,CA,Single-Family Home,4075000,,,University Heights,,,Sold,SAN MATEO
+94025,11 Brent Ct,2.5,3,Menlo Park,"3,370 sqft",15-Aug-13,"$2,395,000 ",37.42549,-122.210526,CA,Single-Family Home,2395000,"$2,317,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,885 San Mateo Dr,2,3,Menlo Park,"1,810 sqft",14-Aug-13,"$2,345,000 ",37.442303,-122.18855,CA,Single-Family Home,2345000,"$2,522,000 ",,,,,Sold,SAN MATEO
+94025,516 Palmer Ln,2.5,4,Menlo Park,"3,090 sqft",14-Aug-13,"$1,900,000 ",37.47141,-122.19353,CA,Single-Family Home,1900000,"$2,083,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,130 Stone Pine Ln,2.5,3,Menlo Park,"1,980 sqft",13-Aug-13,"$1,191,500 ",37.458572,-122.19135,CA,Single-Family Home,1191500,"$1,487,000 ",,,,,Sold,SAN MATEO
+94025,2061 Sterling Ave,2,4,Menlo Park,"1,560 sqft",13-Aug-13,"$1,585,000 ",37.434067,-122.20419,CA,Single-Family Home,1585000,"$1,870,000 ",,University Heights,,,Sold,SAN MATEO
+94025,1367 Henderson Ave,1,3,Menlo Park,"1,040 sqft",9-Aug-13,"$520,000 ",37.478405,-122.15873,CA,Single-Family Home,520000,"$666,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,1259 Hoover St,3,3,Menlo Park,"1,810 sqft",8-Aug-13,"$1,640,000 ",37.45362,-122.18666,CA,Single-Family Home,1640000,"$1,936,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,727 San Benito Ave,1,3,Menlo Park,"1,590 sqft",8-Aug-13,"$1,160,000 ",37.47593,-122.19404,CA,Single-Family Home,1160000,"$1,246,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #E307,2,2,Menlo Park,"1,220 sqft",7-Aug-13,"$600,000 ",37.42641,-122.19473,CA,Condo,600000,"$741,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,345 Olive St,2,3,Menlo Park,"1,790 sqft",2-Aug-13,"$5,500,000 ",37.435894,-122.18588,CA,Single-Family Home,5500000,"$2,533,000 ",,,,,Sold,SAN MATEO
+94025,512 San Benito Ave,1,1,Menlo Park,390 sqft,2-Aug-13,"$1,207,000 ",37.47219,-122.194954,CA,Single-Family Home,1207000,"$961,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,7 Heritage Pl,3,3,Menlo Park,"1,870 sqft",2-Aug-13,"$1,012,000 ",37.468178,-122.15643,CA,Single-Family Home,1012000,"$1,302,000 ",,,,,Sold,SAN MATEO
+94025,260 Encinal Ave,3.5,5,Menlo Park,"3,040 sqft",2-Aug-13,"$1,799,000 ",37.461853,-122.18759,CA,Single-Family Home,1799000,"$2,168,000 ",,Felton Gables,,,Sold,SAN MATEO
+94025,194 Santa Margarita Ave,1,2,Menlo Park,"1,230 sqft",2-Aug-13,"$1,460,000 ",37.45676,-122.1641,CA,Single-Family Home,1460000,"$1,452,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,759 Middle Ave,1,2,Menlo Park,"1,150 sqft",2-Aug-13,"$1,465,000 ",37.448063,-122.178925,CA,Single-Family Home,1465000,"$1,499,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,1845 Oakdell Dr,3,4,Menlo Park,"2,550 sqft",1-Aug-13,"$2,350,000 ",37.432922,-122.19291,CA,Single-Family Home,2350000,"$2,978,000 ",,,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #E110,2,2,Menlo Park,945 sqft,1-Aug-13,"$580,000 ",37.42641,-122.19473,CA,Condo,580000,"$666,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2240 Sharon Rd,2,2,Menlo Park,"1,054 sqft",1-Aug-13,"$825,000 ",37.42684,-122.20045,CA,Condo,825000,"$1,035,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1358 Sevier Ave,1,3,Menlo Park,"1,130 sqft",30-Jul-13,"$632,000 ",37.478207,-122.155014,CA,Single-Family Home,632000,"$710,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,3701 Oak Dr,2,3,Menlo Park,"1,850 sqft",30-Jul-13,"$1,260,000 ",37.47216,-122.19618,CA,Single-Family Home,1260000,"$1,280,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,1160 Pine St #C,2,2,Menlo Park,"1,410 sqft",30-Jul-13,"$875,000 ",37.457954,-122.1809,CA,Condo,875000,"$1,006,000 ",,,,,Sold,SAN MATEO
+94025,1745 Croner Ave,,,Menlo Park,"1,660 sqft",30-Jul-13,"$1,700,000 ",37.43628,-122.19918,CA,Unknown,1700000,,,University Heights,,,Sold,SAN MATEO
+94025,1100 Sharon Park Dr #40,2.5,3,Menlo Park,"1,909 sqft",26-Jul-13,"$1,025,000 ",37.424522,-122.21781,CA,Condo,1025000,"$1,217,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,888 Harvard Ave,3,4,Menlo Park,"2,370 sqft",26-Jul-13,"$2,436,315 ",37.444653,-122.17617,CA,Single-Family Home,2436315,"$3,356,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,357 Felton Dr,3,5,Menlo Park,"2,600 sqft",26-Jul-13,"$2,695,000 ",37.46157,-122.19054,CA,Single-Family Home,2695000,"$2,869,000 ",,Felton Gables,,,Sold,SAN MATEO
+94025,538 9th Ave,2,3,Menlo Park,"1,620 sqft",26-Jul-13,"$1,000,000 ",37.473953,-122.19823,CA,Single-Family Home,1000000,"$1,215,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,139 Yale Rd,2,3,Menlo Park,"1,340 sqft",26-Jul-13,"$2,350,000 ",37.44325,-122.177765,CA,Single-Family Home,2350000,"$2,528,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,123 Dunsmuir Way,1,3,Menlo Park,"1,190 sqft",26-Jul-13,"$1,205,000 ",37.476974,-122.17618,CA,Single-Family Home,1205000,"$1,282,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,25 Willow Rd #49,1,1,Menlo Park,800 sqft,26-Jul-13,"$580,000 ",37.449978,-122.172935,CA,Condo,580000,"$661,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1421 Plumas Ave,2,4,Menlo Park,"1,310 sqft",25-Jul-13,"$595,000 ",37.47713,-122.16559,CA,Single-Family Home,595000,"$731,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,533 Palmer Ln,2,3,Menlo Park,"1,900 sqft",24-Jul-13,"$1,350,000 ",37.472546,-122.193794,CA,Single-Family Home,1350000,"$1,353,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,720 University Dr,2.5,2,Menlo Park,"1,520 sqft",24-Jul-13,"$1,360,000 ",37.447678,-122.18249,CA,Single-Family Home,1360000,"$1,322,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,865 Middle Ave,1,2,Menlo Park,"1,350 sqft",23-Jul-13,"$1,550,000 ",37.44686,-122.179726,CA,Single-Family Home,1550000,"$1,575,000 ",,Allied Arts,,,Sold,SAN MATEO
+94025,160 Amherst Ave,,,Menlo Park,"2,102 sqft",23-Jul-13,"$1,200,000 ",37.468517,-122.20538,CA,Unknown,1200000,,,,,,Sold,SAN MATEO
+94025,487 9th Ave,2,3,Menlo Park,"1,570 sqft",23-Jul-13,"$890,000 ",37.472275,-122.200264,CA,Single-Family Home,890000,"$1,167,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,3 Shasta Ln,2.5,4,Menlo Park,"3,040 sqft",23-Jul-13,"$2,375,000 ",37.42312,-122.21331,CA,Single-Family Home,2375000,"$2,627,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1125 Henderson Ave,1,2,Menlo Park,870 sqft,19-Jul-13,"$519,000 ",37.473743,-122.16105,CA,Single-Family Home,519000,"$545,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,410 Sand Hill Cir,2.5,3,Menlo Park,"2,100 sqft",19-Jul-13,"$1,326,000 ",37.424812,-122.22242,CA,Single-Family Home,1326000,"$1,657,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2349 Sharon Rd,2,2,Menlo Park,"1,200 sqft",19-Jul-13,"$750,000 ",37.427006,-122.19826,CA,Condo,750000,"$809,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2150 Camino De Los Robles,2,4,Menlo Park,"1,490 sqft",19-Jul-13,"$2,400,000 ",37.434017,-122.20871,CA,Single-Family Home,2400000,"$1,877,000 ",,University Heights,,,Sold,SAN MATEO
+94025,460 Claremont Way,2,3,Menlo Park,"1,640 sqft",19-Jul-13,"$1,730,000 ",37.449535,-122.170815,CA,Single-Family Home,1730000,"$2,002,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1204 Sharon Park Dr #86,2,2,Menlo Park,"1,860 sqft",18-Jul-13,"$1,005,000 ",37.426163,-122.21784,CA,Condo,1005000,"$1,355,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,641 12th Ave,1.5,3,Menlo Park,"1,240 sqft",18-Jul-13,"$835,000 ",37.47487,-122.1955,CA,Single-Family Home,835000,"$1,051,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,1883 Camino A Los Cerros,,,Menlo Park,,18-Jul-13,"$4,550,000 ",37.439373,-122.20554,CA,Single-Family Home,4550000,,,University Heights,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #B203,1,1,Menlo Park,760 sqft,17-Jul-13,"$380,000 ",37.42653,-122.19417,CA,Condo,380000,"$492,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1070 Siskiyou Dr,3.5,4,Menlo Park,"2,942 sqft",17-Jul-13,"$2,600,000 ",37.424118,-122.21524,CA,Single-Family Home,2600000,"$3,145,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1312 University Dr,3,3,Menlo Park,"2,350 sqft",16-Jul-13,"$1,610,000 ",37.45186,-122.18921,CA,Single-Family Home,1610000,"$1,988,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,725 Hobart St,2.5,4,Menlo Park,"2,430 sqft",12-Jul-13,"$2,675,000 ",37.439163,-122.18985,CA,Single-Family Home,2675000,"$2,690,000 ",,,,,Sold,SAN MATEO
+94025,441 6th Ave,1,2,Menlo Park,780 sqft,12-Jul-13,"$475,000 ",37.47312,-122.20307,CA,Single-Family Home,475000,"$683,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,610 Gilbert Ave #12,2,2,Menlo Park,"1,028 sqft",12-Jul-13,"$666,000 ",37.46078,-122.1614,CA,Condo,666000,"$814,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,563 9th Ave,1,2,Menlo Park,"1,060 sqft",12-Jul-13,"$830,000 ",37.474026,-122.19918,CA,Single-Family Home,830000,"$992,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2063 Gordon Ave,1,1,Menlo Park,310 sqft,12-Jul-13,"$2,075,000 ",37.432594,-122.201744,CA,Single-Family Home,2075000,"$1,179,000 ",,University Heights,,,Sold,SAN MATEO
+94025,675 Sharon Park Dr #248,2,3,Menlo Park,"1,411 sqft",11-Jul-13,"$720,000 ",37.422405,-122.200905,CA,Condo,720000,"$928,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2308 Eastridge Ave,2,3,Menlo Park,"1,610 sqft",11-Jul-13,"$1,310,000 ",37.425907,-122.20088,CA,Single-Family Home,1310000,"$1,804,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,307 Barton Way,1,3,Menlo Park,"1,050 sqft",10-Jul-13,"$1,255,000 ",37.458355,-122.15877,CA,Single-Family Home,1255000,"$1,260,000 ",,The Willows,,,Sold,SAN MATEO
+94025,600 Willow Rd #13,2.5,3,Menlo Park,"1,780 sqft",10-Jul-13,"$1,100,000 ",37.462242,-122.15883,CA,Condo,1100000,"$1,209,000 ",,The Willows,,,Sold,SAN MATEO
+94025,167 Linfield Dr,3.5,4,Menlo Park,"1,825 sqft",10-Jul-13,"$1,500,000 ",37.45428,-122.16862,CA,Single-Family Home,1500000,"$1,849,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,1045 Trinity Dr,2,3,Menlo Park,"2,460 sqft",10-Jul-13,"$2,600,000 ",37.425503,-122.21343,CA,Single-Family Home,2600000,"$2,483,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1103 Del Norte Ave,1,2,Menlo Park,790 sqft,9-Jul-13,"$480,000 ",37.477192,-122.16794,CA,Single-Family Home,480000,"$600,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,360 Linfield Dr,1.5,3,Menlo Park,"1,580 sqft",9-Jul-13,"$1,826,000 ",37.45201,-122.17119,CA,Single-Family Home,1826000,"$2,084,000 ",,Linfield Oaks,,,Sold,SAN MATEO
+94025,2142 Sterling Ave,3,2,Menlo Park,"2,140 sqft",9-Jul-13,"$2,001,000 ",37.432903,-122.20592,CA,Single-Family Home,2001000,"$2,157,000 ",,University Heights,,,Sold,SAN MATEO
+94025,210 San Clemente Dr,1,2,Menlo Park,"1,300 sqft",9-Jul-13,"$1,440,000 ",37.457775,-122.16525,CA,Single-Family Home,1440000,"$1,474,000 ",,South of Seminary-Vintage Oaks,,,Sold,SAN MATEO
+94025,6 Zachary Ct,4,4,Menlo Park,"3,260 sqft",8-Jul-13,"$3,600,000 ",37.42804,-122.20459,CA,Single-Family Home,3600000,"$4,058,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1056 Ringwood Ave,1,3,Menlo Park,"1,200 sqft",8-Jul-13,"$970,000 ",37.47395,-122.16582,CA,Single-Family Home,970000,"$1,201,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1315 Madera Ave,1,2,Menlo Park,920 sqft,8-Jul-13,"$475,000 ",37.476944,-122.15523,CA,Single-Family Home,475000,"$555,000 ",,Belle Haven,,,Sold,SAN MATEO
+94025,2140 Santa Cruz Ave #E206,2,2,Menlo Park,945 sqft,8-Jul-13,"$555,000 ",37.42641,-122.19473,CA,Condo,555000,"$627,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1455 Mills Ct,1,3,Menlo Park,"1,230 sqft",5-Jul-13,"$1,150,000 ",37.458397,-122.187416,CA,Single-Family Home,1150000,"$1,479,000 ",,,,,Sold,SAN MATEO
+94025,3435 Alameda De Las Pulgas,2.5,3,Menlo Park,"1,750 sqft",3-Jul-13,"$1,150,000 ",37.43352,-122.204285,CA,Single-Family Home,1150000,"$2,016,000 ",,University Heights,,,Sold,SAN MATEO
+94025,161 Stanford Ave,1.5,2,Menlo Park,"1,160 sqft",3-Jul-13,"$1,495,000 ",37.42715,-122.19301,CA,Single-Family Home,1495000,"$1,494,000 ",,University Heights,,,Sold,SAN MATEO
+94025,444 Gilbert Ave,3,4,Menlo Park,"2,537 sqft",3-Jul-13,"$2,050,000 ",37.460037,-122.15861,CA,Single-Family Home,2050000,"$2,487,000 ",,The Willows,,,Sold,SAN MATEO
+94025,116 Blackburn Ave,1,3,Menlo Park,"1,170 sqft",3-Jul-13,"$1,328,000 ",37.45588,-122.16218,CA,Single-Family Home,1328000,"$1,389,000 ",,The Willows,,,Sold,SAN MATEO
+94025,192 Oak Ct,1,2,Menlo Park,920 sqft,2-Jul-13,"$899,000 ",37.458347,-122.15098,CA,Single-Family Home,899000,"$1,129,000 ",,The Willows,,,Sold,SAN MATEO
+94025,546 9th Ave,2,2,Menlo Park,"1,530 sqft",2-Jul-13,"$1,050,000 ",37.474506,-122.19807,CA,Single-Family Home,1050000,"$1,159,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,2061 Manzanita Ave,2,4,Menlo Park,"1,730 sqft",2-Jul-13,"$1,500,000 ",37.436188,-122.20863,CA,Single-Family Home,1500000,"$1,845,000 ",,University Heights,,,Sold,SAN MATEO
+94025,115 Walnut St,2,3,Menlo Park,"1,500 sqft",2-Jul-13,"$1,500,000 ",37.46148,-122.15292,CA,Single-Family Home,1500000,"$1,639,000 ",,The Willows,,,Sold,SAN MATEO
+94025,440 Santa Rita Ave,3.5,4,Menlo Park,"3,040 sqft",1-Jul-13,"$3,800,000 ",37.44104,-122.18419,CA,Single-Family Home,3800000,"$5,684,000 ",,,,,Sold,SAN MATEO
+94025,128 Elm St,,,Menlo Park,,1-Jul-13,"$1,050,000 ",37.460594,-122.152695,CA,Single-Family Home,1050000,"$941,000 ",,The Willows,,,Sold,SAN MATEO
+94025,693 9th Ave,1,3,Menlo Park,"1,260 sqft",28-Jun-13,"$885,000 ",37.47638,-122.19772,CA,Single-Family Home,885000,"$1,135,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,1266 Hoover St,2,2,Menlo Park,"1,160 sqft",28-Jun-13,"$1,050,000 ",37.453964,-122.18625,CA,Single-Family Home,1050000,"$1,405,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,872 15th Ave,2,3,Menlo Park,"1,100 sqft",28-Jun-13,"$735,000 ",37.4762,-122.18877,CA,Single-Family Home,735000,"$961,000 ",,Fair Oaks,,,Sold,SAN MATEO
+94025,675 Sharon Park Dr #210,1,1,Menlo Park,739 sqft,27-Jun-13,"$551,000 ",37.422405,-122.200905,CA,Condo,551000,"$637,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,2353 Sharon Rd,2,2,Menlo Park,"1,200 sqft",27-Jun-13,"$755,000 ",37.427006,-122.19826,CA,Condo,755000,"$786,000 ",,Sharon Height,,,Sold,SAN MATEO
+94025,1027 Oakland Ave,1,3,Menlo Park,"1,200 sqft",26-Jun-13,"$1,212,000 ",37.472298,-122.1662,CA,Single-Family Home,1212000,"$1,218,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,407 Chester St,1,3,Menlo Park,"1,560 sqft",25-Jun-13,"$1,278,000 ",37.46552,-122.15593,CA,Single-Family Home,1278000,"$1,583,000 ",,The Willows,,,Sold,SAN MATEO
+94025,1334 Johnson St,3,3,Menlo Park,"2,660 sqft",25-Jun-13,"$1,800,000 ",37.450584,-122.190155,CA,Single-Family Home,1800000,"$2,124,000 ",,Downtown Menlo Park,,,Sold,SAN MATEO
+94025,907 Timothy Ln,1,2,Menlo Park,"1,080 sqft",25-Jun-13,"$1,086,000 ",37.47677,-122.17898,CA,Single-Family Home,1086000,"$1,283,000 ",,Suburban Park-Lorelei Manor-Flood Park T,,,Sold,SAN MATEO
+94025,1921 Palo Alto Way,1,3,Menlo Park,"1,040 sqft",25-Jun-13,"$1,600,000 ",37.428852,-122.1921,CA,Single-Family Home,1600000,"$1,671,000 ",,University Heights,,,Sold,SAN MATEO
+94025,339 Trenton Way,2,3,Menlo Park,"1,680 sqft",25-Jun-13,"$1,300,000 ",37.4562,-122.1589,CA,Single-Family Home,1300000,"$1,644,000 ",,The Willows,,,Sold,SAN MATEO
+94025,215 University Dr,2,3,Menlo Park,"1,910 sqft",25-Jun-13,"$2,358,000 ",37.444485,-122.1778,CA,Single-Family Home,2358000,"$2,656,000 ",,Allied Arts,,,Sold,SAN MATEO

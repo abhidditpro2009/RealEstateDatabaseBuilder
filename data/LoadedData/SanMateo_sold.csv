@@ -1,0 +1,704 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94403,2600 S Delaware St,,,San Mateo,,20-Feb-14,"$812,500 ",37.54391,-122.300224,CA,Multi-Family,812500,,,Hillsdale,,,Sold,SAN MATEO
+94403,36 Live Oak Dr,,,San Mateo,,20-Feb-14,"$482,000 ",37.54071,-122.32935,CA,Lot/Land,482000,,,Beresford,,,Sold,SAN MATEO
+94402,112 Madison Ave #210,2,2,San Mateo,"1,200 sqft",19-Feb-14,"$740,000 ",37.55426,-122.31933,CA,Condo,740000,"$770,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,128 N El Camino Real #107,2,2,San Mateo,"1,355 sqft",19-Feb-14,"$660,000 ",37.567818,-122.330734,CA,Condo,660000,"$671,000 ",,North Central,,,Sold,SAN MATEO
+94403,1569 De Anza Blvd,2.5,2,San Mateo,"2,200 sqft",19-Feb-14,"$1,105,000 ",37.522087,-122.32624,CA,Single-Family Home,1105000,"$1,132,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,151 16th Ave,1,3,San Mateo,"1,900 sqft",14-Feb-14,"$1,250,000 ",37.555557,-122.312515,CA,Single-Family Home,1250000,"$1,275,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,1209 W Hillsdale Blvd,5,9,San Mateo,"5,462 sqft",14-Feb-14,"$1,850,000 ",37.53285,-122.32539,CA,Multi-Family,1850000,,,Sugarloaf,,,Sold,SAN MATEO
+94404,1622 Via Laguna #7,2,2,San Mateo,"1,070 sqft",14-Feb-14,"$650,000 ",37.554764,-122.28484,CA,Condo,650000,"$684,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,241 N Humboldt St,2,2,San Mateo,"1,370 sqft",14-Feb-14,"$628,500 ",37.575577,-122.323204,CA,Multi-Family,628500,"$788,000 ",,North Central,,,Sold,SAN MATEO
+94401,660 N El Camino Real,1,2,San Mateo,"1,250 sqft",14-Feb-14,"$875,000 ",37.572655,-122.33914,CA,Single-Family Home,875000,"$1,036,000 ",,North Central,,,Sold,SAN MATEO
+94403,231 Louise Ln,2.5,3,San Mateo,"2,150 sqft",14-Feb-14,"$1,588,500 ",37.533875,-122.30585,CA,Single-Family Home,1588500,"$1,635,000 ",,Beresford,,,Sold,SAN MATEO
+94401,810 N Delaware St,1.5,2,San Mateo,"1,152 sqft",14-Feb-14,"$614,000 ",37.58069,-122.331245,CA,Condo,614000,"$672,000 ",,North Central,,,Sold,SAN MATEO
+94402,114 Clark Dr,5,6,San Mateo,"4,540 sqft",14-Feb-14,"$3,700,000 ",37.570595,-122.34217,CA,Single-Family Home,3700000,"$2,496,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,3050 Los Prados St #19,1,,San Mateo,490 sqft,13-Feb-14,"$260,000 ",37.54448,-122.28163,CA,Condo,260000,"$312,000 ",,,,,Sold,SAN MATEO
+94401,900 E 3rd Ave,2.5,2,San Mateo,"1,580 sqft",13-Feb-14,"$782,000 ",37.56911,-122.31686,CA,Single-Family Home,782000,"$821,000 ",,North Central,,,Sold,SAN MATEO
+94403,1945 Palm Ave,1,2,San Mateo,"1,030 sqft",13-Feb-14,"$710,000 ",37.5499,-122.3088,CA,Single-Family Home,710000,"$798,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1239 Tilia St,2,3,San Mateo,"1,320 sqft",13-Feb-14,"$1,311,500 ",37.549797,-122.324234,CA,Single-Family Home,1311500,"$1,175,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,21 10th Ave,1,3,San Mateo,"2,750 sqft",12-Feb-14,"$1,400,000 ",37.558105,-122.319084,CA,Single-Family Home,1400000,"$1,423,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,608 Ocean View Ave,1,3,San Mateo,"1,000 sqft",11-Feb-14,"$635,000 ",37.572502,-122.306335,CA,Single-Family Home,635000,"$673,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,490 Mariners Island Blvd #212,2,2,San Mateo,"1,250 sqft",11-Feb-14,"$550,000 ",37.56729,-122.28483,CA,Condo,550000,"$679,000 ",,Vintage Park,,,Sold,SAN MATEO
+94401,816 Jefferson Ct,1,2,San Mateo,"1,157 sqft",11-Feb-14,"$651,000 ",37.575733,-122.338165,CA,Condo,651000,"$730,000 ",,North Central,,,Sold,SAN MATEO
+94403,347 Rolling Hills Ave,2,3,San Mateo,"1,990 sqft",7-Feb-14,"$1,220,000 ",37.527332,-122.303345,CA,Single-Family Home,1220000,"$1,236,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1665 Wellesley Ave,3,4,San Mateo,"2,270 sqft",6-Feb-14,"$685,000 ",37.561234,-122.29523,CA,Single-Family Home,685000,"$962,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,23 Mounds Rd,3,4,San Mateo,"3,200 sqft",6-Feb-14,"$1,865,000 ",37.56747,-122.33368,CA,Single-Family Home,1865000,"$2,715,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,847 N Humboldt St #403,1,,San Mateo,492 sqft,5-Feb-14,"$310,000 ",37.58069,-122.331245,CA,Condo,310000,"$337,000 ",,North Central,,,Sold,SAN MATEO
+94403,40 Live Oak Dr,,,San Mateo,,4-Feb-14,"$1,496,500 ",37.54092,-122.329185,CA,Lot/Land,1496500,,,Beresford,,,Sold,SAN MATEO
+94401,1737 Trollman Ave,2.5,4,San Mateo,"2,070 sqft",3-Feb-14,"$750,000 ",37.581684,-122.31484,CA,Single-Family Home,750000,"$906,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,601 Laurel Ave #906,2,2,San Mateo,"1,480 sqft",31-Jan-14,"$827,500 ",37.562614,-122.32079,CA,Condo,827500,"$848,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1021 S Idaho St,,,San Mateo,,31-Jan-14,"$864,000 ",37.564453,-122.308784,CA,Single-Family Home,864000,,,Haywood Park,,,Sold,SAN MATEO
+94404,654 Fathom Dr,2.5,3,San Mateo,"1,840 sqft",31-Jan-14,"$1,065,000 ",37.564587,-122.285934,CA,Single-Family Home,1065000,"$978,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,1945 Palm Ave,1,2,San Mateo,"1,030 sqft",13-Feb-14,"$710,000 ",37.5499,-122.3088,CA,Single-Family Home,710000,"$798,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1239 Tilia St,2,3,San Mateo,"1,320 sqft",13-Feb-14,"$1,311,500 ",37.549797,-122.324234,CA,Single-Family Home,1311500,"$1,175,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,21 10th Ave,1,3,San Mateo,"2,750 sqft",12-Feb-14,"$1,400,000 ",37.558105,-122.319084,CA,Single-Family Home,1400000,"$1,423,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,608 Ocean View Ave,1,3,San Mateo,"1,000 sqft",11-Feb-14,"$635,000 ",37.572502,-122.306335,CA,Single-Family Home,635000,"$673,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,490 Mariners Island Blvd #212,2,2,San Mateo,"1,250 sqft",11-Feb-14,"$550,000 ",37.56729,-122.28483,CA,Condo,550000,"$679,000 ",,Vintage Park,,,Sold,SAN MATEO
+94401,816 Jefferson Ct,1,2,San Mateo,"1,157 sqft",11-Feb-14,"$651,000 ",37.575733,-122.338165,CA,Condo,651000,"$730,000 ",,North Central,,,Sold,SAN MATEO
+94403,347 Rolling Hills Ave,2,3,San Mateo,"1,990 sqft",7-Feb-14,"$1,220,000 ",37.527332,-122.303345,CA,Single-Family Home,1220000,"$1,236,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1665 Wellesley Ave,3,4,San Mateo,"2,270 sqft",6-Feb-14,"$685,000 ",37.561234,-122.29523,CA,Single-Family Home,685000,"$962,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,23 Mounds Rd,3,4,San Mateo,"3,200 sqft",6-Feb-14,"$1,865,000 ",37.56747,-122.33368,CA,Single-Family Home,1865000,"$2,715,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,847 N Humboldt St #403,1,,San Mateo,492 sqft,5-Feb-14,"$310,000 ",37.58069,-122.331245,CA,Condo,310000,"$337,000 ",,North Central,,,Sold,SAN MATEO
+94403,40 Live Oak Dr,,,San Mateo,,4-Feb-14,"$1,496,500 ",37.54092,-122.329185,CA,Lot/Land,1496500,,,Beresford,,,Sold,SAN MATEO
+94401,1737 Trollman Ave,2.5,4,San Mateo,"2,070 sqft",3-Feb-14,"$750,000 ",37.581684,-122.31484,CA,Single-Family Home,750000,"$906,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,601 Laurel Ave #906,2,2,San Mateo,"1,480 sqft",31-Jan-14,"$827,500 ",37.562614,-122.32079,CA,Condo,827500,"$848,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1021 S Idaho St,,,San Mateo,,31-Jan-14,"$864,000 ",37.564453,-122.308784,CA,Single-Family Home,864000,,,Haywood Park,,,Sold,SAN MATEO
+94404,654 Fathom Dr,2.5,3,San Mateo,"1,840 sqft",31-Jan-14,"$1,065,000 ",37.564587,-122.285934,CA,Single-Family Home,1065000,"$978,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,320 Peninsula Ave #307,2,2,San Mateo,930 sqft,21-Jan-14,"$415,000 ",37.577667,-122.33773,CA,Condo,415000,"$448,000 ",,North Central,,,Sold,SAN MATEO
+94401,222 Grand Blvd,2,2,San Mateo,"1,960 sqft",21-Jan-14,"$1,258,000 ",37.573334,-122.335815,CA,Unknown,1258000,,,North Central,,,Sold,SAN MATEO
+94401,820 N Delaware St #407,1,2,San Mateo,903 sqft,17-Jan-14,"$480,000 ",37.58069,-122.331245,CA,Condo,480000,"$552,000 ",,North Central,,,Sold,SAN MATEO
+94402,603 Parrott Dr,2,2,San Mateo,"1,600 sqft",17-Jan-14,"$1,600,000 ",37.553288,-122.334625,CA,Single-Family Home,1600000,"$1,644,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,146 31st Ave,1,3,San Mateo,"1,220 sqft",17-Jan-14,"$916,000 ",37.536915,-122.304665,CA,Single-Family Home,916000,"$1,033,000 ",,Beresford,,,Sold,SAN MATEO
+94404,465 Fathom Dr #320,2,2,San Mateo,"1,250 sqft",17-Jan-14,"$570,000 ",37.568233,-122.28536,CA,Condo,570000,"$665,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,820 Crescent Ave,2,4,San Mateo,"2,140 sqft",17-Jan-14,"$2,150,000 ",37.57179,-122.34644,CA,Single-Family Home,2150000,"$1,623,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,1311 S Grant St,2,4,San Mateo,"1,400 sqft",17-Jan-14,"$750,000 ",37.56159,-122.30716,CA,Single-Family Home,750000,"$924,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,240 N Bayshore Blvd #113,2,2,San Mateo,"1,020 sqft",16-Jan-14,"$440,000 ",37.57798,-122.320274,CA,Condo,440000,"$528,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,833 Kathryne Ave,3,3,San Mateo,"2,050 sqft",16-Jan-14,"$835,000 ",37.571774,-122.30368,CA,Single-Family Home,835000,"$969,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1705 Roberta Dr,2,3,San Mateo,"1,490 sqft",16-Jan-14,"$735,000 ",37.56362,-122.29438,CA,Single-Family Home,735000,"$833,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,206 Clark Dr,2,3,San Mateo,"1,880 sqft",15-Jan-14,"$1,668,000 ",37.56915,-122.3441,CA,Single-Family Home,1668000,"$1,709,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,10 Crystal Springs Rd #1304,2,2,San Mateo,"1,732 sqft",15-Jan-14,"$1,000,000 ",37.564465,-122.3281,CA,Condo,1000000,"$991,000 ",,Downtown,,,Sold,SAN MATEO
+94403,1515 Day Ave #117,1.5,3,San Mateo,"1,054 sqft",15-Jan-14,"$460,000 ",37.551735,-122.28722,CA,Condo,460000,"$530,000 ",,,,,Sold,SAN MATEO
+94403,248 Louise Ln,2,3,San Mateo,"1,470 sqft",15-Jan-14,"$850,000 ",37.53402,-122.30664,CA,Single-Family Home,850000,"$1,296,000 ",,Beresford,,,Sold,SAN MATEO
+94404,1406 Via Vis,2,2,San Mateo,"1,070 sqft",14-Jan-14,"$610,000 ",37.553905,-122.28689,CA,Condo,610000,"$703,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,3359 Los Prados St,2,2,San Mateo,"1,310 sqft",14-Jan-14,"$750,000 ",37.539,-122.279816,CA,Single-Family Home,750000,"$811,000 ",,,,,Sold,SAN MATEO
+94401,221 S Fremont St #401,1,2,San Mateo,919 sqft,14-Jan-14,"$276,000 ",37.569202,-122.31839,CA,Condo,276000,"$378,000 ",,North Central,,,Sold,SAN MATEO
+94403,3235 Verdun Ave,2.5,3,San Mateo,"1,560 sqft",13-Jan-14,"$1,459,000 ",37.530655,-122.320786,CA,Single-Family Home,1459000,"$1,453,000 ",,Beresford,,,Sold,SAN MATEO
+94403,117 Seagate Dr,2,3,San Mateo,"1,650 sqft",10-Jan-14,"$1,059,000 ",37.53045,-122.27628,CA,Single-Family Home,1059000,"$1,100,000 ",,,,,Sold,SAN MATEO
+94401,1532 Mefferd Ave,1,3,San Mateo,"1,180 sqft",10-Jan-14,"$655,000 ",37.57878,-122.31731,CA,Single-Family Home,655000,"$715,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,24 N Grant St #S,2,2,San Mateo,"1,250 sqft",10-Jan-14,"$585,000 ",37.57103,-122.31996,CA,Single-Family Home,585000,"$752,000 ",,North Central,,,Sold,SAN MATEO
+94402,704 Foothill Dr,2,3,San Mateo,"2,380 sqft",10-Jan-14,"$1,400,000 ",37.545406,-122.32922,CA,Single-Family Home,1400000,"$1,617,000 ",,Beresford,,,Sold,SAN MATEO
+94402,148 Csm Dr,3.5,5,San Mateo,"2,540 sqft",10-Jan-14,"$1,590,000 ",37.529137,-122.33957,CA,Single-Family Home,1590000,"$1,793,000 ",,Baywood Park,,,Sold,SAN MATEO
+94401,30 S Grant St,,,San Mateo,"2,910 sqft",10-Jan-14,"$950,000 ",37.570927,-122.31985,CA,Multi-Family,950000,,,North Central,,,Sold,SAN MATEO
+94402,88 17th Ave #304,2,2,San Mateo,"1,113 sqft",9-Jan-14,"$645,000 ",37.552708,-122.312836,CA,Condo,645000,"$656,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,3802 Wilshire Ave,1,3,San Mateo,"1,390 sqft",8-Jan-14,"$1,150,000 ",37.52804,-122.30719,CA,Single-Family Home,1150000,"$1,187,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,802 N Delaware St #203,1,1,San Mateo,693 sqft,8-Jan-14,"$357,500 ",37.58069,-122.331245,CA,Condo,357500,"$455,000 ",,North Central,,,Sold,SAN MATEO
+94402,86 17th Ave,1,1,San Mateo,946 sqft,8-Jan-14,"$350,000 ",37.552708,-122.312836,CA,Condo,350000,"$594,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,222 8th Ave #316,2,2,San Mateo,"1,579 sqft",8-Jan-14,"$780,000 ",37.56167,-122.31891,CA,Condo,780000,"$1,018,000 ",,Downtown,,,Sold,SAN MATEO
+94401,802 N Delaware St #212,1,1,San Mateo,693 sqft,8-Jan-14,"$360,000 ",37.58069,-122.331245,CA,Condo,360000,"$437,000 ",,North Central,,,Sold,SAN MATEO
+94401,1011 Tilton Ave,2,3,San Mateo,"1,900 sqft",6-Jan-14,"$195,000 ",37.57394,-122.32035,CA,Single-Family Home,195000,"$844,000 ",,North Central,,,Sold,SAN MATEO
+94403,2655 Edison St,2,2,San Mateo,934 sqft,6-Jan-14,"$475,000 ",37.542572,-122.304565,CA,Condo,475000,"$579,000 ",,Beresford,,,Sold,SAN MATEO
+94401,1700 Kehoe Ave,2,3,San Mateo,"1,080 sqft",6-Jan-14,"$689,000 ",37.565193,-122.300354,CA,Single-Family Home,689000,"$743,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,215 Virginia Ave #304,2,2,San Mateo,"1,233 sqft",3-Jan-14,"$620,000 ",37.56008,-122.328545,CA,Condo,620000,"$743,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,3263 Llano St,2,3,San Mateo,"1,340 sqft",3-Jan-14,"$860,000 ",37.5416,-122.27942,CA,Single-Family Home,860000,"$945,000 ",,,,,Sold,SAN MATEO
+94403,337 Estrella Way,1,3,San Mateo,"1,080 sqft",3-Jan-14,"$882,000 ",37.537743,-122.286575,CA,Single-Family Home,882000,"$891,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,425 N El Camino Real,2,2,San Mateo,"1,317 sqft",3-Jan-14,"$630,000 ",37.570084,-122.33642,CA,Condo,630000,"$648,000 ",,North Central,,,Sold,SAN MATEO
+94402,137 W 3rd Ave,2,2,San Mateo,"1,450 sqft",3-Jan-14,"$1,075,000 ",37.56066,-122.328094,CA,Condo,1075000,"$1,148,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,740 27th Ave,1,3,San Mateo,"1,160 sqft",3-Jan-14,"$1,000,000 ",37.536617,-122.31832,CA,Single-Family Home,1000000,"$1,081,000 ",,Beresford,,,Sold,SAN MATEO
+94403,2352 Elliott St,2,3,San Mateo,"1,470 sqft",2-Jan-14,"$620,000 ",37.54888,-122.29121,CA,Single-Family Home,620000,"$811,000 ",,,,,Sold,SAN MATEO
+94403,3050 Los Prados St #12,2,2,San Mateo,900 sqft,31-Dec-13,"$242,500 ",37.54448,-122.28163,CA,Condo,242500,"$433,000 ",,,,,Sold,SAN MATEO
+94402,607 S Idaho St,1,2,San Mateo,"1,120 sqft",31-Dec-13,"$700,000 ",37.568375,-122.3128,CA,Single-Family Home,700000,"$840,000 ",,Downtown,,,Sold,SAN MATEO
+94401,601 Laurel Ave #607,2,2,San Mateo,"1,450 sqft",31-Dec-13,"$625,000 ",37.562614,-122.32079,CA,Condo,625000,"$729,000 ",,Downtown,,,Sold,SAN MATEO
+94403,3734 Hacienda St,2,2,San Mateo,"1,430 sqft",31-Dec-13,"$763,500 ",37.529667,-122.30203,CA,Single-Family Home,763500,"$1,172,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,225 9th Ave #317,2,2,San Mateo,"1,579 sqft",31-Dec-13,"$925,000 ",37.56167,-122.31891,CA,Condo,925000,"$979,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1221 S El Camino Real,,,San Mateo,"54,855 sqft",31-Dec-13,"$2,930,000 ",37.555855,-122.317665,CA,Multi-Family,2930000,,,Haywood Park,,,Sold,SAN MATEO
+94402,558 Edinburgh St,2,3,San Mateo,"1,810 sqft",31-Dec-13,"$1,835,000 ",37.557095,-122.327385,CA,Single-Family Home,1835000,"$2,005,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #609,2,2,San Mateo,"1,200 sqft",31-Dec-13,"$675,000 ",37.566105,-122.32796,CA,Condo,675000,"$688,000 ",,Downtown,,,Sold,SAN MATEO
+94403,14 Madrone Ct,,,San Mateo,,30-Dec-13,"$1,780,000 ",37.53902,-122.32745,CA,Single-Family Home,1780000,,,Beresford,,,Sold,SAN MATEO
+94402,242 Amherst Ave,1.5,2,San Mateo,"1,960 sqft",27-Dec-13,"$1,990,000 ",37.5577,-122.33176,CA,Single-Family Home,1990000,"$2,082,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,847 N Humboldt St #307,2,2,San Mateo,825 sqft,27-Dec-13,"$485,000 ",37.58069,-122.331245,CA,Condo,485000,"$536,000 ",,North Central,,,Sold,SAN MATEO
+94402,421 Hillcrest Rd,3,4,San Mateo,"2,200 sqft",27-Dec-13,"$1,550,000 ",37.563705,-122.3503,CA,Single-Family Home,1550000,"$2,013,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,311 N Grant St,1,2,San Mateo,"1,420 sqft",27-Dec-13,"$599,000 ",37.57578,-122.32484,CA,Single-Family Home,599000,"$730,000 ",,North Central,,,Sold,SAN MATEO
+94401,102 N Quebec St,1,3,San Mateo,"1,140 sqft",27-Dec-13,"$650,000 ",37.57898,-122.31324,CA,Single-Family Home,650000,"$776,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,42 Live Oak Dr,,,San Mateo,,26-Dec-13,"$1,404,000 ",37.540985,-122.32892,CA,Single-Family Home,1404000,,,Beresford,,,Sold,SAN MATEO
+94401,601 Laurel Ave #309,1,1,San Mateo,880 sqft,26-Dec-13,"$325,000 ",37.562614,-122.32079,CA,Condo,325000,"$406,000 ",,Downtown,,,Sold,SAN MATEO
+94403,750 28th Ave,2,3,San Mateo,"2,480 sqft",24-Dec-13,"$1,376,000 ",37.535633,-122.318245,CA,Single-Family Home,1376000,"$1,497,000 ",,Beresford,,,Sold,SAN MATEO
+94402,1705 Palm Ave #8,2.5,2,San Mateo,"1,318 sqft",24-Dec-13,"$665,000 ",37.553226,-122.31221,CA,Condo,665000,"$787,000 ",,Haywood Park,,,Sold,SAN MATEO
+94404,640 Fathom Dr,2,3,San Mateo,"1,860 sqft",24-Dec-13,"$1,215,000 ",37.564877,-122.28585,CA,Single-Family Home,1215000,"$1,245,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,50 Hoods Point Way,2,3,San Mateo,"1,740 sqft",23-Dec-13,"$1,459,000 ",37.518616,-122.34028,CA,Single-Family Home,1459000,"$1,433,000 ",,,,,Sold,SAN MATEO
+94401,1020 Indian Ave,1,3,San Mateo,"1,140 sqft",23-Dec-13,"$700,000 ",37.5778,-122.3242,CA,Single-Family Home,700000,"$717,000 ",,North Central,,,Sold,SAN MATEO
+94402,1705 Palm Ave #19,2.5,2,San Mateo,"1,320 sqft",23-Dec-13,"$688,000 ",37.553226,-122.31221,CA,Condo,688000,"$808,000 ",,Haywood Park,,,Sold,SAN MATEO
+94404,1732 Vista Del Sol,1,1,San Mateo,765 sqft,23-Dec-13,"$410,000 ",37.555595,-122.2848,CA,Condo,410000,"$472,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,106 W 3rd Ave #3,1,1,San Mateo,"1,100 sqft",20-Dec-13,"$480,000 ",37.561836,-122.32807,CA,Condo,480000,"$637,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,2338 S Norfolk St,2,3,San Mateo,"1,510 sqft",20-Dec-13,"$722,000 ",37.550583,-122.28944,CA,Single-Family Home,722000,"$875,000 ",,,,,Sold,SAN MATEO
+94401,401 S Norfolk St #107,2,2,San Mateo,913 sqft,20-Dec-13,"$490,000 ",37.572384,-122.30973,CA,Condo,490000,"$607,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,915 S Eldorado St,1.5,3,San Mateo,"1,440 sqft",20-Dec-13,"$976,000 ",37.563484,-122.31424,CA,Single-Family Home,976000,"$991,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,2736 Hosmer St,2,3,San Mateo,"1,100 sqft",20-Dec-13,"$667,500 ",37.546448,-122.28889,CA,Single-Family Home,667500,"$718,000 ",,,,,Sold,SAN MATEO
+94401,307 Highland Ave,2,2,San Mateo,990 sqft,20-Dec-13,"$785,000 ",37.569584,-122.33342,CA,Single-Family Home,785000,"$962,000 ",,North Central,,,Sold,SAN MATEO
+94402,628 Edna Way,2,3,San Mateo,"1,400 sqft",20-Dec-13,"$760,000 ",37.556313,-122.30632,CA,Single-Family Home,760000,"$895,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #323,2,2,San Mateo,"1,400 sqft",19-Dec-13,"$800,000 ",37.566105,-122.32796,CA,Condo,800000,"$815,000 ",,Downtown,,,Sold,SAN MATEO
+94401,1649 Cottage Grove Ave,1,3,San Mateo,"1,070 sqft",19-Dec-13,"$655,000 ",37.569973,-122.30394,CA,Single-Family Home,655000,"$662,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,432 W 20th Ave,1,2,San Mateo,"1,100 sqft",19-Dec-13,"$780,000 ",37.54666,-122.316986,CA,Single-Family Home,780000,"$889,000 ",,Beresford,,,Sold,SAN MATEO
+94403,560 30th Ave,1,2,San Mateo,"1,000 sqft",19-Dec-13,"$735,000 ",37.535194,-122.31294,CA,Single-Family Home,735000,"$888,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1639 Overland Dr,4.5,5,San Mateo,"3,140 sqft",19-Dec-13,"$1,350,000 ",37.5276,-122.328865,CA,Single-Family Home,1350000,"$1,647,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1015 N Idaho St,3,4,San Mateo,"2,598 sqft",19-Dec-13,"$1,020,000 ",37.585217,-122.332085,CA,Multi-Family,1020000,"$999,000 ",,North Central,,,Sold,SAN MATEO
+94401,12 Archer Ct,1,2,San Mateo,"1,400 sqft",19-Dec-13,"$593,000 ",37.579594,-122.31874,CA,Single-Family Home,593000,"$753,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #824,2,2,San Mateo,"1,140 sqft",19-Dec-13,"$540,000 ",37.566105,-122.32796,CA,Condo,540000,"$674,000 ",,Downtown,,,Sold,SAN MATEO
+94403,4214 George Ave #4,2,2,San Mateo,"1,040 sqft",18-Dec-13,"$485,000 ",37.533615,-122.28702,CA,Condo,485000,"$559,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,2910 Fernwood St,1,2,San Mateo,"1,270 sqft",18-Dec-13,"$875,000 ",37.53478,-122.31473,CA,Single-Family Home,875000,"$998,000 ",,Beresford,,,Sold,SAN MATEO
+94403,238 Spuraway Dr,4,5,San Mateo,"2,070 sqft",18-Dec-13,"$925,000 ",37.546925,-122.31792,CA,Single-Family Home,925000,"$1,326,000 ",,Beresford,,,Sold,SAN MATEO
+94403,185 Spuraway Dr,2,3,San Mateo,"1,670 sqft",17-Dec-13,"$1,120,000 ",37.547592,-122.31694,CA,Single-Family Home,1120000,"$1,264,000 ",,Beresford,,,Sold,SAN MATEO
+94401,24 N Idaho St,1,3,San Mateo,"1,250 sqft",17-Dec-13,"$630,000 ",37.573757,-122.31864,CA,Single-Family Home,630000,"$725,000 ",,North Central,,,Sold,SAN MATEO
+94401,712 E 4th Ave,1,3,San Mateo,"1,080 sqft",16-Dec-13,"$699,000 ",37.566998,-122.31782,CA,Single-Family Home,699000,"$753,000 ",,Downtown,,,Sold,SAN MATEO
+94401,617 Woodside Way #D,2,2,San Mateo,883 sqft,16-Dec-13,"$440,000 ",37.575768,-122.33378,CA,Condo,440000,"$547,000 ",,North Central,,,Sold,SAN MATEO
+94402,791 Crystal Springs Rd,3,3,San Mateo,"4,060 sqft",13-Dec-13,"$1,930,000 ",37.552853,-122.33895,CA,Single-Family Home,1930000,"$2,507,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,119 N Humboldt St,4,4,San Mateo,"3,226 sqft",13-Dec-13,"$850,000 ",37.573765,-122.32128,CA,Multi-Family,850000,,,North Central,,,Sold,SAN MATEO
+94403,3349 Kimberly Way,1.5,2,San Mateo,"1,190 sqft",13-Dec-13,"$635,000 ",37.53818,-122.27956,CA,Single-Family Home,635000,"$728,000 ",,,,,Sold,SAN MATEO
+94404,615 Port Dr #103,1,1,San Mateo,746 sqft,13-Dec-13,"$380,000 ",37.569073,-122.288345,CA,Condo,380000,"$464,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,198 Spuraway Dr,2,3,San Mateo,"1,320 sqft",13-Dec-13,"$1,150,000 ",37.547794,-122.31744,CA,Single-Family Home,1150000,"$1,157,000 ",,Beresford,,,Sold,SAN MATEO
+94402,430 Fulton Rd,4.5,4,San Mateo,"6,730 sqft",13-Dec-13,"$3,925,000 ",37.563232,-122.35233,CA,Single-Family Home,3925000,"$5,106,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,934 Peninsula Ave #203,1,,San Mateo,492 sqft,13-Dec-13,"$319,000 ",37.58069,-122.331245,CA,Condo,319000,"$345,000 ",,North Central,,,Sold,SAN MATEO
+94401,121 S Humboldt St,2,4,San Mateo,"1,600 sqft",12-Dec-13,"$565,500 ",37.571316,-122.3177,CA,Single-Family Home,565500,"$739,000 ",,North Central,,,Sold,SAN MATEO
+94404,1642 Via Laguna #7,2,3,San Mateo,"1,280 sqft",12-Dec-13,"$701,000 ",37.554764,-122.28484,CA,Condo,701000,"$753,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,803 N Humboldt St #407,1,1,San Mateo,693 sqft,12-Dec-13,"$380,500 ",37.58069,-122.331245,CA,Condo,380500,"$474,000 ",,North Central,,,Sold,SAN MATEO
+94404,626 Mariners Island Blvd #115,1,,San Mateo,484 sqft,10-Dec-13,"$280,000 ",37.56476,-122.28487,CA,Condo,280000,"$387,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,10 Crystal Springs Rd #1504,2,2,San Mateo,"1,732 sqft",9-Dec-13,"$975,000 ",37.564465,-122.3281,CA,Condo,975000,"$991,000 ",,Downtown,,,Sold,SAN MATEO
+94403,3915 Hacienda St,1,2,San Mateo,"1,080 sqft",6-Dec-13,"$600,000 ",37.528877,-122.30106,CA,Single-Family Home,600000,"$931,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,50 Mounds Rd #611,2,2,San Mateo,"2,076 sqft",6-Dec-13,"$950,000 ",37.566692,-122.33251,CA,Condo,950000,"$957,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,128 N El Camino Real #210,2.5,2,San Mateo,"1,298 sqft",6-Dec-13,"$621,000 ",37.567818,-122.330734,CA,Condo,621000,"$718,000 ",,North Central,,,Sold,SAN MATEO
+94402,1660 Wolfe Dr,2,4,San Mateo,"1,540 sqft",6-Dec-13,"$550,000 ",37.5574,-122.30447,CA,Single-Family Home,550000,"$896,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,1811 Canyon Oak Ct,2.5,3,San Mateo,"2,010 sqft",6-Dec-13,"$1,300,000 ",37.52301,-122.33504,CA,Single-Family Home,1300000,"$1,359,000 ",,Western Hills,,,Sold,SAN MATEO
+94403,558 Ventura Ave,1,3,San Mateo,"1,250 sqft",6-Dec-13,"$1,035,000 ",37.536568,-122.313835,CA,Single-Family Home,1035000,"$1,083,000 ",,Beresford,,,Sold,SAN MATEO
+94402,531 Cornell Ave,2,3,San Mateo,"2,390 sqft",6-Dec-13,"$2,218,000 ",37.555313,-122.33548,CA,Single-Family Home,2218000,"$2,339,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,320 Peninsula Ave #213,2,2,San Mateo,930 sqft,5-Dec-13,"$420,000 ",37.577667,-122.33773,CA,Condo,420000,"$488,000 ",,North Central,,,Sold,SAN MATEO
+94401,438 N El Camino Real,,,San Mateo,"24,490 sqft",4-Dec-13,"$6,550,000 ",37.57067,-122.33639,CA,Multi-Family,6550000,,,North Central,,,Sold,SAN MATEO
+94401,970 S B St,2,4,San Mateo,"2,180 sqft",4-Dec-13,"$1,026,000 ",37.56002,-122.31652,CA,Multi-Family,1026000,"$1,115,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #66,1,2,San Mateo,918 sqft,4-Dec-13,"$450,000 ",37.546646,-122.320076,CA,Condo,450000,"$530,000 ",,Beresford,,,Sold,SAN MATEO
+94402,105 W Bellevue Ave,3,4,San Mateo,"3,000 sqft",4-Dec-13,"$2,300,000 ",37.56932,-122.33968,CA,Single-Family Home,2300000,"$2,306,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,35 W 20th Ave #214,2,2,San Mateo,"1,211 sqft",4-Dec-13,"$620,000 ",37.54697,-122.31114,CA,Condo,620000,"$668,000 ",,Beresford,,,Sold,SAN MATEO
+94402,8 Seville Way,4,3,San Mateo,"5,598 sqft",3-Dec-13,"$2,500,000 ",37.55724,-122.32042,CA,Multi-Family,2500000,,,Haywood Park,,,Sold,SAN MATEO
+94403,616 42nd Ave #W,2.5,5,San Mateo,"2,700 sqft",3-Dec-13,"$1,435,000 ",37.524246,-122.30675,CA,Single-Family Home,1435000,"$1,632,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,151 Arroyo Ct,6,8,San Mateo,"5,544 sqft",3-Dec-13,"$2,250,000 ",37.561146,-122.32935,CA,Multi-Family,2250000,,,Baywood-Aragon,,,Sold,SAN MATEO
+94401,1621 Huron Ave,1,3,San Mateo,"1,142 sqft",2-Dec-13,"$640,000 ",37.57742,-122.315956,CA,Single-Family Home,640000,"$785,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,3347 La Selva St #B,1,1,San Mateo,723 sqft,27-Nov-13,"$436,000 ",37.539043,-122.28163,CA,Condo,436000,"$463,000 ",,,,,Sold,SAN MATEO
+94401,821 N Humboldt St #412,1,1,San Mateo,816 sqft,27-Nov-13,"$408,500 ",37.58069,-122.331245,CA,Condo,408500,"$484,000 ",,North Central,,,Sold,SAN MATEO
+94403,1789 Rex St,2,3,San Mateo,"1,420 sqft",27-Nov-13,"$780,000 ",37.55562,-122.29556,CA,Single-Family Home,780000,"$857,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,626 Mariners Island Blvd #205,1,1,San Mateo,726 sqft,27-Nov-13,"$405,000 ",37.56476,-122.28487,CA,Condo,405000,"$488,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94404,460 Fathom Dr,2.5,3,San Mateo,"2,250 sqft",27-Nov-13,"$1,070,000 ",37.567986,-122.28585,CA,Single-Family Home,1070000,"$1,147,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,934 Peninsula Ave #205,1,2,San Mateo,903 sqft,27-Nov-13,"$517,500 ",37.58069,-122.331245,CA,Condo,517500,"$543,000 ",,North Central,,,Sold,SAN MATEO
+94404,651 Port Dr #201,2,2,San Mateo,"1,113 sqft",27-Nov-13,"$530,000 ",37.569073,-122.288345,CA,Condo,530000,"$635,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,408 37th Ave,3.5,3,San Mateo,"1,890 sqft",27-Nov-13,"$1,517,000 ",37.530376,-122.30537,CA,Single-Family Home,1517000,"$1,634,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,833 N Humboldt St #303,1,1,San Mateo,772 sqft,27-Nov-13,"$400,000 ",37.58069,-122.331245,CA,Condo,400000,"$465,000 ",,North Central,,,Sold,SAN MATEO
+94401,15 Serra Ct,1,3,San Mateo,"1,300 sqft",27-Nov-13,"$630,000 ",37.57564,-122.321686,CA,Single-Family Home,630000,"$742,000 ",,North Central,,,Sold,SAN MATEO
+94401,430 Wisnom Ave,2,3,San Mateo,"1,540 sqft",26-Nov-13,"$1,165,000 ",37.571095,-122.33566,CA,Single-Family Home,1165000,"$1,174,000 ",,North Central,,,Sold,SAN MATEO
+94402,143 Gramercy Dr,1,3,San Mateo,"1,740 sqft",26-Nov-13,"$1,289,000 ",37.566216,-122.33405,CA,Single-Family Home,1289000,"$1,552,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,1017 Yates Way,2.5,3,San Mateo,"1,312 sqft",26-Nov-13,"$775,000 ",37.545998,-122.294205,CA,Condo,775000,"$914,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1817 Los Altos Dr,2.5,4,San Mateo,"2,010 sqft",26-Nov-13,"$1,637,000 ",37.52666,-122.33548,CA,Single-Family Home,1637000,"$1,568,000 ",,Baywood Park,,,Sold,SAN MATEO
+94402,153 Crystal Springs Rd,3,3,San Mateo,"3,321 sqft",26-Nov-13,"$1,415,000 ",37.561234,-122.32978,CA,Multi-Family,1415000,,,Baywood-Aragon,,,Sold,SAN MATEO
+94401,233 Grand Blvd,2.5,3,San Mateo,"2,830 sqft",26-Nov-13,"$747,500 ",37.57402,-122.336105,CA,Single-Family Home,747500,"$1,629,000 ",,North Central,,,Sold,SAN MATEO
+94402,951 S Eldorado St,,,San Mateo,"2,110 sqft",26-Nov-13,"$1,456,000 ",37.56276,-122.313446,CA,Unknown,1456000,,,Haywood Park,,,Sold,SAN MATEO
+94401,22 Saint Marys Ct,1,2,San Mateo,990 sqft,26-Nov-13,"$600,000 ",37.577045,-122.32373,CA,Single-Family Home,600000,"$742,000 ",,North Central,,,Sold,SAN MATEO
+94402,503 Kentucky Ave,2.5,4,San Mateo,"2,370 sqft",25-Nov-13,"$2,107,000 ",37.553905,-122.33059,CA,Single-Family Home,2107000,"$2,258,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,820 N Delaware St #414,1,2,San Mateo,974 sqft,22-Nov-13,"$485,000 ",37.58069,-122.331245,CA,Condo,485000,"$532,000 ",,North Central,,,Sold,SAN MATEO
+94403,3417 La Selva St,1.5,2,San Mateo,"1,190 sqft",22-Nov-13,"$520,000 ",37.537846,-122.28082,CA,Single-Family Home,520000,"$675,000 ",,,,,Sold,SAN MATEO
+94401,739 N Idaho St,2,3,San Mateo,"1,910 sqft",22-Nov-13,"$928,000 ",37.581356,-122.32788,CA,Single-Family Home,928000,"$989,000 ",,North Central,,,Sold,SAN MATEO
+94402,26 Tollridge Ct,2.5,3,San Mateo,"1,690 sqft",22-Nov-13,"$865,000 ",37.52924,-122.333084,CA,Single-Family Home,865000,"$907,000 ",,Western Hills,,,Sold,SAN MATEO
+94404,1046 Shoreline Dr,1.5,1,San Mateo,"1,150 sqft",22-Nov-13,"$663,000 ",37.557743,-122.290504,CA,Condo,663000,"$704,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94404,800 Wharfside Rd,1.5,1,San Mateo,"1,150 sqft",22-Nov-13,"$650,000 ",37.560574,-122.288635,CA,Condo,650000,"$719,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,2345 Ticonderoga Dr,2.5,2,San Mateo,"1,470 sqft",22-Nov-13,"$633,000 ",37.515656,-122.33491,CA,Single-Family Home,633000,"$796,000 ",,Western Hills,,,Sold,SAN MATEO
+94403,3045 Los Prados St #216,2,2,San Mateo,956 sqft,22-Nov-13,"$398,000 ",37.545334,-122.28213,CA,Condo,398000,"$460,000 ",,,,,Sold,SAN MATEO
+94403,119 W 40th Ave,1,2,San Mateo,"1,000 sqft",22-Nov-13,"$795,000 ",37.53011,-122.29489,CA,Single-Family Home,795000,"$924,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,601 Laurel Ave #805,2,3,San Mateo,"1,900 sqft",22-Nov-13,"$1,100,000 ",37.562614,-122.32079,CA,Condo,1100000,"$1,094,000 ",,Downtown,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #623,2,2,San Mateo,"1,400 sqft",22-Nov-13,"$800,000 ",37.566105,-122.32796,CA,Condo,800000,"$815,000 ",,Downtown,,,Sold,SAN MATEO
+94402,620 Hobart Ave,1.5,3,San Mateo,"1,450 sqft",21-Nov-13,"$1,200,000 ",37.549423,-122.32714,CA,Single-Family Home,1200000,"$1,479,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,22 Engle Rd,1,2,San Mateo,"1,180 sqft",21-Nov-13,"$559,000 ",37.56941,-122.335495,CA,Single-Family Home,559000,"$1,072,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,833 N Humboldt St #312,1,1,San Mateo,693 sqft,21-Nov-13,"$368,000 ",37.58069,-122.331245,CA,Condo,368000,"$436,000 ",,North Central,,,Sold,SAN MATEO
+94403,1925 Parkwood Dr,2.5,3,San Mateo,"1,780 sqft",21-Nov-13,"$1,100,000 ",37.517654,-122.32774,CA,Single-Family Home,1100000,"$1,126,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,227 29th Ave,2,3,San Mateo,"1,490 sqft",21-Nov-13,"$1,050,000 ",37.537617,-122.30795,CA,Single-Family Home,1050000,"$1,223,000 ",,Beresford,,,Sold,SAN MATEO
+94402,325 Clark Dr,2,3,San Mateo,"2,360 sqft",21-Nov-13,"$1,750,000 ",37.56762,-122.34606,CA,Single-Family Home,1750000,"$1,958,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,22 Aragon Blvd,1.5,2,San Mateo,"1,850 sqft",21-Nov-13,"$1,265,000 ",37.55747,-122.32153,CA,Single-Family Home,1265000,"$1,583,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,903 31st Ave,2,3,San Mateo,"1,530 sqft",20-Nov-13,"$1,060,000 ",37.532036,-122.31976,CA,Single-Family Home,1060000,"$1,292,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1615 Overland Dr,2.5,4,San Mateo,"1,980 sqft",20-Nov-13,"$1,150,000 ",37.527943,-122.32888,CA,Single-Family Home,1150000,"$1,233,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1826 Church Ave,2,3,San Mateo,"1,080 sqft",20-Nov-13,"$735,000 ",37.56456,-122.29845,CA,Single-Family Home,735000,"$782,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1212 31st Ave,2,3,San Mateo,"1,600 sqft",20-Nov-13,"$1,510,000 ",37.53179,-122.32449,CA,Single-Family Home,1510000,"$1,490,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,928 S Norfolk St,1,3,San Mateo,"1,000 sqft",20-Nov-13,"$585,000 ",37.56756,-122.30568,CA,Single-Family Home,585000,"$665,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,701 31st Ave,2.5,3,San Mateo,"1,770 sqft",20-Nov-13,"$1,300,000 ",37.531822,-122.31592,CA,Single-Family Home,1300000,"$1,311,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3917 Branson Dr,1,2,San Mateo,860 sqft,20-Nov-13,"$750,000 ",37.538162,-122.28272,CA,Single-Family Home,750000,"$807,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,348 Georgetown Ave,4.5,4,San Mateo,"4,650 sqft",19-Nov-13,"$2,725,000 ",37.555744,-122.32859,CA,Single-Family Home,2725000,"$2,007,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,106 W 3rd Ave #1,1,1,San Mateo,"1,100 sqft",19-Nov-13,"$535,000 ",37.561836,-122.32807,CA,Condo,535000,"$622,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94404,811 Wharfside Rd,2.5,3,San Mateo,"2,100 sqft",19-Nov-13,"$868,000 ",37.560574,-122.288635,CA,Condo,868000,"$1,100,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,306 Rosilie St,2.5,4,San Mateo,"2,020 sqft",18-Nov-13,"$1,262,000 ",37.529915,-122.28049,CA,Single-Family Home,1262000,"$1,155,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #815,1,1,San Mateo,800 sqft,18-Nov-13,"$267,000 ",37.566105,-122.32796,CA,Condo,267000,"$400,000 ",,Downtown,,,Sold,SAN MATEO
+94401,814 N Delaware St #310,1,2,San Mateo,903 sqft,15-Nov-13,"$505,000 ",37.58069,-122.331245,CA,Condo,505000,"$564,000 ",,North Central,,,Sold,SAN MATEO
+94403,3355 Los Prados St,1.5,2,San Mateo,"1,190 sqft",15-Nov-13,"$570,000 ",37.539135,-122.27973,CA,Single-Family Home,570000,"$701,000 ",,,,,Sold,SAN MATEO
+94401,812 Cypress Ave,2,3,San Mateo,"1,300 sqft",15-Nov-13,"$685,000 ",37.57128,-122.32052,CA,Single-Family Home,685000,"$788,000 ",,North Central,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #162,1,1,San Mateo,663 sqft,15-Nov-13,"$340,000 ",37.54649,-122.3211,CA,Condo,340000,"$430,000 ",,Beresford,,,Sold,SAN MATEO
+94403,615 36th Ave,2,4,San Mateo,"1,760 sqft",15-Nov-13,"$1,050,000 ",37.52908,-122.30948,CA,Single-Family Home,1050000,"$1,331,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1414 Hancock Ave,2,4,San Mateo,"1,470 sqft",15-Nov-13,"$630,000 ",37.559284,-122.2985,CA,Single-Family Home,630000,"$772,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,1008 Norton St,2,3,San Mateo,"1,650 sqft",15-Nov-13,"$570,000 ",37.56543,-122.307236,CA,Single-Family Home,570000,"$820,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,710 Mariners Island Blvd #106,1,,San Mateo,484 sqft,15-Nov-13,"$286,000 ",37.56351,-122.28595,CA,Condo,286000,"$356,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,801 N Humboldt St #209,1,1,San Mateo,693 sqft,15-Nov-13,"$359,000 ",37.58069,-122.331245,CA,Condo,359000,"$463,000 ",,North Central,,,Sold,SAN MATEO
+94402,44 W 5th Ave,2,3,San Mateo,"2,148 sqft",15-Nov-13,"$1,200,000 ",37.560886,-122.32605,CA,Multi-Family,1200000,"$1,396,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,3375 Kimberly Way,1.5,2,San Mateo,"1,190 sqft",15-Nov-13,"$618,000 ",37.537426,-122.28035,CA,Single-Family Home,618000,"$675,000 ",,,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #502,1,1,San Mateo,930 sqft,15-Nov-13,"$459,000 ",37.566105,-122.32796,CA,Condo,459000,"$458,000 ",,Downtown,,,Sold,SAN MATEO
+94401,409 Tilton Ave,2,3,San Mateo,"1,140 sqft",15-Nov-13,"$575,000 ",37.570324,-122.3256,CA,Single-Family Home,575000,"$740,000 ",,North Central,,,Sold,SAN MATEO
+94402,114 Hobart Ave #2,1.5,2,San Mateo,"1,330 sqft",14-Nov-13,"$750,000 ",37.555042,-122.32034,CA,Condo,750000,"$843,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,1618 Dolan Ave,1.5,3,San Mateo,"1,180 sqft",14-Nov-13,"$687,000 ",37.575043,-122.31038,CA,Single-Family Home,687000,"$852,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,312 Midvale Ave,2,3,San Mateo,"1,495 sqft",14-Nov-13,"$1,201,000 ",37.52534,-122.29979,CA,Single-Family Home,1201000,"$1,225,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #94,2,2,San Mateo,"1,024 sqft",14-Nov-13,"$530,000 ",37.54649,-122.3211,CA,Condo,530000,"$548,000 ",,Beresford,,,Sold,SAN MATEO
+94401,964 Peninsula Ave,1,1,San Mateo,772 sqft,14-Nov-13,"$600,000 ",37.58069,-122.331245,CA,Condo,600000,"$473,000 ",,North Central,,,Sold,SAN MATEO
+94403,3049 Los Prados St #226,1,1,San Mateo,717 sqft,13-Nov-13,"$325,000 ",37.545334,-122.28213,CA,Condo,325000,"$381,000 ",,,,,Sold,SAN MATEO
+94403,1694 Mckinley St,2,3,San Mateo,"1,170 sqft",13-Nov-13,"$730,000 ",37.55912,-122.299545,CA,Single-Family Home,730000,"$725,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,153 N San Mateo Dr #309,2,2,San Mateo,"1,576 sqft",13-Nov-13,"$776,000 ",37.569138,-122.32967,CA,Condo,776000,"$838,000 ",,North Central,,,Sold,SAN MATEO
+94403,1608 Marina Ct #52,1,1,San Mateo,590 sqft,13-Nov-13,"$320,000 ",37.550964,-122.28586,CA,Condo,320000,"$384,000 ",,,,,Sold,SAN MATEO
+94403,831 W Hillsdale Blvd,2.5,4,San Mateo,"2,450 sqft",13-Nov-13,"$1,270,000 ",37.529713,-122.31701,CA,Single-Family Home,1270000,"$1,428,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94404,2160 Vista Del Mar,2,2,San Mateo,"1,374 sqft",13-Nov-13,"$191,000 ",37.553745,-122.28587,CA,Condo,191000,"$797,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,309 Santa Clara Way,1,3,San Mateo,"1,080 sqft",13-Nov-13,"$860,000 ",37.540684,-122.28905,CA,Single-Family Home,860000,"$943,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,10 Crystal Springs Rd #1405,2,2,San Mateo,"1,732 sqft",12-Nov-13,"$1,025,000 ",37.564465,-122.3281,CA,Condo,1025000,"$991,000 ",,Downtown,,,Sold,SAN MATEO
+94403,3944 Kingridge Dr,2,3,San Mateo,"1,710 sqft",12-Nov-13,"$1,185,000 ",37.524597,-122.30818,CA,Single-Family Home,1185000,"$1,472,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94404,615 Port Dr #204,2,2,San Mateo,990 sqft,12-Nov-13,"$495,000 ",37.569073,-122.288345,CA,Condo,495000,"$627,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,449 Highland Ave,1,3,San Mateo,"1,730 sqft",12-Nov-13,"$1,035,000 ",37.571697,-122.33579,CA,Single-Family Home,1035000,"$1,115,000 ",,North Central,,,Sold,SAN MATEO
+94401,1825 Hemlock Ave,2,3,San Mateo,"1,080 sqft",8-Nov-13,"$662,000 ",37.567776,-122.29941,CA,Single-Family Home,662000,"$734,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,4251 George Ave #4,2,2,San Mateo,"1,040 sqft",8-Nov-13,"$526,000 ",37.532047,-122.286095,CA,Condo,526000,"$577,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #120,2,2,San Mateo,"1,024 sqft",8-Nov-13,"$520,000 ",37.54649,-122.3211,CA,Condo,520000,"$567,000 ",,Beresford,,,Sold,SAN MATEO
+94402,608 Caribbean Way,3,3,San Mateo,"2,380 sqft",8-Nov-13,"$1,755,000 ",37.548138,-122.32499,CA,Single-Family Home,1755000,"$1,784,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,56 Valley View Ct,2,3,San Mateo,"1,810 sqft",8-Nov-13,"$1,200,000 ",37.52879,-122.34446,CA,Single-Family Home,1200000,"$1,463,000 ",,Baywood Park,,,Sold,SAN MATEO
+94402,120 Hobart Ave,3,5,San Mateo,"3,537 sqft",8-Nov-13,"$1,700,000 ",37.554848,-122.320595,CA,Multi-Family,1700000,"$1,668,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,815 N Humboldt St #306,2,2,San Mateo,"1,204 sqft",7-Nov-13,"$575,000 ",37.58069,-122.331245,CA,Condo,575000,"$593,000 ",,North Central,,,Sold,SAN MATEO
+94403,1648 Van Buren St,2,3,San Mateo,"1,300 sqft",7-Nov-13,"$489,000 ",37.562466,-122.29642,CA,Single-Family Home,489000,"$791,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,2008 Texas Way,2,3,San Mateo,"1,280 sqft",7-Nov-13,"$779,000 ",37.55091,-122.30417,CA,Single-Family Home,779000,"$864,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,828 N El Camino Real #12,1,1,San Mateo,833 sqft,7-Nov-13,"$369,000 ",37.57411,-122.34135,CA,Condo,369000,"$483,000 ",,North Central,,,Sold,SAN MATEO
+94403,19 Madrone Ct,,,San Mateo,,7-Nov-13,"$1,564,500 ",37.53919,-122.32694,CA,Lot/Land,1564500,,,Beresford,,,Sold,SAN MATEO
+94401,727 Cypress Ave,1,2,San Mateo,"1,370 sqft",6-Nov-13,"$730,000 ",37.571106,-122.32156,CA,Single-Family Home,730000,"$704,000 ",,North Central,,,Sold,SAN MATEO
+94404,840 Wharfside Rd,2,2,San Mateo,"1,230 sqft",6-Nov-13,"$645,000 ",37.560574,-122.288635,CA,Condo,645000,"$760,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94404,2215 Armada Way,2.5,2,San Mateo,"1,223 sqft",5-Nov-13,"$665,000 ",37.562572,-122.289024,CA,Condo,665000,"$784,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,701 N Humboldt St #S,1,3,San Mateo,"1,930 sqft",5-Nov-13,"$975,000 ",37.574295,-122.31932,CA,Single-Family Home,975000,"$992,000 ",,,,,Sold,SAN MATEO
+94403,4025 Bayview Ave,1.5,2,San Mateo,"1,270 sqft",5-Nov-13,"$1,190,000 ",37.528786,-122.29735,CA,Single-Family Home,1190000,"$1,135,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,904 Peninsula Ave #207,1,1,San Mateo,693 sqft,5-Nov-13,"$430,000 ",37.58069,-122.331245,CA,Condo,430000,"$435,000 ",,North Central,,,Sold,SAN MATEO
+94403,1531 Marina Ct #D,1.5,3,San Mateo,"1,054 sqft",5-Nov-13,"$457,000 ",37.550842,-122.28769,CA,Condo,457000,"$471,000 ",,,,,Sold,SAN MATEO
+94401,626 N Claremont St,,,San Mateo,"1,960 sqft",4-Nov-13,"$845,000 ",37.577206,-122.33231,CA,Unknown,845000,,,North Central,,,Sold,SAN MATEO
+94402,1105 9th Ave,3,6,San Mateo,"2,400 sqft",4-Nov-13,"$830,000 ",37.566753,-122.31102,CA,Multi-Family,830000,"$1,060,000 ",,Downtown,,,Sold,SAN MATEO
+94401,934 Peninsula Ave #201,1,1,San Mateo,693 sqft,4-Nov-13,"$384,000 ",37.58069,-122.331245,CA,Condo,384000,"$461,000 ",,North Central,,,Sold,SAN MATEO
+94402,5 Shelbourne Pl,2,4,San Mateo,"1,620 sqft",4-Nov-13,"$1,248,000 ",37.517307,-122.34402,CA,Single-Family Home,1248000,"$1,315,000 ",,,,,Sold,SAN MATEO
+94404,1518 Vista Del Sol,1,1,San Mateo,765 sqft,4-Nov-13,"$408,000 ",37.555225,-122.28628,CA,Condo,408000,"$512,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,632 Occidental Ave,2.5,4,San Mateo,"2,150 sqft",1-Nov-13,"$2,025,000 ",37.568523,-122.34831,CA,Single-Family Home,2025000,"$2,037,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,308 Del Rosa Way,1,3,San Mateo,"1,080 sqft",1-Nov-13,"$575,000 ",37.53762,-122.28737,CA,Single-Family Home,575000,"$833,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,537 Hurlingham Ave,3.5,3,San Mateo,"3,640 sqft",1-Nov-13,"$3,525,000 ",37.57009,-122.34092,CA,Single-Family Home,3525000,"$2,844,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,3808 Orinda Dr,1,3,San Mateo,"1,080 sqft",1-Nov-13,"$850,000 ",37.536297,-122.28904,CA,Single-Family Home,850000,"$871,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,110 S Idaho St,1,3,San Mateo,"1,230 sqft",1-Nov-13,"$660,000 ",37.571827,-122.31749,CA,Single-Family Home,660000,"$741,000 ",,North Central,,,Sold,SAN MATEO
+94402,144 15th Ave,,,San Mateo,"1,230 sqft",31-Oct-13,"$997,500 ",37.555714,-122.31305,CA,Multi-Family,997500,"$1,244,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,3149 Los Prados St,2,3,San Mateo,"1,500 sqft",31-Oct-13,"$1,220,000 ",37.54459,-122.279686,CA,Single-Family Home,1220000,"$946,000 ",,,,,Sold,SAN MATEO
+94402,1406 Rainbow Dr,4,5,San Mateo,"3,550 sqft",31-Oct-13,"$950,000 ",37.530884,-122.347786,CA,Single-Family Home,950000,"$2,088,000 ",,Baywood Park,,,Sold,SAN MATEO
+94401,1562 Lodi Ave,2,3,San Mateo,"1,010 sqft",31-Oct-13,"$600,000 ",37.562653,-122.298256,CA,Single-Family Home,600000,"$700,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,530 Ventura Ave,1,3,San Mateo,"1,110 sqft",31-Oct-13,"$900,000 ",37.536983,-122.312744,CA,Single-Family Home,900000,"$1,111,000 ",,Beresford,,,Sold,SAN MATEO
+94403,715 31st Ave,2,3,San Mateo,"1,550 sqft",31-Oct-13,"$940,000 ",37.531597,-122.31647,CA,Single-Family Home,940000,"$1,207,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1937 Parkwood Dr,2.5,4,San Mateo,"2,630 sqft",31-Oct-13,"$1,200,000 ",37.517838,-122.32741,CA,Single-Family Home,1200000,"$1,245,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1524 Kehoe Ave,2,3,San Mateo,"1,080 sqft",31-Oct-13,"$650,000 ",37.56461,-122.301735,CA,Single-Family Home,650000,"$733,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,1117 S Norfolk St,1,3,San Mateo,"1,000 sqft",31-Oct-13,"$587,000 ",37.565437,-122.302956,CA,Single-Family Home,587000,"$720,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,3414 Monterey St,2,3,San Mateo,"1,440 sqft",31-Oct-13,"$1,208,000 ",37.529175,-122.31509,CA,Single-Family Home,1208000,"$1,247,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,501 S Fremont St,,,San Mateo,"6,970 sqft",31-Oct-13,"$1,725,000 ",37.56689,-122.316414,CA,Multi-Family,1725000,,,Downtown,,,Sold,SAN MATEO
+94403,3029 Lansdale St,1.5,3,San Mateo,"1,140 sqft",31-Oct-13,"$880,000 ",37.533527,-122.31424,CA,Single-Family Home,880000,"$1,017,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3521 Martin Dr,1,3,San Mateo,"1,130 sqft",31-Oct-13,"$720,000 ",37.540886,-122.286316,CA,Single-Family Home,720000,"$881,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,5 French Creek Pl,2,4,San Mateo,"1,670 sqft",31-Oct-13,"$1,270,000 ",37.51498,-122.34178,CA,Single-Family Home,1270000,"$1,345,000 ",,,,,Sold,SAN MATEO
+94403,66 Laurie Meadows Dr #1,1,1,San Mateo,840 sqft,31-Oct-13,"$382,000 ",37.532047,-122.286095,CA,Condo,382000,"$456,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,401 S Norfolk St,2,2,San Mateo,913 sqft,31-Oct-13,"$500,000 ",37.572384,-122.30973,CA,Condo,500000,"$607,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1401 Pershing Ave,2,4,San Mateo,"1,530 sqft",30-Oct-13,"$810,000 ",37.560986,-122.30059,CA,Single-Family Home,810000,"$871,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,423 N Claremont St #3,2,3,San Mateo,"1,210 sqft",30-Oct-13,"$558,000 ",37.574986,-122.33094,CA,Condo,558000,"$745,000 ",,North Central,,,Sold,SAN MATEO
+94401,932 Peninsula Ave #314,1,1,San Mateo,758 sqft,30-Oct-13,"$395,000 ",37.58069,-122.331245,CA,Condo,395000,"$470,000 ",,North Central,,,Sold,SAN MATEO
+94403,3505 Casanova Dr,1,3,San Mateo,"1,100 sqft",29-Oct-13,"$845,000 ",37.540916,-122.287415,CA,Single-Family Home,845000,"$847,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,2120 Meadow View Pl,2,2,San Mateo,"1,076 sqft",29-Oct-13,"$651,000 ",37.566944,-122.297714,CA,Single-Family Home,651000,"$704,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,1310 Palm Ave,,,San Mateo,"2,340 sqft",29-Oct-13,"$1,535,000 ",37.556007,-122.31598,CA,Multi-Family,1535000,"$1,571,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,704 28th Ave,2,3,San Mateo,"2,122 sqft",29-Oct-13,"$1,440,000 ",37.536472,-122.316376,CA,Single-Family Home,1440000,"$1,433,000 ",,Beresford,,,Sold,SAN MATEO
+94402,1802 Canyon Oak Ct,3,3,San Mateo,"2,430 sqft",29-Oct-13,"$1,375,000 ",37.522713,-122.33416,CA,Single-Family Home,1375000,"$1,504,000 ",,Western Hills,,,Sold,SAN MATEO
+94404,651 Port Dr #108,2,3,San Mateo,"1,313 sqft",28-Oct-13,"$609,000 ",37.569073,-122.288345,CA,Condo,609000,"$730,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,770 Ventura Ave,1,3,San Mateo,"1,360 sqft",25-Oct-13,"$1,045,000 ",37.53461,-122.31869,CA,Single-Family Home,1045000,"$1,136,000 ",,Beresford,,,Sold,SAN MATEO
+94403,634 Ventura Ave,2,3,San Mateo,"1,580 sqft",25-Oct-13,"$1,123,000 ",37.536083,-122.31505,CA,Single-Family Home,1123000,"$1,184,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #109,1,2,San Mateo,892 sqft,25-Oct-13,"$510,000 ",37.54649,-122.3211,CA,Condo,510000,"$564,000 ",,Beresford,,,Sold,SAN MATEO
+94403,2802 S Norfolk St,2,3,San Mateo,"1,550 sqft",25-Oct-13,"$680,000 ",37.54742,-122.28659,CA,Single-Family Home,680000,"$883,000 ",,,,,Sold,SAN MATEO
+94401,601 Laurel Ave #403,2,2,San Mateo,"1,470 sqft",25-Oct-13,"$660,000 ",37.562614,-122.32079,CA,Condo,660000,"$1,146,000 ",,Downtown,,,Sold,SAN MATEO
+94403,3525 Pasadena Dr,2,4,San Mateo,"1,400 sqft",24-Oct-13,"$850,000 ",37.53996,-122.2876,CA,Single-Family Home,850000,"$916,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1421 Kalmia St,1.5,3,San Mateo,"1,240 sqft",23-Oct-13,"$1,275,000 ",37.553177,-122.31721,CA,Single-Family Home,1275000,"$1,071,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,442 Highland Ave,1,3,San Mateo,"1,660 sqft",23-Oct-13,"$1,130,000 ",37.57191,-122.33527,CA,Single-Family Home,1130000,"$1,133,000 ",,North Central,,,Sold,SAN MATEO
+94401,144 N Humboldt St,2,3,San Mateo,"1,050 sqft",23-Oct-13,"$570,000 ",37.57473,-122.32146,CA,Single-Family Home,570000,"$798,000 ",,North Central,,,Sold,SAN MATEO
+94402,542 E Capistrano Way,1.5,2,San Mateo,"1,610 sqft",23-Oct-13,"$1,420,000 ",37.559235,-122.32342,CA,Single-Family Home,1420000,"$1,601,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,1224 Quince St,1,3,San Mateo,"1,280 sqft",23-Oct-13,"$1,150,000 ",37.551334,-122.32307,CA,Single-Family Home,1150000,"$1,168,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,1218 Oak St,2.5,4,San Mateo,"2,440 sqft",22-Oct-13,"$1,400,000 ",37.552586,-122.32205,CA,Single-Family Home,1400000,"$1,536,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,1163 Parrott Dr,2,3,San Mateo,"1,460 sqft",22-Oct-13,"$1,150,000 ",37.538364,-122.34555,CA,Single-Family Home,1150000,"$1,346,000 ",,Tobin Clark Estate,,,Sold,SAN MATEO
+94402,449 Nevada Ave,3,3,San Mateo,"2,720 sqft",22-Oct-13,"$1,950,000 ",37.554253,-122.33015,CA,Single-Family Home,1950000,"$2,288,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,922 Sunnybrae Blvd,2,3,San Mateo,"1,540 sqft",21-Oct-13,"$750,000 ",37.56128,-122.308525,CA,Single-Family Home,750000,"$942,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,166 W 40th Ave,1,3,San Mateo,"1,190 sqft",21-Oct-13,"$951,000 ",37.52982,-122.296616,CA,Single-Family Home,951000,"$1,039,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94404,1153 Shoreline Dr,2.5,3,San Mateo,"2,100 sqft",21-Oct-13,"$885,000 ",37.555984,-122.28989,CA,Condo,885000,"$1,064,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,928 Peninsula Ave #102,1,,San Mateo,504 sqft,18-Oct-13,"$335,000 ",37.58069,-122.331245,CA,Condo,335000,"$379,000 ",,North Central,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #16,2,2,San Mateo,"1,024 sqft",18-Oct-13,"$400,000 ",37.546646,-122.320076,CA,Condo,400000,"$555,000 ",,Beresford,,,Sold,SAN MATEO
+94403,301 42nd Ave #W,2,3,San Mateo,"1,280 sqft",18-Oct-13,"$988,000 ",37.52647,-122.3001,CA,Single-Family Home,988000,"$1,206,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1411 Monte Diablo Ave,1,2,San Mateo,"1,140 sqft",18-Oct-13,"$680,000 ",37.577934,-122.31801,CA,Single-Family Home,680000,"$759,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,611 S Grant St,2,3,San Mateo,"1,150 sqft",18-Oct-13,"$910,000 ",37.56694,-122.31461,CA,Single-Family Home,910000,"$956,000 ",,Downtown,,,Sold,SAN MATEO
+94403,44 Lodato Ave #203,1,1,San Mateo,581 sqft,18-Oct-13,"$337,000 ",37.54685,-122.30938,CA,Condo,337000,"$391,000 ",,Beresford,,,Sold,SAN MATEO
+94403,816 31st Ave,1,3,San Mateo,"1,040 sqft",17-Oct-13,"$830,000 ",37.53187,-122.31809,CA,Single-Family Home,830000,"$1,035,000 ",,Beresford,,,Sold,SAN MATEO
+94401,347 San Antonio Ave,1,3,San Mateo,"1,180 sqft",17-Oct-13,"$630,000 ",37.575493,-122.327065,CA,Single-Family Home,630000,"$692,000 ",,North Central,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #19,2,2,San Mateo,"1,024 sqft",17-Oct-13,"$520,000 ",37.546646,-122.320076,CA,Condo,520000,"$573,000 ",,Beresford,,,Sold,SAN MATEO
+94401,1026 Indian Ave,1,3,San Mateo,"1,140 sqft",17-Oct-13,"$520,000 ",37.577892,-122.32407,CA,Single-Family Home,520000,"$676,000 ",,North Central,,,Sold,SAN MATEO
+94403,866 W Hillsdale Blvd,2,3,San Mateo,"1,670 sqft",16-Oct-13,"$1,050,000 ",37.529434,-122.319565,CA,Single-Family Home,1050000,"$1,343,000 ",,Beresford,,,Sold,SAN MATEO
+94404,551 Starboard Dr,2.5,3,San Mateo,"1,800 sqft",16-Oct-13,"$1,095,000 ",37.56873,-122.29034,CA,Single-Family Home,1095000,"$1,058,000 ",,,,,Sold,SAN MATEO
+94403,3409 Douglas Ct,2.5,2,San Mateo,"2,100 sqft",16-Oct-13,"$989,000 ",37.52422,-122.325165,CA,Single-Family Home,989000,"$1,163,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,391 El Portal Ave,4,5,San Mateo,"2,470 sqft",16-Oct-13,"$1,800,000 ",37.5642,-122.346,CA,Single-Family Home,1800000,"$1,296,000 ",,,,,Sold,SAN MATEO
+94403,3608 Kenwood Ave,2.5,4,San Mateo,"1,790 sqft",15-Oct-13,"$1,250,000 ",37.529057,-122.30857,CA,Single-Family Home,1250000,"$1,395,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,631 Costa Rica Ave,2,4,San Mateo,"2,020 sqft",15-Oct-13,"$1,650,000 ",37.568577,-122.347755,CA,Single-Family Home,1650000,"$1,769,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,155 N El Camino Real #25,1,1,San Mateo,710 sqft,15-Oct-13,"$358,000 ",37.56763,-122.33216,CA,Condo,358000,"$433,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,33 Tollridge Ct,2.5,3,San Mateo,"1,850 sqft",15-Oct-13,"$833,000 ",37.52933,-122.33347,CA,Single-Family Home,833000,"$945,000 ",,Western Hills,,,Sold,SAN MATEO
+94402,1186 Birch Ave,2,3,San Mateo,"1,700 sqft",15-Oct-13,"$700,000 ",37.56247,-122.30761,CA,Single-Family Home,700000,"$912,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,118 Castilian Way,3.5,4,San Mateo,"2,260 sqft",11-Oct-13,"$2,136,000 ",37.557186,-122.32353,CA,Single-Family Home,2136000,"$2,088,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,40 Bennington Dr,2.5,3,San Mateo,"2,510 sqft",11-Oct-13,"$1,675,000 ",37.524334,-122.341995,CA,Single-Family Home,1675000,"$1,703,000 ",,,,,Sold,SAN MATEO
+94402,1712 Eleanor Dr,2,4,San Mateo,"1,540 sqft",11-Oct-13,"$876,000 ",37.555195,-122.30659,CA,Single-Family Home,876000,"$894,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,1631 York Ave,1.5,2,San Mateo,"1,280 sqft",11-Oct-13,"$889,000 ",37.57775,-122.31252,CA,Single-Family Home,889000,"$908,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,257 E Bellevue Ave,1,2,San Mateo,950 sqft,11-Oct-13,"$582,000 ",37.57342,-122.33461,CA,Single-Family Home,582000,"$878,000 ",,North Central,,,Sold,SAN MATEO
+94401,1541 Cottage Grove Ave,2,3,San Mateo,820 sqft,11-Oct-13,"$782,000 ",37.56898,-122.305374,CA,Single-Family Home,782000,"$743,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1514 Budd Ct,2,4,San Mateo,"2,340 sqft",11-Oct-13,"$1,080,000 ",37.55215,-122.2887,CA,Multi-Family,1080000,"$1,124,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,614 E 5th Ave,1,2,San Mateo,"1,260 sqft",11-Oct-13,"$900,000 ",37.565857,-122.3179,CA,Single-Family Home,900000,"$908,000 ",,Downtown,,,Sold,SAN MATEO
+94401,1405 Dix St,2,3,San Mateo,"1,210 sqft",10-Oct-13,"$728,000 ",37.563587,-122.30227,CA,Single-Family Home,728000,"$764,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,456 Mariners Island Blvd #209,1,1,San Mateo,965 sqft,10-Oct-13,"$407,000 ",37.567993,-122.28484,CA,Condo,407000,"$525,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,35 28th Ave #307,2,2,San Mateo,"1,164 sqft",10-Oct-13,"$579,000 ",37.540752,-122.304146,CA,Condo,579000,"$620,000 ",,Beresford,,,Sold,SAN MATEO
+94404,2245 Vista Del Mar,2.5,2,San Mateo,"1,121 sqft",10-Oct-13,"$609,000 ",37.554283,-122.28462,CA,Condo,609000,"$704,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,1854 Parkwood Dr,2.5,3,San Mateo,"1,810 sqft",10-Oct-13,"$925,000 ",37.51926,-122.32995,CA,Single-Family Home,925000,"$1,103,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,155 N Eldorado St,2,4,San Mateo,"1,356 sqft",10-Oct-13,"$580,000 ",37.572487,-122.32497,CA,Multi-Family,580000,"$661,000 ",,North Central,,,Sold,SAN MATEO
+94401,107 Huron Ave,1,2,San Mateo,930 sqft,9-Oct-13,"$635,000 ",37.57759,-122.31594,CA,Single-Family Home,635000,"$667,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,350 N Humboldt St,1,3,San Mateo,"1,130 sqft",9-Oct-13,"$650,000 ",37.577297,-122.324326,CA,Single-Family Home,650000,"$675,000 ",,North Central,,,Sold,SAN MATEO
+94401,426 Highland Ave,1,2,San Mateo,"1,060 sqft",8-Oct-13,"$690,000 ",37.57158,-122.334915,CA,Single-Family Home,690000,"$894,000 ",,North Central,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #511,2,2,San Mateo,"1,140 sqft",8-Oct-13,"$535,000 ",37.566105,-122.32796,CA,Condo,535000,"$689,000 ",,Downtown,,,Sold,SAN MATEO
+94403,329 Landfair Ave,2,3,San Mateo,"1,236 sqft",8-Oct-13,"$905,000 ",37.52445,-122.30125,CA,Single-Family Home,905000,"$1,105,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,429 Sylvan Ave,2,4,San Mateo,"1,600 sqft",8-Oct-13,"$1,160,000 ",37.53519,-122.309746,CA,Single-Family Home,1160000,"$1,192,000 ",,Beresford,,,Sold,SAN MATEO
+94401,738 N Humboldt St,1,2,San Mateo,"1,150 sqft",8-Oct-13,"$585,000 ",37.581078,-122.32828,CA,Single-Family Home,585000,"$710,000 ",,North Central,,,Sold,SAN MATEO
+94401,803 N Humboldt St #209,1,2,San Mateo,903 sqft,7-Oct-13,"$476,000 ",37.58069,-122.331245,CA,Condo,476000,"$531,000 ",,North Central,,,Sold,SAN MATEO
+94403,4287 George Ave #3,2,2,San Mateo,"1,040 sqft",7-Oct-13,"$485,000 ",37.532047,-122.286095,CA,Condo,485000,"$554,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,607 2nd Ave,2,5,San Mateo,"2,424 sqft",4-Oct-13,"$75,000 ",37.5682,-122.32082,CA,Multi-Family,75000,"$606,000 ",,North Central,,,Sold,SAN MATEO
+94403,869 W Hillsdale Blvd,2.5,3,San Mateo,"2,080 sqft",4-Oct-13,"$1,447,000 ",37.528896,-122.31971,CA,Single-Family Home,1447000,"$1,514,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,21 Murray Ct,4,3,San Mateo,"2,630 sqft",4-Oct-13,"$1,350,000 ",37.52941,-122.30273,CA,Single-Family Home,1350000,"$1,528,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1700 Peck Ave,1,2,San Mateo,930 sqft,3-Oct-13,"$600,000 ",37.575012,-122.30907,CA,Single-Family Home,600000,"$746,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,19 E 41st Pl,,,San Mateo,"2,447 sqft",3-Oct-13,"$950,000 ",37.53274,-122.29012,CA,Multi-Family,950000,,,Hillsdale,,,Sold,SAN MATEO
+94402,149 13th Ave,1.5,2,San Mateo,"1,520 sqft",3-Oct-13,"$800,000 ",37.557625,-122.31473,CA,Single-Family Home,800000,"$1,121,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,820 N Delaware St #415,1,1,San Mateo,772 sqft,3-Oct-13,"$405,500 ",37.58069,-122.331245,CA,Condo,405500,"$454,000 ",,North Central,,,Sold,SAN MATEO
+94401,2107 Shoreview Ave,2,3,San Mateo,"1,080 sqft",3-Oct-13,"$718,000 ",37.56804,-122.29814,CA,Single-Family Home,718000,"$735,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,442 W 25th Ave,1,2,San Mateo,"1,200 sqft",2-Oct-13,"$911,000 ",37.542435,-122.31453,CA,Single-Family Home,911000,"$941,000 ",,Beresford,,,Sold,SAN MATEO
+94401,221 S Fremont St #313,1,1,San Mateo,651 sqft,2-Oct-13,"$319,000 ",37.569202,-122.31839,CA,Condo,319000,"$365,000 ",,North Central,,,Sold,SAN MATEO
+94401,425 N El Camino Real #306,2,2,San Mateo,"1,210 sqft",1-Oct-13,"$550,000 ",37.570084,-122.33642,CA,Condo,550000,"$649,000 ",,North Central,,,Sold,SAN MATEO
+94402,989 E Grant Pl,1,2,San Mateo,790 sqft,1-Oct-13,"$791,000 ",37.563023,-122.30986,CA,Single-Family Home,791000,"$785,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,1711 Church Ave,3,5,San Mateo,"2,010 sqft",1-Oct-13,"$810,000 ",37.564934,-122.29981,CA,Single-Family Home,810000,"$991,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,303 Highland Ave,1,2,San Mateo,"1,010 sqft",1-Oct-13,"$788,000 ",37.569504,-122.333336,CA,Single-Family Home,788000,"$896,000 ",,North Central,,,Sold,SAN MATEO
+94403,4015 Alameda De Las Pulgas,2,6,San Mateo,"2,300 sqft",30-Sep-13,"$1,240,000 ",37.52637,-122.30423,CA,Single-Family Home,1240000,"$1,449,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #417,2,2,San Mateo,"1,400 sqft",30-Sep-13,"$725,000 ",37.566105,-122.32796,CA,Condo,725000,"$872,000 ",,Downtown,,,Sold,SAN MATEO
+94401,50 N San Mateo Dr #107,1,1,San Mateo,858 sqft,30-Sep-13,"$410,000 ",37.56819,-122.32714,CA,Condo,410000,"$481,000 ",,Downtown,,,Sold,SAN MATEO
+94403,1957 Ivy St,2,2,San Mateo,"1,430 sqft",27-Sep-13,"$735,000 ",37.54918,-122.309204,CA,Single-Family Home,735000,"$858,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1664 Eleanor Dr,2,4,San Mateo,"1,540 sqft",27-Sep-13,"$852,000 ",37.55579,-122.307236,CA,Single-Family Home,852000,"$906,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,1629 Ark St,3,3,San Mateo,"2,150 sqft",27-Sep-13,"$978,000 ",37.566204,-122.29232,CA,Single-Family Home,978000,"$1,020,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,651 Port Dr #103,1,1,San Mateo,746 sqft,27-Sep-13,"$365,000 ",37.569073,-122.288345,CA,Condo,365000,"$438,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,520 Harvard Rd,3,3,San Mateo,"2,510 sqft",27-Sep-13,"$2,400,000 ",37.55554,-122.32976,CA,Single-Family Home,2400000,"$2,490,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,221 S Fremont St #110,2.5,2,San Mateo,"1,075 sqft",26-Sep-13,"$363,000 ",37.569202,-122.31839,CA,Condo,363000,"$485,000 ",,North Central,,,Sold,SAN MATEO
+94403,3015 Fernwood St,1,2,San Mateo,"1,360 sqft",26-Sep-13,"$860,000 ",37.534126,-122.31381,CA,Single-Family Home,860000,"$966,000 ",,Beresford,,,Sold,SAN MATEO
+94402,2 Weepingridge Ct,2.5,3,San Mateo,"1,600 sqft",26-Sep-13,"$615,000 ",37.529194,-122.332344,CA,Single-Family Home,615000,"$839,000 ",,Western Hills,,,Sold,SAN MATEO
+94402,401 Dorchester Rd,4.5,5,San Mateo,"3,790 sqft",26-Sep-13,"$3,100,000 ",37.56629,-122.34404,CA,Single-Family Home,3100000,"$2,098,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,1685 Bayridge Way #207,1,,San Mateo,549 sqft,25-Sep-13,"$285,000 ",37.53077,-122.335594,CA,Condo,285000,"$383,000 ",,Western Hills,,,Sold,SAN MATEO
+94401,8 N Eldorado St,1,5,San Mateo,"1,150 sqft",25-Sep-13,"$580,000 ",37.57076,-122.3222,CA,Single-Family Home,580000,"$673,000 ",,North Central,,,Sold,SAN MATEO
+94402,2079 Timberlane Way,2,4,San Mateo,"1,480 sqft",25-Sep-13,"$100,000 ",37.518707,-122.335434,CA,Single-Family Home,100000,"$1,180,000 ",,,,,Sold,SAN MATEO
+94401,200 Elm St #301,2,3,San Mateo,"1,528 sqft",25-Sep-13,"$663,000 ",37.569355,-122.330734,CA,Condo,663000,"$755,000 ",,North Central,,,Sold,SAN MATEO
+94403,72 41st Ave #W,1,2,San Mateo,"1,660 sqft",24-Sep-13,"$898,000 ",37.53018,-122.292656,CA,Single-Family Home,898000,"$1,142,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,615 S Fremont St,2,3,San Mateo,"1,580 sqft",24-Sep-13,"$675,000 ",37.566208,-122.31548,CA,Single-Family Home,675000,"$940,000 ",,Downtown,,,Sold,SAN MATEO
+94403,3517 Casanova Dr,2.5,3,San Mateo,"1,740 sqft",24-Sep-13,"$801,000 ",37.540585,-122.28711,CA,Single-Family Home,801000,"$1,005,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,225 E 40th Ave,2,3,San Mateo,"1,460 sqft",23-Sep-13,"$835,000 ",37.53444,-122.28755,CA,Single-Family Home,835000,"$945,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,687 Edna Way,2,4,San Mateo,"1,540 sqft",23-Sep-13,"$788,000 ",37.555866,-122.30472,CA,Single-Family Home,788000,"$866,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,155 N El Camino Real #30,1,1,San Mateo,710 sqft,20-Sep-13,"$325,000 ",37.56763,-122.33216,CA,Condo,325000,"$417,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,1405 S Delaware St,1,3,San Mateo,"1,180 sqft",20-Sep-13,"$771,000 ",37.55868,-122.31048,CA,Single-Family Home,771000,"$843,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,922 Peninsula Ave,1.5,2,San Mateo,"1,152 sqft",20-Sep-13,"$570,000 ",37.58069,-122.331245,CA,Condo,570000,"$600,000 ",,North Central,,,Sold,SAN MATEO
+94403,213 E 40th Ave,1,2,San Mateo,860 sqft,20-Sep-13,"$750,000 ",37.534435,-122.28806,CA,Single-Family Home,750000,"$788,000 ",,Hillsdale,,,Sold,SAN MATEO
+94404,1662 Via Laguna #6,2.5,2,San Mateo,"1,115 sqft",20-Sep-13,"$594,500 ",37.554764,-122.28484,CA,Condo,594500,"$705,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #112,1,2,San Mateo,918 sqft,20-Sep-13,"$404,000 ",37.54649,-122.3211,CA,Condo,404000,"$520,000 ",,Beresford,,,Sold,SAN MATEO
+94403,616 36th Ave,2,2,San Mateo,"1,910 sqft",20-Sep-13,"$1,200,000 ",37.529385,-122.309685,CA,Single-Family Home,1200000,"$1,135,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,316 N El Camino Real #315,2,2,San Mateo,990 sqft,20-Sep-13,"$482,000 ",37.56971,-122.33393,CA,Condo,482000,"$587,000 ",,North Central,,,Sold,SAN MATEO
+94402,826 W Grant Pl,2,4,San Mateo,"1,760 sqft",20-Sep-13,"$942,000 ",37.562744,-122.31224,CA,Single-Family Home,942000,"$1,111,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,1810 Royal Ave,2,3,San Mateo,"1,080 sqft",20-Sep-13,"$600,000 ",37.56665,-122.29972,CA,Single-Family Home,600000,"$732,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,800 N El Camino Real #101,2,2,San Mateo,"1,379 sqft",20-Sep-13,"$630,000 ",37.573696,-122.34068,CA,Condo,630000,"$687,000 ",,North Central,,,Sold,SAN MATEO
+94401,177 N El Camino Real #23,1,1,San Mateo,710 sqft,19-Sep-13,"$298,500 ",37.56763,-122.33216,CA,Condo,298500,"$459,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,934 Peninsula Ave #202,1,,San Mateo,492 sqft,19-Sep-13,"$315,000 ",37.58069,-122.331245,CA,Condo,315000,"$351,000 ",,North Central,,,Sold,SAN MATEO
+94402,1404 Birch Ave,1,3,San Mateo,"1,200 sqft",19-Sep-13,"$750,000 ",37.561543,-122.3067,CA,Single-Family Home,750000,"$888,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,712 30th Ave,2,4,San Mateo,"1,660 sqft",18-Sep-13,"$912,000 ",37.53337,-122.317635,CA,Single-Family Home,912000,"$1,122,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1724 Pierce St,2,3,San Mateo,"1,300 sqft",18-Sep-13,"$116,000 ",37.5582,-122.2987,CA,Single-Family Home,116000,"$747,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,320 Portola Dr,2.5,3,San Mateo,"2,000 sqft",18-Sep-13,"$1,400,000 ",37.541214,-122.3113,CA,Single-Family Home,1400000,"$1,394,000 ",,Beresford,,,Sold,SAN MATEO
+94401,928 Peninsula Ave #311,2,2,San Mateo,"1,204 sqft",18-Sep-13,"$520,000 ",37.58069,-122.331245,CA,Condo,520000,"$631,000 ",,North Central,,,Sold,SAN MATEO
+94401,421 Villa Ter,1,2,San Mateo,"1,130 sqft",18-Sep-13,"$700,000 ",37.576935,-122.33391,CA,Single-Family Home,700000,"$836,000 ",,North Central,,,Sold,SAN MATEO
+94401,802 N Delaware St #302,1,1,San Mateo,758 sqft,18-Sep-13,"$380,000 ",37.58069,-122.331245,CA,Condo,380000,"$461,000 ",,North Central,,,Sold,SAN MATEO
+94402,1115 S Claremont St,1,3,San Mateo,"1,260 sqft",18-Sep-13,"$816,000 ",37.55963,-122.31285,CA,Single-Family Home,816000,"$852,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,542 Barneson Ave,2.5,4,San Mateo,"2,390 sqft",17-Sep-13,"$1,320,000 ",37.54916,-122.32446,CA,Single-Family Home,1320000,"$1,453,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,1657 Toyon Ct,2.5,3,San Mateo,"2,310 sqft",17-Sep-13,"$1,025,000 ",37.519115,-122.32886,CA,Single-Family Home,1025000,"$1,254,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,211 S Fremont St #308,1,2,San Mateo,919 sqft,17-Sep-13,"$425,000 ",37.569202,-122.31839,CA,Condo,425000,"$515,000 ",,North Central,,,Sold,SAN MATEO
+94401,1533 Cypress Ave,1,3,San Mateo,970 sqft,17-Sep-13,"$520,000 ",37.57616,-122.31351,CA,Single-Family Home,520000,"$659,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1028 31st Ave,2,5,San Mateo,"1,900 sqft",17-Sep-13,"$1,245,000 ",37.533123,-122.321594,CA,Single-Family Home,1245000,"$1,262,000 ",,Beresford,,,Sold,SAN MATEO
+94403,4198 George Ave #3,1,1,San Mateo,812 sqft,17-Sep-13,"$391,000 ",37.532623,-122.28733,CA,Condo,391000,"$451,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,2704 Monterey St,3,3,San Mateo,"1,710 sqft",16-Sep-13,"$1,200,000 ",37.53528,-122.32022,CA,Single-Family Home,1200000,"$1,388,000 ",,Beresford,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #612,1,1,San Mateo,"1,000 sqft",16-Sep-13,"$449,000 ",37.566105,-122.32796,CA,Condo,449000,"$435,000 ",,Downtown,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #621,1,1,San Mateo,800 sqft,16-Sep-13,"$325,000 ",37.566105,-122.32796,CA,Condo,325000,"$416,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1309 Woodland Dr,2,2,San Mateo,"1,590 sqft",13-Sep-13,"$1,250,000 ",37.548367,-122.3261,CA,Single-Family Home,1250000,"$1,290,000 ",,Beresford,,,Sold,SAN MATEO
+94403,35 28th Ave #109,2,2,San Mateo,"1,176 sqft",13-Sep-13,"$540,000 ",37.540752,-122.304146,CA,Condo,540000,"$633,000 ",,Beresford,,,Sold,SAN MATEO
+94401,803 N Humboldt St #302,1,1,San Mateo,758 sqft,13-Sep-13,"$390,000 ",37.58069,-122.331245,CA,Condo,390000,"$472,000 ",,North Central,,,Sold,SAN MATEO
+94403,2038 Isabelle Ave,1,3,San Mateo,"1,840 sqft",13-Sep-13,"$1,100,000 ",37.54589,-122.314705,CA,Single-Family Home,1100000,"$1,305,000 ",,Beresford,,,Sold,SAN MATEO
+94401,320 Peninsula Ave #318,2,2,San Mateo,930 sqft,13-Sep-13,"$410,000 ",37.577667,-122.33773,CA,Condo,410000,"$494,000 ",,North Central,,,Sold,SAN MATEO
+94402,802 Murphy Dr,3,4,San Mateo,"2,270 sqft",12-Sep-13,"$1,601,000 ",37.54358,-122.32992,CA,Single-Family Home,1601000,"$1,594,000 ",,Beresford,,,Sold,SAN MATEO
+94402,450 Fulton Rd,5.5,5,San Mateo,"5,460 sqft",12-Sep-13,"$4,347,500 ",37.563766,-122.352776,CA,Single-Family Home,4347500,"$2,817,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94404,824 Wharfside Rd,1.5,1,San Mateo,"1,150 sqft",12-Sep-13,"$650,000 ",37.560574,-122.288635,CA,Condo,650000,"$664,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,1415 Monte Diablo Ave,1,3,San Mateo,"1,220 sqft",12-Sep-13,"$710,000 ",37.578026,-122.31788,CA,Single-Family Home,710000,"$679,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,1417 S Delaware St,2,3,San Mateo,"1,310 sqft",12-Sep-13,"$685,000 ",37.558372,-122.31014,CA,Single-Family Home,685000,"$902,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,2425 S Norfolk St #301,2,2,San Mateo,"1,000 sqft",11-Sep-13,"$503,000 ",37.55011,-122.28811,CA,Condo,503000,"$543,000 ",,,,,Sold,SAN MATEO
+94403,4017 Pasadena Dr,2.5,4,San Mateo,"1,790 sqft",11-Sep-13,"$640,000 ",37.53414,-122.28221,CA,Single-Family Home,640000,"$994,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,205 San Miguel Ave,1,3,San Mateo,"1,080 sqft",11-Sep-13,"$812,000 ",37.53864,-122.28941,CA,Single-Family Home,812000,"$883,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,910 N Idaho St #3,,,San Mateo,,10-Sep-13,"$545,000 ",37.584248,-122.32988,CA,Condo,545000,"$650,000 ",,North Central,,,Sold,SAN MATEO
+94401,401 S Norfolk St #303,2,2,San Mateo,"1,115 sqft",10-Sep-13,"$530,000 ",37.572384,-122.30973,CA,Condo,530000,"$661,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,32 San Miguel Way,2,4,San Mateo,"1,640 sqft",10-Sep-13,"$1,010,000 ",37.53674,-122.293045,CA,Single-Family Home,1010000,"$1,048,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,218 Tilton Ave #103,2,2,San Mateo,"1,160 sqft",10-Sep-13,"$555,000 ",37.56845,-122.327354,CA,Condo,555000,"$634,000 ",,Downtown,,,Sold,SAN MATEO
+94403,617 Sylvan Ave,2,3,San Mateo,"1,550 sqft",10-Sep-13,"$1,068,000 ",37.533833,-122.3131,CA,Single-Family Home,1068000,"$1,172,000 ",,Beresford,,,Sold,SAN MATEO
+94403,2338 Kent St,2,3,San Mateo,"1,530 sqft",10-Sep-13,"$840,000 ",37.546425,-122.295425,CA,Single-Family Home,840000,"$978,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,516 W Hillsdale Blvd,2,3,San Mateo,"1,410 sqft",6-Sep-13,"$1,050,000 ",37.531853,-122.30912,CA,Single-Family Home,1050000,"$1,279,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3980 Pasadena Dr,1,2,San Mateo,860 sqft,6-Sep-13,"$730,000 ",37.534912,-122.28361,CA,Single-Family Home,730000,"$800,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,318 S Grant St #2E,2,1,San Mateo,"1,475 sqft",6-Sep-13,"$760,000 ",37.56829,-122.31702,CA,Condo,760000,"$798,000 ",,North Central,,,Sold,SAN MATEO
+94402,606 Magnolia Dr,2,2,San Mateo,"1,200 sqft",6-Sep-13,"$931,000 ",37.56001,-122.31178,CA,Single-Family Home,931000,"$923,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,800 N Delaware St #404,1,2,San Mateo,974 sqft,6-Sep-13,"$488,000 ",37.58069,-122.331245,CA,Condo,488000,"$545,000 ",,North Central,,,Sold,SAN MATEO
+94401,831 N Humboldt St,2.5,3,San Mateo,"1,394 sqft",6-Sep-13,"$610,000 ",37.58069,-122.331245,CA,Condo,610000,"$771,000 ",,North Central,,,Sold,SAN MATEO
+94403,221 28th Ave,2,2,San Mateo,"1,810 sqft",6-Sep-13,"$785,000 ",37.539135,-122.308426,CA,Single-Family Home,785000,"$1,212,000 ",,Beresford,,,Sold,SAN MATEO
+94402,1990 Los Altos Dr,3,4,San Mateo,"2,410 sqft",5-Sep-13,"$1,350,000 ",37.522495,-122.33908,CA,Single-Family Home,1350000,"$1,768,000 ",,Baywood Park,,,Sold,SAN MATEO
+94402,801 Maple St,1.5,2,San Mateo,"1,690 sqft",5-Sep-13,"$1,345,000 ",37.557358,-122.3243,CA,Single-Family Home,1345000,"$1,527,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,3315 Countryside Dr,2,3,San Mateo,"1,850 sqft",5-Sep-13,"$1,250,000 ",37.52964,-122.32367,CA,Single-Family Home,1250000,"$1,352,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,527 S Humboldt St,3,5,San Mateo,"2,489 sqft",5-Sep-13,"$849,000 ",37.567917,-122.31399,CA,Multi-Family,849000,"$943,000 ",,Downtown,,,Sold,SAN MATEO
+94403,212 Santa Clara Way,2,5,San Mateo,"1,710 sqft",4-Sep-13,"$855,000 ",37.539738,-122.28959,CA,Single-Family Home,855000,"$967,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,815 N Humboldt St #402,1,2,San Mateo,974 sqft,4-Sep-13,"$470,000 ",37.58069,-122.331245,CA,Condo,470000,"$531,000 ",,North Central,,,Sold,SAN MATEO
+94402,7 Lyonridge Ln,2.5,2,San Mateo,"1,720 sqft",4-Sep-13,"$790,000 ",37.530003,-122.334816,CA,Single-Family Home,790000,"$930,000 ",,Western Hills,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #806,1,1,San Mateo,930 sqft,3-Sep-13,"$328,000 ",37.566105,-122.32796,CA,Condo,328000,"$426,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1705 Los Altos Dr,3,5,San Mateo,"2,360 sqft",3-Sep-13,"$1,750,000 ",37.528458,-122.339264,CA,Single-Family Home,1750000,"$1,707,000 ",,Baywood Park,,,Sold,SAN MATEO
+94404,1448 Via Vis,2,3,San Mateo,"1,280 sqft",3-Sep-13,"$728,000 ",37.553905,-122.28689,CA,Condo,728000,"$753,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,628 Prospect Row #6,2.5,3,San Mateo,"1,775 sqft",30-Aug-13,"$1,098,000 ",37.5733,-122.33823,CA,Condo,1098000,"$1,119,000 ",,North Central,,,Sold,SAN MATEO
+94402,1309 Bel Aire Rd,2,3,San Mateo,"1,680 sqft",30-Aug-13,"$1,250,000 ",37.53474,-122.344894,CA,Single-Family Home,1250000,"$1,488,000 ",,Baywood Park,,,Sold,SAN MATEO
+94401,225 E Santa Inez Ave #13,2.5,2,San Mateo,"1,400 sqft",30-Aug-13,"$615,000 ",37.571697,-122.33046,CA,Condo,615000,"$701,000 ",,North Central,,,Sold,SAN MATEO
+94403,2011 Stratford Way,2,3,San Mateo,"1,770 sqft",30-Aug-13,"$1,130,000 ",37.546223,-122.31627,CA,Single-Family Home,1130000,"$1,254,000 ",,Beresford,,,Sold,SAN MATEO
+94403,4004 Marshall Ave,1,2,San Mateo,"1,320 sqft",30-Aug-13,"$920,000 ",37.526127,-122.3065,CA,Single-Family Home,920000,"$1,149,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,28 W 4th Ave #10,2,2,San Mateo,"1,725 sqft",30-Aug-13,"$765,000 ",37.561928,-122.326164,CA,Condo,765000,"$962,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,219 S Humboldt St,,,San Mateo,"1,970 sqft",30-Aug-13,"$870,000 ",37.570568,-122.31683,CA,Multi-Family,870000,"$938,000 ",,North Central,,,Sold,SAN MATEO
+94402,1952 Parrott Dr,2,3,San Mateo,"1,750 sqft",30-Aug-13,"$1,270,000 ",37.522587,-122.33754,CA,Single-Family Home,1270000,"$1,562,000 ",,Baywood Park,,,Sold,SAN MATEO
+94402,2230 Sheraton Pl,2,4,San Mateo,"1,930 sqft",30-Aug-13,"$1,375,000 ",37.519478,-122.34191,CA,Single-Family Home,1375000,"$1,476,000 ",,,,,Sold,SAN MATEO
+94403,236 Louise Ln,2,3,San Mateo,"1,540 sqft",30-Aug-13,"$1,270,000 ",37.53414,-122.30623,CA,Single-Family Home,1270000,"$1,278,000 ",,Beresford,,,Sold,SAN MATEO
+94402,2271 Cobblehill Pl,2,4,San Mateo,"2,060 sqft",30-Aug-13,"$1,355,000 ",37.51557,-122.33928,CA,Single-Family Home,1355000,"$1,462,000 ",,,,,Sold,SAN MATEO
+94401,601 Fallon Ave,2,5,San Mateo,"1,810 sqft",30-Aug-13,"$385,000 ",37.572624,-122.306915,CA,Single-Family Home,385000,"$611,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,1705 Palm Ave #16,2.5,2,San Mateo,"1,302 sqft",30-Aug-13,"$657,500 ",37.553226,-122.31221,CA,Condo,657500,"$804,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,128 N El Camino Real #202,2.5,2,San Mateo,"1,296 sqft",30-Aug-13,"$560,000 ",37.567818,-122.330734,CA,Condo,560000,"$718,000 ",,North Central,,,Sold,SAN MATEO
+94403,604 E 40th Ave,3,4,San Mateo,"2,030 sqft",29-Aug-13,"$935,000 ",37.535477,-122.280876,CA,Single-Family Home,935000,"$1,196,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,607 Oregon Ave,2,3,San Mateo,"1,690 sqft",29-Aug-13,"$1,460,000 ",37.551094,-122.33218,CA,Single-Family Home,1460000,"$1,648,000 ",,Tobin Clark Estate,,,Sold,SAN MATEO
+94403,3004 Del Ray St,1,2,San Mateo,"1,280 sqft",29-Aug-13,"$664,000 ",37.53302,-122.31753,CA,Single-Family Home,664000,"$969,000 ",,Beresford,,,Sold,SAN MATEO
+94401,902 Peninsula Ave #217,1,1,San Mateo,693 sqft,29-Aug-13,"$355,000 ",37.58069,-122.331245,CA,Condo,355000,"$460,000 ",,North Central,,,Sold,SAN MATEO
+94403,30 27th Ave,2,3,San Mateo,"1,420 sqft",27-Aug-13,"$820,000 ",37.54227,-122.30492,CA,Single-Family Home,820000,"$1,009,000 ",,Beresford,,,Sold,SAN MATEO
+94403,53 Condon Ct,2,3,San Mateo,"1,980 sqft",27-Aug-13,"$1,399,000 ",37.524143,-122.32775,CA,Single-Family Home,1399000,"$1,436,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1717 Trollman Ave,2.5,4,San Mateo,"2,070 sqft",27-Aug-13,"$750,000 ",37.581833,-122.31566,CA,Single-Family Home,750000,"$901,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,4040 Fernwood St,2.5,4,San Mateo,"1,620 sqft",27-Aug-13,"$1,229,000 ",37.52579,-122.30504,CA,Single-Family Home,1229000,"$1,352,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,2200 Hacienda St,1,2,San Mateo,"1,190 sqft",27-Aug-13,"$820,000 ",37.545475,-122.31052,CA,Single-Family Home,820000,"$905,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3222 Glendora Dr #202,1,1,San Mateo,807 sqft,27-Aug-13,"$425,500 ",37.53208,-122.326836,CA,Condo,425500,"$463,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #222,1,1,San Mateo,"1,100 sqft",26-Aug-13,"$465,000 ",37.566105,-122.32796,CA,Condo,465000,"$548,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1312 Parrott Dr,2,3,San Mateo,"1,790 sqft",26-Aug-13,"$1,335,000 ",37.534832,-122.34458,CA,Single-Family Home,1335000,"$1,589,000 ",,Baywood Park,,,Sold,SAN MATEO
+94403,519 30th Ave,2,3,San Mateo,"1,480 sqft",23-Aug-13,"$1,150,000 ",37.5352,-122.31179,CA,Single-Family Home,1150000,"$1,174,000 ",,Beresford,,,Sold,SAN MATEO
+94402,689 Birch Ave,1,2,San Mateo,"1,060 sqft",23-Aug-13,"$785,000 ",37.56225,-122.31048,CA,Single-Family Home,785000,"$890,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,3222 Glendora Dr #201,1,,San Mateo,435 sqft,23-Aug-13,"$277,000 ",37.53208,-122.326836,CA,Condo,277000,"$367,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,604 E 40th Ave,3,4,San Mateo,"2,030 sqft",29-Aug-13,"$935,000 ",37.535477,-122.280876,CA,Single-Family Home,935000,"$1,196,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,607 Oregon Ave,2,3,San Mateo,"1,690 sqft",29-Aug-13,"$1,460,000 ",37.551094,-122.33218,CA,Single-Family Home,1460000,"$1,648,000 ",,Tobin Clark Estate,,,Sold,SAN MATEO
+94403,3004 Del Ray St,1,2,San Mateo,"1,280 sqft",29-Aug-13,"$664,000 ",37.53302,-122.31753,CA,Single-Family Home,664000,"$969,000 ",,Beresford,,,Sold,SAN MATEO
+94401,902 Peninsula Ave #217,1,1,San Mateo,693 sqft,29-Aug-13,"$355,000 ",37.58069,-122.331245,CA,Condo,355000,"$460,000 ",,North Central,,,Sold,SAN MATEO
+94403,30 27th Ave,2,3,San Mateo,"1,420 sqft",27-Aug-13,"$820,000 ",37.54227,-122.30492,CA,Single-Family Home,820000,"$1,009,000 ",,Beresford,,,Sold,SAN MATEO
+94403,53 Condon Ct,2,3,San Mateo,"1,980 sqft",27-Aug-13,"$1,399,000 ",37.524143,-122.32775,CA,Single-Family Home,1399000,"$1,436,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1717 Trollman Ave,2.5,4,San Mateo,"2,070 sqft",27-Aug-13,"$750,000 ",37.581833,-122.31566,CA,Single-Family Home,750000,"$901,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,4040 Fernwood St,2.5,4,San Mateo,"1,620 sqft",27-Aug-13,"$1,229,000 ",37.52579,-122.30504,CA,Single-Family Home,1229000,"$1,352,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,2200 Hacienda St,1,2,San Mateo,"1,190 sqft",27-Aug-13,"$820,000 ",37.545475,-122.31052,CA,Single-Family Home,820000,"$905,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3222 Glendora Dr #202,1,1,San Mateo,807 sqft,27-Aug-13,"$425,500 ",37.53208,-122.326836,CA,Condo,425500,"$463,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #222,1,1,San Mateo,"1,100 sqft",26-Aug-13,"$465,000 ",37.566105,-122.32796,CA,Condo,465000,"$548,000 ",,Downtown,,,Sold,SAN MATEO
+94402,1312 Parrott Dr,2,3,San Mateo,"1,790 sqft",26-Aug-13,"$1,335,000 ",37.534832,-122.34458,CA,Single-Family Home,1335000,"$1,589,000 ",,Baywood Park,,,Sold,SAN MATEO
+94403,519 30th Ave,2,3,San Mateo,"1,480 sqft",23-Aug-13,"$1,150,000 ",37.5352,-122.31179,CA,Single-Family Home,1150000,"$1,174,000 ",,Beresford,,,Sold,SAN MATEO
+94402,689 Birch Ave,1,2,San Mateo,"1,060 sqft",23-Aug-13,"$785,000 ",37.56225,-122.31048,CA,Single-Family Home,785000,"$890,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,3222 Glendora Dr #201,1,,San Mateo,435 sqft,23-Aug-13,"$277,000 ",37.53208,-122.326836,CA,Condo,277000,"$367,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,2809 Hacienda St,2,2,San Mateo,"1,210 sqft",20-Aug-13,"$1,181,000 ",37.539433,-122.30736,CA,Single-Family Home,1181000,"$1,018,000 ",,Beresford,,,Sold,SAN MATEO
+94404,2153 Vista Del Mar,2,2,San Mateo,"1,211 sqft",20-Aug-13,"$640,000 ",37.55329,-122.28686,CA,Condo,640000,"$720,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,3800 Orinda Dr,1,3,San Mateo,"1,080 sqft",20-Aug-13,"$880,000 ",37.536556,-122.28903,CA,Single-Family Home,880000,"$906,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,1951 Ofarrell St #321,2,2,San Mateo,"1,143 sqft",20-Aug-13,"$650,000 ",37.54784,-122.31405,CA,Condo,650000,"$698,000 ",,Beresford,,,Sold,SAN MATEO
+94401,35 9th Ave #4,2,2,San Mateo,"1,683 sqft",20-Aug-13,"$735,000 ",37.56032,-122.32089,CA,Condo,735000,"$856,000 ",,Downtown,,,Sold,SAN MATEO
+94401,908 E 3rd Ave,2.5,2,San Mateo,"1,580 sqft",20-Aug-13,"$725,000 ",37.569275,-122.31662,CA,Single-Family Home,725000,"$812,000 ",,North Central,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #515,1,1,San Mateo,800 sqft,19-Aug-13,"$267,000 ",37.566105,-122.32796,CA,Condo,267000,"$398,000 ",,Downtown,,,Sold,SAN MATEO
+94403,329 26th Ave,2,4,San Mateo,"2,180 sqft",19-Aug-13,"$1,302,500 ",37.54178,-122.3116,CA,Single-Family Home,1302500,"$1,575,000 ",,Beresford,,,Sold,SAN MATEO
+94401,29 Ontario St,2,4,San Mateo,"1,310 sqft",19-Aug-13,"$720,000 ",37.57608,-122.312386,CA,Single-Family Home,720000,"$746,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,20 W 3rd Ave #501,2,2,San Mateo,"2,400 sqft",16-Aug-13,"$1,490,000 ",37.562523,-122.32714,CA,Condo,1490000,"$1,234,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,711 S Bayshore Blvd #5,1,2,San Mateo,750 sqft,16-Aug-13,"$330,000 ",37.568436,-122.310356,CA,Condo,330000,"$432,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,555 Laurel Ave #215,2,1,San Mateo,"1,095 sqft",16-Aug-13,"$560,000 ",37.56338,-122.32118,CA,Condo,560000,"$758,000 ",,Downtown,,,Sold,SAN MATEO
+94401,833 N Humboldt St #416,1,2,San Mateo,903 sqft,16-Aug-13,"$425,000 ",37.58069,-122.331245,CA,Condo,425000,"$581,000 ",,North Central,,,Sold,SAN MATEO
+94403,4024 Fernwood St,1,3,San Mateo,"1,110 sqft",16-Aug-13,"$920,000 ",37.52555,-122.30583,CA,Single-Family Home,920000,"$1,106,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,1911 Lexington Ave,2,3,San Mateo,"1,500 sqft",16-Aug-13,"$1,250,000 ",37.51821,-122.34511,CA,Single-Family Home,1250000,"$1,370,000 ",,,,,Sold,SAN MATEO
+94402,648 Caribbean Way,3,3,San Mateo,"2,980 sqft",15-Aug-13,"$1,649,000 ",37.547043,-122.326385,CA,Single-Family Home,1649000,"$1,707,000 ",,Beresford,,,Sold,SAN MATEO
+94402,10 Crystal Springs Rd #2313,2,2,San Mateo,"1,292 sqft",15-Aug-13,"$725,000 ",37.564465,-122.3281,CA,Condo,725000,"$885,000 ",,Downtown,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #1005,1,1,San Mateo,800 sqft,15-Aug-13,"$315,000 ",37.566105,-122.32796,CA,Condo,315000,"$398,000 ",,Downtown,,,Sold,SAN MATEO
+94402,101 Arroyo Ct #2,2,2,San Mateo,"1,475 sqft",15-Aug-13,"$690,000 ",37.562008,-122.32823,CA,Condo,690000,"$843,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,511 N Idaho St,2,3,San Mateo,"1,700 sqft",15-Aug-13,"$625,000 ",37.579685,-122.32607,CA,Single-Family Home,625000,"$799,000 ",,North Central,,,Sold,SAN MATEO
+94401,1016 N Humboldt St,2.5,3,San Mateo,"1,690 sqft",15-Aug-13,"$980,000 ",37.585045,-122.332596,CA,Single-Family Home,980000,"$1,174,000 ",,North Central,,,Sold,SAN MATEO
+94403,240 Arbor Ln,3,4,San Mateo,"1,890 sqft",15-Aug-13,"$1,400,000 ",37.535164,-122.30697,CA,Single-Family Home,1400000,"$1,409,000 ",,Beresford,,,Sold,SAN MATEO
+94402,1731 Palm Ave,2,2,San Mateo,"1,200 sqft",14-Aug-13,"$800,000 ",37.552578,-122.31173,CA,Single-Family Home,800000,"$1,060,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,1040 Annapolis Dr,2,3,San Mateo,"1,800 sqft",14-Aug-13,"$960,000 ",37.548443,-122.29801,CA,Single-Family Home,960000,"$1,038,000 ",,Hillsdale,,,Sold,SAN MATEO
+94404,944 Shoreline Dr,2,3,San Mateo,"1,625 sqft",14-Aug-13,"$785,000 ",37.558323,-122.288956,CA,Condo,785000,"$907,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94402,1502 S Delaware St,2,4,San Mateo,"1,640 sqft",14-Aug-13,"$796,500 ",37.55799,-122.31048,CA,Single-Family Home,796500,"$1,024,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,2300 Flores St,3,3,San Mateo,"2,855 sqft",14-Aug-13,"$1,150,000 ",37.54514,-122.30828,CA,Multi-Family,1150000,,,Beresford,,,Sold,SAN MATEO
+94403,224 Del Rosa Way,2,4,San Mateo,"1,700 sqft",14-Aug-13,"$905,000 ",37.537376,-122.28778,CA,Single-Family Home,905000,"$1,074,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,716 Howe St,2,3,San Mateo,"1,400 sqft",14-Aug-13,"$670,000 ",37.56956,-122.30899,CA,Single-Family Home,670000,"$754,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,10 Scenic Way #106,2,2,San Mateo,"1,254 sqft",14-Aug-13,"$635,000 ",37.534348,-122.32412,CA,Condo,635000,"$701,000 ",,Beresford,,,Sold,SAN MATEO
+94402,139 Lakeshore Dr,2,4,San Mateo,"1,710 sqft",13-Aug-13,"$910,000 ",37.53207,-122.34597,CA,Single-Family Home,910000,"$1,242,000 ",,Baywood Park,,,Sold,SAN MATEO
+94403,4199 George Ave #1,1,1,San Mateo,840 sqft,13-Aug-13,"$362,000 ",37.533615,-122.28702,CA,Condo,362000,"$458,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,3300 Glendora Dr,4,4,San Mateo,"4,033 sqft",13-Aug-13,"$1,400,000 ",37.530346,-122.32691,CA,Multi-Family,1400000,"$1,622,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,128 N El Camino Real #213,2.5,2,San Mateo,"1,298 sqft",13-Aug-13,"$610,000 ",37.567818,-122.330734,CA,Condo,610000,"$704,000 ",,North Central,,,Sold,SAN MATEO
+94401,930 Peninsula Ave #406,1,,San Mateo,473 sqft,13-Aug-13,"$299,000 ",37.58069,-122.331245,CA,Condo,299000,"$325,000 ",,North Central,,,Sold,SAN MATEO
+94402,822 Sunnybrae Blvd,2,4,San Mateo,"1,720 sqft",13-Aug-13,"$900,000 ",37.560078,-122.308846,CA,Single-Family Home,900000,"$958,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,2026 Polk Ave,2,3,San Mateo,"1,430 sqft",13-Aug-13,"$750,000 ",37.564644,-122.295784,CA,Single-Family Home,750000,"$767,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,10 Cragmont Ct,3,4,San Mateo,"3,980 sqft",13-Aug-13,"$1,850,000 ",37.532307,-122.32179,CA,Single-Family Home,1850000,"$1,812,000 ",,Beresford,,,Sold,SAN MATEO
+94404,688 Mariners Island Blvd #109,1,,San Mateo,484 sqft,13-Aug-13,"$266,000 ",37.563995,-122.28534,CA,Condo,266000,"$363,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,1614 Kehoe Ave,2.5,5,San Mateo,"2,230 sqft",12-Aug-13,"$746,000 ",37.565132,-122.30087,CA,Single-Family Home,746000,"$901,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,251 Portola Dr,3,4,San Mateo,"2,290 sqft",12-Aug-13,"$1,468,000 ",37.541454,-122.30969,CA,Single-Family Home,1468000,"$1,404,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1759 Lake St,2,3,San Mateo,"1,460 sqft",9-Aug-13,"$625,000 ",37.566998,-122.28687,CA,Single-Family Home,625000,"$808,000 ",,,,,Sold,SAN MATEO
+94402,129 Castilian Way,3,3,San Mateo,"1,910 sqft",9-Aug-13,"$1,875,000 ",37.557278,-122.322845,CA,Single-Family Home,1875000,"$2,016,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,416 Highland Ave,1,3,San Mateo,"1,710 sqft",9-Aug-13,"$957,000 ",37.571327,-122.33464,CA,Single-Family Home,957000,"$1,134,000 ",,North Central,,,Sold,SAN MATEO
+94401,904 Peninsula Ave #304,1,1,San Mateo,758 sqft,9-Aug-13,"$395,000 ",37.58069,-122.331245,CA,Condo,395000,"$470,000 ",,North Central,,,Sold,SAN MATEO
+94401,800 N Delaware St #306,1,1,San Mateo,693 sqft,8-Aug-13,"$382,000 ",37.58069,-122.331245,CA,Condo,382000,"$437,000 ",,North Central,,,Sold,SAN MATEO
+94401,51 E Poplar Ave,2,4,San Mateo,"2,450 sqft",8-Aug-13,"$889,000 ",37.571316,-122.33409,CA,Multi-Family,889000,"$977,000 ",,North Central,,,Sold,SAN MATEO
+94403,2062 S Delaware St,1.5,2,San Mateo,"1,008 sqft",8-Aug-13,"$540,000 ",37.549805,-122.305786,CA,Condo,540000,"$635,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,742 26th Ave,2,3,San Mateo,"1,710 sqft",8-Aug-13,"$1,200,000 ",37.538567,-122.31916,CA,Single-Family Home,1200000,"$1,342,000 ",,Beresford,,,Sold,SAN MATEO
+94403,20 30th Ave,2.5,3,San Mateo,"1,456 sqft",8-Aug-13,"$671,000 ",37.53896,-122.30379,CA,Condo,671000,"$768,000 ",,Beresford,,,Sold,SAN MATEO
+94402,707 Maple St,2,3,San Mateo,"1,650 sqft",8-Aug-13,"$1,325,000 ",37.55752,-122.3246,CA,Single-Family Home,1325000,"$1,577,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #25,2,2,San Mateo,"1,024 sqft",7-Aug-13,"$530,000 ",37.546646,-122.320076,CA,Condo,530000,"$586,000 ",,Beresford,,,Sold,SAN MATEO
+94404,1445 Via Vis #8,2,2,San Mateo,"1,070 sqft",7-Aug-13,"$631,000 ",37.55425,-122.28716,CA,Condo,631000,"$687,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,3818 Branson Dr,2,2,San Mateo,"1,450 sqft",6-Aug-13,"$775,000 ",37.538616,-122.28378,CA,Single-Family Home,775000,"$929,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,311 N Idaho St,2,4,San Mateo,"1,838 sqft",6-Aug-13,"$685,000 ",37.577045,-122.32302,CA,Multi-Family,685000,"$743,000 ",,North Central,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #13,1,2,San Mateo,918 sqft,6-Aug-13,"$500,000 ",37.546646,-122.320076,CA,Condo,500000,"$556,000 ",,Beresford,,,Sold,SAN MATEO
+94401,234 Elm St #110,2,3,San Mateo,"1,732 sqft",6-Aug-13,"$630,000 ",37.56981,-122.33122,CA,Condo,630000,"$805,000 ",,North Central,,,Sold,SAN MATEO
+94401,1502 Mefferd Ave,1,3,San Mateo,"1,310 sqft",6-Aug-13,"$765,000 ",37.578323,-122.31796,CA,Single-Family Home,765000,"$763,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,611 Alhambra Rd,2,3,San Mateo,"2,312 sqft",6-Aug-13,"$1,778,000 ",37.55749,-122.32584,CA,Single-Family Home,1778000,"$1,836,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,312 E Bellevue Ave,1,2,San Mateo,"1,130 sqft",5-Aug-13,"$900,000 ",37.573654,-122.33351,CA,Single-Family Home,900000,"$917,000 ",,North Central,,,Sold,SAN MATEO
+94403,318 24th Ave,1,2,San Mateo,"1,040 sqft",2-Aug-13,"$850,000 ",37.54364,-122.312035,CA,Single-Family Home,850000,"$900,000 ",,Beresford,,,Sold,SAN MATEO
+94401,1634 Noe Ave,2,3,San Mateo,"1,080 sqft",2-Aug-13,"$721,000 ",37.563454,-122.29834,CA,Single-Family Home,721000,"$752,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,44 Lodato Ave #104,1,2,San Mateo,791 sqft,2-Aug-13,"$375,000 ",37.54685,-122.30938,CA,Condo,375000,"$478,000 ",,Beresford,,,Sold,SAN MATEO
+94404,2289 Vista Del Mar,1,1,San Mateo,"1,011 sqft",2-Aug-13,"$516,000 ",37.554283,-122.28462,CA,Condo,516000,"$588,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,128 N El Camino Real #215,3,2,San Mateo,"1,268 sqft",2-Aug-13,"$545,000 ",37.567818,-122.330734,CA,Condo,545000,"$715,000 ",,North Central,,,Sold,SAN MATEO
+94401,22 S Rochester St,2.5,4,San Mateo,"2,020 sqft",1-Aug-13,"$775,000 ",37.576843,-122.31047,CA,Single-Family Home,775000,"$843,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,10 Crystal Springs Rd,2,2,San Mateo,"1,292 sqft",1-Aug-13,"$740,000 ",37.564465,-122.3281,CA,Condo,740000,"$885,000 ",,Downtown,,,Sold,SAN MATEO
+94401,934 Peninsula Ave #309,1,1,San Mateo,772 sqft,1-Aug-13,"$349,000 ",37.58069,-122.331245,CA,Condo,349000,"$468,000 ",,North Central,,,Sold,SAN MATEO
+94401,316 N El Camino Real #205,2,2,San Mateo,990 sqft,1-Aug-13,"$475,000 ",37.56971,-122.33393,CA,Condo,475000,"$605,000 ",,North Central,,,Sold,SAN MATEO
+94401,821 N Humboldt St #305,1,1,San Mateo,772 sqft,31-Jul-13,"$395,000 ",37.58069,-122.331245,CA,Condo,395000,"$478,000 ",,North Central,,,Sold,SAN MATEO
+94403,423 42nd Ave #W,2,3,San Mateo,"1,180 sqft",31-Jul-13,"$915,000 ",37.524826,-122.30275,CA,Single-Family Home,915000,"$1,124,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,673 Birch Ave,1,2,San Mateo,"1,200 sqft",31-Jul-13,"$810,000 ",37.56197,-122.31088,CA,Single-Family Home,810000,"$973,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,622 S Delaware St #4,1.5,2,San Mateo,865 sqft,31-Jul-13,"$360,000 ",37.56454,-122.31765,CA,Condo,360000,"$474,000 ",,Downtown,,,Sold,SAN MATEO
+94401,433 Patricia Ave,2,5,San Mateo,"2,100 sqft",31-Jul-13,"$675,000 ",37.57101,-122.310936,CA,Single-Family Home,675000,"$754,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1660 Van Buren St,1,3,San Mateo,"1,110 sqft",31-Jul-13,"$650,000 ",37.56293,-122.29627,CA,Single-Family Home,650000,"$740,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,623 Bucknell Dr,2,3,San Mateo,"1,850 sqft",31-Jul-13,"$1,620,000 ",37.551704,-122.33208,CA,Single-Family Home,1620000,"$1,676,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,1625 Noe Ave,2,3,San Mateo,"1,080 sqft",31-Jul-13,"$630,000 ",37.563595,-122.29888,CA,Single-Family Home,630000,"$742,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,1007 Peninsula Ave,1,4,San Mateo,"1,230 sqft",31-Jul-13,"$920,000 ",37.584328,-122.33181,CA,Single-Family Home,920000,"$989,000 ",,North Central,,,Sold,SAN MATEO
+94403,3357 Countryside Dr,2.5,4,San Mateo,"2,240 sqft",31-Jul-13,"$1,428,000 ",37.528564,-122.32287,CA,Single-Family Home,1428000,"$1,427,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,2211 Ensenada Way,3,2,San Mateo,"1,880 sqft",31-Jul-13,"$1,285,000 ",37.54293,-122.31831,CA,Single-Family Home,1285000,"$1,314,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1622 Wellesley Ave,2,3,San Mateo,"1,150 sqft",31-Jul-13,"$692,000 ",37.560314,-122.295876,CA,Single-Family Home,692000,"$734,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1932 Palm Ave,2,3,San Mateo,"1,260 sqft",31-Jul-13,"$630,000 ",37.54985,-122.30947,CA,Single-Family Home,630000,"$825,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1450 Parrott Dr,2,3,San Mateo,"1,460 sqft",31-Jul-13,"$1,400,000 ",37.531315,-122.34211,CA,Single-Family Home,1400000,"$1,442,000 ",,Baywood Park,,,Sold,SAN MATEO
+94401,968 Palm Ave,2.5,2,San Mateo,"1,345 sqft",31-Jul-13,"$740,000 ",37.558403,-122.31866,CA,Condo,740000,"$786,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,3608 Wilshire Ave,2,4,San Mateo,"2,270 sqft",30-Jul-13,"$1,200,000 ",37.529343,-122.30786,CA,Single-Family Home,1200000,"$1,455,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1729 Brooks St,2,3,San Mateo,"1,460 sqft",30-Jul-13,"$120,500 ",37.559364,-122.29468,CA,Single-Family Home,120500,"$844,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,3902 Donner St,2,3,San Mateo,"1,480 sqft",30-Jul-13,"$900,000 ",37.531113,-122.29656,CA,Single-Family Home,900000,"$1,064,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,709 S Humboldt St,2,3,San Mateo,"1,250 sqft",30-Jul-13,"$700,000 ",37.566883,-122.31296,CA,Single-Family Home,700000,"$1,074,000 ",,Downtown,,,Sold,SAN MATEO
+94403,1343 Palos Verdes Dr #2,1.5,2,San Mateo,"1,060 sqft",30-Jul-13,"$525,000 ",37.53087,-122.32879,CA,Condo,525000,"$567,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,230 W 5th Ave #404,2,3,San Mateo,"1,580 sqft",30-Jul-13,"$780,000 ",37.559284,-122.328415,CA,Condo,780000,"$866,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94401,825 S Norfolk St,1.5,2,San Mateo,"1,290 sqft",30-Jul-13,"$730,000 ",37.5696,-122.30708,CA,Single-Family Home,730000,"$746,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1576 Marina Ct #50,1,1,San Mateo,590 sqft,30-Jul-13,"$315,000 ",37.550964,-122.28586,CA,Condo,315000,"$381,000 ",,,,,Sold,SAN MATEO
+94402,50 Mounds Rd #601,2,2,San Mateo,"2,076 sqft",29-Jul-13,"$825,000 ",37.566692,-122.33251,CA,Condo,825000,"$957,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,3524 Michael Dr,2,4,San Mateo,"2,110 sqft",26-Jul-13,"$1,388,000 ",37.5318,-122.30591,CA,Single-Family Home,1388000,"$1,376,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1720 Lake St,3.5,3,San Mateo,"1,690 sqft",26-Jul-13,"$750,000 ",37.56559,-122.289154,CA,Single-Family Home,750000,"$859,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,930 Peninsula Ave #414,1,1,San Mateo,693 sqft,26-Jul-13,"$405,000 ",37.58069,-122.331245,CA,Condo,405000,"$480,000 ",,North Central,,,Sold,SAN MATEO
+94402,35 El Cerrito Ave,1,2,San Mateo,"1,850 sqft",26-Jul-13,"$1,330,000 ",37.56597,-122.3308,CA,Single-Family Home,1330000,"$1,615,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,4004 Martin Dr,2,4,San Mateo,"1,690 sqft",26-Jul-13,"$955,000 ",37.534946,-122.281456,CA,Single-Family Home,955000,"$910,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,3812 Casanova Dr,1,2,San Mateo,860 sqft,26-Jul-13,"$795,000 ",37.53802,-122.28538,CA,Single-Family Home,795000,"$792,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,133 14th Ave,1,2,San Mateo,"1,210 sqft",26-Jul-13,"$750,000 ",37.556564,-122.31452,CA,Single-Family Home,750000,"$978,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,11 Hayward Ave #17,2,2,San Mateo,"1,530 sqft",26-Jul-13,"$726,000 ",37.558857,-122.32057,CA,Condo,726000,"$840,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,620 36th Ave,2,3,San Mateo,"1,700 sqft",26-Jul-13,"$1,049,000 ",37.529236,-122.3101,CA,Single-Family Home,1049000,"$1,293,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,2828 Edison St #11,1,2,San Mateo,"1,020 sqft",26-Jul-13,"$428,000 ",37.54021,-122.303795,CA,Condo,428000,"$520,000 ",,Beresford,,,Sold,SAN MATEO
+94403,1919 Alameda De Las Pulgas #144,1,2,San Mateo,892 sqft,25-Jul-13,"$500,000 ",37.54649,-122.3211,CA,Condo,500000,"$551,000 ",,Beresford,,,Sold,SAN MATEO
+94402,524 Hobart Ave,3,4,San Mateo,"1,700 sqft",25-Jul-13,"$1,450,000 ",37.5508,-122.32559,CA,Single-Family Home,1450000,"$1,617,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,317 Rolling Hills Ave,1,3,San Mateo,"1,150 sqft",25-Jul-13,"$920,000 ",37.527943,-122.30187,CA,Single-Family Home,920000,"$1,052,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,1834 Parkwood Dr,2.5,3,San Mateo,"1,630 sqft",25-Jul-13,"$942,000 ",37.51974,-122.33027,CA,Single-Family Home,942000,"$1,089,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94404,892 Wharfside Rd,2,2,San Mateo,"1,165 sqft",24-Jul-13,"$640,000 ",37.559494,-122.28866,CA,Condo,640000,"$655,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,1008 Patricia Ave,1,3,San Mateo,"1,000 sqft",24-Jul-13,"$650,000 ",37.565956,-122.30647,CA,Single-Family Home,650000,"$711,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,430 Costa Rica Ave,3.5,4,San Mateo,"2,510 sqft",24-Jul-13,"$2,250,000 ",37.56625,-122.34567,CA,Single-Family Home,2250000,"$2,647,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,746 Parrott Dr,2,3,San Mateo,"2,620 sqft",24-Jul-13,"$1,825,000 ",37.551994,-122.33719,CA,Single-Family Home,1825000,"$2,029,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,1739 Eisenhower St,2,3,San Mateo,"1,640 sqft",23-Jul-13,"$710,000 ",37.558628,-122.29506,CA,Single-Family Home,710000,"$836,000 ",,Shoreview,,,Sold,SAN MATEO
+94404,919 Shoreline Dr,2,2,San Mateo,"1,230 sqft",23-Jul-13,"$685,000 ",37.558323,-122.288956,CA,Condo,685000,"$745,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,833 N Humboldt St #316,1,,San Mateo,473 sqft,23-Jul-13,"$299,000 ",37.58069,-122.331245,CA,Condo,299000,"$364,000 ",,North Central,,,Sold,SAN MATEO
+94401,555 Laurel Ave #418,2,2,San Mateo,"1,786 sqft",23-Jul-13,"$950,000 ",37.56338,-122.32118,CA,Condo,950000,"$1,037,000 ",,Downtown,,,Sold,SAN MATEO
+94404,425 Anchor Rd #7,1,2,San Mateo,950 sqft,22-Jul-13,"$453,000 ",37.569397,-122.28999,CA,Condo,453000,"$586,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,1782 Dewey St,2,3,San Mateo,"1,280 sqft",22-Jul-13,"$650,000 ",37.55864,-122.29357,CA,Single-Family Home,650000,"$737,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1135 Annapolis Dr,2,3,San Mateo,"1,530 sqft",22-Jul-13,"$900,000 ",37.54962,-122.29511,CA,Single-Family Home,900000,"$967,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,1541 Trollman Ave,1,2,San Mateo,"1,170 sqft",19-Jul-13,"$200,000 ",37.579735,-122.31804,CA,Single-Family Home,200000,"$700,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,58 N El Camino Real #312,2,2,San Mateo,"1,150 sqft",19-Jul-13,"$585,000 ",37.566654,-122.32869,CA,Condo,585000,"$696,000 ",,Downtown,,,Sold,SAN MATEO
+94401,340 Grand Blvd #108,2,2,San Mateo,"1,000 sqft",19-Jul-13,"$430,000 ",37.574924,-122.33345,CA,Condo,430000,"$540,000 ",,North Central,,,Sold,SAN MATEO
+94402,517 Crescent Ave,2,4,San Mateo,"1,640 sqft",18-Jul-13,"$1,620,000 ",37.568516,-122.34357,CA,Single-Family Home,1620000,"$1,650,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,601 Laurel Ave #307,2,2,San Mateo,"1,450 sqft",18-Jul-13,"$450,000 ",37.562614,-122.32079,CA,Condo,450000,"$758,000 ",,Downtown,,,Sold,SAN MATEO
+94402,506 Carmel Cir,2,2,San Mateo,"1,690 sqft",18-Jul-13,"$1,456,000 ",37.55948,-122.32504,CA,Single-Family Home,1456000,"$1,638,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,1756 Pierce St,2,3,San Mateo,"1,220 sqft",18-Jul-13,"$630,000 ",37.557205,-122.297775,CA,Single-Family Home,630000,"$749,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,234 Elm St #211,1,2,San Mateo,"1,281 sqft",17-Jul-13,"$475,000 ",37.56981,-122.33122,CA,Condo,475000,"$619,000 ",,North Central,,,Sold,SAN MATEO
+94402,604 9th Ave,1,3,San Mateo,"1,280 sqft",17-Jul-13,"$655,000 ",37.563175,-122.31517,CA,Single-Family Home,655000,"$879,000 ",,Haywood Park,,,Sold,SAN MATEO
+94402,40 Chester Way,2.5,4,San Mateo,"2,230 sqft",17-Jul-13,"$2,200,000 ",37.568905,-122.351265,CA,Single-Family Home,2200000,"$1,878,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,1135 Hawthorne Dr,1,3,San Mateo,"1,210 sqft",17-Jul-13,"$808,000 ",37.56156,-122.30943,CA,Single-Family Home,808000,"$890,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,128 N El Camino Real #109,2,2,San Mateo,"1,080 sqft",17-Jul-13,"$530,000 ",37.567818,-122.330734,CA,Condo,530000,"$634,000 ",,North Central,,,Sold,SAN MATEO
+94403,601 Poinsettia Ave,1,3,San Mateo,"1,100 sqft",16-Jul-13,"$802,000 ",37.542416,-122.28794,CA,Single-Family Home,802000,"$875,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,309 E 39th Ave #W,1,2,San Mateo,"1,020 sqft",16-Jul-13,"$769,000 ",37.536465,-122.2873,CA,Single-Family Home,769000,"$864,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,3256 Los Prados St,2,3,San Mateo,"1,340 sqft",16-Jul-13,"$814,000 ",37.542538,-122.2791,CA,Single-Family Home,814000,"$849,000 ",,,,,Sold,SAN MATEO
+94402,521 Sonora Dr,2,2,San Mateo,"2,100 sqft",16-Jul-13,"$1,701,000 ",37.55244,-122.329285,CA,Single-Family Home,1701000,"$1,801,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94402,616 Maple St,1,2,San Mateo,"1,360 sqft",16-Jul-13,"$1,200,000 ",37.557587,-122.32545,CA,Single-Family Home,1200000,"$1,379,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,4197 George Ave #4,1,1,San Mateo,840 sqft,16-Jul-13,"$425,000 ",37.533615,-122.28702,CA,Condo,425000,"$453,000 ",,Hillsdale,,,Sold,SAN MATEO
+94401,1056 Patricia Ave,1,3,San Mateo,"1,020 sqft",16-Jul-13,"$600,000 ",37.565292,-122.30579,CA,Single-Family Home,600000,"$679,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,153 N San Mateo Dr #209,2,2,San Mateo,"1,577 sqft",16-Jul-13,"$680,000 ",37.569138,-122.32967,CA,Condo,680000,"$816,000 ",,North Central,,,Sold,SAN MATEO
+94403,1548 Lago St,2,5,San Mateo,"2,670 sqft",16-Jul-13,"$1,008,000 ",37.545822,-122.28205,CA,Multi-Family,1008000,"$1,060,000 ",,,,,Sold,SAN MATEO
+94404,615 Port Dr #307,2,3,San Mateo,"1,313 sqft",15-Jul-13,"$685,000 ",37.569073,-122.288345,CA,Condo,685000,"$745,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94404,1485 Via Vis #1,1,1,San Mateo,765 sqft,15-Jul-13,"$426,000 ",37.55425,-122.28716,CA,Condo,426000,"$485,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,800 N El Camino Real #205,2,2,San Mateo,"1,379 sqft",15-Jul-13,"$575,000 ",37.573696,-122.34068,CA,Condo,575000,"$707,000 ",,North Central,,,Sold,SAN MATEO
+94401,12 Creekside Ln,3.5,3,San Mateo,"1,340 sqft",15-Jul-13,"$800,000 ",37.57012,-122.318245,CA,Single-Family Home,800000,"$932,000 ",,North Central,,,Sold,SAN MATEO
+94403,300 42nd Ave #W,2,5,San Mateo,"2,300 sqft",12-Jul-13,"$1,238,000 ",37.527023,-122.30036,CA,Single-Family Home,1238000,"$1,454,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,612 Maple St,2,3,San Mateo,"1,650 sqft",12-Jul-13,"$1,330,000 ",37.557693,-122.32558,CA,Single-Family Home,1330000,"$1,571,000 ",,Baywood-Aragon,,,Sold,SAN MATEO
+94403,1525 Day Ave #125,1,3,San Mateo,"1,054 sqft",12-Jul-13,"$325,000 ",37.551735,-122.28722,CA,Condo,325000,"$459,000 ",,,,,Sold,SAN MATEO
+94401,43 Grand Blvd,2,2,San Mateo,"1,840 sqft",12-Jul-13,"$1,240,000 ",37.57213,-122.33774,CA,Multi-Family,1240000,"$1,292,000 ",,North Central,,,Sold,SAN MATEO
+94401,800 N Delaware St #207,1,1,San Mateo,693 sqft,12-Jul-13,"$365,000 ",37.58069,-122.331245,CA,Condo,365000,"$391,000 ",,North Central,,,Sold,SAN MATEO
+94402,730 E 5th Ave,3,5,San Mateo,"1,930 sqft",12-Jul-13,"$850,000 ",37.566673,-122.31673,CA,Single-Family Home,850000,"$1,079,000 ",,Downtown,,,Sold,SAN MATEO
+94403,70 Laurie Meadows Dr #3,1,1,San Mateo,840 sqft,12-Jul-13,"$390,000 ",37.532047,-122.286095,CA,Condo,390000,"$444,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,414 Alder Ln,2,3,San Mateo,"1,680 sqft",12-Jul-13,"$1,400,000 ",37.5345,-122.30858,CA,Single-Family Home,1400000,"$1,321,000 ",,Beresford,,,Sold,SAN MATEO
+94401,1602 Cobb St,2,3,San Mateo,"1,600 sqft",12-Jul-13,"$755,000 ",37.56181,-122.302155,CA,Single-Family Home,755000,"$898,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,905 Barneson Ave,3,3,San Mateo,"2,680 sqft",12-Jul-13,"$1,350,000 ",37.54287,-122.331345,CA,Single-Family Home,1350000,"$1,723,000 ",,Beresford,,,Sold,SAN MATEO
+94402,38 Weepingridge Ct,2.5,2,San Mateo,"1,520 sqft",10-Jul-13,"$711,000 ",37.52967,-122.332504,CA,Single-Family Home,711000,"$818,000 ",,Western Hills,,,Sold,SAN MATEO
+94403,826 W Hillsdale Blvd,2,3,San Mateo,"1,500 sqft",10-Jul-13,"$1,300,000 ",37.530083,-122.31645,CA,Single-Family Home,1300000,"$3,069,000 ",,Beresford,,,Sold,SAN MATEO
+94401,401 S Norfolk St #103,2,2,San Mateo,"1,115 sqft",10-Jul-13,"$539,500 ",37.572384,-122.30973,CA,Condo,539500,"$654,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,88 Laurie Meadows Dr #1,1,2,San Mateo,840 sqft,10-Jul-13,"$250,000 ",37.532047,-122.286095,CA,Condo,250000,"$496,000 ",,Hillsdale,,,Sold,SAN MATEO
+94402,1310 S Claremont St,1,2,San Mateo,990 sqft,9-Jul-13,"$800,000 ",37.558426,-122.31219,CA,Single-Family Home,800000,"$900,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,832 Patricia Ave,1,3,San Mateo,"1,000 sqft",9-Jul-13,"$705,000 ",37.568264,-122.30881,CA,Single-Family Home,705000,"$712,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,521 Crescent Ave,2,4,San Mateo,"1,820 sqft",9-Jul-13,"$1,554,000 ",37.56865,-122.34368,CA,Single-Family Home,1554000,"$1,673,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94402,625 Hurlingham Ave,4.5,5,San Mateo,"5,180 sqft",9-Jul-13,"$3,410,000 ",37.571377,-122.342026,CA,Single-Family Home,3410000,"$2,385,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,555 Laurel Ave #404,2,2,San Mateo,"1,786 sqft",9-Jul-13,"$900,000 ",37.56338,-122.32118,CA,Condo,900000,"$1,072,000 ",,Downtown,,,Sold,SAN MATEO
+94401,803 N Humboldt St #309,2,2,San Mateo,"1,204 sqft",9-Jul-13,"$522,000 ",37.58069,-122.331245,CA,Condo,522000,"$575,000 ",,North Central,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #605,1,1,San Mateo,800 sqft,8-Jul-13,"$287,000 ",37.566105,-122.32796,CA,Condo,287000,"$400,000 ",,Downtown,,,Sold,SAN MATEO
+94404,887 Sextant Ct,2.5,3,San Mateo,"1,590 sqft",8-Jul-13,"$788,000 ",37.56218,-122.29085,CA,Single-Family Home,788000,"$985,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94401,832 N Delaware St,1.5,2,San Mateo,"1,152 sqft",8-Jul-13,"$530,000 ",37.58069,-122.331245,CA,Condo,530000,"$623,000 ",,North Central,,,Sold,SAN MATEO
+94403,2035 Polk Ave,2,3,San Mateo,"1,290 sqft",8-Jul-13,"$500,000 ",37.565056,-122.29562,CA,Single-Family Home,500000,"$766,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,1 Baldwin Ave #524,2,2,San Mateo,"1,140 sqft",5-Jul-13,"$560,000 ",37.566105,-122.32796,CA,Condo,560000,"$728,000 ",,Downtown,,,Sold,SAN MATEO
+94402,88 17th Ave #110,2.5,3,San Mateo,"1,398 sqft",5-Jul-13,"$750,000 ",37.552708,-122.312836,CA,Condo,750000,"$750,000 ",,Haywood Park,,,Sold,SAN MATEO
+94401,240 N Bayshore Blvd #221,2,2,San Mateo,"1,020 sqft",5-Jul-13,"$425,000 ",37.57798,-122.320274,CA,Condo,425000,"$507,000 ",,Shoreview,,,Sold,SAN MATEO
+94401,732 Fallon Ave,1,3,San Mateo,"1,000 sqft",3-Jul-13,"$720,000 ",37.571304,-122.30619,CA,Single-Family Home,720000,"$772,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,1615 Marina Ct #95,1,2,San Mateo,"1,000 sqft",3-Jul-13,"$460,000 ",37.551735,-122.28722,CA,Condo,460000,"$501,000 ",,,,,Sold,SAN MATEO
+94403,3418 Kettering Ct,2.5,3,San Mateo,"1,810 sqft",3-Jul-13,"$1,358,000 ",37.528828,-122.31651,CA,Single-Family Home,1358000,"$1,407,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,463 Edgewood Rd,2.5,4,San Mateo,"2,140 sqft",3-Jul-13,"$1,550,000 ",37.564156,-122.351616,CA,Single-Family Home,1550000,"$1,881,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,7 San Miguel Way,1,3,San Mateo,"1,080 sqft",3-Jul-13,"$835,000 ",37.536663,-122.293915,CA,Single-Family Home,835000,"$932,000 ",,Hillsdale,,,Sold,SAN MATEO
+94403,150 31st Ave,1,2,San Mateo,"1,040 sqft",3-Jul-13,"$780,000 ",37.53685,-122.304825,CA,Single-Family Home,780000,"$861,000 ",,Beresford,,,Sold,SAN MATEO
+94401,555 Laurel Ave #526,2,1,San Mateo,"1,095 sqft",3-Jul-13,"$593,000 ",37.56338,-122.32118,CA,Condo,593000,"$694,000 ",,Downtown,,,Sold,SAN MATEO
+94403,310 27th Ave,2,3,San Mateo,"1,627 sqft",3-Jul-13,"$1,125,000 ",37.54024,-122.31003,CA,Single-Family Home,1125000,"$1,165,000 ",,Beresford,,,Sold,SAN MATEO
+94403,3355 La Selva St #A,1,1,San Mateo,723 sqft,2-Jul-13,"$385,000 ",37.539043,-122.28163,CA,Condo,385000,"$424,000 ",,,,,Sold,SAN MATEO
+94403,3826 King Ln,2,4,San Mateo,"2,254 sqft",28-Jun-13,"$925,000 ",37.532455,-122.29487,CA,Multi-Family,925000,"$1,010,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94403,772 Pico Ave,2,3,San Mateo,"1,670 sqft",28-Jun-13,"$1,315,000 ",37.53839,-122.321075,CA,Single-Family Home,1315000,"$1,428,000 ",,Beresford,,,Sold,SAN MATEO
+94403,2404 Holland St,2,3,San Mateo,"1,320 sqft",28-Jun-13,"$650,000 ",37.549603,-122.289696,CA,Single-Family Home,650000,"$806,000 ",,,,,Sold,SAN MATEO
+94402,721 Occidental Ave,2,3,San Mateo,"2,090 sqft",28-Jun-13,"$1,670,000 ",37.569546,-122.349365,CA,Single-Family Home,1670000,"$1,895,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,2650 Foster St,2,4,San Mateo,"1,250 sqft",28-Jun-13,"$555,000 ",37.547287,-122.28862,CA,Single-Family Home,555000,"$808,000 ",,,,,Sold,SAN MATEO
+94401,320 Elm St #109,1,1,San Mateo,"1,054 sqft",28-Jun-13,"$410,000 ",37.57084,-122.33236,CA,Condo,410000,"$531,000 ",,North Central,,,Sold,SAN MATEO
+94401,817 N Humboldt St #215,1,1,San Mateo,693 sqft,28-Jun-13,"$385,000 ",37.58069,-122.331245,CA,Condo,385000,"$458,000 ",,North Central,,,Sold,SAN MATEO
+94402,461 Fulton Rd,3,5,San Mateo,"2,710 sqft",28-Jun-13,"$2,100,000 ",37.563683,-122.35362,CA,Single-Family Home,2100000,"$2,084,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94403,410 Heather Ln,3,4,San Mateo,"2,220 sqft",28-Jun-13,"$1,260,000 ",37.53399,-122.308,CA,Single-Family Home,1260000,"$1,376,000 ",,Beresford,,,Sold,SAN MATEO
+94401,800 N Delaware St #215,1,1,San Mateo,693 sqft,28-Jun-13,"$355,000 ",37.58069,-122.331245,CA,Condo,355000,"$457,000 ",,North Central,,,Sold,SAN MATEO
+94403,84 41st Ave #W,3,5,San Mateo,"2,260 sqft",28-Jun-13,"$1,125,000 ",37.529984,-122.29313,CA,Single-Family Home,1125000,"$1,320,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,800 N Delaware St #301,1,1,San Mateo,758 sqft,28-Jun-13,"$350,000 ",37.58069,-122.331245,CA,Condo,350000,"$456,000 ",,North Central,,,Sold,SAN MATEO
+94401,833 N Humboldt St #402,1,2,San Mateo,974 sqft,28-Jun-13,"$340,000 ",37.58069,-122.331245,CA,Condo,340000,"$469,000 ",,North Central,,,Sold,SAN MATEO
+94404,615 Port Dr #308,1,1,San Mateo,836 sqft,27-Jun-13,"$392,000 ",37.569073,-122.288345,CA,Condo,392000,"$479,000 ",,Marina Lagoon,,,Sold,SAN MATEO
+94403,3502 Michael Dr,2.5,3,San Mateo,"2,100 sqft",27-Jun-13,"$1,335,000 ",37.532356,-122.30635,CA,Single-Family Home,1335000,"$1,514,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94401,323 Elm St,,,San Mateo,,27-Jun-13,"$1,080,000 ",37.57058,-122.33305,CA,Single-Family Home,1080000,"$1,068,000 ",,North Central,,,Sold,SAN MATEO
+94401,811 S Bayshore Blvd,2.5,2,San Mateo,"1,230 sqft",27-Jun-13,"$634,500 ",37.5681,-122.30999,CA,Condo,634500,"$681,000 ",,Shoreview,,,Sold,SAN MATEO
+94403,3358 Shasta Dr,2,3,San Mateo,"1,940 sqft",26-Jun-13,"$1,312,500 ",37.528927,-122.3255,CA,Single-Family Home,1312500,"$1,464,000 ",,Sugarloaf,,,Sold,SAN MATEO
+94402,2066 Kings Ln,3,4,San Mateo,"2,180 sqft",26-Jun-13,"$1,520,000 ",37.518147,-122.333015,CA,Single-Family Home,1520000,"$1,497,000 ",,,,,Sold,SAN MATEO
+94402,1225 Carlisle Dr,2,3,San Mateo,"1,120 sqft",26-Jun-13,"$696,000 ",37.562656,-122.30622,CA,Single-Family Home,696000,"$866,000 ",,Haywood Park,,,Sold,SAN MATEO
+94403,237 Arbor Ln,2,3,San Mateo,"1,780 sqft",26-Jun-13,"$1,350,000 ",37.534927,-122.30659,CA,Single-Family Home,1350000,"$1,457,000 ",,Beresford,,,Sold,SAN MATEO
+94402,1279 Laurel Hill Dr,2.5,3,San Mateo,"1,860 sqft",25-Jun-13,"$1,160,000 ",37.528336,-122.35645,CA,Single-Family Home,1160000,"$1,471,000 ",,,,,Sold,SAN MATEO
+94403,1658 S Norfolk St,2,3,San Mateo,"1,220 sqft",25-Jun-13,"$765,000 ",37.56152,-122.29959,CA,Single-Family Home,765000,"$790,000 ",,Shoreview,,,Sold,SAN MATEO
+94402,764 Edgewood Rd,2,2,San Mateo,"1,400 sqft",25-Jun-13,"$1,428,000 ",37.569912,-122.34986,CA,Single-Family Home,1428000,"$1,551,000 ",,San Mateo Park,,,Sold,SAN MATEO
+94401,234 Elm St #106,1,2,San Mateo,"1,267 sqft",25-Jun-13,"$522,000 ",37.56981,-122.33122,CA,Condo,522000,"$631,000 ",,North Central,,,Sold,SAN MATEO
+94401,800 N El Camino Real #204,2,2,San Mateo,"1,378 sqft",25-Jun-13,"$585,000 ",37.573696,-122.34068,CA,Condo,585000,"$701,000 ",,North Central,,,Sold,SAN MATEO
+94401,814 N Delaware St #405,1,1,San Mateo,772 sqft,25-Jun-13,"$406,000 ",37.58069,-122.331245,CA,Condo,406000,"$413,000 ",,North Central,,,Sold,SAN MATEO
+94403,446 W 25th Ave,2,2,San Mateo,"1,960 sqft",24-Jun-13,"$1,060,000 ",37.54239,-122.31469,CA,Single-Family Home,1060000,"$1,237,000 ",,Beresford,,,Sold,SAN MATEO
+94403,421 26th Ave,2,3,San Mateo,"1,490 sqft",24-Jun-13,"$1,020,000 ",37.54133,-122.31327,CA,Single-Family Home,1020000,"$1,175,000 ",,Beresford,,,Sold,SAN MATEO

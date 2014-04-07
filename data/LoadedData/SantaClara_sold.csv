@@ -1,0 +1,721 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+95051,693 Harvard Ave,,,Santa Clara,"2,041 sqft",12-Mar-14,"$760,000 ",37.334846,-121.99394,CA,Multi-Family,760000,"$957,000 ",,,,,Sold,SANTA CLARA
+95051,3705 Adriatic Way,2,2,Santa Clara,"1,524 sqft",12-Mar-14,"$740,500 ",37.349667,-121.99785,CA,Condo,740500,"$725,000 ",,,,,Sold,SANTA CLARA
+95051,960 Kiely Blvd #E,1.5,2,Santa Clara,992 sqft,12-Mar-14,"$395,000 ",37.34209,-121.98066,CA,Condo,395000,"$463,000 ",,,,,Sold,SANTA CLARA
+95051,3301 Pruneridge Ave,2,4,Santa Clara,"1,760 sqft",12-Mar-14,"$901,000 ",37.33084,-121.98731,CA,Single-Family Home,901000,"$1,152,000 ",,,,,Sold,SANTA CLARA
+95051,120 Saratoga Ave #84,2,2,Santa Clara,"1,137 sqft",12-Mar-14,"$499,000 ",37.326237,-121.96943,CA,Condo,499000,"$517,000 ",,,,,Sold,SANTA CLARA
+95050,1539 Harrison St,1,3,Santa Clara,960 sqft,12-Mar-14,"$624,000 ",37.35054,-121.9527,CA,Single-Family Home,624000,"$629,000 ",,,,,Sold,SANTA CLARA
+95051,3877 Pruneridge Ave,2.5,3,Santa Clara,"2,004 sqft",12-Mar-14,"$1,089,000 ",37.332523,-122.00378,CA,Single-Family Home,1089000,"$1,182,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #305,2,2,Santa Clara,946 sqft,11-Mar-14,"$470,500 ",37.36138,-121.96313,CA,Condo,470500,"$526,000 ",,,,,Sold,SANTA CLARA
+95050,572 Los Olivos Dr,2,2,Santa Clara,"1,573 sqft",11-Mar-14,"$560,000 ",37.33575,-121.964455,CA,Condo,560000,"$728,000 ",,,,,Sold,SANTA CLARA
+95051,3363 Creighton Pl,2,3,Santa Clara,"1,368 sqft",11-Mar-14,"$880,000 ",37.362766,-121.98922,CA,Single-Family Home,880000,"$886,000 ",,,,,Sold,SANTA CLARA
+95050,47 Alviso St,1,2,Santa Clara,924 sqft,7-Mar-14,"$720,000 ",37.33891,-121.93467,CA,Single-Family Home,720000,"$735,000 ",,,,,Sold,SANTA CLARA
+95051,2832 Regnart Way,,,Santa Clara,"2,581 sqft",7-Mar-14,"$500,000 ",37.325626,-121.97669,CA,Multi-Family,500000,"$958,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #247,1,1,Santa Clara,870 sqft,7-Mar-14,"$408,000 ",37.395725,-121.958626,CA,Condo,408000,"$472,000 ",,,,,Sold,SANTA CLARA
+95050,1201 Warburton Ave,1,3,Santa Clara,"1,327 sqft",7-Mar-14,"$740,000 ",37.356483,-121.95144,CA,Single-Family Home,740000,"$733,000 ",,,,,Sold,SANTA CLARA
+95051,2074 Xavier Ct,2,3,Santa Clara,"1,328 sqft",7-Mar-14,"$851,000 ",37.360455,-121.99018,CA,Single-Family Home,851000,"$940,000 ",,,,,Sold,SANTA CLARA
+95051,1909 Magdalena Cir #75,2,2,Santa Clara,"1,041 sqft",7-Mar-14,"$517,000 ",37.357136,-121.999664,CA,Condo,517000,"$544,000 ",,,,,Sold,SANTA CLARA
+95050,1700 Civic Center Dr #408,1,1,Santa Clara,574 sqft,7-Mar-14,"$295,000 ",37.355198,-121.95779,CA,Condo,295000,"$318,000 ",,,,,Sold,SANTA CLARA
+95054,4003 Cheeney St,1,2,Santa Clara,"1,164 sqft",6-Mar-14,"$538,000 ",37.390663,-121.958855,CA,Single-Family Home,538000,"$659,000 ",,,,,Sold,SANTA CLARA
+95051,2848 Barkley Ave,2,3,Santa Clara,"1,731 sqft",6-Mar-14,"$842,000 ",37.35696,-121.97848,CA,Single-Family Home,842000,"$921,000 ",,,,,Sold,SANTA CLARA
+95050,2130 Rancho Mccormick Blvd,2.5,3,Santa Clara,"1,708 sqft",6-Mar-14,"$716,000 ",37.359417,-121.96193,CA,Condo,716000,"$742,000 ",,,,,Sold,SANTA CLARA
+95054,4738 Demaret Dr,2,4,Santa Clara,"1,167 sqft",5-Mar-14,"$650,000 ",37.401695,-121.96126,CA,Single-Family Home,650000,"$733,000 ",,,,,Sold,SANTA CLARA
+95054,4273 Marston Ln,2.5,3,Santa Clara,"1,671 sqft",5-Mar-14,"$990,000 ",37.398075,-121.9496,CA,Single-Family Home,990000,"$1,029,000 ",,,,,Sold,SANTA CLARA
+95050,2245 Newhall St,1,3,Santa Clara,"1,092 sqft",5-Mar-14,"$710,000 ",37.337936,-121.94222,CA,Single-Family Home,710000,"$686,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #210,1,1,Santa Clara,816 sqft,5-Mar-14,"$358,000 ",37.392227,-121.96391,CA,Condo,358000,"$388,000 ",,,,,Sold,SANTA CLARA
+95051,3559 Mauricia Ave,1.5,3,Santa Clara,"1,064 sqft",4-Mar-14,"$950,000 ",37.326702,-121.99495,CA,Single-Family Home,950000,"$955,000 ",,,,,Sold,SANTA CLARA
+95051,3347 Bellarmine Ct,2,3,Santa Clara,"1,569 sqft",4-Mar-14,"$980,000 ",37.361214,-121.98769,CA,Single-Family Home,980000,"$952,000 ",,,,,Sold,SANTA CLARA
+95054,4625 Lakeshore Dr,2.5,4,Santa Clara,"1,850 sqft",4-Mar-14,"$875,000 ",37.397858,-121.966675,CA,Single-Family Home,875000,"$982,000 ",,,,,Sold,SANTA CLARA
+95050,754 Jill Ave,2,3,Santa Clara,"1,586 sqft",4-Mar-14,"$888,000 ",37.329147,-121.952194,CA,Single-Family Home,888000,"$909,000 ",,,,,Sold,SANTA CLARA
+95050,2380 Homestead Rd #3105,1,1,Santa Clara,820 sqft,28-Feb-14,"$385,000 ",37.341427,-121.96637,CA,Condo,385000,"$430,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #383,1,1,Santa Clara,716 sqft,28-Feb-14,"$346,000 ",37.36063,-121.96395,CA,Condo,346000,"$401,000 ",,,,,Sold,SANTA CLARA
+95051,932 Kiely Blvd #E,1,1,Santa Clara,440 sqft,28-Feb-14,"$230,000 ",37.342888,-121.97811,CA,Condo,230000,"$295,000 ",,,,,Sold,SANTA CLARA
+95051,536 Barto St,2,4,Santa Clara,"1,760 sqft",28-Feb-14,"$1,026,000 ",37.33189,-121.98428,CA,Single-Family Home,1026000,"$1,144,000 ",,,,,Sold,SANTA CLARA
+95051,91 Brian Ln,3,5,Santa Clara,"2,226 sqft",28-Feb-14,"$1,125,000 ",37.325027,-121.985466,CA,Single-Family Home,1125000,"$1,131,000 ",,,,,Sold,SANTA CLARA
+95054,1681 Nelson Dr,3,5,Santa Clara,"1,815 sqft",27-Feb-14,"$735,000 ",37.3999,-121.95768,CA,Single-Family Home,735000,"$746,000 ",,,,,Sold,SANTA CLARA
+95054,4468 Headen Way,2.5,2,Santa Clara,"1,464 sqft",27-Feb-14,"$735,000 ",37.399124,-121.95442,CA,Condo,735000,"$800,000 ",,,,,Sold,SANTA CLARA
+95054,2009 Silva Pl,2.5,3,Santa Clara,"1,646 sqft",27-Feb-14,"$791,500 ",37.39675,-121.9588,CA,Condo,791500,"$905,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #216,2,2,Santa Clara,"1,092 sqft",27-Feb-14,"$455,000 ",37.392227,-121.96391,CA,Condo,455000,"$498,000 ",,,,,Sold,SANTA CLARA
+95050,1783 Berna St,1,3,Santa Clara,"1,471 sqft",26-Feb-14,"$817,000 ",37.355427,-121.96125,CA,Single-Family Home,817000,"$860,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #509,2,2,Santa Clara,"1,062 sqft",25-Feb-14,"$445,000 ",37.35004,-121.97474,CA,Condo,445000,"$522,000 ",,,,,Sold,SANTA CLARA
+95050,1441 Main St #2,2,3,Santa Clara,"1,103 sqft",25-Feb-14,"$558,000 ",37.353645,-121.94778,CA,Condo,558000,"$592,000 ",,,,,Sold,SANTA CLARA
+95054,4333 Watson Cir,3.5,3,Santa Clara,"1,657 sqft",25-Feb-14,"$980,000 ",37.399643,-121.9483,CA,Single-Family Home,980000,"$1,153,000 ",,,,,Sold,SANTA CLARA
+95054,2343 Running Water Ct,2.5,3,Santa Clara,"1,400 sqft",25-Feb-14,"$549,000 ",37.39322,-121.96558,CA,Condo,549000,"$597,000 ",,,,,Sold,SANTA CLARA
+95051,576 Pomeroy Ave,3,5,Santa Clara,"2,440 sqft",25-Feb-14,"$1,075,000 ",37.33217,-121.989746,CA,Single-Family Home,1075000,"$1,189,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #345,2,2,Santa Clara,"1,070 sqft",25-Feb-14,"$555,000 ",37.395927,-121.95876,CA,Condo,555000,"$559,000 ",,,,,Sold,SANTA CLARA
+95054,2181 Hogan Dr,2,2,Santa Clara,"1,045 sqft",25-Feb-14,"$504,500 ",37.40156,-121.962616,CA,Condo,504500,"$521,000 ",,,,,Sold,SANTA CLARA
+95050,2046 Jackson St,1.5,3,Santa Clara,"1,050 sqft",25-Feb-14,"$570,000 ",37.359173,-121.953476,CA,Single-Family Home,570000,"$729,000 ",,,,,Sold,SANTA CLARA
+95051,3715 Terstena Pl #409,1,1,Santa Clara,968 sqft,24-Feb-14,"$398,000 ",37.358208,-121.998985,CA,Condo,398000,"$454,000 ",,,,,Sold,SANTA CLARA
+95050,2304 Lafayette St,2,3,Santa Clara,"1,660 sqft",21-Feb-14,"$734,000 ",37.362984,-121.94962,CA,Single-Family Home,734000,"$879,000 ",,,,,Sold,SANTA CLARA
+95054,857 Agnew Rd,2.5,2,Santa Clara,"1,616 sqft",21-Feb-14,"$775,000 ",37.394848,-121.949356,CA,Condo,775000,"$817,000 ",,,,,Sold,SANTA CLARA
+95050,591 Hilmar St,1,3,Santa Clara,"1,660 sqft",21-Feb-14,"$860,000 ",37.34358,-121.93425,CA,Single-Family Home,860000,"$786,000 ",,,,,Sold,SANTA CLARA
+95050,624 Viader Ct,1.5,3,Santa Clara,"1,492 sqft",21-Feb-14,"$775,000 ",37.34153,-121.95669,CA,Single-Family Home,775000,"$798,000 ",,,,,Sold,SANTA CLARA
+95051,3489 Clinton Ave,1.5,3,Santa Clara,"1,056 sqft",20-Feb-14,"$749,000 ",37.330986,-121.992615,CA,Single-Family Home,749000,"$920,000 ",,,,,Sold,SANTA CLARA
+95054,2248 Schott Ct,2.5,3,Santa Clara,"1,400 sqft",20-Feb-14,"$750,000 ",37.39663,-121.964584,CA,Single-Family Home,750000,"$792,000 ",,,,,Sold,SANTA CLARA
+95054,4514 Saint Palais Pl,2.5,3,Santa Clara,"1,646 sqft",20-Feb-14,"$758,000 ",37.39802,-121.9592,CA,Condo,758000,"$891,000 ",,,,,Sold,SANTA CLARA
+95050,1816 Park Vista Cir,2,3,Santa Clara,"1,538 sqft",20-Feb-14,"$720,000 ",37.355614,-121.95639,CA,Condo,720000,"$691,000 ",,,,,Sold,SANTA CLARA
+95050,1700 Civic Center Dr #316,1,1,Santa Clara,632 sqft,19-Feb-14,"$292,000 ",37.354965,-121.95779,CA,Condo,292000,"$334,000 ",,,,,Sold,SANTA CLARA
+95051,3221 Catalina Ave,2,3,Santa Clara,"1,481 sqft",19-Feb-14,"$875,000 ",37.34492,-121.98514,CA,Single-Family Home,875000,"$899,000 ",,,,,Sold,SANTA CLARA
+95051,2120 Brown Ave,2,4,Santa Clara,"1,559 sqft",19-Feb-14,"$868,000 ",37.361385,-121.979385,CA,Single-Family Home,868000,"$866,000 ",,,,,Sold,SANTA CLARA
+95051,150 Saratoga Ave #348,1,1,Santa Clara,862 sqft,18-Feb-14,"$338,000 ",37.326775,-121.96897,CA,Condo,338000,"$364,000 ",,,,,Sold,SANTA CLARA
+95050,1157 Chapel Dr,1,2,Santa Clara,"1,040 sqft",18-Feb-14,"$700,000 ",37.347603,-121.956276,CA,Single-Family Home,700000,"$725,000 ",,,,,Sold,SANTA CLARA
+95051,902 Pomeroy Ave,3,4,Santa Clara,"2,430 sqft",14-Feb-14,"$1,125,000 ",37.341938,-121.9879,CA,Single-Family Home,1125000,"$1,226,000 ",,,,,Sold,SANTA CLARA
+95050,2389 Galway Ct,,,Santa Clara,"3,117 sqft",14-Feb-14,"$908,000 ",37.364372,-121.96335,CA,Multi-Family,908000,,,,,,Sold,SANTA CLARA
+95054,4439 Billings Cir,3.5,3,Santa Clara,"2,408 sqft",14-Feb-14,"$1,425,000 ",37.400326,-121.95099,CA,Single-Family Home,1425000,"$1,432,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #163,1,1,Santa Clara,908 sqft,13-Feb-14,"$433,000 ",37.39643,-121.94343,CA,Condo,433000,"$498,000 ",,,,,Sold,SANTA CLARA
+95054,4393 Cheeney St,1,3,Santa Clara,"1,264 sqft",13-Feb-14,"$280,000 ",37.39525,-121.96149,CA,Single-Family Home,280000,"$619,000 ",,,,,Sold,SANTA CLARA
+95054,4937 Avenida De Angelina,2,3,Santa Clara,"1,140 sqft",13-Feb-14,"$680,000 ",37.40535,-121.96049,CA,Single-Family Home,680000,"$696,000 ",,,,,Sold,SANTA CLARA
+95051,1769 Jones Ave,1,3,Santa Clara,"1,068 sqft",13-Feb-14,"$670,000 ",37.35577,-121.98722,CA,Single-Family Home,670000,"$704,000 ",,,,,Sold,SANTA CLARA
+95054,2326 Avenida De Guadalupe,2,2,Santa Clara,"1,121 sqft",12-Feb-14,"$535,000 ",37.40606,-121.965294,CA,Condo,535000,"$532,000 ",,,,,Sold,SANTA CLARA
+95051,3575 Lehigh Dr #21,2.5,3,Santa Clara,"1,779 sqft",12-Feb-14,"$741,000 ",37.335598,-121.99449,CA,Condo,741000,"$759,000 ",,,,,Sold,SANTA CLARA
+95051,2133 Nobili Ave,2,4,Santa Clara,"1,786 sqft",12-Feb-14,"$851,000 ",37.361515,-121.99113,CA,Single-Family Home,851000,"$939,000 ",,,,,Sold,SANTA CLARA
+95051,2109 Fordham Dr,2,3,Santa Clara,"1,425 sqft",11-Feb-14,"$901,000 ",37.361225,-121.988014,CA,Single-Family Home,901000,"$890,000 ",,,,,Sold,SANTA CLARA
+95051,891 Burbank Dr,,,Santa Clara,"3,798 sqft",11-Feb-14,"$1,200,000 ",37.341187,-121.994545,CA,Multi-Family,1200000,,,,,,Sold,SANTA CLARA
+95051,384 Dayton Ave,1.5,3,Santa Clara,"1,056 sqft",10-Feb-14,"$920,000 ",37.32986,-121.99398,CA,Single-Family Home,920000,"$916,000 ",,,,,Sold,SANTA CLARA
+95051,2473 Elliot St,2,4,Santa Clara,"1,693 sqft",10-Feb-14,"$832,000 ",37.36362,-121.97043,CA,Single-Family Home,832000,"$903,000 ",,,,,Sold,SANTA CLARA
+95050,2201 The Alameda #9,1.5,2,Santa Clara,"1,357 sqft",7-Feb-14,"$435,000 ",37.344173,-121.93201,CA,Condo,435000,"$510,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95051,751 Harvard Ave,,,Santa Clara,"2,032 sqft",7-Feb-14,"$910,000 ",37.336548,-121.99195,CA,Multi-Family,910000,"$982,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #328,2,3,Santa Clara,"1,361 sqft",7-Feb-14,"$630,000 ",37.39626,-121.95799,CA,Condo,630000,"$667,000 ",,,,,Sold,SANTA CLARA
+95050,533 Robin Dr,1.5,2,Santa Clara,"1,559 sqft",5-Feb-14,"$820,000 ",37.337246,-121.95878,CA,Single-Family Home,820000,"$850,000 ",,,,,Sold,SANTA CLARA
+95054,2204 Esperanca Ave,2.5,3,Santa Clara,"1,589 sqft",5-Feb-14,"$801,000 ",37.39737,-121.96427,CA,Single-Family Home,801000,"$867,000 ",,,,,Sold,SANTA CLARA
+95050,1233 Carmel Way,1.5,2,Santa Clara,"2,079 sqft",5-Feb-14,"$825,000 ",37.34827,-121.95564,CA,Single-Family Home,825000,"$902,000 ",,,,,Sold,SANTA CLARA
+95050,344 Pineview Dr,2,3,Santa Clara,"1,080 sqft",4-Feb-14,"$680,000 ",37.331738,-121.9547,CA,Single-Family Home,680000,"$805,000 ",,,,,Sold,SANTA CLARA
+95051,2773 Crosby Ct,2.5,3,Santa Clara,"1,622 sqft",4-Feb-14,"$800,000 ",37.356712,-121.976654,CA,Single-Family Home,800000,"$888,000 ",,,,,Sold,SANTA CLARA
+95050,685 Armanini Ave,1,2,Santa Clara,854 sqft,3-Feb-14,"$608,000 ",37.339996,-121.96166,CA,Single-Family Home,608000,"$737,000 ",,,,,Sold,SANTA CLARA
+95050,590 Monroe St,2,5,Santa Clara,"1,907 sqft",30-Jan-14,"$1,100,000 ",37.344494,-121.946175,CA,Single-Family Home,1100000,"$1,106,000 ",,,,,Sold,SANTA CLARA
+95051,1302 Casa Ct,2,2,Santa Clara,"1,524 sqft",29-Jan-14,"$635,000 ",37.348907,-121.99695,CA,Condo,635000,"$725,000 ",,,,,Sold,SANTA CLARA
+95054,4346 Headen Way,2.5,3,Santa Clara,"1,716 sqft",29-Jan-14,"$785,000 ",37.398067,-121.95365,CA,Condo,785000,"$902,000 ",,,,,Sold,SANTA CLARA
+95051,3057 Cameron Way,2,3,Santa Clara,"1,240 sqft",29-Jan-14,"$940,000 ",37.325928,-121.98164,CA,Single-Family Home,940000,"$1,022,000 ",,,,,Sold,SANTA CLARA
+95051,2045 Larsen Ct,2,4,Santa Clara,"2,030 sqft",28-Jan-14,"$879,000 ",37.35937,-121.97469,CA,Single-Family Home,879000,"$1,002,000 ",,,,,Sold,SANTA CLARA
+95051,938 Kiely Blvd #H,1,2,Santa Clara,882 sqft,28-Jan-14,"$360,000 ",37.342846,-121.978874,CA,Condo,360000,"$411,000 ",,,,,Sold,SANTA CLARA
+95054,4225 Rivermark Pkwy,2.5,4,Santa Clara,"2,627 sqft",24-Jan-14,"$1,330,000 ",37.397305,-121.950165,CA,Single-Family Home,1330000,"$1,379,000 ",,,,,Sold,SANTA CLARA
+95051,751 Harvard Ave,,,Santa Clara,"2,032 sqft",7-Feb-14,"$910,000 ",37.336548,-121.99195,CA,Multi-Family,910000,"$982,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #328,2,3,Santa Clara,"1,361 sqft",7-Feb-14,"$630,000 ",37.39626,-121.95799,CA,Condo,630000,"$667,000 ",,,,,Sold,SANTA CLARA
+95050,533 Robin Dr,1.5,2,Santa Clara,"1,559 sqft",5-Feb-14,"$820,000 ",37.337246,-121.95878,CA,Single-Family Home,820000,"$850,000 ",,,,,Sold,SANTA CLARA
+95054,2204 Esperanca Ave,2.5,3,Santa Clara,"1,589 sqft",5-Feb-14,"$801,000 ",37.39737,-121.96427,CA,Single-Family Home,801000,"$867,000 ",,,,,Sold,SANTA CLARA
+95050,1233 Carmel Way,1.5,2,Santa Clara,"2,079 sqft",5-Feb-14,"$825,000 ",37.34827,-121.95564,CA,Single-Family Home,825000,"$902,000 ",,,,,Sold,SANTA CLARA
+95050,344 Pineview Dr,2,3,Santa Clara,"1,080 sqft",4-Feb-14,"$680,000 ",37.331738,-121.9547,CA,Single-Family Home,680000,"$805,000 ",,,,,Sold,SANTA CLARA
+95051,2773 Crosby Ct,2.5,3,Santa Clara,"1,622 sqft",4-Feb-14,"$800,000 ",37.356712,-121.976654,CA,Single-Family Home,800000,"$888,000 ",,,,,Sold,SANTA CLARA
+95050,685 Armanini Ave,1,2,Santa Clara,854 sqft,3-Feb-14,"$608,000 ",37.339996,-121.96166,CA,Single-Family Home,608000,"$737,000 ",,,,,Sold,SANTA CLARA
+95050,590 Monroe St,2,5,Santa Clara,"1,907 sqft",30-Jan-14,"$1,100,000 ",37.344494,-121.946175,CA,Single-Family Home,1100000,"$1,106,000 ",,,,,Sold,SANTA CLARA
+95051,1302 Casa Ct,2,2,Santa Clara,"1,524 sqft",29-Jan-14,"$635,000 ",37.348907,-121.99695,CA,Condo,635000,"$725,000 ",,,,,Sold,SANTA CLARA
+95054,4346 Headen Way,2.5,3,Santa Clara,"1,716 sqft",29-Jan-14,"$785,000 ",37.398067,-121.95365,CA,Condo,785000,"$902,000 ",,,,,Sold,SANTA CLARA
+95051,3057 Cameron Way,2,3,Santa Clara,"1,240 sqft",29-Jan-14,"$940,000 ",37.325928,-121.98164,CA,Single-Family Home,940000,"$1,022,000 ",,,,,Sold,SANTA CLARA
+95051,2045 Larsen Ct,2,4,Santa Clara,"2,030 sqft",28-Jan-14,"$879,000 ",37.35937,-121.97469,CA,Single-Family Home,879000,"$1,002,000 ",,,,,Sold,SANTA CLARA
+95051,938 Kiely Blvd #H,1,2,Santa Clara,882 sqft,28-Jan-14,"$360,000 ",37.342846,-121.978874,CA,Condo,360000,"$411,000 ",,,,,Sold,SANTA CLARA
+95054,4225 Rivermark Pkwy,2.5,4,Santa Clara,"2,627 sqft",24-Jan-14,"$1,330,000 ",37.397305,-121.950165,CA,Single-Family Home,1330000,"$1,379,000 ",,,,,Sold,SANTA CLARA
+95051,3429 Fowler Ave,2,3,Santa Clara,"1,080 sqft",17-Jan-14,"$702,000 ",37.355865,-121.988945,CA,Single-Family Home,702000,"$702,000 ",,,,,Sold,SANTA CLARA
+95051,2819 Agate Dr,1,4,Santa Clara,"1,144 sqft",16-Jan-14,"$512,500 ",37.370094,-121.97803,CA,Single-Family Home,512500,"$686,000 ",,,,,Sold,SANTA CLARA
+95051,465 Giannini Dr,2,4,Santa Clara,"1,350 sqft",16-Jan-14,"$1,040,000 ",37.33041,-122.00247,CA,Single-Family Home,1040000,"$1,132,000 ",,,,,Sold,SANTA CLARA
+95051,2168 Ventura Pl,2,3,Santa Clara,"1,626 sqft",15-Jan-14,"$715,000 ",37.36076,-121.982895,CA,Single-Family Home,715000,"$808,000 ",,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #139,2,2,Santa Clara,983 sqft,15-Jan-14,"$380,000 ",37.354927,-121.9997,CA,Condo,380000,"$440,000 ",,,,,Sold,SANTA CLARA
+95051,180 Gilbert Ave,2,4,Santa Clara,"1,232 sqft",15-Jan-14,"$1,170,000 ",37.327072,-121.98513,CA,Single-Family Home,1170000,"$1,023,000 ",,,,,Sold,SANTA CLARA
+95054,1821 Nelson Dr,2,3,Santa Clara,"1,095 sqft",15-Jan-14,"$598,000 ",37.39943,-121.95878,CA,Single-Family Home,598000,"$640,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #348,2,2,Santa Clara,"1,070 sqft",13-Jan-14,"$547,000 ",37.395626,-121.95862,CA,Condo,547000,"$579,000 ",,,,,Sold,SANTA CLARA
+95050,1610 Santa Clara St,,,Santa Clara,"3,780 sqft",10-Jan-14,"$1,186,500 ",37.34419,-121.95034,CA,Multi-Family,1186500,,,,,,Sold,SANTA CLARA
+95054,4437 Laird Cir,3,3,Santa Clara,"1,590 sqft",10-Jan-14,"$920,000 ",37.401512,-121.94869,CA,Single-Family Home,920000,"$1,000,000 ",,,,,Sold,SANTA CLARA
+95050,1934 Murguia Ave,2,3,Santa Clara,"1,460 sqft",10-Jan-14,"$825,000 ",37.341305,-121.95559,CA,Single-Family Home,825000,"$835,000 ",,,,,Sold,SANTA CLARA
+95054,4433 Cheeney St,1,2,Santa Clara,"1,285 sqft",10-Jan-14,"$625,000 ",37.39594,-121.96196,CA,Single-Family Home,625000,"$702,000 ",,,,,Sold,SANTA CLARA
+95054,4217 Stewart Ln,2.5,3,Santa Clara,"3,044 sqft",10-Jan-14,"$1,415,000 ",37.397,-121.95112,CA,Single-Family Home,1415000,"$1,463,000 ",,,,,Sold,SANTA CLARA
+95051,3683 Europe Ct,2,2,Santa Clara,"1,524 sqft",10-Jan-14,"$699,000 ",37.349346,-121.99756,CA,Condo,699000,"$725,000 ",,,,,Sold,SANTA CLARA
+95051,2601 Cortez Dr #2102,2,3,Santa Clara,974 sqft,10-Jan-14,"$486,000 ",37.369347,-121.97484,CA,Condo,486000,"$528,000 ",,,,,Sold,SANTA CLARA
+95051,1335 Crowley Ave,1,3,Santa Clara,"1,000 sqft",9-Jan-14,"$706,000 ",37.34994,-121.97644,CA,Single-Family Home,706000,"$820,000 ",,,,,Sold,SANTA CLARA
+95050,355 Concannon Ct,1,3,Santa Clara,"1,075 sqft",9-Jan-14,"$716,500 ",37.333607,-121.95524,CA,Single-Family Home,716500,"$794,000 ",,,,,Sold,SANTA CLARA
+95054,2300 Falling Water Ct,2.5,4,Santa Clara,"1,800 sqft",9-Jan-14,"$109,500 ",37.392815,-121.96489,CA,Condo,109500,"$680,000 ",,,,,Sold,SANTA CLARA
+95050,889 Circle Dr,1.5,2,Santa Clara,"1,458 sqft",9-Jan-14,"$700,000 ",37.343243,-121.939514,CA,Single-Family Home,700000,"$909,000 ",,,,,Sold,SANTA CLARA
+95051,2706 Estella Dr,2,4,Santa Clara,"1,597 sqft",9-Jan-14,"$1,180,000 ",37.327335,-121.97197,CA,Single-Family Home,1180000,"$1,196,000 ",,,,,Sold,SANTA CLARA
+95051,3062 Fresno St,2,3,Santa Clara,"1,881 sqft",9-Jan-14,"$851,000 ",37.349724,-121.981636,CA,Single-Family Home,851000,"$961,000 ",,,,,Sold,SANTA CLARA
+95051,3375 Gonzaga Pl,2,3,Santa Clara,"1,374 sqft",8-Jan-14,"$780,000 ",37.363476,-121.98954,CA,Single-Family Home,780000,"$888,000 ",,,,,Sold,SANTA CLARA
+95050,758 Robin Dr,2,4,Santa Clara,"1,322 sqft",8-Jan-14,"$817,000 ",37.34172,-121.96219,CA,Single-Family Home,817000,"$835,000 ",,,,,Sold,SANTA CLARA
+95050,1273 Civic Center Dr,1,2,Santa Clara,626 sqft,8-Jan-14,"$436,000 ",37.35443,-121.95083,CA,Single-Family Home,436000,"$510,000 ",,,,,Sold,SANTA CLARA
+95050,2201 The Alameda #18,1.5,2,Santa Clara,"1,252 sqft",8-Jan-14,"$399,000 ",37.343983,-121.93195,CA,Condo,399000,"$495,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95051,3552 Bennett Ave,,,Santa Clara,"1,817 sqft",8-Jan-14,"$900,000 ",37.324528,-121.99408,CA,Multi-Family,900000,"$1,090,000 ",,,,,Sold,SANTA CLARA
+95051,2654 Brady Ct,2,3,Santa Clara,"1,737 sqft",7-Jan-14,"$835,000 ",37.354176,-121.97439,CA,Single-Family Home,835000,"$901,000 ",,,,,Sold,SANTA CLARA
+95051,684 Marshall Ct,2,3,Santa Clara,"1,166 sqft",7-Jan-14,"$805,000 ",37.33672,-121.971016,CA,Single-Family Home,805000,"$760,000 ",,,,,Sold,SANTA CLARA
+95051,1142 Foley Ave,2,3,Santa Clara,"1,315 sqft",7-Jan-14,"$755,000 ",37.34738,-121.97412,CA,Single-Family Home,755000,"$831,000 ",,,,,Sold,SANTA CLARA
+95051,3534 Flora Vista Ave,2.5,2,Santa Clara,"1,347 sqft",2-Jan-14,"$509,000 ",37.35355,-121.99262,CA,Condo,509000,"$599,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #313,2,2,Santa Clara,"1,152 sqft",31-Dec-13,"$560,000 ",37.396156,-121.959145,CA,Condo,560000,"$595,000 ",,,,,Sold,SANTA CLARA
+95051,2777 Forbes Ave,2,3,Santa Clara,"1,254 sqft",31-Dec-13,"$770,000 ",37.33319,-121.97331,CA,Single-Family Home,770000,"$918,000 ",,,,,Sold,SANTA CLARA
+95050,1559 Jackson St,1,3,Santa Clara,"1,011 sqft",31-Dec-13,"$80,000 ",37.3543,-121.94953,CA,Single-Family Home,80000,"$448,000 ",,,,,Sold,SANTA CLARA
+95054,4423 Laird Cir,3,3,Santa Clara,"1,590 sqft",31-Dec-13,"$875,000 ",37.401333,-121.94858,CA,Single-Family Home,875000,"$947,000 ",,,,,Sold,SANTA CLARA
+95051,1153 Crowley Ave,1,3,Santa Clara,900 sqft,31-Dec-13,"$971,000 ",37.347523,-121.9764,CA,Single-Family Home,971000,"$804,000 ",,,,,Sold,SANTA CLARA
+95050,2293 Los Padres Blvd,,,Santa Clara,"2,992 sqft",31-Dec-13,"$1,100,000 ",37.36386,-121.96261,CA,Multi-Family,1100000,,,,,,Sold,SANTA CLARA
+95050,480 N Winchester Blvd #6,2,2,Santa Clara,"1,248 sqft",30-Dec-13,"$470,000 ",37.340427,-121.95176,CA,Condo,470000,"$567,000 ",,,,,Sold,SANTA CLARA
+95050,1882 Clifford St,1,2,Santa Clara,766 sqft,30-Dec-13,"$560,500 ",37.35044,-121.958664,CA,Single-Family Home,560500,"$639,000 ",,,,,Sold,SANTA CLARA
+95050,3217 Dorcich St,4,5,Santa Clara,"2,695 sqft",30-Dec-13,"$665,000 ",37.32521,-121.95369,CA,Single-Family Home,665000,"$949,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95054,1954 Garzoni Pl,2.5,3,Santa Clara,"1,458 sqft",27-Dec-13,"$728,000 ",37.397575,-121.95864,CA,Condo,728000,"$797,000 ",,,,,Sold,SANTA CLARA
+95051,1442 Blackfield Dr,1,3,Santa Clara,"1,006 sqft",27-Dec-13,"$865,000 ",37.350975,-121.96951,CA,Single-Family Home,865000,"$768,000 ",,,,,Sold,SANTA CLARA
+95054,4037 Crandall Cir,2.5,2,Santa Clara,"1,464 sqft",27-Dec-13,"$680,000 ",37.39656,-121.94558,CA,Condo,680000,"$822,000 ",,,,,Sold,SANTA CLARA
+95051,1162 Pomeroy Ave,2.5,4,Santa Clara,"1,476 sqft",27-Dec-13,"$566,000 ",37.347225,-121.987946,CA,Condo,566000,"$645,000 ",,,,,Sold,SANTA CLARA
+95054,2271 River Bed Ct,2.5,4,Santa Clara,"1,800 sqft",26-Dec-13,"$655,000 ",37.39331,-121.96405,CA,Condo,655000,"$678,000 ",,,,,Sold,SANTA CLARA
+95051,3580 Druffel Pl,3.5,4,Santa Clara,,26-Dec-13,"$884,000 ",37.351116,-121.995575,CA,Single-Family Home,884000,"$1,081,000 ",,,,,Sold,SANTA CLARA
+95050,1922 De La Pena Ave,1,3,Santa Clara,"1,246 sqft",24-Dec-13,"$620,000 ",37.342777,-121.95608,CA,Single-Family Home,620000,"$739,000 ",,,,,Sold,SANTA CLARA
+95050,1861 Catherine St,1,3,Santa Clara,"1,312 sqft",24-Dec-13,"$568,000 ",37.35016,-121.95798,CA,Single-Family Home,568000,"$667,000 ",,,,,Sold,SANTA CLARA
+95050,2338 Rosita Ave,2,4,Santa Clara,"1,392 sqft",24-Dec-13,"$875,000 ",37.332222,-121.957924,CA,Single-Family Home,875000,"$889,000 ",,,,,Sold,SANTA CLARA
+95050,212 N Winchester Blvd,2,4,Santa Clara,"3,014 sqft",20-Dec-13,"$877,500 ",37.33613,-121.949875,CA,Single-Family Home,877500,"$1,076,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95051,3586 Berry Way,2,3,Santa Clara,"1,240 sqft",20-Dec-13,"$803,000 ",37.36039,-121.99527,CA,Single-Family Home,803000,"$817,000 ",,,,,Sold,SANTA CLARA
+95051,3026 Mckinley Dr,2,3,Santa Clara,"1,240 sqft",20-Dec-13,"$920,000 ",37.324142,-121.98082,CA,Single-Family Home,920000,"$1,017,000 ",,,,,Sold,SANTA CLARA
+95050,1777 Lafayette St #104,1,1,Santa Clara,"1,300 sqft",20-Dec-13,"$505,500 ",37.357147,-121.94627,CA,Condo,505500,"$527,000 ",,,,,Sold,SANTA CLARA
+95050,719 Garner Ct,2,3,Santa Clara,"1,781 sqft",20-Dec-13,"$910,000 ",37.338978,-121.966156,CA,Single-Family Home,910000,"$969,000 ",,,,,Sold,SANTA CLARA
+95051,3528 Flora Vista Ave,2.5,2,Santa Clara,"1,347 sqft",20-Dec-13,"$499,000 ",37.353554,-121.99235,CA,Condo,499000,"$603,000 ",,,,,Sold,SANTA CLARA
+95051,3046 Hazelwood Ave,2,3,Santa Clara,"1,480 sqft",20-Dec-13,"$730,000 ",37.33265,-121.983826,CA,Single-Family Home,730000,"$974,000 ",,,,,Sold,SANTA CLARA
+95051,2756 Donovan Ave,2.5,3,Santa Clara,"1,534 sqft",19-Dec-13,"$760,000 ",37.353477,-121.97661,CA,Single-Family Home,760000,"$850,000 ",,,,,Sold,SANTA CLARA
+95050,835 Monroe St,2.5,4,Santa Clara,"1,840 sqft",19-Dec-13,"$805,000 ",37.347122,-121.94678,CA,Single-Family Home,805000,"$979,000 ",,,,,Sold,SANTA CLARA
+95051,2600 Cortez Dr #7205,2,3,Santa Clara,974 sqft,19-Dec-13,"$460,000 ",37.368275,-121.9746,CA,Condo,460000,"$551,000 ",,,,,Sold,SANTA CLARA
+95051,2693 Toledo Ave,2,3,Santa Clara,"1,254 sqft",18-Dec-13,"$785,000 ",37.336643,-121.97269,CA,Single-Family Home,785000,"$805,000 ",,,,,Sold,SANTA CLARA
+95050,1805 Henning Pl,2.5,3,Santa Clara,"1,960 sqft",18-Dec-13,"$795,000 ",37.341156,-121.951485,CA,Single-Family Home,795000,"$982,000 ",,,,,Sold,SANTA CLARA
+95050,2431 Golf Links Cir,2.5,3,Santa Clara,"2,088 sqft",18-Dec-13,"$840,000 ",37.3331,-121.96438,CA,Condo,840000,"$853,000 ",,,,,Sold,SANTA CLARA
+95050,820 Civic Center Dr,,,Santa Clara,"2,402 sqft",18-Dec-13,"$875,000 ",37.356094,-121.94509,CA,Single-Family Home,875000,"$916,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #106,1,1,Santa Clara,816 sqft,18-Dec-13,"$319,000 ",37.392353,-121.96382,CA,Condo,319000,"$390,000 ",,,,,Sold,SANTA CLARA
+95050,219 Kit Carson Ct,2,3,Santa Clara,"1,141 sqft",18-Dec-13,"$700,000 ",37.328568,-121.96047,CA,Single-Family Home,700000,"$821,000 ",,,,,Sold,SANTA CLARA
+95051,627 Flannery St,2,4,Santa Clara,"1,092 sqft",17-Dec-13,"$691,500 ",37.33346,-121.98199,CA,Single-Family Home,691500,"$775,000 ",,,,,Sold,SANTA CLARA
+95050,3393 Cecil Ave,3.5,4,Santa Clara,"4,041 sqft",17-Dec-13,"$1,500,000 ",37.32447,-121.95829,CA,Single-Family Home,1500000,"$1,491,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95051,3730 Miramesa Ct #121,2.5,2,Santa Clara,"1,228 sqft",16-Dec-13,"$517,000 ",37.35797,-122.00028,CA,Condo,517000,"$603,000 ",,,,,Sold,SANTA CLARA
+95054,4502 Billings Cir,2.5,3,Santa Clara,"1,716 sqft",13-Dec-13,"$810,000 ",37.40109,-121.95207,CA,Condo,810000,"$969,000 ",,,,,Sold,SANTA CLARA
+95051,3526 Flora Vista Ave,2.5,2,Santa Clara,"1,347 sqft",13-Dec-13,"$515,000 ",37.35371,-121.99235,CA,Condo,515000,"$601,000 ",,,,,Sold,SANTA CLARA
+95051,2792 Forbes Ave,3,6,Santa Clara,"1,896 sqft",13-Dec-13,"$600,000 ",37.33258,-121.97367,CA,Single-Family Home,600000,"$776,000 ",,,,,Sold,SANTA CLARA
+95050,2385 Patricia Dr,2,4,Santa Clara,"1,593 sqft",13-Dec-13,"$806,000 ",37.343586,-121.96796,CA,Single-Family Home,806000,"$836,000 ",,,,,Sold,SANTA CLARA
+95054,2315 Villa Pl,2.5,4,Santa Clara,"1,893 sqft",13-Dec-13,"$635,000 ",37.40093,-121.96596,CA,Condo,635000,"$742,000 ",,,,,Sold,SANTA CLARA
+95051,974 Kiely Blvd #A,2,2,Santa Clara,956 sqft,12-Dec-13,"$372,000 ",37.343067,-121.98074,CA,Condo,372000,"$440,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #264,1,1,Santa Clara,865 sqft,12-Dec-13,"$416,000 ",37.39643,-121.94343,CA,Condo,416000,"$468,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #230,2,2,Santa Clara,"1,260 sqft",12-Dec-13,"$420,000 ",37.32661,-121.97094,CA,Condo,420000,"$523,000 ",,,,,Sold,SANTA CLARA
+95050,2453 Golf Links Cir,2.5,3,Santa Clara,"2,088 sqft",11-Dec-13,"$778,000 ",37.333206,-121.96561,CA,Condo,778000,"$895,000 ",,,,,Sold,SANTA CLARA
+95051,2746 Donovan Ave,2,4,Santa Clara,"1,330 sqft",11-Dec-13,"$799,000 ",37.353477,-121.97642,CA,Single-Family Home,799000,"$821,000 ",,,,,Sold,SANTA CLARA
+95054,1007 Brackett Way,3.5,4,Santa Clara,"2,645 sqft",11-Dec-13,"$1,360,000 ",37.399506,-121.95195,CA,Single-Family Home,1360000,"$1,462,000 ",,,,,Sold,SANTA CLARA
+95050,1809 Henning Pl,2.5,3,Santa Clara,"1,960 sqft",11-Dec-13,"$808,000 ",37.341076,-121.9517,CA,Single-Family Home,808000,"$971,000 ",,,,,Sold,SANTA CLARA
+95051,2600 Cortez Dr #8203,1,2,Santa Clara,712 sqft,11-Dec-13,"$310,000 ",37.368015,-121.97462,CA,Condo,310000,"$396,000 ",,,,,Sold,SANTA CLARA
+95051,980 Kiely Blvd #103,1,1,Santa Clara,622 sqft,10-Dec-13,"$299,000 ",37.34323,-121.97939,CA,Condo,299000,"$324,000 ",,,,,Sold,SANTA CLARA
+95050,1422 Rosalie Dr,3,3,Santa Clara,"2,830 sqft",10-Dec-13,"$940,500 ",37.35047,-121.9662,CA,Single-Family Home,940500,"$1,060,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #1604,2,2,Santa Clara,"1,142 sqft",10-Dec-13,"$405,000 ",37.36249,-121.9603,CA,Condo,405000,"$538,000 ",,,,,Sold,SANTA CLARA
+95054,3593 Macintosh St,3,5,Santa Clara,"2,391 sqft",10-Dec-13,"$655,000 ",37.386883,-121.94857,CA,Single-Family Home,655000,"$838,000 ",,,,,Sold,SANTA CLARA
+95054,3596 Rowena Ct,1,3,Santa Clara,"1,008 sqft",10-Dec-13,"$540,000 ",37.386208,-121.95011,CA,Single-Family Home,540000,"$562,000 ",,,,,Sold,SANTA CLARA
+95051,1715 Townsend Ave,1,3,Santa Clara,"1,464 sqft",6-Dec-13,"$670,000 ",37.35445,-121.98545,CA,Single-Family Home,670000,"$838,000 ",,,,,Sold,SANTA CLARA
+95051,152 Warren Dr,,,Santa Clara,"2,300 sqft",6-Dec-13,"$980,000 ",37.325977,-121.97636,CA,Multi-Family,980000,"$1,000,000 ",,,,,Sold,SANTA CLARA
+95050,2286 Lafayette St,2,3,Santa Clara,"1,452 sqft",6-Dec-13,"$565,000 ",37.36281,-121.949715,CA,Single-Family Home,565000,"$729,000 ",,,,,Sold,SANTA CLARA
+95050,1712 Loveland Ct,2.5,3,Santa Clara,"1,862 sqft",5-Dec-13,"$791,000 ",37.356956,-121.947365,CA,Single-Family Home,791000,"$953,000 ",,,,,Sold,SANTA CLARA
+95050,1845 Palm View Pl #211,1,1,Santa Clara,760 sqft,5-Dec-13,"$357,500 ",37.356358,-121.95877,CA,Condo,357500,"$421,000 ",,,,,Sold,SANTA CLARA
+95050,3151 Cecil Ave,,,Santa Clara,,5-Dec-13,"$1,495,000 ",37.32467,-121.95175,CA,Single-Family Home,1495000,"$1,050,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95054,2355 Avenida De Guadalupe,2,2,Santa Clara,"1,121 sqft",5-Dec-13,"$510,500 ",37.405964,-121.965614,CA,Condo,510500,"$540,000 ",,,,,Sold,SANTA CLARA
+95050,2450 Glendenning Ave,2,3,Santa Clara,"1,130 sqft",4-Dec-13,"$832,000 ",37.330524,-121.96145,CA,Single-Family Home,832000,"$821,000 ",,,,,Sold,SANTA CLARA
+95050,2262 Sutter Ave,2,3,Santa Clara,"1,378 sqft",4-Dec-13,"$825,000 ",37.329082,-121.96013,CA,Single-Family Home,825000,"$885,000 ",,,,,Sold,SANTA CLARA
+95054,589 Oakwood Dr,2,3,Santa Clara,"1,408 sqft",4-Dec-13,"$638,000 ",37.39246,-121.94513,CA,Single-Family Home,638000,"$744,000 ",,,,,Sold,SANTA CLARA
+95050,2492 Scanlan Pl,2,3,Santa Clara,"1,170 sqft",4-Dec-13,"$615,000 ",37.33786,-121.967186,CA,Single-Family Home,615000,"$808,000 ",,,,,Sold,SANTA CLARA
+95051,150 Saratoga Ave #312,1,1,Santa Clara,599 sqft,3-Dec-13,"$287,000 ",37.326736,-121.96953,CA,Condo,287000,"$332,000 ",,,,,Sold,SANTA CLARA
+95051,3015 Kaiser Dr #F,2,2,Santa Clara,956 sqft,3-Dec-13,"$365,000 ",37.34253,-121.981995,CA,Condo,365000,"$440,000 ",,,,,Sold,SANTA CLARA
+95050,1293 Bellomy St,2,2,Santa Clara,"1,028 sqft",3-Dec-13,"$515,000 ",37.34409,-121.94532,CA,Single-Family Home,515000,"$694,000 ",,,,,Sold,SANTA CLARA
+95050,1756 Eberhard St,3,5,Santa Clara,"3,014 sqft",2-Dec-13,"$976,000 ",37.35507,-121.96262,CA,Single-Family Home,976000,"$1,050,000 ",,,,,Sold,SANTA CLARA
+95050,1857 Cabrillo Ave,1,3,Santa Clara,985 sqft,2-Dec-13,"$555,000 ",37.35954,-121.95833,CA,Single-Family Home,555000,"$712,000 ",,,,,Sold,SANTA CLARA
+95054,2252 Creek Bed Ct,1.5,2,Santa Clara,"1,215 sqft",2-Dec-13,"$493,000 ",37.393837,-121.96413,CA,Condo,493000,"$511,000 ",,,,,Sold,SANTA CLARA
+95054,485 Wildwood Way,2,4,Santa Clara,"1,666 sqft",27-Nov-13,"$710,000 ",37.39096,-121.94292,CA,Single-Family Home,710000,"$787,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #112,2,2,Santa Clara,"1,152 sqft",27-Nov-13,"$535,000 ",37.396065,-121.95908,CA,Condo,535000,"$619,000 ",,,,,Sold,SANTA CLARA
+95051,3445 Notre Dame Dr,2,3,Santa Clara,"1,569 sqft",27-Nov-13,"$853,500 ",37.364876,-121.99033,CA,Single-Family Home,853500,"$1,022,000 ",,,,,Sold,SANTA CLARA
+95054,2196 Esperanca Ave,2.5,3,Santa Clara,"1,400 sqft",27-Nov-13,"$699,000 ",37.397606,-121.96408,CA,Single-Family Home,699000,"$794,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #120,1,1,Santa Clara,816 sqft,27-Nov-13,"$290,000 ",37.392147,-121.96354,CA,Condo,290000,"$394,000 ",,,,,Sold,SANTA CLARA
+95051,2536 Homestead Rd,2.5,2,Santa Clara,"1,615 sqft",27-Nov-13,"$650,000 ",37.339684,-121.970345,CA,Condo,650000,"$702,000 ",,,,,Sold,SANTA CLARA
+95051,3525 Shafer Dr,2,3,Santa Clara,"1,166 sqft",27-Nov-13,"$677,000 ",37.344486,-121.99303,CA,Single-Family Home,677000,"$777,000 ",,,,,Sold,SANTA CLARA
+95051,2618 Elliot St,2,3,Santa Clara,"1,207 sqft",27-Nov-13,"$750,000 ",37.362644,-121.97328,CA,Single-Family Home,750000,"$740,000 ",,,,,Sold,SANTA CLARA
+95051,3736 Hillsdale Ct,2,4,Santa Clara,"1,746 sqft",27-Nov-13,"$1,011,000 ",37.332096,-121.99898,CA,Single-Family Home,1011000,"$1,193,000 ",,,,,Sold,SANTA CLARA
+95054,4470 Bassett St,,,Santa Clara,"3,072 sqft",27-Nov-13,"$960,000 ",37.39703,-121.960884,CA,Multi-Family,960000,,,,,,Sold,SANTA CLARA
+95051,372 Burnett Ave,2,4,Santa Clara,"1,437 sqft",27-Nov-13,"$1,043,000 ",37.32938,-121.9847,CA,Single-Family Home,1043000,"$1,078,000 ",,,,,Sold,SANTA CLARA
+95050,3611 Forest Ave,2,4,Santa Clara,"1,350 sqft",27-Nov-13,"$739,000 ",37.3272,-121.963326,CA,Single-Family Home,739000,"$872,000 ",,,,,Sold,SANTA CLARA
+95051,774 Layton St,2,3,Santa Clara,"1,254 sqft",27-Nov-13,"$775,000 ",37.339027,-121.97235,CA,Single-Family Home,775000,"$826,000 ",,,,,Sold,SANTA CLARA
+95050,2373 Harrison St,2,3,Santa Clara,"1,370 sqft",27-Nov-13,"$701,500 ",37.349407,-121.96717,CA,Single-Family Home,701500,"$806,000 ",,,,,Sold,SANTA CLARA
+95050,1123 Reed St,1,2,Santa Clara,908 sqft,26-Nov-13,"$565,000 ",37.35752,-121.951256,CA,Single-Family Home,565000,"$647,000 ",,,,,Sold,SANTA CLARA
+95051,2107 San Antonio Pl,2,3,Santa Clara,"1,504 sqft",26-Nov-13,"$765,000 ",37.359207,-121.983284,CA,Single-Family Home,765000,"$793,000 ",,,,,Sold,SANTA CLARA
+95051,624 Hickory Pl,1,3,Santa Clara,"1,064 sqft",26-Nov-13,"$750,500 ",37.33328,-121.98576,CA,Single-Family Home,750500,"$809,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #448,2,2,Santa Clara,"1,138 sqft",26-Nov-13,"$600,000 ",37.39643,-121.94343,CA,Condo,600000,"$623,000 ",,,,,Sold,SANTA CLARA
+95054,864 Transill Cir,2.5,2,Santa Clara,"1,437 sqft",26-Nov-13,"$730,000 ",37.39498,-121.948845,CA,Condo,730000,"$773,000 ",,,,,Sold,SANTA CLARA
+95054,4949 Avenida De Los Arboles,2,4,Santa Clara,"1,584 sqft",26-Nov-13,"$665,000 ",37.406227,-121.96056,CA,Single-Family Home,665000,"$821,000 ",,,,,Sold,SANTA CLARA
+95054,1031 Clyde Ave #303,2.5,2,Santa Clara,"1,300 sqft",25-Nov-13,"$399,000 ",37.388405,-121.952415,CA,Condo,399000,"$527,000 ",,,,,Sold,SANTA CLARA
+95051,2118 Ventura Pl,2,3,Santa Clara,"1,540 sqft",22-Nov-13,"$830,000 ",37.359543,-121.98219,CA,Single-Family Home,830000,"$850,000 ",,,,,Sold,SANTA CLARA
+95054,4298 Rivermark Pkwy,2.5,3,Santa Clara,"3,044 sqft",22-Nov-13,"$1,400,000 ",37.397587,-121.9514,CA,Single-Family Home,1400000,"$1,485,000 ",,,,,Sold,SANTA CLARA
+95051,3650 Warbler Ave,2,3,Santa Clara,"1,850 sqft",22-Nov-13,"$1,180,000 ",37.341557,-121.99733,CA,Single-Family Home,1180000,"$1,147,000 ",,Birdland Neighbors,,,Sold,SANTA CLARA
+95051,3145 Atherton Dr,2,3,Santa Clara,"1,440 sqft",22-Nov-13,"$1,010,000 ",37.329197,-121.985405,CA,Single-Family Home,1010000,"$1,084,000 ",,,,,Sold,SANTA CLARA
+95051,1913 Magdalena Cir #110,2,2,Santa Clara,"1,041 sqft",22-Nov-13,"$506,000 ",37.357628,-122.000206,CA,Condo,506000,"$591,000 ",,,,,Sold,SANTA CLARA
+95051,976 Wood Duck Ave,2,4,Santa Clara,"1,568 sqft",22-Nov-13,"$1,040,000 ",37.34367,-121.99883,CA,Single-Family Home,1040000,"$1,138,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #148,2,2,Santa Clara,"1,280 sqft",21-Nov-13,"$550,000 ",37.39643,-121.94343,CA,Condo,550000,"$654,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #1601,1,2,Santa Clara,853 sqft,21-Nov-13,"$380,000 ",37.363693,-121.96073,CA,Condo,380000,"$458,000 ",,,,,Sold,SANTA CLARA
+95051,3540 Bennett Ave,,,Santa Clara,"1,937 sqft",21-Nov-13,"$700,000 ",37.324528,-121.99386,CA,Multi-Family,700000,"$926,000 ",,,,,Sold,SANTA CLARA
+95051,1901 Miraplaza Ct #6,1,2,Santa Clara,920 sqft,21-Nov-13,"$455,000 ",37.35762,-121.998245,CA,Condo,455000,"$508,000 ",,,,,Sold,SANTA CLARA
+95051,3422 Wheeling Dr,2,4,Santa Clara,"1,902 sqft",20-Nov-13,"$965,000 ",37.33287,-121.99099,CA,Single-Family Home,965000,"$1,088,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #226,1,1,Santa Clara,599 sqft,20-Nov-13,"$310,000 ",37.326824,-121.97099,CA,Condo,310000,"$352,000 ",,,,,Sold,SANTA CLARA
+95051,1733 Wade Ave,2,3,Santa Clara,"1,342 sqft",20-Nov-13,"$743,000 ",37.354576,-121.975174,CA,Single-Family Home,743000,"$814,000 ",,,,,Sold,SANTA CLARA
+95051,1441 Calabazas Blvd,2.5,4,Santa Clara,"2,162 sqft",19-Nov-13,"$770,500 ",37.350956,-121.98392,CA,Single-Family Home,770500,"$1,002,000 ",,,,,Sold,SANTA CLARA
+95051,2775 Glorietta Cir,3,4,Santa Clara,"2,209 sqft",19-Nov-13,"$1,225,000 ",37.329357,-121.97193,CA,Single-Family Home,1225000,"$1,264,000 ",,,,,Sold,SANTA CLARA
+95051,3539 Wolf Pl,3.5,3,Santa Clara,,19-Nov-13,"$845,000 ",37.350964,-121.994774,CA,Single-Family Home,845000,"$968,000 ",,,,,Sold,SANTA CLARA
+95051,819 Miles Ct,2,3,Santa Clara,"1,465 sqft",19-Nov-13,"$765,500 ",37.338768,-121.980034,CA,Single-Family Home,765500,"$945,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #359,1,1,Santa Clara,865 sqft,19-Nov-13,"$426,000 ",37.39643,-121.94343,CA,Condo,426000,"$471,000 ",,,,,Sold,SANTA CLARA
+95051,2527 Palmdale Ct,2,2,Santa Clara,"1,092 sqft",19-Nov-13,"$545,000 ",37.36755,-121.971306,CA,Condo,545000,"$587,000 ",,,,,Sold,SANTA CLARA
+95051,835 Bing Dr #24,2,2,Santa Clara,874 sqft,19-Nov-13,"$385,000 ",37.339096,-121.99282,CA,Condo,385000,"$454,000 ",,,,,Sold,SANTA CLARA
+95051,1101 Alta Mira Dr #33A,2,2,Santa Clara,"1,067 sqft",19-Nov-13,"$401,000 ",37.34646,-121.99381,CA,Condo,401000,"$500,000 ",,,,,Sold,SANTA CLARA
+95051,2580 Homestead Rd #5202,1,2,Santa Clara,984 sqft,19-Nov-13,"$310,000 ",37.33922,-121.97127,CA,Condo,310000,"$469,000 ",,,,,Sold,SANTA CLARA
+95050,546 Chapman Ct,1,3,Santa Clara,"1,170 sqft",19-Nov-13,"$650,000 ",37.343838,-121.93283,CA,Single-Family Home,650000,"$726,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #316,2,2,Santa Clara,"1,070 sqft",19-Nov-13,"$532,000 ",37.396374,-121.95891,CA,Condo,532000,"$579,000 ",,,,,Sold,SANTA CLARA
+95051,2944 Mauricia Ave,2,2,Santa Clara,954 sqft,18-Nov-13,"$591,000 ",37.32639,-121.97884,CA,Condo,591000,"$627,000 ",,,,,Sold,SANTA CLARA
+95054,2369 Gianera St,2.5,4,Santa Clara,"2,265 sqft",18-Nov-13,"$780,000 ",37.399693,-121.96855,CA,Single-Family Home,780000,"$984,000 ",,,,,Sold,SANTA CLARA
+95054,4386 Lakeshore Dr,2,3,Santa Clara,"1,532 sqft",15-Nov-13,"$605,000 ",37.394547,-121.96656,CA,Condo,605000,"$633,000 ",,,,,Sold,SANTA CLARA
+95050,414 Fernandez Ct,2,3,Santa Clara,"1,130 sqft",15-Nov-13,"$739,000 ",37.33087,-121.9611,CA,Single-Family Home,739000,"$737,000 ",,,,,Sold,SANTA CLARA
+95050,1578 Heatherdale Ave,1,3,Santa Clara,"1,092 sqft",15-Nov-13,"$599,500 ",37.337997,-121.9336,CA,Single-Family Home,599500,"$748,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95050,27 Brookside Ave,3,4,Santa Clara,"2,810 sqft",15-Nov-13,"$810,000 ",37.323997,-121.963745,CA,Single-Family Home,810000,"$1,187,000 ",,,,,Sold,SANTA CLARA
+95051,3023 Kaiser Dr #D,1.5,2,Santa Clara,"1,097 sqft",15-Nov-13,"$416,000 ",37.34317,-121.98248,CA,Condo,416000,"$474,000 ",,,,,Sold,SANTA CLARA
+95050,652 Robin Dr,2,3,Santa Clara,"1,366 sqft",15-Nov-13,"$670,000 ",37.339146,-121.96084,CA,Single-Family Home,670000,"$872,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #130,2,2,Santa Clara,913 sqft,15-Nov-13,"$430,000 ",37.360165,-121.964424,CA,Condo,430000,"$514,000 ",,,,,Sold,SANTA CLARA
+95054,4504 Billings Cir,2.5,2,Santa Clara,"1,464 sqft",15-Nov-13,"$705,000 ",37.401104,-121.95215,CA,Condo,705000,"$834,000 ",,,,,Sold,SANTA CLARA
+95054,4377 Laird Cir,3.5,3,Santa Clara,"1,657 sqft",14-Nov-13,"$950,000 ",37.400898,-121.94761,CA,Single-Family Home,950000,"$1,073,000 ",,,,,Sold,SANTA CLARA
+95054,1952 Eisenhower Dr,3,5,Santa Clara,"2,517 sqft",14-Nov-13,"$640,000 ",37.39937,-121.95968,CA,Single-Family Home,640000,"$849,000 ",,,,,Sold,SANTA CLARA
+95051,544 Flannery St,3,5,Santa Clara,"2,384 sqft",14-Nov-13,"$980,000 ",37.332115,-121.9831,CA,Single-Family Home,980000,"$1,099,000 ",,,,,Sold,SANTA CLARA
+95051,635 Wilson Ct,2,3,Santa Clara,"1,415 sqft",13-Nov-13,"$820,000 ",37.33472,-121.97116,CA,Single-Family Home,820000,"$822,000 ",,,,,Sold,SANTA CLARA
+95054,2115 Payne Pl,2.5,4,Santa Clara,"2,146 sqft",13-Nov-13,"$875,000 ",37.400036,-121.961784,CA,Single-Family Home,875000,"$1,105,000 ",,,,,Sold,SANTA CLARA
+95051,3377 Benton St,2.5,4,Santa Clara,"1,476 sqft",8-Nov-13,"$580,000 ",37.34628,-121.98872,CA,Condo,580000,"$645,000 ",,,,,Sold,SANTA CLARA
+95051,431 Rosemont Dr,1.5,3,Santa Clara,"1,056 sqft",8-Nov-13,"$960,000 ",37.33056,-121.99195,CA,Single-Family Home,960000,"$916,000 ",,,,,Sold,SANTA CLARA
+95050,1845 Palm View Pl #215,1,1,Santa Clara,760 sqft,8-Nov-13,"$383,000 ",37.356358,-121.95877,CA,Condo,383000,"$429,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #225,1,1,Santa Clara,599 sqft,8-Nov-13,"$307,000 ",37.326824,-121.97099,CA,Condo,307000,"$332,000 ",,,,,Sold,SANTA CLARA
+95050,2255 Ellena Dr,,,Santa Clara,"3,117 sqft",8-Nov-13,"$885,000 ",37.363667,-121.964424,CA,Multi-Family,885000,,,,,,Sold,SANTA CLARA
+95051,638 Woodhams Rd,2,4,Santa Clara,"1,777 sqft",8-Nov-13,"$610,000 ",37.333458,-121.98072,CA,Single-Family Home,610000,"$902,000 ",,,,,Sold,SANTA CLARA
+95051,1423 Blackfield Dr,2,3,Santa Clara,"1,312 sqft",8-Nov-13,"$700,000 ",37.35065,-121.968994,CA,Single-Family Home,700000,"$830,000 ",,,,,Sold,SANTA CLARA
+95051,2181 Calabazas Blvd,2,3,Santa Clara,"1,078 sqft",8-Nov-13,"$626,000 ",37.360497,-121.98504,CA,Single-Family Home,626000,"$721,000 ",,,,,Sold,SANTA CLARA
+95054,4465 Headen Way,2.5,3,Santa Clara,"1,716 sqft",8-Nov-13,"$769,000 ",37.399323,-121.95395,CA,Condo,769000,"$895,000 ",,,,,Sold,SANTA CLARA
+95051,1261 Foley Ave,1,3,Santa Clara,"1,000 sqft",8-Nov-13,"$750,000 ",37.348667,-121.973595,CA,Single-Family Home,750000,"$816,000 ",,,,,Sold,SANTA CLARA
+95050,1741 Hillebrant Pl,3.5,3,Santa Clara,"1,591 sqft",8-Nov-13,"$760,000 ",37.35391,-121.95743,CA,Condo,760000,"$826,000 ",,,,,Sold,SANTA CLARA
+95054,4546 Lakeshore Dr,2.5,4,Santa Clara,"1,850 sqft",8-Nov-13,"$685,000 ",37.396557,-121.96794,CA,Single-Family Home,685000,"$884,000 ",,,,,Sold,SANTA CLARA
+95051,2209 Brown Ave,2,3,Santa Clara,"1,034 sqft",8-Nov-13,"$635,500 ",37.362617,-121.97947,CA,Single-Family Home,635500,"$757,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #2006,2,2,Santa Clara,"1,062 sqft",7-Nov-13,"$410,000 ",37.35004,-121.97474,CA,Condo,410000,"$542,000 ",,,,,Sold,SANTA CLARA
+95051,843 Woodhams Oaks Pl,2.5,3,Santa Clara,"1,016 sqft",7-Nov-13,"$517,000 ",37.338352,-121.97971,CA,Condo,517000,"$648,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #454,2,3,Santa Clara,"1,361 sqft",7-Nov-13,"$608,000 ",37.39581,-121.95838,CA,Condo,608000,"$667,000 ",,,,,Sold,SANTA CLARA
+95054,2002 Garzoni Pl,3,4,Santa Clara,"2,077 sqft",6-Nov-13,"$872,000 ",37.397522,-121.959145,CA,Condo,872000,"$952,000 ",,,,,Sold,SANTA CLARA
+95054,4448 Headen Way,2.5,2,Santa Clara,"1,464 sqft",6-Nov-13,"$698,000 ",37.39892,-121.95429,CA,Condo,698000,"$812,000 ",,,,,Sold,SANTA CLARA
+95051,1313 Karmen Ct,2.5,3,Santa Clara,"1,743 sqft",6-Nov-13,"$747,000 ",37.349316,-121.99967,CA,Condo,747000,"$798,000 ",,,,,Sold,SANTA CLARA
+95051,2163 Amethyst Dr,2,4,Santa Clara,"1,095 sqft",5-Nov-13,"$650,000 ",37.36188,-121.976875,CA,Single-Family Home,650000,"$764,000 ",,,,,Sold,SANTA CLARA
+95051,1075 Alta Mira Dr #20A,2,2,Santa Clara,"1,067 sqft",5-Nov-13,"$400,000 ",37.34607,-121.99516,CA,Condo,400000,"$501,000 ",,,,,Sold,SANTA CLARA
+95051,3493 Flora Vista Ave,2,3,Santa Clara,"1,212 sqft",5-Nov-13,"$660,000 ",37.354546,-121.99293,CA,Single-Family Home,660000,"$755,000 ",,,,,Sold,SANTA CLARA
+95050,972 Blossom Dr,1,3,Santa Clara,"1,039 sqft",5-Nov-13,"$610,000 ",37.345207,-121.96224,CA,Single-Family Home,610000,"$722,000 ",,,,,Sold,SANTA CLARA
+95050,1341 Los Padres Blvd,2.5,3,Santa Clara,"1,697 sqft",5-Nov-13,"$790,000 ",37.349766,-121.96463,CA,Single-Family Home,790000,"$841,000 ",,,,,Sold,SANTA CLARA
+95051,3750 Miraverde Ct #135,2.5,2,Santa Clara,"1,228 sqft",5-Nov-13,"$485,000 ",37.35841,-122.00028,CA,Condo,485000,"$603,000 ",,,,,Sold,SANTA CLARA
+95051,3420 Notre Dame Dr,2,4,Santa Clara,"1,418 sqft",1-Nov-13,"$860,000 ",37.364452,-121.989914,CA,Single-Family Home,860000,"$890,000 ",,,,,Sold,SANTA CLARA
+95054,4364 Watson Cir,2.5,3,Santa Clara,"2,036 sqft",1-Nov-13,"$1,250,000 ",37.399715,-121.948906,CA,Single-Family Home,1250000,"$1,234,000 ",,,,,Sold,SANTA CLARA
+95051,2946 Mauricia Ave,2,3,Santa Clara,"1,211 sqft",1-Nov-13,"$690,000 ",37.326485,-121.97887,CA,Condo,690000,"$715,000 ",,,,,Sold,SANTA CLARA
+95050,2024 Gammell Brown Pl,2.5,4,Santa Clara,"1,902 sqft",1-Nov-13,"$808,000 ",37.361942,-121.96146,CA,Single-Family Home,808000,"$908,000 ",,,,,Sold,SANTA CLARA
+95054,855 Harrigan Dr,2.5,3,Santa Clara,"1,700 sqft",1-Nov-13,"$819,000 ",37.395176,-121.94821,CA,Condo,819000,"$866,000 ",,,,,Sold,SANTA CLARA
+95051,126 Arcadia Ave,2,4,Santa Clara,"1,568 sqft",1-Nov-13,"$1,130,000 ",37.325565,-121.987976,CA,Single-Family Home,1130000,"$1,106,000 ",,,,,Sold,SANTA CLARA
+95051,2660 Kentworth Way,2.5,3,Santa Clara,"1,369 sqft",31-Oct-13,"$575,000 ",37.367847,-121.97295,CA,Condo,575000,"$675,000 ",,,,,Sold,SANTA CLARA
+95051,2819 Barcells Ave,2,3,Santa Clara,"1,145 sqft",31-Oct-13,"$585,000 ",37.33656,-121.97732,CA,Single-Family Home,585000,"$765,000 ",,,,,Sold,SANTA CLARA
+95054,3679 Eastwood Cir,2,4,Santa Clara,"1,565 sqft",31-Oct-13,"$738,000 ",37.390682,-121.940315,CA,Single-Family Home,738000,"$811,000 ",,,,,Sold,SANTA CLARA
+95051,2601 Cortez Dr #3203,1,2,Santa Clara,712 sqft,31-Oct-13,"$380,000 ",37.369164,-121.974556,CA,Condo,380000,"$420,000 ",,,,,Sold,SANTA CLARA
+95051,2857 Sycamore Way,2.5,4,Santa Clara,"1,749 sqft",31-Oct-13,"$976,000 ",37.331043,-121.97851,CA,Single-Family Home,976000,"$1,167,000 ",,,,,Sold,SANTA CLARA
+95054,4412 Headen Way,2.5,3,Santa Clara,"1,716 sqft",31-Oct-13,"$780,000 ",37.398567,-121.95396,CA,Condo,780000,"$881,000 ",,,,,Sold,SANTA CLARA
+95050,668 Robin Dr,3.5,4,Santa Clara,"2,327 sqft",31-Oct-13,"$860,000 ",37.339577,-121.96105,CA,Single-Family Home,860000,"$1,041,000 ",,,,,Sold,SANTA CLARA
+95051,121 Serena Way,1,3,Santa Clara,"1,104 sqft",30-Oct-13,"$915,000 ",37.326225,-121.97381,CA,Single-Family Home,915000,"$1,005,000 ",,,,,Sold,SANTA CLARA
+95051,2679 Toledo Ave,2,3,Santa Clara,"1,254 sqft",30-Oct-13,"$740,000 ",37.33683,-121.97218,CA,Single-Family Home,740000,"$806,000 ",,,,,Sold,SANTA CLARA
+95051,3387 Forbes Ave,2,3,Santa Clara,"1,305 sqft",30-Oct-13,"$748,000 ",37.33542,-121.99017,CA,Single-Family Home,748000,"$1,011,000 ",,,,,Sold,SANTA CLARA
+95054,823 Laurie Ave,2,4,Santa Clara,"1,314 sqft",30-Oct-13,"$638,000 ",37.387432,-121.94854,CA,Single-Family Home,638000,"$722,000 ",,,,,Sold,SANTA CLARA
+95050,2030 Main St #6,1.5,2,Santa Clara,"1,000 sqft",29-Oct-13,"$270,000 ",37.358437,-121.95183,CA,Condo,270000,"$426,000 ",,,,,Sold,SANTA CLARA
+95050,1711 Main St,1,3,Santa Clara,"1,345 sqft",29-Oct-13,"$560,000 ",37.356087,-121.949196,CA,Single-Family Home,560000,"$664,000 ",,,,,Sold,SANTA CLARA
+95051,2984 Butte St,1,2,Santa Clara,857 sqft,29-Oct-13,"$650,000 ",37.350574,-121.98017,CA,Single-Family Home,650000,"$700,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #461,2,2,Santa Clara,"1,070 sqft",29-Oct-13,"$555,000 ",37.39592,-121.95794,CA,Condo,555000,"$579,000 ",,,,,Sold,SANTA CLARA
+95054,3835 Eastwood Cir,2,4,Santa Clara,"1,565 sqft",28-Oct-13,"$690,000 ",37.394436,-121.94086,CA,Single-Family Home,690000,"$794,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #213,2,2,Santa Clara,"1,148 sqft",28-Oct-13,"$560,000 ",37.39643,-121.94343,CA,Condo,560000,"$606,000 ",,,,,Sold,SANTA CLARA
+95050,1647 Lafayette St,1,2,Santa Clara,988 sqft,25-Oct-13,"$575,000 ",37.35636,-121.94623,CA,Single-Family Home,575000,"$705,000 ",,,,,Sold,SANTA CLARA
+95051,3605 Brach Way,2,2,Santa Clara,"1,524 sqft",25-Oct-13,"$632,000 ",37.349693,-121.9965,CA,Condo,632000,"$710,000 ",,,,,Sold,SANTA CLARA
+95051,3407 Snively Ave,2,3,Santa Clara,"1,166 sqft",25-Oct-13,"$780,000 ",37.351414,-121.98926,CA,Single-Family Home,780000,"$778,000 ",,,,,Sold,SANTA CLARA
+95054,1032 Garrity Way,2.5,3,Santa Clara,"3,044 sqft",25-Oct-13,"$1,470,000 ",37.397686,-121.95177,CA,Single-Family Home,1470000,"$1,461,000 ",,,,,Sold,SANTA CLARA
+95050,2269 Cabrillo Ave,2,3,Santa Clara,"1,181 sqft",25-Oct-13,"$601,000 ",37.358986,-121.9642,CA,Single-Family Home,601000,"$787,000 ",,,,,Sold,SANTA CLARA
+95050,184 Westridge Dr,1,2,Santa Clara,"1,132 sqft",25-Oct-13,"$1,061,000 ",37.325397,-121.95602,CA,Single-Family Home,1061000,"$916,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95050,1975 De La Pena Ave,1,2,Santa Clara,"1,019 sqft",25-Oct-13,"$625,000 ",37.34304,-121.958496,CA,Single-Family Home,625000,"$769,000 ",,,,,Sold,SANTA CLARA
+95051,1677 Calabazas Blvd,3,3,Santa Clara,"2,398 sqft",25-Oct-13,"$735,000 ",37.353783,-121.983536,CA,Single-Family Home,735000,"$943,000 ",,,,,Sold,SANTA CLARA
+95051,1243 Kiely Blvd,1,3,Santa Clara,900 sqft,25-Oct-13,"$680,000 ",37.348274,-121.977325,CA,Single-Family Home,680000,"$736,000 ",,,,,Sold,SANTA CLARA
+95051,968 Perreira Dr,2,3,Santa Clara,"1,733 sqft",24-Oct-13,"$780,000 ",37.343693,-121.98852,CA,Single-Family Home,780000,"$925,000 ",,,,,Sold,SANTA CLARA
+95050,736 Armanini Ave,1,2,Santa Clara,836 sqft,24-Oct-13,"$620,000 ",37.34096,-121.9627,CA,Single-Family Home,620000,"$728,000 ",,,,,Sold,SANTA CLARA
+95051,120 Saratoga Ave #115,2,2,Santa Clara,"1,137 sqft",24-Oct-13,"$385,000 ",37.32625,-121.968765,CA,Condo,385000,"$496,000 ",,,,,Sold,SANTA CLARA
+95051,1361 Las Palmas Dr,1,3,Santa Clara,"1,006 sqft",24-Oct-13,"$650,000 ",37.349987,-121.969864,CA,Single-Family Home,650000,"$803,000 ",,,,,Sold,SANTA CLARA
+95051,1720 Halford Ave #226,1,1,Santa Clara,678 sqft,23-Oct-13,"$280,500 ",37.355114,-121.998505,CA,Condo,280500,"$339,000 ",,,,,Sold,SANTA CLARA
+95051,2530 Warburton Ave,1,3,Santa Clara,"1,032 sqft",23-Oct-13,"$530,000 ",37.35564,-121.97132,CA,Single-Family Home,530000,"$687,000 ",,,,,Sold,SANTA CLARA
+95050,1442 Newhall St,2,4,Santa Clara,"1,452 sqft",23-Oct-13,"$711,000 ",37.3397,-121.932755,CA,Single-Family Home,711000,"$847,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95050,2250 Monroe St #336,1,1,Santa Clara,716 sqft,23-Oct-13,"$345,000 ",37.360424,-121.96444,CA,Condo,345000,"$390,000 ",,,,,Sold,SANTA CLARA
+95054,2393 Klune Ct,2,4,Santa Clara,"1,584 sqft",23-Oct-13,"$801,000 ",37.39731,-121.968254,CA,Single-Family Home,801000,"$872,000 ",,,,,Sold,SANTA CLARA
+95054,999 Leith Ave,2,3,Santa Clara,"1,097 sqft",23-Oct-13,"$680,000 ",37.388195,-121.95123,CA,Single-Family Home,680000,"$631,000 ",,,,,Sold,SANTA CLARA
+95050,1826 Fillmore St,2,3,Santa Clara,"1,206 sqft",23-Oct-13,"$639,000 ",37.3558,-121.953545,CA,Single-Family Home,639000,"$798,000 ",,,,,Sold,SANTA CLARA
+95051,3511 Shafer Dr,2,3,Santa Clara,"1,166 sqft",22-Oct-13,"$750,000 ",37.344486,-121.992516,CA,Single-Family Home,750000,"$802,000 ",,,,,Sold,SANTA CLARA
+95051,3573 Cabrillo Ave,2,3,Santa Clara,"1,240 sqft",22-Oct-13,"$780,500 ",37.360123,-121.99524,CA,Single-Family Home,780500,"$830,000 ",,,,,Sold,SANTA CLARA
+95051,2572 Knightsbridge Ln,2.5,3,Santa Clara,"1,369 sqft",22-Oct-13,"$550,000 ",37.36735,-121.97239,CA,Condo,550000,"$673,000 ",,,,,Sold,SANTA CLARA
+95051,1788 Andrea Pl,2,4,Santa Clara,"1,330 sqft",22-Oct-13,"$799,000 ",37.35554,-121.9791,CA,Single-Family Home,799000,"$848,000 ",,,,,Sold,SANTA CLARA
+95051,1083 Alta Mira Dr #24A,2,2,Santa Clara,"1,067 sqft",22-Oct-13,"$398,000 ",37.34645,-121.99472,CA,Condo,398000,"$502,000 ",,,,,Sold,SANTA CLARA
+95051,3317 Benton St,2.5,4,Santa Clara,"1,476 sqft",22-Oct-13,"$575,000 ",37.34543,-121.988434,CA,Condo,575000,"$663,000 ",,,,,Sold,SANTA CLARA
+95050,3248 Dorcich St,2,3,Santa Clara,"1,706 sqft",21-Oct-13,"$905,000 ",37.324757,-121.95433,CA,Single-Family Home,905000,"$965,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95050,2040 Main St #103,2.5,2,Santa Clara,"1,125 sqft",21-Oct-13,"$427,000 ",37.359062,-121.951416,CA,Condo,427000,"$541,000 ",,,,,Sold,SANTA CLARA
+95051,3525 Pruneridge Ave,1.5,3,Santa Clara,"1,025 sqft",21-Oct-13,"$715,000 ",37.331696,-121.99403,CA,Single-Family Home,715000,"$850,000 ",,,,,Sold,SANTA CLARA
+95051,93 Jenkins Pl,2,3,Santa Clara,"1,240 sqft",21-Oct-13,"$895,000 ",37.3248,-121.980736,CA,Single-Family Home,895000,"$989,000 ",,,,,Sold,SANTA CLARA
+95054,4229 Erie Ct,2,3,Santa Clara,"1,289 sqft",18-Oct-13,"$415,000 ",37.392757,-121.965775,CA,Condo,415000,"$569,000 ",,,,,Sold,SANTA CLARA
+95051,2804 Steinhart Ct,2,3,Santa Clara,"1,254 sqft",18-Oct-13,"$780,000 ",37.336014,-121.975395,CA,Single-Family Home,780000,"$791,000 ",,,,,Sold,SANTA CLARA
+95051,2328 Stanford Pl,2,4,Santa Clara,"1,874 sqft",18-Oct-13,"$701,000 ",37.364502,-121.98834,CA,Single-Family Home,701000,"$980,000 ",,,,,Sold,SANTA CLARA
+95050,1620 Clay St,2,3,Santa Clara,"1,338 sqft",18-Oct-13,"$495,000 ",37.351646,-121.95468,CA,Condo,495000,"$648,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #236,2,3,Santa Clara,"1,361 sqft",17-Oct-13,"$585,000 ",37.39611,-121.958336,CA,Condo,585000,"$670,000 ",,,,,Sold,SANTA CLARA
+95050,192 Harold Ave,2,4,Santa Clara,"1,350 sqft",16-Oct-13,"$781,000 ",37.32838,-121.96196,CA,Single-Family Home,781000,"$876,000 ",,,,,Sold,SANTA CLARA
+95054,1830 Garzoni Pl,3,4,Santa Clara,"1,930 sqft",16-Oct-13,"$835,000 ",37.398094,-121.95792,CA,Condo,835000,"$949,000 ",,,,,Sold,SANTA CLARA
+95054,1540 Avina Cir #1,3.5,3,Santa Clara,"1,853 sqft",16-Oct-13,"$745,000 ",37.396324,-121.95702,CA,Condo,745000,"$921,000 ",,,,,Sold,SANTA CLARA
+95051,1752 Townsend Ave,2,3,Santa Clara,"1,080 sqft",16-Oct-13,"$620,000 ",37.3556,-121.98589,CA,Single-Family Home,620000,"$721,000 ",,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #141,2,2,Santa Clara,983 sqft,16-Oct-13,"$382,000 ",37.354927,-121.99983,CA,Condo,382000,"$456,000 ",,,,,Sold,SANTA CLARA
+95050,1628 Berna St,1,3,Santa Clara,"1,021 sqft",16-Oct-13,"$650,000 ",37.353794,-121.9618,CA,Single-Family Home,650000,"$755,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #102,1,2,Santa Clara,853 sqft,16-Oct-13,"$373,000 ",37.36351,-121.96045,CA,Condo,373000,"$451,000 ",,,,,Sold,SANTA CLARA
+95050,1806 Park Vista Cir,2.5,3,Santa Clara,"1,670 sqft",16-Oct-13,"$690,000 ",37.35579,-121.95602,CA,Condo,690000,"$724,000 ",,,,,Sold,SANTA CLARA
+95051,633 Bucher Ave,2,3,Santa Clara,"1,166 sqft",15-Oct-13,"$600,000 ",37.335464,-121.96876,CA,Single-Family Home,600000,"$762,000 ",,,,,Sold,SANTA CLARA
+95051,3325 Brookdale Dr,3,4,Santa Clara,"2,430 sqft",15-Oct-13,"$1,215,000 ",37.3419,-121.988144,CA,Single-Family Home,1215000,"$1,248,000 ",,,,,Sold,SANTA CLARA
+95050,1253 Carmel Way,1,3,Santa Clara,"1,223 sqft",11-Oct-13,"$535,000 ",37.348534,-121.9558,CA,Single-Family Home,535000,"$757,000 ",,,,,Sold,SANTA CLARA
+95051,82 Claremont Ave,2,3,Santa Clara,"1,639 sqft",11-Oct-13,"$1,052,000 ",37.32441,-121.99187,CA,Single-Family Home,1052000,"$1,082,000 ",,,,,Sold,SANTA CLARA
+95054,924 Cole Pl,2.5,3,Santa Clara,"1,700 sqft",11-Oct-13,"$800,000 ",37.39592,-121.94924,CA,Condo,800000,"$868,000 ",,,,,Sold,SANTA CLARA
+95051,3835 Melody Ln,2,3,Santa Clara,"1,508 sqft",11-Oct-13,"$1,007,500 ",37.33393,-122.002556,CA,Single-Family Home,1007500,"$1,140,000 ",,,,,Sold,SANTA CLARA
+95050,2338 Fosgate Ave,1,3,Santa Clara,"1,035 sqft",11-Oct-13,"$620,000 ",37.3311,-121.95604,CA,Single-Family Home,620000,"$787,000 ",,,,,Sold,SANTA CLARA
+95054,2348 Sawyer Ct,2,3,Santa Clara,"1,341 sqft",11-Oct-13,"$715,000 ",37.395073,-121.965904,CA,Single-Family Home,715000,"$739,000 ",,,,,Sold,SANTA CLARA
+95051,1760 Halford Ave #277,2,2,Santa Clara,983 sqft,10-Oct-13,"$365,000 ",37.355522,-122.000336,CA,Condo,365000,"$451,000 ",,,,,Sold,SANTA CLARA
+95050,2457 Michele Jean Way,2.5,3,Santa Clara,"1,577 sqft",10-Oct-13,"$670,000 ",37.33516,-121.96599,CA,Condo,670000,"$769,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #246,2,2,Santa Clara,"1,192 sqft",10-Oct-13,"$545,000 ",37.39643,-121.94343,CA,Condo,545000,"$629,000 ",,,,,Sold,SANTA CLARA
+95051,3575 Lehigh Dr #9,2.5,3,Santa Clara,"1,779 sqft",9-Oct-13,"$708,000 ",37.335945,-121.99427,CA,Condo,708000,"$745,000 ",,,,,Sold,SANTA CLARA
+95054,1865 Hogan Dr,3,4,Santa Clara,"1,409 sqft",9-Oct-13,"$688,000 ",37.40283,-121.959206,CA,Single-Family Home,688000,"$768,000 ",,,,,Sold,SANTA CLARA
+95051,2874 Forbes Ave,2.5,4,Santa Clara,"1,810 sqft",8-Oct-13,"$900,000 ",37.33218,-121.97838,CA,Single-Family Home,900000,"$1,115,000 ",,,,,Sold,SANTA CLARA
+95051,3379 Soares Ct,3.5,4,Santa Clara,"2,633 sqft",8-Oct-13,"$983,000 ",37.344112,-121.98896,CA,Single-Family Home,983000,"$1,092,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #351,1,1,Santa Clara,716 sqft,8-Oct-13,"$345,000 ",37.36157,-121.96431,CA,Condo,345000,"$397,000 ",,,,,Sold,SANTA CLARA
+95050,1282 Normandy Way,,,Santa Clara,"1,838 sqft",8-Oct-13,"$763,000 ",37.338215,-121.94307,CA,Multi-Family,763000,"$838,000 ",,,,,Sold,SANTA CLARA
+95050,113 Cypress Ave,1.5,3,Santa Clara,"1,744 sqft",8-Oct-13,"$685,000 ",37.326614,-121.96018,CA,Single-Family Home,685000,"$912,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #340,1,1,Santa Clara,834 sqft,4-Oct-13,"$399,000 ",37.39643,-121.94343,CA,Condo,399000,"$478,000 ",,,,,Sold,SANTA CLARA
+95050,2380 Homestead Rd #3205,1,1,Santa Clara,820 sqft,4-Oct-13,"$370,000 ",37.341427,-121.96637,CA,Condo,370000,"$427,000 ",,,,,Sold,SANTA CLARA
+95054,3591 Lafayette St,,,Santa Clara,"3,456 sqft",4-Oct-13,"$884,750 ",37.3854,-121.95191,CA,Multi-Family,884750,,,,,,Sold,SANTA CLARA
+95050,1777 Lafayette St #207,1,1,Santa Clara,"1,425 sqft",4-Oct-13,"$550,000 ",37.357147,-121.94627,CA,Condo,550000,"$546,000 ",,,,,Sold,SANTA CLARA
+95051,3575 Lehigh Dr #20,2.5,3,Santa Clara,"1,779 sqft",4-Oct-13,"$676,000 ",37.33568,-121.994484,CA,Condo,676000,"$759,000 ",,,,,Sold,SANTA CLARA
+95054,4042 Davis St,,,Santa Clara,"3,737 sqft",3-Oct-13,"$950,000 ",37.39122,-121.958626,CA,Multi-Family,950000,"$1,002,000 ",,,,,Sold,SANTA CLARA
+95051,1760 Halford Ave #371,1,1,Santa Clara,678 sqft,3-Oct-13,"$270,000 ",37.355816,-122.00034,CA,Condo,270000,"$353,000 ",,,,,Sold,SANTA CLARA
+95050,2380 Homestead Rd #2101,2,3,Santa Clara,"1,630 sqft",3-Oct-13,"$672,000 ",37.34138,-121.9661,CA,Condo,672000,"$733,000 ",,,,,Sold,SANTA CLARA
+95054,4198 Tobin Cir,3,3,Santa Clara,"1,590 sqft",3-Oct-13,"$875,000 ",37.3964,-121.95162,CA,Single-Family Home,875000,"$1,053,000 ",,,,,Sold,SANTA CLARA
+95051,1092 Waterbird Way,2,4,Santa Clara,"1,480 sqft",3-Oct-13,"$1,155,000 ",37.346592,-121.99901,CA,Single-Family Home,1155000,"$1,112,000 ",,,,,Sold,SANTA CLARA
+95050,2453 Forbes Ave,2,3,Santa Clara,"1,340 sqft",3-Oct-13,"$735,000 ",37.33607,-121.9654,CA,Single-Family Home,735000,"$783,000 ",,,,,Sold,SANTA CLARA
+95050,1465 Isabella St,2.5,3,Santa Clara,"1,464 sqft",3-Oct-13,"$705,000 ",37.351204,-121.95499,CA,Condo,705000,"$782,000 ",,,,,Sold,SANTA CLARA
+95050,2155 Rancho Mccormick Blvd,1.5,2,Santa Clara,"1,256 sqft",3-Oct-13,"$530,000 ",37.360218,-121.962,CA,Condo,530000,"$575,000 ",,,,,Sold,SANTA CLARA
+95050,842 Sunlite Dr,2,3,Santa Clara,"1,642 sqft",2-Oct-13,"$755,000 ",37.3436,-121.96132,CA,Single-Family Home,755000,"$911,000 ",,,,,Sold,SANTA CLARA
+95051,3097 Pruneridge Ave,2.5,4,Santa Clara,"1,935 sqft",2-Oct-13,"$951,000 ",37.33055,-121.98438,CA,Single-Family Home,951000,"$1,223,000 ",,,,,Sold,SANTA CLARA
+95051,948 Kiely Blvd #F,2,2,Santa Clara,956 sqft,2-Oct-13,"$383,000 ",37.342697,-121.979935,CA,Condo,383000,"$438,000 ",,,,,Sold,SANTA CLARA
+95051,3725 Terstena Pl #143,1,1,Santa Clara,727 sqft,1-Oct-13,"$390,000 ",37.358444,-121.99948,CA,Condo,390000,"$407,000 ",,,,,Sold,SANTA CLARA
+95050,2389 Glendenning Ave,1.5,3,Santa Clara,"1,131 sqft",1-Oct-13,"$730,000 ",37.330837,-121.95963,CA,Single-Family Home,730000,"$816,000 ",,,,,Sold,SANTA CLARA
+95054,4173 Marston Ln,2.5,3,Santa Clara,"1,754 sqft",1-Oct-13,"$1,030,000 ",37.397747,-121.948524,CA,Single-Family Home,1030000,"$1,093,000 ",,,,,Sold,SANTA CLARA
+95050,2496 Golf Links Cir,2.5,3,Santa Clara,"2,088 sqft",1-Oct-13,"$750,000 ",37.332474,-121.96473,CA,Condo,750000,"$880,000 ",,,,,Sold,SANTA CLARA
+95051,3551 Mauricia Ave,1.5,3,Santa Clara,"1,064 sqft",30-Sep-13,"$881,500 ",37.327198,-121.99438,CA,Single-Family Home,881500,"$918,000 ",,,,,Sold,SANTA CLARA
+95051,3029 Kaiser Dr #A,1.5,2,Santa Clara,"1,097 sqft",27-Sep-13,"$389,500 ",37.343517,-121.98302,CA,Condo,389500,"$474,000 ",,,,,Sold,SANTA CLARA
+95051,3728 Europe Ct,2.5,2,Santa Clara,"1,803 sqft",27-Sep-13,"$748,000 ",37.348976,-121.99828,CA,Condo,748000,"$789,000 ",,,,,Sold,SANTA CLARA
+95054,4751 Lakeshore Dr,2.5,4,Santa Clara,"1,922 sqft",27-Sep-13,"$805,000 ",37.39935,-121.96692,CA,Single-Family Home,805000,"$915,000 ",,,,,Sold,SANTA CLARA
+95051,952 Kiely Blvd #H,2,2,Santa Clara,956 sqft,27-Sep-13,"$405,000 ",37.342674,-121.98043,CA,Condo,405000,"$468,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #220,1,1,Santa Clara,816 sqft,27-Sep-13,"$340,000 ",37.392227,-121.96391,CA,Condo,340000,"$387,000 ",,,,,Sold,SANTA CLARA
+95051,3444 Notre Dame Dr,2,3,Santa Clara,"1,569 sqft",27-Sep-13,"$825,000 ",37.364445,-121.990944,CA,Single-Family Home,825000,"$967,000 ",,,,,Sold,SANTA CLARA
+95050,470 N Winchester Blvd #204,2.5,2,Santa Clara,"1,254 sqft",27-Sep-13,"$445,000 ",37.33933,-121.95124,CA,Condo,445000,"$547,000 ",,,,,Sold,SANTA CLARA
+95050,2169 Benton St,1,3,Santa Clara,"1,025 sqft",27-Sep-13,"$570,000 ",37.346535,-121.961555,CA,Single-Family Home,570000,"$713,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #149,2,2,Santa Clara,913 sqft,27-Sep-13,"$425,000 ",37.36152,-121.964355,CA,Condo,425000,"$518,000 ",,,,,Sold,SANTA CLARA
+95050,985 Sunset Dr,1,3,Santa Clara,"1,039 sqft",27-Sep-13,"$725,000 ",37.345207,-121.96263,CA,Single-Family Home,725000,"$784,000 ",,,,,Sold,SANTA CLARA
+95050,476 N Winchester Blvd #106,2,3,Santa Clara,"1,387 sqft",27-Sep-13,"$500,000 ",37.3402,-121.95123,CA,Condo,500000,"$579,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #269,1,1,Santa Clara,770 sqft,26-Sep-13,"$297,500 ",37.32708,-121.971214,CA,Condo,297500,"$345,000 ",,,,,Sold,SANTA CLARA
+95051,651 Wilson Ct,2,3,Santa Clara,"1,707 sqft",26-Sep-13,"$765,000 ",37.335133,-121.971405,CA,Single-Family Home,765000,"$889,000 ",,,,,Sold,SANTA CLARA
+95051,3434 Flora Vista Ave,1,3,Santa Clara,"1,626 sqft",26-Sep-13,"$750,000 ",37.357063,-121.99072,CA,Single-Family Home,750000,"$825,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #1209,2,2,Santa Clara,"1,062 sqft",26-Sep-13,"$435,000 ",37.35004,-121.97474,CA,Condo,435000,"$541,000 ",,,,,Sold,SANTA CLARA
+95054,4530 Laird Cir,2.5,3,Santa Clara,"1,700 sqft",26-Sep-13,"$830,000 ",37.401672,-121.95024,CA,Condo,830000,"$844,000 ",,,,,Sold,SANTA CLARA
+95051,2868 Chromite Dr,2,3,Santa Clara,"1,034 sqft",25-Sep-13,"$599,000 ",37.366238,-121.978645,CA,Single-Family Home,599000,"$743,000 ",,,,,Sold,SANTA CLARA
+95051,3018 El Sobrante St,1,2,Santa Clara,896 sqft,25-Sep-13,"$667,000 ",37.34887,-121.98099,CA,Single-Family Home,667000,"$747,000 ",,,,,Sold,SANTA CLARA
+95054,2181 Kingsbury Cir,2.5,3,Santa Clara,"1,400 sqft",24-Sep-13,"$698,000 ",37.39739,-121.96231,CA,Single-Family Home,698000,"$768,000 ",,,,,Sold,SANTA CLARA
+95054,834 E River Pkwy,3.5,4,Santa Clara,"3,395 sqft",24-Sep-13,"$1,590,000 ",37.398533,-121.94942,CA,Single-Family Home,1590000,"$1,725,000 ",,,,,Sold,SANTA CLARA
+95051,1042 Waterbird Way,2,4,Santa Clara,"1,568 sqft",24-Sep-13,"$1,125,000 ",37.345715,-121.99901,CA,Single-Family Home,1125000,"$1,227,000 ",,,,,Sold,SANTA CLARA
+95050,262 N Harold Ave,2,3,Santa Clara,"1,141 sqft",24-Sep-13,"$650,000 ",37.329536,-121.96179,CA,Single-Family Home,650000,"$821,000 ",,,,,Sold,SANTA CLARA
+95050,2365 Cabrillo Ave,2,3,Santa Clara,"1,529 sqft",24-Sep-13,"$780,000 ",37.359272,-121.96694,CA,Single-Family Home,780000,"$832,000 ",,,,,Sold,SANTA CLARA
+95050,2335 Fatjo Pl,1,3,Santa Clara,"1,021 sqft",24-Sep-13,"$620,000 ",37.355347,-121.965866,CA,Single-Family Home,620000,"$742,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #211,2,2,Santa Clara,"1,192 sqft",23-Sep-13,"$560,000 ",37.39643,-121.94343,CA,Condo,560000,"$635,000 ",,,,,Sold,SANTA CLARA
+95051,1089 Alta Mira Dr #27B,2,2,Santa Clara,"1,012 sqft",20-Sep-13,"$398,000 ",37.346455,-121.99443,CA,Condo,398000,"$508,000 ",,,,,Sold,SANTA CLARA
+95050,1777 Lafayette St #110,1,1,Santa Clara,"1,600 sqft",20-Sep-13,"$525,000 ",37.357147,-121.94627,CA,Condo,525000,"$572,000 ",,,,,Sold,SANTA CLARA
+95051,3023 Kaiser Dr #L,1.5,2,Santa Clara,"1,097 sqft",20-Sep-13,"$385,000 ",37.343105,-121.98203,CA,Condo,385000,"$466,000 ",,,,,Sold,SANTA CLARA
+95051,2668 Warburton Ave,2,3,Santa Clara,"1,192 sqft",20-Sep-13,"$731,000 ",37.355576,-121.97467,CA,Single-Family Home,731000,"$784,000 ",,,,,Sold,SANTA CLARA
+95051,2148 Francis Ave,2,3,Santa Clara,"1,078 sqft",20-Sep-13,"$620,000 ",37.360943,-121.98012,CA,Single-Family Home,620000,"$693,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #153,1,1,Santa Clara,900 sqft,19-Sep-13,"$418,000 ",37.39643,-121.94343,CA,Condo,418000,"$496,000 ",,,,,Sold,SANTA CLARA
+95050,2454 Michele Jean Way,2.5,3,Santa Clara,"1,577 sqft",19-Sep-13,"$649,000 ",37.33498,-121.96574,CA,Condo,649000,"$750,000 ",,,,,Sold,SANTA CLARA
+95050,2012 Stanley Ave,2,3,Santa Clara,"1,048 sqft",19-Sep-13,"$665,000 ",37.338734,-121.95551,CA,Single-Family Home,665000,"$756,000 ",,,,,Sold,SANTA CLARA
+95051,3371 Tracy Dr,2,3,Santa Clara,"1,420 sqft",18-Sep-13,"$1,020,000 ",37.329655,-121.99105,CA,Single-Family Home,1020000,"$1,048,000 ",,,,,Sold,SANTA CLARA
+95050,1817 Clifford St,1,2,Santa Clara,"1,046 sqft",18-Sep-13,"$630,000 ",37.35084,-121.956604,CA,Single-Family Home,630000,"$729,000 ",,,,,Sold,SANTA CLARA
+95051,2579 Borax Dr,1,3,Santa Clara,897 sqft,17-Sep-13,"$412,000 ",37.36859,-121.98587,CA,Single-Family Home,412000,"$621,000 ",,,,,Sold,SANTA CLARA
+95050,1793 Catherine St,,,Santa Clara,"1,802 sqft",17-Sep-13,"$720,000 ",37.35034,-121.95556,CA,Multi-Family,720000,"$758,000 ",,,,,Sold,SANTA CLARA
+95050,2477 Michele Jean Way,2,2,Santa Clara,"1,433 sqft",17-Sep-13,"$555,000 ",37.334805,-121.96677,CA,Condo,555000,"$660,000 ",,,,,Sold,SANTA CLARA
+95050,2428 Golf Links Cir,2.5,3,Santa Clara,"2,088 sqft",17-Sep-13,"$787,500 ",37.33269,-121.964264,CA,Condo,787500,"$866,000 ",,,,,Sold,SANTA CLARA
+95051,2837 El Sobrante St,1,2,Santa Clara,871 sqft,17-Sep-13,"$569,000 ",37.349365,-121.97831,CA,Single-Family Home,569000,"$729,000 ",,,,,Sold,SANTA CLARA
+95051,130 Arcadia Ave,2,4,Santa Clara,"1,640 sqft",17-Sep-13,"$1,100,000 ",37.32573,-121.987976,CA,Single-Family Home,1100000,"$1,125,000 ",,,,,Sold,SANTA CLARA
+95054,1651 Shore Pl #1,3,3,Santa Clara,"1,910 sqft",16-Sep-13,"$780,000 ",37.39692,-121.95712,CA,Condo,780000,"$963,000 ",,,,,Sold,SANTA CLARA
+95054,1930 Garzoni Pl,2.5,3,Santa Clara,"1,646 sqft",13-Sep-13,"$755,000 ",37.39761,-121.958405,CA,Condo,755000,"$836,000 ",,,,,Sold,SANTA CLARA
+95051,3007 Kaiser Dr #B,1.5,2,Santa Clara,"1,097 sqft",13-Sep-13,"$410,000 ",37.34219,-121.98188,CA,Condo,410000,"$469,000 ",,,,,Sold,SANTA CLARA
+95050,2032 Holly Branch Ct,1.5,2,Santa Clara,"1,256 sqft",13-Sep-13,"$525,000 ",37.359386,-121.96473,CA,Condo,525000,"$575,000 ",,,,,Sold,SANTA CLARA
+95050,1745 Hillebrant Pl,2.5,2,Santa Clara,"1,435 sqft",13-Sep-13,"$620,000 ",37.354023,-121.95743,CA,Condo,620000,"$793,000 ",,,,,Sold,SANTA CLARA
+95054,4313 Marston Ln,2.5,3,Santa Clara,"1,671 sqft",13-Sep-13,"$970,000 ",37.39874,-121.950226,CA,Single-Family Home,970000,"$1,098,000 ",,,,,Sold,SANTA CLARA
+95051,623 Hudson Dr,2,4,Santa Clara,"1,350 sqft",13-Sep-13,"$1,085,000 ",37.33254,-121.99951,CA,Single-Family Home,1085000,"$1,101,000 ",,,,,Sold,SANTA CLARA
+95050,2001 Stanley Ave,1.5,3,Santa Clara,"1,448 sqft",13-Sep-13,"$730,000 ",37.33931,-121.955376,CA,Single-Family Home,730000,"$924,000 ",,,,,Sold,SANTA CLARA
+95050,2370 Galway Ct,,,Santa Clara,"3,117 sqft",13-Sep-13,"$925,000 ",37.3643,-121.96404,CA,Multi-Family,925000,,,,,,Sold,SANTA CLARA
+95051,633 Hickory Pl,2,3,Santa Clara,"1,812 sqft",13-Sep-13,"$945,500 ",37.333138,-121.98522,CA,Single-Family Home,945500,"$973,000 ",,,,,Sold,SANTA CLARA
+95051,3039 Kaiser Dr #D,1.5,2,Santa Clara,992 sqft,13-Sep-13,"$388,000 ",37.343426,-121.982025,CA,Condo,388000,"$458,000 ",,,,,Sold,SANTA CLARA
+95050,2535 Armstrong Pl,2.5,4,Santa Clara,"2,171 sqft",12-Sep-13,"$870,000 ",37.340363,-121.96911,CA,Single-Family Home,870000,"$957,000 ",,,,,Sold,SANTA CLARA
+95050,2080 Benton St,1,3,Santa Clara,"1,109 sqft",11-Sep-13,"$660,000 ",37.346004,-121.96033,CA,Single-Family Home,660000,"$754,000 ",,,,,Sold,SANTA CLARA
+95051,2258 Manhattan Pl,2,3,Santa Clara,"1,034 sqft",11-Sep-13,"$580,000 ",37.363804,-121.979,CA,Single-Family Home,580000,"$760,000 ",,,,,Sold,SANTA CLARA
+95051,2584 Knightsbridge Ln,1.5,2,Santa Clara,"1,197 sqft",11-Sep-13,"$520,000 ",37.366993,-121.97272,CA,Condo,520000,"$593,000 ",,,,,Sold,SANTA CLARA
+95051,2540 Wickham Pl,1,2,Santa Clara,904 sqft,11-Sep-13,"$510,000 ",37.366608,-121.972534,CA,Condo,510000,"$544,000 ",,,,,Sold,SANTA CLARA
+95050,962 Maryann Dr,1.5,4,Santa Clara,"1,498 sqft",11-Sep-13,"$595,000 ",37.344658,-121.96812,CA,Single-Family Home,595000,"$828,000 ",,,,,Sold,SANTA CLARA
+95050,1674 Roll St,1,3,Santa Clara,"1,021 sqft",10-Sep-13,"$685,000 ",37.35434,-121.96345,CA,Single-Family Home,685000,"$774,000 ",,,,,Sold,SANTA CLARA
+95050,458 Maria St,1,2,Santa Clara,827 sqft,10-Sep-13,"$610,000 ",37.340305,-121.95268,CA,Single-Family Home,610000,"$709,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #320,2,2,Santa Clara,"1,148 sqft",10-Sep-13,"$580,000 ",37.39643,-121.94343,CA,Condo,580000,"$606,000 ",,,,,Sold,SANTA CLARA
+95051,980 Teal Dr,2,3,Santa Clara,"1,792 sqft",10-Sep-13,"$1,000,000 ",37.343746,-122.00279,CA,Single-Family Home,1000000,"$1,124,000 ",,Birdland Neighbors,,,Sold,SANTA CLARA
+95051,2525 Royalridge Way,1.5,2,Santa Clara,"1,197 sqft",10-Sep-13,"$531,500 ",37.36644,-121.97182,CA,Condo,531500,"$689,000 ",,,,,Sold,SANTA CLARA
+95051,2747 Forbes Ave,2,3,Santa Clara,"1,145 sqft",10-Sep-13,"$770,000 ",37.333435,-121.97265,CA,Single-Family Home,770000,"$910,000 ",,,,,Sold,SANTA CLARA
+95050,1235 Benton St,1,2,Santa Clara,840 sqft,10-Sep-13,"$504,000 ",37.349876,-121.94795,CA,Single-Family Home,504000,"$503,000 ",,,,,Sold,SANTA CLARA
+95054,3735 Pinewood Pl,2,3,Santa Clara,"1,312 sqft",10-Sep-13,"$457,000 ",37.39095,-121.9434,CA,Single-Family Home,457000,"$729,000 ",,,,,Sold,SANTA CLARA
+95051,1049 Wood Duck Ave,3,3,Santa Clara,"1,664 sqft",10-Sep-13,"$695,000 ",37.344646,-121.99638,CA,Condo,695000,"$815,000 ",,,,,Sold,SANTA CLARA
+95050,755 Enright Ave,1,3,Santa Clara,980 sqft,10-Sep-13,"$650,000 ",37.342403,-121.95996,CA,Single-Family Home,650000,"$798,000 ",,,,,Sold,SANTA CLARA
+95050,1963 Bohannon Dr,1,3,Santa Clara,"1,075 sqft",6-Sep-13,"$730,000 ",37.33869,-121.95349,CA,Single-Family Home,730000,"$771,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #293,1,1,Santa Clara,716 sqft,6-Sep-13,"$334,000 ",37.36128,-121.96401,CA,Condo,334000,"$396,000 ",,,,,Sold,SANTA CLARA
+95050,1143 Inverness Ave,1,3,Santa Clara,"1,368 sqft",6-Sep-13,"$745,000 ",37.34706,-121.956955,CA,Single-Family Home,745000,"$767,000 ",,,,,Sold,SANTA CLARA
+95054,5086 Plaza Corona,1.5,2,Santa Clara,"1,080 sqft",6-Sep-13,"$365,000 ",37.407345,-121.963066,CA,Condo,365000,"$458,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #235,2,2,Santa Clara,"1,148 sqft",6-Sep-13,"$550,000 ",37.39643,-121.94343,CA,Condo,550000,"$606,000 ",,,,,Sold,SANTA CLARA
+95050,1149 Scott Blvd,1,3,Santa Clara,"1,285 sqft",6-Sep-13,"$741,000 ",37.346695,-121.95904,CA,Single-Family Home,741000,"$765,000 ",,,,,Sold,SANTA CLARA
+95051,3201 Pruneridge Ave,2,4,Santa Clara,"1,760 sqft",6-Sep-13,"$822,000 ",37.330727,-121.986275,CA,Single-Family Home,822000,"$1,152,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #202,1,2,Santa Clara,853 sqft,6-Sep-13,"$380,000 ",37.363453,-121.96063,CA,Condo,380000,"$450,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #343,1,1,Santa Clara,908 sqft,6-Sep-13,"$445,000 ",37.39643,-121.94343,CA,Condo,445000,"$498,000 ",,,,,Sold,SANTA CLARA
+95051,682 Flannery St,2,4,Santa Clara,"1,127 sqft",5-Sep-13,"$690,000 ",37.33496,-121.98205,CA,Single-Family Home,690000,"$752,000 ",,,,,Sold,SANTA CLARA
+95051,705 Giannini Dr,2,3,Santa Clara,"1,233 sqft",5-Sep-13,"$801,000 ",37.33397,-121.999504,CA,Single-Family Home,801000,"$1,040,000 ",,,,,Sold,SANTA CLARA
+95050,235 Monroe St,1,3,Santa Clara,"1,068 sqft",4-Sep-13,"$592,000 ",37.34182,-121.94392,CA,Single-Family Home,592000,"$626,000 ",,,,,Sold,SANTA CLARA
+95051,2643 Elliot St,2,3,Santa Clara,"1,207 sqft",4-Sep-13,"$657,000 ",37.36219,-121.973885,CA,Single-Family Home,657000,"$782,000 ",,,,,Sold,SANTA CLARA
+95054,1680 Shore Pl #6,3.5,3,Santa Clara,"1,860 sqft",3-Sep-13,"$754,000 ",37.39661,-121.95709,CA,Condo,754000,"$949,000 ",,,,,Sold,SANTA CLARA
+95050,2420 Ruth Cabral Way,2.5,2,Santa Clara,"1,555 sqft",3-Sep-13,"$580,000 ",37.341576,-121.9674,CA,Condo,580000,"$650,000 ",,,,,Sold,SANTA CLARA
+95050,977 Warburton Ave #302,2,2,Santa Clara,876 sqft,30-Aug-13,"$380,000 ",37.35833,-121.948555,CA,Condo,380000,"$471,000 ",,,,,Sold,SANTA CLARA
+95050,2271 Bohannon Dr,1,3,Santa Clara,"1,075 sqft",30-Aug-13,"$710,000 ",37.334427,-121.95769,CA,Single-Family Home,710000,"$794,000 ",,,,,Sold,SANTA CLARA
+95050,181 Kerry Dr,2,3,Santa Clara,"1,234 sqft",30-Aug-13,"$826,000 ",37.328075,-121.957085,CA,Single-Family Home,826000,"$849,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95051,957 Las Palmas Dr,2,3,Santa Clara,"1,166 sqft",30-Aug-13,"$625,000 ",37.34248,-121.971214,CA,Single-Family Home,625000,"$780,000 ",,,,,Sold,SANTA CLARA
+95054,736 Baird Ave,2,3,Santa Clara,"1,260 sqft",30-Aug-13,"$635,000 ",37.391243,-121.9487,CA,Single-Family Home,635000,"$747,000 ",,,,,Sold,SANTA CLARA
+95051,2464 Fairview Ln,1.5,3,Santa Clara,"1,311 sqft",30-Aug-13,"$565,000 ",37.36581,-121.970085,CA,Condo,565000,"$627,000 ",,,,,Sold,SANTA CLARA
+95051,3256 San Juan Ave,2,3,Santa Clara,"1,095 sqft",30-Aug-13,"$450,000 ",37.36279,-121.98589,CA,Single-Family Home,450000,"$686,000 ",,,,,Sold,SANTA CLARA
+95051,2973 Howell Ave,2,3,Santa Clara,"1,833 sqft",30-Aug-13,"$850,000 ",37.33689,-121.98275,CA,Single-Family Home,850000,"$1,090,000 ",,,,,Sold,SANTA CLARA
+95051,1342 White Dr,,,Santa Clara,"1,916 sqft",30-Aug-13,"$775,000 ",37.349976,-121.972946,CA,Multi-Family,775000,"$857,000 ",,,,,Sold,SANTA CLARA
+95051,189 Arcadia Ave,2.5,4,Santa Clara,"2,144 sqft",30-Aug-13,"$1,100,000 ",37.32724,-121.987404,CA,Single-Family Home,1100000,"$1,258,000 ",,,,,Sold,SANTA CLARA
+95050,1754 Berna St,1,3,Santa Clara,"1,021 sqft",30-Aug-13,"$621,000 ",37.35507,-121.9618,CA,Single-Family Home,621000,"$746,000 ",,,,,Sold,SANTA CLARA
+95050,842 Madison St,1,2,Santa Clara,"1,326 sqft",30-Aug-13,"$670,000 ",37.34654,-121.94878,CA,Single-Family Home,670000,"$762,000 ",,,,,Sold,SANTA CLARA
+95050,1546 Shady Glen Ave,1,3,Santa Clara,"1,092 sqft",30-Aug-13,"$930,000 ",37.33905,-121.93346,CA,Single-Family Home,930000,"$837,000 ",,,,,Sold,SANTA CLARA
+95054,787 Baird Ave,2,4,Santa Clara,"1,475 sqft",30-Aug-13,"$690,000 ",37.390507,-121.94896,CA,Single-Family Home,690000,"$753,000 ",,,,,Sold,SANTA CLARA
+95051,3715 Terstena Pl #304,2,2,Santa Clara,"1,456 sqft",30-Aug-13,"$547,000 ",37.35832,-121.998856,CA,Condo,547000,"$586,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #259,2,2,Santa Clara,"1,070 sqft",30-Aug-13,"$557,000 ",37.39572,-121.957886,CA,Condo,557000,"$601,000 ",,,,,Sold,SANTA CLARA
+95051,656 Pomeroy Ave,2,3,Santa Clara,"1,772 sqft",30-Aug-13,"$808,000 ",37.333828,-121.98904,CA,Single-Family Home,808000,"$1,042,000 ",,,,,Sold,SANTA CLARA
+95051,2978 Howell Ave,2,3,Santa Clara,"1,374 sqft",29-Aug-13,"$860,000 ",37.33647,-121.98296,CA,Single-Family Home,860000,"$977,000 ",,,,,Sold,SANTA CLARA
+95050,865 Harrison St,1,3,Santa Clara,"1,024 sqft",29-Aug-13,"$602,000 ",37.353497,-121.94456,CA,Single-Family Home,602000,"$666,000 ",,,,,Sold,SANTA CLARA
+95051,121 Buckingham Dr #30,2,2,Santa Clara,950 sqft,29-Aug-13,"$360,000 ",37.326168,-121.97127,CA,Condo,360000,"$469,000 ",,,,,Sold,SANTA CLARA
+95051,2619 Moraine Dr,1,3,Santa Clara,897 sqft,28-Aug-13,"$525,000 ",37.369377,-121.98115,CA,Single-Family Home,525000,"$621,000 ",,,,,Sold,SANTA CLARA
+95054,3577 Dinny St,2,4,Santa Clara,"1,244 sqft",28-Aug-13,"$605,000 ",37.385773,-121.95022,CA,Single-Family Home,605000,"$687,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #1601,1,1,Santa Clara,825 sqft,28-Aug-13,"$356,000 ",37.35004,-121.97474,CA,Condo,356000,"$428,000 ",,,,,Sold,SANTA CLARA
+95054,2373 Klune Ct,2,3,Santa Clara,"1,140 sqft",28-Aug-13,"$675,000 ",37.397526,-121.96783,CA,Single-Family Home,675000,"$675,000 ",,,,,Sold,SANTA CLARA
+95051,982 Kiely Blvd #F,1,1,Santa Clara,440 sqft,28-Aug-13,"$230,000 ",37.343567,-121.97887,CA,Condo,230000,"$291,000 ",,,,,Sold,SANTA CLARA
+95054,1946 Garzoni Pl,2.5,3,Santa Clara,"1,458 sqft",28-Aug-13,"$728,000 ",37.39768,-121.95871,CA,Condo,728000,"$828,000 ",,,,,Sold,SANTA CLARA
+95050,1690 Civic Center Dr #607,2.5,2,Santa Clara,"1,161 sqft",28-Aug-13,"$510,000 ",37.354515,-121.95825,CA,Condo,510000,"$581,000 ",,,,,Sold,SANTA CLARA
+95051,1075 Pomeroy Ave,2.5,3,Santa Clara,"2,123 sqft",27-Aug-13,"$900,000 ",37.345707,-121.98667,CA,Single-Family Home,900000,"$1,040,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #1402,1,2,Santa Clara,853 sqft,27-Aug-13,"$402,000 ",37.36277,-121.96003,CA,Condo,402000,"$451,000 ",,,,,Sold,SANTA CLARA
+95054,2165 Agnew Rd,2.5,3,Santa Clara,"1,244 sqft",27-Aug-13,"$699,000 ",37.393456,-121.96263,CA,Condo,699000,"$750,000 ",,,,,Sold,SANTA CLARA
+95051,496 Norwood Cir,2.5,4,Santa Clara,"2,104 sqft",27-Aug-13,"$1,128,000 ",37.33093,-121.996544,CA,Single-Family Home,1128000,"$1,299,000 ",,,,,Sold,SANTA CLARA
+95051,3715 Terstena Pl #301,2,2,Santa Clara,"1,360 sqft",27-Aug-13,"$475,000 ",37.357956,-121.998825,CA,Condo,475000,"$591,000 ",,,,,Sold,SANTA CLARA
+95051,3398 Vanderbilt Way,2,4,Santa Clara,"1,498 sqft",27-Aug-13,"$880,000 ",37.335705,-121.99058,CA,Single-Family Home,880000,"$1,082,000 ",,,,,Sold,SANTA CLARA
+95054,2305 Falling Water Ct,2.5,3,Santa Clara,"1,400 sqft",27-Aug-13,"$575,000 ",37.393013,-121.96505,CA,Condo,575000,"$607,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #278,2,2,Santa Clara,"1,028 sqft",26-Aug-13,"$438,000 ",37.32706,-121.97085,CA,Condo,438000,"$492,000 ",,,,,Sold,SANTA CLARA
+95051,3572 Sunnydays Ln,2.5,3,Santa Clara,"2,128 sqft",23-Aug-13,"$810,000 ",37.3558,-121.99494,CA,Condo,810000,"$870,000 ",,,,,Sold,SANTA CLARA
+95050,1296 Chapel Dr,1.5,2,Santa Clara,"1,742 sqft",23-Aug-13,"$765,000 ",37.348995,-121.95746,CA,Single-Family Home,765000,"$917,000 ",,,,,Sold,SANTA CLARA
+95051,2809 Ponderosa Way,2.5,4,Santa Clara,"2,359 sqft",23-Aug-13,"$1,150,000 ",37.33178,-121.97582,CA,Single-Family Home,1150000,"$1,280,000 ",,,,,Sold,SANTA CLARA
+95054,3539 Haig St,2,3,Santa Clara,"1,289 sqft",23-Aug-13,"$590,000 ",37.384754,-121.95048,CA,Single-Family Home,590000,"$693,000 ",,,,,Sold,SANTA CLARA
+95054,2289 Lenox Pl,2.5,3,Santa Clara,"1,667 sqft",23-Aug-13,"$725,000 ",37.400406,-121.96439,CA,Single-Family Home,725000,"$853,000 ",,,,,Sold,SANTA CLARA
+95050,585 Valeri Ruth Ct,2.5,3,Santa Clara,"1,577 sqft",23-Aug-13,"$680,000 ",37.33449,-121.9668,CA,Condo,680000,"$707,000 ",,,,,Sold,SANTA CLARA
+95051,3191 Orthello Way,2,4,Santa Clara,"2,106 sqft",23-Aug-13,"$880,000 ",37.34852,-121.98458,CA,Single-Family Home,880000,"$1,009,000 ",,,,,Sold,SANTA CLARA
+95051,2627 Donovan Ave,3,5,Santa Clara,"2,122 sqft",23-Aug-13,"$881,500 ",37.353893,-121.97401,CA,Single-Family Home,881500,"$930,000 ",,,,,Sold,SANTA CLARA
+95051,2622 Day Ct,2,3,Santa Clara,"1,095 sqft",23-Aug-13,"$695,000 ",37.359516,-121.974174,CA,Single-Family Home,695000,"$787,000 ",,,,,Sold,SANTA CLARA
+95050,2327 Pruneridge Ave,,,Santa Clara,"6,962 sqft",22-Aug-13,"$1,900,000 ",37.330353,-121.96203,CA,Multi-Family,1900000,,,,,,Sold,SANTA CLARA
+95050,2067 Eucalyptus Ct,2.5,3,Santa Clara,"1,708 sqft",22-Aug-13,"$645,000 ",37.35972,-121.96285,CA,Condo,645000,"$729,000 ",,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #144,1,1,Santa Clara,678 sqft,21-Aug-13,"$271,500 ",37.355026,-121.99995,CA,Condo,271500,"$345,000 ",,,,,Sold,SANTA CLARA
+95050,547 Chapman Ct,2,3,Santa Clara,"1,394 sqft",21-Aug-13,"$677,000 ",37.34394,-121.93326,CA,Single-Family Home,677000,"$711,000 ",,,,,Sold,SANTA CLARA
+95054,2195 Hogan Dr,1.5,1,Santa Clara,961 sqft,21-Aug-13,"$385,000 ",37.401657,-121.962814,CA,Condo,385000,"$441,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #507,1,2,Santa Clara,853 sqft,21-Aug-13,"$375,000 ",37.362827,-121.96172,CA,Condo,375000,"$432,000 ",,,,,Sold,SANTA CLARA
+95051,744 Yale Ln,3,6,Santa Clara,"2,511 sqft",21-Aug-13,"$1,030,000 ",37.336266,-121.988914,CA,Single-Family Home,1030000,"$1,088,000 ",,,,,Sold,SANTA CLARA
+95050,2433 Brannan Pl,2,3,Santa Clara,"1,720 sqft",20-Aug-13,"$760,000 ",37.33978,-121.96681,CA,Single-Family Home,760000,"$921,000 ",,,,,Sold,SANTA CLARA
+95050,623 Park Ct,1,2,Santa Clara,"1,243 sqft",20-Aug-13,"$675,000 ",37.341583,-121.93398,CA,Single-Family Home,675000,"$749,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #156,2,2,Santa Clara,"1,192 sqft",20-Aug-13,"$530,000 ",37.39643,-121.94343,CA,Condo,530000,"$635,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #324,2,2,Santa Clara,"1,070 sqft",19-Aug-13,"$530,000 ",37.396603,-121.95808,CA,Condo,530000,"$601,000 ",,,,,Sold,SANTA CLARA
+95050,500 Saratoga Ave,3,4,Santa Clara,"2,768 sqft",19-Aug-13,"$950,000 ",37.33714,-121.95858,CA,Single-Family Home,950000,"$1,099,000 ",,,,,Sold,SANTA CLARA
+95051,1950 Santa Cruz Ave,2.5,3,Santa Clara,"1,534 sqft",16-Aug-13,"$750,000 ",37.358715,-121.98092,CA,Single-Family Home,750000,"$884,000 ",,,,,Sold,SANTA CLARA
+95051,3715 Terstena Pl #210,1,1,Santa Clara,"1,040 sqft",16-Aug-13,"$410,000 ",37.35811,-121.998985,CA,Condo,410000,"$446,000 ",,,,,Sold,SANTA CLARA
+95051,1720 Halford Ave #321,2,2,Santa Clara,983 sqft,16-Aug-13,"$343,000 ",37.355267,-121.99838,CA,Condo,343000,"$449,000 ",,,,,Sold,SANTA CLARA
+95054,4492 Headen Way,2.5,3,Santa Clara,"1,716 sqft",16-Aug-13,"$795,000 ",37.3993,-121.95445,CA,Condo,795000,"$902,000 ",,,,,Sold,SANTA CLARA
+95051,2849 Holmes Pl,2.5,3,Santa Clara,"1,829 sqft",16-Aug-13,"$405,000 ",37.35483,-121.97802,CA,Single-Family Home,405000,"$774,000 ",,,,,Sold,SANTA CLARA
+95050,41 Linden Dr,1,3,Santa Clara,"1,092 sqft",16-Aug-13,"$671,000 ",37.33925,-121.93588,CA,Single-Family Home,671000,"$717,000 ",,,,,Sold,SANTA CLARA
+95050,1787 Washington St,,,Santa Clara,"1,309 sqft",16-Aug-13,"$200,000 ",37.357117,-121.948364,CA,Single-Family Home,200000,"$876,000 ",,,,,Sold,SANTA CLARA
+95051,173 Kiely Blvd,2.5,2,Santa Clara,"1,300 sqft",15-Aug-13,"$550,000 ",37.326176,-121.9743,CA,Condo,550000,"$667,000 ",,,,,Sold,SANTA CLARA
+95051,430 Giannini Dr,2,3,Santa Clara,"1,508 sqft",15-Aug-13,"$1,112,000 ",37.33069,-122.00345,CA,Single-Family Home,1112000,"$1,106,000 ",,,,,Sold,SANTA CLARA
+95054,893 Garrity Way,2.5,3,Santa Clara,"1,894 sqft",15-Aug-13,"$825,000 ",37.400555,-121.94996,CA,Condo,825000,"$1,013,000 ",,,,,Sold,SANTA CLARA
+95051,980 Kiely Blvd #123,1,1,Santa Clara,622 sqft,15-Aug-13,"$260,000 ",37.343338,-121.97893,CA,Condo,260000,"$313,000 ",,,,,Sold,SANTA CLARA
+95051,2123 Coolidge Dr,2,4,Santa Clara,"1,288 sqft",15-Aug-13,"$782,000 ",37.361343,-121.970184,CA,Single-Family Home,782000,"$810,000 ",,,,,Sold,SANTA CLARA
+95051,3555 Bennett Ave,,,Santa Clara,"1,728 sqft",15-Aug-13,"$920,000 ",37.324963,-121.99404,CA,Multi-Family,920000,"$913,000 ",,,,,Sold,SANTA CLARA
+95051,3443 Santa Barbara Ave,2,3,Santa Clara,"1,124 sqft",15-Aug-13,"$775,000 ",37.359394,-121.99153,CA,Single-Family Home,775000,"$736,000 ",,,,,Sold,SANTA CLARA
+95051,3531 Butcher Dr,2,3,Santa Clara,"1,166 sqft",14-Aug-13,"$641,500 ",37.343086,-121.993095,CA,Single-Family Home,641500,"$782,000 ",,,,,Sold,SANTA CLARA
+95051,1749 Laine Ave,1,3,Santa Clara,"1,048 sqft",14-Aug-13,"$650,000 ",37.3546,-121.96901,CA,Single-Family Home,650000,"$649,000 ",,,,,Sold,SANTA CLARA
+95051,3382 Rayanna Ave,2,3,Santa Clara,"1,723 sqft",13-Aug-13,"$770,000 ",37.353157,-121.98954,CA,Single-Family Home,770000,"$876,000 ",,,,,Sold,SANTA CLARA
+95051,607 Cambridge Dr,2,4,Santa Clara,"1,418 sqft",13-Aug-13,"$1,151,000 ",37.332863,-121.98985,CA,Single-Family Home,1151000,"$1,057,000 ",,,,,Sold,SANTA CLARA
+95051,3531 Shafer Dr,2,3,Santa Clara,"1,166 sqft",13-Aug-13,"$325,000 ",37.344486,-121.9932,CA,Single-Family Home,325000,"$782,000 ",,,,,Sold,SANTA CLARA
+95051,150 Saratoga Ave #305,2,3,Santa Clara,"1,442 sqft",13-Aug-13,"$480,000 ",37.326912,-121.969574,CA,Condo,480000,"$602,000 ",,,,,Sold,SANTA CLARA
+95051,303 Mackenzie Dr,2,3,Santa Clara,"1,991 sqft",12-Aug-13,"$1,065,000 ",37.32861,-122.00148,CA,Single-Family Home,1065000,"$1,264,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #240,2,2,Santa Clara,913 sqft,12-Aug-13,"$449,000 ",37.36061,-121.964424,CA,Condo,449000,"$513,000 ",,,,,Sold,SANTA CLARA
+95051,3715 Terstena Pl #408,1,1,Santa Clara,"1,040 sqft",12-Aug-13,"$400,000 ",37.358307,-121.998985,CA,Condo,400000,"$457,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #381,1,1,Santa Clara,716 sqft,9-Aug-13,"$357,000 ",37.3607,-121.96393,CA,Condo,357000,"$400,000 ",,,,,Sold,SANTA CLARA
+95051,835 Bing Dr #29,1,1,Santa Clara,735 sqft,9-Aug-13,"$271,500 ",37.33895,-121.992516,CA,Condo,271500,"$352,000 ",,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #247,1,1,Santa Clara,678 sqft,8-Aug-13,"$275,000 ",37.354927,-122.00003,CA,Condo,275000,"$353,000 ",,,,,Sold,SANTA CLARA
+95054,2140 Kingsbury Cir,2.5,3,Santa Clara,"1,589 sqft",8-Aug-13,"$735,000 ",37.39769,-121.96155,CA,Single-Family Home,735000,"$833,000 ",,,,,Sold,SANTA CLARA
+95051,3110 El Sobrante St,2,3,Santa Clara,"1,540 sqft",8-Aug-13,"$700,000 ",37.348877,-121.98244,CA,Single-Family Home,700000,"$908,000 ",,,,,Sold,SANTA CLARA
+95051,3745 Terstena Pl #161,1,2,Santa Clara,912 sqft,8-Aug-13,"$401,000 ",37.35828,-121.99932,CA,Condo,401000,"$496,000 ",,,,,Sold,SANTA CLARA
+95051,260 Serena Way,1.5,3,Santa Clara,"1,587 sqft",7-Aug-13,"$1,030,000 ",37.323925,-121.97311,CA,Single-Family Home,1030000,"$1,177,000 ",,,,,Sold,SANTA CLARA
+95054,1053 Garrity Way,2.5,4,Santa Clara,"2,331 sqft",7-Aug-13,"$1,270,000 ",37.397163,-121.95264,CA,Single-Family Home,1270000,"$1,344,000 ",,,,,Sold,SANTA CLARA
+95054,438 Greenwood Dr,2,3,Santa Clara,"1,543 sqft",6-Aug-13,"$690,000 ",37.391335,-121.94182,CA,Single-Family Home,690000,"$732,000 ",,,,,Sold,SANTA CLARA
+95050,870 Fremont St #103,2.5,2,Santa Clara,"1,408 sqft",6-Aug-13,"$411,500 ",37.35201,-121.943726,CA,Condo,411500,"$554,000 ",,,,,Sold,SANTA CLARA
+95050,824 Scott Blvd,2.5,2,Santa Clara,"1,324 sqft",6-Aug-13,"$475,000 ",37.3445,-121.95965,CA,Condo,475000,"$567,000 ",,,,,Sold,SANTA CLARA
+95054,4044 Fitzpatrick Way,2.5,2,Santa Clara,"1,437 sqft",5-Aug-13,"$706,000 ",37.397163,-121.94504,CA,Condo,706000,"$814,000 ",,,,,Sold,SANTA CLARA
+95051,1713 Wade Ave,2,4,Santa Clara,"1,736 sqft",5-Aug-13,"$670,000 ",37.354275,-121.975174,CA,Single-Family Home,670000,"$903,000 ",,,,,Sold,SANTA CLARA
+95051,3755 Terstena Pl #172,1,2,Santa Clara,912 sqft,5-Aug-13,"$385,000 ",37.357944,-121.99945,CA,Condo,385000,"$505,000 ",,,,,Sold,SANTA CLARA
+95051,984 Kiely Blvd #G,1,2,Santa Clara,882 sqft,2-Aug-13,"$355,000 ",37.343487,-121.97863,CA,Condo,355000,"$414,000 ",,,,,Sold,SANTA CLARA
+95054,2303 Running Water Ct,2,3,Santa Clara,"1,532 sqft",2-Aug-13,"$1,040,000 ",37.39399,-121.965614,CA,Condo,1040000,"$617,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #145,1,1,Santa Clara,716 sqft,2-Aug-13,"$329,500 ",37.361145,-121.96431,CA,Condo,329500,"$402,000 ",,,,,Sold,SANTA CLARA
+95051,936 Kiely Blvd #A,1,2,Santa Clara,882 sqft,1-Aug-13,"$350,000 ",37.3427,-121.978676,CA,Condo,350000,"$414,000 ",,,,,Sold,SANTA CLARA
+95051,3705 Terstena Pl #105,2,2,Santa Clara,"1,268 sqft",1-Aug-13,"$500,000 ",37.358383,-121.99817,CA,Condo,500000,"$566,000 ",,,,,Sold,SANTA CLARA
+95050,303 Jefferson St,1,3,Santa Clara,"1,015 sqft",1-Aug-13,"$700,000 ",37.341354,-121.94656,CA,Single-Family Home,700000,"$733,000 ",,,,,Sold,SANTA CLARA
+95051,2528 Homestead Rd,2.5,2,Santa Clara,"1,441 sqft",31-Jul-13,"$635,000 ",37.340076,-121.97047,CA,Condo,635000,"$665,000 ",,,,,Sold,SANTA CLARA
+95050,1723 Hillebrant Pl,3.5,3,Santa Clara,"1,591 sqft",31-Jul-13,"$785,000 ",37.353573,-121.957436,CA,Condo,785000,"$856,000 ",,,,,Sold,SANTA CLARA
+95050,640 Hilmar St,2,3,Santa Clara,"1,522 sqft",31-Jul-13,"$550,500 ",37.342888,-121.93407,CA,Single-Family Home,550500,"$733,000 ",,,,,Sold,SANTA CLARA
+95051,966 Kiely Blvd #I,1,1,Santa Clara,670 sqft,31-Jul-13,"$190,000 ",37.34274,-121.980934,CA,Condo,190000,"$328,000 ",,,,,Sold,SANTA CLARA
+95051,3087 San Juan Ave,2,3,Santa Clara,"1,095 sqft",31-Jul-13,"$98,000 ",37.364155,-121.98331,CA,Single-Family Home,98000,"$686,000 ",,,,,Sold,SANTA CLARA
+95050,217 Saratoga Ct,2.5,2,Santa Clara,"1,315 sqft",31-Jul-13,"$575,000 ",37.32814,-121.96484,CA,Condo,575000,"$627,000 ",,,,,Sold,SANTA CLARA
+95051,121 Buckingham Dr #14,1,1,Santa Clara,656 sqft,31-Jul-13,"$315,000 ",37.325912,-121.97145,CA,Condo,315000,"$355,000 ",,,,,Sold,SANTA CLARA
+95051,1080 Pomeroy Ave,2,3,Santa Clara,"1,325 sqft",31-Jul-13,"$589,000 ",37.34644,-121.987335,CA,Condo,589000,"$620,000 ",,,,,Sold,SANTA CLARA
+95050,1820 Los Padres Blvd,2,5,Santa Clara,"1,501 sqft",31-Jul-13,"$795,000 ",37.356224,-121.96518,CA,Single-Family Home,795000,"$880,000 ",,,,,Sold,SANTA CLARA
+95050,77 Alviso St,2,3,Santa Clara,"1,245 sqft",30-Jul-13,"$595,000 ",37.33973,-121.93545,CA,Single-Family Home,595000,"$722,000 ",,,,,Sold,SANTA CLARA
+95051,2601 Cortez Dr #3101,1,2,Santa Clara,712 sqft,30-Jul-13,"$373,000 ",37.36928,-121.97461,CA,Condo,373000,"$413,000 ",,,,,Sold,SANTA CLARA
+95051,1066 Pomeroy Ave,2.5,4,Santa Clara,"1,476 sqft",29-Jul-13,"$610,000 ",37.346092,-121.9876,CA,Condo,610000,"$631,000 ",,,,,Sold,SANTA CLARA
+95050,1105 Lincoln St,1,2,Santa Clara,"1,700 sqft",29-Jul-13,"$655,000 ",37.34846,-121.952,CA,Single-Family Home,655000,"$854,000 ",,,,,Sold,SANTA CLARA
+95054,2259 Lenox Pl,2.5,3,Santa Clara,"1,599 sqft",29-Jul-13,"$734,000 ",37.399906,-121.96327,CA,Single-Family Home,734000,"$853,000 ",,,,,Sold,SANTA CLARA
+95051,1335 Buchanan Dr,2.5,3,Santa Clara,"1,382 sqft",26-Jul-13,"$785,000 ",37.34995,-121.97162,CA,Single-Family Home,785000,"$872,000 ",,,,,Sold,SANTA CLARA
+95054,4547 Cheeney St,2.5,4,Santa Clara,"1,705 sqft",26-Jul-13,"$805,000 ",37.39744,-121.96307,CA,Single-Family Home,805000,"$917,000 ",,,,,Sold,SANTA CLARA
+95050,472 N Winchester Blvd #14,2.5,3,Santa Clara,"1,577 sqft",26-Jul-13,"$486,000 ",37.34012,-121.95078,CA,Condo,486000,"$636,000 ",,,,,Sold,SANTA CLARA
+95054,4478 Laird Cir,3,3,Santa Clara,"1,588 sqft",26-Jul-13,"$802,000 ",37.40163,-121.95006,CA,Condo,802000,"$837,000 ",,,,,Sold,SANTA CLARA
+95051,737 Asbury Pl,3,4,Santa Clara,"1,740 sqft",26-Jul-13,"$761,000 ",37.338737,-121.96944,CA,Single-Family Home,761000,"$948,000 ",,,,,Sold,SANTA CLARA
+95051,339 Drake Ct,2,3,Santa Clara,"1,260 sqft",26-Jul-13,"$960,000 ",37.329063,-121.98157,CA,Single-Family Home,960000,"$1,058,000 ",,,,,Sold,SANTA CLARA
+95051,3111 Monroe St,1,3,Santa Clara,897 sqft,26-Jul-13,"$535,000 ",37.3666,-121.983284,CA,Single-Family Home,535000,"$626,000 ",,,,,Sold,SANTA CLARA
+95054,3689 De La Cruz Blvd,2,3,Santa Clara,"1,666 sqft",26-Jul-13,"$640,000 ",37.389496,-121.94431,CA,Single-Family Home,640000,"$839,000 ",,,,,Sold,SANTA CLARA
+95051,660 Meadow Ave,2,3,Santa Clara,"1,430 sqft",26-Jul-13,"$940,000 ",37.333607,-122.0045,CA,Single-Family Home,940000,"$1,115,000 ",,,,,Sold,SANTA CLARA
+95051,151 Buckingham Dr #281,2,2,Santa Clara,"1,028 sqft",26-Jul-13,"$460,000 ",37.32706,-121.970665,CA,Condo,460000,"$503,000 ",,,,,Sold,SANTA CLARA
+95050,630 Camino Dr,2,3,Santa Clara,"1,737 sqft",26-Jul-13,"$750,000 ",37.34328,-121.934715,CA,Single-Family Home,750000,"$835,000 ",,,,,Sold,SANTA CLARA
+95054,2276 Creek Bed Ct,1.5,2,Santa Clara,"1,215 sqft",25-Jul-13,"$387,000 ",37.393654,-121.96449,CA,Condo,387000,"$498,000 ",,,,,Sold,SANTA CLARA
+95051,2831 Mark Ave,2,3,Santa Clara,"1,386 sqft",25-Jul-13,"$692,000 ",37.35843,-121.97888,CA,Single-Family Home,692000,"$833,000 ",,,,,Sold,SANTA CLARA
+95050,1884 Matos Ct,2.5,2,Santa Clara,934 sqft,25-Jul-13,"$455,000 ",37.34156,-121.953606,CA,Condo,455000,"$554,000 ",,,,,Sold,SANTA CLARA
+95050,1441 Main St #1,2,2,Santa Clara,942 sqft,25-Jul-13,"$480,000 ",37.353592,-121.94792,CA,Condo,480000,"$520,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #380,1,1,Santa Clara,716 sqft,25-Jul-13,"$365,000 ",37.36082,-121.96401,CA,Condo,365000,"$394,000 ",,,,,Sold,SANTA CLARA
+95050,2201 Monroe St #603,1,2,Santa Clara,853 sqft,25-Jul-13,"$400,000 ",37.362865,-121.961815,CA,Condo,400000,"$458,000 ",,,,,Sold,SANTA CLARA
+95050,2337 Vargas Pl,2,3,Santa Clara,"1,053 sqft",25-Jul-13,"$601,000 ",37.357235,-121.965416,CA,Single-Family Home,601000,"$720,000 ",,,,,Sold,SANTA CLARA
+95051,535 Giannini Dr,2,4,Santa Clara,"1,878 sqft",24-Jul-13,"$208,500 ",37.331238,-122.001045,CA,Single-Family Home,208500,"$1,264,000 ",,,,,Sold,SANTA CLARA
+95050,1876 Matos Ct,2.5,2,Santa Clara,934 sqft,24-Jul-13,"$460,000 ",37.34189,-121.95369,CA,Condo,460000,"$554,000 ",,,,,Sold,SANTA CLARA
+95050,1232 Warburton Ave,1,2,Santa Clara,770 sqft,24-Jul-13,"$545,000 ",37.356007,-121.951485,CA,Single-Family Home,545000,"$551,000 ",,,,,Sold,SANTA CLARA
+95050,1597 Main St,1,3,Santa Clara,"1,004 sqft",24-Jul-13,"$250,000 ",37.354897,-121.94859,CA,Single-Family Home,250000,"$556,000 ",,,,,Sold,SANTA CLARA
+95051,2998 Cottonwood Ct,2,3,Santa Clara,"1,444 sqft",24-Jul-13,"$1,140,000 ",37.330708,-121.981995,CA,Single-Family Home,1140000,"$1,116,000 ",,,,,Sold,SANTA CLARA
+95050,1700 Civic Center Dr #611,1,1,Santa Clara,653 sqft,23-Jul-13,"$285,000 ",37.3551,-121.95768,CA,Condo,285000,"$337,000 ",,,,,Sold,SANTA CLARA
+95051,2492 Gallup Dr,2,4,Santa Clara,"1,614 sqft",23-Jul-13,"$780,000 ",37.364723,-121.97112,CA,Single-Family Home,780000,"$822,000 ",,,,,Sold,SANTA CLARA
+95050,2494 Forbes Ave,2,4,Santa Clara,"1,664 sqft",23-Jul-13,"$680,000 ",37.335392,-121.96605,CA,Single-Family Home,680000,"$886,000 ",,,,,Sold,SANTA CLARA
+95054,1183 Doyle Cir,3.5,4,Santa Clara,"2,645 sqft",23-Jul-13,"$1,320,000 ",37.39686,-121.95435,CA,Single-Family Home,1320000,"$1,455,000 ",,,,,Sold,SANTA CLARA
+95051,3807 Thrush Way,2,4,Santa Clara,"1,971 sqft",23-Jul-13,"$900,000 ",37.344604,-122.00091,CA,Single-Family Home,900000,"$1,166,000 ",,Birdland Neighbors,,,Sold,SANTA CLARA
+95054,859 Leith Ave,2,3,Santa Clara,"1,207 sqft",22-Jul-13,"$209,000 ",37.39026,-121.949905,CA,Single-Family Home,209000,"$619,000 ",,,,,Sold,SANTA CLARA
+95051,2302 Roosevelt Cir,2,3,Santa Clara,"1,664 sqft",22-Jul-13,"$735,000 ",37.36419,-121.9682,CA,Single-Family Home,735000,"$869,000 ",,,,,Sold,SANTA CLARA
+95051,341 Fontana Dr,3,4,Santa Clara,"2,222 sqft",19-Jul-13,"$1,425,000 ",37.32924,-121.97001,CA,Single-Family Home,1425000,"$1,383,000 ",,,,,Sold,SANTA CLARA
+95054,2222 Schott Ct,2.5,4,Santa Clara,"1,705 sqft",19-Jul-13,"$798,000 ",37.396927,-121.96393,CA,Single-Family Home,798000,"$883,000 ",,,,,Sold,SANTA CLARA
+95050,783 Malarin Ave,1,3,Santa Clara,980 sqft,19-Jul-13,"$664,000 ",37.342136,-121.96085,CA,Single-Family Home,664000,"$820,000 ",,,,,Sold,SANTA CLARA
+95051,121 Buckingham Dr #60,2,2,Santa Clara,950 sqft,19-Jul-13,"$379,000 ",37.326042,-121.97018,CA,Condo,379000,"$466,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #232,2,2,Santa Clara,"1,152 sqft",19-Jul-13,"$525,000 ",37.396446,-121.95842,CA,Condo,525000,"$595,000 ",,,,,Sold,SANTA CLARA
+95051,2601 Cortez Dr #2201,2,3,Santa Clara,974 sqft,19-Jul-13,"$465,000 ",37.36931,-121.97495,CA,Condo,465000,"$535,000 ",,,,,Sold,SANTA CLARA
+95051,984 Kiely Blvd #F,1,2,Santa Clara,882 sqft,18-Jul-13,"$365,500 ",37.343407,-121.97863,CA,Condo,365500,"$417,000 ",,,,,Sold,SANTA CLARA
+95054,2200 Agnew Rd #317,2,2,Santa Clara,"1,316 sqft",18-Jul-13,"$450,000 ",37.392227,-121.96391,CA,Condo,450000,"$552,000 ",,,,,Sold,SANTA CLARA
+95051,1301 Casa Ct,2,2,Santa Clara,"1,524 sqft",18-Jul-13,"$609,000 ",37.348907,-121.99647,CA,Condo,609000,"$680,000 ",,,,,Sold,SANTA CLARA
+95051,2827 Sycamore Way,3.5,5,Santa Clara,"2,620 sqft",18-Jul-13,"$1,128,000 ",37.331036,-121.977135,CA,Single-Family Home,1128000,"$1,137,000 ",,,,,Sold,SANTA CLARA
+95051,653 Bucher Ave,2,3,Santa Clara,"1,230 sqft",17-Jul-13,"$840,000 ",37.336353,-121.96928,CA,Single-Family Home,840000,"$814,000 ",,,,,Sold,SANTA CLARA
+95054,4442 Laird Cir,2.5,3,Santa Clara,"1,700 sqft",17-Jul-13,"$805,000 ",37.40105,-121.949425,CA,Condo,805000,"$844,000 ",,,,,Sold,SANTA CLARA
+95050,1793 Cabrillo Ave,2,3,Santa Clara,"1,394 sqft",17-Jul-13,"$640,000 ",37.359543,-121.95796,CA,Single-Family Home,640000,"$734,000 ",,,,,Sold,SANTA CLARA
+95051,186 Rodonovan Dr,1.5,3,Santa Clara,"1,165 sqft",17-Jul-13,"$981,500 ",37.327003,-121.990906,CA,Single-Family Home,981500,"$991,000 ",,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #259,2,2,Santa Clara,983 sqft,17-Jul-13,"$370,000 ",37.355278,-122.0002,CA,Condo,370000,"$442,000 ",,,,,Sold,SANTA CLARA
+95050,1125 Los Padres Blvd,1.5,3,Santa Clara,"1,319 sqft",16-Jul-13,"$649,500 ",37.346535,-121.96471,CA,Single-Family Home,649500,"$786,000 ",,,,,Sold,SANTA CLARA
+95051,3437 Santa Barbara Ave,1,3,Santa Clara,"1,097 sqft",16-Jul-13,"$530,000 ",37.359398,-121.99135,CA,Single-Family Home,530000,"$723,000 ",,,,,Sold,SANTA CLARA
+95050,1920 Hillebrant Pl,2.5,2,Santa Clara,"1,435 sqft",16-Jul-13,"$625,000 ",37.353313,-121.95901,CA,Condo,625000,"$689,000 ",,,,,Sold,SANTA CLARA
+95050,2040 Elm Leaf Ct,2,2,Santa Clara,"1,529 sqft",16-Jul-13,"$575,000 ",37.359394,-121.96402,CA,Condo,575000,"$669,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #707,2,2,Santa Clara,"1,062 sqft",16-Jul-13,"$410,000 ",37.35004,-121.97474,CA,Condo,410000,"$496,000 ",,,,,Sold,SANTA CLARA
+95054,835 E River Pkwy,3.5,4,Santa Clara,"3,395 sqft",15-Jul-13,"$1,520,000 ",37.39889,-121.949165,CA,Single-Family Home,1520000,"$1,641,000 ",,,,,Sold,SANTA CLARA
+95050,875 Circle Dr,2.5,4,Santa Clara,"2,372 sqft",12-Jul-13,"$1,168,000 ",37.343307,-121.93934,CA,Single-Family Home,1168000,"$1,216,000 ",,,,,Sold,SANTA CLARA
+95050,892 Sunlite Dr,1,3,Santa Clara,"1,053 sqft",12-Jul-13,"$650,000 ",37.34419,-121.96132,CA,Single-Family Home,650000,"$722,000 ",,,,,Sold,SANTA CLARA
+95051,938 Kiely Blvd #A,1,2,Santa Clara,882 sqft,12-Jul-13,"$355,000 ",37.343082,-121.97888,CA,Condo,355000,"$406,000 ",,,,,Sold,SANTA CLARA
+95054,2206 Duvall Ct,3,4,Santa Clara,"2,223 sqft",12-Jul-13,"$835,000 ",37.40056,-121.96312,CA,Single-Family Home,835000,"$1,005,000 ",,,,,Sold,SANTA CLARA
+95050,1874 Clay St,1,2,Santa Clara,"1,074 sqft",12-Jul-13,"$594,000 ",37.35113,-121.958176,CA,Single-Family Home,594000,"$667,000 ",,,,,Sold,SANTA CLARA
+95051,1001 Curtis Ave,2,3,Santa Clara,"1,166 sqft",12-Jul-13,"$715,000 ",37.344463,-121.99011,CA,Single-Family Home,715000,"$816,000 ",,,,,Sold,SANTA CLARA
+95054,4164 Cheeney St,,,Santa Clara,"1,104 sqft",11-Jul-13,"$805,000 ",37.392105,-121.96063,CA,Single-Family Home,805000,"$880,000 ",,,,,Sold,SANTA CLARA
+95050,2372 Glendenning Ave,1.5,3,Santa Clara,"1,323 sqft",11-Jul-13,"$767,000 ",37.33048,-121.95893,CA,Single-Family Home,767000,"$853,000 ",,,,,Sold,SANTA CLARA
+95054,2216 Schott Ct,2.5,4,Santa Clara,"1,602 sqft",11-Jul-13,"$740,000 ",37.397186,-121.963806,CA,Single-Family Home,740000,"$840,000 ",,,,,Sold,SANTA CLARA
+95051,958 Kiely Blvd #F,2,2,Santa Clara,956 sqft,11-Jul-13,"$410,000 ",37.34207,-121.980385,CA,Condo,410000,"$438,000 ",,,,,Sold,SANTA CLARA
+95051,3481 Shafer Dr,2,4,Santa Clara,"1,571 sqft",10-Jul-13,"$919,000 ",37.34449,-121.99149,CA,Single-Family Home,919000,"$877,000 ",,,,,Sold,SANTA CLARA
+95050,3473 Londonderry Dr,2,3,Santa Clara,"1,143 sqft",10-Jul-13,"$710,000 ",37.32786,-121.96009,CA,Single-Family Home,710000,"$823,000 ",,,,,Sold,SANTA CLARA
+95050,757 San Miguel Ave,1.5,3,Santa Clara,"1,085 sqft",10-Jul-13,"$700,000 ",37.34054,-121.96494,CA,Single-Family Home,700000,"$817,000 ",,,,,Sold,SANTA CLARA
+95050,2380 Homestead Rd #3204,1,1,Santa Clara,820 sqft,10-Jul-13,"$395,000 ",37.341393,-121.96647,CA,Condo,395000,"$455,000 ",,,,,Sold,SANTA CLARA
+95050,1406 Block Dr,2,3,Santa Clara,"1,472 sqft",10-Jul-13,"$790,000 ",37.35029,-121.96423,CA,Single-Family Home,790000,"$862,000 ",,,,,Sold,SANTA CLARA
+95050,2351 Cabrillo Ave,2,3,Santa Clara,984 sqft,10-Jul-13,"$687,000 ",37.359276,-121.966324,CA,Single-Family Home,687000,"$708,000 ",,,,,Sold,SANTA CLARA
+95054,1027 Garrity Way,3.5,4,Santa Clara,"2,645 sqft",9-Jul-13,"$1,371,000 ",37.398365,-121.951935,CA,Single-Family Home,1371000,"$1,375,000 ",,,,,Sold,SANTA CLARA
+95051,3166 Allen Way,2,3,Santa Clara,"1,136 sqft",9-Jul-13,"$968,000 ",37.327988,-121.98568,CA,Single-Family Home,968000,"$958,000 ",,,,,Sold,SANTA CLARA
+95051,2602 Tartan Dr,2,3,Santa Clara,"1,315 sqft",9-Jul-13,"$755,000 ",37.36416,-121.973526,CA,Single-Family Home,755000,"$810,000 ",,,,,Sold,SANTA CLARA
+95050,3425 Forest Ave,2,3,Santa Clara,"1,141 sqft",9-Jul-13,"$725,000 ",37.3272,-121.95876,CA,Single-Family Home,725000,"$902,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #132,1,1,Santa Clara,716 sqft,9-Jul-13,"$342,000 ",37.36025,-121.96444,CA,Condo,342000,"$395,000 ",,,,,Sold,SANTA CLARA
+95050,1340 Los Padres Blvd,1.5,3,Santa Clara,"1,347 sqft",9-Jul-13,"$750,000 ",37.349754,-121.96523,CA,Single-Family Home,750000,"$765,000 ",,,,,Sold,SANTA CLARA
+95051,476 Giannini Dr,3,5,Santa Clara,"2,331 sqft",8-Jul-13,"$1,088,000 ",37.330902,-122.002304,CA,Single-Family Home,1088000,"$1,293,000 ",,,,,Sold,SANTA CLARA
+95051,1210 Halford Ave,,,Santa Clara,"4,406 sqft",8-Jul-13,"$1,450,000 ",37.34789,-121.999626,CA,Multi-Family,1450000,,,,,,Sold,SANTA CLARA
+95050,2329 Monroe St,,,Santa Clara,"3,048 sqft",5-Jul-13,"$900,000 ",37.36314,-121.965225,CA,Multi-Family,900000,,,,,,Sold,SANTA CLARA
+95051,1730 Halford Ave #152,1,1,Santa Clara,678 sqft,5-Jul-13,"$263,000 ",37.35512,-122.0002,CA,Condo,263000,"$351,000 ",,,,,Sold,SANTA CLARA
+95054,1825 Silva Pl,3,4,Santa Clara,"1,930 sqft",5-Jul-13,"$815,000 ",37.397728,-121.95741,CA,Condo,815000,"$949,000 ",,,,,Sold,SANTA CLARA
+95054,Laurie Ave,2,3,Santa Clara,"1,280 sqft",5-Jul-13,"$504,000 ",37.391273,-121.94707,CA,Single-Family Home,504000,"$684,000 ",,,,,Sold,SANTA CLARA
+95050,1795 Jackson St,1,2,Santa Clara,600 sqft,5-Jul-13,"$410,000 ",37.356148,-121.95068,CA,Single-Family Home,410000,"$539,000 ",,,,,Sold,SANTA CLARA
+95050,2201 The Alameda #21,1.5,2,Santa Clara,"1,252 sqft",5-Jul-13,"$74,000 ",37.34393,-121.93213,CA,Condo,74000,"$492,000 ",,Downtown San Jose,,,Sold,SANTA CLARA
+95054,2335 Falling Water Ct,2.5,3,Santa Clara,"1,400 sqft",5-Jul-13,"$535,500 ",37.39275,-121.96536,CA,Condo,535500,"$595,000 ",,,,,Sold,SANTA CLARA
+95051,785 Cornell Dr,2,3,Santa Clara,"1,526 sqft",3-Jul-13,"$875,000 ",37.33659,-121.98518,CA,Single-Family Home,875000,"$1,094,000 ",,,,,Sold,SANTA CLARA
+95051,3514 Cabrillo Ave,2,3,Santa Clara,"1,452 sqft",3-Jul-13,"$778,000 ",37.359676,-121.99406,CA,Single-Family Home,778000,"$914,000 ",,,,,Sold,SANTA CLARA
+95051,440 Radcliffe Dr,5,6,Santa Clara,"3,151 sqft",3-Jul-13,"$1,080,000 ",37.331398,-121.98542,CA,Single-Family Home,1080000,"$1,358,000 ",,,,,Sold,SANTA CLARA
+95051,1729 Nobili Ave,2,3,Santa Clara,"1,080 sqft",3-Jul-13,"$666,000 ",37.354652,-121.988205,CA,Single-Family Home,666000,"$730,000 ",,,,,Sold,SANTA CLARA
+95051,2423 Amethyst Dr,1,3,Santa Clara,897 sqft,3-Jul-13,"$600,000 ",37.366905,-121.979935,CA,Single-Family Home,600000,"$621,000 ",,,,,Sold,SANTA CLARA
+95051,3027 Stevenson St,2,3,Santa Clara,"1,505 sqft",3-Jul-13,"$775,000 ",37.334896,-121.98312,CA,Single-Family Home,775000,"$923,000 ",,,,,Sold,SANTA CLARA
+95051,948 Kiely Blvd #G,2,2,Santa Clara,956 sqft,3-Jul-13,"$368,000 ",37.34279,-121.979935,CA,Condo,368000,"$446,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #1608,2,2,Santa Clara,"1,062 sqft",2-Jul-13,"$441,000 ",37.35004,-121.97474,CA,Condo,441000,"$525,000 ",,,,,Sold,SANTA CLARA
+95050,2380 Homestead Rd #1203,1.5,2,Santa Clara,"1,020 sqft",2-Jul-13,"$402,000 ",37.341408,-121.96591,CA,Condo,402000,"$534,000 ",,,,,Sold,SANTA CLARA
+95054,4267 Dry Bed Ct,2,3,Santa Clara,"1,289 sqft",2-Jul-13,"$489,000 ",37.39288,-121.966484,CA,Condo,489000,"$569,000 ",,,,,Sold,SANTA CLARA
+95051,383 Burnett Ave,2,3,Santa Clara,"1,372 sqft",2-Jul-13,"$1,034,000 ",37.329697,-121.98416,CA,Single-Family Home,1034000,"$883,000 ",,,,,Sold,SANTA CLARA
+95051,3025 Kaiser Dr #F,2.5,3,Santa Clara,"1,420 sqft",2-Jul-13,"$510,000 ",37.343315,-121.98293,CA,Condo,510000,"$567,000 ",,,,,Sold,SANTA CLARA
+95051,1178 Morton Ave,1,3,Santa Clara,900 sqft,2-Jul-13,"$635,000 ",37.347702,-121.97601,CA,Single-Family Home,635000,"$779,000 ",,,,,Sold,SANTA CLARA
+95051,2741 Benton St,2,3,Santa Clara,"1,373 sqft",1-Jul-13,"$751,000 ",37.346622,-121.97636,CA,Single-Family Home,751000,"$805,000 ",,,,,Sold,SANTA CLARA
+95054,3901 Lick Mill Blvd #212,1,1,Santa Clara,900 sqft,1-Jul-13,"$400,000 ",37.39643,-121.94343,CA,Condo,400000,"$496,000 ",,,,,Sold,SANTA CLARA
+95051,2882 Sycamore Way,2,3,Santa Clara,"1,442 sqft",28-Jun-13,"$1,000,000 ",37.330585,-121.97952,CA,Single-Family Home,1000000,"$1,094,000 ",,,,,Sold,SANTA CLARA
+95051,150 Saratoga Ave #350,1,1,Santa Clara,862 sqft,28-Jun-13,"$339,000 ",37.326694,-121.96897,CA,Condo,339000,"$382,000 ",,,,,Sold,SANTA CLARA
+95051,1400 Bowe Ave #1208,2,2,Santa Clara,"1,062 sqft",28-Jun-13,"$417,000 ",37.35004,-121.97474,CA,Condo,417000,"$531,000 ",,,,,Sold,SANTA CLARA
+95051,22 Claremont Ave,2,3,Santa Clara,"1,833 sqft",28-Jun-13,"$1,200,000 ",37.323387,-121.991875,CA,Single-Family Home,1200000,"$1,159,000 ",,,,,Sold,SANTA CLARA
+95050,1361 Los Padres Blvd,1.5,3,Santa Clara,"1,359 sqft",28-Jun-13,"$450,000 ",37.349937,-121.96463,CA,Single-Family Home,450000,"$727,000 ",,,,,Sold,SANTA CLARA
+95054,4306 Fillmore St,2,3,Santa Clara,"1,512 sqft",28-Jun-13,"$685,000 ",37.39356,-121.96239,CA,Single-Family Home,685000,"$748,000 ",,,,,Sold,SANTA CLARA
+95054,1990 Garzoni Pl,2.5,3,Santa Clara,"1,726 sqft",28-Jun-13,"$785,000 ",37.397377,-121.958786,CA,Condo,785000,"$893,000 ",,,,,Sold,SANTA CLARA
+95051,3029 Kaiser Dr #D,1.5,2,Santa Clara,"1,097 sqft",28-Jun-13,"$400,000 ",37.343517,-121.983185,CA,Condo,400000,"$474,000 ",,,,,Sold,SANTA CLARA
+95054,2282 Creek Bed Ct,1.5,2,Santa Clara,"1,215 sqft",28-Jun-13,"$468,000 ",37.393627,-121.96455,CA,Condo,468000,"$509,000 ",,,,,Sold,SANTA CLARA
+95054,1934 Garzoni Pl,2.5,3,Santa Clara,"1,726 sqft",28-Jun-13,"$788,000 ",37.397552,-121.95837,CA,Condo,788000,"$866,000 ",,,,,Sold,SANTA CLARA
+95050,2335 Benton St,1.5,3,Santa Clara,"1,277 sqft",28-Jun-13,"$758,500 ",37.346523,-121.96569,CA,Single-Family Home,758500,"$786,000 ",,,,,Sold,SANTA CLARA
+95051,762 Pomeroy Ave,3,5,Santa Clara,"2,113 sqft",28-Jun-13,"$825,000 ",37.336784,-121.9878,CA,Single-Family Home,825000,"$1,013,000 ",,,,,Sold,SANTA CLARA
+95050,581 Mission St,1,2,Santa Clara,780 sqft,28-Jun-13,"$583,000 ",37.344105,-121.93567,CA,Single-Family Home,583000,"$613,000 ",,,,,Sold,SANTA CLARA
+95054,1883 Agnew Rd #435,2,3,Santa Clara,"1,361 sqft",28-Jun-13,"$595,000 ",37.39616,-121.95823,CA,Condo,595000,"$667,000 ",,,,,Sold,SANTA CLARA
+95051,987 Wood Duck Ct,2,4,Santa Clara,"1,568 sqft",27-Jun-13,"$1,035,000 ",37.34367,-121.99706,CA,Single-Family Home,1035000,"$1,149,000 ",,,,,Sold,SANTA CLARA
+95054,4456 Laird Cir,2.5,2,Santa Clara,"1,437 sqft",27-Jun-13,"$693,000 ",37.40127,-121.949554,CA,Condo,693000,"$728,000 ",,,,,Sold,SANTA CLARA
+95051,2164 Monterey Ave,2,3,Santa Clara,"1,078 sqft",27-Jun-13,"$615,500 ",37.360096,-121.98445,CA,Single-Family Home,615500,"$693,000 ",,,,,Sold,SANTA CLARA
+95050,1775 Los Padres Blvd,2,4,Santa Clara,"1,113 sqft",27-Jun-13,"$767,000 ",37.35544,-121.96465,CA,Single-Family Home,767000,"$818,000 ",,,,,Sold,SANTA CLARA
+95050,2461 Rebecca Lynn Way,2.5,2,Santa Clara,"1,459 sqft",26-Jun-13,"$575,000 ",37.33453,-121.96624,CA,Condo,575000,"$695,000 ",,,,,Sold,SANTA CLARA
+95050,1463 Jackson St,1.5,3,Santa Clara,"1,222 sqft",26-Jun-13,"$550,000 ",37.353325,-121.94908,CA,Single-Family Home,550000,"$578,000 ",,,,,Sold,SANTA CLARA
+95051,726 Asbury Pl,2,3,Santa Clara,"1,952 sqft",26-Jun-13,"$1,000,000 ",37.338165,-121.96983,CA,Single-Family Home,1000000,"$1,060,000 ",,,,,Sold,SANTA CLARA
+95050,706 Malarin Ave,1,3,Santa Clara,980 sqft,26-Jun-13,"$655,000 ",37.341003,-121.96081,CA,Single-Family Home,655000,"$827,000 ",,,,,Sold,SANTA CLARA
+95051,2241 Francis Ave,2,3,Santa Clara,"1,034 sqft",26-Jun-13,"$137,500 ",37.363132,-121.98067,CA,Single-Family Home,137500,"$743,000 ",,,,,Sold,SANTA CLARA
+95051,2880 Mark Ave,2,3,Santa Clara,"1,170 sqft",25-Jun-13,"$773,000 ",37.357742,-121.9795,CA,Single-Family Home,773000,"$791,000 ",,,,,Sold,SANTA CLARA
+95051,2665 Rebeiro Ave,2,3,Santa Clara,"1,692 sqft",25-Jun-13,"$537,000 ",37.335587,-121.97121,CA,Single-Family Home,537000,"$876,000 ",,,,,Sold,SANTA CLARA
+95051,460 Norwood Cir,3.5,4,Santa Clara,"2,398 sqft",25-Jun-13,"$1,228,000 ",37.330914,-121.99631,CA,Single-Family Home,1228000,"$1,363,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #338,1,1,Santa Clara,716 sqft,25-Jun-13,"$350,000 ",37.36053,-121.96444,CA,Condo,350000,"$399,000 ",,,,,Sold,SANTA CLARA
+95050,1821 Catherine St,2,5,Santa Clara,"1,672 sqft",25-Jun-13,"$600,000 ",37.350163,-121.95677,CA,Single-Family Home,600000,"$769,000 ",,,,,Sold,SANTA CLARA
+95050,2250 Monroe St #312,2,2,Santa Clara,946 sqft,24-Jun-13,"$430,500 ",37.360607,-121.96345,CA,Condo,430500,"$529,000 ",,,,,Sold,SANTA CLARA
+95051,1207 White Dr,,,Santa Clara,"1,865 sqft",24-Jun-13,"$728,000 ",37.34812,-121.97243,CA,Multi-Family,728000,"$881,000 ",,,,,Sold,SANTA CLARA

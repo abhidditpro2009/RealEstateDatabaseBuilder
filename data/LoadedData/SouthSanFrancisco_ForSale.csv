@@ -1,0 +1,128 @@
+zipCode,address,bathroom,bedroom,city,formattedSqft,lastSaleDate,lastSalePrice,latitude,longitude,stateCode,typeDisplay,price,formattedTruliaEstimate,,neighborhood,walkScore,transitScore,status,county
+94080,1347 Isabelle Cir,3,3,South San Francisco,"1,460 sqft",31-Dec-69,$0 ,37.66621,-122.44633,CA,Condo,599000,,,,65,,For Sale,SAN MATEO
+94080,3865 Carter Dr #302,2,2,South San Francisco,"1,033 sqft",31-Dec-69,$0 ,37.649315,-122.46936,CA,Condo,482885,,,,68,,For Sale,SAN MATEO
+94080,62 Mahogany Dr,3,4,South San Francisco,"2,150 sqft",31-Dec-69,$0 ,37.653614,-122.422386,CA,Single-Family Home,799000,,,,77,,For Sale,SAN MATEO
+94080,3721 Carter Dr #1204,2,2,South San Francisco,"1,060 sqft",31-Dec-69,$0 ,37.644985,-122.46818,CA,Condo,538000,,,,55,,For Sale,SAN MATEO
+94080,71 Calvert Ave,3,4,South San Francisco,"2,210 sqft",31-Dec-69,$0 ,37.666584,-122.4568,CA,Single-Family Home,350000,,,,57,,For Sale,SAN MATEO
+94080,1 Mandalay Pl #908,1,1,South San Francisco,941 sqft,31-Dec-69,$0 ,37.666145,-122.40382,CA,Condo,465000,,,,49,,For Sale,SAN MATEO
+94080,310 Hazelwood Dr,2,5,South San Francisco,"1,630 sqft",31-Dec-69,$0 ,37.639378,-122.43263,CA,Single-Family Home,799000,,,,52,,For Sale,SAN MATEO
+94080,12 Sonora Ave,2,3,South San Francisco,"1,383 sqft",31-Dec-69,$0 ,37.645737,-122.42383,CA,Single-Family Home,648888,,,,78,,For Sale,SAN MATEO
+94080,1 Mandalay Pl,2,2,South San Francisco,,31-Dec-69,$0 ,37.666145,-122.40382,CA,Condo,695000,,,,49,,For Sale,SAN MATEO
+94080,1400 El Camino Real #104,2,2,South San Francisco,"1,190 sqft",31-Dec-69,$0 ,37.661793,-122.44202,CA,Condo,498888,,,,54,,For Sale,SAN MATEO
+94080,656 Del Monte Ave,2,3,South San Francisco,"1,120 sqft",31-Dec-69,$0 ,37.660538,-122.45014,CA,Single-Family Home,685000,,,,58,,For Sale,SAN MATEO
+94080,929 Newman Dr,1,3,South San Francisco,"1,000 sqft",31-Dec-69,$0 ,37.664238,-122.458,CA,Single-Family Home,629000,,,,58,,For Sale,SAN MATEO
+94080,779 Park Way,2,3,South San Francisco,"1,650 sqft",31-Dec-69,$0 ,37.662277,-122.42447,CA,Single-Family Home,675000,,,,54,,For Sale,SAN MATEO
+94080,716 Spruce Ave,1,3,South San Francisco,"2,060 sqft",31-Dec-69,$0 ,37.66169,-122.41104,CA,Single-Family Home,800000,,,,74,,For Sale,SAN MATEO
+94080,000 Diamond Ave,,,South San Francisco,,31-Dec-69,$0 ,37.661444,-122.413722,CA,Lot/Land,1500000,,,,,,For Sale,SAN MATEO
+94080,314 Northwood Dr,2,3,South San Francisco,"1,270 sqft",31-Dec-69,$0 ,37.639782,-122.433334,CA,Single-Family Home,659500,,,,55,,For Sale,SAN MATEO
+94080,26 Viola St,3,4,South San Francisco,"2,440 sqft",31-Dec-69,$0 ,37.668064,-122.40967,CA,Single-Family Home,1099000,,,,40,,For Sale,SAN MATEO
+94080,3737 Radburn Dr,1,2,South San Francisco,858 sqft,31-Dec-69,$0 ,37.647808,-122.456505,CA,Condo,420000,,,,74,,For Sale,SAN MATEO
+94080,15200190 Apn,,,South San Francisco,,31-Dec-69,$0 ,37.6588,-122.423,CA,Lot/Land,1900000,,,,86,,For Sale,SAN MATEO
+94080,240 Willow Ave #624,1,1,South San Francisco,750 sqft,31-Dec-69,$0 ,37.660904,-122.432144,CA,Condo,249000,,,,62,,For Sale,SAN MATEO
+94080,126 S Magnolia Ave,1,3,South San Francisco,"1,150 sqft",31-Dec-69,$0 ,37.64987,-122.422386,CA,Single-Family Home,575000,,,,69,,For Sale,SAN MATEO
+94080,117 S Magnolia Ave,1,3,South San Francisco,"1,100 sqft",31-Dec-69,$0 ,37.650448,-122.42165,CA,Single-Family Home,599000,,,,72,,For Sale,SAN MATEO
+94080,425 Larch Ave,1,3,South San Francisco,"1,020 sqft",31-Dec-69,$0 ,37.66461,-122.41332,CA,Single-Family Home,599000,,,,51,,For Sale,SAN MATEO
+94080,65 Baypark Cir,3,4,South San Francisco,"2,410 sqft",31-Dec-69,$0 ,37.670525,-122.41828,CA,Single-Family Home,1098000,,,,25,,For Sale,SAN MATEO
+94080,3907 Crofton Way,2,3,South San Francisco,"1,690 sqft",31-Dec-69,$0 ,37.6491,-122.46227,CA,Single-Family Home,529000,,,,62,,For Sale,SAN MATEO
+94080,233 Bryce Ave,3,4,South San Francisco,"2,240 sqft",31-Dec-69,$0 ,37.647694,-122.43437,CA,Single-Family Home,875000,,,,57,,For Sale,SAN MATEO
+94080,533 Valverde Dr,2,3,South San Francisco,"1,330 sqft",31-Dec-69,$0 ,37.64259,-122.44312,CA,Single-Family Home,700000,,,,45,,For Sale,SAN MATEO
+94080,54 Franklin Ave,3,3,South San Francisco,"1,728 sqft",31-Dec-69,$0 ,37.66505,-122.41575,CA,Single-Family Home,799000,,,,52,,For Sale,SAN MATEO
+94080,2210 Gellert Blvd #5112,2,3,South San Francisco,"1,200 sqft",31-Dec-69,$0 ,37.647587,-122.453735,CA,Apt/Condo/Twnhm,579000,,,,68,,For Sale,SAN MATEO
+94080,721 Miller Ave,1,2,South San Francisco,"1,110 sqft",31-Dec-69,$0 ,37.65895,-122.42375,CA,Single-Family Home,645000,,,,63,,For Sale,SAN MATEO
+94080,3786 Cork Pl,3,3,South San Francisco,"1,970 sqft",31-Dec-69,$0 ,37.647564,-122.46727,CA,Single-Family Home,685000,,,,62,,For Sale,SAN MATEO
+94080,764 Baden Ave,1,2,South San Francisco,"1,390 sqft",31-Dec-69,$0 ,37.657906,-122.42598,CA,Single-Family Home,625000,,,,51,,For Sale,SAN MATEO
+94080,806 Baden Ave,,,South San Francisco,,31-Dec-69,$0 ,37.65822,-122.4274,CA,Lot/Land,425000,,,,51,,For Sale,SAN MATEO
+94080,298 Sequoia Ave,2,3,South San Francisco,"1,340 sqft",31-Dec-69,$0 ,37.66476,-122.43694,CA,Single-Family Home,679000,,,,55,,For Sale,SAN MATEO
+94080,527 Orange Ave,1,3,South San Francisco,"1,680 sqft",31-Dec-69,$0 ,37.66094,-122.42156,CA,Single-Family Home,788000,,,,66,,For Sale,SAN MATEO
+94080,107 Mulberry Ave,1,3,South San Francisco,980 sqft,31-Dec-69,$0 ,37.6507,-122.42438,CA,Single-Family Home,539000,,,,72,,For Sale,SAN MATEO
+94080,216 Alta Mesa Dr,1,3,South San Francisco,"1,020 sqft",31-Dec-69,$0 ,37.65522,-122.44655,CA,Single-Family Home,619990,,,,38,,For Sale,SAN MATEO
+94080,624 Brosnan Ct,1,1,South San Francisco,,31-Dec-69,$0 ,37.66129,-122.432396,CA,Condo,395000,,,,60,,For Sale,SAN MATEO
+94080,157 Ramona Ave,2,4,South San Francisco,"1,410 sqft",31-Dec-69,$0 ,37.64479,-122.42525,CA,Single-Family Home,649000,,,,77,,For Sale,SAN MATEO
+94080,121 Clay Ave,3,4,South San Francisco,"2,270 sqft",31-Dec-69,$0 ,37.661243,-122.459564,CA,Single-Family Home,749000,,,,51,,For Sale,SAN MATEO
+94080,221 Miller Ave,,,South San Francisco,,31-Dec-69,$0 ,37.655724,-122.40915,CA,Lot/Land,375000,,,,75,,For Sale,SAN MATEO
+94080,Carter Dr #125,2,2,South San Francisco,877 sqft,31-Dec-69,$0 ,37.642654,-122.46425,CA,Condo,200500,,,,54,,For Sale,SAN MATEO
+94080,Carter Dr #96,2,3,South San Francisco,"1,644 sqft",31-Dec-69,$0 ,37.642643,-122.46423,CA,Condo,273750,,,,54,,For Sale,SAN MATEO
+94080,El Rancho Dr,3,5,South San Francisco,"2,310 sqft",31-Dec-69,$0 ,37.6598,-122.45362,CA,Single-Family Home,675000,,,,49,,For Sale,SAN MATEO
+94080,Villa Ct,2,3,South San Francisco,"1,910 sqft",31-Dec-69,$0 ,37.661602,-122.43706,CA,Condo,619318,,,,60,,For Sale,SAN MATEO
+94080,32 Pointe View Pl,2.5,3,South San Francisco,"2,600 sqft",31-Dec-69,$0 ,37.665874,-122.40169,CA,Single-Family Home,1100000,,,,49,,For Sale,SAN MATEO
+94080,Radburn Dr,1,3,South San Francisco,"1,115 sqft",31-Dec-69,$0 ,37.647877,-122.45624,CA,Condo,417000,,,,66,,For Sale,SAN MATEO
+94080,Athy Dr,1,2,South San Francisco,840 sqft,31-Dec-69,$0 ,37.64284,-122.46653,CA,Condo,356627,,,,52,,For Sale,SAN MATEO
+94080,Stonegate Dr #25,1,2,South San Francisco,"1,080 sqft",31-Dec-69,$0 ,37.66454,-122.427124,CA,Condo,426956,,,,45,,For Sale,SAN MATEO
+94080,Viola St,3,4,South San Francisco,"3,070 sqft",31-Dec-69,$0 ,37.668118,-122.41063,CA,Single-Family Home,970000,,,,38,,For Sale,SAN MATEO
+94080,Heather Way,1,2,South San Francisco,870 sqft,31-Dec-69,$0 ,37.66534,-122.433525,CA,Single-Family Home,552285,,,,45,,For Sale,SAN MATEO
+94080,Callan Blvd,2,4,South San Francisco,"1,810 sqft",31-Dec-69,$0 ,37.6482,-122.466896,CA,Single-Family Home,659874,,,,68,,For Sale,SAN MATEO
+94080,Kenry Way,2,4,South San Francisco,"1,900 sqft",31-Dec-69,$0 ,37.64016,-122.449814,CA,Single-Family Home,725114,,,,60,,For Sale,SAN MATEO
+94080,Carter Dr #105,2,2,South San Francisco,"1,090 sqft",31-Dec-69,$0 ,37.648827,-122.46914,CA,Condo,468591,,,,66,,For Sale,SAN MATEO
+94080,Carter Dr #129,2,2,South San Francisco,877 sqft,31-Dec-69,$0 ,37.642567,-122.464165,CA,Condo,416975,,,,54,,For Sale,SAN MATEO
+94080,Drake Ave,1,2,South San Francisco,940 sqft,31-Dec-69,$0 ,37.66636,-122.41055,CA,Single-Family Home,250000,,,,46,,For Sale,SAN MATEO
+94080,San Felipe Ave,2,4,South San Francisco,"2,176 sqft",31-Dec-69,$0 ,37.66004,-122.445366,CA,Single-Family Home,622500,,,,54,,For Sale,SAN MATEO
+94080,Briarwood Dr,2,3,South San Francisco,"1,280 sqft",31-Dec-69,$0 ,37.6366,-122.43496,CA,Single-Family Home,452000,,,,37,,For Sale,SAN MATEO
+94080,Greendale Dr,1,2,South San Francisco,858 sqft,31-Dec-69,$0 ,37.64832,-122.46673,CA,Condo,368000,,,,71,,For Sale,SAN MATEO
+94080,Crofton Way,2,3,South San Francisco,"1,490 sqft",31-Dec-69,$0 ,37.649063,-122.462036,CA,Single-Family Home,542400,,,,65,,For Sale,SAN MATEO
+94080,Parkgrove Dr,3,4,South San Francisco,"2,770 sqft",31-Dec-69,$0 ,37.67175,-122.41786,CA,Single-Family Home,417000,,,,25,,For Sale,SAN MATEO
+94080,Miller Ave,1,2,South San Francisco,"1,020 sqft",31-Dec-69,$0 ,37.65913,-122.423256,CA,Single-Family Home,496438,,,,63,,For Sale,SAN MATEO
+94080,Greendale Dr,2,3,South San Francisco,"1,540 sqft",31-Dec-69,$0 ,37.64641,-122.460884,CA,Single-Family Home,666384,,,,68,,For Sale,SAN MATEO
+94080,Savannah Ct,3,4,South San Francisco,"1,740 sqft",31-Dec-69,$0 ,37.649223,-122.46406,CA,Single-Family Home,685508,,,,58,,For Sale,SAN MATEO
+94080,Valleyview Way,3,4,South San Francisco,"1,960 sqft",31-Dec-69,$0 ,37.638943,-122.44444,CA,Single-Family Home,705000,,,,40,,For Sale,SAN MATEO
+94080,Ida Dr,2,4,South San Francisco,"2,300 sqft",31-Dec-69,$0 ,37.66344,-122.42633,CA,Single-Family Home,849136,,,,48,,For Sale,SAN MATEO
+94080,Dundee Dr,1,3,South San Francisco,"1,020 sqft",31-Dec-69,$0 ,37.65988,-122.46112,CA,Single-Family Home,638689,,,,52,,For Sale,SAN MATEO
+94080,Escanyo Dr,2,3,South San Francisco,"1,380 sqft",31-Dec-69,$0 ,37.65051,-122.44685,CA,Single-Family Home,736170,,,,58,,For Sale,SAN MATEO
+94080,Tara Ln,2,3,South San Francisco,"2,240 sqft",31-Dec-69,$0 ,37.64155,-122.45858,CA,Single-Family Home,881812,,,,65,,For Sale,SAN MATEO
+94080,Spruce Ave,1,3,South San Francisco,"1,470 sqft",31-Dec-69,$0 ,37.661728,-122.411285,CA,Single-Family Home,822213,,,,71,,For Sale,SAN MATEO
+94080,Annapolis Ct,1,2,South San Francisco,858 sqft,31-Dec-69,$0 ,37.64962,-122.455246,CA,Condo,135000,,,,68,,For Sale,SAN MATEO
+94080,Newman Dr,2,3,South San Francisco,"1,330 sqft",31-Dec-69,$0 ,37.657845,-122.45402,CA,Single-Family Home,150000,,,,38,,For Sale,SAN MATEO
+94080,Adrian Ave,1,3,South San Francisco,"1,050 sqft",31-Dec-69,$0 ,37.661854,-122.46125,CA,Single-Family Home,135000,,,,57,,For Sale,SAN MATEO
+94080,Baden Ave,3,4,South San Francisco,"4,749 sqft",31-Dec-69,$0 ,37.654835,-122.41342,CA,Multi-Family Home,385000,,,,92,,For Sale,SAN MATEO
+94080,Camaritas Ave,3,4,South San Francisco,"2,140 sqft",31-Dec-69,$0 ,37.65845,-122.44569,CA,Single-Family Home,320232,,,,51,,For Sale,SAN MATEO
+94080,Crestwood Dr,2,3,South San Francisco,"1,050 sqft",31-Dec-69,$0 ,37.667446,-122.435356,CA,Single-Family Home,185000,,,,40,,For Sale,SAN MATEO
+94080,Newman Dr,2,3,South San Francisco,"1,650 sqft",31-Dec-69,$0 ,37.6608,-122.45572,CA,Single-Family Home,324000,,,,48,,For Sale,SAN MATEO
+94080,Cromwell Row,2,4,South San Francisco,"1,810 sqft",31-Dec-69,$0 ,37.64592,-122.4676,CA,Single-Family Home,404550,,,,58,,For Sale,SAN MATEO
+94080,Callan Blvd,1,2,South San Francisco,"1,040 sqft",31-Dec-69,$0 ,37.64502,-122.46366,CA,Condo,300162,,,,69,,For Sale,SAN MATEO
+94080,Del Paso Dr,1,2,South San Francisco,"1,050 sqft",31-Dec-69,$0 ,37.657185,-122.43946,CA,Single-Family Home,300000,,,,66,,For Sale,SAN MATEO
+94080,Carter Dr,2,3,South San Francisco,"1,644 sqft",31-Dec-69,$0 ,37.642567,-122.464165,CA,Condo,524255,,,,55,,For Sale,SAN MATEO
+94080,Appian Way A,2,2,South San Francisco,"1,197 sqft",31-Dec-69,$0 ,37.64205,-122.447,CA,Unspecified,384440,,,,58,,For Sale,SAN MATEO
+94080,Pointe View Pl,3,4,South San Francisco,"2,500 sqft",31-Dec-69,$0 ,37.665424,-122.40077,CA,Single-Family Home,787500,,,,62,,For Sale,SAN MATEO
+94080,Mission Rd,2,2,South San Francisco,"1,046 sqft",31-Dec-69,$0 ,37.657177,-122.43316,CA,Condo,361225,,,,55,,For Sale,SAN MATEO
+94080,Indio Dr,1,2,South San Francisco,"1,180 sqft",31-Dec-69,$0 ,37.655296,-122.44257,CA,Single-Family Home,417000,,,,58,,For Sale,SAN MATEO
+94080,Radburn Dr,1,2,South San Francisco,858 sqft,31-Dec-69,$0 ,37.64915,-122.456635,CA,Condo,429656,,,,72,,For Sale,SAN MATEO
+94080,Willow Ave #422,1,2,South San Francisco,888 sqft,31-Dec-69,$0 ,37.661114,-122.43308,CA,Condo,484450,,,,60,,For Sale,SAN MATEO
+94080,Carter Dr,2,2,South San Francisco,"1,105 sqft",31-Dec-69,$0 ,37.64894,-122.469,CA,Condo,475676,,,,43,,For Sale,SAN MATEO
+94080,Appian Way #710,1,1,South San Francisco,777 sqft,31-Dec-69,$0 ,37.64313,-122.450676,CA,Condo,307951,,,,82,,For Sale,SAN MATEO
+94080,Railroad Ave,3,5,South San Francisco,"1,030 sqft",31-Dec-69,$0 ,37.653526,-122.41639,CA,Single-Family Home,435500,,,,86,,For Sale,SAN MATEO
+94080,Rockwood Dr,1,2,South San Francisco,990 sqft,31-Dec-69,$0 ,37.638885,-122.4267,CA,Single-Family Home,525000,,,,74,,For Sale,SAN MATEO
+94080,Southcliff Ave,2,2,South San Francisco,"1,120 sqft",31-Dec-69,$0 ,37.65213,-122.45084,CA,Single-Family Home,535000,,,,63,,For Sale,SAN MATEO
+94080,Kipling Ave,1,3,South San Francisco,"1,070 sqft",31-Dec-69,$0 ,37.66479,-122.45495,CA,Single-Family Home,551250,,,,57,,For Sale,SAN MATEO
+94080,Shannon Dr,2,4,South San Francisco,"1,500 sqft",31-Dec-69,$0 ,37.636627,-122.450745,CA,Single-Family Home,567000,,,,49,,For Sale,SAN MATEO
+94080,Clover Cir,1,3,South San Francisco,"1,040 sqft",31-Dec-69,$0 ,37.661484,-122.43469,CA,Single-Family Home,560000,,,,57,,For Sale,SAN MATEO
+94080,Bradford Dr,1,3,South San Francisco,"1,030 sqft",31-Dec-69,$0 ,37.669495,-122.45342,CA,Single-Family Home,575355,,,,60,,For Sale,SAN MATEO
+94080,Mandalay Pl #1600,2,2,South San Francisco,"1,440 sqft",31-Dec-69,$0 ,37.665825,-122.40377,CA,Condo,578089,,,,48,,For Sale,SAN MATEO
+94080,Alta Loma Dr,1,2,South San Francisco,"1,140 sqft",31-Dec-69,$0 ,37.656612,-122.4383,CA,Single-Family Home,456000,,,,69,,For Sale,SAN MATEO
+94080,Rowntree Way,,,South San Francisco,,31-Dec-69,$0 ,37.649124,-122.45561,CA,Condo,392000,,,,72,,For Sale,SAN MATEO
+94080,1 Mandalay Pl #1609,,,South San Francisco,,31-Dec-69,$0 ,37.666145,-122.40382,CA,Unspecified,398158,,,,51,,For Sale,SAN MATEO
+94080,Westchester Ct,2,3,South San Francisco,"1,540 sqft",31-Dec-69,$0 ,37.64835,-122.45548,CA,Single-Family Home,662349,,,,72,,For Sale,SAN MATEO
+94080,Estate Ct,3,5,South San Francisco,"2,180 sqft",31-Dec-69,$0 ,37.66373,-122.43265,CA,Single-Family Home,864199,,,,49,,For Sale,SAN MATEO
+94080,Joaquin Dr,2,3,South San Francisco,"1,120 sqft",31-Dec-69,$0 ,37.659397,-122.450294,CA,Single-Family Home,790612,,,,49,,For Sale,SAN MATEO
+94080,Northwood Dr,2,3,South San Francisco,"1,520 sqft",31-Dec-69,$0 ,37.63815,-122.43603,CA,Single-Family Home,885000,,,,40,,For Sale,SAN MATEO
+94080,Dublin Dr,,,South San Francisco,,31-Dec-69,$0 ,37.642082,-122.45494,CA,Unspecified,734592,,,,77,,For Sale,SAN MATEO
+94080,Camaritas Cir,1,3,South San Francisco,"1,000 sqft",31-Dec-69,$0 ,37.66457,-122.45022,CA,Single-Family Home,595101,,,,62,,For Sale,SAN MATEO
+94080,Grand Ave,6,6,South San Francisco,"1,740 sqft",31-Dec-69,$0 ,37.65836,-122.42453,CA,Multi-Family Home,827410,,,,58,,For Sale,SAN MATEO
+94080,Callan Blvd #J,,,South San Francisco,,31-Dec-69,$0 ,37.64502,-122.46366,CA,Single-Family Home,265500,,,,60,,For Sale,SAN MATEO
+94080,Appian Way,,,South San Francisco,,31-Dec-69,$0 ,37.64313,-122.450676,CA,Unspecified,194265,,,,82,,For Sale,SAN MATEO
+94080,Appian Way,,,South San Francisco,,31-Dec-69,$0 ,37.64313,-122.450676,CA,Unspecified,265500,,,,82,,For Sale,SAN MATEO
+94080,Stamford Row,,,South San Francisco,,31-Dec-69,$0 ,37.646473,-122.46836,CA,Unspecified,400000,,,,58,,For Sale,SAN MATEO
+94080,Carter Dr #104,,,South San Francisco,,31-Dec-69,$0 ,37.64894,-122.469,CA,Unspecified,421571,,,,58,,For Sale,SAN MATEO
+94080,Stonegate Dr,1,2,South San Francisco,,31-Dec-69,$0 ,37.66586,-122.42736,CA,Unspecified,432271,,,,43,,For Sale,SAN MATEO
+94080,El Camino Real,,,South San Francisco,,31-Dec-69,$0 ,37.646805,-122.42831,CA,Unspecified,438370,,,,55,,For Sale,SAN MATEO
+94080,Gellert Blvd #6412,,,South San Francisco,,31-Dec-69,$0 ,37.64856,-122.45355,CA,Unspecified,569418,,,,72,,For Sale,SAN MATEO
+94080,Hillside Blvd,1,3,South San Francisco,900 sqft,31-Dec-69,$0 ,37.666878,-122.413055,CA,Single-Family Home,608700,,,,38,,For Sale,SAN MATEO
+94080,Pointe View Pl,3,3,South San Francisco,"2,490 sqft",31-Dec-69,$0 ,37.66548,-122.4011,CA,Single-Family Home,885021,,,,55,,For Sale,SAN MATEO
+94080,Evergreen Dr,2,3,South San Francisco,"1,050 sqft",31-Dec-69,$0 ,37.665257,-122.441444,CA,Single-Family Home,617142,,,,55,,For Sale,SAN MATEO
+94080,Rosa Flora,2,3,South San Francisco,"1,880 sqft",31-Dec-69,$0 ,37.645416,-122.43143,CA,Single-Family Home,671772,,,,72,,For Sale,SAN MATEO
+94080,Valverde Dr,3,4,South San Francisco,"2,180 sqft",31-Dec-69,$0 ,37.641396,-122.44172,CA,Single-Family Home,819054,,,,35,,For Sale,SAN MATEO
+94080,Amaryllis Ct,3,4,South San Francisco,"2,440 sqft",31-Dec-69,$0 ,37.66127,-122.44694,CA,Single-Family Home,971000,,,,62,,For Sale,SAN MATEO
+94080,Almond Ave,2,3,South San Francisco,"1,210 sqft",31-Dec-69,$0 ,37.661423,-122.42301,CA,Single-Family Home,701334,,,,52,,For Sale,SAN MATEO
+94080,Cymbidium Cir,2,4,South San Francisco,"1,860 sqft",31-Dec-69,$0 ,37.662663,-122.44532,CA,Single-Family Home,925038,,,,57,,For Sale,SAN MATEO
+94080,Geddes Ct,2,3,South San Francisco,"1,530 sqft",31-Dec-69,$0 ,37.648968,-122.45775,CA,Single-Family Home,668409,,,,74,,For Sale,SAN MATEO
+94080,Westchester Ct,,,South San Francisco,,31-Dec-69,$0 ,37.64843,-122.45506,CA,Single-Family Home,582500,,,,71,,For Sale,SAN MATEO
+94080,Chapman Ave,,,South San Francisco,,31-Dec-69,$0 ,37.663826,-122.40319,CA,Unspecified,793077,,,,58,,For Sale,SAN MATEO
+94080,4th Ln,,,South San Francisco,,31-Dec-69,$0 ,37.657665,-122.41879,CA,Unspecified,737886,,,,83,,For Sale,SAN MATEO
